@@ -44,6 +44,22 @@ the mechanical half; the rest is editorial judgement.
       critics of a position are usually easier to quote than its defenders.
       *Enforced:* an argument carrying a critic's quote and no defender's fails
       the build; one with no quote at all warns.
+- [ ] **The positive case is quoted first, and at least as fully as the defensive
+      posture.** A movement's most-quoted sentence is often the one its critics
+      chose for it: the line about what it does when the data disagrees, rather
+      than the case it would lead with. Quoting only that is a strawman built
+      entirely out of true quotations, which is the hardest kind to notice and
+      the easiest kind to be caught doing.
+
+      Ask of every quotation, in writing, in the notes below: **is this the
+      sentence this camp would choose to be represented by, or the one their
+      opponents would choose for them?** If it is the second, the first is still
+      missing. Where a position has both, the positive case goes in `quote` and
+      the defensive posture in `onConflict`, which the page renders in that
+      order. *Partly enforced:* a position quoted only in `onConflict` fails the
+      build, and one that spends more words on handling contrary evidence than on
+      its own case warns. Whether the chosen sentence is the representative one
+      is a judgement no script can make.
 - [ ] Both sides carry the **same number of arguments**, somewhere in 2 to 4.
       Symmetry inside a topic is the point; sameness across topics is not.
       *Enforced.*
@@ -53,6 +69,17 @@ the mechanical half; the rest is editorial judgement.
       *Enforced.*
 - [ ] Each argument's `claim` reads as a complete one-line statement, because in
       the default view that line is the whole argument.
+- [ ] **Describe the state of the evidence, never the state of the reader.** No
+      sentence anywhere — and least of all in a `settledCore` box — may imply that
+      holding the minority view makes someone unserious. A settled-core statement
+      says who is not disputing something and in what field; it does not say
+      "nobody disputes this", which is neither what we mean nor true. Where a
+      large share of readers hold the minority view, say so with a figure and its
+      scope, and point them at where the disagreement actually lives.
+- [ ] Every topic shows `settledCore` (where it has one), "Where it stands" and
+      "The common mistake" **in the default view, never behind a disclosure**. A
+      reader who opens nothing must still get the honest summary. This is why
+      layer 1 runs to about four minutes rather than two.
 - [ ] "Where it stands" describes the state of the argument, not a verdict.
 - [ ] "The common mistake" names an error made on *both* sides, or one on each.
 - [ ] Every marked-up term has a glossary entry, and every glossary entry is used.
@@ -76,12 +103,11 @@ Three layers over one set of data:
 
 Both times are shown in the badge: "4 min, or 14 min in full".
 
-Two sections stay in layer 1 that a strict reading would push into layer 2:
-`settledCore`, because a reader who reads nothing else must not come away
-thinking the science is contested (editorial rule 3), and "Where it stands" plus
-"The common mistake", because rule 4 makes them the payoff of the page. Together
-they are about 2 of the 4 minutes. Collapsing them would hit 2 minutes exactly,
-at the cost of the two things a skimming reader most benefits from.
+`settledCore`, "Where it stands" and "The common mistake" stay in layer 1 on
+every topic, and are never put behind a disclosure. Together they are about 2 of
+the 4 minutes. Collapsing them would hit 2 minutes exactly, at the cost of the
+two things a skimming reader most benefits from — so 4 minutes is the standard,
+not a miss.
 
 ### The `context` block
 
@@ -91,13 +117,22 @@ positions, which is not a disagreement between the two sides at all. Topics 13
 and 19 are expected to want the same field. Topics that need no such section omit
 it.
 
-Each entry is a position stated by someone who holds it (`quote`) and then
-answered (`standing`, optionally with `standingQuote`). The reply lives inside
-the same disclosure as the position, so neither is read without the other.
+Each entry is a position stated by someone who holds it (`quote`), optionally
+followed by how it handles evidence against it (`onConflict`), and then answered
+(`standing`, optionally with `standingQuote`). All of it lives inside the same
+disclosure, so no part is read without the others.
+
+`onConflict` exists to keep the positive case and the defensive posture apart.
+See the second checklist rule for why that separation matters more than it
+looks.
+
+`note` carries background the positions themselves cannot: on topic 6, that
+flood geology in its modern form dates from 1961, which reframes the argument for
+most readers before they meet the four positions.
 
 ## Quotation status
 
-11 quotations on topic 6, present in all five locales. Every argument and every
+13 quotations on topic 6, present in all five locales. Every argument and every
 position is carried by someone who holds it.
 
 | Quotation | Work | Carries | Level |
@@ -106,20 +141,49 @@ position is carried by someone who holds it.
 | "I cannot persuade myself that a beneficent & omnipotent God…" | Darwin to Asa Gray, 22 May 1860 | atheist argument | corroborated |
 | "a skyhook is a 'mind-first' force…" | Dennett, *Darwin's Dangerous Idea* (1995) | atheist argument | corroborated |
 | "I am a creationist and an evolutionist…" | Dobzhansky, *American Biology Teacher* 35 (1973) | Christian argument | corroborated |
-| "it is a disgraceful and dangerous thing…" | Augustine, *De Genesi ad litteram* I.19 (c. 415) | Christian argument | corroborated |
+| "one should adhere to a particular explanation, only in such measure as to be ready to abandon it" | Aquinas, *Summa Theologiae* I q.68 a.1 (c. 1268) | Christian argument | corroborated |
 | "superficial conflict but deep concord…" | Plantinga, *Where the Conflict Really Lies* (2011), p. ix | Christian argument | corroborated |
-| "No apparent, perceived, or claimed evidence…can be valid if it contradicts…Scripture" | Answers in Genesis, *Statement of Faith* | young-earth creationism | corroborated |
+| "it is a disgraceful and dangerous thing…" | Augustine, *De Genesi ad litteram* I.19 (c. 415) | the historical note | corroborated |
+| "Billions of dead things, buried in rock layers, laid down by water, all over the earth." | Ken Ham, Answers in Genesis (2016) | young-earth: the positive case | corroborated |
+| "No apparent, perceived, or claimed evidence…can be valid if it contradicts…Scripture" | Answers in Genesis, *Statement of Faith* | young-earth: when evidence disagrees | corroborated |
 | "What is Darwinism? It is Atheism." | Hodge, *What is Darwinism?* (1874) | old-earth creationism | corroborated |
 | "By irreducibly complex I mean a single system…" | Behe, *Darwin's Black Box* (1996), p. 39 | intelligent design | corroborated |
 | "We have concluded that it is not [science]…" | *Kitzmiller v. Dover* (2005) | the reply to intelligent design | corroborated |
 | "God, who is not limited to space and time…" | Collins, *The Language of God* (2006), p. 178 | evolutionary creation | corroborated |
 
-Two quotations were dropped when the topic was shortened, and are worth placing
-where they fit better: Dawkins's "Biology is the study of complicated things that
-give the appearance of having been designed for a purpose" (*The Blind
-Watchmaker*, opening line), and Aquinas on holding a reading of Scripture "only
-in such measure as to be ready to abandon it" (*Summa Theologiae* I q.68 a.1,
-still in this topic's sources, and a natural fit for topic 14 or 19).
+One quotation was dropped when the topic was shortened and is worth placing where
+it fits better: Dawkins's "Biology is the study of complicated things that give
+the appearance of having been designed for a purpose" (*The Blind Watchmaker*,
+opening line).
+
+### Sourcing review: topic 6
+
+*Is this the sentence the camp would choose to be represented by, or the one
+their opponents would choose for them?* Answered per quotation, per the second
+checklist rule.
+
+- **Ken Ham, "billions of dead things"** — theirs. It is Answers in Genesis's own
+  most-repeated line, used in their teaching material and even set to music for
+  children. It states a positive prediction that they claim is met.
+- **AiG Statement of Faith** — *theirs, but the one critics reach for.* This is
+  the sentence most often quoted against young-earth creationism, because it
+  concedes that no evidence could count against the position. It is real,
+  published and fairly cited, but on its own it would have shown their
+  epistemology at its most vulnerable instead of their case at its strongest.
+  It is therefore in `onConflict`, after the positive case, answering "what
+  happens when the data disagrees" — which is the question it actually answers.
+  **This was the fix for a strawman assembled entirely from true quotations.**
+- **Behe on irreducible complexity** — theirs. His own definition of his own
+  central term, in the book that launched the movement.
+- **Hodge, "It is Atheism"** — his. The line is famous and adversarial in tone,
+  but Hodge chose it as the answer to his own book's title question; it is his
+  thesis, not a critic's selection.
+- **Dobzhansky, Augustine, Aquinas, Plantinga, Collins** — each argues for the
+  position it is placed on, in a work devoted to arguing for it.
+- **Dawkins, Darwin, Dennett** — same, on the atheist side.
+- **Kitzmiller v. Dover** — deliberately an opponent's words, and placed in the
+  `standingQuote` slot, which is the reply. It could not stand as the intelligent
+  design entry's only quotation, and the build now enforces that.
 
 ### Verification levels
 
@@ -134,13 +198,18 @@ prints the level rather than leaving the reader to assume:
 
 **Everything on topic 6 is currently `corroborated`, and nothing is `primary`.**
 This build environment's egress proxy allows web search but blocks direct page
-fetches, so no quotation could be read in its source. Each was checked against
+fetches, so no quotation could be read in its source — and that is a standing
+limit here, not a queue that will clear itself. Each was checked against
 several independent results naming the same work, wording, year and page. The
 build prints the mix on every run, so the number cannot quietly rot:
 
 ```
-en/06-creation-or-evolution.json   11 quotes  primary 0  corroborated 11  paraphrase 0
+en/06-creation-or-evolution.json   13 quotes  primary 0  corroborated 13  paraphrase 0
 ```
+
+`VERIFICATION.md` is the worksheet for closing that gap: one row per quotation,
+with the exact published text, the source, and the specific thing to check,
+ordered so the freely readable sources come first.
 
 Upgrading a quotation to `primary` is a one-field change once someone can open
 the book, and needs no re-audit of anything else.

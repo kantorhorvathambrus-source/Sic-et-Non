@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SideColumn from '../SideColumn.astro';
 import StatusTag from '../StatusTag.astro';
 import ContextEntry from '../ContextEntry.astro';
+import Quotation from '../Quotation.astro';
 import DisclosureControls from '../DisclosureControls.astro';
 import RichText from '../RichText.astro';
 import { homePath, mapPath, useTranslations, type Locale } from '../../i18n';
@@ -104,6 +105,16 @@ const minutes = readingTime(topic);
                 glossary={glossary}
                 class="context-intro"
               />
+            )}
+
+            {topic.context.note && (
+              <aside class="context-note">
+                <h3>{topic.context.note.heading}</h3>
+                <RichText text={topic.context.note.text} glossary={glossary} />
+                {topic.context.note.quote && (
+                  <Quotation quote={topic.context.note.quote} locale={locale} side="neutral" />
+                )}
+              </aside>
             )}
 
             <ol class="position-list">
@@ -276,6 +287,20 @@ const minutes = readingTime(topic);
     grid-row: 1;
   }
 
+  .context-note {
+    max-width: var(--measure-wide);
+    margin-bottom: var(--space-l);
+    padding: var(--space-m) var(--space-l);
+    background: var(--bg-sunken);
+    border-left: 3px solid var(--rule-strong);
+    border-radius: var(--radius);
+  }
+
+  .context-note h3 {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-xs);
+  }
+
   .context-intro {
     max-width: var(--measure-wide);
     margin-bottom: var(--space-l);
@@ -346,6 +371,7 @@ const minutes = readingTime(topic);
 
   .glossary dd {
     margin: 0;
+    min-width: 0;
     color: var(--ink-muted);
   }
 

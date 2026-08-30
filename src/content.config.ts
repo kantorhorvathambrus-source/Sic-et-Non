@@ -79,8 +79,16 @@ const side = z.object({
  * the field: the twenty topics genuinely differ, and forcing one structure onto
  * all of them would cost more than it saves.
  *
- * `quote` is the position stated by someone who holds it. `standingQuote` is the
- * reply from outside it. A position given only the reply fails the build.
+ * `quote` is the position's positive case, stated by someone who holds it.
+ * `standingQuote` is the reply from outside it. A position given only the reply
+ * fails the build.
+ *
+ * `onConflict` is separate on purpose. A movement's most-quoted line is often
+ * the one its critics chose — the sentence about what it does when the data
+ * disagrees, rather than the case it would lead with. Quoting only that is a
+ * strawman built entirely from true quotations. So the positive case goes in
+ * `quote`, the defensive posture goes here, and the page shows them in that
+ * order.
  */
 const contextEntry = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/),
@@ -89,7 +97,15 @@ const contextEntry = z.object({
   /** The position in a single line. Shown in the default view; the rest is disclosed. */
   oneLine: z.string().min(1),
   summary: z.string().min(1),
+  /** The positive case: what this position argues *for*. */
   quote: quote.optional(),
+  /** How the position handles evidence against it. Never the only voice it gets. */
+  onConflict: z
+    .object({
+      text: z.string().min(1),
+      quote: quote.optional(),
+    })
+    .optional(),
   /** Where the evidence lands on this position, said plainly. */
   standing: z.string().min(1),
   standingQuote: quote.optional(),
@@ -136,6 +152,14 @@ const topics = defineCollection({
         .object({
           heading: z.string().min(1),
           intro: z.string().optional(),
+          /** Background the positions do not carry — usually how the dispute arose. */
+          note: z
+            .object({
+              heading: z.string().min(1),
+              text: z.string().min(1),
+              quote: quote.optional(),
+            })
+            .optional(),
           entries: z.array(contextEntry).min(2),
         })
         .optional(),
@@ -201,6 +225,12 @@ const topics = defineCollection({
           fail(
             ['context', 'entries', e],
             `position "${entry.id}" is quoted only by its critics. Quote someone who holds it.`,
+          );
+        }
+        if (entry.onConflict?.quote && !entry.quote) {
+          fail(
+            ['context', 'entries', e],
+            `position "${entry.id}" is quoted only on what it does when evidence disagrees, which is the sentence its critics would choose. Quote its positive case too.`,
           );
         }
       });

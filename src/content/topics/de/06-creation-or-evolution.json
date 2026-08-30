@@ -6,7 +6,7 @@
   "category": "natural-science",
   "status": "settled-core",
   "realQuestion": "Das «oder» im Titel richtet viel Schaden an. Es lässt die Frage klingen wie eine Wahl zwischen zwei Theorien darüber, wie die Tiere hierhergekommen sind. Das ist sie nicht.\n\nOb Lebewesen [[gemeinsame Vorfahren]] haben und sich im Lauf der Zeit verändert haben, ist eine naturwissenschaftliche Frage, und die Biologie hat sie vor über hundert Jahren beantwortet. Wirklich offen ist eine andere: Wenn das Leben so geworden ist, was es ist, bleibt dann noch etwas übrig, das ein Schöpfer getan hätte?\n\nDarum geht es auf dieser Seite. Der andere Streit, um die vier Arten, wie Christen Genesis und Geologie zusammenzubringen versucht haben, ist ebenfalls echt, und er steht weiter unten. Aber er wird innerhalb des Christentums geführt, nicht zwischen Christentum und Atheismus.",
-  "settledCore": "Die heutigen Arten stammen mit Abwandlung von gemeinsamen Vorfahren ab, und die [[natürliche Selektion]], die auf vererbte Variation wirkt, ist eine Hauptursache ihrer Angepasstheit. Das ist in der Biologie nicht strittig. Der Fossilbericht, die vergleichende Anatomie, die geografische Verteilung der Arten und die unmittelbar beobachtete Evolution bei Bakterien stützen es alle, und die Genomsequenzierung erst recht, die die gemeinsame Abstammung hätte widerlegen können und sie stattdessen bis ins Einzelne bestätigt hat. Das Alter der Erde von etwa 4,5 Milliarden Jahren ruht auf derselben Art Grundlage.\n\nNichts auf dem Rest dieser Seite hängt davon ab, daran zu zweifeln, und keiner der zitierten ernsthaften Vertreter zweifelt daran. Wo eine Position hier es doch ablehnt, wird das deutlich gesagt, statt es als ausgeglichenes Kräftemessen zu inszenieren.",
+  "settledCore": "Biologen und Geologen sind darüber nicht geteilter Meinung. Die heutigen Arten stammen mit Abwandlung von gemeinsamen Vorfahren ab; die [[natürliche Selektion]], die auf vererbte Variation wirkt, ist eine Hauptursache ihrer Angepasstheit; und die Erde ist etwa 4,5 Milliarden Jahre alt. Der Fossilbericht, die vergleichende Anatomie, die geografische Verteilung der Arten und die unmittelbar beobachtete Evolution bei Bakterien stützen das, und die Genomsequenzierung erst recht, die die gemeinsame Abstammung hätte widerlegen können und sie stattdessen bis ins Einzelne bestätigt hat.\n\nDas sagt, was diese Fächer gefunden haben, und nicht, wer eine Meinung haben darf. Viele aufrichtige Christen lehnen es ab. Gallup bezifferte den Anteil erwachsener US-Amerikaner, die für die Herkunft des Menschen die Junge-Erde-Auffassung vertreten, 2024 auf 40 Prozent, nach einem Höchstwert von 47 Prozent, und diese Zahl gilt allein für die Vereinigten Staaten. Die katholische Kirche, die orthodoxen Kirchen, die Anglikanische Gemeinschaft und die großen protestantischen Kirchen, zusammen weit mehr als die Hälfte der Christen weltweit, lehren keine junge Erde.\n\nWenn du mit einer jungen Erde aufgewachsen bist, will dir hier nichts sagen, dass du außerhalb dieses Gesprächs stehst. Die vier christlichen Positionen weiter unten sind der Ort, an dem der Streit tatsächlich ausgetragen wird, und jede wird von jemandem formuliert, der sie vertritt.",
   "glossary": [
     {
       "term": "gemeinsame Vorfahren",
@@ -134,17 +134,16 @@
         {
           "id": "genesis-and-the-fathers",
           "claim": "Die Genesis als Lehrbuch der Naturkunde zu lesen, ist eine moderne Gewohnheit, nicht die überlieferte",
-          "explanation": "Die Vorstellung, der christliche Glaube verlange sechs Tage zu je vierundzwanzig Stunden, wird oft als die alte, schlichte Lesart dargestellt, die die Moderne aufgegeben habe. Historisch ist es fast umgekehrt. Augustinus argumentierte um das Jahr 415 dagegen, die Genesis als Physik zu lesen, und er sorgte sich genau um das, was später eintrat: dass Christen selbstbewusste Aussagen über die Natur machen, widerlegt werden und mit sich selbst auch den Glauben in Verruf bringen.\n\nThomas von Aquin machte daraus eine Regel. Halte eine Lesart der Schrift, schrieb er in den 1260er Jahren, aber locker genug, um sie fallen zu lassen, wenn sie als falsch erwiesen wird, damit die Schrift nicht lächerlich wird, weil sie an eine scheiternde Aussage gebunden ist.",
+          "explanation": "Die Vorstellung, der christliche Glaube verlange sechs Tage zu je vierundzwanzig Stunden, wird oft als die alte, schlichte Lesart dargestellt, die die Moderne aufgegeben habe. Historisch ist es fast umgekehrt. Augustinus argumentierte um das Jahr 415 dagegen, die Genesis als Physik zu lesen, und sorgte sich genau um das, was später eintrat: dass Christen selbstbewusste Aussagen über die Natur machen, widerlegt werden und mit sich selbst auch den Glauben in Verruf bringen.\n\nThomas von Aquin machte aus der Sorge eine Regel. Halte eine Lesart der Schrift, schrieb er in den 1260er Jahren, aber locker genug, um sie fallen zu lassen, wenn sie als falsch erwiesen wird, damit die Schrift nicht lächerlich wird, weil sie an eine scheiternde Aussage gebunden ist.",
           "quote": {
-            "text": "Nun ist es eine schändliche und gefährliche Sache, wenn ein Ungläubiger einen Christen, der angeblich den Sinn der Heiligen Schrift wiedergibt, über diese Gegenstände Unsinn reden hört; und wir sollten alles tun, um eine so peinliche Lage zu verhindern, in der man an einem Christen ungeheure Unwissenheit aufdeckt und sie verlacht.",
-            "author": "Augustine of Hippo",
-            "work": "De Genesi ad litteram (Über den Wortlaut der Genesis), engl. Übers. J. H. Taylor",
-            "year": "c. 415",
-            "locator": "Book I, ch. 19",
-            "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
+            "text": "da die Heilige Schrift in einer Vielzahl von Sinnen erklärt werden kann, soll man an einer bestimmten Erklärung nur in dem Maß festhalten, dass man bereit ist, sie aufzugeben, wenn sie mit Gewissheit als falsch erwiesen wird",
+            "author": "Thomas Aquinas",
+            "work": "Summa Theologiae I, q. 68, a. 1, engl. Übers. der Fathers of the English Dominican Province",
+            "year": "c. 1268",
+            "sourceUrl": "https://www.newadvent.org/summa/1068.htm",
             "verification": "corroborated",
             "original": {
-              "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
+              "text": "since Holy Scripture can be explained in a multiplicity of senses, one should adhere to a particular explanation, only in such measure as to be ready to abandon it, if it be proved with certainty to be false",
               "language": "en"
             }
           },
@@ -181,23 +180,56 @@
   "context": {
     "heading": "Vier christliche Positionen",
     "intro": "Der Streit zwischen diesen vieren wird innerhalb des Christentums geführt und nicht zwischen Christentum und Atheismus; deshalb steht er getrennt von den beiden Seiten oben. Jede Position wird von jemandem formuliert, der sie vertritt, und danach beantwortet.",
+    "note": {
+      "heading": "Woher dieser Streit kommt",
+      "text": "Die Sintflutgeologie ist in ihrer heutigen Form jünger, als beide Lager annehmen. Sie geht weitgehend auf The Genesis Flood zurück, 1961 von John Whitcomb und Henry Morris veröffentlicht und auf dem Siebenten-Tags-Adventisten George McCready Price aufbauend. Davor waren Alte-Erde-Lesarten unter konservativen Protestanten unauffällig: Charles Hodge und B. B. Warfield, zwei der gewichtigsten Verteidiger der biblischen Irrtumslosigkeit im neunzehnten Jahrhundert, nahmen beide eine alte Erde an.\n\nDies ist also nicht Wissenschaft gegen Christentum. Es ist eine weitgehend im zwanzigsten Jahrhundert entstandene Bewegung, die sich sowohl gegen die etablierte Wissenschaft als auch gegen den größten Teil der christlichen Geschichte stellt — was Augustinus fünfzehnhundert Jahre früher von innerhalb der Tradition angemerkt hatte.",
+      "quote": {
+        "text": "Nun ist es eine schändliche und gefährliche Sache, wenn ein Ungläubiger einen Christen, der angeblich den Sinn der Heiligen Schrift wiedergibt, über diese Gegenstände Unsinn reden hört; und wir sollten alles tun, um eine so peinliche Lage zu verhindern, in der man an einem Christen ungeheure Unwissenheit aufdeckt und sie verlacht.",
+        "author": "Augustine of Hippo",
+        "work": "De Genesi ad litteram (Über den Wortlaut der Genesis), engl. Übers. J. H. Taylor",
+        "year": "c. 415",
+        "locator": "Book I, ch. 19",
+        "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
+        "verification": "corroborated",
+        "original": {
+          "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
+          "language": "en"
+        }
+      }
+    },
     "entries": [
       {
         "id": "young-earth-creationism",
         "name": "Junge-Erde-Kreationismus",
         "heldBy": "Eine Minderheit protestantischer Christen, konzentriert in den Vereinigten Staaten; institutionell Answers in Genesis und das Institute for Creation Research.",
         "oneLine": "Genesis 1 beschreibt sechs gewöhnliche Tage vor einigen tausend Jahren, und das fossilführende Gestein wurde von der Sintflut abgelagert.",
-        "summary": "Genesis 1 beschreibt sechs gewöhnliche Tage vor einigen tausend Jahren, und die fossilführenden Gesteinsschichten wurden von der Sintflut abgelagert und nicht über Erdzeitalter.\n\nDie moderne Gestalt ist jünger, als die meisten annehmen. Der Historiker Ronald Numbers führte sie auf den Siebenten-Tags-Adventisten George McCready Price zurück und ihren Aufstieg zur fundamentalistischen Rechtgläubigkeit auf The Genesis Flood von 1961. Viele konservative Protestanten des neunzehnten Jahrhunderts nahmen eine alte Erde ohne Schwierigkeiten an.",
+        "summary": "Genesis 1 beschreibt sechs gewöhnliche Tage vor einigen tausend Jahren. Das positive Argument ist geologisch: Eine weltweite Flut wird als Erklärung der Sedimentgesteinsschichten und der Fossilien darin angeboten, die dieser Lesart nach schnell begraben wurden, statt sich über Erdzeitalter anzusammeln. Die These lautet, die Schichten seien das, was eine einjährige Katastrophe hinterlassen würde.\n\nSie unterscheidet außerdem zwischen beobachtender Wissenschaft, die an heute Messbarem arbeitet, und historischer Wissenschaft, die eine Vergangenheit rekonstruiert, die niemand gesehen hat, und ordnet die Tiefenzeit der zweiten Art zu.",
         "quote": {
-          "text": "Kein scheinbarer, wahrgenommener oder behaupteter Beleg in irgendeinem Studienfach, einschließlich Naturwissenschaft, Geschichte und Chronologie, kann gültig sein, wenn er der klaren Lehre der Schrift widerspricht, die durch historisch-grammatische Auslegung gewonnen wurde.",
-          "author": "Answers in Genesis",
-          "work": "Glaubensbekenntnis, Abschnitt über die Schrift",
-          "year": "current",
-          "sourceUrl": "https://answersingenesis.org/about/faith/",
+          "text": "Milliarden toter Dinge, begraben in Gesteinsschichten, abgelagert von Wasser, überall auf der Erde.",
+          "author": "Ken Ham",
+          "work": "Learning Paleontology from a Biblical Perspective, Answers in Genesis",
+          "year": "2016",
+          "locator": "a formulation used across Answers in Genesis material",
+          "sourceUrl": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/",
           "verification": "corroborated",
           "original": {
-            "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
+            "text": "Billions of dead things, buried in rock layers, laid down by water, all over the earth.",
             "language": "en"
+          }
+        },
+        "onConflict": {
+          "text": "Wo die Datierungsverfahren dieser Lesart widersprechen, gewinnt die Lesart. Der Junge-Erde-Kreationismus ist darin ausdrücklich und nicht ausweichend, und seine größte Organisation hält das schriftlich fest.",
+          "quote": {
+            "text": "Kein scheinbarer, wahrgenommener oder behaupteter Beleg in irgendeinem Studienfach, einschließlich Naturwissenschaft, Geschichte und Chronologie, kann gültig sein, wenn er der klaren Lehre der Schrift widerspricht, die durch historisch-grammatische Auslegung gewonnen wurde.",
+            "author": "Answers in Genesis",
+            "work": "Glaubensbekenntnis, Abschnitt über die Schrift",
+            "year": "current",
+            "sourceUrl": "https://answersingenesis.org/about/faith/",
+            "verification": "corroborated",
+            "original": {
+              "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
+              "language": "en"
+            }
           }
         },
         "standing": "Abgelehnt. Radiometrische Datierung, Eisbohrkerne, Plattentektonik, Wachstumsbänder von Korallen und die Lichtlaufzeit ferner Galaxien stimmen untereinander überein und nicht mit einer jungen Erde. Hier gibt es keinen wissenschaftlichen Streit zu berichten."
@@ -381,6 +413,19 @@
       "year": "1961",
       "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
       "note": "The book that made young-earth creationism mainstream among American fundamentalists."
+    },
+    {
+      "title": "Majority Still Credits God for Humankind, but Not Creationism",
+      "author": "Gallup",
+      "year": "2024",
+      "url": "https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx",
+      "note": "The 40 percent figure, and the trend since 1982, are from Gallup and cover United States adults only."
+    },
+    {
+      "title": "Learning Paleontology from a Biblical Perspective",
+      "author": "Ken Ham, Answers in Genesis",
+      "year": "2016",
+      "url": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/"
     }
   ]
 }

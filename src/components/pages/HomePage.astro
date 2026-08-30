@@ -149,6 +149,9 @@ const draftedCount = slugById.size;
     padding: 0;
   }
 
+  /* Exactly three children for three tracks. A fourth would auto-place into row
+     two of the 2.5rem column and render one word per line; put anything new
+     inside .title instead. scripts/layout-check.mjs fails the build if it does. */
   .topic-item {
     display: grid;
     grid-template-columns: 2.5rem 1fr auto;
@@ -165,6 +168,7 @@ const draftedCount = slugById.size;
   }
 
   .title {
+    min-width: 0;
     font-family: var(--font-display);
     font-size: var(--step-1);
     line-height: 1.3;

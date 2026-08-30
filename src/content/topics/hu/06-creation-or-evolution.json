@@ -6,7 +6,7 @@
   "category": "natural-science",
   "status": "settled-core",
   "realQuestion": "A címben szereplő „vagy” sok kárt okoz. Úgy hangzik tőle a kérdés, mintha két elmélet között kellene választani arról, hogyan kerültek ide az állatok. Nem erről van szó.\n\nAz, hogy az élőlényeknek vannak-e [[közös őseik]], és változtak-e az idők során, természettudományos kérdés, és a biológusok több mint száz éve megválaszolták. Ami valóban nyitott, az egy másik kérdés: ha így lett az élet azzá, ami, marad-e bármi, amit egy teremtő tett volna?\n\nEz ennek az oldalnak a vitája. A másik, arról a négy módról, ahogyan a keresztények a Teremtés könyvét és a geológiát próbálták összeegyeztetni, szintén valóságos, és lejjebb szerepel. De a kereszténységen belül zajlik, nem a kereszténység és az ateizmus között.",
-  "settledCore": "Az élő fajok módosulással származnak közös ősöktől, és az örökletes változatosságra ható [[természetes szelekció]] alkalmazkodásuk egyik fő oka. Ez a biológiában nem vitatott. Alátámasztja a leletanyag, az összehasonlító anatómia, a fajok földrajzi elterjedése és a baktériumokon közvetlenül megfigyelt evolúció, mindenekelőtt pedig a genomszekvenálás, amely megcáfolhatta volna a közös leszármazást, ehelyett rendkívüli részletességgel megerősítette. A Föld nagyjából 4,5 milliárd éves kora ugyanilyen alapon nyugszik.\n\nAz oldal többi részén semmi nem függ attól, hogy ezt kétségbe vonjuk, és az idézett komoly képviselők közül sem vonja kétségbe senki. Ahol egy itt szereplő álláspont mégis elutasítja, azt kimondjuk, nem pedig kiegyenlített küzdelemnek állítjuk be.",
+  "settledCore": "A biológusok és a geológusok nem oszlanak meg ebben. Az élő fajok módosulással származnak közös ősöktől; az örökletes változatosságra ható [[természetes szelekció]] alkalmazkodásuk egyik fő oka; és a Föld nagyjából 4,5 milliárd éves. Alátámasztja a leletanyag, az összehasonlító anatómia, a fajok földrajzi elterjedése és a baktériumokon közvetlenül megfigyelt evolúció, mindenekelőtt pedig a genomszekvenálás, amely megcáfolhatta volna a közös leszármazást, ehelyett rendkívüli részletességgel megerősítette.\n\nEz arról szól, mit találtak ezek a tudományterületek, nem arról, kinek van joga véleményt alkotni. Sok őszinte keresztény elutasítja. A Gallup 2024-ben 40 százalékra tette azoknak az amerikai felnőtteknek az arányát, akik a fiatal Föld szerinti emberi eredetet vallják, a korábbi 47 százalékos csúcshoz képest, és ez a szám kifejezetten az Egyesült Államokra vonatkozik. A katolikus egyház, az ortodox egyházak, az anglikán közösség és a történelmi protestáns felekezetek, együtt a világ keresztényeinek jóval több mint fele, nem tanítanak fiatal Földet.\n\nHa fiatal Földdel nőttél fel, itt semmi nem akarja azt mondani, hogy kívül állsz ezen a beszélgetésen. A lentebbi négy keresztény álláspont az, ahol a nézeteltérés valójában zajlik, és mindegyiket olyasvalaki fogalmazza meg, aki képviseli.",
   "glossary": [
     {
       "term": "közös őseik",
@@ -134,17 +134,16 @@
         {
           "id": "genesis-and-the-fathers",
           "claim": "A Teremtés könyvét természettudományos tankönyvként olvasni modern szokás, nem a hagyományos",
-          "explanation": "Azt a gondolatot, hogy a keresztény hit hat huszonnégy órás napot követel, gyakran úgy állítják be, mint a régi, egyszerű olvasatot, amelyet a modernitás feladott. Történetileg majdnem az ellenkezője igaz. Ágoston 415 körül amellett érvelt, hogy a Teremtés könyvét nem szabad fizikaként olvasni, és pontosan attól tartott, ami később bekövetkezett: hogy keresztények magabiztos állításokat tesznek a természetről, kiderül róluk, hogy tévedtek, és magukkal együtt a hitet is lejáratják.\n\nAquinói Tamás szabályt csinált belőle. Tartsd a Szentírás egy olvasatát, írta az 1260-as években, de olyan lazán, hogy el tudd engedni, ha hamisnak bizonyul, nehogy a Szentírás nevetségessé váljék egy megbukó állításhoz kötve.",
+          "explanation": "Azt a gondolatot, hogy a keresztény hit hat huszonnégy órás napot követel, gyakran úgy állítják be, mint a régi, egyszerű olvasatot, amelyet a modernitás feladott. Történetileg majdnem az ellenkezője igaz. Ágoston 415 körül amellett érvelt, hogy a Teremtés könyvét nem szabad fizikaként olvasni, és pontosan attól tartott, ami később bekövetkezett: hogy keresztények magabiztos állításokat tesznek a természetről, kiderül róluk, hogy tévedtek, és magukkal együtt a hitet is lejáratják.\n\nAquinói Tamás szabályt csinált az aggodalomból. Tartsd a Szentírás egy olvasatát, írta az 1260-as években, de olyan lazán, hogy el tudd engedni, ha hamisnak bizonyul, nehogy a Szentírás nevetségessé váljék egy megbukó állításhoz kötve.",
           "quote": {
-            "text": "Márpedig szégyenletes és veszedelmes dolog, ha egy hitetlen olyan keresztényt hall, aki állítólag a Szentírás értelmét adja vissza, és közben ezekről a tárgyakról képtelenségeket beszél; és mindent meg kellene tennünk, hogy elkerüljük ezt a kínos helyzetet, amelyben egy keresztényről óriási tudatlanság derül ki, és kinevetik érte.",
-            "author": "Augustine of Hippo",
-            "work": "De Genesi ad litteram (A Teremtés könyvének szó szerinti értelméről), J. H. Taylor angol fordítása",
-            "year": "c. 415",
-            "locator": "Book I, ch. 19",
-            "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
+            "text": "mivel a Szentírás sokféle értelemben magyarázható, egy adott magyarázathoz csak olyan mértékben szabad ragaszkodni, hogy készen álljunk elhagyni, ha bizonyossággal hamisnak bizonyul",
+            "author": "Thomas Aquinas",
+            "work": "Summa Theologiae I, q. 68, a. 1, a Fathers of the English Dominican Province angol fordítása",
+            "year": "c. 1268",
+            "sourceUrl": "https://www.newadvent.org/summa/1068.htm",
             "verification": "corroborated",
             "original": {
-              "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
+              "text": "since Holy Scripture can be explained in a multiplicity of senses, one should adhere to a particular explanation, only in such measure as to be ready to abandon it, if it be proved with certainty to be false",
               "language": "en"
             }
           },
@@ -181,23 +180,56 @@
   "context": {
     "heading": "Négy keresztény álláspont",
     "intro": "Az e négy közötti vita a kereszténységen belül zajlik, nem a kereszténység és az ateizmus között, ezért szerepel külön a fenti két oldaltól. Minden álláspontot olyasvalaki fogalmaz meg, aki képviseli, és utána válaszolunk rá.",
+    "note": {
+      "heading": "Honnan ered ez a nézeteltérés",
+      "text": "Az özönvízgeológia mai formájában fiatalabb, mint azt mindkét oldalon gondolni szokták. Nagyrészt a The Genesis Floodból ered, amelyet John Whitcomb és Henry Morris adott ki 1961-ben, a hetednapi adventista George McCready Price munkájára építve. Azelőtt az idős Föld-olvasatok nem számítottak feltűnőnek a konzervatív protestánsok között: Charles Hodge és B. B. Warfield, a bibliai tévedhetetlenség két legtekintélyesebb tizenkilencedik századi védelmezője, egyaránt elfogadta az idős Földet.\n\nEz tehát nem a tudomány a kereszténység ellen. Ez egy jórészt huszadik századi mozgalom, amely szembehelyezkedik a fősodratú tudománnyal és a keresztény történelem nagyobb részével is — amire Ágoston ezerötszáz évvel korábban, a hagyományon belülről mutatott rá.",
+      "quote": {
+        "text": "Márpedig szégyenletes és veszedelmes dolog, ha egy hitetlen olyan keresztényt hall, aki állítólag a Szentírás értelmét adja vissza, és közben ezekről a tárgyakról képtelenségeket beszél; és mindent meg kellene tennünk, hogy elkerüljük ezt a kínos helyzetet, amelyben egy keresztényről óriási tudatlanság derül ki, és kinevetik érte.",
+        "author": "Augustine of Hippo",
+        "work": "De Genesi ad litteram (A Teremtés könyvének szó szerinti értelméről), J. H. Taylor angol fordítása",
+        "year": "c. 415",
+        "locator": "Book I, ch. 19",
+        "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
+        "verification": "corroborated",
+        "original": {
+          "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
+          "language": "en"
+        }
+      }
+    },
     "entries": [
       {
         "id": "young-earth-creationism",
         "name": "Fiatal Föld-kreacionizmus",
         "heldBy": "A protestáns keresztények kisebbsége, főként az Egyesült Államokban; intézményesen az Answers in Genesis és az Institute for Creation Research.",
         "oneLine": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt, a kövületes kőzetet pedig Noé özönvize rakta le.",
-        "summary": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt, a kövületeket tartalmazó kőzetrétegeket pedig Noé özönvize rakta le, nem pedig korszakok.\n\nMai formája újabb keletű, mint sokan gondolnák. Ronald Numbers tudománytörténész a hetednapi adventista George McCready Price-ig vezette vissza, fundamentalista ortodoxiává válását pedig a The Genesis Flood 1961-es megjelenéséig. A tizenkilencedik századi konzervatív protestánsok közül sokan minden nehézség nélkül elfogadták az idős Földet.",
+        "summary": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt. A pozitív érv geológiai: egy világméretű özönvizet kínál az üledékes kőzetrétegek és a bennük lévő kövületek magyarázataként, amelyek e szerint az olvasat szerint gyorsan temetődtek be, nem pedig korszakok alatt halmozódtak fel. Az állítás az, hogy a rétegek azt mutatják, amit egy egyéves katasztrófa hagyna maga után.\n\nEmellett különbséget tesz a megfigyelő tudomány között, amely ma is mérhető dolgokon dolgozik, és a történeti tudomány között, amely olyan múltat rekonstruál, amelyet senki nem látott, és azt állítja, hogy a mélyidő a másodikhoz tartozik.",
         "quote": {
-          "text": "Semmilyen látszólagos, vélt vagy állított bizonyíték egyetlen tudományterületen sem, beleértve a természettudományt, a történelmet és a kronológiát, nem lehet érvényes, ha ellentmond a Szentírás világos tanításának, amelyet történeti-nyelvtani értelmezéssel nyerünk.",
-          "author": "Answers in Genesis",
-          "work": "Hitvallás, a Szentírásról szóló szakasz",
-          "year": "current",
-          "sourceUrl": "https://answersingenesis.org/about/faith/",
+          "text": "Halott dolgok milliárdjai, kőzetrétegekbe temetve, víz által lerakva, szerte a földön.",
+          "author": "Ken Ham",
+          "work": "Learning Paleontology from a Biblical Perspective, Answers in Genesis",
+          "year": "2016",
+          "locator": "a formulation used across Answers in Genesis material",
+          "sourceUrl": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/",
           "verification": "corroborated",
           "original": {
-            "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
+            "text": "Billions of dead things, buried in rock layers, laid down by water, all over the earth.",
             "language": "en"
+          }
+        },
+        "onConflict": {
+          "text": "Ahol a kormeghatározási módszerek ellentmondanak ennek az olvasatnak, az olvasat győz. A fiatal Föld-kreacionizmus ezt kimondja, nem kerülgeti, és a legnagyobb szervezete írásba is foglalja.",
+          "quote": {
+            "text": "Semmilyen látszólagos, vélt vagy állított bizonyíték egyetlen tudományterületen sem, beleértve a természettudományt, a történelmet és a kronológiát, nem lehet érvényes, ha ellentmond a Szentírás világos tanításának, amelyet történeti-nyelvtani értelmezéssel nyerünk.",
+            "author": "Answers in Genesis",
+            "work": "Hitvallás, a Szentírásról szóló szakasz",
+            "year": "current",
+            "sourceUrl": "https://answersingenesis.org/about/faith/",
+            "verification": "corroborated",
+            "original": {
+              "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
+              "language": "en"
+            }
           }
         },
         "standing": "Elutasítva. A radiometrikus kormeghatározás, a jégfuratminták, a lemeztektonika, a korallok növekedési gyűrűi és a távoli galaxisok fényének terjedési ideje egymással egybehangzanak, a fiatal Földdel viszont nem. Itt nincs tudományos vita, amiről beszámolhatnánk."
@@ -381,6 +413,19 @@
       "year": "1961",
       "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
       "note": "The book that made young-earth creationism mainstream among American fundamentalists."
+    },
+    {
+      "title": "Majority Still Credits God for Humankind, but Not Creationism",
+      "author": "Gallup",
+      "year": "2024",
+      "url": "https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx",
+      "note": "The 40 percent figure, and the trend since 1982, are from Gallup and cover United States adults only."
+    },
+    {
+      "title": "Learning Paleontology from a Biblical Perspective",
+      "author": "Ken Ham, Answers in Genesis",
+      "year": "2016",
+      "url": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/"
     }
   ]
 }

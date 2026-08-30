@@ -45,6 +45,18 @@ const t = useTranslations(locale);
 
     {entry.quote && <Quotation quote={entry.quote} locale={locale} side="neutral" />}
 
+    {
+      entry.onConflict && (
+        <div class="on-conflict">
+          <p class="field-label">{t('context.onConflict')}</p>
+          <RichText text={entry.onConflict.text} glossary={glossary} />
+          {entry.onConflict.quote && (
+            <Quotation quote={entry.onConflict.quote} locale={locale} side="neutral" />
+          )}
+        </div>
+      )
+    }
+
     <div class="standing">
       <p class="field-label">{t('context.standing')}</p>
       <RichText text={entry.standing} glossary={glossary} />
@@ -85,6 +97,7 @@ const t = useTranslations(locale);
 
   .head {
     flex: 1;
+    min-width: 0;
   }
 
   h3 {
@@ -138,6 +151,16 @@ const t = useTranslations(locale);
   }
 
   .held-by {
+    font-size: var(--step--1);
+    color: var(--ink-muted);
+  }
+
+  /* The positive case comes first and unmarked; how the position handles
+     contrary evidence is a separate, later question, not its argument. */
+  .on-conflict {
+    margin-top: var(--space-m);
+    padding-top: var(--space-m);
+    border-top: var(--hairline) solid var(--rule);
     font-size: var(--step--1);
     color: var(--ink-muted);
   }

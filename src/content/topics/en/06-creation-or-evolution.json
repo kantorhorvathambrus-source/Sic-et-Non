@@ -6,7 +6,7 @@
   "category": "natural-science",
   "status": "settled-core",
   "realQuestion": "The word \"or\" in the title does a lot of damage. It makes this sound like a choice between two theories of how animals got here. It is not.\n\nWhether living things share [[common ancestry]] and changed over time is a scientific question, and biologists answered it more than a century ago. What is genuinely open is a different question: if that is how life came to be as it is, does anything remain for a creator to have done?\n\nThat is the argument on this page. The other argument, about the four ways Christians have tried to fit Genesis and geology together, is real too, and it is set out further down. But it happens inside Christianity, not between Christianity and atheism.",
-  "settledCore": "Living species descend, with modification, from shared ancestors, and [[natural selection]] acting on inherited variation is a principal cause of their adaptation. This is not contested in biology. The fossil record, comparative anatomy, the geographic spread of species and directly observed evolution in bacteria all support it, and so above all does genome sequencing, which could have falsified common ancestry and instead confirmed it in enormous detail. The age of the Earth, about 4.5 billion years, rests on the same kind of footing.\n\nNothing on the rest of this page depends on doubting that, and none of the serious defenders quoted below does. Where a position here does reject it, that is said plainly rather than staged as an even contest.",
+  "settledCore": "Biologists and geologists are not divided about this. Living species descend, with modification, from shared ancestors; [[natural selection]] acting on inherited variation is a principal cause of their adaptation; and the Earth is about 4.5 billion years old. The fossil record, comparative anatomy, the geographic spread of species and directly observed evolution in bacteria all support it, and so above all does genome sequencing, which could have falsified common ancestry and instead confirmed it in enormous detail.\n\nThat is a statement about what those fields have found, not about who is entitled to an opinion. Many sincere Christians reject it. Gallup put the share of American adults holding the young-earth view of human origins at 40 percent in 2024, down from a peak of 47 percent — and that figure is specific to the United States. The Catholic Church, the Orthodox churches, the Anglican Communion and the mainline Protestant denominations, together well over half the world's Christians, do not teach a young Earth.\n\nIf you were raised with a young Earth, nothing here is meant to tell you that you are outside this conversation. The four Christian positions further down are where the disagreement actually lives, and each one is stated by somebody who holds it.",
   "glossary": [
     {
       "term": "common ancestry",
@@ -118,14 +118,13 @@
         {
           "id": "genesis-and-the-fathers",
           "claim": "Reading Genesis as a science textbook is a modern habit, not the traditional one",
-          "explanation": "The idea that Christian faith requires six twenty-four-hour days is often presented as the old, plain reading that modernity abandoned. Historically it is close to the reverse. Augustine argued around the year 415 against reading Genesis as physics, and he was worried about exactly what later happened: Christians making confident claims about nature, being shown wrong, and discrediting the faith along with themselves.\n\nAquinas made it a rule. Hold a reading of Scripture, he wrote in the 1260s, but loosely enough to drop it if it is proved false, so that Scripture is not made ridiculous by being tied to a claim that fails.",
+          "explanation": "The idea that Christian faith requires six twenty-four-hour days is often presented as the old, plain reading that modernity abandoned. Historically it is close to the reverse. Augustine argued around the year 415 against reading Genesis as physics, worried about exactly what later happened: Christians making confident claims about nature, being shown wrong, and discrediting the faith along with themselves.\n\nAquinas turned the worry into a rule. Hold a reading of Scripture, he wrote in the 1260s, but hold it loosely enough to drop it if it is proved false — precisely so that Scripture is not made ridiculous by being tied to a claim that fails.",
           "quote": {
-            "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
-            "author": "Augustine of Hippo",
-            "work": "De Genesi ad litteram (The Literal Meaning of Genesis), tr. J. H. Taylor",
-            "year": "c. 415",
-            "locator": "Book I, ch. 19",
-            "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
+            "text": "since Holy Scripture can be explained in a multiplicity of senses, one should adhere to a particular explanation, only in such measure as to be ready to abandon it, if it be proved with certainty to be false",
+            "author": "Thomas Aquinas",
+            "work": "Summa Theologiae I, q. 68, a. 1, tr. Fathers of the English Dominican Province",
+            "year": "c. 1268",
+            "sourceUrl": "https://www.newadvent.org/summa/1068.htm",
             "verification": "corroborated"
           },
           "counter": {
@@ -157,20 +156,45 @@
   "context": {
     "heading": "Four Christian positions",
     "intro": "The disagreement between these four runs inside Christianity rather than between Christianity and atheism, which is why it sits apart from the two sides above. Each position is stated by someone who holds it, and then answered.",
+    "note": {
+      "heading": "Where this disagreement came from",
+      "text": "Flood geology in its modern form is younger than people on either side tend to assume. It runs largely from The Genesis Flood, published by John Whitcomb and Henry Morris in 1961 and building on the Seventh-day Adventist writer George McCready Price. Before that, old-earth readings were unremarkable among conservative Protestants: Charles Hodge and B. B. Warfield, two of the most formidable nineteenth-century defenders of biblical inerrancy, both accepted an ancient Earth.\n\nSo this is not science against Christianity. It is a largely twentieth-century movement standing against both mainstream science and most of Christian history — a point Augustine had made from inside the tradition fifteen hundred years earlier.",
+      "quote": {
+        "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
+        "author": "Augustine of Hippo",
+        "work": "De Genesi ad litteram (The Literal Meaning of Genesis), tr. J. H. Taylor",
+        "year": "c. 415",
+        "locator": "Book I, ch. 19",
+        "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
+        "verification": "corroborated"
+      }
+    },
     "entries": [
       {
         "id": "young-earth-creationism",
         "name": "Young-earth creationism",
         "heldBy": "A minority of Protestant Christians, concentrated in the United States; institutionally Answers in Genesis and the Institute for Creation Research.",
         "oneLine": "Genesis 1 describes six ordinary days a few thousand years ago, and the fossil-bearing rock was laid down by Noah's flood.",
-        "summary": "Genesis 1 describes six ordinary days a few thousand years ago, and the fossil-bearing rock layers were laid down by Noah's flood rather than over aeons.\n\nIts modern form is more recent than most people assume. Historian Ronald Numbers traced it to the Seventh-day Adventist writer George McCready Price, and its arrival as fundamentalist orthodoxy to The Genesis Flood in 1961. Many conservative Protestants in the nineteenth century accepted an old Earth without difficulty.",
+        "summary": "Genesis 1 describes six ordinary days a few thousand years ago. The positive case is geological: a global flood is offered as the explanation of the sedimentary rock layers and of the fossils in them, which on this reading were buried fast rather than accumulating over aeons. The argument is that the strata are what a year-long catastrophe would leave behind.\n\nIt also draws a distinction between observational science, done on things you can measure now, and historical science, which reconstructs a past nobody witnessed — and argues that deep time belongs to the second kind.",
         "quote": {
-          "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
-          "author": "Answers in Genesis",
-          "work": "Statement of Faith, section on Scripture",
-          "year": "current",
-          "sourceUrl": "https://answersingenesis.org/about/faith/",
+          "text": "Billions of dead things, buried in rock layers, laid down by water, all over the earth.",
+          "author": "Ken Ham",
+          "work": "Learning Paleontology from a Biblical Perspective, Answers in Genesis",
+          "year": "2016",
+          "locator": "a formulation used across Answers in Genesis material",
+          "sourceUrl": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/",
           "verification": "corroborated"
+        },
+        "onConflict": {
+          "text": "Where the dating methods disagree with that reading, the reading wins. Young-earth creationism is explicit about this rather than evasive, and its largest advocacy organisation puts the principle in writing.",
+          "quote": {
+            "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
+            "author": "Answers in Genesis",
+            "work": "Statement of Faith, section on Scripture",
+            "year": "current",
+            "sourceUrl": "https://answersingenesis.org/about/faith/",
+            "verification": "corroborated"
+          }
         },
         "standing": "Rejected. Radiometric dating, ice cores, plate tectonics, coral growth bands and light travel time from distant galaxies agree with each other and not with a young Earth. There is no scientific dispute here to report."
       },
@@ -337,6 +361,19 @@
       "year": "1961",
       "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
       "note": "The book that made young-earth creationism mainstream among American fundamentalists."
+    },
+    {
+      "title": "Majority Still Credits God for Humankind, but Not Creationism",
+      "author": "Gallup",
+      "year": "2024",
+      "url": "https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx",
+      "note": "The 40 percent figure, and the trend since 1982, are from Gallup and cover United States adults only."
+    },
+    {
+      "title": "Learning Paleontology from a Biblical Perspective",
+      "author": "Ken Ham, Answers in Genesis",
+      "year": "2016",
+      "url": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/"
     }
   ]
 }

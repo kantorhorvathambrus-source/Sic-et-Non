@@ -75,6 +75,16 @@ const out = {
     ...source.context,
     heading: need(t.context?.heading, 'context.heading'),
     intro: source.context.intro ? need(t.context?.intro, 'context.intro') : undefined,
+    note: source.context.note && {
+      ...source.context.note,
+      heading: need(t.context?.note?.heading, 'context.note.heading'),
+      text: need(t.context?.note?.text, 'context.note.text'),
+      quote: translateQuote(
+        source.context.note.quote,
+        t.context?.note?.quote,
+        t.context?.note?.work,
+      ),
+    },
     entries: source.context.entries.map((entry, e) => {
       const tr = need(t.context?.entries?.[e], `context.entries[${e}]`);
       if (tr.id !== entry.id) {
@@ -88,6 +98,15 @@ const out = {
         summary: need(tr.summary, 'summary'),
         standing: need(tr.standing, 'standing'),
         quote: translateQuote(entry.quote, tr.quote, tr.work),
+        onConflict: entry.onConflict && {
+          ...entry.onConflict,
+          text: need(tr.onConflict?.text, `context.entries[${e}].onConflict.text`),
+          quote: translateQuote(
+            entry.onConflict.quote,
+            tr.onConflict?.quote,
+            tr.onConflict?.work,
+          ),
+        },
         standingQuote: translateQuote(entry.standingQuote, tr.standingQuote, tr.standingWork),
       };
     }),

@@ -25,7 +25,7 @@
   "status.label": "Estado",
   "topic.number": "Tema {n}",
   "topic.realQuestion": "La pregunta de fondo",
-  "topic.settledCore": "Lo que no está en disputa",
+  "topic.settledCore": "Qué dice la ciencia",
   "topic.sides": "Los dos lados",
   "topic.whereItStands": "Cómo está la cuestión",
   "topic.commonMistake": "El error más común",
@@ -64,5 +64,6 @@
   "topic.readingTime.layered": "{summary} min, o {full} min completo",
   "argument.expand": "Leer el argumento completo",
   "context.heldBy": "Quiénes la sostienen",
-  "context.standing": "Qué dicen las pruebas"
+  "context.standing": "Qué dicen las pruebas",
+  "context.onConflict": "Cuando las pruebas no concuerdan"
 }

@@ -25,7 +25,7 @@
   "status.label": "Status",
   "topic.number": "Thema {n}",
   "topic.realQuestion": "Die eigentliche Frage",
-  "topic.settledCore": "Was nicht strittig ist",
+  "topic.settledCore": "Wie die Wissenschaft dazu steht",
   "topic.sides": "Die beiden Seiten",
   "topic.whereItStands": "Wie es um die Frage steht",
   "topic.commonMistake": "Der häufigste Fehler",
@@ -64,5 +64,6 @@
   "topic.readingTime.layered": "{summary} Min., vollständig {full} Min.",
   "argument.expand": "Das Argument vollständig lesen",
   "context.heldBy": "Wer sie vertritt",
-  "context.standing": "Was die Befunde sagen"
+  "context.standing": "Was die Befunde sagen",
+  "context.onConflict": "Wenn die Befunde widersprechen"
 }

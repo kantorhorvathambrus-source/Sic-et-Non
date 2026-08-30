@@ -24,6 +24,11 @@ const errors = [];
 const warnings = [];
 const tally = new Map();
 
+function words(text) {
+  const value = String(text ?? '').trim();
+  return value ? value.split(/\s+/).length : 0;
+}
+
 function fail(file, path, message) {
   errors.push(`${file}\n    at ${path}\n    ${message}`);
 }
@@ -201,19 +206,53 @@ for (const full of files) {
     if (entry.quote) checkQuote(file, `${base}.quote`, entry.quote);
     if (entry.standingQuote) checkQuote(file, `${base}.standingQuote`, entry.standingQuote);
 
+    if (entry.onConflict) {
+      checkTerms(file, `${base}.onConflict.text`, entry.onConflict.text ?? '', glossary, usedTerms);
+      if (entry.onConflict.quote) checkQuote(file, `${base}.onConflict.quote`, entry.onConflict.quote);
+    }
+
     if (entry.standingQuote && !entry.quote) {
       fail(
         file,
         base,
         `position "${entry.id}" is quoted only by its critics. Quote someone who holds it.`,
       );
+    } else if (entry.onConflict?.quote && !entry.quote) {
+      fail(
+        file,
+        base,
+        `position "${entry.id}" is quoted only on what it does when the evidence disagrees — ` +
+          `the sentence its critics would choose for it. Quote its positive case too.`,
+      );
     } else if (!entry.quote) {
       warn(file, base, `position "${entry.id}" has no quotation from anyone who holds it.`);
+    }
+
+    // "Quoted first and at least as fully" is about the weight each gets, not
+    // the length of one sentence: a short, punchy positive quote is fine if the
+    // case around it is the fuller treatment. So compare the whole blocks.
+    if (entry.quote && entry.onConflict) {
+      const positive = words(entry.summary) + words(entry.quote.text);
+      const defensive = words(entry.onConflict.text) + words(entry.onConflict.quote?.text);
+      if (defensive > positive) {
+        warn(
+          file,
+          base,
+          `position "${entry.id}" gives ${defensive} words to how it handles contrary evidence ` +
+            `and only ${positive} to its own case. The positive case should be at least as full.`,
+        );
+      }
     }
   });
 
   if (topic.context) {
     checkTerms(file, 'context.intro', topic.context.intro ?? '', glossary, usedTerms);
+    if (topic.context.note) {
+      checkTerms(file, 'context.note.text', topic.context.note.text ?? '', glossary, usedTerms);
+      if (topic.context.note.quote) {
+        checkQuote(file, 'context.note.quote', topic.context.note.quote);
+      }
+    }
   }
 
   // A glossary entry nobody marked up is dead weight the reader never sees.
@@ -246,8 +285,14 @@ for (const full of files) {
         if (argument.counter?.quote) collect.push([`counter quote (${argument.id})`, argument.counter.quote]);
       }
     }
+    if (topic.context?.note?.quote) {
+      collect.push(['context note quote', topic.context.note.quote]);
+    }
     for (const entry of (topic.context ?? {}).entries ?? []) {
       if (entry.quote) collect.push([`quote (${entry.id})`, entry.quote]);
+      if (entry.onConflict?.quote) {
+        collect.push([`on-conflict quote (${entry.id})`, entry.onConflict.quote]);
+      }
       if (entry.standingQuote) collect.push([`standing quote (${entry.id})`, entry.standingQuote]);
     }
     for (const [label, quote] of collect) {

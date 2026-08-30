@@ -25,7 +25,7 @@
   "status.label": "Statut",
   "topic.number": "Sujet {n}",
   "topic.realQuestion": "La vraie question",
-  "topic.settledCore": "Ce qui n'est pas en débat",
+  "topic.settledCore": "Où en est la science",
   "topic.sides": "Les deux camps",
   "topic.whereItStands": "Où en est la question",
   "topic.commonMistake": "L'erreur la plus fréquente",
@@ -64,5 +64,6 @@
   "topic.readingTime.layered": "{summary} min, ou {full} min en entier",
   "argument.expand": "Lire l'argument en entier",
   "context.heldBy": "Qui la défend",
-  "context.standing": "Ce que disent les preuves"
+  "context.standing": "Ce que disent les preuves",
+  "context.onConflict": "Quand les preuves ne concordent pas"
 }

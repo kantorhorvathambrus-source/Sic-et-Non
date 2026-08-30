@@ -25,7 +25,7 @@
   "status.label": "Állapot",
   "topic.number": "{n}. téma",
   "topic.realQuestion": "A valódi kérdés",
-  "topic.settledCore": "Ami nem vitatott",
+  "topic.settledCore": "Hol tart a tudomány",
   "topic.sides": "A két oldal",
   "topic.whereItStands": "Hol tart a kérdés",
   "topic.commonMistake": "A leggyakoribb hiba",
@@ -64,5 +64,6 @@
   "topic.readingTime.layered": "{summary} perc, teljesen {full} perc",
   "argument.expand": "Az érv elolvasása teljes egészében",
   "context.heldBy": "Kik képviselik",
-  "context.standing": "Mit mondanak a bizonyítékok"
+  "context.standing": "Mit mondanak a bizonyítékok",
+  "context.onConflict": "Amikor a bizonyítékok ellentmondanak"
 }

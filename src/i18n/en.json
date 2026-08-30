@@ -25,7 +25,7 @@
   "status.label": "Status",
   "topic.number": "Topic {n}",
   "topic.realQuestion": "The real question",
-  "topic.settledCore": "What is not in dispute",
+  "topic.settledCore": "Where the science stands",
   "topic.sides": "The two sides",
   "topic.whereItStands": "Where it stands",
   "topic.commonMistake": "The common mistake",
@@ -64,5 +64,6 @@
   "topic.readingTime.layered": "{summary} min, or {full} min in full",
   "argument.expand": "Read this argument in full",
   "context.heldBy": "Held by",
-  "context.standing": "Where the evidence stands"
+  "context.standing": "Where the evidence stands",
+  "context.onConflict": "When the evidence disagrees"
 }
