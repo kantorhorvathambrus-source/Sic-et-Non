@@ -116,7 +116,8 @@
             }
           },
           "counter": {
-            "objection": "Transformer une méthode qui réussit en une affirmation sur tout ce qui existe est un pari philosophique, pas un résultat scientifique. Dennett appelle sa propre idée un acide universel qui ronge tous les concepts traditionnels, et un acide qui dissout tout, y compris la fiabilité de l'esprit qui dissout, demande à être manié avec précaution.",
+            "objection": "Transformer une méthode qui réussit en une affirmation sur tout ce qui existe est un pari philosophique, pas un résultat scientifique — et ce sont des athées qui acceptent entièrement la biologie de l'évolution et refusent l'extension métaphysique qui pressent le plus fort cette objection. Dennett appelle sa propre idée un acide universel qui ronge tous les concepts traditionnels, et un acide qui dissout tout, y compris la fiabilité de l'esprit qui dissout, demande à être manié avec précaution.",
+            "objectionFrom": "within",
             "response": "C'est un pari, mais un pari qui rapporte depuis deux siècles. Le pari inverse perd du terrain depuis tout ce temps."
           }
         }
@@ -165,7 +166,8 @@
             }
           },
           "counter": {
-            "objection": "C'est commode. Une fois la science établie, on découvre que le texte avait toujours voulu dire quelque chose de compatible avec elle. Une lecture capable d'absorber n'importe quel résultat n'est mise à l'épreuve par rien.",
+            "objection": "C'est commode, et la version la plus tranchante du reproche vient non pas des athées mais d'autres chrétiens : les créationnistes de la jeune terre soutiennent qu'une fois la science établie, on découvre que le texte avait toujours voulu dire quelque chose de compatible avec elle. Une lecture capable d'absorber n'importe quel résultat n'est mise à l'épreuve par rien.",
+            "objectionFrom": "both",
             "response": "Les dates rendent cela difficile à soutenir. Augustin a écrit douze siècles avant la géologie et quatorze avant Darwin, sans aucun résultat scientifique à accommoder. Si la réinterprétation était opportuniste, elle ne devrait pas précéder la pression de plus d'un millénaire."
           }
         },

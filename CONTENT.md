@@ -197,6 +197,67 @@ looks.
 flood geology in its modern form dates from 1961, which reframes the argument for
 most readers before they meet the four positions.
 
+## What the reader's eye actually gets
+
+Everything above is about which sentences we print. This section is about
+whether they can be read, and it is here because both entries are cases where a
+number we trusted was not measuring what we thought.
+
+### `ch` is not a character
+
+The measure was first capped at `74ch`, on the reading that `ch` is one
+character. It is not: `ch` is the advance width of the digit "0", about 0.6em in
+Inter, while the conventional characters-per-line figure assumes an average
+glyph nearer 0.5em. A `74ch` column measured as **89 characters**, well past the
+65-75 target, and nothing complained because the checker was applying the same
+0.5em assumption to its own output. The cap came down to `60ch`, about 72
+characters.
+
+### One measure cannot serve two typefaces
+
+The `ch` fix was still wrong, in a way that only showed when the checker stopped
+estimating. `scripts/layout-check.mjs` had been dividing each block's width by
+`fontSize * 0.5` — the same average-glyph assumption. It now lays each block's
+own text out on one line in that block's own computed font and divides by the
+character count, which is the real average advance for that face, that size and
+that language.
+
+Measured that way, over every block on the site in all five locales:
+
+| Face | Average character | Blocks measured |
+|---|---|---|
+| Inter (body) | 0.467-0.479em | 633 |
+| EB Garamond (display) | 0.361-0.372em | 212 |
+
+The display face is about 22% narrower per character, so one cap cannot serve
+both. The estimate had been reporting every Garamond block roughly 28% narrower
+than it really was, and it was hiding a live overrun: the footer tagline, the
+only Garamond prose in the footer, carried its own `max-width: var(--measure-prose)`
+that beat the global cap on specificity and ran to **97 characters** in Spanish
+and French. English never tripped it, because English says the same thing in
+fewer letters.
+
+The cap is now per face and expressed in em, aimed at 70 characters: 33em for
+Inter, 26em for EB Garamond. `--measure-text` inherits and is declared wherever
+the face is declared; `scripts/style-check.mjs` fails the build if the two are
+ever separated, or if running text is capped with a container width again.
+
+### The band, as measured
+
+| Face | en | es | fr | de | hu |
+|---|---|---|---|---|---|
+| Inter (body) | 56-73 | 54-75 | 55-75 | 53-72 | 53-75 |
+| EB Garamond (display) | 51-68 | 51-74 | 51-74 | 50-74 | 52-74 |
+
+**50 to 75 characters** across both faces and all five languages. The narrow end
+is claim headings and short captions, which are meant to be short. The earlier
+figure of 42-76 was an artefact of the flat 0.5em estimate and should not be
+compared against this one.
+
+The rule underneath: **a number is only a measurement if it was measured.** Both
+of these were assumptions wearing a measurement's clothes, and both survived
+because the checker shared the assumption it was supposed to test.
+
 ## Quotation status
 
 13 quotations on topic 6, present in all five locales. Every argument and every

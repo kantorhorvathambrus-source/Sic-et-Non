@@ -197,6 +197,32 @@ function inspect({ minWidth, minWords, maxChars, minRatio }) {
     return (el.textContent ?? '').trim().replace(/\s+/g, ' ').slice(0, 70);
   }
 
+  // One offscreen ruler, reused: its font is reset per measurement.
+  const ruler = document.createElement('span');
+  ruler.setAttribute('aria-hidden', 'true');
+  ruler.style.cssText =
+    'position:absolute;left:-99999px;top:0;white-space:pre;visibility:hidden;' +
+    'padding:0;border:0;margin:0;';
+  document.body.appendChild(ruler);
+  const advanceCache = new Map();
+
+  function averageAdvance(el, style, fontPx) {
+    const text = (el.textContent || '').replace(/\s+/g, ' ').trim();
+    // Nothing to measure: fall back to the old constant rather than divide by 0.
+    if (text.length < 12) return fontPx * 0.5;
+    const sample = text.slice(0, 400);
+    const key = `${style.fontFamily}|${style.fontWeight}|${style.fontStyle}|${style.fontSize}|${style.letterSpacing}|${sample}`;
+    const hit = advanceCache.get(key);
+    if (hit !== undefined) return hit;
+    ruler.style.font = `${style.fontStyle} ${style.fontWeight} ${style.fontSize}/1 ${style.fontFamily}`;
+    ruler.style.letterSpacing = style.letterSpacing;
+    ruler.style.fontVariationSettings = style.fontVariationSettings;
+    ruler.textContent = sample;
+    const advance = ruler.getBoundingClientRect().width / sample.length || fontPx * 0.5;
+    advanceCache.set(key, advance);
+    return advance;
+  }
+
   const squeezed = [];
   const tooWide = [];
   const lowContrast = [];
@@ -236,9 +262,17 @@ function inspect({ minWidth, minWords, maxChars, minRatio }) {
     if (rect.width === 0 && rect.height === 0) continue;
 
     // --- width -------------------------------------------------------------
-    // An average Latin glyph is about half the font size, which is close enough
-    // to count characters per line without measuring glyphs.
-    const chars = rect.width / (fontPx * 0.5);
+    // Characters per line, measured rather than estimated. The earlier version
+    // divided by fontPx * 0.5 on the assumption that an average Latin glyph is
+    // half the font size. That is wrong twice over: it ignores the typeface
+    // (EB Garamond runs narrower than Inter) and the language (Hungarian and
+    // French set more accented and more long words than English). It is also
+    // not the same quantity as the CSS `ch` unit, which is the advance width of
+    // "0" — about 0.6em in Inter — so a `74ch` column measures nearer 89
+    // characters, not 74. Here we lay the element's own text out on one line in
+    // its own computed font and divide, which gets the real average advance for
+    // this face, this size and this language.
+    const chars = rect.width / averageAdvance(el, style, fontPx);
 
     if (rect.width < minWidth) {
       const words = visibleWordCount(el);
@@ -262,7 +296,12 @@ function inspect({ minWidth, minWords, maxChars, minRatio }) {
     }
 
     if (ownWords >= minWords && rect.width > minWidth) {
-      measures.push({ selector: describe(el), chars: Math.round(chars) });
+      measures.push({
+        selector: describe(el),
+        chars: Math.round(chars),
+        face: /garamond/i.test(style.fontFamily) ? 'display' : 'body',
+        emPerChar: Math.round((averageAdvance(el, style, fontPx) / fontPx) * 1000) / 1000,
+      });
     }
   }
 
@@ -275,6 +314,8 @@ function inspect({ minWidth, minWords, maxChars, minRatio }) {
     }
     return true;
   });
+
+  ruler.remove();
 
   const strip = ({ el, ...rest }) => rest;
   return {
@@ -329,6 +370,7 @@ const executablePath = browserPath();
 const browser = await chromium.launch(executablePath ? { executablePath } : {});
 const problems = [];
 const proseMeasures = new Map();
+const faceMeasures = [];
 const seenContrast = new Set();
 let checks = 0;
 
@@ -381,6 +423,10 @@ for (const theme of THEMES) {
         }
 
         if (width === REPORT_WIDTH && theme === 'light' && pass === 'expanded') {
+          // The band has to hold in every language and in both faces, so keep
+          // each measurement tagged with where it came from.
+          const locale = /^\/(es|fr|de|hu)(\/|$)/.exec(route)?.[1] ?? 'en';
+          for (const m of found.measures) faceMeasures.push({ ...m, locale, route });
           const sorted = [...found.measures].sort((a, b) => a.chars - b.chars);
           if (sorted.length > 0) {
             proseMeasures.set(route, {
@@ -429,6 +475,43 @@ if (proseMeasures.size > 0) {
     `\n  across the site: ${narrowest.narrowest.chars} (${narrowest.narrowest.selector.slice(0, 30)}) ` +
       `to ${widest.widest.chars} (${widest.widest.selector.slice(0, 30)})`,
   );
+}
+
+// The band is a claim about every language and both typefaces, so report it
+// broken down that way rather than as one number that could be hiding either.
+if (faceMeasures.length > 0) {
+  console.log('\nThe same measure by typeface and by language:');
+  const cells = new Map();
+  for (const m of faceMeasures) {
+    const key = `${m.face}|${m.locale}`;
+    const cell = cells.get(key) ?? { lo: Infinity, hi: -Infinity, em: 0, n: 0, widest: null };
+    cell.lo = Math.min(cell.lo, m.chars);
+    if (m.chars > cell.hi) {
+      cell.hi = m.chars;
+      cell.widest = m.selector;
+    }
+    cell.em += m.emPerChar;
+    cell.n += 1;
+    cells.set(key, cell);
+  }
+  const faces = { body: 'Inter (body)', display: 'EB Garamond (display)' };
+  for (const face of ['body', 'display']) {
+    const rows = [...cells].filter(([k]) => k.startsWith(`${face}|`));
+    if (rows.length === 0) continue;
+    console.log(`\n  ${faces[face]}`);
+    for (const locale of ['en', 'es', 'fr', 'de', 'hu']) {
+      const cell = cells.get(`${face}|${locale}`);
+      if (!cell) continue;
+      console.log(
+        `    ${locale}   ${String(cell.lo).padStart(3)} to ${String(cell.hi).padStart(3)} chars` +
+          `   avg glyph ${(cell.em / cell.n).toFixed(3)}em` +
+          `   ${cell.n} block(s)   widest: ${cell.widest.slice(0, 26)}`,
+      );
+    }
+  }
+  const lo = Math.min(...faceMeasures.map((m) => m.chars));
+  const hi = Math.max(...faceMeasures.map((m) => m.chars));
+  console.log(`\n  band across both faces and all languages: ${lo} to ${hi} characters`);
 }
 
 const byKind = {

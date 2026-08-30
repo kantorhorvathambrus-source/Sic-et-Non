@@ -116,7 +116,8 @@
             }
           },
           "counter": {
-            "objection": "Convertir un método exitoso en una afirmación sobre todo lo que existe es una apuesta filosófica, no un resultado científico. Dennett llama a su propia idea un ácido universal que corroe todos los conceptos tradicionales, y un ácido que disuelve todo, incluida la fiabilidad de la mente que disuelve, conviene manejarlo con cuidado.",
+            "objection": "Convertir un método exitoso en una afirmación sobre todo lo que existe es una apuesta filosófica, no un resultado científico, y quienes más presionan con esta objeción son ateos que aceptan íntegramente la biología evolutiva y rechazan la extensión metafísica. Dennett llama a su propia idea un ácido universal que corroe todos los conceptos tradicionales, y un ácido que disuelve todo, incluida la fiabilidad de la mente que disuelve, conviene manejarlo con cuidado.",
+            "objectionFrom": "within",
             "response": "Es una apuesta, pero con un historial de dos siglos de pagar. La apuesta contraria lleva todo ese tiempo perdiendo terreno."
           }
         }
@@ -165,7 +166,8 @@
             }
           },
           "counter": {
-            "objection": "Esto es cómodo. Una vez que la ciencia queda establecida, se descubre que el texto siempre había querido decir algo compatible con ella. Una lectura capaz de absorber cualquier resultado no está siendo puesta a prueba por nada.",
+            "objection": "Esto es cómodo, y la versión más afilada de la queja no viene de los ateos sino de otros cristianos: los creacionistas de la tierra joven sostienen que, una vez que la ciencia queda establecida, se descubre que el texto siempre había querido decir algo compatible con ella. Una lectura capaz de absorber cualquier resultado no está siendo puesta a prueba por nada.",
+            "objectionFrom": "both",
             "response": "Las fechas lo hacen difícil de sostener. Agustín escribió doce siglos antes de la geología y catorce antes de Darwin, sin ningún resultado científico que acomodar. Si la reinterpretación fuera oportunista, no debería adelantarse a la presión en más de un milenio."
           }
         },

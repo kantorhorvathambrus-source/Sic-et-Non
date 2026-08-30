@@ -35,6 +35,7 @@
     "design": [
       "The layout borrows from the medieval quaestio disputata: a question stated first, then the arguments on either hand set out with equal standing before anything is concluded.",
       "The two sides get the same column width, the same type sizes and two accent colours of identical lightness and saturation, so that neither can read as the warm approved one. Column order alternates by topic number, so neither side has a permanent home on the left.",
+      "Each argument carries the strongest objection to it, tinted with the colour of whoever raises it. Most objections come from the other side and wear its colour. Some are raised from within a position, or pressed from both directions; those are labelled as such and carry no side colour, because giving an internal objection the opponent's hue would tell you something untrue.",
       "There is no comment system, no account, no newsletter and no tracking. The site is a set of static files."
     ]
   },
@@ -74,6 +75,7 @@
     "design": [
       "La maquetación se inspira en la quaestio disputata medieval: primero se enuncia la pregunta, luego se exponen los argumentos de una y otra parte en igualdad de condiciones, y solo después se concluye algo.",
       "Los dos lados tienen el mismo ancho de columna, los mismos tamaños de letra y dos colores de acento con idéntica luminosidad y saturación, para que ninguno se lea como el aprobado. El orden de las columnas se alterna según el número del tema, de modo que ningún lado ocupa siempre la izquierda.",
+      "Cada argumento lleva la objeción más fuerte que se le hace, teñida con el color de quien la plantea. La mayoría de las objeciones vienen del otro lado y llevan su color. Algunas se plantean desde dentro de una posición, o se presionan desde ambos lados; esas van etiquetadas como tales y no llevan color de bando, porque dar a una objeción interna el tono del adversario diría algo falso.",
       "No hay comentarios, ni cuentas, ni boletín, ni rastreo. El sitio es un conjunto de archivos estáticos."
     ]
   },
@@ -113,6 +115,7 @@
     "design": [
       "La mise en page s'inspire de la quaestio disputata médiévale : la question est d'abord posée, puis les arguments de part et d'autre sont exposés à égalité, avant toute conclusion.",
       "Les deux camps ont la même largeur de colonne, les mêmes corps de texte et deux couleurs d'accent de luminosité et de saturation identiques, pour qu'aucune ne se lise comme celle du camp approuvé. L'ordre des colonnes alterne selon le numéro du sujet, de sorte qu'aucun camp n'occupe durablement la gauche.",
+      "Chaque argument porte l'objection la plus forte qui lui est faite, teintée de la couleur de qui la soulève. La plupart des objections viennent de l'autre camp et en portent la couleur. Certaines sont soulevées de l'intérieur d'une position, ou pressées des deux côtés ; celles-là sont signalées comme telles et ne portent aucune couleur de camp, car donner à une objection interne la teinte de l'adversaire dirait quelque chose de faux.",
       "Pas de commentaires, pas de comptes, pas d'infolettre, pas de traçage. Le site est un ensemble de fichiers statiques."
     ]
   },
@@ -152,6 +155,7 @@
     "design": [
       "Das Layout ist der mittelalterlichen quaestio disputata abgeschaut: erst wird die Frage gestellt, dann werden die Argumente beider Seiten gleichrangig ausgebreitet, und erst danach wird überhaupt etwas geschlossen.",
       "Beide Seiten bekommen dieselbe Spaltenbreite, dieselben Schriftgrade und zwei Akzentfarben von gleicher Helligkeit und Sättigung, damit keine als die warme, gebilligte erscheint. Die Spaltenreihenfolge wechselt mit der Themennummer, sodass keine Seite dauerhaft links steht.",
+      "Zu jedem Argument steht der stärkste Einwand dagegen, eingefärbt in der Farbe dessen, der ihn erhebt. Die meisten Einwände kommen von der Gegenseite und tragen deren Farbe. Manche werden aus den eigenen Reihen erhoben oder von beiden Seiten vorgebracht; diese sind so benannt und tragen keine Seitenfarbe, denn einem inneren Einwand den Ton des Gegners zu geben, würde etwas Unwahres behaupten.",
       "Es gibt keine Kommentare, keine Konten, keinen Newsletter und kein Tracking. Die Seite besteht aus statischen Dateien."
     ]
   },
@@ -191,6 +195,7 @@
     "design": [
       "Az elrendezés a középkori quaestio disputatát követi: előbb elhangzik a kérdés, aztán mindkét oldal érvei egyenrangúan kifejtve következnek, és csak ezután lehet bármit is leszűrni.",
       "A két oldal ugyanolyan széles hasábot, ugyanakkora betűméreteket és két, azonos világosságú és telítettségű kiemelőszínt kap, hogy egyik se olvasódjék a meleg, helyeselt oldalként. A hasábok sorrendje a téma sorszáma szerint váltakozik, így egyik oldal sem foglalja el tartósan a bal oldalt.",
+      "Minden érvhez ott áll a legerősebb ellenvetés, annak a színében, aki felveti. Az ellenvetések többsége a másik oldalról jön, és annak színét viseli. Némelyiket egy álláspont belülről kapja, vagy mindkét oldalról egyszerre; ezek külön jelölést kapnak, és nincs oldalszínük, mert egy belső ellenvetést az ellenfél színébe öltöztetni valótlant állítana.",
       "Nincsenek hozzászólások, fiókok, hírlevél és nyomkövetés. A honlap statikus fájlokból áll."
     ]
   }

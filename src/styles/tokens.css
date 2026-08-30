@@ -60,7 +60,11 @@
   --rule: oklch(88% 0.008 275);
   --rule-strong: oklch(72% 0.01 275);
 
-  /* The two sides. Same L, same C; hue 300 and hue 180. */
+  /* The two sides. Same L, same C; hue 300 and hue 180.
+     Their WCAG contrast ratios are NOT equal (7.11:1 vs 6.43:1 here) and must
+     not be equalised — doing so would make one side visibly darker than the
+     other. This is measured, deliberate and enforced; see DECISIONS.md (D1)
+     and scripts/palette-check.mjs before changing any L or C value below. */
   --theist: oklch(46% 0.09 300);
   --theist-soft: oklch(95.5% 0.022 300);
   --theist-rule: oklch(80% 0.045 300);

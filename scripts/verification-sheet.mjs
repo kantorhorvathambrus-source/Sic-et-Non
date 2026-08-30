@@ -78,7 +78,7 @@ function* quotesOf(topic) {
       }
     }
   }
-  for (const [i, item] of (topic.notes ?? []).entries()) {
+  for (const item of topic.notes ?? []) {
     if (item.quote) yield { slot: `note: ${item.heading}`, quote: item.quote };
   }
   const context = topic.context;

@@ -51,6 +51,7 @@ h2,
 h3,
 h4 {
   font-family: var(--font-display);
+  --measure-text: 26em;
   font-weight: 600;
   line-height: var(--leading-tight);
   text-wrap: balance;
@@ -183,22 +184,42 @@ dfn[data-open='true'] > .dfn-def {
 }
 
 /*
-  The measure, in characters rather than in rem, so it holds at every type size.
-  A 40rem column is about 71 characters at the body size but 89 at the small
-  size used for objections, glosses and captions — one container width is not
-  one measure. `ch` resolves against each element's own font size, so this caps
-  small text without touching body text.
+  The measure, relative to the element's own type size rather than to the
+  container, so it holds at every size. A 40rem column is about 71 characters at
+  the body size but 89 at the small size used for objections, glosses and
+  captions — one container width is not one measure.
 
-  60ch, not 72ch: `ch` is the advance width of "0", about 0.6em in Inter, while
-  the conventional characters-per-line figure assumes an average glyph nearer
-  0.5em. 60ch measures as roughly 72 characters, which is the target.
+  Two things this got wrong before, both caught by measuring instead of
+  estimating (scripts/layout-check.mjs):
+
+  1. `ch` is not a character. It is the advance width of "0", about 0.6em in
+     Inter, while the conventional characters-per-line figure assumes an average
+     glyph nearer 0.5em. A 74ch column measures as about 89 characters.
+
+  2. One measure cannot serve two typefaces. Measured over every block on the
+     site in all five languages, an average character is 0.467-0.479em in Inter
+     but only 0.361-0.372em in EB Garamond — the display face is roughly 22%
+     narrower per character. A single cap tuned for Inter lets Garamond run to
+     97 characters, which is what it was doing in the footer tagline.
+
+  So the cap is expressed in em, per face, aimed at 70 characters:
+  70 x 0.475em = 33em for Inter, 70 x 0.366em = 26em for EB Garamond.
+
+  --measure-text inherits, so it is set wherever the display face is set. The
+  two must always be declared together; scripts/style-check.mjs enforces that.
 */
+:root {
+  --measure-text: 33em;
+}
+
 p,
 li,
 dd,
+dt,
 cite,
+figcaption,
 blockquote {
-  max-width: 60ch;
+  max-width: var(--measure-text);
 }
 
 .visually-hidden {

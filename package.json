@@ -11,9 +11,11 @@
     "check": "astro check",
     "linkcheck": "node scripts/link-check.mjs",
     "verify:content": "node scripts/verify-quotes.mjs",
-    "milestone": "npm run check && npm run build && npm run linkcheck && npm run check:layout",
+    "milestone": "npm run check && npm run build && npm run linkcheck && npm run check:layout && npm run check:palette && npm run check:style",
     "search:index": "pagefind --site dist",
     "check:layout": "node scripts/layout-check.mjs",
+    "check:palette": "node scripts/palette-check.mjs",
+    "check:style": "node scripts/style-check.mjs",
     "verification:sheet": "node scripts/verification-sheet.mjs"
   },
   "dependencies": {

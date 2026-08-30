@@ -23,8 +23,20 @@ interface Props {
 
 const { argument, position, locale, glossary } = Astro.props;
 const t = useTranslations(locale);
-/** The objection is raised by the other side, so it is tinted the other side's hue. */
+
+// Who raises the objection is declared in the content, not inferred from the
+// layout. Unset means the other side, which is the ordinary case; an objection
+// from within the same side, or pressed from both directions, is neither
+// tinted with an opponent's hue nor labelled as coming from one.
 const otherSide = position === 'theist' ? 'atheist' : 'theist';
+const objectionFrom = argument.counter?.objectionFrom ?? otherSide;
+const objectionTint = objectionFrom === 'both' || objectionFrom === 'within' ? 'neutral' : objectionFrom;
+const objectionLabel =
+  objectionFrom === 'within'
+    ? t('argument.objection.within')
+    : objectionFrom === 'both'
+      ? t('argument.objection.both')
+      : t('argument.objection.other');
 ---
 
 <details class:list={['argument', `side-${position}`]} id={argument.id} data-argument>
@@ -41,12 +53,12 @@ const otherSide = position === 'theist' ? 'atheist' : 'theist';
 
     {
       argument.counter && (
-        <div class:list={['counter', `side-${otherSide}`]}>
-          <p class="counter-label">{t('argument.objection')}</p>
+        <div class:list={['counter', `side-${objectionTint}`]}>
+          <p class="counter-label">{objectionLabel}</p>
           <RichText text={argument.counter.objection} glossary={glossary} />
 
           {argument.counter.quote && (
-            <Quotation quote={argument.counter.quote} locale={locale} side={otherSide} />
+            <Quotation quote={argument.counter.quote} locale={locale} side={objectionTint} />
           )}
 
           {argument.counter.response && (
@@ -160,6 +172,12 @@ const otherSide = position === 'theist' ? 'atheist' : 'theist';
 
   .counter.side-atheist {
     background: var(--atheist-soft);
+  }
+
+  /* An objection from within, or from both directions, borrows neither hue. */
+  .counter.side-neutral {
+    background: var(--bg-sunken);
+    border-left: 2px solid var(--rule-strong);
   }
 
   .counter-label {

@@ -97,6 +97,20 @@ const argument = z.object({
   counter: z
     .object({
       objection: z.string().min(1),
+      /**
+       * Who raises this objection. Left unset it means the other side, which is
+       * the ordinary case; set it when that assumption is false.
+       *
+       * The tint on the objection panel follows this field, so it is now a
+       * claim we make rather than one the layout makes for us. `within` marks
+       * an objection from the same side as the argument — an internal problem,
+       * not an attack — and `both` an objection pressed from both directions.
+       * Neither gets a side colour: colouring an internal objection with the
+       * opponent's hue would tell the reader something untrue.
+       *
+       * Values match `side.position` so the two can be compared directly.
+       */
+      objectionFrom: z.enum(['theist', 'atheist', 'both', 'within']).optional(),
       response: z.string().optional(),
       quote: quote.optional(),
     })
@@ -260,6 +274,16 @@ const topics = defineCollection({
             fail(
               ['sides', s, 'arguments', a],
               `argument "${arg.id}" is quoted only by the side objecting to it. Quote someone who holds the claim, or drop the objection's quote.`,
+            );
+          }
+
+          // An objection from the argument's own side is "within", not the
+          // side's own name. Spelling it the other way reads as an opponent's
+          // objection everywhere the field is compared against a position.
+          if (arg.counter?.objectionFrom === sideValue.position) {
+            fail(
+              ['sides', s, 'arguments', a],
+              `argument "${arg.id}" declares objectionFrom "${sideValue.position}", its own side. An objection from the same side is objectionFrom "within".`,
             );
           }
         });

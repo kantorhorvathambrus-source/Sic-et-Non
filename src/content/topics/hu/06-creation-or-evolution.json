@@ -116,7 +116,8 @@
             }
           },
           "counter": {
-            "objection": "Egy sikeres módszert mindenre kiterjeszteni, ami létezik, filozófiai fogadás, nem tudományos eredmény. Dennett maga nevezi az ötletét egyetemes oldószernek, amely minden hagyományos fogalmat szétmar, és egy oldószert, amely mindent felold, beleértve az oldást végző elme megbízhatóságát is, óvatosan érdemes kezelni.",
+            "objection": "Egy sikeres módszert mindenre kiterjeszteni, ami létezik, filozófiai fogadás, nem tudományos eredmény — és az ellenvetést azok az ateisták fogalmazzák meg a leghatározottabban, akik az evolúcióbiológiát maradéktalanul elfogadják, a metafizikai kiterjesztést pedig elutasítják. Dennett maga nevezi az ötletét egyetemes oldószernek, amely minden hagyományos fogalmat szétmar, és egy oldószert, amely mindent felold, beleértve az oldást végző elme megbízhatóságát is, óvatosan érdemes kezelni.",
+            "objectionFrom": "within",
             "response": "Fogadás, de olyan, amely két évszázada fizet. Az ellenkező fogadás mindeközben végig veszít a területéből."
           }
         }
@@ -165,7 +166,8 @@
             }
           },
           "counter": {
-            "objection": "Ez kényelmes. Amint a tudomány lezárja a kérdést, kiderül, hogy a szöveg mindvégig valami azzal összeegyeztethetőt jelentett. Egy olvasatot, amely bármilyen eredményt képes magába fogadni, semmi nem tesz próbára.",
+            "objection": "Ez kényelmes, és a vád legélesebb változata nem az ateistáktól, hanem más keresztényektől érkezik: a fiatal Föld hívei szerint amint a tudomány lezárja a kérdést, kiderül, hogy a szöveg mindvégig valami azzal összeegyeztethetőt jelentett. Egy olvasatot, amely bármilyen eredményt képes magába fogadni, semmi nem tesz próbára.",
+            "objectionFrom": "both",
             "response": "Az évszámok ezt nehezen tartják. Ágoston tizenkét évszázaddal a geológia és tizennéggyel Darwin előtt írt, minden befogadandó tudományos eredmény nélkül. Ha az újraértelmezés alkalmi lenne, nem előzhetné meg a nyomást több mint egy évezreddel."
           }
         },

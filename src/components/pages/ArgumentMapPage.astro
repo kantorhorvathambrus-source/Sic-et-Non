@@ -63,6 +63,9 @@ const branches = sides.flatMap((side) =>
       {
         branches.map(({ side, argument }) => {
           const other = side.position === 'theist' ? 'atheist' : 'theist';
+          // Same declared source as the standard view, so the two never disagree.
+          const from = argument.counter?.objectionFrom ?? other;
+          const fromTint = from === 'both' || from === 'within' ? 'neutral' : from;
           return (
             <li class:list={['branch', `side-${side.position}`]} id={`map-${argument.id}`}>
               <div class="node claim-node">
@@ -81,13 +84,15 @@ const branches = sides.flatMap((side) =>
 
               {argument.counter && (
                 <ol class="children">
-                  <li class:list={['node', 'objection-node', `side-${other}`]}>
+                  <li class:list={['node', 'objection-node', `side-${fromTint}`]}>
                     <p class="node-label">
-                      {t(`side.${other}`)} &middot; {t('argument.objection')}
+                      {fromTint === 'neutral'
+                        ? t(from === 'within' ? 'argument.objection.within' : 'argument.objection.both')
+                        : `${t(`side.${fromTint}`)} \u00b7 ${t('argument.objection')}`}
                     </p>
                     <p class="node-text">{argument.counter.objection}</p>
                     {argument.counter.quote && (
-                      <Quotation quote={argument.counter.quote} locale={locale} side={other} />
+                      <Quotation quote={argument.counter.quote} locale={locale} side={fromTint} />
                     )}
 
                     {argument.counter.response && (
@@ -201,6 +206,7 @@ const branches = sides.flatMap((side) =>
   .node-text {
     margin: 0;
     font-family: var(--font-display);
+    --measure-text: 26em;
     font-size: var(--step-1);
     line-height: 1.4;
   }

@@ -21,6 +21,8 @@ const CONTENT = join(ROOT, 'src/content/topics');
 const LEVELS = ['primary', 'corroborated', 'paraphrase'];
 
 const errors = [];
+// topic basename -> argument id -> { locale: declared source of the objection }
+const objectionSources = new Map();
 const warnings = [];
 const tally = new Map();
 
@@ -287,6 +289,22 @@ for (const full of files) {
     }
   });
 
+  // Who raises an objection is a claim about the world, so it must not vary by
+  // language. A translator who drops the field silently changes both the panel's
+  // colour and its label.
+  {
+    const [loc, base] = relative(CONTENT, full).split('/');
+    if (!objectionSources.has(base)) objectionSources.set(base, new Map());
+    const perArgument = objectionSources.get(base);
+    for (const side of topic.sides ?? []) {
+      for (const argument of side.arguments ?? []) {
+        if (!argument.counter) continue;
+        if (!perArgument.has(argument.id)) perArgument.set(argument.id, new Map());
+        perArgument.get(argument.id).set(loc, argument.counter.objectionFrom ?? '(other side)');
+      }
+    }
+  }
+
   // Non-English files should carry the original wording under each translation.
   const locale = relative(CONTENT, full).split('/')[0];
   if (locale !== 'en') {
@@ -316,6 +334,16 @@ for (const full of files) {
       if (quote.verification !== 'paraphrase' && !quote.original?.text) {
         warn(file, label, 'translated quote has no "original" wording to show underneath.');
       }
+    }
+  }
+}
+
+for (const [base, perArgument] of objectionSources) {
+  for (const [id, byLocale] of perArgument) {
+    const distinct = new Set(byLocale.values());
+    if (distinct.size > 1) {
+      const detail = [...byLocale].map(([loc, v]) => `${loc}=${v}`).join(', ');
+      fail(base, `counter (${id})`, `locales disagree about who raises this objection: ${detail}.`);
     }
   }
 }
