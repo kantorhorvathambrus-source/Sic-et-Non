@@ -8,11 +8,11 @@ Tracks which of the twenty topics are drafted, reviewed and translated.
 
 | # | Topic | Status tag | Drafted | Reviewed | en | es | fr | de | hu |
 |---|-------|-----------|---------|----------|----|----|----|----|----|
-| 1 | Did the universe begin, and does a beginning need a cause? | open | – | – | – | – | – | – | – |
-| 2 | Why is there something rather than nothing? | interpretive | – | – | – | – | – | – | – |
+| 1 | Did the universe begin, and does a beginning need a cause? | open | yes | not yet | ✓ | – | – | – | – |
+| 2 | Why is there something rather than nothing? | interpretive | yes | not yet | ✓ | – | – | – | – |
 | 3 | If God is good, why is there so much suffering? | open | yes | not yet | ✓ | – | – | – | – |
-| 4 | If God wants to be known, why is he hidden? | open | – | – | – | – | – | – | – |
-| 5 | Is the universe fine-tuned for life? | open | – | – | – | – | – | – | – |
+| 4 | If God wants to be known, why is he hidden? | open | yes | not yet | ✓ | – | – | – | – |
+| 5 | Is the universe fine-tuned for life? | open | yes | not yet | ✓ | – | – | – | – |
 | 6 | Creation or evolution? | settled-core | yes | not yet | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 7 | Where did the first living cell come from? | open | – | – | – | – | – | – | – |
 | 8 | Is the mind more than the brain? | open | – | – | – | – | – | – | – |
@@ -32,6 +32,32 @@ Tracks which of the twenty topics are drafted, reviewed and translated.
 Titles and status tags for the undrafted topics live in `src/data/topics-index.json`,
 already translated into all five languages, so the home page lists the full set from
 the start.
+
+## The three sourcing rules
+
+They are the same mistake in three costumes, and each one was caught only after it
+had already shipped. Read them together, because the fourth version will look
+different again.
+
+1. **Whose mouth the quote comes from.** No position appears only in the words of
+   its opponents. *Caught on topic 6, where intelligent design was quoted by the
+   judge who ruled against it.*
+2. **Which of their sentences we picked.** Where a position has both a positive
+   case and a defensive posture, the positive case comes first and gets at least
+   as much space. A movement's most-quoted line is often the one its critics chose
+   for it. *Caught on topic 6, where young-earth creationism was represented only
+   by the statement that no evidence could count against it — a strawman built
+   entirely out of true quotations.*
+3. **Which of their arguments gets the space.** Every argument slot is spent on a
+   live argument. A position that has been won, abandoned or superseded goes in a
+   note. And check the pairing: does the other side's strongest argument have its
+   actual strongest opponent facing it, or only a convenient one? *Caught on topic
+   3, where a slot went to Plantinga's free will defence — a result everyone grants
+   — while Rowe's fawn, the strongest argument on the page, had nothing facing it.*
+
+The common thread is that each failure passes every mechanical check and produces
+a page that looks balanced. Only reading the page as an opponent would catches
+them.
 
 ## The checklist for every topic
 
@@ -69,6 +95,13 @@ the mechanical half; the rest is editorial judgement.
       *Enforced.*
 - [ ] Each argument's `claim` reads as a complete one-line statement, because in
       the default view that line is the whole argument.
+- [ ] **Every argument slot is spent on a live argument.** For each side, ask: is
+      this what its serious defenders are arguing *now*? A won, abandoned or
+      superseded position goes in `notes`, where it is not competing with a
+      current argument for space. Then check the pairing — the other side's
+      strongest argument should be facing its actual strongest opponent, not a
+      convenient one. *Not enforceable:* no script can tell a live argument from a
+      dead one. Answer it per topic in the sourcing review.
 - [ ] **Describe the state of the evidence, never the state of the reader.** No
       sentence anywhere — and least of all in a `settledCore` box — may imply that
       holding the minority view makes someone unserious. A settled-core statement
@@ -156,8 +189,48 @@ it fits better: Dawkins's "Biology is the study of complicated things that give
 the appearance of having been designed for a purpose" (*The Blind Watchmaker*,
 opening line).
 
+### Sourcing review: topics 1, 2, 4 and 5
+
+Rule 3 forced three arguments out of slots and into notes or out entirely. Each is
+flagged because a reader might expect to find it:
+
+- **Topic 1** drops the argument that an actually infinite past is impossible
+  (Hilbert's Hotel and the rest). It is genuinely live in the literature, unlike
+  Plantinga's defence, so this is a closer call than the others: with two slots a
+  side it lost to the causal premise and the cosmology, which are what the
+  argument now turns on in practice. Worth revisiting if the topic goes to three
+  a side.
+- **Topic 2** drops Swinburne's argument that theism is the simpler hypothesis.
+  Live, but it is really an argument about explanatory virtue rather than about
+  contingency, and it would have pulled the page toward a different question.
+- **Topic 5** drops Robin Collins's formal likelihood version. It is the most
+  rigorous statement of the argument, and it was cut because the page's own
+  conclusion is that the probabilities it needs are the disputed thing — quoting a
+  Bayesian formulation would have implied a settledness the topic denies.
+
+On rule 1, every argument on all four topics is quoted by someone who holds it.
+Two are labelled paraphrases rather than quotations, because no verbatim sentence
+could be corroborated: Sean Carroll on topic 1 and J. L. Schellenberg on topic 4.
+Both are in `VERIFICATION.md` with instructions to replace them with real
+sentences if any can be found.
+
+Two placements are worth stating plainly because they could look like
+appropriation:
+
+- **Vilenkin on topic 1** and **Hoyle on topic 5** are quoted on the theist side,
+  and neither is a theist. Both hold exactly the claim the slot makes — that the
+  evidence points to a beginning; that the constants look contrived — and the page
+  says in the surrounding prose that they draw no theological conclusion. Quoting
+  a non-theist for a premise a theist argument uses is fair; implying they endorse
+  the conclusion would not be.
+- **Ivan Karamazov on topic 3** is a character, and Dostoevsky was a Christian who
+  put the objection at full strength on purpose. The citation says so.
+
 ### Sourcing review: topic 3
 
+- **Wykstra** carries skeptical theism, which is the mainstream analytic answer to
+  Rowe and is what replaced the free will defence as the live Christian move. It
+  faces Rowe's fawn directly, which is what rule 3 is for.
 - **Hume (Philo), Rowe, Ivan Karamazov** — each argues the atheist side. Ivan is a
   character rather than an author, which the citation says: Dostoevsky was a
   Christian who put the objection at full strength deliberately, and treating the

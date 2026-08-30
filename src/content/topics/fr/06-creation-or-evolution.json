@@ -6,6 +6,23 @@
   "category": "natural-science",
   "status": "settled-core",
   "realQuestion": "Le « ou » du titre fait beaucoup de dégâts. Il fait passer la question pour un choix entre deux théories sur la façon dont les animaux sont arrivés là. Ce n'en est pas un.\n\nSavoir si les êtres vivants ont des [[ancêtres communs]] et ont changé au fil du temps est une question scientifique, et les biologistes y ont répondu il y a plus d'un siècle. Ce qui est réellement ouvert est une autre question : si c'est ainsi que la vie est devenue ce qu'elle est, reste-t-il quelque chose qu'un créateur ait fait ?\n\nC'est là le débat de cette page. L'autre, sur les quatre manières dont les chrétiens ont tenté d'accorder la Genèse et la géologie, est réel lui aussi, et il est exposé plus bas. Mais il se déroule à l'intérieur du christianisme, pas entre le christianisme et l'athéisme.",
+  "distinctions": [
+    {
+      "label": "Les espèces vivantes ont-elles des ancêtres communs ?",
+      "gloss": "Une question scientifique, tranchée il y a plus d'un siècle. Elle ne fait pas débat chez les biologistes, et ce n'est pas ce dont débattent les deux camps ci-dessous.",
+      "activeHere": false
+    },
+    {
+      "label": "L'évolution laisse-t-elle quelque chose qu'un créateur ait fait ?",
+      "gloss": "Une question philosophique que la biologie ne tranche dans aucun sens. C'est le débat de cette page.",
+      "activeHere": true
+    },
+    {
+      "label": "Comment les chrétiens doivent-ils lire la Genèse à côté de la géologie ?",
+      "gloss": "Un vrai désaccord, mais interne au christianisme et non entre le christianisme et l'athéisme. Il est exposé plus bas, dans les quatre positions.",
+      "activeHere": false
+    }
+  ],
   "settledCore": "Les biologistes et les géologues ne sont pas divisés là-dessus. Les espèces vivantes descendent, avec modification, d'ancêtres communs ; la [[sélection naturelle]] agissant sur la variation héritée est une cause principale de leur adaptation ; et la Terre a environ 4,5 milliards d'années. Le registre fossile, l'anatomie comparée, la répartition géographique des espèces et l'évolution observée directement chez les bactéries l'appuient, et le séquençage des génomes plus encore, lui qui aurait pu réfuter l'ascendance commune et l'a au contraire confirmée dans un détail considérable.\n\nCela dit ce que ces disciplines ont trouvé, non qui a le droit d'avoir une opinion. Beaucoup de chrétiens sincères le rejettent. Gallup situait en 2024 à 40 pour cent la part des adultes américains tenant la vision de la Terre jeune sur l'origine de l'homme, contre un maximum de 47 pour cent, et ce chiffre concerne les seuls États-Unis. L'Église catholique, les Églises orthodoxes, la Communion anglicane et les dénominations protestantes historiques, ensemble bien plus de la moitié des chrétiens du monde, n'enseignent pas une Terre jeune.\n\nSi vous avez grandi avec une Terre jeune, rien ici ne cherche à vous dire que vous êtes hors de cette conversation. Les quatre positions chrétiennes plus bas sont l'endroit où le désaccord se joue réellement, et chacune est énoncée par quelqu'un qui la défend.",
   "glossary": [
     {

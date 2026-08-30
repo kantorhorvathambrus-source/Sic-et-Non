@@ -6,6 +6,23 @@
   "category": "natural-science",
   "status": "settled-core",
   "realQuestion": "The word \"or\" in the title does a lot of damage. It makes this sound like a choice between two theories of how animals got here. It is not.\n\nWhether living things share [[common ancestry]] and changed over time is a scientific question, and biologists answered it more than a century ago. What is genuinely open is a different question: if that is how life came to be as it is, does anything remain for a creator to have done?\n\nThat is the argument on this page. The other argument, about the four ways Christians have tried to fit Genesis and geology together, is real too, and it is set out further down. But it happens inside Christianity, not between Christianity and atheism.",
+  "distinctions": [
+    {
+      "label": "Do living species share common ancestry?",
+      "gloss": "A scientific question, answered more than a century ago. Not disputed among biologists, and not what the two sides below are arguing about.",
+      "activeHere": false
+    },
+    {
+      "label": "Does evolution leave anything for a creator to have done?",
+      "gloss": "A philosophical question that the biology does not settle either way. This is the argument on this page.",
+      "activeHere": true
+    },
+    {
+      "label": "How should Christians read Genesis alongside geology?",
+      "gloss": "A real dispute, but one inside Christianity rather than between Christianity and atheism. It is set out further down, in the four positions.",
+      "activeHere": false
+    }
+  ],
   "settledCore": "Biologists and geologists are not divided about this. Living species descend, with modification, from shared ancestors; [[natural selection]] acting on inherited variation is a principal cause of their adaptation; and the Earth is about 4.5 billion years old. The fossil record, comparative anatomy, the geographic spread of species and directly observed evolution in bacteria all support it, and so above all does genome sequencing, which could have falsified common ancestry and instead confirmed it in enormous detail.\n\nThat is a statement about what those fields have found, not about who is entitled to an opinion. Many sincere Christians reject it. Gallup put the share of American adults holding the young-earth view of human origins at 40 percent in 2024, down from a peak of 47 percent — and that figure is specific to the United States. The Catholic Church, the Orthodox churches, the Anglican Communion and the mainline Protestant denominations, together well over half the world's Christians, do not teach a young Earth.\n\nIf you were raised with a young Earth, nothing here is meant to tell you that you are outside this conversation. The four Christian positions further down are where the disagreement actually lives, and each one is stated by somebody who holds it.",
   "glossary": [
     {

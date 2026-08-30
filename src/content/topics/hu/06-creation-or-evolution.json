@@ -6,6 +6,23 @@
   "category": "natural-science",
   "status": "settled-core",
   "realQuestion": "A címben szereplő „vagy” sok kárt okoz. Úgy hangzik tőle a kérdés, mintha két elmélet között kellene választani arról, hogyan kerültek ide az állatok. Nem erről van szó.\n\nAz, hogy az élőlényeknek vannak-e [[közös őseik]], és változtak-e az idők során, természettudományos kérdés, és a biológusok több mint száz éve megválaszolták. Ami valóban nyitott, az egy másik kérdés: ha így lett az élet azzá, ami, marad-e bármi, amit egy teremtő tett volna?\n\nEz ennek az oldalnak a vitája. A másik, arról a négy módról, ahogyan a keresztények a Teremtés könyvét és a geológiát próbálták összeegyeztetni, szintén valóságos, és lejjebb szerepel. De a kereszténységen belül zajlik, nem a kereszténység és az ateizmus között.",
+  "distinctions": [
+    {
+      "label": "Vannak-e az élő fajoknak közös őseik?",
+      "gloss": "Természettudományos kérdés, több mint száz éve megválaszolva. A biológusok között nem vitatott, és nem erről vitatkozik a lenti két oldal.",
+      "activeHere": false
+    },
+    {
+      "label": "Marad-e az evolúció után bármi, amit egy teremtő tett volna?",
+      "gloss": "Filozófiai kérdés, amelyet a biológia egyik irányban sem dönt el. Ez ennek az oldalnak a vitája.",
+      "activeHere": true
+    },
+    {
+      "label": "Hogyan olvassák a keresztények a Teremtés könyvét a geológia mellett?",
+      "gloss": "Valódi vita, de a kereszténységen belül, nem a kereszténység és az ateizmus között. Lentebb szerepel, a négy álláspontnál.",
+      "activeHere": false
+    }
+  ],
   "settledCore": "A biológusok és a geológusok nem oszlanak meg ebben. Az élő fajok módosulással származnak közös ősöktől; az örökletes változatosságra ható [[természetes szelekció]] alkalmazkodásuk egyik fő oka; és a Föld nagyjából 4,5 milliárd éves. Alátámasztja a leletanyag, az összehasonlító anatómia, a fajok földrajzi elterjedése és a baktériumokon közvetlenül megfigyelt evolúció, mindenekelőtt pedig a genomszekvenálás, amely megcáfolhatta volna a közös leszármazást, ehelyett rendkívüli részletességgel megerősítette.\n\nEz arról szól, mit találtak ezek a tudományterületek, nem arról, kinek van joga véleményt alkotni. Sok őszinte keresztény elutasítja. A Gallup 2024-ben 40 százalékra tette azoknak az amerikai felnőtteknek az arányát, akik a fiatal Föld szerinti emberi eredetet vallják, a korábbi 47 százalékos csúcshoz képest, és ez a szám kifejezetten az Egyesült Államokra vonatkozik. A katolikus egyház, az ortodox egyházak, az anglikán közösség és a történelmi protestáns felekezetek, együtt a világ keresztényeinek jóval több mint fele, nem tanítanak fiatal Földet.\n\nHa fiatal Földdel nőttél fel, itt semmi nem akarja azt mondani, hogy kívül állsz ezen a beszélgetésen. A lentebbi négy keresztény álláspont az, ahol a nézeteltérés valójában zajlik, és mindegyiket olyasvalaki fogalmazza meg, aki képviseli.",
   "glossary": [
     {

@@ -65,5 +65,9 @@
   "argument.expand": "Das Argument vollständig lesen",
   "context.heldBy": "Wer sie vertritt",
   "context.standing": "Was die Befunde sagen",
-  "context.onConflict": "Wenn die Befunde widersprechen"
+  "context.onConflict": "Wenn die Befunde widersprechen",
+  "distinctions.heading": "Um welche Frage es hier geht",
+  "distinctions.thisPage": "diese Seite",
+  "distinctions.notThisPage": "nicht diese Seite",
+  "topic.notes": "Wissenswert"
 }

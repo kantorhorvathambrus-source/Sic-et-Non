@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SideColumn from '../SideColumn.astro';
 import StatusTag from '../StatusTag.astro';
 import ContextEntry from '../ContextEntry.astro';
+import Distinctions from '../Distinctions.astro';
+import TopicNote from '../TopicNote.astro';
 import Quotation from '../Quotation.astro';
 import DisclosureControls from '../DisclosureControls.astro';
 import RichText from '../RichText.astro';
@@ -69,6 +71,8 @@ const minutes = readingTime(topic);
         <RichText text={topic.realQuestion} glossary={glossary} />
       </section>
 
+      {topic.distinctions && <Distinctions distinctions={topic.distinctions} locale={locale} />}
+
       {
         topic.settledCore && (
           <section class="panel settled" aria-labelledby="settled-core">
@@ -90,6 +94,23 @@ const minutes = readingTime(topic);
         }
       </div>
     </div>
+
+    {
+      topic.notes && (
+        <div class="wrap">
+          <section class="notes" aria-labelledby="notes-heading">
+            <h2 id="notes-heading" class="minor-heading">
+              {t('topic.notes')}
+            </h2>
+            <div class="note-list">
+              {topic.notes.map((item) => (
+                <TopicNote note={item} locale={locale} glossary={glossary} />
+              ))}
+            </div>
+          </section>
+        </div>
+      )
+    }
 
     {
       topic.context && (
@@ -285,6 +306,15 @@ const minutes = readingTime(topic);
   .sides > :global(section:last-of-type) {
     grid-column: 3;
     grid-row: 1;
+  }
+
+  .notes {
+    margin-top: var(--space-xl);
+  }
+
+  .note-list {
+    display: grid;
+    gap: var(--space-m);
   }
 
   .context-note {

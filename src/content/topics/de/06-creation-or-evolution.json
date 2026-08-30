@@ -6,6 +6,23 @@
   "category": "natural-science",
   "status": "settled-core",
   "realQuestion": "Das «oder» im Titel richtet viel Schaden an. Es lässt die Frage klingen wie eine Wahl zwischen zwei Theorien darüber, wie die Tiere hierhergekommen sind. Das ist sie nicht.\n\nOb Lebewesen [[gemeinsame Vorfahren]] haben und sich im Lauf der Zeit verändert haben, ist eine naturwissenschaftliche Frage, und die Biologie hat sie vor über hundert Jahren beantwortet. Wirklich offen ist eine andere: Wenn das Leben so geworden ist, was es ist, bleibt dann noch etwas übrig, das ein Schöpfer getan hätte?\n\nDarum geht es auf dieser Seite. Der andere Streit, um die vier Arten, wie Christen Genesis und Geologie zusammenzubringen versucht haben, ist ebenfalls echt, und er steht weiter unten. Aber er wird innerhalb des Christentums geführt, nicht zwischen Christentum und Atheismus.",
+  "distinctions": [
+    {
+      "label": "Haben die heutigen Arten gemeinsame Vorfahren?",
+      "gloss": "Eine naturwissenschaftliche Frage, vor über hundert Jahren beantwortet. Unter Biologen unstrittig, und nicht das, worüber die beiden Seiten unten streiten.",
+      "activeHere": false
+    },
+    {
+      "label": "Lässt die Evolution noch etwas übrig, das ein Schöpfer getan hätte?",
+      "gloss": "Eine philosophische Frage, die die Biologie in keine Richtung entscheidet. Darum geht es auf dieser Seite.",
+      "activeHere": true
+    },
+    {
+      "label": "Wie sollen Christen die Genesis neben der Geologie lesen?",
+      "gloss": "Ein echter Streit, aber innerhalb des Christentums und nicht zwischen Christentum und Atheismus. Er steht weiter unten, in den vier Positionen.",
+      "activeHere": false
+    }
+  ],
   "settledCore": "Biologen und Geologen sind darüber nicht geteilter Meinung. Die heutigen Arten stammen mit Abwandlung von gemeinsamen Vorfahren ab; die [[natürliche Selektion]], die auf vererbte Variation wirkt, ist eine Hauptursache ihrer Angepasstheit; und die Erde ist etwa 4,5 Milliarden Jahre alt. Der Fossilbericht, die vergleichende Anatomie, die geografische Verteilung der Arten und die unmittelbar beobachtete Evolution bei Bakterien stützen das, und die Genomsequenzierung erst recht, die die gemeinsame Abstammung hätte widerlegen können und sie stattdessen bis ins Einzelne bestätigt hat.\n\nDas sagt, was diese Fächer gefunden haben, und nicht, wer eine Meinung haben darf. Viele aufrichtige Christen lehnen es ab. Gallup bezifferte den Anteil erwachsener US-Amerikaner, die für die Herkunft des Menschen die Junge-Erde-Auffassung vertreten, 2024 auf 40 Prozent, nach einem Höchstwert von 47 Prozent, und diese Zahl gilt allein für die Vereinigten Staaten. Die katholische Kirche, die orthodoxen Kirchen, die Anglikanische Gemeinschaft und die großen protestantischen Kirchen, zusammen weit mehr als die Hälfte der Christen weltweit, lehren keine junge Erde.\n\nWenn du mit einer jungen Erde aufgewachsen bist, will dir hier nichts sagen, dass du außerhalb dieses Gesprächs stehst. Die vier christlichen Positionen weiter unten sind der Ort, an dem der Streit tatsächlich ausgetragen wird, und jede wird von jemandem formuliert, der sie vertritt.",
   "glossary": [
     {

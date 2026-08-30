@@ -109,6 +109,17 @@ export function readingTime(topic: TopicData): ReadingTime {
   ];
   const hidden: (string | undefined)[] = [];
 
+  // The distinctions strip and the notes render in full in the default view, so
+  // they count towards the first number. Anything visible has to be counted, or
+  // the badge understates the read it is describing.
+  for (const item of topic.distinctions ?? []) {
+    shown.push(item.label, item.gloss);
+  }
+
+  for (const item of topic.notes ?? []) {
+    shown.push(item.heading, item.text, item.quote?.text);
+  }
+
   for (const side of topic.sides) {
     shown.push(side.label);
     for (const argument of side.arguments) {

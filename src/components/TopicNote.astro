@@ -1,0 +1,41 @@
+---
+// A settled result or a piece of history: on the page because a reader will
+// look for it, out of the argument slots because it is not a live argument.
+import type { CollectionEntry } from 'astro:content';
+import type { Locale } from '../i18n';
+import type { GlossaryMap } from '../lib/richtext';
+import RichText from './RichText.astro';
+import Quotation from './Quotation.astro';
+
+type Topic = CollectionEntry<'topics'>['data'];
+type Note = NonNullable<Topic['notes']>[number];
+
+interface Props {
+  note: Note;
+  locale: Locale;
+  glossary: GlossaryMap;
+}
+
+const { note, locale, glossary } = Astro.props;
+---
+
+<aside class="topic-note">
+  <h3>{note.heading}</h3>
+  <RichText text={note.text} glossary={glossary} />
+  {note.quote && <Quotation quote={note.quote} locale={locale} side="neutral" />}
+</aside>
+
+<style>
+  .topic-note {
+    max-width: var(--measure-wide);
+    padding: var(--space-m) var(--space-l);
+    background: var(--bg-sunken);
+    border-left: 3px solid var(--rule-strong);
+    border-radius: var(--radius);
+  }
+
+  .topic-note h3 {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-xs);
+  }
+</style>

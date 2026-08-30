@@ -1,0 +1,148 @@
+{
+  "id": "divine-hiddenness",
+  "number": 4,
+  "slug": "divine-hiddenness",
+  "title": "If God wants to be known, why is he hidden?",
+  "category": "existence-of-god",
+  "status": "open",
+
+  "realQuestion": "Christianity claims that God wants a relationship with every person. It is hard to have a relationship with someone whose existence you are not sure of.\n\nSo there is a puzzle in the shape of the world. If a loving God exists and wants to be known, the evidence of his existence should be at least clear enough for anyone honestly looking to find him. Instead, sincere people look and come up empty, and whole cultures have gone their entire history without hearing anything about him.\n\nThe modern version of this argument is careful about who it is talking about. It is not about people who do not want God to exist, or who have never asked. It is about people who are open, who have looked, and who still do not believe. That such people exist is not seriously disputed. What that fact shows is.",
+
+  "distinctions": [
+    {
+      "label": "Why doesn't God prove himself to sceptics?",
+      "gloss": "Usually asked about people who are resisting, and both sides agree that a God who overwhelmed resistance would be doing something other than seeking a relationship. Not the argument here.",
+      "activeHere": false
+    },
+    {
+      "label": "Why is anyone honestly seeking and not finding?",
+      "gloss": "The version with force: not the unwilling, but people open to God who look and come up empty. This is the argument on this page.",
+      "activeHere": true
+    },
+    {
+      "label": "Why is there suffering?",
+      "gloss": "A different argument with a similar shape, and the two are often run together. Topic 3.",
+      "activeHere": false
+    }
+  ],
+
+  "glossary": [
+    {
+      "term": "nonresistant nonbelief",
+      "definition": "Not believing in God without having refused him: being open, or actively looking, and still finding nothing. The argument turns on whether this happens, and it clearly does."
+    },
+    {
+      "term": "epistemic distance",
+      "definition": "John Hick's term for a gap in the evidence deliberately left open, so that people are not compelled into belief and can come freely or not at all."
+    },
+    {
+      "term": "the hiddenness of God",
+      "definition": "A theme inside the Bible long before it was an argument against it. The psalms ask where God has gone; Isaiah calls him a God who hides himself."
+    }
+  ],
+
+  "sides": [
+    {
+      "label": "A God who wanted to be known would be easier to find",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "gods-honesty",
+          "claim": "A being that powerful could make his intentions clear, and has not",
+          "explanation": "Set aside proof for a moment and ask about ordinary communication. Anyone who genuinely wants to be understood, and has the means, makes sure they are. A parent who leaves instructions a child cannot read has not left instructions.\n\nNietzsche's version is about honesty rather than evidence, and it is the sharper form. The complaint is not that God failed to provide a syllogism. It is that a being with unlimited power and unlimited knowledge, who wanted his creatures to know what he intended, would not have left the matter to contested texts, competing traditions, and inference.",
+          "quote": {
+            "text": "A god who is all-knowing and all-powerful and who does not even make sure that his creatures understand his intention — could that be a god of goodness?",
+            "author": "Friedrich Nietzsche",
+            "work": "Daybreak: Thoughts on the Prejudices of Morality",
+            "year": "1881",
+            "locator": "§91, 'God's honesty'",
+            "sourceUrl": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "It assumes that being understood is the only thing God could want, and that clarity costs nothing. If what is wanted is a relationship freely entered, then overwhelming someone with evidence is not a better version of the same thing; it changes what is on offer. A proof would produce assent, and assent is not trust.",
+            "response": "That would be a good answer if the choice were between a proof and silence. It is not. There is an enormous range between a compelling demonstration and the situation we actually have, and nothing in the free-relationship reply explains why the evidence sits at this end of it."
+          }
+        },
+        {
+          "id": "nonresistant-nonbelief",
+          "claim": "People who are open, and looking, still find nothing",
+          "explanation": "This is the version that put hiddenness back into serious philosophy. It does not depend on any claim about the strength of the evidence. It depends on one fact about people: some of them are not resisting God at all — they would welcome him, some have prayed for years to be shown something — and they do not believe.\n\nJ. L. Schellenberg's argument is that [[nonresistant nonbelief]] should not exist if a perfectly loving God does. Love, at minimum, means being available to the person who is reaching for you. Whatever reasons God might have for staying hidden from someone hostile, they do not obviously apply to someone with open hands.",
+          "quote": {
+            "text": "Schellenberg's argument runs that a perfectly loving God would always be open to a personal relationship with any finite person who is capable of one; that being so open is incompatible with that person's being unable to believe God exists through no fault of their own; that such people plainly do exist; and that therefore no perfectly loving God does.",
+            "author": "J. L. Schellenberg",
+            "work": "Divine Hiddenness and Human Reason",
+            "year": "1993",
+            "sourceUrl": "https://philpapers.org/rec/SCHDHA",
+            "verification": "paraphrase"
+          },
+          "counter": {
+            "objection": "The argument needs 'open to a relationship' to mean 'makes belief happen now', and those are different. A relationship can be genuinely on offer while the timing is not ours: a person unready at thirty may be ready at fifty, and a God outside time is not obliged to work to our schedule. Nor is belief the only form openness can take.",
+            "response": "Some of those people die at thirty. And an offer that the person reaching for it cannot detect is doing none of the work the word 'offer' usually does. The reply may be true, but it is the claim that God's love does not look like love from inside a human life, which is a heavy thing to grant."
+          }
+        }
+      ]
+    },
+    {
+      "label": "A God who compelled belief would be offering something else",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "enough-light",
+          "claim": "The evidence is calibrated to what a person is willing to see",
+          "explanation": "Pascal's answer is that the situation is not an oversight but a design, and that it fits the kind of thing being sought. Overwhelming evidence would settle the question of God's existence while leaving untouched the question the Christian tradition thinks is actually at stake — what a person wants to be true, and what they would do about it.\n\nSo the world is arranged with enough to go on for someone who wants to look and enough obscurity for someone who would rather not. This is not a claim that seekers always find quickly. It is a claim that the ambiguity is doing something, rather than being a fault in the design.",
+          "quote": {
+            "text": "There is enough light for those who only desire to see, and enough obscurity for those who have a contrary disposition.",
+            "author": "Blaise Pascal",
+            "work": "Pensées, tr. W. F. Trotter",
+            "year": "1670",
+            "sourceUrl": "https://www.ccel.org/ccel/pascal/pensees.viii.html",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "This makes an untestable claim about the inner state of everyone who fails to find God, and it makes it in a direction that is very convenient. It says that anyone still looking must not really want to see — which cannot be checked, cannot be disproved, and quietly insults a great many honest people.",
+            "response": "Read that way it deserves the objection, and it is often read that way. The stronger reading is not about individuals at all: it is that evidence never operates on a person independently of what they are prepared to do with it, which is a claim about how belief works generally, not an accusation about any particular unbeliever."
+          }
+        },
+        {
+          "id": "the-distance-is-the-point",
+          "claim": "The gap is what makes a free response possible",
+          "explanation": "On this view, God's not being obvious is not a failure of communication but a condition of the relationship. A being of unlimited power who made himself unmistakable would not be one option among others; every choice made in his presence would be made under something close to duress. [[Epistemic distance]] is what leaves room for a response that is genuinely the person's own.\n\nC. S. Lewis put the point in the mouth of a demon, which is the reason it lands. What Screwtape fears is not the believer with good evidence. It is the person who has lost every trace of God and keeps going anyway — because that, on the Christian account, is what love looks like when it is not being paid for.",
+          "quote": {
+            "text": "Our cause is never more in danger, than when a human, no longer desiring, but intending, to do our Enemy's will, looks round upon a universe from which every trace of Him seems to have vanished, and asks why he has been forsaken, and still obeys.",
+            "author": "C. S. Lewis",
+            "work": "The Screwtape Letters",
+            "year": "1942",
+            "locator": "Letter VIII",
+            "sourceUrl": "https://en.wikipedia.org/wiki/The_Screwtape_Letters",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "This explains why God might not force belief. It does not explain the actual distribution. Millions have lived and died without ever encountering the claim, which is not freedom but absence of the option. And within Christianity, God is described as making himself unmistakable to particular people — Paul on the road to Damascus was not left epistemic distance. Whatever the value of the gap, it is applied unevenly.",
+            "response": "The uneven distribution is the strongest form of the objection and there is no tidy answer to it. What the tradition says is that the reckoning is not closed at death and that nobody is judged on evidence they never had. That is a real answer, and it is one that cannot be checked from here."
+          }
+        }
+      ]
+    }
+  ],
+
+  "notes": [
+    {
+      "heading": "The Bible got here first",
+      "text": "It is worth knowing, on both sides, that [[the hiddenness of God]] is not an objection invented by critics. It is a theme inside the texts.\n\nThe psalms ask how long God will hide his face. Isaiah addresses him directly as a God who hides himself. Job's complaint is not that God is unjust in the abstract but that he will not show up and answer. And the sentence the Gospels put in Jesus's mouth at the crucifixion is a quotation from Psalm 22: my God, why have you forsaken me.\n\nThis does not settle anything. It does mean that a Christian who finds God absent is in a position the tradition has language for, and that an atheist presenting hiddenness as a fact Christianity has failed to notice is presenting it to people who have been writing about it for three thousand years."
+    }
+  ],
+
+  "whereItStands": "This is the argument that has moved most in the last thirty years. Before Schellenberg it was a mood; now it is a formal argument in the literature, and it is generally reckoned the strongest case against theism after the problem of suffering.\n\nThe two sides have narrowed to a real disagreement rather than a misunderstanding. Nobody now argues that God should prove himself to people who are refusing. The dispute is about whether a loving God could have reasons for remaining hidden from someone who is not refusing — and about whether the reasons offered, which are mostly about freedom and the timing of a relationship, are enough to cover the cases that actually occur.\n\nWhere it lands depends on something not itself decidable here: how confident you are that you can tell what a loving God would do. The atheist argument needs that confidence, and the main theist reply is that we do not have it — which is the same move made against the problem of suffering, and carries the same cost. If we cannot judge what love would look like, we lose most of our grip on what we were arguing about.",
+
+  "commonMistake": "Atheists most often argue the version about proof — why doesn't God write it in the sky — which invites the free-response reply and loses the argument that actually works. The strong form is not about proof at all; it is about people who are already reaching.\n\nChristians most often answer with the free-will reply and stop there, without noticing that it addresses compulsion rather than distribution. It says nothing about the person who spent a decade praying to be shown something, and nothing at all about the millions who never heard the claim.\n\nAnd both sides tend to argue about a generic seeker while the real force of the topic is in particular cases. Whatever is said here should be sayable to someone who prayed for years and got nothing, because that person is who the argument is about.",
+
+  "sources": [
+    { "title": "Daybreak: Thoughts on the Prejudices of Morality", "author": "Friedrich Nietzsche", "year": "1881", "url": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt", "note": "§91 is titled 'God's honesty'." },
+    { "title": "Divine Hiddenness and Human Reason", "author": "J. L. Schellenberg", "year": "1993", "url": "https://philpapers.org/rec/SCHDHA", "note": "The argument on this page is summarised rather than quoted; the summary is labelled a paraphrase." },
+    { "title": "Pensées, tr. W. F. Trotter", "author": "Blaise Pascal", "year": "1670", "url": "https://www.ccel.org/ccel/pascal/pensees.viii.html" },
+    { "title": "The Screwtape Letters", "author": "C. S. Lewis", "year": "1942", "url": "https://en.wikipedia.org/wiki/The_Screwtape_Letters" },
+    { "title": "The Hiddenness of God", "author": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/divine-hiddenness/" },
+    { "title": "Divine Hiddenness Argument against God's Existence", "author": "Internet Encyclopedia of Philosophy", "url": "https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/" }
+  ]
+}

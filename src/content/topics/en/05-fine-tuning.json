@@ -1,0 +1,177 @@
+{
+  "id": "fine-tuning",
+  "number": 5,
+  "slug": "fine-tuning",
+  "title": "Is the universe fine-tuned for life?",
+  "category": "natural-science",
+  "status": "open",
+  "realQuestion": "A handful of numbers in physics — the strength of gravity, the mass of the electron, the energy of the vacuum — appear to sit in very narrow ranges. Move some of them a little and you get a universe with no stars, or no chemistry, or one that recollapses before anything can happen in it.\n\nThis is what is meant by [[fine-tuning]], and that much is ordinary physics rather than a religious claim. The disagreement starts immediately afterwards, over what kind of fact it is. One side says a set of numbers this specific is the signature of something choosing them. The other says we have no idea how likely those numbers were, that a universe unsuitable for observers would have nobody in it to notice, and that surprise is not evidence.\n\nBoth of those are respectable positions, and the argument between them is unusually clean: it is about probability, and about what we are entitled to be surprised by.",
+  "distinctions": [
+    {
+      "label": "Are the constants in narrow life-permitting ranges?",
+      "gloss": "A physics question, and largely agreed. The ranges are real; the size of some of them is debated at the edges, but not the basic point.",
+      "activeHere": false
+    },
+    {
+      "label": "Does that call for an explanation beyond physics?",
+      "gloss": "Whether narrowness is evidence of design, of a multiverse, or of nothing at all. This is the argument on this page.",
+      "activeHere": true
+    },
+    {
+      "label": "Does biology show design?",
+      "gloss": "A separate argument about living things rather than physical constants, and one that has gone very differently. Topic 6.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "fine-tuning",
+      "definition": "That small changes to certain physical constants would give a universe in which life of any kind is impossible. The word is unfortunate: it sounds like it already contains its own answer."
+    },
+    {
+      "term": "anthropic principle",
+      "definition": "The observation that we could only ever find ourselves in a universe that permits observers. Trivially true, and the argument is about how much explaining it does."
+    },
+    {
+      "term": "multiverse",
+      "definition": "The proposal that our universe is one of an enormous number with differing constants. It arises independently from inflationary cosmology and string theory; it was not invented to answer this argument."
+    },
+    {
+      "term": "selection effect",
+      "definition": "When how you gathered your data guarantees a result. A survey of people leaving a cinema will find that most people like the film."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Numbers this specific are the mark of something choosing",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "the-knife-edge",
+          "claim": "The ranges are far too narrow to shrug at",
+          "explanation": "The examples are concrete. If the strong nuclear force were a few per cent different, the carbon resonance that lets stars make carbon at all would be gone. Change the cosmological constant in the far decimal places and the universe either flies apart or collapses before galaxies form.\n\nFred Hoyle predicted that carbon resonance before it was found, and was so struck by what he had found that he said the obvious thing out loud. He was not a theist and never became one — which is exactly why the sentence is worth quoting. The impression of contrivance is not manufactured by apologists; it is what the physics looked like to the physicist who did the work.",
+          "quote": {
+            "text": "A common sense interpretation of the facts suggests that a superintellect has monkeyed with physics, as well as with chemistry and biology.",
+            "author": "Fred Hoyle",
+            "work": "The Universe: Past and Present Reflections, Engineering and Science",
+            "year": "1981",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Fred_Hoyle",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "Narrow compared to what? To call a value improbable you need to know the range it could have taken and how likely each part of that range was, and nobody has either. We have exactly one universe, no theory of where constants come from, and no sample. The impression of a knife edge may be an artefact of choosing units and varying one number at a time.",
+            "response": "The objection is real and it is why the argument is stated as an inference to the best explanation rather than a calculation. But 'we cannot assign a probability' is not the same as 'there is nothing to explain'. Physicists treat these coincidences as needing an account when the account is a multiverse, and it is inconsistent to say the question evaporates only when the answer might be God."
+          }
+        },
+        {
+          "id": "the-multiverse-moves-the-problem",
+          "claim": "Explaining the tuning by a multiverse just relocates the tuning",
+          "explanation": "Grant a [[multiverse]] producing universes with different constants. Something has to produce them, and that something is a mechanism with its own laws and its own settings — which have to be right for it to work at all. Inflationary models that spawn regions with varying constants need particular fields and particular potentials to do it.\n\nSo the question moves up a level rather than going away. William Lane Craig's version of the point is deliberately homely, and it survives being homely: whatever generates a range of outcomes is itself a specific arrangement, and asking why that arrangement is as it is puts you back where you started.",
+          "quote": {
+            "text": "this recourse to the World Ensemble will be in vain if it turns out that the mechanism that generates the World Ensemble must itself be fine-tuned, for then one has only kicked the problem upstairs. After all, even my bread machine has to be made just right in order to work properly, and it only produces loaves of bread, not universes.",
+            "author": "William Lane Craig",
+            "work": "Reasonable Faith",
+            "year": "2008",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/scholarly-writings/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The same regress applies to the other answer with more force. A mind capable of selecting the constants of physics is not a simple thing that needs no account; it is at least as specific as the universe it is invoked to explain, and rather harder to describe. If 'what fine-tuned the multiverse generator' is a good question, 'what accounts for a universe-designing mind' is a better one.",
+            "response": "That is the strongest reply, and the classical answer is that God is held not to be a complex arrangement of parts at all, so that the regress does not start. Whether that answer is a genuine metaphysical claim or a way of declaring one explanation exempt is the argument in topic 2, and it is not settled here."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Surprise is not evidence",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "botched-and-bungled",
+          "claim": "Many tries and one success is an old and adequate answer",
+          "explanation": "Long before inflationary cosmology, Hume noticed that a universe fitted to its contents does not require a fitter if there have been enough attempts. Trial and error over enough tries produces results that look designed, and the failures leave nobody behind to write about them.\n\nThe modern [[multiverse]] is this idea with physics attached. It matters that it was not invented for this purpose: eternal inflation generates enormous numbers of regions with different low-energy constants as a by-product of models built for other reasons. Whether those models are right is open. That they are motivated independently is not.",
+          "quote": {
+            "text": "many worlds might have been botched and bungled, throughout an eternity, ere this system was struck out; much labour lost; many fruitless trials made; and a slow, but continued improvement carried on during infinite ages in the art of world-making.",
+            "author": "David Hume",
+            "work": "Dialogues Concerning Natural Religion",
+            "year": "1779",
+            "locator": "Part V, spoken by Philo",
+            "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "There is no evidence for any of the other universes, and by construction there cannot be. A hypothesis that multiplies unobservable entities without limit in order to make an improbability go away is not obviously more scientific than the one it is replacing; it is an appeal to a very large number of unseen things.",
+            "response": "The other regions are not posited to solve this problem. They fall out of models built from observed physics, and if those models are right the regions exist whether or not anyone finds the fine-tuning argument interesting. That is a different epistemic situation from inventing entities to order."
+          }
+        },
+        {
+          "id": "the-observer-is-the-sample",
+          "claim": "We could not have found ourselves in a universe where we could not exist",
+          "explanation": "Any observer, in any universe that permits observers, finds constants compatible with observers. That is not a coincidence requiring explanation; it is a [[selection effect]] built into the act of looking.\n\nThe point is easiest to feel through Douglas Adams's puddle, which wakes up in a hole, notices how astonishingly well the hole fits it, and concludes the hole was made for it. The puddle has the causation backwards: it took the shape of the hole. Whether we are the puddle is precisely what the two sides disagree about — but the possibility is enough to show that fitting your environment is not by itself evidence that the environment was arranged.",
+          "quote": {
+            "text": "This is rather as if you imagine a puddle waking up one morning and thinking, 'This is an interesting world I find myself in — an interesting hole I find myself in — fits me rather neatly, doesn't it?'",
+            "author": "Douglas Adams",
+            "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge",
+            "year": "1998",
+            "sourceUrl": "https://www.biotacast.org/douglasAdams.html",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The [[anthropic principle]] explains why we observe a life-permitting universe given that we observe anything. It does not explain why there is a life-permitting universe to be observed. Facing a firing squad and surviving, you may conclude that of course you are alive to wonder about it — and still be entitled to ask why twelve marksmen all missed.",
+            "response": "The firing squad works as an analogy only if we know the marksmen rarely miss, which is the probability we do not have. Without knowing the range the constants could have taken, there is no fact about how surprising the outcome is, and the analogy imports the very number the argument needs to establish."
+          },
+          "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What is agreed, and what is not",
+      "text": "The physics is less contested than the argument around it, so it is worth separating out.\n\nAgreed: for several constants, values outside a narrow band would give a universe without stars, without chemistry, or without enough duration for anything to develop. The carbon resonance, the cosmological constant and the ratio of electromagnetic to gravitational strength are the usual examples, and they are real results, not apologetic inventions.\n\nNot agreed: how narrow some of the bands are once you allow several constants to vary together rather than one at a time; whether the constants could have taken other values at all, which depends on a deeper theory nobody has; and whether the word 'tuning' is doing argumentative work that the physics has not earned. Anyone who tells you the fine-tuning is a proven improbability, or that it is a well-known illusion, has gone past what is known."
+    }
+  ],
+  "whereItStands": "This is the argument from design that survived. Topic 6 shows what happened to the biological version; this one is in better condition, and it is taken seriously by philosophers who have no religious stake in it.\n\nThe disagreement has narrowed to a genuine technical question: whether it means anything to assign a probability to the constants of nature when we have one universe, no theory of where constants come from, and no way to sample. If such probabilities are meaningful, the fine-tuning is a real datum needing an explanation, and design and the multiverse are the two candidates on the table. If they are not meaningful, the argument does not fail so much as fail to start.\n\nNobody has resolved that, and it may not be resolvable without the deeper physics. In the meantime both of the live answers — a designing mind, or an enormous ensemble of universes — ask you to accept something you cannot observe. Which of those is the smaller thing to swallow is not a question physics answers.",
+  "commonMistake": "Atheists most often treat the multiverse as though it removed the question, when it relocates it: the generator has its own settings. Some also dismiss the whole topic as creationism in a lab coat, which is a mistake of a different kind — the fine-tuning is a real result and Hoyle was not an apologist.\n\nChristians most often present the small numbers as a settled probability calculation. They are not: there is no probability distribution over the constants, and quoting a figure like one in ten to the hundred and twenty as though it were measured overstates what is known. The honest version of the argument does not need it.\n\nAnd both sides tend to slide between 'the universe permits life' and 'the universe is for life'. The first is the datum. The second is the conclusion, and it is what the argument was supposed to establish.",
+  "sources": [
+    {
+      "title": "The Universe: Past and Present Reflections",
+      "author": "Fred Hoyle",
+      "year": "1981",
+      "url": "https://en.wikipedia.org/wiki/Fred_Hoyle",
+      "note": "Engineering and Science, November 1981. Hoyle was not a theist; he described his position as tending towards a deistic reading of the physics rather than any religion."
+    },
+    {
+      "title": "Reasonable Faith",
+      "author": "William Lane Craig",
+      "year": "2008",
+      "url": "https://www.reasonablefaith.org/writings/scholarly-writings/"
+    },
+    {
+      "title": "Dialogues Concerning Natural Religion",
+      "author": "David Hume",
+      "year": "1779",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "note": "Part V anticipates the trial-and-error answer by nearly two centuries."
+    },
+    {
+      "title": "Is There an Artificial God?",
+      "author": "Douglas Adams",
+      "year": "1998",
+      "url": "https://www.biotacast.org/douglasAdams.html",
+      "note": "Full text of the impromptu speech at Digital Biota 2, Magdalene College, Cambridge, September 1998."
+    },
+    {
+      "title": "Just Six Numbers: The Deep Forces That Shape the Universe",
+      "author": "Martin Rees",
+      "year": "1999",
+      "url": "https://www.goodreads.com/book/show/81884.Just_Six_Numbers",
+      "note": "A cosmologist's account of the constants and of the multiverse answer, written for non-specialists."
+    },
+    {
+      "title": "Fine-Tuning",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/fine-tuning/"
+    }
+  ]
+}

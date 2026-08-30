@@ -1,0 +1,168 @@
+{
+  "id": "beginning-and-cause",
+  "number": 1,
+  "slug": "beginning-and-cause",
+  "title": "Did the universe begin, and does a beginning need a cause?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "This argument is old, Islamic in origin, and short enough to fit on a napkin. Whatever begins to exist has a cause. The universe began to exist. So the universe has a cause.\n\nIts brevity is the problem: almost everyone who repeats it is arguing about a different one of its three moving parts. Whether the universe began is a question for cosmologists, and their answer is more hedged than either side usually admits. Whether beginning to exist requires a cause is a question for philosophers, and it is not the obvious truth it sounds like. Whether the cause would be anything like God is a third question, which the argument by itself does not touch.\n\nThis page is about the middle one, because that is where the live disagreement is.",
+  "distinctions": [
+    {
+      "label": "Did the universe begin?",
+      "gloss": "A question for physics. The honest answer is that the evidence points that way and the models that avoid it are not ruled out. Set out in the note below rather than argued here.",
+      "activeHere": false
+    },
+    {
+      "label": "Does beginning to exist require a cause?",
+      "gloss": "A philosophical question that no amount of cosmology settles. This is the argument on this page.",
+      "activeHere": true
+    },
+    {
+      "label": "Would that cause be God?",
+      "gloss": "A further step the argument does not take by itself. Getting from 'a cause' to anything worth worshipping needs the arguments in topics 2 and 5, and is not attempted here.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "cause",
+      "definition": "In this argument, whatever it is that explains why a thing exists rather than not. Not necessarily a push or a bang: the question is about dependence, not about mechanics."
+    },
+    {
+      "term": "begins to exist",
+      "definition": "Comes into being at a first moment, with nothing before it. Doing this to the universe is odd, because there is no 'before' for it to come into being after."
+    },
+    {
+      "term": "quantum vacuum",
+      "definition": "Not nothing. It is a physical system with energy and laws, in which particles appear and disappear. When physicists say particles come from nothing, this is usually what they mean."
+    },
+    {
+      "term": "singularity",
+      "definition": "A point where a theory's numbers run to infinity and it stops giving answers. It may mark a real edge to time, or only the edge of what general relativity can describe."
+    }
+  ],
+  "sides": [
+    {
+      "label": "A beginning is the kind of thing that needs explaining",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "out-of-nothing",
+          "claim": "Nothing comes from nothing, and that is not a scientific finding but the assumption science runs on",
+          "explanation": "The causal premise is not a generalisation from watching a lot of things start. It is closer to a rule we cannot think without. If things could simply begin uncaused, there would be no reason anything at all does not appear right now — and no reason for scientists to look for causes in the first place, which is what they spend their lives doing.\n\nWilliam Lane Craig, who revived the argument in the 1970s, puts the weight here rather than on the physics. If the phrase [[begins to exist]] applies to the universe at all, then asking what accounts for it is not a strange question but the ordinary one.",
+          "quote": {
+            "text": "Whatever begins to exist has a cause of its existence. The universe began to exist. Therefore, the universe has a cause of its existence.",
+            "author": "William Lane Craig",
+            "work": "The Kalām Cosmological Argument",
+            "year": "1979",
+            "locator": "the argument as Craig states it, defended at length in his later writings",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "Every [[cause]] anyone has ever observed happened inside time, to something made of already-existing stuff, in a universe with laws. The premise is an excellent rule about events within the universe and there is no reason to think it applies to the universe itself. Extending it there is not obvious; it is the whole thing being argued for.",
+            "response": "That objection proves too much. If rules learned inside the universe cannot be applied to it, then neither can the cosmology the other side relies on, nor logic, nor probability. Something has to carry across, and a principle this basic is a strange one to abandon precisely where it becomes inconvenient."
+          }
+        },
+        {
+          "id": "an-actual-beginning",
+          "claim": "The evidence points to a genuine beginning, not just to the limit of our theories",
+          "explanation": "The 2003 Borde–Guth–Vilenkin theorem showed that any universe which has been expanding on average cannot be extended infinitely into the past — including the inflationary and cyclic models built to avoid a beginning. It is a result about the geometry, and it does not depend on which model turns out to be right.\n\nAlexander Vilenkin, one of its authors, put it bluntly at a 2012 meeting. He is not a theist and draws no theological conclusion from it, which is why it is worth quoting him rather than someone who does.",
+          "quote": {
+            "text": "All the evidence we have says that the universe had a beginning.",
+            "author": "Alexander Vilenkin",
+            "work": "Did the Universe Have a Beginning?, talk at the State of the Universe meeting, Cambridge",
+            "year": "2012",
+            "sourceUrl": "https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The theorem constrains classical spacetimes, and nobody thinks the earliest universe was classical. What it shows is that our current description breaks down, which is what a [[singularity]] always shows. Vilenkin himself has since worked on quantum-gravity models in which the boundary is not an absolute beginning, and no theory we trust reaches back that far.",
+            "response": "Granted, and this is why the argument does not rest here. The point is narrower: the models designed specifically to avoid a beginning have not succeeded in avoiding one, and a past-eternal universe is currently the harder position to hold, not the safe default."
+          }
+        }
+      ]
+    },
+    {
+      "label": "The premise does not survive contact with the universe itself",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "the-premise-eats-itself",
+          "claim": "If everything needs a cause, so does God; if something need not, it may as well be the universe",
+          "explanation": "This is the oldest objection and it is usually dismissed too fast. Defenders reply that the premise is not \"everything has a cause\" but \"everything that begins to exist has a cause\", and God did not begin — so the objection misses.\n\nThat reply works, and look at what it costs. The premise is now doing no independent work: it holds that things which begin need causes, and the only thing anyone claims began is the universe. The argument has quietly become the assertion it was supposed to prove. Russell's version is blunter than the modern literature but it locates the same soft spot.",
+          "quote": {
+            "text": "If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument.",
+            "author": "Bertrand Russell",
+            "work": "Why I Am Not a Christian",
+            "year": "1927",
+            "sourceUrl": "https://russell-j.com/0399WINC.HTM",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The distinction is not a dodge invented to save the argument. It is much older than the objection and rests on a real difference: a thing that has always existed does not need an account of how it started, because it did not start. Russell is attacking a premise nobody defending the argument has held for eight hundred years.",
+            "response": "Then the argument needs an independent reason to think the universe is the sort of thing that began and God is not — and that reason cannot be the argument itself. Without it, 'necessary being' is a label for whatever you had already decided not to explain."
+          }
+        },
+        {
+          "id": "causation-inside-time",
+          "claim": "Causing requires a before and an after, and at the first moment there is no before",
+          "explanation": "Every cause we understand takes time: one state of affairs leads to another. If the first moment of time is the first moment, then there is no earlier moment for a cause to sit in, and \"caused\" is being used in a sense nobody has ever encountered.\n\nSean Carroll's version of the point is that the demand for a cause is a habit of thought rather than a law of physics. Fundamental physics does not describe the world as a chain of causes; it describes patterns that hold. A universe with a first moment and no cause is not incoherent, it is just unfamiliar — and unfamiliar is not an argument.",
+          "quote": {
+            "text": "Carroll's position is that modern physics does not describe the universe in terms of causes at all, but in terms of patterns; that a self-contained universe with an earliest moment breaks no law and needs no external cause; and that the intuition demanding one is a habit from everyday life rather than a finding about the world.",
+            "author": "Sean Carroll",
+            "work": "Does the Universe Need God?",
+            "year": "2012",
+            "sourceUrl": "https://preposterousuniverse.com/writings/dtung/",
+            "verification": "paraphrase"
+          },
+          "counter": {
+            "objection": "\"The equations do not mention causes\" is a fact about the notation, not about reality. Physics does not mention persons or promises either. And a cause need not come earlier in time: the tradition has always allowed a cause that is simultaneous with, or outside, what it causes — the point is dependence, not sequence.",
+            "response": "Once the cause need not be earlier, need not be physical, and need not act in any way we can describe, it is fair to ask what is left of the word. The argument's force came from the everyday sense of cause, and that sense is exactly what has been given up to make it work."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What cosmology actually says",
+      "text": "Both sides overclaim here, so it is worth setting out separately.\n\nThe Big Bang model describes the universe expanding from an extremely hot, dense early state about 13.8 billion years ago. That much is not in doubt. What it does not straightforwardly say is that this was the beginning of everything: run the equations back far enough and general relativity produces a [[singularity]], which is generally read as the theory failing rather than as a description of a real first instant. A quantum theory of gravity would be needed to say what happened there, and there is not yet one that is settled.\n\nThe Borde–Guth–Vilenkin theorem is a real constraint and it does rule out a large class of past-eternal models. It is not a proof that time began. Anyone telling you that cosmology has established a beginning, or that it has ruled one out, is ahead of the evidence.\n\nOne confusion is worth heading off. Physicists sometimes say particles arise from nothing, and popular accounts take this as science producing something from non-existence. What they mean is the [[quantum vacuum]], which is a physical system with energy, structure and laws. Whatever else it is, it is not the nothing this argument is about."
+    }
+  ],
+  "whereItStands": "The physics is genuinely unsettled and is likely to stay that way for a while, so an argument that leans hard on cosmology is building on ground that may move.\n\nThe philosophical half is where the real disagreement is, and it is narrower than it looks. Almost nobody thinks things pop into existence uncaused in ordinary life. The question is whether that confidence transfers to the universe as a whole — a case where every feature that made the principle obvious is absent. Both sides are extrapolating; they disagree about which extrapolation is safer.\n\nWorth noticing that even a complete success here delivers less than it seems. The argument yields a cause of the universe, and the work of showing that this cause is personal, good, or interested in anyone is entirely separate. Defenders of the argument agree with that, and say so.",
+  "commonMistake": "Atheists most often reach for \"then who made God?\", which the argument answered a long time ago. There is a much better objection sitting behind it — that the distinction between things that begin and things that do not is doing all the work and has not been independently earned — and reaching for the weaker one wastes it.\n\nChristians most often present the cosmology as settled when it is not, and then treat a physicist's cautious sentence as an endorsement. The result is that the argument's credibility rises and falls with the latest paper, which is a bad place to put a case you care about.\n\nBoth sides argue past each other about which of the three questions is at issue. A great many exchanges consist of one person defending the causal premise while the other attacks the cosmology, with neither noticing.",
+  "sources": [
+    {
+      "title": "In Defense of the Kalam Cosmological Argument",
+      "author": "William Lane Craig",
+      "url": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument",
+      "note": "Craig's own statement and defence of the argument. The book of the same name is from 1979."
+    },
+    {
+      "title": "Did the Universe Have a Beginning?",
+      "author": "Alexander Vilenkin",
+      "year": "2012",
+      "url": "https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf",
+      "note": "Vilenkin's own talk, given at the meeting where the quoted remark was made."
+    },
+    {
+      "title": "Why I Am Not a Christian",
+      "author": "Bertrand Russell",
+      "year": "1927",
+      "url": "https://russell-j.com/0399WINC.HTM"
+    },
+    {
+      "title": "Does the Universe Need God?",
+      "author": "Sean Carroll",
+      "year": "2012",
+      "url": "https://preposterousuniverse.com/writings/dtung/",
+      "note": "Written for the Blackwell Companion to Science and Christianity. The summary on this page is a paraphrase, not a quotation."
+    },
+    {
+      "title": "Cosmological Argument",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+    }
+  ]
+}

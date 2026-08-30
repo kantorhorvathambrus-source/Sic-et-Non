@@ -65,5 +65,9 @@
   "argument.expand": "Lire l'argument en entier",
   "context.heldBy": "Qui la défend",
   "context.standing": "Ce que disent les preuves",
-  "context.onConflict": "Quand les preuves ne concordent pas"
+  "context.onConflict": "Quand les preuves ne concordent pas",
+  "distinctions.heading": "De quelle question traite cette page",
+  "distinctions.thisPage": "cette page",
+  "distinctions.notThisPage": "pas cette page",
+  "topic.notes": "Bon à savoir"
 }

@@ -1,0 +1,148 @@
+{
+  "id": "something-rather-than-nothing",
+  "number": 2,
+  "slug": "something-rather-than-nothing",
+  "title": "Why is there something rather than nothing?",
+  "category": "existence-of-god",
+  "status": "interpretive",
+
+  "realQuestion": "Nothing would have been simpler. No stars, no atoms, no laws, no space for anything to be in. That state needs no explanation, no origin and no maintenance. Yet here is a universe.\n\nThe question is not about the Big Bang. Even if the universe turned out to be infinitely old and never to have begun, it would still be here rather than not, and the question would be untouched. It is asking something stranger: why is there anything at all to have a history?\n\nOne side says that a question this basic must have an answer, and that the only kind of answer that would work is something which could not have failed to exist. The other says the demand for an answer is a habit we have overextended, and that at some point an explanation has to stop.",
+
+  "distinctions": [
+    {
+      "label": "Why is there anything at all?",
+      "gloss": "Why existence rather than nothing whatsoever. This is the argument on this page, and no discovery about the universe's contents can answer it.",
+      "activeHere": true
+    },
+    {
+      "label": "Why did the universe start?",
+      "gloss": "A question about a first moment, and a different one: an eternal universe would still need explaining on this page. Topic 1.",
+      "activeHere": false
+    },
+    {
+      "label": "Why is the universe like this rather than otherwise?",
+      "gloss": "Why these constants, these laws, this set-up. Also different, and argued in topic 5.",
+      "activeHere": false
+    }
+  ],
+
+  "glossary": [
+    {
+      "term": "contingent",
+      "definition": "Something that exists but could have failed to exist. You are contingent. So, apparently, is everything you have ever seen."
+    },
+    {
+      "term": "necessary being",
+      "definition": "Something that could not have failed to exist, so that asking why it exists rather than not has an answer built into what it is. Whether anything is like this is the dispute."
+    },
+    {
+      "term": "principle of sufficient reason",
+      "definition": "The claim that everything has an explanation — either in something else, or in its own nature. Powerful, hard to prove, and hard to abandon without also abandoning ordinary reasoning."
+    },
+    {
+      "term": "brute fact",
+      "definition": "Something true with no explanation at all: not unexplained so far, but unexplained full stop. The atheist answer here is usually that the universe is one."
+    },
+    {
+      "term": "fallacy of composition",
+      "definition": "Concluding that a whole has a property because its parts do. Every brick is small, so the wall is small — which is false. Whether the argument on this page commits it is contested."
+    }
+  ],
+
+  "sides": [
+    {
+      "label": "Something that could not have failed to exist",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "nothing-is-simpler",
+          "claim": "Nothing is the state that would need no explaining, so something does",
+          "explanation": "Leibniz noticed that the question is not idle. Non-existence is not a rival state of affairs competing for the job; it is the absence of any job. Nothing has to happen for there to be nothing. Something is the outlier.\n\nHis principle is that everything has an explanation, either in something outside it or in what it is. Apply that to the universe and you get one of two results: either it is explained by something else, or its existence is somehow built into its own nature. Almost nobody claims the second for the physical universe. That leaves the first, or leaves the [[principle of sufficient reason]] abandoned.",
+          "quote": {
+            "text": "Why is there something rather than nothing? For nothing is simpler and easier than something.",
+            "author": "Gottfried Wilhelm Leibniz",
+            "work": "Principles of Nature and Grace, Founded on Reason",
+            "year": "1714",
+            "locator": "§7",
+            "sourceUrl": "https://philpapers.org/rec/LEIPON",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The principle is asserted, not established. It works beautifully inside the universe, where explanations are found by looking, and there is no independent reason to think it holds of existence as such. And if it does hold universally, it is in trouble anyway: God's existence would then need an explanation too, and calling it self-explanatory is not obviously more than a way of stopping.",
+            "response": "Abandoning it has a price that is rarely counted. If some things simply have no explanation, then no failure to find one ever counts as evidence of anything, and the reasoning that got us to the question in the first place is undercut. The choice is not between a principle and no principle; it is between a principle and arbitrariness."
+          }
+        },
+        {
+          "id": "contingent-all-the-way",
+          "claim": "A collection of things that might not have existed does not explain itself by being large",
+          "explanation": "Everything we have ever encountered is [[contingent]]: it exists, and it could have not. Aquinas's version runs that if everything were like that, then nothing would be there to account for why the whole business is running rather than not — however far back the chain goes, adding links does not supply what every link lacks.\n\nThe conclusion is not \"therefore God\" in one step. It is that something must exist which is not contingent — a [[necessary being]] — and the argument that this is anything like the God of a religion is a separate one that the classical tradition made separately.",
+          "quote": {
+            "text": "We find in nature things that are possible to be and not to be, since they are found to be generated, and to corrupt, and consequently, they are possible to be and not to be.",
+            "author": "Thomas Aquinas",
+            "work": "Summa Theologiae I, q. 2, a. 3, the Third Way, tr. Fathers of the English Dominican Province",
+            "year": "c. 1265",
+            "sourceUrl": "https://www.newadvent.org/summa/1002.htm",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "This looks like a [[fallacy of composition]]. Every human has a mother; the human race does not. Moving from 'each thing is contingent' to 'the whole is contingent' is exactly the move that fails elsewhere, and the argument gives no reason why it should work here.",
+            "response": "The reply is that contingency is not like being small or having a mother. If every member of a collection could have failed to exist, then the collection could have failed to exist, since there would be nothing left of it. That inference is not obviously invalid — though whether it is obviously valid is the argument."
+          }
+        }
+      ]
+    },
+    {
+      "label": "The question runs out before the answer does",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "just-there",
+          "claim": "Every explanation stops somewhere, and the universe is a reasonable place to stop",
+          "explanation": "The theist stops at a being whose existence needs no further account. The atheist stops one step earlier, at the universe. Both are stopping; the disagreement is only about where, and neither position gets to call the other arbitrary without answering for its own halt.\n\nRussell said this to Frederick Copleston on the radio in 1948, and the exchange is still the clearest statement of the impasse. It is not a refusal to think. It is the claim that a [[brute fact]] has to enter somewhere, and that adding a necessary being does not remove the brute fact so much as rename it.",
+          "quote": {
+            "text": "I should say that the universe is just there, and that's all.",
+            "author": "Bertrand Russell",
+            "work": "Debate with Frederick Copleston, BBC Third Programme",
+            "year": "1948",
+            "sourceUrl": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The two stopping points are not equivalent. Stopping at a necessary being is stopping at something whose nature accounts for its existing; stopping at the universe is stopping at something that visibly could have been otherwise, and simply declining to ask. One is an explanation, the other is a decision not to want one.",
+            "response": "That only works if 'necessary being' is a coherent notion doing real work, rather than a name for the place the questions were stopped. Nobody has produced a necessary being that can be inspected, and 'its nature accounts for its existing' is a claim, not a demonstration."
+          }
+        },
+        {
+          "id": "the-parts-and-the-whole",
+          "claim": "Once every part is accounted for, there is no further thing left to account for",
+          "explanation": "Suppose every event in the universe's history is explained by an earlier one, with no gaps. What is left over? On this view, nothing: the demand for an explanation of the whole collection, over and above the explanation of each member, is a demand for something that does not exist.\n\nHume made the point two centuries before the modern debate, and it is still what most atheist philosophers say. The word \"universe\" tempts us to treat the collection as an extra object needing its own account. It is not an extra object. It is the things.",
+          "quote": {
+            "text": "Did I show you the particular causes of each individual in a collection of twenty particles of matter, I should think it very unreasonable, should you afterwards ask me, what was the cause of the whole twenty.",
+            "author": "David Hume",
+            "work": "Dialogues Concerning Natural Religion",
+            "year": "1779",
+            "locator": "Part IX, spoken by Cleanthes",
+            "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "Explaining each member by another member does not explain why there is a series at all. If every coat in a rack hangs on the hook of the coat beside it, you have explained each coat and not why anything is off the floor. The question was never 'what caused this event', it was 'why is there a sequence rather than none'.",
+            "response": "The coat image assumes what it is trying to show — that the collection needs holding up by something outside it. If the series has no first member and no external support, nothing is unexplained; there is simply no additional fact of the kind the question is looking for."
+          }
+        }
+      ]
+    }
+  ],
+
+  "whereItStands": "This is tagged interpretive, and that tag is doing real work here. No observation could settle it. Both sides accept every fact about the universe and disagree about whether a further question remains once the facts are in.\n\nWhat the disagreement really turns on is how much explanatory ambition you think is warranted. If you hold that everything must have an explanation, theism follows more naturally than atheism from that starting point, and most atheist philosophers who engage the argument closely accept as much — which is why they attack the principle rather than the inference. If you hold that explanation has to bottom out somewhere and that the universe is as good a place as any, the argument never gets started.\n\nNeither of those is a discovery. Each is a decision about what kind of question deserves an answer, and the argument mostly makes explicit what a person had already assumed.",
+
+  "commonMistake": "Atheists most often answer a question that was not asked, explaining how the universe developed from an earlier state. That is a good answer to a different question, and it leaves this one exactly where it was.\n\nChristians most often finish too early, treating 'therefore a necessary being' as though it were 'therefore God'. Aquinas and Leibniz both knew those were different steps and argued them separately; the compressed version skips the harder half.\n\nAnd both sides accuse the other of arbitrarily stopping, without noticing that stopping somewhere is the only option either has. The honest form of this argument is a disagreement about where to stop, not about whether to.",
+
+  "sources": [
+    { "title": "Principles of Nature and Grace, Founded on Reason", "author": "Gottfried Wilhelm Leibniz", "year": "1714", "url": "https://philpapers.org/rec/LEIPON", "note": "The freely available Early Modern Texts version is a modernised rewording, not a translation, so it cannot be used to check wording." },
+    { "title": "Summa Theologiae I, q. 2, a. 3", "author": "Thomas Aquinas", "year": "c. 1265", "url": "https://www.newadvent.org/summa/1002.htm", "note": "The Third Way. Aquinas argues separately, and at length, that the necessary being is God." },
+    { "title": "Debate on the Existence of God, BBC Third Programme", "author": "Bertrand Russell and Frederick Copleston", "year": "1948", "url": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm", "note": "Full transcript. Copleston argues from contingency; Russell's replies are the source of most later atheist responses." },
+    { "title": "Dialogues Concerning Natural Religion", "author": "David Hume", "year": "1779", "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm", "note": "Part IX contains the objection to the argument from contingency." },
+    { "title": "Cosmological Argument", "author": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/cosmological-argument/" }
+  ]
+}

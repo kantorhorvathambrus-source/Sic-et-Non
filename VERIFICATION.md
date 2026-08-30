@@ -16,6 +16,102 @@ run `npm run verify:content` to see the count move.
 
 Rows are ordered by how cheap they are to check.
 
+## Topic 1: Did the universe begin, and does a beginning need a cause?
+
+File: `src/content/topics/<locale>/01-beginning-and-cause.json`
+
+### 1. Bertrand Russell — [ ] corroborated
+
+- **Published as:** “If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument.”
+- **Work:** Why I Am Not a Christian
+- **Year:** 1927
+- **Used for:** the-premise-eats-itself — the claim
+- **Source:** https://russell-j.com/0399WINC.HTM
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Alexander Vilenkin — [ ] corroborated
+
+- **Published as:** “All the evidence we have says that the universe had a beginning.”
+- **Work:** Did the Universe Have a Beginning?, talk at the State of the Universe meeting, Cambridge
+- **Year:** 2012
+- **Used for:** an-actual-beginning — the claim
+- **Source:** https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Sean Carroll — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** Carroll's position is that modern physics does not describe the universe in terms of causes at all, but in terms of patterns; that a self-contained universe with an earliest moment breaks no law and needs no external cause; and that the intuition demanding one is a habit from everyday life rather than a finding about the world.
+- **Work:** Does the Universe Need God?
+- **Year:** 2012
+- **Used for:** causation-inside-time — the claim
+- **Source:** https://preposterousuniverse.com/writings/dtung/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 4. William Lane Craig — [ ] corroborated
+
+- **Published as:** “Whatever begins to exist has a cause of its existence. The universe began to exist. Therefore, the universe has a cause of its existence.”
+- **Work:** The Kalām Cosmological Argument
+- **Year:** 1979 · the argument as Craig states it, defended at length in his later writings
+- **Used for:** out-of-nothing — the claim
+- **Source:** https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and that the argument as Craig states it, defended at length in his later writings is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 2: Why is there something rather than nothing?
+
+File: `src/content/topics/<locale>/02-something-rather-than-nothing.json`
+
+### 1. Thomas Aquinas — [ ] corroborated
+
+- **Published as:** “We find in nature things that are possible to be and not to be, since they are found to be generated, and to corrupt, and consequently, they are possible to be and not to be.”
+- **Work:** Summa Theologiae I, q. 2, a. 3, the Third Way, tr. Fathers of the English Dominican Province
+- **Year:** c. 1265
+- **Used for:** contingent-all-the-way — the claim
+- **Source:** https://www.newadvent.org/summa/1002.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Bertrand Russell — [ ] corroborated
+
+- **Published as:** “I should say that the universe is just there, and that's all.”
+- **Work:** Debate with Frederick Copleston, BBC Third Programme
+- **Year:** 1948
+- **Used for:** just-there — the claim
+- **Source:** https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. David Hume — [ ] corroborated
+
+- **Published as:** “Did I show you the particular causes of each individual in a collection of twenty particles of matter, I should think it very unreasonable, should you afterwards ask me, what was the cause of the whole twenty.”
+- **Work:** Dialogues Concerning Natural Religion
+- **Year:** 1779 · Part IX, spoken by Cleanthes
+- **Used for:** the-parts-and-the-whole — the claim
+- **Source:** https://www.gutenberg.org/files/4583/4583-h/4583-h.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that Part IX, spoken by Cleanthes is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Gottfried Wilhelm Leibniz — [ ] corroborated
+
+- **Published as:** “Why is there something rather than nothing? For nothing is simpler and easier than something.”
+- **Work:** Principles of Nature and Grace, Founded on Reason
+- **Year:** 1714 · §7
+- **Used for:** nothing-is-simpler — the claim
+- **Source:** https://philpapers.org/rec/LEIPON
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
+- **Check:** the wording word for word, and that §7 is right. Confirm it is not quoted out of a sentence that reverses it.
+
 ## Topic 3: If God is good, why is there so much suffering?
 
 File: `src/content/topics/<locale>/03-problem-of-suffering.json`
@@ -27,6 +123,7 @@ File: `src/content/topics/<locale>/03-problem-of-suffering.json`
 - **Year:** 1779 · Part X, spoken by Philo
 - **Used for:** the-old-questions — the claim
 - **Source:** https://www.gutenberg.org/files/4583/4583-h/4583-h.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and that Part X, spoken by Philo is right. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -37,48 +134,160 @@ File: `src/content/topics/<locale>/03-problem-of-suffering.json`
 - **Year:** 1880 · Book V, ch. 4, 'Rebellion'
 - **Used for:** the-price-of-a-reason — the claim
 - **Source:** https://www.gutenberg.org/ebooks/28054
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and that Book V, ch. 4, 'Rebellion' is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 3. Alvin Plantinga — [ ] corroborated
+### 3. Stephen J. Wykstra — [ ] corroborated
 
-- **Published as:** “A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.”
-- **Work:** God, Freedom, and Evil
-- **Year:** 1974
-- **Used for:** free-will-defence — the claim
-- **Source:** https://www.eerdmans.com/9780802817310/god-freedom-and-evil/
-- **Unclassified.** Find the source text and confirm the wording.
-- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+- **Published as:** “if we think carefully about the sort of being theism proposes for our belief, it is entirely expectable — given what we know of our cognitive limits — that the goods by virtue of which this Being allows known suffering should very often be beyond our ken”
+- **Work:** The Humean Obstacle to Evidential Arguments from Suffering, International Journal for Philosophy of Religion 16
+- **Year:** 1984 · p. 91
+- **Used for:** beyond-our-ken — the claim
+- **Source:** https://link.springer.com/article/10.1007/BF00136567
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
+- **Check:** the wording word for word, and that p. 91 is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 4. David Bentley Hart — [ ] corroborated
-
-- **Published as:** “rather than showing us how the tears of a small girl suffering in the dark were necessary for the building of the Kingdom, he will instead raise her up and wipe away all tears from her eyes.”
-- **Work:** The Doors of the Sea: Where Was God in the Tsunami?
-- **Year:** 2005
-- **Used for:** refusing-theodicy — the claim
-- **Source:** https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/
-- **Unclassified.** Find the source text and confirm the wording.
-- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
-
-### 5. John Hick — [ ] corroborated
+### 4. John Hick — [ ] corroborated
 
 - **Published as:** “The good that outshines all ill is not a paradise long since lost but a kingdom which is yet to come in its full glory and permanence.”
 - **Work:** Evil and the God of Love
 - **Year:** 1966
 - **Used for:** soul-making — the claim
 - **Source:** https://link.springer.com/book/10.1057/9780230283961
-- **Unclassified.** Find the source text and confirm the wording.
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
-### 6. William L. Rowe — [ ] corroborated
+### 5. William L. Rowe — [ ] corroborated
 
 - **Published as:** “In some distant forest lightning strikes a dead tree, resulting in a forest fire. In the fire a fawn is trapped, horribly burned, and lies in terrible agony for several days before death relieves its suffering.”
 - **Work:** The Problem of Evil and Some Varieties of Atheism, American Philosophical Quarterly 16
 - **Year:** 1979 · p. 337
 - **Used for:** the-fawn — the claim
 - **Source:** https://philpapers.org/rec/ROWTPO-3
-- **Unclassified.** Find the source text and confirm the wording.
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
 - **Check:** the wording word for word, and that p. 337 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Alvin Plantinga — [ ] corroborated
+
+- **Published as:** “A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.”
+- **Work:** God, Freedom, and Evil
+- **Year:** 1974
+- **Used for:** note: Why the logical version is no longer argued
+- **Source:** https://www.eerdmans.com/9780802817310/god-freedom-and-evil/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 7. David Bentley Hart — [ ] corroborated
+
+- **Published as:** “rather than showing us how the tears of a small girl suffering in the dark were necessary for the building of the Kingdom, he will instead raise her up and wipe away all tears from her eyes.”
+- **Work:** The Doors of the Sea: Where Was God in the Tsunami?
+- **Year:** 2005
+- **Used for:** refusing-theodicy — the claim
+- **Source:** https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 4: If God wants to be known, why is he hidden?
+
+File: `src/content/topics/<locale>/04-divine-hiddenness.json`
+
+### 1. J. L. Schellenberg — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** Schellenberg's argument runs that a perfectly loving God would always be open to a personal relationship with any finite person who is capable of one; that being so open is incompatible with that person's being unable to believe God exists through no fault of their own; that such people plainly do exist; and that therefore no perfectly loving God does.
+- **Work:** Divine Hiddenness and Human Reason
+- **Year:** 1993
+- **Used for:** nonresistant-nonbelief — the claim
+- **Source:** https://philpapers.org/rec/SCHDHA
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 2. Blaise Pascal — [ ] corroborated
+
+- **Published as:** “There is enough light for those who only desire to see, and enough obscurity for those who have a contrary disposition.”
+- **Work:** Pensées, tr. W. F. Trotter
+- **Year:** 1670
+- **Used for:** enough-light — the claim
+- **Source:** https://www.ccel.org/ccel/pascal/pensees.viii.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Friedrich Nietzsche — [ ] corroborated
+
+- **Published as:** “A god who is all-knowing and all-powerful and who does not even make sure that his creatures understand his intention — could that be a god of goodness?”
+- **Work:** Daybreak: Thoughts on the Prejudices of Morality
+- **Year:** 1881 · §91, 'God's honesty'
+- **Used for:** gods-honesty — the claim
+- **Source:** https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that §91, 'God's honesty' is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. C. S. Lewis — [ ] corroborated
+
+- **Published as:** “Our cause is never more in danger, than when a human, no longer desiring, but intending, to do our Enemy's will, looks round upon a universe from which every trace of Him seems to have vanished, and asks why he has been forsaken, and still obeys.”
+- **Work:** The Screwtape Letters
+- **Year:** 1942 · Letter VIII
+- **Used for:** the-distance-is-the-point — the claim
+- **Source:** https://en.wikipedia.org/wiki/The_Screwtape_Letters
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that Letter VIII is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 5: Is the universe fine-tuned for life?
+
+File: `src/content/topics/<locale>/05-fine-tuning.json`
+
+### 1. David Hume — [ ] corroborated
+
+- **Published as:** “many worlds might have been botched and bungled, throughout an eternity, ere this system was struck out; much labour lost; many fruitless trials made; and a slow, but continued improvement carried on during infinite ages in the art of world-making.”
+- **Work:** Dialogues Concerning Natural Religion
+- **Year:** 1779 · Part V, spoken by Philo
+- **Used for:** botched-and-bungled — the claim
+- **Source:** https://www.gutenberg.org/files/4583/4583-h/4583-h.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that Part V, spoken by Philo is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. William Lane Craig — [ ] corroborated
+
+- **Published as:** “this recourse to the World Ensemble will be in vain if it turns out that the mechanism that generates the World Ensemble must itself be fine-tuned, for then one has only kicked the problem upstairs. After all, even my bread machine has to be made just right in order to work properly, and it only produces loaves of bread, not universes.”
+- **Work:** Reasonable Faith
+- **Year:** 2008
+- **Used for:** the-multiverse-moves-the-problem — the claim
+- **Source:** https://www.reasonablefaith.org/writings/scholarly-writings/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Fred Hoyle — [ ] corroborated
+
+- **Published as:** “A common sense interpretation of the facts suggests that a superintellect has monkeyed with physics, as well as with chemistry and biology.”
+- **Work:** The Universe: Past and Present Reflections, Engineering and Science
+- **Year:** 1981
+- **Used for:** the-knife-edge — the claim
+- **Source:** https://en.wikipedia.org/wiki/Fred_Hoyle
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Douglas Adams — [ ] corroborated
+
+- **Published as:** “This is rather as if you imagine a puddle waking up one morning and thinking, 'This is an interesting world I find myself in — an interesting hole I find myself in — fits me rather neatly, doesn't it?'”
+- **Work:** Is There an Artificial God?, speech at Digital Biota 2, Cambridge
+- **Year:** 1998
+- **Used for:** the-observer-is-the-sample — the claim
+- **Source:** https://www.biotacast.org/douglasAdams.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
 ## Topic 6: Creation or evolution?
 
@@ -91,6 +300,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** c. 1268
 - **Used for:** genesis-and-the-fathers — the claim
 - **Source:** https://www.newadvent.org/summa/1068.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -101,6 +311,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 2005
 - **Used for:** intelligent-design — the reply
 - **Source:** https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -111,6 +322,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 1874
 - **Used for:** old-earth-creationism — positive case
 - **Source:** https://www.gutenberg.org/files/19192/19192-h/19192-h.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -121,6 +333,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 1860 · DCP-LETT-2814
 - **Used for:** process-looks-unplanned — the claim
 - **Source:** https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Primary document, free.** Open and search the page. Confirm the wording and the date.
 - **Check:** the wording word for word, and that DCP-LETT-2814 is right. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -131,6 +344,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 2016 · a formulation used across Answers in Genesis material
 - **Used for:** young-earth-creationism — positive case
 - **Source:** https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Primary document, free.** Open and search the page. Confirm the wording and the date.
 - **Check:** the wording word for word, and that a formulation used across Answers in Genesis material is right. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -141,6 +355,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** current
 - **Used for:** young-earth-creationism — when evidence disagrees
 - **Source:** https://answersingenesis.org/about/faith/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Primary document, free.** Open and search the page. Confirm the wording and the date.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -151,6 +366,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 1973 · pp. 125-129
 - **Used for:** mechanism-not-author — the claim
 - **Source:** https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Journal of record.** Open the article (paywall or library access) and check the page number.
 - **Check:** the wording word for word, and that pp. 125-129 is right. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -161,6 +377,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 2011 · preface, p. ix
 - **Used for:** deep-concord — the claim
 - **Source:** https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and that preface, p. ix is right. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -171,6 +388,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 1986 · p. 6
 - **Used for:** design-without-designer — the claim
 - **Source:** https://wwnorton.com/books/9780393351491
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and that p. 6 is right. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -181,6 +399,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 2006 · p. 178
 - **Used for:** evolutionary-creation — positive case
 - **Source:** https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and that p. 178 is right. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -191,6 +410,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 1996 · p. 39
 - **Used for:** intelligent-design — positive case
 - **Source:** https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and that p. 39 is right. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -201,6 +421,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** 1995
 - **Used for:** no-skyhooks — the claim
 - **Source:** https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
@@ -211,14 +432,19 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Year:** c. 415 · Book I, ch. 19
 - **Used for:** context note
 - **Source:** https://inters.org/augustine-interpretating-sacred-scripture
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and that Book I, ch. 19 is right. Confirm it is not quoted out of a sentence that reverses it.
 
 ---
 
-**0 of 19 verified against the source text.**
+**0 of 36 verified against the source text.**
 
-When a row is confirmed, change `verification` to `primary` in all five locale
-files for that quotation and regenerate this sheet. If the wording turns out to
-be wrong, fix the text; if it cannot be found at all, remove the quotation —
-a missing quotation is a small loss, a wrong one is not.
+When a row is confirmed, set three fields on that quotation in all five locale
+files — `verification` to `primary`, `verifiedBy` to who checked it, and
+`verifiedOn` to the date — then regenerate this sheet. The record of who checked
+and when is the part that makes the claim defensible later; "someone verified
+this at some point" is not a defence.
+
+If the wording turns out to be wrong, fix the text. If it cannot be found at all,
+remove the quotation: a missing quotation is a small loss, a wrong one is not.

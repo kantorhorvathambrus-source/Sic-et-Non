@@ -65,5 +65,9 @@
   "argument.expand": "Az érv elolvasása teljes egészében",
   "context.heldBy": "Kik képviselik",
   "context.standing": "Mit mondanak a bizonyítékok",
-  "context.onConflict": "Amikor a bizonyítékok ellentmondanak"
+  "context.onConflict": "Amikor a bizonyítékok ellentmondanak",
+  "distinctions.heading": "Melyik kérdésről szól ez az oldal",
+  "distinctions.thisPage": "ez az oldal",
+  "distinctions.notThisPage": "nem ez az oldal",
+  "topic.notes": "Érdemes tudni"
 }

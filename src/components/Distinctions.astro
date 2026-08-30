@@ -1,0 +1,122 @@
+---
+// Which version of the question this page is about, and which it is not.
+//
+// Deliberately a strip rather than a section: three or four lines the reader
+// takes in before the arguments start. Most real disagreements about religion
+// are two people answering different questions, and this is the cheapest place
+// to stop that happening.
+import type { CollectionEntry } from 'astro:content';
+import type { Locale } from '../i18n';
+import { useTranslations } from '../i18n';
+
+type Topic = CollectionEntry<'topics'>['data'];
+
+interface Props {
+  distinctions: NonNullable<Topic['distinctions']>;
+  locale: Locale;
+}
+
+const { distinctions, locale } = Astro.props;
+const t = useTranslations(locale);
+---
+
+<section class="distinctions" aria-labelledby="distinctions-heading">
+  <h3 id="distinctions-heading">{t('distinctions.heading')}</h3>
+  <ul>
+    {
+      distinctions.map((item) => (
+        <li class:list={{ active: item.activeHere }}>
+          <span class="marker" aria-hidden="true">{item.activeHere ? '●' : '○'}</span>
+          <span class="body">
+            <span class="label">
+              {item.label}
+              <span class="tag">
+                {item.activeHere ? t('distinctions.thisPage') : t('distinctions.notThisPage')}
+              </span>
+            </span>
+            <span class="gloss">{item.gloss}</span>
+          </span>
+        </li>
+      ))
+    }
+  </ul>
+</section>
+
+<style>
+  .distinctions {
+    max-width: var(--measure-wide);
+    margin-bottom: var(--space-l);
+    padding: var(--space-m) var(--space-l);
+    border: var(--hairline) solid var(--rule);
+    border-radius: var(--radius);
+  }
+
+  h3 {
+    font-family: var(--font-body);
+    font-size: var(--step--1);
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: var(--space-s);
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: var(--space-xs);
+  }
+
+  li {
+    display: grid;
+    grid-template-columns: 1rem 1fr;
+    gap: var(--space-xs);
+    align-items: baseline;
+    font-size: var(--step--1);
+    color: var(--ink-faint);
+  }
+
+  li.active {
+    color: var(--ink);
+  }
+
+  .marker {
+    font-size: 0.7em;
+    line-height: 1.6;
+  }
+
+  /* min-width:0 so a long label can wrap inside the 1fr track. */
+  .body {
+    min-width: 0;
+  }
+
+  .label {
+    display: block;
+    font-weight: 600;
+    color: var(--ink-muted);
+  }
+
+  li.active .label {
+    color: var(--ink);
+  }
+
+  .tag {
+    margin-left: var(--space-xs);
+    font-weight: 400;
+    font-size: 0.85em;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+  }
+
+  li.active .tag {
+    color: var(--tag-settled-ink);
+  }
+
+  .gloss {
+    display: block;
+    color: var(--ink-muted);
+  }
+</style>

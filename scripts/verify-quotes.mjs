@@ -138,6 +138,18 @@ for (const full of files) {
     if (topic[field]) checkTerms(file, field, topic[field], glossary, usedTerms);
   }
 
+  // Topic-level notes and the distinctions strip carry prose and quotations too;
+  // anything that renders has to be checked, or a term used only there reads as
+  // unused and a quotation there goes unvalidated.
+  (topic.notes ?? []).forEach((item, n) => {
+    checkTerms(file, `notes[${n}].text`, item.text ?? '', glossary, usedTerms);
+    if (item.quote) checkQuote(file, `notes[${n}].quote`, item.quote);
+  });
+
+  (topic.distinctions ?? []).forEach((item, i) => {
+    checkTerms(file, `distinctions[${i}].gloss`, item.gloss ?? '', glossary, usedTerms);
+  });
+
   const seenIds = new Set();
   const argumentCounts = [];
 
@@ -284,6 +296,9 @@ for (const full of files) {
         if (argument.quote) collect.push([`quote (${argument.id})`, argument.quote]);
         if (argument.counter?.quote) collect.push([`counter quote (${argument.id})`, argument.counter.quote]);
       }
+    }
+    for (const [n, item] of (topic.notes ?? []).entries()) {
+      if (item.quote) collect.push([`note quote (${n})`, item.quote]);
     }
     if (topic.context?.note?.quote) {
       collect.push(['context note quote', topic.context.note.quote]);

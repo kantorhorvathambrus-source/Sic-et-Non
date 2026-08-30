@@ -6,6 +6,37 @@
   "category": "existence-of-god",
   "status": "open",
   "realQuestion": "This is the oldest argument against God and still the strongest, and it is worth being precise about what it is.\n\nIt is not the claim that a good God is logically impossible given any suffering at all. That version was pressed hard in the twentieth century and is now widely thought to have failed, including by philosophers who are atheists. What replaced it is narrower and harder: the sheer quantity of suffering, and the way it falls on those who cannot have deserved it or learned from it, is [[evidence]] against a God who is both able to stop it and disposed to.\n\nSo the question is not \"can you tell a story in which this suffering has a point?\" — you almost always can. It is whether the suffering we actually observe is what you would expect if such a God existed, or whether it is what you would expect if nobody were in charge.\n\nThere is also a third thing in the room that is not an argument at all: the person who has just lost a child does not want a [[theodicy]]. Nothing on this page is addressed to them, and both sides on it would say the same.",
+  "distinctions": [
+    {
+      "label": "The logical problem",
+      "gloss": "That a good God and any suffering at all are flatly contradictory. Pressed hard until the 1970s; now generally granted to have failed, including by atheist philosophers.",
+      "activeHere": false
+    },
+    {
+      "label": "The evidential problem",
+      "gloss": "That the amount and distribution of suffering is strong evidence against such a God, even if not a disproof. This is the live argument, and the one this page is about.",
+      "activeHere": true
+    },
+    {
+      "label": "The existential problem",
+      "gloss": "What to say to someone in the middle of a loss. Not an argument, and nothing here is addressed to it. Both sides agree a correct answer can still be the wrong thing to say.",
+      "activeHere": false
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Why the logical version is no longer argued",
+      "text": "For most of the twentieth century the case was that God and suffering are logically incompatible: that no consistent story could contain both. Alvin Plantinga's free will defence ended that. He did not claim to know why God permits suffering; he argued only that free creatures who sometimes choose wrongly are logically possible alongside a good God, which is all that is needed to break a claim of contradiction.\n\nIt worked, and it is why this page argues the evidential version instead. It is set out here rather than as one of the three arguments because it settles a question nobody is still pressing — a slot on this page is for a live argument. It also does nothing about the fawn, which is what the arguments above are for.",
+      "quote": {
+        "text": "A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.",
+        "author": "Alvin Plantinga",
+        "work": "God, Freedom, and Evil",
+        "year": "1974",
+        "sourceUrl": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/",
+        "verification": "corroborated"
+      }
+    }
+  ],
   "glossary": [
     {
       "term": "evidence",
@@ -98,20 +129,21 @@
       "position": "theist",
       "arguments": [
         {
-          "id": "free-will-defence",
-          "claim": "A world with genuine choices cannot be a world where harm is impossible",
-          "explanation": "If people can really choose, some will choose badly, and God cannot both leave the choice free and guarantee the outcome. That is not a limit on God's power any more than being unable to draw a square circle is; it is what the words mean.\n\nAlvin Plantinga's version of this is narrow and is the reason the argument moved on. He does not claim to know why God permits suffering. He claims only that free creatures who sometimes do wrong are logically possible alongside a good God — which is enough to defeat the claim that the two are contradictory, and philosophers on both sides largely accept that it does.",
+          "id": "beyond-our-ken",
+          "claim": "We are not well enough placed to tell that suffering is pointless",
+          "explanation": "This is the direct answer to the fawn, and it is where most of the current philosophical work sits. Grant that we cannot see what good the fawn's death serves. The argument turns on a further step: that if there were a good, we would probably see it. Only then does not seeing one count as evidence.\n\n[[Skeptical theism]] denies that step. Stephen Wykstra's version asks what we should expect if the theistic God existed — and answers that a being that far beyond us would have reasons we would routinely fail to grasp, the way an infant fails to grasp why a parent permits a painful injection. On that view the blankness we find when we look for a reason is exactly what theism predicts, so it cannot also be evidence against it.",
           "quote": {
-            "text": "A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.",
-            "author": "Alvin Plantinga",
-            "work": "God, Freedom, and Evil",
-            "year": "1974",
-            "sourceUrl": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/",
+            "text": "if we think carefully about the sort of being theism proposes for our belief, it is entirely expectable — given what we know of our cognitive limits — that the goods by virtue of which this Being allows known suffering should very often be beyond our ken",
+            "author": "Stephen J. Wykstra",
+            "work": "The Humean Obstacle to Evidential Arguments from Suffering, International Journal for Philosophy of Religion 16",
+            "year": "1984",
+            "locator": "p. 91",
+            "sourceUrl": "https://link.springer.com/article/10.1007/BF00136567",
             "verification": "corroborated"
           },
           "counter": {
-            "objection": "It answers the version of the argument nobody presses any more. Free will says nothing about the fawn, about malaria, or about the hundreds of millions of years of animal suffering before humans existed. Winning the logical argument while the evidential one is untouched is not much of a win.",
-            "response": "It is a real win about a real claim, and it is why the honest atheist arguments today are evidential rather than deductive. What it does not do is settle the evidential question, and pretending otherwise would be the mistake this page is trying to avoid."
+            "objection": "The blindness cannot be switched on only when it is needed. If we are too small to judge whether a horror was permitted for a reason, we are too small to judge that anything is good, that any prayer was answered, or that a religious experience was what it seemed. It also cuts into ordinary ethics: if unknown goods may justify appalling suffering, I can never be confident that preventing a harm is right, since the harm might be serving one. The price of the defence is paid in topics 10 and 17 as much as here.",
+            "response": "The reply is that the limit is specific rather than general: we are badly placed to survey the whole space of possible goods across all of history, and perfectly well placed to know that a child in front of us is in pain and that we should help. Whether that line can be held where it is needed and nowhere else is the open question, and it is a real one."
           }
         },
         {

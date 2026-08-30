@@ -21,16 +21,28 @@ const EN = join(ROOT, 'src/content/topics/en');
  */
 const EFFORT = [
   {
-    match: /gutenberg\.org|wikisource\.org|newadvent\.org|law\.justia\.com/,
+    match: /gutenberg\.org|wikisource\.org|newadvent\.org|law\.justia\.com|dhspriory\.org|russell-j\.com/,
     cost: 1,
     kind: 'Full text, free',
     how: 'Open and search the page for a distinctive phrase.',
   },
   {
-    match: /answersingenesis\.org|darwinproject\.ac\.uk|vatican\.va|news\.gallup\.com/,
+    match: /answersingenesis\.org|darwinproject\.ac\.uk|vatican\.va|news\.gallup\.com|preposterousuniverse\.com|reasonablefaith\.org|ctc\.cam\.ac\.uk/,
     cost: 2,
     kind: 'Primary document, free',
     how: 'Open and search the page. Confirm the wording and the date.',
+  },
+  {
+    match: /plato\.stanford\.edu|iep\.utm\.edu/,
+    cost: 2,
+    kind: 'Reference work, free',
+    how: 'Confirms the attribution but not the wording. Repoint at the source text where one exists.',
+  },
+  {
+    match: /philpapers\.org|link\.springer\.com|philarchive\.org/,
+    cost: 3,
+    kind: 'Scholarly record',
+    how: 'The record is free; the text may be paywalled. Check the page number as well as the wording.',
   },
   {
     match: /ucpress\.edu/,
@@ -65,6 +77,9 @@ function* quotesOf(topic) {
         yield { slot: `${argument.id} — the objection`, quote: argument.counter.quote };
       }
     }
+  }
+  for (const [i, item] of (topic.notes ?? []).entries()) {
+    if (item.quote) yield { slot: `note: ${item.heading}`, quote: item.quote };
   }
   const context = topic.context;
   if (context?.note?.quote) yield { slot: 'context note', quote: context.note.quote };
@@ -117,18 +132,33 @@ for (const file of files) {
     if (quote.verification === 'primary') done += 1;
 
     const status = quote.verification === 'primary' ? 'x' : ' ';
+    const isParaphrase = quote.verification === 'paraphrase';
     lines.push(`### ${index + 1}. ${quote.author} — [${status}] ${quote.verification}`);
     lines.push('');
-    lines.push(`- **Published as:** ${'“' + quote.text + '”'}`);
+    // A paraphrase is our sentence. Printing it in quotation marks here would be
+    // the very mistake the level exists to prevent.
+    lines.push(
+      isParaphrase
+        ? `- **Published as a paraphrase, not a quotation:** ${quote.text}`
+        : `- **Published as:** “${quote.text}”`,
+    );
     lines.push(`- **Work:** ${quote.work}`);
     lines.push(`- **Year:** ${quote.year}${quote.locator ? ` · ${quote.locator}` : ''}`);
     lines.push(`- **Used for:** ${slot}`);
     lines.push(`- **Source:** ${quote.sourceUrl}`);
+    lines.push(
+      `- **Verified by:** ${quote.verifiedBy ?? '_(not yet)_'}  ` +
+        `**on:** ${quote.verifiedOn ?? '_(not yet)_'}`,
+    );
     lines.push(`- **${effort.kind}.** ${effort.how}`);
     lines.push(
-      `- **Check:** the wording word for word${
-        quote.locator ? `, and that ${quote.locator} is right` : ', and find the page or section'
-      }. Confirm it is not quoted out of a sentence that reverses it.`,
+      isParaphrase
+        ? '- **Check:** whether a real sentence in the source makes this point as well. ' +
+          'If one does, replace the paraphrase with it. If none does, confirm the paraphrase ' +
+          'is a fair reading and leave the level as it is.'
+        : `- **Check:** the wording word for word${
+            quote.locator ? `, and that ${quote.locator} is right` : ', and find the page or section'
+          }. Confirm it is not quoted out of a sentence that reverses it.`,
     );
     lines.push('');
   }
@@ -138,10 +168,14 @@ lines.push('---');
 lines.push('');
 lines.push(`**${done} of ${total} verified against the source text.**`);
 lines.push('');
-lines.push('When a row is confirmed, change `verification` to `primary` in all five locale');
-lines.push('files for that quotation and regenerate this sheet. If the wording turns out to');
-lines.push('be wrong, fix the text; if it cannot be found at all, remove the quotation —');
-lines.push('a missing quotation is a small loss, a wrong one is not.');
+lines.push('When a row is confirmed, set three fields on that quotation in all five locale');
+lines.push('files — `verification` to `primary`, `verifiedBy` to who checked it, and');
+lines.push('`verifiedOn` to the date — then regenerate this sheet. The record of who checked');
+lines.push('and when is the part that makes the claim defensible later; "someone verified');
+lines.push('this at some point" is not a defence.');
+lines.push('');
+lines.push('If the wording turns out to be wrong, fix the text. If it cannot be found at all,');
+lines.push('remove the quotation: a missing quotation is a small loss, a wrong one is not.');
 lines.push('');
 
 await writeFile(join(ROOT, 'VERIFICATION.md'), lines.join('\n'));

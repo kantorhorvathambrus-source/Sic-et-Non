@@ -65,5 +65,9 @@
   "argument.expand": "Read this argument in full",
   "context.heldBy": "Held by",
   "context.standing": "Where the evidence stands",
-  "context.onConflict": "When the evidence disagrees"
+  "context.onConflict": "When the evidence disagrees",
+  "distinctions.heading": "Which question this page is about",
+  "distinctions.thisPage": "this page",
+  "distinctions.notThisPage": "not this page",
+  "topic.notes": "Worth knowing"
 }

@@ -6,6 +6,23 @@
   "category": "natural-science",
   "status": "settled-core",
   "realQuestion": "La «o» del título hace mucho daño. Convierte esto en una elección entre dos teorías sobre cómo llegaron aquí los animales. No lo es.\n\nSi los seres vivos comparten [[antepasados comunes]] y han cambiado con el tiempo es una pregunta científica, y los biólogos la respondieron hace más de un siglo. Lo que está realmente abierto es otra pregunta: si así llegó a ser la vida lo que es, ¿queda algo que un creador haya hecho?\n\nEsa es la discusión de esta página. La otra, sobre las cuatro maneras en que los cristianos han intentado encajar el Génesis con la geología, también es real, y aparece más abajo. Pero ocurre dentro del cristianismo, no entre el cristianismo y el ateísmo.",
+  "distinctions": [
+    {
+      "label": "¿Comparten las especies vivas antepasados comunes?",
+      "gloss": "Una pregunta científica, respondida hace más de un siglo. No se discute entre biólogos, y no es lo que discuten los dos lados de abajo.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Deja la evolución algo que un creador haya hecho?",
+      "gloss": "Una pregunta filosófica que la biología no resuelve en ningún sentido. Esta es la discusión de esta página.",
+      "activeHere": true
+    },
+    {
+      "label": "¿Cómo deben los cristianos leer el Génesis junto a la geología?",
+      "gloss": "Una disputa real, pero dentro del cristianismo y no entre el cristianismo y el ateísmo. Aparece más abajo, en las cuatro posturas.",
+      "activeHere": false
+    }
+  ],
   "settledCore": "Los biólogos y los geólogos no están divididos sobre esto. Las especies vivas descienden, con modificaciones, de antepasados compartidos; la [[selección natural]] actuando sobre la variación heredada es una causa principal de su adaptación; y la Tierra tiene unos 4500 millones de años. Lo respaldan el registro fósil, la anatomía comparada, la distribución geográfica de las especies y la evolución observada directamente en bacterias, y sobre todo la secuenciación de genomas, que podría haber refutado el antepasado común y en cambio lo confirmó con enorme detalle.\n\nEso dice lo que han encontrado esos campos, no quién tiene derecho a una opinión. Muchos cristianos sinceros lo rechazan. Gallup situó en el 40 por ciento la proporción de adultos estadounidenses que sostienen la visión de la Tierra joven sobre el origen humano en 2024, frente a un máximo del 47 por ciento, y esa cifra es específica de Estados Unidos. La Iglesia católica, las iglesias ortodoxas, la Comunión anglicana y las denominaciones protestantes históricas, juntas bastante más de la mitad de los cristianos del mundo, no enseñan una Tierra joven.\n\nSi creciste con una Tierra joven, nada de esto pretende decirte que estás fuera de esta conversación. Las cuatro posturas cristianas de más abajo son donde vive realmente el desacuerdo, y cada una la enuncia alguien que la sostiene.",
   "glossary": [
     {

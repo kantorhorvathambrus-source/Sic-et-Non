@@ -45,6 +45,17 @@ const out = {
   slug: need(t.slug, 'slug'),
   title: need(t.title, 'title'),
   realQuestion: need(t.realQuestion, 'realQuestion'),
+  distinctions: source.distinctions?.map((item, i) => ({
+    ...item,
+    label: need(t.distinctions?.[i]?.label, `distinctions[${i}].label`),
+    gloss: need(t.distinctions?.[i]?.gloss, `distinctions[${i}].gloss`),
+  })),
+  notes: source.notes?.map((item, i) => ({
+    ...item,
+    heading: need(t.notes?.[i]?.heading, `notes[${i}].heading`),
+    text: need(t.notes?.[i]?.text, `notes[${i}].text`),
+    quote: translateQuote(item.quote, t.notes?.[i]?.quote, t.notes?.[i]?.work),
+  })),
   settledCore: need(t.settledCore, 'settledCore'),
   glossary: source.glossary.map((_entry, i) => ({
     term: need(t.glossary[i]?.term, `glossary[${i}].term`),

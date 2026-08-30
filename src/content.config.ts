@@ -27,6 +27,13 @@ const quote = z.object({
   verification: z.enum(['primary', 'corroborated', 'paraphrase']),
   /** Page, section or line reference within the work, where one is known. */
   locator: z.string().optional(),
+  /**
+   * Who checked the wording against the source, and when. Recorded rather than
+   * implied: if a quotation is ever challenged, "someone verified this at some
+   * point" is not a defence. Required once `verification` is `primary`.
+   */
+  verifiedBy: z.string().optional(),
+  verifiedOn: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
   original: z
     .object({
       text: z.string().min(1),
@@ -36,6 +43,38 @@ const quote = z.object({
 });
 
 export type Quote = z.infer<typeof quote>;
+
+/**
+ * A distinction the reader needs before the arguments make sense: which version
+ * of the question this page is about, and which versions it is not.
+ *
+ * Position-neutral on purpose. This is a taxonomy of the question, not of the
+ * answers, so it is not a `context` entry — nobody "holds" the difference
+ * between the logical and the evidential problem of evil. Half of all real
+ * arguments about religion are two people answering different questions without
+ * noticing, and naming that is one of the more useful things the site can do.
+ */
+const distinction = z.object({
+  label: z.string().min(1),
+  gloss: z.string().min(1),
+  /** True for the version this page argues about; false for the ones it sets aside. */
+  activeHere: z.boolean(),
+});
+
+/**
+ * Background that is not an argument: a result everyone accepts, a piece of
+ * history, a position that has been settled or superseded.
+ *
+ * An argument slot is for a live argument. When a move has been won, abandoned
+ * or overtaken, it still belongs on the page — a reader will look for it — but
+ * it belongs here, where it is not competing for the space a current argument
+ * needs.
+ */
+const note = z.object({
+  heading: z.string().min(1),
+  text: z.string().min(1),
+  quote: quote.optional(),
+});
 
 /**
  * One argument, stated as its best defenders state it.
@@ -140,6 +179,10 @@ const topics = defineCollection({
       status: z.enum(['settled-core', 'open', 'interpretive']),
       /** What is actually being disputed, once the slogans are stripped out. */
       realQuestion: z.string().min(1),
+      /** Which version of the question this page argues, and which it sets aside. */
+      distinctions: z.array(distinction).min(2).optional(),
+      /** Settled results and history, kept out of the argument slots. */
+      notes: z.array(note).min(1).optional(),
       /**
        * Required when status is 'settled-core': the factual core the relevant
        * experts have settled, stated plainly. Editorial rule 3 — never manufacture
@@ -153,13 +196,7 @@ const topics = defineCollection({
           heading: z.string().min(1),
           intro: z.string().optional(),
           /** Background the positions do not carry — usually how the dispute arose. */
-          note: z
-            .object({
-              heading: z.string().min(1),
-              text: z.string().min(1),
-              quote: quote.optional(),
-            })
-            .optional(),
+          note: note.optional(),
           entries: z.array(contextEntry).min(2),
         })
         .optional(),
@@ -189,6 +226,14 @@ const topics = defineCollection({
         fail(
           ['settledCore'],
           "status 'settled-core' requires a settledCore statement: say plainly what the experts have settled.",
+        );
+      }
+
+      // Exactly one version of the question can be the one being argued.
+      if (topic.distinctions && !topic.distinctions.some((d) => d.activeHere)) {
+        fail(
+          ['distinctions'],
+          'no distinction is marked activeHere, so the strip does not say which question this page answers.',
         );
       }
 
