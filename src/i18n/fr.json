@@ -1,0 +1,75 @@
+{
+  "site.name": "Sic et Non",
+  "site.tagline": "Vingt débats entre l'athéisme et le christianisme, chaque camp sous sa forme la plus forte.",
+  "site.description": "Vingt débats entre l'athéisme et le christianisme. Chaque argument tel que le formulent ses meilleurs défenseurs, avec de vraies citations des penseurs qui l'ont avancé.",
+
+  "nav.home": "Sujets",
+  "nav.about": "À propos",
+  "nav.skipToContent": "Aller au contenu",
+
+  "home.intro": "Vingt questions dont on débat. Sur chacune, vous trouverez le meilleur argument des deux camps, dans les mots de ceux qui l'ont formulé. Ce site ne vous dit jamais qui a gagné.",
+  "home.topicsHeading": "Les vingt sujets",
+  "home.readTopic": "Lire ce sujet",
+  "home.comingSoon": "Pas encore rédigé",
+  "home.howToRead": "Comment lire ce site",
+
+  "category.existence-of-god": "L'existence de Dieu",
+  "category.natural-science": "Sciences de la nature",
+  "category.mind-and-will": "L'esprit et la volonté",
+  "category.morality": "Morale",
+  "category.history-and-text": "Histoire et texte",
+  "category.faith-and-society": "Foi et société",
+
+  "status.settled-core": "Noyau établi",
+  "status.open": "Ouvert",
+  "status.interpretive": "Interprétatif",
+  "status.settled-core.meaning": "Il y a ici un noyau de faits que les spécialistes concernés ont tranché. Ce qui reste en débat, c'est ce que ces faits signifient, pas les faits eux-mêmes.",
+  "status.open.meaning": "Un débat vivant. Des gens sérieux et bien informés se rangent des deux côtés.",
+  "status.interpretive.meaning": "Aucune preuve nouvelle ne tranchera cela. Au bout du compte, c'est un choix sur la façon de lire le monde.",
+  "status.label": "Statut",
+
+  "topic.number": "Sujet {n}",
+  "topic.realQuestion": "La vraie question",
+  "topic.settledCore": "Ce qui n'est pas en débat",
+  "topic.sides": "Les deux camps",
+  "topic.familyPositions": "Quatre positions chrétiennes",
+  "topic.whereItStands": "Où en est la question",
+  "topic.commonMistake": "L'erreur la plus fréquente",
+  "topic.sources": "Sources",
+  "topic.glossary": "Termes employés sur cette page",
+  "topic.readingTime": "Environ {n} minutes",
+  "topic.argumentMap": "Carte des arguments",
+  "topic.standardView": "Vue normale",
+  "topic.backToTopics": "Tous les sujets",
+
+  "side.theist": "Chrétien",
+  "side.atheist": "Athée",
+  "argument.objection": "L'objection la plus forte",
+  "argument.response": "Réponse",
+  "argument.claim": "Thèse",
+
+  "quote.paraphrase": "Paraphrase",
+  "quote.paraphraseNote": "Ce n'est pas une citation littérale. La formulation exacte n'a pas pu être vérifiée ; nous rendons donc l'idée de l'auteur avec nos mots.",
+  "quote.source": "Source",
+  "quote.original": "Texte original",
+  "quote.viewSource": "Voir la source",
+
+  "position.heldBy": "Qui la défend",
+  "position.scienceStanding": "Ce qu'en dit la science",
+
+  "theme.toggle": "Changer de thème",
+  "theme.light": "Clair",
+  "theme.dark": "Sombre",
+
+  "lang.switch": "Langue",
+  "lang.en": "English",
+  "lang.es": "Español",
+  "lang.fr": "Français",
+  "lang.de": "Deutsch",
+  "lang.hu": "Magyar",
+
+  "about.title": "À propos de ce site",
+  "about.rulesHeading": "Les règles éditoriales",
+  "footer.builtWith": "Un site statique. Pas de comptes, pas de commentaires, pas de traçage.",
+  "footer.license": "Les citations appartiennent à leurs auteurs et sont reproduites à fin de commentaire et de critique."
+}

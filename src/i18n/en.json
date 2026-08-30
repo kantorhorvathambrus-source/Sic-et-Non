@@ -1,0 +1,75 @@
+{
+  "site.name": "Sic et Non",
+  "site.tagline": "Twenty debates between atheism and Christianity, both sides at their strongest.",
+  "site.description": "Twenty debates between atheism and Christianity. Each argument as its best defenders state it, with real quotations from the thinkers who made them.",
+
+  "nav.home": "Topics",
+  "nav.about": "About",
+  "nav.skipToContent": "Skip to content",
+
+  "home.intro": "Twenty questions people argue about. On each one you get the best case for both sides, in the words of the people who made it. The site never tells you who won.",
+  "home.topicsHeading": "The twenty topics",
+  "home.readTopic": "Read this topic",
+  "home.comingSoon": "Not written yet",
+  "home.howToRead": "How to read this site",
+
+  "category.existence-of-god": "Existence of God",
+  "category.natural-science": "Natural science",
+  "category.mind-and-will": "Mind and will",
+  "category.morality": "Morality",
+  "category.history-and-text": "History and text",
+  "category.faith-and-society": "Faith and society",
+
+  "status.settled-core": "Settled core",
+  "status.open": "Open",
+  "status.interpretive": "Interpretive",
+  "status.settled-core.meaning": "There is a factual core here that the relevant experts have settled. The remaining dispute is about what it means, not about the facts.",
+  "status.open.meaning": "A live dispute. Serious, well-informed people land on both sides.",
+  "status.interpretive.meaning": "No new evidence will settle this. In the end it is a choice about how to read the world.",
+  "status.label": "Status",
+
+  "topic.number": "Topic {n}",
+  "topic.realQuestion": "The real question",
+  "topic.settledCore": "What is not in dispute",
+  "topic.sides": "The two sides",
+  "topic.familyPositions": "Four Christian positions",
+  "topic.whereItStands": "Where it stands",
+  "topic.commonMistake": "The common mistake",
+  "topic.sources": "Sources",
+  "topic.glossary": "Terms used on this page",
+  "topic.readingTime": "About {n} minutes",
+  "topic.argumentMap": "Argument map",
+  "topic.standardView": "Standard view",
+  "topic.backToTopics": "All topics",
+
+  "side.theist": "Christian",
+  "side.atheist": "Atheist",
+  "argument.objection": "Strongest objection",
+  "argument.response": "Response",
+  "argument.claim": "Claim",
+
+  "quote.paraphrase": "Paraphrase",
+  "quote.paraphraseNote": "Not a direct quotation. The exact wording could not be confirmed, so this states the writer's point in our words.",
+  "quote.source": "Source",
+  "quote.original": "Original wording",
+  "quote.viewSource": "View source",
+
+  "position.heldBy": "Held by",
+  "position.scienceStanding": "Where science stands on it",
+
+  "theme.toggle": "Switch theme",
+  "theme.light": "Light",
+  "theme.dark": "Dark",
+
+  "lang.switch": "Language",
+  "lang.en": "English",
+  "lang.es": "Español",
+  "lang.fr": "Français",
+  "lang.de": "Deutsch",
+  "lang.hu": "Magyar",
+
+  "about.title": "About this site",
+  "about.rulesHeading": "The editorial rules",
+  "footer.builtWith": "A static site. No accounts, no comments, no tracking.",
+  "footer.license": "Quotations belong to their authors and are used for comment and criticism."
+}

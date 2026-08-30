@@ -1,0 +1,166 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StatusTag from '../StatusTag.astro';
+import aboutContent from '../../data/about.json';
+import { aboutPath, locales, useTranslations, type Locale } from '../../i18n';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+const content = aboutContent[locale];
+
+const alternates = Object.fromEntries(
+  locales.map((code) => [code, aboutPath(code)]),
+) as Record<Locale, string>;
+
+const statuses = ['settled-core', 'open', 'interpretive'] as const;
+---
+
+<BaseLayout
+  locale={locale}
+  title={t('about.title')}
+  description={content.lede}
+  alternates={alternates}
+>
+  <div class="wrap about">
+    <header>
+      <h1>{t('about.title')}</h1>
+      <p class="lede">{content.lede}</p>
+    </header>
+
+    <section aria-labelledby="rules">
+      <h2 id="rules">{content.rulesHeading}</h2>
+      <ol class="rules">
+        {
+          content.rules.map((rule) => (
+            <li>
+              <h3>{rule.title}</h3>
+              <p>{rule.body}</p>
+            </li>
+          ))
+        }
+      </ol>
+    </section>
+
+    <section aria-labelledby="status-key" class="status-key">
+      <h2 id="status-key">{t('status.label')}</h2>
+      <dl>
+        {
+          statuses.map((status) => (
+            <div class="status-row">
+              <dt>
+                <StatusTag status={status} locale={locale} />
+              </dt>
+              <dd>{t(`status.${status}.meaning`)}</dd>
+            </div>
+          ))
+        }
+      </dl>
+    </section>
+
+    <section aria-labelledby="quotations">
+      <h2 id="quotations">{content.quotationsHeading}</h2>
+      {content.quotations.map((paragraph) => <p>{paragraph}</p>)}
+    </section>
+
+    <section aria-labelledby="design">
+      <h2 id="design">{content.designHeading}</h2>
+      {content.design.map((paragraph) => <p>{paragraph}</p>)}
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .about {
+    max-width: var(--measure-wide);
+    padding-block: var(--space-xl) var(--space-2xl);
+  }
+
+  h1 {
+    font-size: var(--step-3);
+    margin-bottom: var(--space-m);
+  }
+
+  .lede {
+    font-size: var(--step-1);
+    color: var(--ink-muted);
+  }
+
+  section {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-l);
+    border-top: var(--hairline) solid var(--rule);
+  }
+
+  h2 {
+    font-size: var(--step-2);
+    margin-bottom: var(--space-m);
+  }
+
+  .rules {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: rule;
+    display: grid;
+    gap: var(--space-l);
+  }
+
+  .rules li {
+    counter-increment: rule;
+    display: grid;
+    grid-template-columns: 2rem 1fr;
+    gap: var(--space-m);
+  }
+
+  .rules li::before {
+    content: counter(rule);
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+    color: var(--rule-strong);
+    line-height: 1;
+  }
+
+  .rules h3 {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-2xs);
+  }
+
+  .rules p {
+    margin: 0;
+    color: var(--ink-muted);
+  }
+
+  .status-key dl {
+    margin: 0;
+    display: grid;
+    gap: var(--space-m);
+  }
+
+  .status-row {
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    gap: var(--space-m);
+    align-items: baseline;
+  }
+
+  .status-row dd {
+    margin: 0;
+    color: var(--ink-muted);
+  }
+
+  @media (max-width: 34rem) {
+    .rules li,
+    .status-row {
+      grid-template-columns: 1fr;
+      gap: var(--space-2xs);
+    }
+
+    .rules li::before {
+      font-size: var(--step-1);
+    }
+  }
+</style>

@@ -1,0 +1,354 @@
+{
+  "id": "creation-or-evolution",
+  "number": 6,
+  "slug": "teremtes-vagy-evolucio",
+  "title": "Teremtés vagy evolúció?",
+  "category": "natural-science",
+  "status": "settled-core",
+  "realQuestion": "A címben szereplő „vagy” sok kárt okoz. Úgy hangzik tőle a kérdés, mintha két elmélet között kellene választani arról, hogyan kerültek ide az állatok. Nem erről van szó.\n\nAz, hogy az élőlényeknek vannak-e [[közös őseik]], és változtak-e az idők során, természettudományos kérdés, és a biológusok több mint száz éve megválaszolták. Ami valóban nyitott, az egy másik kérdés: ha így lett az élet azzá, ami, marad-e bármi, amit egy teremtő tett volna?\n\nEz ennek az oldalnak a vitája. A másik, arról a négy módról, ahogyan a keresztények a Teremtés könyvét és a geológiát próbálták összeegyeztetni, szintén valóságos, és lejjebb szerepel. De a kereszténységen belül zajlik, nem a kereszténység és az ateizmus között.",
+  "settledCore": "Az élő fajok módosulással származnak közös ősöktől, és az örökletes változatosságra ható [[természetes szelekció]] alkalmazkodásuk egyik fő oka. Ez a biológiában nem vitatott. Alátámasztja a leletanyag, az összehasonlító anatómia, a fajok földrajzi elterjedése és a baktériumokon közvetlenül megfigyelt evolúció, mindenekelőtt pedig a genomszekvenálás, amely megcáfolhatta volna a közös leszármazást, ehelyett rendkívüli részletességgel megerősítette. A Föld nagyjából 4,5 milliárd éves kora ugyanilyen alapon nyugszik.\n\nAz oldal többi részén semmi nem függ attól, hogy ezt kétségbe vonjuk, és az idézett komoly képviselők közül sem vonja kétségbe senki. Ahol egy itt szereplő álláspont mégis elutasítja, azt kimondjuk, nem pedig kiegyenlített küzdelemnek állítjuk be.",
+  "glossary": [
+    {
+      "term": "közös őseik",
+      "definition": "Az az állítás, hogy bármely két élő fajnak, ha elég messzire visszamegyünk, van közös ősi populációja. Az emberé és a csimpánzé nagyjából 6-7 millió évvel ezelőtt élt; az emberé és a tölgyfáé jóval korábban."
+    },
+    {
+      "term": "természetes szelekció",
+      "definition": "Ha örökletes különbségek miatt egyes egyedek több túlélő utódot hagynak hátra másoknál, ezek a különbségek a következő nemzedékben gyakoribbá válnak. Semmi nem választ; egyszerűen fennmaradnak azok a különbségek, amelyek történetesen működnek."
+    },
+    {
+      "term": "másodlagos okok",
+      "definition": "Nagyon régi teológiai kifejezés a természeten belüli hétköznapi okokra, például az időjárásra vagy az öröklődésre. E felfogás szerint Isten az elsődleges ok, aki az egész rendszert fenntartja, a tényleges munkát pedig a természeti okok végzik, ahogyan egy szerző úgy ír történetet, hogy közben nem szereplő benne."
+    },
+    {
+      "term": "irreducibilis komplexitás",
+      "definition": "Michael Behe kifejezése olyan rendszerre, amelynek minden alkatrészének egyszerre jelen kell lennie ahhoz, hogy egyáltalán működjön, és amely szerinte nem állhatott össze apró, hasznos lépésekből."
+    },
+    {
+      "term": "hézagok Istene",
+      "definition": "Istent éppen arra hívni segítségül, amit a tudomány még nem magyarázott meg. A baj nem az, hogy ez kegyeletsértő volna, hanem hogy zsugorodik: minden új magyarázat elvesz belőle egy darabot."
+    },
+    {
+      "term": "módszertani naturalizmus",
+      "definition": "Az a munkaszabály, hogy a tudományos magyarázatok csak természeti okokra hivatkoznak. Ez arról szól, hogy mit csinál a tudomány, és önmagában semmit nem mond arról, létezik-e bármi természetfeletti."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Az evolúció után nem marad semmi, amit egy teremtő tett volna",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "design-without-designer",
+          "claim": "A tervezettség látszata az, amit egy iránytalan folyamat létrehoz",
+          "explanation": "A szem gyártottnak látszik. A szárny is, vagy a bojtorján horgas termése. Az emberiség történetének szinte egészében a kézenfekvő magyarázat az volt, hogy valami megcsinálta őket, és ez jó magyarázat volt, mert semmi más nem adott számot ennyire pontosan a feladatukhoz illesztett alkatrészekről.\n\nA [[természetes szelekció]] számot ad róla. Azok az apró örökletes különbségek, amelyek segítik az állat túlélését, gyakrabban öröklődnek tovább, és elég sok nemzedék alatt olyan szerkezetekké állnak össze, amelyek célra készültnek látszanak, de nem azok. Így a legerősebb ok, amit valaha bárki felhozhatott egy tervező mellett, valami másból magyarázódik. Ez nem cáfolja Istent. Elveszi azt az okot, amely a legtöbb embert meggyőzte.",
+          "quote": {
+            "text": "Bár az ateizmus Darwin előtt is logikailag tartható lehetett, Darwin tette lehetővé, hogy valaki szellemileg kielégült ateista legyen.",
+            "author": "Richard Dawkins",
+            "work": "The Blind Watchmaker (A vak órásmester)",
+            "year": "1986",
+            "locator": "p. 6",
+            "sourceUrl": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker",
+            "verified": true,
+            "original": {
+              "text": "Although atheism might have been logically tenable before Darwin, Darwin made it possible to be an intellectually fulfilled atheist.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ez egyetlen Isten melletti érvet dönt meg, és csak egyet. Megmagyarázni, hogyan épült fel a szem, nem magyarázza meg, miért van olyan világegyetem, amelyben egyáltalán lehetséges szelekcióval építeni. A szelekcióhoz örökölhető változatosság kell, stabil kémia és olyan törvények, amelyek négymilliárd éven át nem mozdulnak.",
+            "response": "Ez valódi kérdés, de más kérdés, és ahhoz a vitához tartozik, hogy miért van egyáltalán bármi. Ami itt elveszett, az konkrét és nagy: a biológia volt a legjobb bizonyíték egy tervező mellett, most pedig egyik irányban sem bizonyíték."
+          }
+        },
+        {
+          "id": "process-looks-unplanned",
+          "claim": "A folyamat nem úgy néz ki, mint bárki terve",
+          "explanation": "A valaha élt fajok több mint 99 százaléka kihalt. Az emberig nagyjából 3,8 milliárd év, öt tömeges kihalás és egy aszteroida vezetett. Az alkalmazkodás módja a nemzedékről nemzedékre egyenlőtlenül eloszló halál.\n\nAz eredmények között pedig ott vannak azok az élősködők, amelyek egész életmódja abból áll, hogy lassan felfalnak egy élő gazdát belülről. Ha ez terv, akkor a szenvedés nem sajnálatos mellékhatása, hanem maga a működő szerkezet. Darwin ezt találta a legnehezebben összeegyeztethetőnek egy jó Istennel, és magánlevélben jóval azelőtt kimondta, hogy nyilvánosan bármit mondott volna.",
+          "quote": {
+            "text": "Nem tudom meggyőzni magamat arról, hogy egy jóságos és mindenható Isten szándékosan teremtette volna az Ichneumonidae-t azzal a kifejezett céllal, hogy hernyók élő testében táplálkozzanak, sem arról, hogy a macskának játszania kell az egerekkel.",
+            "author": "Charles Darwin",
+            "work": "Levél Asa Grayhez, 1860. május 22.",
+            "year": "1860",
+            "locator": "DCP-LETT-2814",
+            "sourceUrl": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
+            "verified": true,
+            "original": {
+              "text": "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ez a szenvedés problémája fehér köpenyben. Komoly ellenvetés egy jó Istennel szemben, és a honlap más helyén így is kezeljük, de nem az evolúcióról szóló ellenvetés. A pazarlás és az idő csak akkor szól egy teremtő ellen, ha feltesszük, hogy gyorsan és takarékosan dolgozna.",
+            "response": "A feltevés ennél kisebb. Csak annyi, hogy egy elme, amely bármelyik módszert választhatja, nem éppen olyat választana, amelynek a motorja érző lények szenvedése több százmillió éven át."
+          }
+        },
+        {
+          "id": "no-skyhooks",
+          "claim": "Ha egyszer megvan ez a fajta magyarázat, soha nincs szükség elmével kezdődő okra",
+          "explanation": "Darwin igazi felfedezése nem a pintyekről szóló tény volt. Egy magyarázási mód volt: a tervezettség létrejöhet alulról, elme nélküli lépésekből, anélkül hogy bárminek már eleve célja lenne. Daniel Dennett ezt a mintát darunak nevezi, az elmével kezdődő okot pedig égi horognak, olyasminek, ami a semmiről lóg.\n\nA minta általánosítható. Alkalmazták az immunrendszerre, a nyelvre, a kultúrára. Valahányszor egy terület engedett neki, egy elmével kezdődő magyarázat feleslegessé vált. Ez nem bizonyítja, hogy nincs ilyen elme. Azt viszont jelenti, hogy az a szokás, hogy ilyenhez nyúlunk, mindenütt megbukott, ahol próbára tették.",
+          "quote": {
+            "text": "az égi horog elmével kezdődő erő, hatalom vagy folyamat, kivétel az alól az elv alól, hogy minden tervezettség és látszólagos tervezettség végső soron elme nélküli, indíték nélküli gépiesség eredménye.",
+            "author": "Daniel Dennett",
+            "work": "Darwin's Dangerous Idea (Darwin veszélyes ideája)",
+            "year": "1995",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea",
+            "verified": true,
+            "original": {
+              "text": "a skyhook is a \"mind-first\" force or power or process, an exception to the principle that all design, and apparent design, is ultimately the result of mindless, motiveless mechanicity.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Egy sikeres módszert mindenre kiterjeszteni, ami létezik, filozófiai fogadás, nem tudományos eredmény. Dennett maga nevezi az ötletét egyetemes oldószernek, amely minden hagyományos fogalmat szétmar, és egy oldószert, amely mindent felold, beleértve az oldást végző elme megbízhatóságát is, óvatosan érdemes kezelni.",
+            "response": "Fogadás, de olyan, amely két évszázada fizet. Az ellenkező fogadás mindeközben végig veszít a területéből."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Az evolúció az a mód, ahogyan a teremtés történt",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "mechanism-not-author",
+          "claim": "A teremtés soha nem volt a természetes szelekció vetélytárs mechanizmusa",
+          "explanation": "A „teremtés” a klasszikus keresztény teológiában nem egy folyamat elején álló eseményről szóló állítás, amely más leírásokkal versenyezne ugyanarról a folyamatról. Arról szól, hogy miért van egyáltalán folyamat, és hogy ki a szerzője, ha van. Az álláspont szerint Isten a [[másodlagos okok]] által működik, vagyis a természeten belüli hétköznapi okok által, nem pedig mellettük.\n\nEbből a nézőpontból azt kérdezni, hogy egy faj evolúcióval vagy teremtéssel jött-e létre, olyan, mintha azt kérdeznénk, hogy egy regényt a szerző írt-e vagy a toll. Theodosius Dobzhansky, aki a modern evolúcióbiológia egyik megalkotója és egyben ortodox keresztény volt, ezt a lehető legegyenesebben mondta ki.",
+          "quote": {
+            "text": "Kreacionista vagyok és evolucionista. Az evolúció Isten, vagy a Természet teremtési módszere.",
+            "author": "Theodosius Dobzhansky",
+            "work": "Nothing in Biology Makes Sense except in the Light of Evolution, The American Biology Teacher 35",
+            "year": "1973",
+            "locator": "pp. 125-129",
+            "sourceUrl": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
+            "verified": true,
+            "original": {
+              "text": "I am a creationist and an evolutionist. Evolution is God's, or Nature's method of creation.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ha a természeti okok végzik az egész munkát, akkor Isten semmi olyat nem tesz, amit észlelni, tesztelni vagy észrevenni lehetne. Egy ok, amelynek soha semmilyen mérhető hatása nincs, megkülönböztethetetlen attól, hogy nincs ok, és hozzátenni nem magyaráz semmit.",
+            "response": "A fizikán belül megkülönböztethetetlen, igen, és a tanítás mindig is ezt mondta. Soha nem az volt az állítás, hogy Isten az erők egyike. Egy adott tudomány szempontjából magyarázatilag tétlennek lenni nem ugyanaz, mint nem létezni, különben ugyanez az ellenvetés kizárná a matematikát, az erkölcsi tényeket és a más elméket is."
+          }
+        },
+        {
+          "id": "genesis-and-the-fathers",
+          "claim": "A Teremtés könyvét természettudományos tankönyvként olvasni modern szokás, nem a hagyományos",
+          "explanation": "Azt a gondolatot, hogy a keresztény hit hat huszonnégy órás napot követel, gyakran úgy állítják be, mint a régi, egyszerű olvasatot, amelyet a modernitás feladott. Történetileg majdnem az ellenkezője igaz. Ágoston 415 körül amellett érvelt, hogy a Teremtés könyvét nem szabad fizikaként olvasni, és pontosan attól tartott, ami később bekövetkezett: hogy keresztények magabiztos állításokat tesznek a természetről, kiderül róluk, hogy tévedtek, és magukkal együtt a hitet is lejáratják.\n\nAquinói Tamás szabályt csinált belőle. Tartsd a Szentírás egy olvasatát, írta az 1260-as években, de olyan lazán, hogy el tudd engedni, ha hamisnak bizonyul, nehogy a Szentírás nevetségessé váljék egy megbukó állításhoz kötve.",
+          "quote": {
+            "text": "Márpedig szégyenletes és veszedelmes dolog, ha egy hitetlen olyan keresztényt hall, aki állítólag a Szentírás értelmét adja vissza, és közben ezekről a tárgyakról képtelenségeket beszél; és mindent meg kellene tennünk, hogy elkerüljük ezt a kínos helyzetet, amelyben egy keresztényről óriási tudatlanság derül ki, és kinevetik érte.",
+            "author": "Augustine of Hippo",
+            "work": "De Genesi ad litteram (A Teremtés könyvének szó szerinti értelméről), J. H. Taylor angol fordítása",
+            "year": "c. 415",
+            "locator": "Book I, ch. 19",
+            "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
+            "verified": true,
+            "original": {
+              "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ez kényelmes. Amint a tudomány lezárja a kérdést, kiderül, hogy a szöveg mindvégig valami azzal összeegyeztethetőt jelentett. Egy olvasatot, amely bármilyen eredményt képes magába fogadni, semmi nem tesz próbára.",
+            "response": "Az évszámok ezt nehezen tartják. Ágoston tizenkét évszázaddal a geológia és tizennéggyel Darwin előtt írt, minden befogadandó tudományos eredmény nélkül. Ha az újraértelmezés alkalmi lenne, nem előzhetné meg a nyomást több mint egy évezreddel."
+          }
+        },
+        {
+          "id": "deep-concord",
+          "claim": "A tudomány azért működik, mert a világ érthető, és a teizmus éppen ezt állította róla",
+          "explanation": "Tudományt művelni eleve megkíván néhány olyan meggyőződést, amelyet a tudomány nem tud megalapozni: hogy a világegyetem szabályszerűségek szerint működik, hogy ezek ott is érvényesek, ahol senki nem néz oda, és hogy az emberi elme olyasfajta dolog, amely képes felderíteni őket. Ezek nem a fizika következtetései. Az elindulás feltételei.\n\nAlvin Plantinga amellett érvel, hogy egy értelmes elme által alkotott világ és a megértésére alkotott teremtmények természetes otthont adnak ezeknek a feltevéseknek, míg egy tisztán naturalista történetnek az emberi gondolkodás megbízhatóságát egy olyan folyamat szerencsés melléktermékeként kell kezelnie, amely a túlélésre válogatott, nem az igazságra.",
+          "quote": {
+            "text": "felszínes konfliktus, de mély egyetértés van a tudomány és a teista vallás között, viszont felszínes egyetértés és mély konfliktus a tudomány és a naturalizmus között",
+            "author": "Alvin Plantinga",
+            "work": "Where the Conflict Really Lies: Science, Religion, and Naturalism",
+            "year": "2011",
+            "locator": "preface, p. ix",
+            "sourceUrl": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097",
+            "verified": true,
+            "original": {
+              "text": "there is superficial conflict but deep concord between science and theistic religion, but superficial concord and deep conflict between science and naturalism",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az evolúciónak semmi gondja a megbízható vélekedés magyarázatával: az az állat, amely rosszul méri fel, hol van a szikla széle, nem hagy utódokat. Az a feltevés pedig, hogy a természet szabályos, nem kölcsönvett vallási előfeltevés, hanem munkaszabály, amely négyszáz éve minden nap beigazolódik.",
+            "response": "A szelekció a hasznos viselkedést követi, a hasznos viselkedéshez pedig nem kellenek igaz vélekedések, csak olyanok, amelyek a helyes cselekvést váltják ki. Hogy a kettő szétválik-e, éppen ez a vita tárgya, és négyszáz év sikere nem döntheti el, hiszen éppen ezt a sikert próbálja mindkét fél megmagyarázni."
+          }
+        }
+      ]
+    }
+  ],
+  "familyPositions": [
+    {
+      "id": "young-earth-creationism",
+      "name": "Fiatal Föld-kreacionizmus",
+      "heldBy": "A protestáns keresztények kisebbsége, főként az Egyesült Államokban; intézményesen az Answers in Genesis és az Institute for Creation Research.",
+      "summary": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt, a kövületeket tartalmazó kőzetrétegeket pedig Noé özönvize rakta le, nem pedig korszakok.\n\nMai formája újabb keletű, mint sokan gondolnák. Ronald Numbers tudománytörténész a hetednapi adventista George McCready Price-ig vezette vissza, fundamentalista ortodoxiává válását pedig a The Genesis Flood 1961-es megjelenéséig. A tizenkilencedik századi konzervatív protestánsok közül sokan minden nehézség nélkül elfogadták az idős Földet.",
+      "scienceStanding": "Elutasítva. A radiometrikus kormeghatározás, a jégfuratminták, a lemeztektonika, a korallok növekedési gyűrűi és a távoli galaxisok fényének terjedési ideje egymással egybehangzanak, a fiatal Földdel viszont nem. Itt nincs tudományos vita, amiről beszámolhatnánk.",
+      "quote": {
+        "text": "Whitcomb és Morris azt állította, hogy a Biblia Isten tévedhetetlen szava, hogy a földtani rétegsort Noé özönvize hozta létre, nem pedig hosszú korszakok, és hogy a fősodratú geológia lassú, egyenletes folyamatokra vonatkozó feltevését ezen az alapon el kell vetni.",
+        "author": "John C. Whitcomb and Henry M. Morris",
+        "work": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+        "year": "1961",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Genesis_Flood",
+        "verified": false
+      }
+    },
+    {
+      "id": "old-earth-creationism",
+      "name": "Idős Föld-kreacionizmus",
+      "heldBy": "Konzervatív protestánsok, akik elfogadják a fősodratú geológiát, de a közös leszármazást nem; történetileg Charles Hodge, ma például a Reasons to Believe.",
+      "summary": "A Föld valóban több milliárd éves, és a földtani rétegoszlop valóságos; a Teremtés könyvének napjai korszakok, vagy irodalmi keret. Nem a mélyidőt tagadják, hanem az iránytalan közös leszármazást.\n\nCharles Hodge, a tizenkilencedik századi Amerika legjelentősebb konzervatív teológusa pontosan ezt a vonalat képviselte. Az idős Földdel semmi baja nem volt. A célszerűség természetből való kizárásával volt baja.",
+      "scienceStanding": "Az idős Föld helytálló. Az alaptípusok külön teremtése nem: a közös leszármazás ugyanazon a genomikai bizonyítékon nyugszik, amelyen az orvostudomány és az igazságügyi szakértés, valamint olyan átmeneti kövületeken, amelyeket megjósoltak, mielőtt megtalálták volna.",
+      "quote": {
+        "text": "Mi a darwinizmus? Ateizmus. Ez nem azt jelenti, ahogyan már mondtuk, hogy maga Darwin úr és mindazok, akik nézeteit átveszik, ateisták volnának; hanem azt jelenti, hogy az elmélete ateista, hogy a tervezettség kizárása a természetből, ahogyan Gray doktor mondja, egyenértékű az ateizmussal.",
+        "author": "Charles Hodge",
+        "work": "What is Darwinism?",
+        "year": "1874",
+        "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
+        "verified": true,
+        "original": {
+          "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "id": "intelligent-design",
+      "name": "Intelligens tervezés",
+      "heldBy": "A Discovery Institute-hoz kötődik; Michael Behe, William Dembski, Stephen Meyer.",
+      "summary": "Az intelligens tervezés elfogadja az idős Földet, Behe esetében pedig a közös leszármazást is. Állítása szűkebb: egyes biológiai szerkezetek [[irreducibilisen komplexek|irreducibilis komplexitás]], vagyis minden alkatrészre szükség van ahhoz, hogy a rendszer működjön, így a szelekció nem tudja őket hasznos köztes lépéseken át felépíteni. A tervezettséget a bizonyítékokból levont következtetésként kínálják, nem a Szentírásból.\n\nKépviselői hozzáteszik, hogy a fősodratú tudomány eleve kizárja a tervezettséget, mert a [[módszertani naturalizmust|módszertani naturalizmus]] alapszabályként veszi fel, nem pedig eredményként jut el hozzá.",
+      "scienceStanding": "Tudományként nem elfogadott. A konkrét példákra, mindenekelőtt a bakteriális ostorra és a véralvadási kaszkádra, lépésről lépésre haladó evolúciós magyarázatok születtek, amelyek más funkciójú alkatrészekre támaszkodnak. A Kitzmiller kontra Dover perben (2005) egy szövetségi bíróság tárgyaláson vizsgálta meg az állítást, és kimondta, hogy nem tudomány. Sok keresztény szintén elutasítja, mint a [[hézagok Istene]] típusú érvet, amely a biológia előrehaladtával zsugorodik.",
+      "quote": {
+        "text": "Foglalkoztunk azzal az alapvető kérdéssel, hogy az IT tudomány-e. Arra a következtetésre jutottunk, hogy nem az, sőt hogy az IT nem tudja levágni magát kreacionista, és így vallási előzményeiről.",
+        "author": "Judge John E. Jones III",
+        "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
+        "year": "2005",
+        "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+        "verified": true,
+        "original": {
+          "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "id": "evolutionary-creation",
+      "name": "Evolúciós teremtés, vagy teista evolúció",
+      "heldBy": "A világ keresztényei között a többségi álláspont, beleértve a katolikus egyházat, a legtöbb történelmi protestáns egyházat és az ortodox egyházakat; Francis Collins, Alister McGrath, BioLogos.",
+      "summary": "Az evolúciót teljes egészében elfogadja, és úgy érti, mint azt az eszközt, amellyel Isten teremtett. Semmilyen tudományos állítást nem tagad, és semmilyen hézagot nem tart fenn.\n\nA katolikus álláspontot II. János Pál fogalmazta meg 1996-ban, amikor azt mondta a Pápai Tudományos Akadémiának, hogy az új ismeretek nyomán az evolúcióban „több mint hipotézist” kell elismerni. Francis Collins, aki a Humán Genom Projektet vezette, ugyanezt magából a genomból vezeti le.",
+      "scienceStanding": "Összefér a tudománnyal, mert maga nem tesz tudományos állítást. Egyben ez az az álláspont, amellyel az ateista bírálók a legélesebben vitatkoznak, azon az alapon, hogy egy Isten, aki csak hétköznapi természeti okokon keresztül cselekszik, semmi észlelhető munkát nem végez.",
+      "quote": {
+        "text": "Isten, akit nem korlátoz tér és idő, megteremtette a világegyetemet, és megalkotta az azt kormányzó természeti törvényeket.",
+        "author": "Francis Collins",
+        "work": "The Language of God: A Scientist Presents Evidence for Belief",
+        "year": "2006",
+        "locator": "p. 178",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Language_of_God",
+        "verified": true,
+        "original": {
+          "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
+          "language": "en"
+        }
+      }
+    }
+  ],
+  "whereItStands": "A kérdés tudományos fele lezárult, és már régóta. Ami nyitva maradt, az filozófiai, és valóban nyitva van: érintetlenül hagyja-e azt az állítást, hogy a világnak van szerzője, egy teljes természeti leírás arról, hogyan fejlődött az élet, vagy lassan kiüresíti?\n\nMindkét választ gondos emberek képviselik, akik a biológiában teljesen egyetértenek. Dobzhansky és Dawkins egyetlen tényben sem vitatkozna egy genetikai cikk kapcsán. Abban vitatkoznak, mit jelentenek a tények, és ezt nem fogja eldönteni több genetika.\n\nEgy dolog megváltozott az elmúlt évszázadban, és érdemes szépítés nélkül kimondani. A négy keresztény álláspont nem egyformán alátámasztott. A fiatal Föld-kreacionizmus hamis tapasztalati állításokat tesz. Az intelligens tervezés nem igazolta a központi állítását, és egyértelműen alulmaradt, amikor bíróság előtt próbára tették. Az idős Föld-kreacionizmusnak igaza van a Földben, és nincs igaza a leszármazásban. Az evolúciós teremtés az egyetlen a négy közül, amely semmi megállapítottal nem ütközik, és világszerte egyben a többségi keresztény álláspont is.",
+  "commonMistake": "Az ateisták többnyire úgy kezelik a fiatal Föld-kreacionizmust, mintha az volna a kereszténység álláspontja. Kisebbségi nézet, jórészt észak-amerikai, mai formájában nagyjából hatvan éves, és elutasítja a katolikus egyház, a legtöbb protestáns felekezet és az ortodox egyházak. Megcáfolni könnyű, és szinte semmit nem bizonyít a valódi vitával kapcsolatban, amely olyan emberekkel folyik, akik minden tényt elfogadnak, amit épp idézni készülsz.\n\nA keresztények többnyire azt hiszik, hogy az evolúció elfogadása kerül valamibe, és ezért olyan tudományos álláspontot védenek, amelyet semmi okuk nincs tartani. A saját hagyományuk szabálya, Ágostoné és Aquinói Tamásé, éppen az volt, hogy ne tegyék fel a Szentírást egy természetre vonatkozó állításra, amely megdőlhet.\n\nÉs mindkét oldal elköveti együtt ugyanazt a hibát: úgy kezelik a „teremtést” és az „evolúciót”, mintha ugyanarra a kérdésre adott válaszok volnának, és ezért többet az egyikből szükségképpen kevesebbet jelentene a másikból. Szinte senki nem hiszi ezt, aki alaposan végiggondolta, egyik oldalon sem.",
+  "sources": [
+    {
+      "title": "On the Origin of Species, első kiadás",
+      "author": "Charles Darwin",
+      "year": "1859",
+      "url": "https://en.wikisource.org/wiki/On_the_Origin_of_Species_(1859)"
+    },
+    {
+      "title": "Levél Asa Grayhez, 1860. május 22. (DCP-LETT-2814)",
+      "author": "Charles Darwin",
+      "year": "1860",
+      "url": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
+      "note": "Darwin Correspondence Project, Cambridge-i Egyetem."
+    },
+    {
+      "title": "Nothing in Biology Makes Sense except in the Light of Evolution",
+      "author": "Theodosius Dobzhansky",
+      "year": "1973",
+      "url": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
+      "note": "The American Biology Teacher 35(3), 125-129."
+    },
+    {
+      "title": "The Blind Watchmaker",
+      "author": "Richard Dawkins",
+      "year": "1986",
+      "url": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker"
+    },
+    {
+      "title": "Darwin's Dangerous Idea: Evolution and the Meanings of Life",
+      "author": "Daniel C. Dennett",
+      "year": "1995",
+      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea"
+    },
+    {
+      "title": "Where the Conflict Really Lies: Science, Religion, and Naturalism",
+      "author": "Alvin Plantinga",
+      "year": "2011",
+      "url": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097"
+    },
+    {
+      "title": "De Genesi ad litteram, I. könyv, 19. fejezet",
+      "author": "Hippói Ágoston",
+      "year": "c. 415",
+      "url": "https://inters.org/augustine-interpretating-sacred-scripture"
+    },
+    {
+      "title": "Summa Theologiae I, q. 68, a. 1",
+      "author": "Aquinói Tamás",
+      "year": "c. 1268",
+      "url": "https://www.newadvent.org/summa/1068.htm",
+      "note": "A szabály, hogy a Szentírás egy olvasatát csak annyira szabad tartani, hogy készen álljunk elhagyni, ha hamisnak bizonyul."
+    },
+    {
+      "title": "What is Darwinism?",
+      "author": "Charles Hodge",
+      "year": "1874",
+      "url": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm"
+    },
+    {
+      "title": "Darwin's Black Box: The Biochemical Challenge to Evolution",
+      "author": "Michael J. Behe",
+      "year": "1996",
+      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Black_Box"
+    },
+    {
+      "title": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005)",
+      "year": "2005",
+      "url": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+      "note": "John E. Jones III bíró indokolása, 2005. december 20."
+    },
+    {
+      "title": "The Creationists: From Scientific Creationism to Intelligent Design",
+      "author": "Ronald L. Numbers",
+      "year": "2006",
+      "url": "https://www.hup.harvard.edu/books/9780674023390",
+      "note": "A mozgalom mértékadó története, olyan tudománytörténésztől, aki egyik oldalnak sem elkötelezettje."
+    },
+    {
+      "title": "The Language of God: A Scientist Presents Evidence for Belief",
+      "author": "Francis S. Collins",
+      "year": "2006",
+      "url": "https://en.wikipedia.org/wiki/The_Language_of_God"
+    },
+    {
+      "title": "Üzenet a Pápai Tudományos Akadémiának, 1996. október 22.",
+      "author": "II. János Pál",
+      "year": "1996",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1996/documents/hf_jp-ii_mes_19961022_evoluzione.html"
+    },
+    {
+      "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+      "author": "John C. Whitcomb és Henry M. Morris",
+      "year": "1961",
+      "url": "https://en.wikipedia.org/wiki/The_Genesis_Flood"
+    }
+  ]
+}

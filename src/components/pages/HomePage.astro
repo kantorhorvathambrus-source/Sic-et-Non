@@ -1,0 +1,204 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StatusTag from '../StatusTag.astro';
+import {
+  aboutPath,
+  homePath,
+  locales,
+  topicPath,
+  useTranslations,
+  type Locale,
+} from '../../i18n';
+import { categoryOrder, getTopicsForLocale, topicIndex } from '../../lib/topics';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+
+const drafted = await getTopicsForLocale(locale);
+const slugById = new Map(drafted.map((entry) => [entry.data.id, entry.data.slug]));
+
+const alternates = Object.fromEntries(
+  locales.map((code) => [code, homePath(code)]),
+) as Record<Locale, string>;
+
+const byCategory = categoryOrder.map((category) => ({
+  category,
+  topics: topicIndex.filter((topic) => topic.category === category),
+}));
+
+const draftedCount = slugById.size;
+---
+
+<BaseLayout
+  locale={locale}
+  title={t('site.name')}
+  description={t('site.description')}
+  alternates={alternates}
+>
+  <div class="wrap">
+    <section class="hero">
+      <h1>{t('site.tagline')}</h1>
+      <p class="lede">{t('home.intro')}</p>
+      <p class="how"><a href={aboutPath(locale)}>{t('home.howToRead')}</a></p>
+    </section>
+
+    <hr />
+
+    <section aria-labelledby="topics-heading">
+      <h2 id="topics-heading" class="section-heading">
+        {t('home.topicsHeading')}
+        <span class="count">{draftedCount} / {topicIndex.length}</span>
+      </h2>
+
+      {
+        byCategory.map(({ category, topics }) => (
+          <section class="category">
+            <h3 class="category-name">{t(`category.${category}`)}</h3>
+            <ol class="topic-list">
+              {topics.map((topic) => {
+                const slug = slugById.get(topic.id);
+                return (
+                  <li class:list={['topic-item', { unwritten: !slug }]}>
+                    <span class="number">{String(topic.number).padStart(2, '0')}</span>
+                    <span class="title">
+                      {slug ? (
+                        <a href={topicPath(locale, slug)}>{topic.titles[locale]}</a>
+                      ) : (
+                        <span>{topic.titles[locale]}</span>
+                      )}
+                    </span>
+                    <span class="meta">
+                      {slug ? (
+                        <StatusTag status={topic.status} locale={locale} />
+                      ) : (
+                        <span class="pending">{t('home.comingSoon')}</span>
+                      )}
+                    </span>
+                  </li>
+                );
+              })}
+            </ol>
+          </section>
+        ))
+      }
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding: var(--space-xl) 0 var(--space-l);
+    max-width: var(--measure-wide);
+  }
+
+  h1 {
+    font-size: var(--step-4);
+    margin-bottom: var(--space-m);
+  }
+
+  .lede {
+    font-size: var(--step-1);
+    color: var(--ink-muted);
+    max-width: var(--measure);
+  }
+
+  .how a {
+    font-size: var(--step--1);
+  }
+
+  .section-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-m);
+    font-size: var(--step-2);
+    margin-bottom: var(--space-l);
+  }
+
+  .count {
+    font-family: var(--font-body);
+    font-size: var(--step--1);
+    font-weight: 400;
+    color: var(--ink-faint);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .category {
+    margin-bottom: var(--space-xl);
+  }
+
+  .category-name {
+    font-size: var(--step-0);
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    font-family: var(--font-body);
+    color: var(--ink-faint);
+    padding-bottom: var(--space-xs);
+    border-bottom: var(--hairline) solid var(--rule);
+    margin-bottom: var(--space-xs);
+  }
+
+  .topic-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .topic-item {
+    display: grid;
+    grid-template-columns: 2.5rem 1fr auto;
+    align-items: baseline;
+    gap: var(--space-m);
+    padding: var(--space-s) 0;
+    border-bottom: var(--hairline) solid var(--rule);
+  }
+
+  .number {
+    font-variant-numeric: tabular-nums;
+    color: var(--ink-faint);
+    font-size: var(--step--1);
+  }
+
+  .title {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.3;
+  }
+
+  .title a {
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .title a:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+
+  .unwritten .title {
+    color: var(--ink-faint);
+  }
+
+  .pending {
+    font-size: var(--step--1);
+    color: var(--ink-faint);
+    font-style: italic;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 34rem) {
+    .topic-item {
+      grid-template-columns: 2rem 1fr;
+      row-gap: var(--space-2xs);
+    }
+
+    .meta {
+      grid-column: 2;
+    }
+  }
+</style>

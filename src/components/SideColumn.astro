@@ -1,0 +1,72 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import type { Locale } from '../i18n';
+import { useTranslations } from '../i18n';
+import type { GlossaryMap } from '../lib/richtext';
+import ArgumentCard from './ArgumentCard.astro';
+
+type Topic = CollectionEntry<'topics'>['data'];
+
+interface Props {
+  side: Topic['sides'][number];
+  locale: Locale;
+  glossary: GlossaryMap;
+}
+
+const { side, locale, glossary } = Astro.props;
+const t = useTranslations(locale);
+---
+
+<section
+  class:list={['side', `side-${side.position}`]}
+  aria-labelledby={`side-${side.position}`}
+>
+  <header class="side-head">
+    <p class="side-kind">{t(`side.${side.position}`)}</p>
+    <h2 id={`side-${side.position}`}>{side.label}</h2>
+  </header>
+
+  {
+    side.arguments.map((argument) => (
+      <ArgumentCard
+        argument={argument}
+        position={side.position}
+        locale={locale}
+        glossary={glossary}
+      />
+    ))
+  }
+</section>
+
+<style>
+  .side {
+    min-width: 0;
+  }
+
+  .side-head {
+    padding-bottom: var(--space-s);
+    border-bottom: 2px solid currentColor;
+  }
+
+  .side-theist .side-head {
+    color: var(--theist);
+  }
+
+  .side-atheist .side-head {
+    color: var(--atheist);
+  }
+
+  .side-kind {
+    margin: 0 0 var(--space-2xs);
+    font-size: var(--step--1);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  h2 {
+    font-size: var(--step-2);
+    color: var(--ink);
+    text-wrap: balance;
+  }
+</style>

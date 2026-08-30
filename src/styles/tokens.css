@@ -1,0 +1,139 @@
+/*
+  Design tokens.
+
+  The page is modelled on a medieval quaestio disputata: a question stated, then
+  the arguments on either hand set out with equal standing. The two sides get two
+  accent hues of the same lightness and the same chroma, 120 degrees apart, so
+  neither can read as the warm/approved one and neither as the cold/doubted one.
+  Only the hue changes. If you retune one, retune the other by the same amount.
+*/
+
+:root {
+  color-scheme: light dark;
+
+  /* ---- Type ------------------------------------------------------------ */
+  --font-display: 'EB Garamond', 'Iowan Old Style', Palatino, 'Book Antiqua',
+    Georgia, 'Noto Serif', serif;
+  --font-body: 'Inter Variable', Inter, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Noto Sans', 'Liberation Sans', Arial, sans-serif;
+
+  /* Fluid scale, 320px -> 1200px viewport. */
+  --step--1: clamp(0.833rem, 0.81rem + 0.12vw, 0.9rem);
+  --step-0: clamp(1rem, 0.96rem + 0.2vw, 1.125rem);
+  --step-1: clamp(1.2rem, 1.13rem + 0.35vw, 1.44rem);
+  --step-2: clamp(1.44rem, 1.32rem + 0.6vw, 1.85rem);
+  --step-3: clamp(1.73rem, 1.53rem + 1vw, 2.37rem);
+  --step-4: clamp(2.07rem, 1.75rem + 1.6vw, 3.05rem);
+
+  --leading-tight: 1.2;
+  --leading-body: 1.65;
+  --measure: 34rem;
+  --measure-wide: 46rem;
+
+  /* ---- Space ----------------------------------------------------------- */
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-s: 0.75rem;
+  --space-m: 1.25rem;
+  --space-l: 2rem;
+  --space-xl: 3.25rem;
+  --space-2xl: 5rem;
+
+  --radius: 3px;
+  --hairline: 1px;
+
+  /* ---- Light palette --------------------------------------------------- */
+  /* Warm paper rather than pure white; ink rather than pure black. */
+  --bg: oklch(98.4% 0.004 85);
+  --bg-raised: oklch(100% 0 0);
+  --bg-sunken: oklch(95.8% 0.006 85);
+  --ink: oklch(24% 0.012 275);
+  --ink-muted: oklch(45% 0.012 275);
+  --ink-faint: oklch(58% 0.01 275);
+  --rule: oklch(88% 0.008 275);
+  --rule-strong: oklch(72% 0.01 275);
+
+  /* The two sides. Same L, same C; hue 300 and hue 180. */
+  --theist: oklch(46% 0.09 300);
+  --theist-soft: oklch(95.5% 0.022 300);
+  --theist-rule: oklch(80% 0.045 300);
+  --atheist: oklch(46% 0.09 180);
+  --atheist-soft: oklch(95.5% 0.022 180);
+  --atheist-rule: oklch(80% 0.045 180);
+
+  /* Status tags. Deliberately neutral greys and one restrained slate. */
+  --tag-bg: oklch(93% 0.008 275);
+  --tag-ink: oklch(38% 0.015 275);
+  --tag-settled-bg: oklch(93% 0.02 230);
+  --tag-settled-ink: oklch(38% 0.06 230);
+
+  --focus: oklch(52% 0.16 250);
+  --link: oklch(40% 0.08 250);
+  --link-visited: oklch(40% 0.07 305);
+
+  --shadow: 0 1px 2px oklch(24% 0.012 275 / 0.05),
+    0 4px 14px oklch(24% 0.012 275 / 0.04);
+}
+
+/* ---- Dark palette ------------------------------------------------------ */
+/* Applied when the reader's system asks for dark and they have not chosen light. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: oklch(19% 0.012 275);
+    --bg-raised: oklch(22.5% 0.013 275);
+    --bg-sunken: oklch(16% 0.011 275);
+    --ink: oklch(92% 0.008 85);
+    --ink-muted: oklch(74% 0.009 275);
+    --ink-faint: oklch(62% 0.009 275);
+    --rule: oklch(32% 0.012 275);
+    --rule-strong: oklch(45% 0.014 275);
+
+    --theist: oklch(82% 0.085 300);
+    --theist-soft: oklch(26% 0.035 300);
+    --theist-rule: oklch(45% 0.06 300);
+    --atheist: oklch(82% 0.085 180);
+    --atheist-soft: oklch(26% 0.035 180);
+    --atheist-rule: oklch(45% 0.06 180);
+
+    --tag-bg: oklch(29% 0.012 275);
+    --tag-ink: oklch(83% 0.012 275);
+    --tag-settled-bg: oklch(29% 0.03 230);
+    --tag-settled-ink: oklch(85% 0.06 230);
+
+    --focus: oklch(78% 0.15 250);
+    --link: oklch(80% 0.08 250);
+    --link-visited: oklch(78% 0.07 305);
+
+    --shadow: 0 1px 2px oklch(0% 0 0 / 0.3), 0 4px 14px oklch(0% 0 0 / 0.22);
+  }
+}
+
+/* The manual toggle wins in both directions. */
+:root[data-theme='dark'] {
+  --bg: oklch(19% 0.012 275);
+  --bg-raised: oklch(22.5% 0.013 275);
+  --bg-sunken: oklch(16% 0.011 275);
+  --ink: oklch(92% 0.008 85);
+  --ink-muted: oklch(74% 0.009 275);
+  --ink-faint: oklch(62% 0.009 275);
+  --rule: oklch(32% 0.012 275);
+  --rule-strong: oklch(45% 0.014 275);
+
+  --theist: oklch(82% 0.085 300);
+  --theist-soft: oklch(26% 0.035 300);
+  --theist-rule: oklch(45% 0.06 300);
+  --atheist: oklch(82% 0.085 180);
+  --atheist-soft: oklch(26% 0.035 180);
+  --atheist-rule: oklch(45% 0.06 180);
+
+  --tag-bg: oklch(29% 0.012 275);
+  --tag-ink: oklch(83% 0.012 275);
+  --tag-settled-bg: oklch(29% 0.03 230);
+  --tag-settled-ink: oklch(85% 0.06 230);
+
+  --focus: oklch(78% 0.15 250);
+  --link: oklch(80% 0.08 250);
+  --link-visited: oklch(78% 0.07 305);
+
+  --shadow: 0 1px 2px oklch(0% 0 0 / 0.3), 0 4px 14px oklch(0% 0 0 / 0.22);
+}

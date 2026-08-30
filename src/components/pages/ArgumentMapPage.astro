@@ -1,0 +1,236 @@
+---
+// The second view of the same data: every argument as a tree of
+// claim → strongest objection → response, so a reader can walk each exchange in
+// turn instead of reading two columns in parallel. Side order matches the
+// standard view, so the same argument sits in the same place in both.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StatusTag from '../StatusTag.astro';
+import Quotation from '../Quotation.astro';
+import { locales, topicPath, useTranslations, type Locale } from '../../i18n';
+import { alternatesForTopic, getTopicsForLocale, orderedSides } from '../../lib/topics';
+import { toPlainText } from '../../lib/richtext';
+
+interface Props {
+  locale: Locale;
+  topicId: string;
+}
+
+const { locale, topicId } = Astro.props;
+const t = useTranslations(locale);
+
+const entries = await getTopicsForLocale(locale);
+const entry = entries.find((item) => item.data.id === topicId);
+if (!entry) throw new Error(`No ${locale} content file for topic "${topicId}"`);
+
+const topic = entry.data;
+const sides = orderedSides(topic);
+
+// The map lives at .../map in every locale, so build its alternates from the
+// topic's own alternates rather than duplicating the lookup.
+const topicAlternates = await alternatesForTopic(topic.id);
+const alternates = Object.fromEntries(
+  locales.map((code) => {
+    const base = topicAlternates[code];
+    // A locale with no file yet points at its home page; leave that alone.
+    return [code, base === '/' || base === `/${code}` ? base : `${base}/map`];
+  }),
+) as Record<Locale, string>;
+
+const branches = sides.flatMap((side) =>
+  side.arguments.map((argument) => ({ side, argument })),
+);
+---
+
+<BaseLayout
+  locale={locale}
+  title={`${t('topic.argumentMap')}: ${topic.title}`}
+  description={toPlainText(topic.realQuestion).slice(0, 300)}
+  alternates={alternates}
+>
+  <div class="wrap">
+    <header class="map-head">
+      <p class="eyebrow">
+        <a href={topicPath(locale, topic.slug)}>{t('topic.standardView')}</a>
+        <span class="sep" aria-hidden="true">/</span>
+        <span>{t('topic.number', { n: topic.number })}</span>
+      </p>
+      <h1>{topic.title}</h1>
+      <p class="kicker">{t('topic.argumentMap')}</p>
+      <StatusTag status={topic.status} locale={locale} />
+    </header>
+
+    <ol class="map">
+      {
+        branches.map(({ side, argument }) => {
+          const other = side.position === 'theist' ? 'atheist' : 'theist';
+          return (
+            <li class:list={['branch', `side-${side.position}`]} id={`map-${argument.id}`}>
+              <div class="node claim-node">
+                <p class="node-label">
+                  {t(`side.${side.position}`)} &middot; {t('argument.claim')}
+                </p>
+                <p class="node-text">{argument.claim}</p>
+                {argument.quote && (
+                  <Quotation
+                    quote={argument.quote}
+                    locale={locale}
+                    side={side.position}
+                  />
+                )}
+              </div>
+
+              {argument.counter && (
+                <ol class="children">
+                  <li class:list={['node', 'objection-node', `side-${other}`]}>
+                    <p class="node-label">
+                      {t(`side.${other}`)} &middot; {t('argument.objection')}
+                    </p>
+                    <p class="node-text">{argument.counter.objection}</p>
+                    {argument.counter.quote && (
+                      <Quotation quote={argument.counter.quote} locale={locale} side={other} />
+                    )}
+
+                    {argument.counter.response && (
+                      <ol class="children">
+                        <li class:list={['node', 'response-node', `side-${side.position}`]}>
+                          <p class="node-label">
+                            {t(`side.${side.position}`)} &middot; {t('argument.response')}
+                          </p>
+                          <p class="node-text">{argument.counter.response}</p>
+                        </li>
+                      </ol>
+                    )}
+                  </li>
+                </ol>
+              )}
+
+              <p class="jump">
+                <a href={`${topicPath(locale, topic.slug)}#${argument.id}`}>
+                  {t('topic.standardView')}
+                </a>
+              </p>
+            </li>
+          );
+        })
+      }
+    </ol>
+  </div>
+</BaseLayout>
+
+<style>
+  .map-head {
+    padding: var(--space-xl) 0 var(--space-l);
+    max-width: var(--measure-wide);
+  }
+
+  .eyebrow {
+    display: flex;
+    gap: var(--space-xs);
+    font-size: var(--step--1);
+    color: var(--ink-faint);
+    margin-bottom: var(--space-m);
+  }
+
+  .eyebrow a {
+    color: var(--ink-faint);
+  }
+
+  .sep {
+    color: var(--rule-strong);
+  }
+
+  h1 {
+    font-size: var(--step-3);
+    margin-bottom: var(--space-2xs);
+  }
+
+  .kicker {
+    font-size: var(--step--1);
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: var(--space-s);
+  }
+
+  .map {
+    list-style: none;
+    margin: 0 0 var(--space-2xl);
+    padding: 0;
+    display: grid;
+    gap: var(--space-xl);
+    max-width: var(--measure-wide);
+  }
+
+  .branch {
+    padding-top: var(--space-l);
+    border-top: var(--hairline) solid var(--rule);
+  }
+
+  .node {
+    padding-left: var(--space-m);
+    border-left: 2px solid var(--rule-strong);
+  }
+
+  .node.side-theist,
+  .branch.side-theist > .claim-node {
+    border-left-color: var(--theist-rule);
+  }
+
+  .node.side-atheist,
+  .branch.side-atheist > .claim-node {
+    border-left-color: var(--atheist-rule);
+  }
+
+  .node-label {
+    margin: 0 0 var(--space-2xs);
+    font-size: 0.78em;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+  }
+
+  .side-theist > .node-label,
+  .branch.side-theist > .claim-node > .node-label {
+    color: var(--theist);
+  }
+
+  .side-atheist > .node-label,
+  .branch.side-atheist > .claim-node > .node-label {
+    color: var(--atheist);
+  }
+
+  .node-text {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.4;
+  }
+
+  .objection-node .node-text,
+  .response-node .node-text {
+    font-size: var(--step-0);
+    font-family: var(--font-body);
+  }
+
+  .children {
+    list-style: none;
+    margin: var(--space-m) 0 0;
+    padding: 0 0 0 var(--space-m);
+  }
+
+  .children .node {
+    padding-block: var(--space-2xs);
+  }
+
+  .jump {
+    margin: var(--space-m) 0 0;
+    font-size: var(--step--1);
+  }
+
+  @media (max-width: 34rem) {
+    .children {
+      padding-left: var(--space-xs);
+    }
+  }
+</style>

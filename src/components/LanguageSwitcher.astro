@@ -1,0 +1,88 @@
+---
+// Switches language without losing the reader's place: every link points at the
+// same topic in the other language, and the current hash is carried across
+// because argument ids are the same in all five files.
+import { locales, useTranslations, type Locale } from '../i18n';
+
+interface Props {
+  locale: Locale;
+  // /** Path to the equivalent page in each locale. */
+  alternates: Record<Locale, string>;
+}
+
+const { locale, alternates } = Astro.props;
+const t = useTranslations(locale);
+---
+
+<nav class="lang" aria-label={t('lang.switch')}>
+  <ul>
+    {
+      locales.map((code) => (
+        <li>
+          <a
+            href={alternates[code]}
+            hreflang={code}
+            lang={code}
+            data-lang-link
+            aria-current={code === locale ? 'true' : undefined}
+          >
+            <abbr title={t(`lang.${code}`)}>{code.toUpperCase()}</abbr>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+
+<style>
+  ul {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2xs);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    display: block;
+    padding: 0.25rem 0.4rem;
+    border-radius: var(--radius);
+    color: var(--ink-faint);
+    text-decoration: none;
+    font-size: var(--step--1);
+    letter-spacing: 0.03em;
+  }
+
+  a:hover {
+    color: var(--ink);
+    background: var(--bg-sunken);
+  }
+
+  a[aria-current='true'] {
+    color: var(--ink);
+    background: var(--bg-sunken);
+    font-weight: 600;
+  }
+
+  abbr {
+    text-decoration: none;
+    border: 0;
+  }
+</style>
+
+<script>
+  // Argument anchors are locale-independent, so the fragment survives the jump.
+  function carryAnchor() {
+    const hash = window.location.hash;
+    if (!hash) return;
+    for (const link of document.querySelectorAll<HTMLAnchorElement>('[data-lang-link]')) {
+      const url = new URL(link.href, window.location.origin);
+      url.hash = hash;
+      link.href = url.pathname + url.search + url.hash;
+    }
+  }
+
+  carryAnchor();
+  window.addEventListener('hashchange', carryAnchor);
+</script>

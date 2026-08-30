@@ -1,0 +1,75 @@
+{
+  "site.name": "Sic et Non",
+  "site.tagline": "Veinte debates entre el ateísmo y el cristianismo, ambos lados en su versión más fuerte.",
+  "site.description": "Veinte debates entre el ateísmo y el cristianismo. Cada argumento tal como lo formulan sus mejores defensores, con citas reales de quienes los propusieron.",
+
+  "nav.home": "Temas",
+  "nav.about": "Acerca de",
+  "nav.skipToContent": "Ir al contenido",
+
+  "home.intro": "Veinte preguntas sobre las que la gente discute. En cada una encontrarás el mejor argumento de ambos lados, en palabras de quienes lo formularon. Este sitio nunca te dice quién ganó.",
+  "home.topicsHeading": "Los veinte temas",
+  "home.readTopic": "Leer este tema",
+  "home.comingSoon": "Aún sin redactar",
+  "home.howToRead": "Cómo leer este sitio",
+
+  "category.existence-of-god": "La existencia de Dios",
+  "category.natural-science": "Ciencias naturales",
+  "category.mind-and-will": "Mente y voluntad",
+  "category.morality": "Moral",
+  "category.history-and-text": "Historia y texto",
+  "category.faith-and-society": "Fe y sociedad",
+
+  "status.settled-core": "Núcleo resuelto",
+  "status.open": "Abierto",
+  "status.interpretive": "Interpretativo",
+  "status.settled-core.meaning": "Aquí hay un núcleo de hechos que los especialistas correspondientes ya han resuelto. Lo que queda en disputa es qué significa, no cuáles son los hechos.",
+  "status.open.meaning": "Una disputa viva. Personas serias y bien informadas se sitúan en ambos lados.",
+  "status.interpretive.meaning": "Ninguna prueba nueva va a resolver esto. Al final es una decisión sobre cómo leer el mundo.",
+  "status.label": "Estado",
+
+  "topic.number": "Tema {n}",
+  "topic.realQuestion": "La pregunta de fondo",
+  "topic.settledCore": "Lo que no está en disputa",
+  "topic.sides": "Los dos lados",
+  "topic.familyPositions": "Cuatro posturas cristianas",
+  "topic.whereItStands": "Cómo está la cuestión",
+  "topic.commonMistake": "El error más común",
+  "topic.sources": "Fuentes",
+  "topic.glossary": "Términos usados en esta página",
+  "topic.readingTime": "Unos {n} minutos",
+  "topic.argumentMap": "Mapa de argumentos",
+  "topic.standardView": "Vista normal",
+  "topic.backToTopics": "Todos los temas",
+
+  "side.theist": "Cristiano",
+  "side.atheist": "Ateo",
+  "argument.objection": "La objeción más fuerte",
+  "argument.response": "Respuesta",
+  "argument.claim": "Afirmación",
+
+  "quote.paraphrase": "Paráfrasis",
+  "quote.paraphraseNote": "No es una cita literal. No se pudo confirmar la formulación exacta, así que esto expresa la idea del autor con nuestras palabras.",
+  "quote.source": "Fuente",
+  "quote.original": "Texto original",
+  "quote.viewSource": "Ver la fuente",
+
+  "position.heldBy": "Quiénes la sostienen",
+  "position.scienceStanding": "Qué dice la ciencia al respecto",
+
+  "theme.toggle": "Cambiar de tema",
+  "theme.light": "Claro",
+  "theme.dark": "Oscuro",
+
+  "lang.switch": "Idioma",
+  "lang.en": "English",
+  "lang.es": "Español",
+  "lang.fr": "Français",
+  "lang.de": "Deutsch",
+  "lang.hu": "Magyar",
+
+  "about.title": "Acerca de este sitio",
+  "about.rulesHeading": "Las reglas editoriales",
+  "footer.builtWith": "Un sitio estático. Sin cuentas, sin comentarios, sin rastreo.",
+  "footer.license": "Las citas pertenecen a sus autores y se usan con fines de comentario y crítica."
+}

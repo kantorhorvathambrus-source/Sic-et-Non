@@ -1,0 +1,35 @@
+---
+import { parseRichText, type GlossaryMap } from '../lib/richtext';
+import Term from './Term.astro';
+
+interface Props {
+  text: string;
+  glossary: GlossaryMap;
+  class?: string;
+}
+
+const { text, glossary, class: className } = Astro.props;
+const paragraphs = parseRichText(text, glossary);
+---
+
+<div class:list={['richtext', className]}>
+  {
+    paragraphs.map((tokens) => (
+      <p>
+        {tokens.map((token) =>
+          token.kind === 'text' ? (
+            token.value
+          ) : (
+            <Term definition={token.definition}>{token.label}</Term>
+          ),
+        )}
+      </p>
+    ))
+  }
+</div>
+
+<style>
+  .richtext > :global(p:last-child) {
+    margin-bottom: 0;
+  }
+</style>

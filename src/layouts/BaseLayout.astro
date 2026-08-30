@@ -1,0 +1,223 @@
+---
+import '../styles/global.css';
+import {
+  aboutPath,
+  homePath,
+  htmlLang,
+  locales,
+  useTranslations,
+  type Locale,
+} from '../i18n';
+import LanguageSwitcher from '../components/LanguageSwitcher.astro';
+import ThemeToggle from '../components/ThemeToggle.astro';
+
+interface Props {
+  locale: Locale;
+  title: string;
+  description: string;
+  // /** Path to the equivalent page in each locale, for the switcher and hreflang. */
+  alternates: Record<Locale, string>;
+}
+
+const { locale, title, description, alternates } = Astro.props;
+const t = useTranslations(locale);
+const site = Astro.site;
+const canonical = new URL(Astro.url.pathname.replace(/\/$/, '') || '/', site ?? Astro.url);
+const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.name')}`;
+---
+
+<!doctype html>
+<html lang={htmlLang[locale]} data-topic-root>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical.href} />
+
+    {
+      locales.map((code) => (
+        <link
+          rel="alternate"
+          hreflang={htmlLang[code]}
+          href={new URL(alternates[code], site ?? Astro.url).href}
+        />
+      ))
+    }
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href={new URL(alternates.en, site ?? Astro.url).href}
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:locale" content={htmlLang[locale]} />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+
+    <script is:inline>
+      // Applied before first paint so the page never flashes the wrong theme.
+      try {
+        var stored = localStorage.getItem('sen-theme');
+        if (stored === 'dark' || stored === 'light') {
+          document.documentElement.dataset.theme = stored;
+        }
+      } catch (e) {
+        /* site data blocked; fall back to the system preference */
+      }
+    </script>
+  </head>
+
+  <body>
+    <a class="skip-link" href="#main">{t('nav.skipToContent')}</a>
+
+    <header class="masthead">
+      <div class="wrap masthead-inner">
+        <a class="wordmark" href={homePath(locale)}>
+          <span class="wordmark-name">{t('site.name')}</span>
+        </a>
+
+        <nav class="primary" aria-label={t('nav.home')}>
+          <a href={homePath(locale)}>{t('nav.home')}</a>
+          <a href={aboutPath(locale)}>{t('nav.about')}</a>
+        </nav>
+
+        <div class="controls">
+          <LanguageSwitcher locale={locale} alternates={alternates} />
+          <ThemeToggle locale={locale} />
+        </div>
+      </div>
+    </header>
+
+    <main id="main" tabindex="-1">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p class="tagline">{t('site.tagline')}</p>
+        <p class="small">{t('footer.builtWith')}</p>
+        <p class="small">{t('footer.license')}</p>
+      </div>
+    </footer>
+
+    <script>
+      // Touch devices have no hover, so a tap opens the definition instead.
+      for (const term of document.querySelectorAll<HTMLElement>('dfn')) {
+        term.addEventListener('click', (event) => {
+          if (!window.matchMedia('(hover: none)').matches) return;
+          event.preventDefault();
+          const open = term.dataset.open === 'true';
+          for (const other of document.querySelectorAll<HTMLElement>('dfn[data-open]')) {
+            delete other.dataset.open;
+          }
+          if (!open) term.dataset.open = 'true';
+        });
+      }
+
+      document.addEventListener('keydown', (event) => {
+        if (event.key !== 'Escape') return;
+        for (const open of document.querySelectorAll<HTMLElement>('dfn[data-open]')) {
+          delete open.dataset.open;
+        }
+      });
+    </script>
+  </body>
+</html>
+
+<style>
+  .masthead {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    background: color-mix(in oklab, var(--bg) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: var(--hairline) solid var(--rule);
+  }
+
+  .masthead-inner {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    min-height: 3.5rem;
+    flex-wrap: wrap;
+  }
+
+  .wordmark {
+    text-decoration: none;
+    color: var(--ink);
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    letter-spacing: 0.01em;
+    margin-right: auto;
+  }
+
+  .wordmark-name {
+    font-style: italic;
+  }
+
+  .primary {
+    display: flex;
+    gap: var(--space-m);
+  }
+
+  .primary a {
+    color: var(--ink-muted);
+    text-decoration: none;
+    font-size: var(--step--1);
+  }
+
+  .primary a:hover {
+    color: var(--ink);
+    text-decoration: underline;
+    text-underline-offset: 0.3em;
+  }
+
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+  }
+
+  main:focus {
+    outline: none;
+  }
+
+  .site-footer {
+    margin-top: var(--space-2xl);
+    padding: var(--space-l) 0 var(--space-xl);
+    border-top: var(--hairline) solid var(--rule);
+    color: var(--ink-faint);
+  }
+
+  .site-footer .tagline {
+    font-family: var(--font-display);
+    font-size: var(--step-0);
+    color: var(--ink-muted);
+    max-width: var(--measure);
+  }
+
+  .site-footer .small {
+    font-size: var(--step--1);
+    margin-bottom: var(--space-2xs);
+    max-width: var(--measure-wide);
+  }
+
+  @media (max-width: 32rem) {
+    /* The bar needs two rows at this width. Sticking it would cost a fifth of a
+       phone screen for the whole read, so it scrolls away instead. */
+    .masthead {
+      position: static;
+    }
+
+    .masthead-inner {
+      padding-block: var(--space-xs);
+    }
+
+    .wordmark {
+      font-size: var(--step-0);
+    }
+  }
+</style>

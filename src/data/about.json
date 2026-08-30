@@ -1,0 +1,196 @@
+{
+  "en": {
+    "lede": "This is not an apologetics site and it is not an anti-religion site. It exists so that you can see what each side actually argues, in the words of the people who argue it best, and then make up your own mind.",
+    "rulesHeading": "The editorial rules",
+    "rules": [
+      {
+        "title": "Steelman only",
+        "body": "Every argument appears as its best defenders state it, never as its opponents caricature it. If an argument here looks weak, that is either because we have written it badly, in which case it is a bug, or because it is weak, in which case saying so plainly is the honest thing."
+      },
+      {
+        "title": "Three honest status tags",
+        "body": "Every topic carries one of three labels. Settled core: there is a factual core the relevant experts have settled, and the argument that remains is about what it means. Open: a live dispute, with serious and well-informed people on both sides. Interpretive: no new evidence will settle this, because it is ultimately a choice about how to read the world."
+      },
+      {
+        "title": "No manufactured balance",
+        "body": "Where a question has a settled empirical core, we say so rather than inventing a controversy for the sake of symmetry. Three topics are like this: whether living species share common ancestry, whether science and religion have been historically at war, and whether Jesus of Nazareth existed. In each case the settled part is stated separately from the part that is genuinely disputed, and the genuine dispute still gets both sides in full."
+      },
+      {
+        "title": "Where it stands, and the common mistake",
+        "body": "Every topic ends with an honest read of where the argument currently sits, and with the error people on either side most often make when they discuss it. Neither section is a verdict. Both are about the state of the conversation, not about who is right."
+      },
+      {
+        "title": "No winner",
+        "body": "The site never declares a winner and never nudges you toward a conclusion. There is no final paragraph that quietly favours one side. Where we think a question is undecidable on the evidence, we say that, which is not the same as saying both answers are equally likely to be true."
+      }
+    ],
+    "quotationsHeading": "About the quotations",
+    "quotations": [
+      "Every quotation on this site is meant to be a real quotation: the actual words, from the actual work, by the person named. Wording, work and year are checked before anything is published.",
+      "Where the exact wording could not be confirmed, we do not guess and we do not reconstruct. The passage is rewritten as a clearly labelled paraphrase in our own words, marked as a paraphrase in the page, and never dressed up in quotation marks.",
+      "No page number, edition or link on this site is invented. A missing quotation is a small loss. A fabricated one would make the whole site worthless."
+    ],
+    "designHeading": "Why the page looks like this",
+    "design": [
+      "The layout borrows from the medieval quaestio disputata: a question stated first, then the arguments on either hand set out with equal standing before anything is concluded.",
+      "The two sides get the same column width, the same type sizes and two accent colours of identical lightness and saturation, so that neither can read as the warm approved one. Column order alternates by topic number, so neither side has a permanent home on the left.",
+      "There is no comment system, no account, no newsletter and no tracking. The site is a set of static files."
+    ]
+  },
+
+  "es": {
+    "lede": "Este no es un sitio de apologética ni un sitio antirreligioso. Existe para que veas lo que cada lado sostiene realmente, en palabras de quienes mejor lo sostienen, y decidas por tu cuenta.",
+    "rulesHeading": "Las reglas editoriales",
+    "rules": [
+      {
+        "title": "Solo la versión más fuerte",
+        "body": "Cada argumento aparece tal como lo formulan sus mejores defensores, nunca como lo caricaturizan sus adversarios. Si un argumento parece débil aquí, o lo hemos redactado mal, y entonces es un fallo nuestro, o realmente es débil, y entonces decirlo con claridad es lo honesto."
+      },
+      {
+        "title": "Tres etiquetas honestas",
+        "body": "Cada tema lleva una de tres etiquetas. Núcleo resuelto: hay un núcleo de hechos que los especialistas correspondientes ya han resuelto, y lo que queda en discusión es qué significa. Abierto: una disputa viva, con personas serias y bien informadas en ambos lados. Interpretativo: ninguna prueba nueva lo va a resolver, porque en el fondo es una decisión sobre cómo leer el mundo."
+      },
+      {
+        "title": "Sin equilibrio fabricado",
+        "body": "Cuando una pregunta tiene un núcleo empírico resuelto, lo decimos, en vez de inventar una controversia por simetría. Tres temas son así: si las especies vivas comparten un antepasado común, si la ciencia y la religión han estado históricamente en guerra, y si Jesús de Nazaret existió. En cada caso, la parte resuelta se expone aparte de la parte realmente discutida, y esa discusión real conserva ambos lados completos."
+      },
+      {
+        "title": "Cómo está la cuestión, y el error más común",
+        "body": "Cada tema termina con una lectura honesta de dónde está hoy la discusión y con el error que más suelen cometer quienes discuten sobre ella, de un lado o del otro. Ninguna de las dos secciones es un veredicto: hablan del estado de la conversación, no de quién tiene razón."
+      },
+      {
+        "title": "Sin ganador",
+        "body": "El sitio nunca declara un ganador ni te empuja hacia una conclusión. No hay un párrafo final que favorezca discretamente a un lado. Cuando pensamos que una pregunta no se puede decidir con las pruebas disponibles, lo decimos, que no es lo mismo que decir que ambas respuestas son igual de probables."
+      }
+    ],
+    "quotationsHeading": "Sobre las citas",
+    "quotations": [
+      "Toda cita de este sitio pretende ser una cita real: las palabras reales, de la obra real, de la persona nombrada. La formulación, la obra y el año se comprueban antes de publicar nada.",
+      "Cuando no se ha podido confirmar la formulación exacta, no adivinamos ni reconstruimos. El pasaje se reescribe como paráfrasis con nuestras propias palabras, se marca como paráfrasis en la página y nunca se disfraza con comillas.",
+      "Ninguna página, edición o enlace de este sitio está inventado. Que falte una cita es una pérdida pequeña. Una cita falsa dejaría sin valor todo el sitio."
+    ],
+    "designHeading": "Por qué la página se ve así",
+    "design": [
+      "La maquetación se inspira en la quaestio disputata medieval: primero se enuncia la pregunta, luego se exponen los argumentos de una y otra parte en igualdad de condiciones, y solo después se concluye algo.",
+      "Los dos lados tienen el mismo ancho de columna, los mismos tamaños de letra y dos colores de acento con idéntica luminosidad y saturación, para que ninguno se lea como el aprobado. El orden de las columnas se alterna según el número del tema, de modo que ningún lado ocupa siempre la izquierda.",
+      "No hay comentarios, ni cuentas, ni boletín, ni rastreo. El sitio es un conjunto de archivos estáticos."
+    ]
+  },
+
+  "fr": {
+    "lede": "Ce site n'est ni un site d'apologétique ni un site antireligieux. Il existe pour que vous puissiez voir ce que chaque camp soutient réellement, dans les mots de ceux qui le soutiennent le mieux, et vous faire votre propre idée.",
+    "rulesHeading": "Les règles éditoriales",
+    "rules": [
+      {
+        "title": "Uniquement la version la plus forte",
+        "body": "Chaque argument est présenté tel que le formulent ses meilleurs défenseurs, jamais tel que le caricaturent ses adversaires. Si un argument paraît faible ici, ou bien nous l'avons mal rédigé, et c'est notre erreur, ou bien il est faible, et le dire clairement est la seule chose honnête à faire."
+      },
+      {
+        "title": "Trois étiquettes honnêtes",
+        "body": "Chaque sujet porte l'une de trois étiquettes. Noyau établi : il y a un noyau de faits que les spécialistes concernés ont tranché, et ce qui reste en débat, c'est sa signification. Ouvert : un débat vivant, avec des gens sérieux et bien informés des deux côtés. Interprétatif : aucune preuve nouvelle ne le tranchera, parce qu'il s'agit au fond d'un choix sur la façon de lire le monde."
+      },
+      {
+        "title": "Pas d'équilibre fabriqué",
+        "body": "Lorsqu'une question a un noyau empirique établi, nous le disons, plutôt que d'inventer une controverse par souci de symétrie. Trois sujets sont dans ce cas : l'ascendance commune des espèces vivantes, la prétendue guerre historique entre science et religion, et l'existence de Jésus de Nazareth. Dans chaque cas, la partie établie est exposée à part de la partie réellement débattue, et ce débat réel garde les deux camps au complet."
+      },
+      {
+        "title": "Où en est la question, et l'erreur la plus fréquente",
+        "body": "Chaque sujet se termine par un état des lieux honnête du débat et par l'erreur que commettent le plus souvent ceux qui en discutent, d'un côté comme de l'autre. Aucune de ces deux sections n'est un verdict : elles portent sur l'état de la conversation, pas sur qui a raison."
+      },
+      {
+        "title": "Pas de vainqueur",
+        "body": "Le site ne désigne jamais de vainqueur et ne vous pousse jamais vers une conclusion. Il n'y a pas de dernier paragraphe qui favorise discrètement un camp. Quand nous estimons qu'une question ne peut pas être tranchée par les preuves disponibles, nous le disons, ce qui n'est pas la même chose que d'affirmer que les deux réponses sont également probables."
+      }
+    ],
+    "quotationsHeading": "À propos des citations",
+    "quotations": [
+      "Toute citation de ce site se veut une citation réelle : les mots réels, de l'œuvre réelle, de la personne nommée. La formulation, l'œuvre et l'année sont vérifiées avant toute publication.",
+      "Lorsque la formulation exacte n'a pas pu être confirmée, nous ne devinons pas et nous ne reconstituons pas. Le passage est réécrit comme une paraphrase dans nos propres mots, signalé comme tel sur la page, et jamais habillé de guillemets.",
+      "Aucune page, édition ou adresse de ce site n'est inventée. Une citation manquante est une petite perte. Une citation fabriquée rendrait le site entier sans valeur."
+    ],
+    "designHeading": "Pourquoi la page ressemble à cela",
+    "design": [
+      "La mise en page s'inspire de la quaestio disputata médiévale : la question est d'abord posée, puis les arguments de part et d'autre sont exposés à égalité, avant toute conclusion.",
+      "Les deux camps ont la même largeur de colonne, les mêmes corps de texte et deux couleurs d'accent de luminosité et de saturation identiques, pour qu'aucune ne se lise comme celle du camp approuvé. L'ordre des colonnes alterne selon le numéro du sujet, de sorte qu'aucun camp n'occupe durablement la gauche.",
+      "Pas de commentaires, pas de comptes, pas d'infolettre, pas de traçage. Le site est un ensemble de fichiers statiques."
+    ]
+  },
+
+  "de": {
+    "lede": "Dies ist weder eine apologetische noch eine religionsfeindliche Seite. Sie existiert, damit du siehst, was jede Seite tatsächlich vorbringt, in den Worten derer, die es am besten vorbringen, und dir dann selbst ein Urteil bildest.",
+    "rulesHeading": "Die redaktionellen Regeln",
+    "rules": [
+      {
+        "title": "Nur die stärkste Fassung",
+        "body": "Jedes Argument steht so da, wie seine besten Vertreter es vorbringen, nie als Zerrbild seiner Gegner. Wirkt ein Argument hier schwach, dann haben entweder wir es schlecht formuliert, was ein Fehler unsererseits ist, oder es ist tatsächlich schwach, und das klar zu sagen ist das Ehrliche."
+      },
+      {
+        "title": "Drei ehrliche Kennzeichnungen",
+        "body": "Jedes Thema trägt eine von drei Kennzeichnungen. Geklärter Kern: Es gibt einen sachlichen Kern, den die zuständigen Fachleute geklärt haben, und gestritten wird nur noch über seine Bedeutung. Offen: eine lebendige Debatte mit ernsthaften, gut informierten Leuten auf beiden Seiten. Deutungsfrage: Kein neuer Befund wird das entscheiden, weil es im Kern eine Entscheidung darüber ist, wie man die Welt liest."
+      },
+      {
+        "title": "Keine hergestellte Ausgewogenheit",
+        "body": "Wo eine Frage einen geklärten empirischen Kern hat, sagen wir das, statt der Symmetrie zuliebe eine Kontroverse zu erfinden. Drei Themen sind so gelagert: ob die heutigen Arten gemeinsame Vorfahren haben, ob Wissenschaft und Religion historisch im Krieg lagen, und ob Jesus von Nazaret existiert hat. In jedem Fall steht der geklärte Teil getrennt vom wirklich strittigen Teil, und dieser strittige Teil bekommt weiterhin beide Seiten vollständig."
+      },
+      {
+        "title": "Wie es um die Frage steht, und der häufigste Fehler",
+        "body": "Jedes Thema endet mit einer ehrlichen Einschätzung, wo die Debatte gerade steht, und mit dem Fehler, den die Diskutierenden auf beiden Seiten am häufigsten machen. Beides ist kein Urteil: Es geht um den Zustand des Gesprächs, nicht darum, wer recht hat."
+      },
+      {
+        "title": "Kein Sieger",
+        "body": "Die Seite erklärt nie einen Sieger und schiebt dich nie zu einem Ergebnis. Es gibt keinen Schlussabsatz, der still eine Seite bevorzugt. Wo wir meinen, dass eine Frage mit den vorliegenden Befunden nicht zu entscheiden ist, sagen wir das, und das ist etwas anderes, als beide Antworten für gleich wahrscheinlich zu erklären."
+      }
+    ],
+    "quotationsHeading": "Zu den Zitaten",
+    "quotations": [
+      "Jedes Zitat auf dieser Seite soll ein echtes Zitat sein: die tatsächlichen Worte, aus dem tatsächlichen Werk, von der genannten Person. Wortlaut, Werk und Jahr werden geprüft, bevor irgendetwas veröffentlicht wird.",
+      "Ließ sich der genaue Wortlaut nicht bestätigen, raten wir nicht und rekonstruieren wir nicht. Die Stelle wird als klar gekennzeichnete Paraphrase mit unseren Worten wiedergegeben, auf der Seite als Paraphrase markiert und nie in Anführungszeichen gekleidet.",
+      "Keine Seitenzahl, keine Ausgabe und kein Link auf dieser Seite ist erfunden. Ein fehlendes Zitat ist ein kleiner Verlust. Ein erfundenes würde die ganze Seite wertlos machen."
+    ],
+    "designHeading": "Warum die Seite so aussieht",
+    "design": [
+      "Das Layout ist der mittelalterlichen quaestio disputata abgeschaut: erst wird die Frage gestellt, dann werden die Argumente beider Seiten gleichrangig ausgebreitet, und erst danach wird überhaupt etwas geschlossen.",
+      "Beide Seiten bekommen dieselbe Spaltenbreite, dieselben Schriftgrade und zwei Akzentfarben von gleicher Helligkeit und Sättigung, damit keine als die warme, gebilligte erscheint. Die Spaltenreihenfolge wechselt mit der Themennummer, sodass keine Seite dauerhaft links steht.",
+      "Es gibt keine Kommentare, keine Konten, keinen Newsletter und kein Tracking. Die Seite besteht aus statischen Dateien."
+    ]
+  },
+
+  "hu": {
+    "lede": "Ez nem apologetikai és nem is vallásellenes honlap. Azért készült, hogy lásd, mit állít valójában mindkét oldal, azoknak a szavaival, akik a legjobban képviselik, és aztán magad döntsd el, mit gondolsz.",
+    "rulesHeading": "A szerkesztési szabályok",
+    "rules": [
+      {
+        "title": "Csak a legerősebb változat",
+        "body": "Minden érv úgy szerepel, ahogyan a legjobb képviselői megfogalmazzák, sosem úgy, ahogyan az ellenfelei kifigurázzák. Ha egy érv itt gyengének látszik, akkor vagy mi írtuk meg rosszul, és az a mi hibánk, vagy tényleg gyenge, és ezt kimondani a tisztességes."
+      },
+      {
+        "title": "Három őszinte címke",
+        "body": "Minden téma három címke egyikét viseli. Lezárt mag: van egy tényszerű mag, amelyet az illetékes szakemberek lezártak, és már csak a jelentéséről folyik a vita. Nyitott: élő vita, komoly és jól tájékozott emberekkel mindkét oldalon. Értelmezés kérdése: ezt semmilyen új bizonyíték nem fogja eldönteni, mert végső soron arról szól, hogyan olvassuk a világot."
+      },
+      {
+        "title": "Nincs mesterséges egyensúly",
+        "body": "Ahol egy kérdésnek van lezárt tényszerű magja, azt kimondjuk, ahelyett hogy a szimmetria kedvéért vitát találnánk ki. Három téma ilyen: hogy a ma élő fajoknak közös őseik vannak-e, hogy a tudomány és a vallás történetileg háborúban állt-e, és hogy a názáreti Jézus létezett-e. Mindhárom esetben a lezárt rész külön szerepel a valóban vitatott résztől, és az a valódi vita továbbra is mindkét oldalt teljes egészében megkapja."
+      },
+      {
+        "title": "Hol tart a kérdés, és a leggyakoribb hiba",
+        "body": "Minden téma azzal zárul, hogy őszintén megnézzük, hol tart most a vita, és hogy mi az a hiba, amit a vitatkozók mindkét oldalon a leggyakrabban elkövetnek. Egyik szakasz sem ítélet: a beszélgetés állapotáról szólnak, nem arról, kinek van igaza."
+      },
+      {
+        "title": "Nincs győztes",
+        "body": "A honlap soha nem hirdet győztest, és soha nem terel egy következtetés felé. Nincs záró bekezdés, amely csendben az egyik oldalnak kedvezne. Ha úgy gondoljuk, hogy egy kérdés a rendelkezésre álló bizonyítékok alapján nem dönthető el, ezt kimondjuk, ami nem ugyanaz, mint azt állítani, hogy mindkét válasz egyformán valószínű."
+      }
+    ],
+    "quotationsHeading": "Az idézetekről",
+    "quotations": [
+      "A honlap minden idézete valódi idézet kíván lenni: a tényleges szöveg, a tényleges műből, a megnevezett szerzőtől. A szöveget, a művet és az évszámot közlés előtt ellenőrizzük.",
+      "Ahol a pontos szöveget nem sikerült megerősíteni, ott nem találgatunk és nem rekonstruálunk. A helyet a saját szavainkkal, egyértelműen jelölt parafrázisként adjuk vissza, az oldalon parafrázisként megjelölve, és soha nem öltöztetjük idézőjelbe.",
+      "Ezen a honlapon egyetlen oldalszám, kiadás vagy hivatkozás sem kitalált. Egy hiányzó idézet kis veszteség. Egy koholt idézet az egész honlapot értéktelenné tenné."
+    ],
+    "designHeading": "Miért így néz ki az oldal",
+    "design": [
+      "Az elrendezés a középkori quaestio disputatát követi: előbb elhangzik a kérdés, aztán mindkét oldal érvei egyenrangúan kifejtve következnek, és csak ezután lehet bármit is leszűrni.",
+      "A két oldal ugyanolyan széles hasábot, ugyanakkora betűméreteket és két, azonos világosságú és telítettségű kiemelőszínt kap, hogy egyik se olvasódjék a meleg, helyeselt oldalként. A hasábok sorrendje a téma sorszáma szerint váltakozik, így egyik oldal sem foglalja el tartósan a bal oldalt.",
+      "Nincsenek hozzászólások, fiókok, hírlevél és nyomkövetés. A honlap statikus fájlokból áll."
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+---
+// Renders one quotation.
+//
+// A quotation with verified:false is never presented as if the writer said these
+// words. It is labelled a paraphrase, set in roman rather than the quoted italic,
+// and given no quotation marks.
+import type { Locale } from '../i18n';
+import { useTranslations } from '../i18n';
+import type { CollectionEntry } from 'astro:content';
+
+type Topic = CollectionEntry<'topics'>['data'];
+type Quote = NonNullable<Topic['sides'][number]['arguments'][number]['quote']>;
+
+interface Props {
+  quote: Quote;
+  locale: Locale;
+  side?: 'theist' | 'atheist' | 'neutral';
+}
+
+const { quote, locale, side = 'neutral' } = Astro.props;
+const t = useTranslations(locale);
+// Some works carry their own date ("Letter to Asa Gray, 22 May 1860"), so the
+// year is appended only when it is not already there.
+const cite = quote.work.includes(quote.year)
+  ? quote.work
+  : `${quote.work}, ${quote.year}`;
+---
+
+<figure class:list={['quotation', `side-${side}`, { paraphrase: !quote.verified }]}>
+  {
+    !quote.verified && (
+      <p class="paraphrase-flag">
+        <strong>{t('quote.paraphrase')}</strong>
+        <span>{t('quote.paraphraseNote')}</span>
+      </p>
+    )
+  }
+
+  <blockquote cite={quote.sourceUrl}>
+    <p>{quote.text}</p>
+  </blockquote>
+
+  {
+    quote.original && (
+      <details class="original">
+        <summary>{t('quote.original')}</summary>
+        <p lang={quote.original.language}>{quote.original.text}</p>
+      </details>
+    )
+  }
+
+  <figcaption>
+    <span class="author">{quote.author}</span>
+    <cite>{cite}</cite>
+    {quote.locator && <span class="locator">{quote.locator}</span>}
+    <a href={quote.sourceUrl} rel="noopener noreferrer" target="_blank">
+      {t('quote.viewSource')}
+      <span class="visually-hidden">: {quote.work}</span>
+    </a>
+  </figcaption>
+</figure>
+
+<style>
+  .quotation {
+    margin: var(--space-m) 0;
+    padding-left: var(--space-m);
+    border-left: 2px solid var(--rule-strong);
+  }
+
+  .quotation.side-theist {
+    border-left-color: var(--theist-rule);
+  }
+
+  .quotation.side-atheist {
+    border-left-color: var(--atheist-rule);
+  }
+
+  blockquote {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-style: italic;
+    line-height: 1.45;
+    color: var(--ink);
+  }
+
+  blockquote p {
+    margin: 0;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+
+  /* A paraphrase is our sentence, not theirs: no quotation marks, no italic. */
+  .paraphrase blockquote {
+    font-style: normal;
+    font-size: var(--step-0);
+    font-family: var(--font-body);
+    color: var(--ink-muted);
+  }
+
+  .paraphrase blockquote p::before,
+  .paraphrase blockquote p::after {
+    content: none;
+  }
+
+  .paraphrase-flag {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 var(--space-xs);
+    margin: 0 0 var(--space-xs);
+    font-size: var(--step--1);
+    color: var(--ink-faint);
+  }
+
+  .paraphrase-flag strong {
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.82em;
+    color: var(--ink-muted);
+  }
+
+  .original {
+    margin-top: var(--space-xs);
+    font-size: var(--step--1);
+  }
+
+  .original summary {
+    cursor: pointer;
+    color: var(--ink-faint);
+  }
+
+  .original p {
+    margin: var(--space-2xs) 0 0;
+    color: var(--ink-muted);
+    font-family: var(--font-display);
+    font-style: italic;
+    line-height: 1.5;
+  }
+
+  figcaption {
+    margin-top: var(--space-xs);
+    font-size: var(--step--1);
+    line-height: 1.5;
+    color: var(--ink-faint);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 var(--space-xs);
+  }
+
+  .author {
+    color: var(--ink-muted);
+    font-weight: 500;
+  }
+
+  .author::after {
+    content: ',';
+  }
+
+  cite {
+    font-style: italic;
+  }
+
+  .locator::before {
+    content: '\00B7\00A0';
+  }
+
+  figcaption a {
+    color: var(--ink-faint);
+  }
+</style>

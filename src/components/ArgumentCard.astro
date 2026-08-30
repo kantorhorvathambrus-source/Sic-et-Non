@@ -1,0 +1,149 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import type { Locale } from '../i18n';
+import { useTranslations } from '../i18n';
+import type { GlossaryMap } from '../lib/richtext';
+import RichText from './RichText.astro';
+import Quotation from './Quotation.astro';
+
+type Topic = CollectionEntry<'topics'>['data'];
+type Argument = Topic['sides'][number]['arguments'][number];
+
+interface Props {
+  argument: Argument;
+  position: 'theist' | 'atheist';
+  locale: Locale;
+  glossary: GlossaryMap;
+}
+
+const { argument, position, locale, glossary } = Astro.props;
+const t = useTranslations(locale);
+// /** The objection is raised by the other side, so it is tinted the other side's hue. */
+const otherSide = position === 'theist' ? 'atheist' : 'theist';
+---
+
+<article class="argument" id={argument.id} class:list={[`side-${position}`]}>
+  <h3 class="claim">
+    <a href={`#${argument.id}`} class="anchor" aria-hidden="true" tabindex="-1">§</a>
+    {argument.claim}
+  </h3>
+
+  <RichText text={argument.explanation} glossary={glossary} class="explanation" />
+
+  {argument.quote && <Quotation quote={argument.quote} locale={locale} side={position} />}
+
+  {
+    argument.counter && (
+      <div class:list={['counter', `side-${otherSide}`]}>
+        <p class="counter-label">{t('argument.objection')}</p>
+        <RichText text={argument.counter.objection} glossary={glossary} />
+
+        {argument.counter.quote && (
+          <Quotation quote={argument.counter.quote} locale={locale} side={otherSide} />
+        )}
+
+        {argument.counter.response && (
+          <div class="response">
+            <p class="counter-label">{t('argument.response')}</p>
+            <RichText text={argument.counter.response} glossary={glossary} />
+          </div>
+        )}
+      </div>
+    )
+  }
+</article>
+
+<style>
+  .argument {
+    padding-top: var(--space-l);
+  }
+
+  .argument + .argument {
+    border-top: var(--hairline) solid var(--rule);
+  }
+
+  .claim {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-s);
+    position: relative;
+  }
+
+  .anchor {
+    position: absolute;
+    left: -1.1em;
+    color: var(--rule-strong);
+    text-decoration: none;
+    opacity: 0;
+    font-weight: 400;
+  }
+
+  .argument:hover .anchor,
+  .anchor:focus {
+    opacity: 1;
+  }
+
+  .argument:target .claim {
+    /* A quiet marker for the anchor the reader arrived at. */
+    box-shadow: -0.55em 0 0 -0.4em currentColor;
+  }
+
+  .side-theist .claim {
+    color: var(--theist);
+  }
+
+  .side-atheist .claim {
+    color: var(--atheist);
+  }
+
+  .explanation {
+    color: var(--ink);
+  }
+
+  .counter {
+    margin-top: var(--space-m);
+    padding: var(--space-m);
+    border-radius: var(--radius);
+    font-size: var(--step--1);
+  }
+
+  .counter.side-theist {
+    background: var(--theist-soft);
+  }
+
+  .counter.side-atheist {
+    background: var(--atheist-soft);
+  }
+
+  .counter-label {
+    margin: 0 0 var(--space-2xs);
+    font-size: 0.82em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--ink-muted);
+  }
+
+  .counter.side-theist .counter-label {
+    color: var(--theist);
+  }
+
+  .counter.side-atheist .counter-label {
+    color: var(--atheist);
+  }
+
+  .response {
+    margin-top: var(--space-s);
+    padding-top: var(--space-s);
+    border-top: var(--hairline) solid color-mix(in oklab, currentColor 18%, transparent);
+  }
+
+  .response .counter-label {
+    color: var(--ink-muted);
+  }
+
+  @media (max-width: 32rem) {
+    .anchor {
+      display: none;
+    }
+  }
+</style>

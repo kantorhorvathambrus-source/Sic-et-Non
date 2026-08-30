@@ -1,0 +1,12 @@
+---
+// A technical term defined where it is used. The definition ships in the markup
+// so it works without JavaScript; the script only adds tap-to-open on touch
+// devices, where there is no hover.
+interface Props {
+  definition: string;
+}
+
+const { definition } = Astro.props;
+---
+
+<dfn tabindex="0"><slot /><span class="dfn-def" role="note">{definition}</span></dfn>

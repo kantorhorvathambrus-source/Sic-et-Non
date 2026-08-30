@@ -1,0 +1,424 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SideColumn from '../SideColumn.astro';
+import StatusTag from '../StatusTag.astro';
+import Quotation from '../Quotation.astro';
+import RichText from '../RichText.astro';
+import { homePath, mapPath, useTranslations, type Locale } from '../../i18n';
+import {
+  alternatesForTopic,
+  getTopicsForLocale,
+  orderedSides,
+  readingMinutes,
+} from '../../lib/topics';
+import { buildGlossary, toPlainText } from '../../lib/richtext';
+
+interface Props {
+  locale: Locale;
+  topicId: string;
+}
+
+const { locale, topicId } = Astro.props;
+const t = useTranslations(locale);
+
+const entries = await getTopicsForLocale(locale);
+const entry = entries.find((item) => item.data.id === topicId);
+if (!entry) throw new Error(`No ${locale} content file for topic "${topicId}"`);
+
+const topic = entry.data;
+const glossary = buildGlossary(topic.glossary);
+const sides = orderedSides(topic);
+const alternates = await alternatesForTopic(topic.id);
+const minutes = readingMinutes(topic);
+---
+
+<BaseLayout
+  locale={locale}
+  title={topic.title}
+  description={toPlainText(topic.realQuestion).slice(0, 300)}
+  alternates={alternates}
+>
+  <article class="topic">
+    <div class="wrap">
+      <header class="topic-head">
+        <p class="eyebrow">
+          <a href={homePath(locale)}>{t('topic.backToTopics')}</a>
+          <span class="sep" aria-hidden="true">/</span>
+          <span>{t('category.' + topic.category)}</span>
+          <span class="sep" aria-hidden="true">/</span>
+          <span>{t('topic.number', { n: topic.number })}</span>
+        </p>
+
+        <h1>{topic.title}</h1>
+
+        <div class="head-meta">
+          <StatusTag status={topic.status} locale={locale} />
+          <span class="minutes">{t('topic.readingTime', { n: minutes })}</span>
+          <a class="map-link" href={mapPath(locale, topic.slug)}>{t('topic.argumentMap')}</a>
+        </div>
+
+        <p class="status-meaning">{t(`status.${topic.status}.meaning`)}</p>
+      </header>
+
+      <section class="panel real-question" aria-labelledby="real-question">
+        <h2 id="real-question">{t('topic.realQuestion')}</h2>
+        <RichText text={topic.realQuestion} glossary={glossary} />
+      </section>
+
+      {
+        topic.settledCore && (
+          <section class="panel settled" aria-labelledby="settled-core">
+            <h2 id="settled-core">{t('topic.settledCore')}</h2>
+            <RichText text={topic.settledCore} glossary={glossary} />
+          </section>
+        )
+      }
+    </div>
+
+    <div class="wrap">
+      <h2 class="sides-heading" id="sides">{t('topic.sides')}</h2>
+      <div class="sides">
+        {
+          sides.map((side) => (
+            <SideColumn side={side} locale={locale} glossary={glossary} />
+          ))
+        }
+      </div>
+    </div>
+
+    {
+      topic.familyPositions && (
+        <div class="wrap">
+          <section class="positions" aria-labelledby="positions-heading">
+            <h2 id="positions-heading" class="sides-heading">
+              {t('topic.familyPositions')}
+            </h2>
+
+            <ol class="position-list">
+              {topic.familyPositions.map((position) => (
+                <li class="position" id={position.id}>
+                  <h3>{position.name}</h3>
+                  <p class="held-by">
+                    <span class="field-label">{t('position.heldBy')}</span>
+                    {position.heldBy}
+                  </p>
+                  <RichText text={position.summary} glossary={glossary} />
+                  {position.quote && (
+                    <Quotation quote={position.quote} locale={locale} side="theist" />
+                  )}
+                  <p class="standing">
+                    <span class="field-label">{t('position.scienceStanding')}</span>
+                    {position.scienceStanding}
+                  </p>
+                </li>
+              ))}
+            </ol>
+          </section>
+        </div>
+      )
+    }
+
+    <div class="wrap">
+      <div class="closers">
+        <section class="panel" aria-labelledby="where-it-stands">
+          <h2 id="where-it-stands">{t('topic.whereItStands')}</h2>
+          <RichText text={topic.whereItStands} glossary={glossary} />
+        </section>
+
+        <section class="panel" aria-labelledby="common-mistake">
+          <h2 id="common-mistake">{t('topic.commonMistake')}</h2>
+          <RichText text={topic.commonMistake} glossary={glossary} />
+        </section>
+      </div>
+
+      {
+        topic.glossary && topic.glossary.length > 0 && (
+          <section class="glossary" aria-labelledby="glossary-heading">
+            <h2 id="glossary-heading" class="minor-heading">
+              {t('topic.glossary')}
+            </h2>
+            <dl>
+              {topic.glossary.map((item) => (
+                <div class="glossary-item">
+                  <dt>{item.term}</dt>
+                  <dd>{item.definition}</dd>
+                </div>
+              ))}
+            </dl>
+          </section>
+        )
+      }
+
+      <section class="sources" aria-labelledby="sources-heading">
+        <h2 id="sources-heading" class="minor-heading">{t('topic.sources')}</h2>
+        <ul>
+          {
+            topic.sources.map((source) => (
+              <li>
+                <a href={source.url} rel="noopener noreferrer" target="_blank">
+                  {source.title}
+                </a>
+                {source.author && <span class="src-author">{source.author}</span>}
+                {source.year && <span class="src-year">{source.year}</span>}
+                {source.note && <span class="src-note">{source.note}</span>}
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .topic-head {
+    padding: var(--space-xl) 0 var(--space-l);
+    max-width: var(--measure-wide);
+  }
+
+  .eyebrow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    margin-bottom: var(--space-m);
+    font-size: var(--step--1);
+    color: var(--ink-faint);
+  }
+
+  .eyebrow a {
+    color: var(--ink-faint);
+  }
+
+  .sep {
+    color: var(--rule-strong);
+  }
+
+  h1 {
+    font-size: var(--step-4);
+    margin-bottom: var(--space-m);
+  }
+
+  .head-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-m);
+    margin-bottom: var(--space-s);
+  }
+
+  .minutes {
+    font-size: var(--step--1);
+    color: var(--ink-faint);
+  }
+
+  .map-link {
+    font-size: var(--step--1);
+  }
+
+  .status-meaning {
+    font-size: var(--step--1);
+    color: var(--ink-muted);
+    max-width: var(--measure);
+  }
+
+  .panel {
+    max-width: var(--measure-wide);
+    margin-bottom: var(--space-l);
+  }
+
+  .panel h2 {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-xs);
+  }
+
+  .settled {
+    padding: var(--space-m) var(--space-l);
+    background: var(--bg-sunken);
+    border-left: 3px solid var(--rule-strong);
+    border-radius: var(--radius);
+  }
+
+  .sides-heading {
+    font-size: var(--step-2);
+    margin: var(--space-xl) 0 var(--space-m);
+    padding-bottom: var(--space-xs);
+    border-bottom: var(--hairline) solid var(--rule);
+  }
+
+  /*
+    The two sides. Equal columns, one hairline between them, and no other
+    difference in weight, size or spacing.
+  */
+  .sides {
+    display: grid;
+    grid-template-columns: 1fr var(--hairline) 1fr;
+    gap: 0 var(--space-xl);
+    align-items: start;
+  }
+
+  .sides::before {
+    content: '';
+    grid-column: 2;
+    grid-row: 1;
+    justify-self: center;
+    width: var(--hairline);
+    height: 100%;
+    background: var(--rule);
+  }
+
+  .sides > :global(section:first-of-type) {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .sides > :global(section:last-of-type) {
+    grid-column: 3;
+    grid-row: 1;
+  }
+
+  .position-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: var(--space-l);
+  }
+
+  .position {
+    padding: var(--space-m) var(--space-l);
+    background: var(--bg-raised);
+    border: var(--hairline) solid var(--rule);
+    border-radius: var(--radius);
+    max-width: var(--measure-wide);
+  }
+
+  .position h3 {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-2xs);
+  }
+
+  .field-label {
+    display: block;
+    font-size: 0.78em;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+  }
+
+  .held-by,
+  .standing {
+    font-size: var(--step--1);
+    color: var(--ink-muted);
+  }
+
+  .standing {
+    margin: var(--space-s) 0 0;
+    padding-top: var(--space-s);
+    border-top: var(--hairline) solid var(--rule);
+  }
+
+  .closers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
+    gap: var(--space-l) var(--space-xl);
+    margin-top: var(--space-xl);
+    padding-top: var(--space-l);
+    border-top: var(--hairline) solid var(--rule);
+  }
+
+  .closers .panel {
+    margin-bottom: 0;
+  }
+
+  .minor-heading {
+    font-size: var(--step-0);
+    font-family: var(--font-body);
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: var(--space-s);
+  }
+
+  .glossary,
+  .sources {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-l);
+    border-top: var(--hairline) solid var(--rule);
+    max-width: var(--measure-wide);
+  }
+
+  .glossary dl {
+    margin: 0;
+    display: grid;
+    gap: var(--space-s);
+  }
+
+  .glossary-item {
+    display: grid;
+    grid-template-columns: minmax(8rem, 14rem) 1fr;
+    gap: var(--space-m);
+    font-size: var(--step--1);
+  }
+
+  .glossary dt {
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .glossary dd {
+    margin: 0;
+    color: var(--ink-muted);
+  }
+
+  .sources ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: var(--space-s);
+    font-size: var(--step--1);
+  }
+
+  .sources li {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 var(--space-xs);
+    color: var(--ink-faint);
+  }
+
+  .src-note {
+    flex-basis: 100%;
+    color: var(--ink-faint);
+  }
+
+  @media (max-width: 52rem) {
+    .sides {
+      grid-template-columns: 1fr;
+      gap: var(--space-xl) 0;
+    }
+
+    .sides::before {
+      display: none;
+    }
+
+    .sides > :global(section:first-of-type),
+    .sides > :global(section:last-of-type) {
+      grid-column: 1;
+      grid-row: auto;
+    }
+
+    .sides > :global(section:last-of-type) {
+      padding-top: var(--space-xl);
+      border-top: var(--hairline) solid var(--rule);
+    }
+  }
+
+  @media (max-width: 34rem) {
+    .glossary-item {
+      grid-template-columns: 1fr;
+      gap: var(--space-2xs);
+    }
+  }
+</style>

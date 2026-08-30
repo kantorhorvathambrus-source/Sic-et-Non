@@ -1,0 +1,222 @@
+[
+  {
+    "id": "beginning-and-cause", "number": 1,
+    "category": "existence-of-god", "status": "open",
+    "titles": {
+      "en": "Did the universe begin, and does a beginning need a cause?",
+      "es": "¿Tuvo comienzo el universo, y todo comienzo necesita una causa?",
+      "fr": "L'univers a-t-il eu un commencement, et un commencement exige-t-il une cause ?",
+      "de": "Hat das Universum einen Anfang, und braucht ein Anfang eine Ursache?",
+      "hu": "Volt-e kezdete a világegyetemnek, és minden kezdethez kell-e ok?"
+    }
+  },
+  {
+    "id": "something-rather-than-nothing", "number": 2,
+    "category": "existence-of-god", "status": "interpretive",
+    "titles": {
+      "en": "Why is there something rather than nothing?",
+      "es": "¿Por qué hay algo en lugar de nada?",
+      "fr": "Pourquoi y a-t-il quelque chose plutôt que rien ?",
+      "de": "Warum gibt es etwas und nicht nichts?",
+      "hu": "Miért van inkább valami, mint semmi?"
+    }
+  },
+  {
+    "id": "problem-of-suffering", "number": 3,
+    "category": "existence-of-god", "status": "open",
+    "titles": {
+      "en": "If God is good, why is there so much suffering?",
+      "es": "Si Dios es bueno, ¿por qué hay tanto sufrimiento?",
+      "fr": "Si Dieu est bon, pourquoi y a-t-il tant de souffrance ?",
+      "de": "Wenn Gott gut ist, warum gibt es so viel Leid?",
+      "hu": "Ha Isten jó, miért van ennyi szenvedés?"
+    }
+  },
+  {
+    "id": "divine-hiddenness", "number": 4,
+    "category": "existence-of-god", "status": "open",
+    "titles": {
+      "en": "If God wants to be known, why is he hidden?",
+      "es": "Si Dios quiere ser conocido, ¿por qué está oculto?",
+      "fr": "Si Dieu veut être connu, pourquoi est-il caché ?",
+      "de": "Wenn Gott erkannt werden will, warum ist er verborgen?",
+      "hu": "Ha Isten azt akarja, hogy megismerjük, miért rejtőzik el?"
+    }
+  },
+  {
+    "id": "fine-tuning", "number": 5,
+    "category": "natural-science", "status": "open",
+    "titles": {
+      "en": "Is the universe fine-tuned for life?",
+      "es": "¿Está el universo ajustado con precisión para la vida?",
+      "fr": "L'univers est-il réglé finement pour la vie ?",
+      "de": "Ist das Universum auf Leben feinabgestimmt?",
+      "hu": "A világegyetem finomhangolt-e az életre?"
+    }
+  },
+  {
+    "id": "creation-or-evolution", "number": 6,
+    "category": "natural-science", "status": "settled-core",
+    "titles": {
+      "en": "Creation or evolution?",
+      "es": "¿Creación o evolución?",
+      "fr": "Création ou évolution ?",
+      "de": "Schöpfung oder Evolution?",
+      "hu": "Teremtés vagy evolúció?"
+    }
+  },
+  {
+    "id": "origin-of-life", "number": 7,
+    "category": "natural-science", "status": "open",
+    "titles": {
+      "en": "Where did the first living cell come from?",
+      "es": "¿De dónde salió la primera célula viva?",
+      "fr": "D'où vient la première cellule vivante ?",
+      "de": "Woher kam die erste lebende Zelle?",
+      "hu": "Honnan származik az első élő sejt?"
+    }
+  },
+  {
+    "id": "mind-and-brain", "number": 8,
+    "category": "mind-and-will", "status": "open",
+    "titles": {
+      "en": "Is the mind more than the brain?",
+      "es": "¿Es la mente algo más que el cerebro?",
+      "fr": "L'esprit est-il plus que le cerveau ?",
+      "de": "Ist der Geist mehr als das Gehirn?",
+      "hu": "Több-e az elme az agynál?"
+    }
+  },
+  {
+    "id": "free-will", "number": 9,
+    "category": "mind-and-will", "status": "open",
+    "titles": {
+      "en": "Do we have free will?",
+      "es": "¿Tenemos libre albedrío?",
+      "fr": "Avons-nous le libre arbitre ?",
+      "de": "Haben wir einen freien Willen?",
+      "hu": "Van-e szabad akaratunk?"
+    }
+  },
+  {
+    "id": "objective-morality", "number": 10,
+    "category": "morality", "status": "open",
+    "titles": {
+      "en": "Can there be objective morality without God?",
+      "es": "¿Puede haber una moral objetiva sin Dios?",
+      "fr": "Peut-il y avoir une morale objective sans Dieu ?",
+      "de": "Kann es ohne Gott eine objektive Moral geben?",
+      "hu": "Lehet-e objektív erkölcs Isten nélkül?"
+    }
+  },
+  {
+    "id": "old-testament-morality", "number": 11,
+    "category": "morality", "status": "interpretive",
+    "titles": {
+      "en": "What should we make of the violence in the Old Testament?",
+      "es": "¿Qué hacemos con la violencia del Antiguo Testamento?",
+      "fr": "Que faire de la violence de l'Ancien Testament ?",
+      "de": "Was ist von der Gewalt im Alten Testament zu halten?",
+      "hu": "Mit kezdjünk az Ószövetség erőszakosságával?"
+    }
+  },
+  {
+    "id": "eternal-damnation", "number": 12,
+    "category": "morality", "status": "interpretive",
+    "titles": {
+      "en": "Can eternal damnation be just?",
+      "es": "¿Puede ser justa la condenación eterna?",
+      "fr": "La damnation éternelle peut-elle être juste ?",
+      "de": "Kann ewige Verdammnis gerecht sein?",
+      "hu": "Igazságos lehet-e az örök kárhozat?"
+    }
+  },
+  {
+    "id": "jesus-and-resurrection", "number": 13,
+    "category": "history-and-text", "status": "settled-core",
+    "titles": {
+      "en": "Did Jesus exist, and did he rise?",
+      "es": "¿Existió Jesús, y resucitó?",
+      "fr": "Jésus a-t-il existé, et est-il ressuscité ?",
+      "de": "Hat Jesus existiert, und ist er auferstanden?",
+      "hu": "Létezett-e Jézus, és feltámadt-e?"
+    }
+  },
+  {
+    "id": "bible-reliability", "number": 14,
+    "category": "history-and-text", "status": "open",
+    "titles": {
+      "en": "Is the Bible reliable?",
+      "es": "¿Es fiable la Biblia?",
+      "fr": "La Bible est-elle fiable ?",
+      "de": "Ist die Bibel zuverlässig?",
+      "hu": "Megbízható-e a Biblia?"
+    }
+  },
+  {
+    "id": "miracles-and-evidence", "number": 15,
+    "category": "history-and-text", "status": "open",
+    "titles": {
+      "en": "Can a miracle ever be evidenced?",
+      "es": "¿Puede un milagro estar respaldado por pruebas?",
+      "fr": "Un miracle peut-il jamais être établi par des preuves ?",
+      "de": "Lässt sich ein Wunder jemals belegen?",
+      "hu": "Bizonyítható-e valaha egy csoda?"
+    }
+  },
+  {
+    "id": "why-christianity", "number": 16,
+    "category": "faith-and-society", "status": "open",
+    "titles": {
+      "en": "Why Christianity rather than any other religion?",
+      "es": "¿Por qué el cristianismo y no cualquier otra religión?",
+      "fr": "Pourquoi le christianisme plutôt qu'une autre religion ?",
+      "de": "Warum das Christentum und nicht irgendeine andere Religion?",
+      "hu": "Miért a kereszténység, és miért nem valamelyik másik vallás?"
+    }
+  },
+  {
+    "id": "religious-experience", "number": 17,
+    "category": "faith-and-society", "status": "open",
+    "titles": {
+      "en": "Is religious experience evidence?",
+      "es": "¿Es la experiencia religiosa una prueba?",
+      "fr": "L'expérience religieuse est-elle une preuve ?",
+      "de": "Ist religiöse Erfahrung ein Beleg?",
+      "hu": "Bizonyíték-e a vallási élmény?"
+    }
+  },
+  {
+    "id": "religion-harm-or-good", "number": 18,
+    "category": "faith-and-society", "status": "interpretive",
+    "titles": {
+      "en": "Has religion done more harm than good?",
+      "es": "¿Ha hecho la religión más daño que bien?",
+      "fr": "La religion a-t-elle fait plus de mal que de bien ?",
+      "de": "Hat die Religion mehr geschadet als genützt?",
+      "hu": "Több kárt okozott-e a vallás, mint hasznot?"
+    }
+  },
+  {
+    "id": "science-and-religion-at-war", "number": 19,
+    "category": "faith-and-society", "status": "settled-core",
+    "titles": {
+      "en": "Are science and religion at war?",
+      "es": "¿Están la ciencia y la religión en guerra?",
+      "fr": "La science et la religion sont-elles en guerre ?",
+      "de": "Liegen Wissenschaft und Religion im Krieg?",
+      "hu": "Háborúban áll-e a tudomány és a vallás?"
+    }
+  },
+  {
+    "id": "meaning-without-god", "number": 20,
+    "category": "faith-and-society", "status": "interpretive",
+    "titles": {
+      "en": "Can life have meaning without God?",
+      "es": "¿Puede tener sentido la vida sin Dios?",
+      "fr": "La vie peut-elle avoir un sens sans Dieu ?",
+      "de": "Kann das Leben ohne Gott einen Sinn haben?",
+      "hu": "Lehet-e értelme az életnek Isten nélkül?"
+    }
+  }
+]

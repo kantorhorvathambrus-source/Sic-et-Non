@@ -1,0 +1,354 @@
+{
+  "id": "creation-or-evolution",
+  "number": 6,
+  "slug": "creation-ou-evolution",
+  "title": "Création ou évolution ?",
+  "category": "natural-science",
+  "status": "settled-core",
+  "realQuestion": "Le « ou » du titre fait beaucoup de dégâts. Il fait passer la question pour un choix entre deux théories sur la façon dont les animaux sont arrivés là. Ce n'en est pas un.\n\nSavoir si les êtres vivants ont des [[ancêtres communs]] et ont changé au fil du temps est une question scientifique, et les biologistes y ont répondu il y a plus d'un siècle. Ce qui est réellement ouvert est une autre question : si c'est ainsi que la vie est devenue ce qu'elle est, reste-t-il quelque chose qu'un créateur ait fait ?\n\nC'est là le débat de cette page. L'autre, sur les quatre manières dont les chrétiens ont tenté d'accorder la Genèse et la géologie, est réel lui aussi, et il est exposé plus bas. Mais il se déroule à l'intérieur du christianisme, pas entre le christianisme et l'athéisme.",
+  "settledCore": "Les espèces vivantes descendent, avec modification, d'ancêtres communs, et la [[sélection naturelle]] agissant sur la variation héritée est une cause principale de leur adaptation. Ce n'est pas débattu en biologie. Le registre fossile, l'anatomie comparée, la répartition géographique des espèces et l'évolution observée directement chez les bactéries l'appuient tous, et le séquençage des génomes plus encore, lui qui aurait pu réfuter l'ascendance commune et l'a au contraire confirmée dans un détail considérable. L'âge de la Terre, environ 4,5 milliards d'années, repose sur le même genre de base.\n\nRien dans le reste de cette page ne dépend d'une mise en doute de cela, et aucun des défenseurs sérieux cités ne le met en doute. Là où une position ici le rejette bel et bien, cela est dit clairement plutôt que mis en scène comme un match équilibré.",
+  "glossary": [
+    {
+      "term": "ancêtres communs",
+      "definition": "L'affirmation selon laquelle deux espèces vivantes quelconques, si l'on remonte assez loin, ont une population ancestrale commune. L'humain et le chimpanzé en partagent une il y a environ 6 à 7 millions d'années ; l'humain et le chêne, une bien plus ancienne."
+    },
+    {
+      "term": "sélection naturelle",
+      "definition": "Lorsque des différences héritées font que certains individus laissent plus de descendants survivants que d'autres, ces différences deviennent plus fréquentes à la génération suivante. Rien ne choisit ; les différences qui se trouvent fonctionner persistent, simplement."
+    },
+    {
+      "term": "causes secondes",
+      "definition": "Terme théologique très ancien pour les causes ordinaires à l'intérieur de la nature, comme le climat ou l'hérédité. Dans cette perspective, Dieu est la cause première qui soutient l'ensemble du système, et les causes naturelles font le travail réel, comme un auteur écrit une histoire sans en être un personnage."
+    },
+    {
+      "term": "complexité irréductible",
+      "definition": "Terme de Michael Behe pour un système dont toutes les pièces doivent être présentes en même temps pour qu'il fonctionne, et qui selon lui n'aurait pas pu être assemblé par petits pas utiles."
+    },
+    {
+      "term": "Dieu bouche-trou",
+      "definition": "Invoquer Dieu précisément pour expliquer ce que la science n'a pas encore expliqué. Le problème n'est pas que ce soit impie, mais que cela rétrécit : chaque nouvelle explication lui retire du terrain."
+    },
+    {
+      "term": "naturalisme méthodologique",
+      "definition": "La règle de travail selon laquelle les explications scientifiques ne font appel qu'à des causes naturelles. C'est une règle sur ce que fait la science et, à elle seule, elle ne dit rien sur l'existence de quoi que ce soit de surnaturel."
+    }
+  ],
+  "sides": [
+    {
+      "label": "L'évolution ne laisse rien à faire à un créateur",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "design-without-designer",
+          "claim": "L'apparence de conception est ce que produit un processus sans direction",
+          "explanation": "Un œil a l'air fabriqué. Une aile aussi, ou la graine crochue de la bardane. Pendant presque toute l'histoire humaine, l'explication évidente était que quelque chose les avait faits, et elle était bonne, parce que rien d'autre ne rendait compte de pièces ajustées si exactement à une tâche.\n\nLa [[sélection naturelle]] en rend compte. De petites différences héritées qui aident un animal à survivre se transmettent plus souvent, et sur assez de générations elles s'accumulent en structures qui paraissent faites exprès et ne le sont pas. Ainsi la meilleure raison qu'on ait jamais eue de croire à un concepteur se trouve expliquée par autre chose. Cela ne réfute pas Dieu. Cela supprime la raison qui convainquait la plupart des gens.",
+          "quote": {
+            "text": "Bien que l'athéisme ait pu être logiquement soutenable avant Darwin, Darwin a rendu possible d'être un athée intellectuellement comblé.",
+            "author": "Richard Dawkins",
+            "work": "The Blind Watchmaker (L'Horloger aveugle)",
+            "year": "1986",
+            "locator": "p. 6",
+            "sourceUrl": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker",
+            "verified": true,
+            "original": {
+              "text": "Although atheism might have been logically tenable before Darwin, Darwin made it possible to be an intellectually fulfilled atheist.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Cela abat un argument en faveur de Dieu, et un seul. Expliquer comment l'œil a été construit n'est pas expliquer pourquoi il existe un univers où construire par sélection est seulement possible. La sélection exige une variation héritable, une chimie stable et des lois qui tiennent bon pendant quatre milliards d'années.",
+            "response": "C'est une vraie question, mais une autre, et elle relève du débat sur l'existence de quelque chose plutôt que de rien. Ce qui a été perdu ici est précis et considérable : la biologie était la meilleure preuve d'un concepteur, et elle n'est plus une preuve dans un sens ni dans l'autre."
+          }
+        },
+        {
+          "id": "process-looks-unplanned",
+          "claim": "Le processus ne ressemble au plan de personne",
+          "explanation": "Plus de 99 pour cent de toutes les espèces ayant jamais vécu sont éteintes. Arriver à un humain a pris environ 3,8 milliards d'années, cinq extinctions de masse et un astéroïde. La méthode par laquelle l'adaptation se produit est la mort différentielle, génération après génération.\n\nEt les résultats comprennent des parasites dont le mode de vie entier consiste à manger lentement un hôte vivant de l'intérieur. Si c'est une conception, la souffrance n'en est pas un effet secondaire fâcheux mais le mécanisme de travail. Darwin a trouvé cela le plus difficile à accorder avec un Dieu bon, et il l'a dit en privé bien avant de rien dire en public.",
+          "quote": {
+            "text": "Je ne parviens pas à me persuader qu'un Dieu bienfaisant et tout-puissant aurait délibérément créé les Ichneumonidae avec l'intention expresse qu'ils se nourrissent dans le corps vivant des chenilles, ni qu'un chat doive jouer avec les souris.",
+            "author": "Charles Darwin",
+            "work": "Lettre à Asa Gray, 22 mai 1860",
+            "year": "1860",
+            "locator": "DCP-LETT-2814",
+            "sourceUrl": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
+            "verified": true,
+            "original": {
+              "text": "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "C'est le problème de la souffrance en blouse blanche. C'est une objection sérieuse contre un Dieu bon, et elle est traitée comme telle ailleurs sur ce site, mais ce n'est pas une objection portant sur l'évolution. Le gaspillage et le temps ne comptent contre un créateur que si l'on suppose qu'il travaillerait vite et à l'économie.",
+            "response": "Le présupposé est plus modeste. Il consiste seulement à dire qu'un esprit libre de choisir n'importe quelle méthode n'en choisirait pas une dont le moteur est la souffrance de créatures sensibles pendant des centaines de millions d'années."
+          }
+        },
+        {
+          "id": "no-skyhooks",
+          "claim": "Une fois qu'on dispose de ce type d'explication, on n'a jamais besoin d'une cause qui commence par un esprit",
+          "explanation": "La vraie découverte de Darwin n'était pas un fait sur des pinsons. C'était une manière d'expliquer : la conception peut être produite par le bas, par des étapes sans esprit, sans rien qui ait déjà un but en vue. Daniel Dennett appelle ce schéma une grue, et croc céleste une cause qui commence par un esprit, quelque chose de suspendu à rien.\n\nLe schéma se généralise. Il a été appliqué au système immunitaire, au langage, à la culture. Chaque fois qu'un domaine y a cédé, une explication qui commence par un esprit est devenue inutile. Cela ne prouve pas qu'un tel esprit n'existe pas. Cela signifie que l'habitude d'y recourir a échoué partout où elle a été mise à l'épreuve.",
+          "quote": {
+            "text": "un croc céleste est une force, une puissance ou un processus qui commence par l'esprit, une exception au principe selon lequel toute conception, et toute conception apparente, résulte en dernière analyse d'une mécanicité sans esprit et sans motif.",
+            "author": "Daniel Dennett",
+            "work": "Darwin's Dangerous Idea (Darwin est-il dangereux ?)",
+            "year": "1995",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea",
+            "verified": true,
+            "original": {
+              "text": "a skyhook is a \"mind-first\" force or power or process, an exception to the principle that all design, and apparent design, is ultimately the result of mindless, motiveless mechanicity.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Transformer une méthode qui réussit en une affirmation sur tout ce qui existe est un pari philosophique, pas un résultat scientifique. Dennett appelle sa propre idée un acide universel qui ronge tous les concepts traditionnels, et un acide qui dissout tout, y compris la fiabilité de l'esprit qui dissout, demande à être manié avec précaution.",
+            "response": "C'est un pari, mais un pari qui rapporte depuis deux siècles. Le pari inverse perd du terrain depuis tout ce temps."
+          }
+        }
+      ]
+    },
+    {
+      "label": "L'évolution est la manière dont la création s'est faite",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "mechanism-not-author",
+          "claim": "La création n'a jamais été un mécanisme concurrent de la sélection naturelle",
+          "explanation": "La « création », dans la théologie chrétienne classique, n'est pas une affirmation sur un événement au début d'un processus, en concurrence avec d'autres descriptions de ce processus. C'est une affirmation sur la raison pour laquelle il y a un processus, et sur qui, le cas échéant, en est l'auteur. On soutient que Dieu agit par les [[causes secondes]], les causes ordinaires à l'intérieur de la nature, et non à côté d'elles.\n\nDans cette perspective, demander si une espèce est apparue par évolution ou par création revient à demander si un roman a été écrit par un auteur ou par un stylo. Theodosius Dobzhansky, qui a contribué à bâtir la biologie évolutive moderne et était par ailleurs chrétien orthodoxe, l'a dit aussi directement que possible.",
+          "quote": {
+            "text": "Je suis créationniste et évolutionniste. L'évolution est la méthode de création de Dieu, ou de la Nature.",
+            "author": "Theodosius Dobzhansky",
+            "work": "Nothing in Biology Makes Sense except in the Light of Evolution, The American Biology Teacher 35",
+            "year": "1973",
+            "locator": "pp. 125-129",
+            "sourceUrl": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
+            "verified": true,
+            "original": {
+              "text": "I am a creationist and an evolutionist. Evolution is God's, or Nature's method of creation.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Si les causes naturelles font tout le travail, Dieu ne fait rien qui puisse être détecté, testé ou remarqué. Une cause sans effets qu'on puisse jamais mesurer est indiscernable d'une absence de cause, et l'ajouter n'explique rien.",
+            "response": "Indiscernable à l'intérieur de la physique, oui, et c'est ce que la doctrine a toujours dit. On n'a jamais prétendu que Dieu était une force parmi les forces. Être inutile à l'explication dans une science donnée n'est pas la même chose qu'être absent, sinon la même objection écarterait les mathématiques, les faits moraux et les autres esprits."
+          }
+        },
+        {
+          "id": "genesis-and-the-fathers",
+          "claim": "Lire la Genèse comme un manuel de sciences est une habitude moderne, pas la tradition",
+          "explanation": "L'idée que la foi chrétienne exige six jours de vingt-quatre heures est souvent présentée comme la vieille lecture littérale que la modernité aurait abandonnée. Historiquement, c'est presque l'inverse. Augustin a soutenu vers l'an 415 qu'il ne fallait pas lire la Genèse comme de la physique, et il redoutait précisément ce qui est arrivé ensuite : des chrétiens affirmant avec assurance des choses sur la nature, pris en défaut, et discréditant la foi en même temps qu'eux-mêmes.\n\nThomas d'Aquin en a fait une règle. Tenez une lecture de l'Écriture, écrit-il dans les années 1260, mais assez lâchement pour la lâcher s'il est prouvé qu'elle est fausse, afin que l'Écriture ne soit pas rendue ridicule en étant liée à une affirmation qui échoue.",
+          "quote": {
+            "text": "Or, il est honteux et dangereux qu'un infidèle entende un chrétien, censé donner le sens de l'Écriture sainte, dire des sottises sur ces sujets ; et nous devrions tout faire pour éviter une situation aussi embarrassante, où l'on découvre chez un chrétien une ignorance immense et où l'on s'en moque.",
+            "author": "Augustine of Hippo",
+            "work": "De Genesi ad litteram (La Genèse au sens littéral), trad. anglaise de J. H. Taylor",
+            "year": "c. 415",
+            "locator": "Book I, ch. 19",
+            "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
+            "verified": true,
+            "original": {
+              "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "C'est commode. Une fois la science établie, on découvre que le texte avait toujours voulu dire quelque chose de compatible avec elle. Une lecture capable d'absorber n'importe quel résultat n'est mise à l'épreuve par rien.",
+            "response": "Les dates rendent cela difficile à soutenir. Augustin a écrit douze siècles avant la géologie et quatorze avant Darwin, sans aucun résultat scientifique à accommoder. Si la réinterprétation était opportuniste, elle ne devrait pas précéder la pression de plus d'un millénaire."
+          }
+        },
+        {
+          "id": "deep-concord",
+          "claim": "La science marche parce que le monde est intelligible, ce que le théisme disait de lui",
+          "explanation": "Faire de la science suppose de croire des choses que la science ne peut pas établir : que l'univers fonctionne selon des régularités, qu'elles valent là où personne ne regarde, et que les esprits humains sont le genre de chose capable de les découvrir. Ce ne sont pas des conclusions de la physique. Ce sont les conditions du départ.\n\nAlvin Plantinga soutient qu'un monde fait par un esprit rationnel, et des créatures faites pour le comprendre, forment un foyer naturel pour ces présupposés, tandis qu'un récit purement naturaliste doit traiter la fiabilité du raisonnement humain comme un sous-produit heureux d'un processus qui a sélectionné la survie, non la vérité.",
+          "quote": {
+            "text": "il y a un conflit superficiel mais une concorde profonde entre la science et la religion théiste, et une concorde superficielle mais un conflit profond entre la science et le naturalisme",
+            "author": "Alvin Plantinga",
+            "work": "Where the Conflict Really Lies: Science, Religion, and Naturalism",
+            "year": "2011",
+            "locator": "preface, p. ix",
+            "sourceUrl": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097",
+            "verified": true,
+            "original": {
+              "text": "there is superficial conflict but deep concord between science and theistic religion, but superficial concord and deep conflict between science and naturalism",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "L'évolution n'a aucun mal à expliquer la croyance fiable : un animal qui se trompe sur l'emplacement du bord de la falaise ne laisse pas de descendants. Et le présupposé que la nature est régulière n'est pas une prémisse religieuse empruntée, c'est une règle de travail confirmée chaque jour depuis quatre cents ans.",
+            "response": "La sélection suit le comportement utile, et le comportement utile n'exige pas des croyances vraies, seulement des croyances qui produisent les bonnes actions. Savoir si les deux se séparent est exactement ce qui est en litige, et quatre cents ans de succès ne peuvent pas trancher, puisque ce succès est ce que les deux camps cherchent à expliquer."
+          }
+        }
+      ]
+    }
+  ],
+  "familyPositions": [
+    {
+      "id": "young-earth-creationism",
+      "name": "Créationnisme de la Terre jeune",
+      "heldBy": "Une minorité de chrétiens protestants, concentrée aux États-Unis ; institutionnellement Answers in Genesis et l'Institute for Creation Research.",
+      "summary": "Genèse 1 décrit six jours ordinaires il y a quelques milliers d'années, et les couches de roche fossilifères ont été déposées par le déluge de Noé et non sur des ères.\n\nSa forme moderne est plus récente qu'on ne le suppose. L'historien Ronald Numbers en a retracé l'origine jusqu'à l'auteur adventiste du septième jour George McCready Price, et son installation comme orthodoxie fondamentaliste jusqu'à The Genesis Flood en 1961. Beaucoup de protestants conservateurs du dix-neuvième siècle acceptaient sans difficulté une Terre ancienne.",
+      "scienceStanding": "Rejeté. La datation radiométrique, les carottes de glace, la tectonique des plaques, les bandes de croissance des coraux et le temps de trajet de la lumière des galaxies lointaines concordent entre eux et non avec une Terre jeune. Il n'y a ici aucun débat scientifique à rapporter.",
+      "quote": {
+        "text": "Whitcomb et Morris soutenaient que la Bible est la parole infaillible de Dieu, que le registre géologique a été produit par le déluge de Noé et non par de longues durées, et que le présupposé de la géologie courante, celui de processus lents et uniformes, doit être rejeté pour ces raisons.",
+        "author": "John C. Whitcomb and Henry M. Morris",
+        "work": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+        "year": "1961",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Genesis_Flood",
+        "verified": false
+      }
+    },
+    {
+      "id": "old-earth-creationism",
+      "name": "Créationnisme de la Terre ancienne",
+      "heldBy": "Des protestants conservateurs qui acceptent la géologie courante mais non l'ascendance commune ; historiquement Charles Hodge, aujourd'hui des groupes comme Reasons to Believe.",
+      "summary": "La Terre a réellement des milliards d'années et la colonne géologique est réelle ; les jours de la Genèse sont des âges, ou un cadre littéraire. Ce qui est nié n'est pas le temps profond mais l'ascendance commune sans direction.\n\nCharles Hodge, le plus redoutable théologien conservateur américain du dix-neuvième siècle, tenait exactement cette ligne. Il n'avait rien contre une Terre ancienne. Il en avait contre l'exclusion de la finalité hors de la nature.",
+      "scienceStanding": "La Terre ancienne est correcte. La création séparée des types ne l'est pas : l'ascendance commune repose sur les mêmes données génomiques qui fondent la médecine et la criminalistique, et sur des fossiles de transition prédits avant d'être trouvés.",
+      "quote": {
+        "text": "Qu'est-ce que le darwinisme ? C'est l'athéisme. Cela ne signifie pas, comme il a été dit, que M. Darwin lui-même et tous ceux qui adoptent ses vues soient athées ; mais cela signifie que sa théorie est athée, que l'exclusion de la finalité hors de la nature équivaut, comme le dit le docteur Gray, à l'athéisme.",
+        "author": "Charles Hodge",
+        "work": "What is Darwinism?",
+        "year": "1874",
+        "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
+        "verified": true,
+        "original": {
+          "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "id": "intelligent-design",
+      "name": "Dessein intelligent",
+      "heldBy": "Associé au Discovery Institute ; Michael Behe, William Dembski, Stephen Meyer.",
+      "summary": "Le dessein intelligent accepte une Terre ancienne et, dans le cas de Behe, l'ascendance commune également. Son affirmation est plus étroite : certaines structures biologiques seraient d'une [[complexité irréductible]], chaque pièce étant nécessaire au fonctionnement du système, de sorte que la sélection ne peut les bâtir par étapes intermédiaires utiles. Le dessein est proposé comme une inférence tirée des données, non de l'Écriture.\n\nSes défenseurs ajoutent que la science courante écarte le dessein d'avance, en adoptant le [[naturalisme méthodologique]] comme règle de départ plutôt qu'en y parvenant comme à un résultat.",
+      "scienceStanding": "Non accepté comme science. Les exemples précis, notamment le flagelle bactérien et la cascade de coagulation, ont reçu des explications évolutives pas à pas s'appuyant sur des pièces ayant d'autres fonctions. Dans Kitzmiller c. Dover (2005), un tribunal fédéral a examiné l'affirmation lors d'un procès et a jugé que ce n'est pas de la science. Beaucoup de chrétiens le rejettent aussi, comme un argument du [[Dieu bouche-trou]] qui rétrécit à mesure que la biologie avance.",
+      "quote": {
+        "text": "Nous avons traité la question capitale de savoir si le DI est une science. Nous avons conclu qu'il ne l'est pas, et de plus que le DI ne peut se détacher de ses antécédents créationnistes, et donc religieux.",
+        "author": "Judge John E. Jones III",
+        "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
+        "year": "2005",
+        "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+        "verified": true,
+        "original": {
+          "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "id": "evolutionary-creation",
+      "name": "Création évolutive, ou évolution théiste",
+      "heldBy": "La position majoritaire chez les chrétiens dans le monde, y compris l'Église catholique, la plupart des Églises protestantes historiques et les Églises orthodoxes ; Francis Collins, Alister McGrath, BioLogos.",
+      "summary": "L'évolution est acceptée intégralement et comprise comme le moyen par lequel Dieu a créé. Aucune affirmation scientifique n'est niée et aucune lacune n'est réservée.\n\nLa position catholique a été énoncée par Jean-Paul II en 1996, lorsqu'il a déclaré à l'Académie pontificale des sciences que de nouvelles connaissances conduisaient à reconnaître dans l'évolution « plus qu'une hypothèse ». Francis Collins, qui a dirigé le Projet génome humain, défend la même thèse à partir du génome lui-même.",
+      "scienceStanding": "Compatible avec la science, parce qu'elle ne formule aucune affirmation scientifique propre. C'est aussi la position que les critiques athées attaquent le plus vivement, au motif qu'un Dieu qui n'agit que par des causes naturelles ordinaires ne fait aucun travail détectable.",
+      "quote": {
+        "text": "Dieu, qui n'est pas limité par l'espace ni par le temps, a créé l'univers et établi les lois naturelles qui le gouvernent.",
+        "author": "Francis Collins",
+        "work": "The Language of God: A Scientist Presents Evidence for Belief",
+        "year": "2006",
+        "locator": "p. 178",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Language_of_God",
+        "verified": true,
+        "original": {
+          "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
+          "language": "en"
+        }
+      }
+    }
+  ],
+  "whereItStands": "La moitié scientifique de cette question est close, et depuis longtemps. La moitié ouverte est philosophique, et réellement ouverte : un récit naturel complet du développement de la vie laisse-t-il intacte l'affirmation que le monde a un auteur, ou la vide-t-elle peu à peu de tout objet ?\n\nLes deux réponses sont soutenues par des gens rigoureux qui s'accordent entièrement sur la biologie. Dobzhansky et Dawkins ne seraient en désaccord sur aucun fait d'un article de génétique. Ils sont en désaccord sur ce que ces faits signifient, et cela ne sera pas tranché par davantage de génétique.\n\nUne chose a changé au cours du dernier siècle et mérite d'être dite sans fard. Les quatre positions chrétiennes ne sont pas également étayées. Le créationnisme de la Terre jeune avance des affirmations empiriques fausses. Le dessein intelligent n'a pas établi son affirmation centrale et a nettement perdu lorsqu'il a été mis à l'épreuve devant un tribunal. Le créationnisme de la Terre ancienne a raison sur la Terre et tort sur la descendance. La création évolutive est la seule des quatre qui n'entre en conflit avec rien d'établi, et c'est aussi la position chrétienne majoritaire dans le monde.",
+  "commonMistake": "Les athées traitent le plus souvent le créationnisme de la Terre jeune comme s'il était la position du christianisme. C'est une vue minoritaire, largement nord-américaine, vieille d'une soixantaine d'années sous sa forme actuelle, et rejetée par l'Église catholique, la plupart des dénominations protestantes et les Églises orthodoxes. La réfuter est facile et ne prouve presque rien sur le débat réel, qui se mène avec des gens qui acceptent tous les faits que vous êtes sur le point de citer.\n\nLes chrétiens croient le plus souvent qu'accepter l'évolution leur coûte quelque chose, et défendent donc une position scientifique qu'ils n'ont aucune raison de tenir. La règle de leur propre tradition, celle d'Augustin et de Thomas d'Aquin, était d'éviter de gager l'Écriture sur une affirmation touchant la nature qui pourrait être renversée.\n\nEt les deux camps commettent ensemble une erreur : traiter « création » et « évolution » comme des réponses à la même question, de sorte que davantage de l'une doive signifier moins de l'autre. Presque personne qui y a réfléchi sérieusement, dans un camp comme dans l'autre, ne le croit.",
+  "sources": [
+    {
+      "title": "On the Origin of Species, première édition",
+      "author": "Charles Darwin",
+      "year": "1859",
+      "url": "https://en.wikisource.org/wiki/On_the_Origin_of_Species_(1859)"
+    },
+    {
+      "title": "Lettre à Asa Gray, 22 mai 1860 (DCP-LETT-2814)",
+      "author": "Charles Darwin",
+      "year": "1860",
+      "url": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
+      "note": "Darwin Correspondence Project, université de Cambridge."
+    },
+    {
+      "title": "Nothing in Biology Makes Sense except in the Light of Evolution",
+      "author": "Theodosius Dobzhansky",
+      "year": "1973",
+      "url": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
+      "note": "The American Biology Teacher 35(3), 125-129."
+    },
+    {
+      "title": "The Blind Watchmaker",
+      "author": "Richard Dawkins",
+      "year": "1986",
+      "url": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker"
+    },
+    {
+      "title": "Darwin's Dangerous Idea: Evolution and the Meanings of Life",
+      "author": "Daniel C. Dennett",
+      "year": "1995",
+      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea"
+    },
+    {
+      "title": "Where the Conflict Really Lies: Science, Religion, and Naturalism",
+      "author": "Alvin Plantinga",
+      "year": "2011",
+      "url": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097"
+    },
+    {
+      "title": "De Genesi ad litteram, Livre I, ch. 19",
+      "author": "Augustin d'Hippone",
+      "year": "c. 415",
+      "url": "https://inters.org/augustine-interpretating-sacred-scripture"
+    },
+    {
+      "title": "Summa Theologiae I, q. 68, a. 1",
+      "author": "Thomas d'Aquin",
+      "year": "c. 1268",
+      "url": "https://www.newadvent.org/summa/1068.htm",
+      "note": "La règle voulant qu'on ne tienne une lecture de l'Écriture que dans la mesure où l'on est prêt à l'abandonner si elle est prouvée fausse."
+    },
+    {
+      "title": "What is Darwinism?",
+      "author": "Charles Hodge",
+      "year": "1874",
+      "url": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm"
+    },
+    {
+      "title": "Darwin's Black Box: The Biochemical Challenge to Evolution",
+      "author": "Michael J. Behe",
+      "year": "1996",
+      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Black_Box"
+    },
+    {
+      "title": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005)",
+      "year": "2005",
+      "url": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+      "note": "Jugement du juge John E. Jones III, 20 décembre 2005."
+    },
+    {
+      "title": "The Creationists: From Scientific Creationism to Intelligent Design",
+      "author": "Ronald L. Numbers",
+      "year": "2006",
+      "url": "https://www.hup.harvard.edu/books/9780674023390",
+      "note": "L'histoire de référence du mouvement, par un historien des sciences qui n'est partisan d'aucun camp."
+    },
+    {
+      "title": "The Language of God: A Scientist Presents Evidence for Belief",
+      "author": "Francis S. Collins",
+      "year": "2006",
+      "url": "https://en.wikipedia.org/wiki/The_Language_of_God"
+    },
+    {
+      "title": "Message à l'Académie pontificale des sciences, 22 octobre 1996",
+      "author": "Jean-Paul II",
+      "year": "1996",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1996/documents/hf_jp-ii_mes_19961022_evoluzione.html"
+    },
+    {
+      "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+      "author": "John C. Whitcomb et Henry M. Morris",
+      "year": "1961",
+      "url": "https://en.wikipedia.org/wiki/The_Genesis_Flood"
+    }
+  ]
+}

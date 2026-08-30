@@ -1,0 +1,53 @@
+---
+import type { Locale } from '../i18n';
+import { useTranslations } from '../i18n';
+
+interface Props {
+  status: 'settled-core' | 'open' | 'interpretive';
+  locale: Locale;
+  // /** Show the explanation of what the tag means, not just the tag. */
+  explain?: boolean;
+}
+
+const { status, locale, explain = false } = Astro.props;
+const t = useTranslations(locale);
+---
+
+<span class:list={['status-tag', status]}>
+  <span class="visually-hidden">{t('status.label')}: </span>
+  {t(`status.${status}`)}
+</span>{
+  explain && <p class="status-meaning">{t(`status.${status}.meaning`)}</p>
+}
+
+<style>
+  .status-tag {
+    display: inline-block;
+    padding: 0.15em 0.6em;
+    border-radius: 999px;
+    background: var(--tag-bg);
+    color: var(--tag-ink);
+    font-size: var(--step--1);
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+
+  .status-tag.settled-core {
+    background: var(--tag-settled-bg);
+    color: var(--tag-settled-ink);
+  }
+
+  .status-tag.interpretive {
+    background: transparent;
+    color: var(--ink-muted);
+    box-shadow: inset 0 0 0 1px var(--rule-strong);
+  }
+
+  .status-meaning {
+    margin: var(--space-xs) 0 0;
+    font-size: var(--step--1);
+    color: var(--ink-muted);
+    max-width: var(--measure);
+  }
+</style>
