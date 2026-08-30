@@ -1,7 +1,8 @@
-node_modules/
-dist/
-.astro/
-.DS_Store
 *.log
+.DS_Store
+.astro/
 .env
 .env.production
+dist/
+node_modules/
+shots/

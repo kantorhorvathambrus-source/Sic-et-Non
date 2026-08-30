@@ -174,10 +174,12 @@ const objectionLabel =
     background: var(--atheist-soft);
   }
 
-  /* An objection from within, or from both directions, borrows neither hue. */
+  /* An objection from within, or from both directions, borrows neither hue. It
+     keeps the same grammar as the tinted panels — a ground and a label in the
+     matching colour — so that it reads as a third case rather than as one we
+     forgot to colour. The label is what carries the meaning. */
   .counter.side-neutral {
     background: var(--bg-sunken);
-    border-left: 2px solid var(--rule-strong);
   }
 
   .counter-label {
