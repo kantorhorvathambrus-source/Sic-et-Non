@@ -16,14 +16,21 @@
 html {
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
-  /* Anchored headings clear the sticky masthead, which is only sticky on wider
-     screens; below that the bar scrolls away and needs no allowance. */
-  scroll-padding-top: 5rem;
+}
+
+/*
+  Every anchor target clears the sticky masthead with air to spare. scroll-margin
+  on the element is what scrollIntoView honours, which scroll-padding on the
+  scrollport alone did not reliably cover — a linked argument was landing behind
+  the bar. Below 32rem the bar is not sticky, so it needs no allowance.
+*/
+[id] {
+  scroll-margin-top: 5.5rem;
 }
 
 @media (max-width: 32rem) {
-  html {
-    scroll-padding-top: var(--space-m);
+  [id] {
+    scroll-margin-top: var(--space-m);
   }
 }
 
@@ -142,13 +149,56 @@ dfn[data-open='true'] > .dfn-def {
 }
 
 /* ---- Utilities --------------------------------------------------------- */
+/*
+  Two containers, both centred on the same axis, and nothing sets its own
+  max-width. Running prose lives in .col-text; only the two-column argument
+  layout uses .col-wide, which bleeds symmetrically either side of the text
+  column. That makes the inset deliberate and identical on every page, instead
+  of prose stopping at two-thirds of a wide container with rules running past it.
+*/
 .wrap {
-  width: min(100% - 2.5rem, 72rem);
+  width: min(100% - 2.5rem, var(--measure-wide));
   margin-inline: auto;
 }
 
-.prose {
-  max-width: var(--measure-wide);
+.col-text {
+  width: min(100% - 2.5rem, var(--measure-prose));
+  margin-inline: auto;
+}
+
+.col-wide {
+  width: min(100% - 2.5rem, var(--measure-wide));
+  margin-inline: auto;
+}
+
+/*
+  Once the two-column layout stacks there is only one column, so the wide
+  container has no reason to stay wide: left as it was, each stacked side ran
+  its prose at about 100 characters a line.
+*/
+@media (max-width: 52rem) {
+  .col-wide {
+    width: min(100% - 2.5rem, var(--measure-prose));
+  }
+}
+
+/*
+  The measure, in characters rather than in rem, so it holds at every type size.
+  A 40rem column is about 71 characters at the body size but 89 at the small
+  size used for objections, glosses and captions — one container width is not
+  one measure. `ch` resolves against each element's own font size, so this caps
+  small text without touching body text.
+
+  60ch, not 72ch: `ch` is the advance width of "0", about 0.6em in Inter, while
+  the conventional characters-per-line figure assumes an average glyph nearer
+  0.5em. 60ch measures as roughly 72 characters, which is the target.
+*/
+p,
+li,
+dd,
+cite,
+blockquote {
+  max-width: 60ch;
 }
 
 .visually-hidden {

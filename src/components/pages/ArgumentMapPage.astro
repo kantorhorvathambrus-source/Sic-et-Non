@@ -47,7 +47,7 @@ const branches = sides.flatMap((side) =>
   description={toPlainText(topic.realQuestion).slice(0, 300)}
   alternates={alternates}
 >
-  <div class="wrap">
+  <div class="col-text">
     <header class="map-head">
       <p class="eyebrow">
         <a href={topicPath(locale, topic.slug)}>{t('topic.standardView')}</a>
@@ -120,7 +120,6 @@ const branches = sides.flatMap((side) =>
 <style>
   .map-head {
     padding: var(--space-xl) 0 var(--space-l);
-    max-width: var(--measure-wide);
   }
 
   .eyebrow {
@@ -136,7 +135,7 @@ const branches = sides.flatMap((side) =>
   }
 
   .sep {
-    color: var(--rule-strong);
+    color: var(--ink-faint);
   }
 
   h1 {
@@ -158,7 +157,6 @@ const branches = sides.flatMap((side) =>
     padding: 0;
     display: grid;
     gap: var(--space-xl);
-    max-width: var(--measure-wide);
   }
 
   .branch {

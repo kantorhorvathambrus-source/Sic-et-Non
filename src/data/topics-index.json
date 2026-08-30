@@ -1,7 +1,9 @@
 [
   {
-    "id": "beginning-and-cause", "number": 1,
-    "category": "existence-of-god", "status": "open",
+    "id": "beginning-and-cause",
+    "number": 1,
+    "category": "existence-of-god",
+    "status": "open",
     "titles": {
       "en": "Did the universe begin, and does a beginning need a cause?",
       "es": "¿Tuvo comienzo el universo, y todo comienzo necesita una causa?",
@@ -11,8 +13,10 @@
     }
   },
   {
-    "id": "something-rather-than-nothing", "number": 2,
-    "category": "existence-of-god", "status": "interpretive",
+    "id": "something-rather-than-nothing",
+    "number": 2,
+    "category": "existence-of-god",
+    "status": "open",
     "titles": {
       "en": "Why is there something rather than nothing?",
       "es": "¿Por qué hay algo en lugar de nada?",
@@ -22,8 +26,10 @@
     }
   },
   {
-    "id": "problem-of-suffering", "number": 3,
-    "category": "existence-of-god", "status": "open",
+    "id": "problem-of-suffering",
+    "number": 3,
+    "category": "existence-of-god",
+    "status": "open",
     "titles": {
       "en": "If God is good, why is there so much suffering?",
       "es": "Si Dios es bueno, ¿por qué hay tanto sufrimiento?",
@@ -33,8 +39,10 @@
     }
   },
   {
-    "id": "divine-hiddenness", "number": 4,
-    "category": "existence-of-god", "status": "open",
+    "id": "divine-hiddenness",
+    "number": 4,
+    "category": "existence-of-god",
+    "status": "open",
     "titles": {
       "en": "If God wants to be known, why is he hidden?",
       "es": "Si Dios quiere ser conocido, ¿por qué está oculto?",
@@ -44,8 +52,10 @@
     }
   },
   {
-    "id": "fine-tuning", "number": 5,
-    "category": "natural-science", "status": "open",
+    "id": "fine-tuning",
+    "number": 5,
+    "category": "natural-science",
+    "status": "open",
     "titles": {
       "en": "Is the universe fine-tuned for life?",
       "es": "¿Está el universo ajustado con precisión para la vida?",
@@ -55,8 +65,10 @@
     }
   },
   {
-    "id": "creation-or-evolution", "number": 6,
-    "category": "natural-science", "status": "settled-core",
+    "id": "creation-or-evolution",
+    "number": 6,
+    "category": "natural-science",
+    "status": "settled-core",
     "titles": {
       "en": "Creation or evolution?",
       "es": "¿Creación o evolución?",
@@ -66,8 +78,10 @@
     }
   },
   {
-    "id": "origin-of-life", "number": 7,
-    "category": "natural-science", "status": "open",
+    "id": "origin-of-life",
+    "number": 7,
+    "category": "natural-science",
+    "status": "open",
     "titles": {
       "en": "Where did the first living cell come from?",
       "es": "¿De dónde salió la primera célula viva?",
@@ -77,8 +91,10 @@
     }
   },
   {
-    "id": "mind-and-brain", "number": 8,
-    "category": "mind-and-will", "status": "open",
+    "id": "mind-and-brain",
+    "number": 8,
+    "category": "mind-and-will",
+    "status": "open",
     "titles": {
       "en": "Is the mind more than the brain?",
       "es": "¿Es la mente algo más que el cerebro?",
@@ -88,8 +104,10 @@
     }
   },
   {
-    "id": "free-will", "number": 9,
-    "category": "mind-and-will", "status": "open",
+    "id": "free-will",
+    "number": 9,
+    "category": "mind-and-will",
+    "status": "open",
     "titles": {
       "en": "Do we have free will?",
       "es": "¿Tenemos libre albedrío?",
@@ -99,8 +117,10 @@
     }
   },
   {
-    "id": "objective-morality", "number": 10,
-    "category": "morality", "status": "open",
+    "id": "objective-morality",
+    "number": 10,
+    "category": "morality",
+    "status": "open",
     "titles": {
       "en": "Can there be objective morality without God?",
       "es": "¿Puede haber una moral objetiva sin Dios?",
@@ -110,8 +130,10 @@
     }
   },
   {
-    "id": "old-testament-morality", "number": 11,
-    "category": "morality", "status": "interpretive",
+    "id": "old-testament-morality",
+    "number": 11,
+    "category": "morality",
+    "status": "interpretive",
     "titles": {
       "en": "What should we make of the violence in the Old Testament?",
       "es": "¿Qué hacemos con la violencia del Antiguo Testamento?",
@@ -121,8 +143,10 @@
     }
   },
   {
-    "id": "eternal-damnation", "number": 12,
-    "category": "morality", "status": "interpretive",
+    "id": "eternal-damnation",
+    "number": 12,
+    "category": "morality",
+    "status": "interpretive",
     "titles": {
       "en": "Can eternal damnation be just?",
       "es": "¿Puede ser justa la condenación eterna?",
@@ -132,8 +156,10 @@
     }
   },
   {
-    "id": "jesus-and-resurrection", "number": 13,
-    "category": "history-and-text", "status": "settled-core",
+    "id": "jesus-and-resurrection",
+    "number": 13,
+    "category": "history-and-text",
+    "status": "settled-core",
     "titles": {
       "en": "Did Jesus exist, and did he rise?",
       "es": "¿Existió Jesús, y resucitó?",
@@ -143,8 +169,10 @@
     }
   },
   {
-    "id": "bible-reliability", "number": 14,
-    "category": "history-and-text", "status": "open",
+    "id": "bible-reliability",
+    "number": 14,
+    "category": "history-and-text",
+    "status": "open",
     "titles": {
       "en": "Is the Bible reliable?",
       "es": "¿Es fiable la Biblia?",
@@ -154,8 +182,10 @@
     }
   },
   {
-    "id": "miracles-and-evidence", "number": 15,
-    "category": "history-and-text", "status": "open",
+    "id": "miracles-and-evidence",
+    "number": 15,
+    "category": "history-and-text",
+    "status": "open",
     "titles": {
       "en": "Can a miracle ever be evidenced?",
       "es": "¿Puede un milagro estar respaldado por pruebas?",
@@ -165,8 +195,10 @@
     }
   },
   {
-    "id": "why-christianity", "number": 16,
-    "category": "faith-and-society", "status": "open",
+    "id": "why-christianity",
+    "number": 16,
+    "category": "faith-and-society",
+    "status": "open",
     "titles": {
       "en": "Why Christianity rather than any other religion?",
       "es": "¿Por qué el cristianismo y no cualquier otra religión?",
@@ -176,8 +208,10 @@
     }
   },
   {
-    "id": "religious-experience", "number": 17,
-    "category": "faith-and-society", "status": "open",
+    "id": "religious-experience",
+    "number": 17,
+    "category": "faith-and-society",
+    "status": "open",
     "titles": {
       "en": "Is religious experience evidence?",
       "es": "¿Es la experiencia religiosa una prueba?",
@@ -187,8 +221,10 @@
     }
   },
   {
-    "id": "religion-harm-or-good", "number": 18,
-    "category": "faith-and-society", "status": "interpretive",
+    "id": "religion-harm-or-good",
+    "number": 18,
+    "category": "faith-and-society",
+    "status": "interpretive",
     "titles": {
       "en": "Has religion done more harm than good?",
       "es": "¿Ha hecho la religión más daño que bien?",
@@ -198,8 +234,10 @@
     }
   },
   {
-    "id": "science-and-religion-at-war", "number": 19,
-    "category": "faith-and-society", "status": "settled-core",
+    "id": "science-and-religion-at-war",
+    "number": 19,
+    "category": "faith-and-society",
+    "status": "settled-core",
     "titles": {
       "en": "Are science and religion at war?",
       "es": "¿Están la ciencia y la religión en guerra?",
@@ -209,8 +247,10 @@
     }
   },
   {
-    "id": "meaning-without-god", "number": 20,
-    "category": "faith-and-society", "status": "interpretive",
+    "id": "meaning-without-god",
+    "number": 20,
+    "category": "faith-and-society",
+    "status": "interpretive",
     "titles": {
       "en": "Can life have meaning without God?",
       "es": "¿Puede tener sentido la vida sin Dios?",

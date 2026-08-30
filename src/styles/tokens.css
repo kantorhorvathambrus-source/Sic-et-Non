@@ -27,8 +27,15 @@
 
   --leading-tight: 1.2;
   --leading-body: 1.65;
-  --measure: 34rem;
-  --measure-wide: 46rem;
+
+  /*
+    One measure for running prose, everywhere. 40rem at the body size lands
+    around 70 characters a line; scripts/layout-check.mjs fails the build past
+    95. --measure-wide is the two-column band, sized so each column still lands
+    inside the same comfortable range.
+  */
+  --measure-prose: 40rem;
+  --measure-wide: 68rem;
 
   /* ---- Space ----------------------------------------------------------- */
   --space-2xs: 0.25rem;
@@ -49,7 +56,7 @@
   --bg-sunken: oklch(95.8% 0.006 85);
   --ink: oklch(24% 0.012 275);
   --ink-muted: oklch(45% 0.012 275);
-  --ink-faint: oklch(58% 0.01 275);
+  --ink-faint: oklch(52% 0.012 275);
   --rule: oklch(88% 0.008 275);
   --rule-strong: oklch(72% 0.01 275);
 

@@ -4,10 +4,8 @@
   "slug": "something-rather-than-nothing",
   "title": "Why is there something rather than nothing?",
   "category": "existence-of-god",
-  "status": "interpretive",
-
+  "status": "open",
   "realQuestion": "Nothing would have been simpler. No stars, no atoms, no laws, no space for anything to be in. That state needs no explanation, no origin and no maintenance. Yet here is a universe.\n\nThe question is not about the Big Bang. Even if the universe turned out to be infinitely old and never to have begun, it would still be here rather than not, and the question would be untouched. It is asking something stranger: why is there anything at all to have a history?\n\nOne side says that a question this basic must have an answer, and that the only kind of answer that would work is something which could not have failed to exist. The other says the demand for an answer is a habit we have overextended, and that at some point an explanation has to stop.",
-
   "distinctions": [
     {
       "label": "Why is there anything at all?",
@@ -25,7 +23,6 @@
       "activeHere": false
     }
   ],
-
   "glossary": [
     {
       "term": "contingent",
@@ -48,7 +45,6 @@
       "definition": "Concluding that a whole has a property because its parts do. Every brick is small, so the wall is small — which is false. Whether the argument on this page commits it is contested."
     }
   ],
-
   "sides": [
     {
       "label": "Something that could not have failed to exist",
@@ -133,16 +129,41 @@
       ]
     }
   ],
-
-  "whereItStands": "This is tagged interpretive, and that tag is doing real work here. No observation could settle it. Both sides accept every fact about the universe and disagree about whether a further question remains once the facts are in.\n\nWhat the disagreement really turns on is how much explanatory ambition you think is warranted. If you hold that everything must have an explanation, theism follows more naturally than atheism from that starting point, and most atheist philosophers who engage the argument closely accept as much — which is why they attack the principle rather than the inference. If you hold that explanation has to bottom out somewhere and that the universe is as good a place as any, the argument never gets started.\n\nNeither of those is a discovery. Each is a decision about what kind of question deserves an answer, and the argument mostly makes explicit what a person had already assumed.",
-
+  "whereItStands": "No observation bears on this one. Both sides accept every fact about the universe and disagree about whether a further question remains once the facts are in.\n\nThat does not make it a standoff. The [[principle of sufficient reason]] is itself argued about, closely and currently — whether it can be restricted to contingent facts without collapsing, whether it entails that everything is necessary, whether a weaker version still supports the argument. People working on it change their minds, which is why this is tagged open rather than interpretive.\n\nWhere a reader lands still depends heavily on how much explanatory ambition they think is warranted. If you hold that everything must have an explanation, theism follows more naturally than atheism from that starting point, and most atheist philosophers who engage the argument closely accept as much — which is why they attack the principle rather than the inference. If you hold that explanation has to bottom out somewhere and the universe is as good a place as any, the argument never gets started.",
   "commonMistake": "Atheists most often answer a question that was not asked, explaining how the universe developed from an earlier state. That is a good answer to a different question, and it leaves this one exactly where it was.\n\nChristians most often finish too early, treating 'therefore a necessary being' as though it were 'therefore God'. Aquinas and Leibniz both knew those were different steps and argued them separately; the compressed version skips the harder half.\n\nAnd both sides accuse the other of arbitrarily stopping, without noticing that stopping somewhere is the only option either has. The honest form of this argument is a disagreement about where to stop, not about whether to.",
-
   "sources": [
-    { "title": "Principles of Nature and Grace, Founded on Reason", "author": "Gottfried Wilhelm Leibniz", "year": "1714", "url": "https://philpapers.org/rec/LEIPON", "note": "The freely available Early Modern Texts version is a modernised rewording, not a translation, so it cannot be used to check wording." },
-    { "title": "Summa Theologiae I, q. 2, a. 3", "author": "Thomas Aquinas", "year": "c. 1265", "url": "https://www.newadvent.org/summa/1002.htm", "note": "The Third Way. Aquinas argues separately, and at length, that the necessary being is God." },
-    { "title": "Debate on the Existence of God, BBC Third Programme", "author": "Bertrand Russell and Frederick Copleston", "year": "1948", "url": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm", "note": "Full transcript. Copleston argues from contingency; Russell's replies are the source of most later atheist responses." },
-    { "title": "Dialogues Concerning Natural Religion", "author": "David Hume", "year": "1779", "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm", "note": "Part IX contains the objection to the argument from contingency." },
-    { "title": "Cosmological Argument", "author": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/cosmological-argument/" }
+    {
+      "title": "Principles of Nature and Grace, Founded on Reason",
+      "author": "Gottfried Wilhelm Leibniz",
+      "year": "1714",
+      "url": "https://philpapers.org/rec/LEIPON",
+      "note": "The freely available Early Modern Texts version is a modernised rewording, not a translation, so it cannot be used to check wording."
+    },
+    {
+      "title": "Summa Theologiae I, q. 2, a. 3",
+      "author": "Thomas Aquinas",
+      "year": "c. 1265",
+      "url": "https://www.newadvent.org/summa/1002.htm",
+      "note": "The Third Way. Aquinas argues separately, and at length, that the necessary being is God."
+    },
+    {
+      "title": "Debate on the Existence of God, BBC Third Programme",
+      "author": "Bertrand Russell and Frederick Copleston",
+      "year": "1948",
+      "url": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm",
+      "note": "Full transcript. Copleston argues from contingency; Russell's replies are the source of most later atheist responses."
+    },
+    {
+      "title": "Dialogues Concerning Natural Religion",
+      "author": "David Hume",
+      "year": "1779",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "note": "Part IX contains the objection to the argument from contingency."
+    },
+    {
+      "title": "Cosmological Argument",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+    }
   ]
 }

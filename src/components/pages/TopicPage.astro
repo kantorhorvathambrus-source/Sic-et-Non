@@ -43,7 +43,7 @@ const minutes = readingTime(topic);
   alternates={alternates}
 >
   <article class="topic">
-    <div class="wrap">
+    <div class="col-text">
       <header class="topic-head">
         <p class="eyebrow">
           <a href={homePath(locale)}>{t('topic.backToTopics')}</a>
@@ -83,7 +83,7 @@ const minutes = readingTime(topic);
       }
     </div>
 
-    <div class="wrap">
+    <div class="col-wide">
       <h2 class="sides-heading" id="sides">{t('topic.sides')}</h2>
       <DisclosureControls locale={locale} />
       <div class="sides">
@@ -97,7 +97,7 @@ const minutes = readingTime(topic);
 
     {
       topic.notes && (
-        <div class="wrap">
+        <div class="col-text">
           <section class="notes" aria-labelledby="notes-heading">
             <h2 id="notes-heading" class="minor-heading">
               {t('topic.notes')}
@@ -114,7 +114,7 @@ const minutes = readingTime(topic);
 
     {
       topic.context && (
-        <div class="wrap">
+        <div class="col-text">
           <section class="context" aria-labelledby="context-heading">
             <h2 id="context-heading" class="sides-heading">
               {topic.context.heading}
@@ -150,7 +150,7 @@ const minutes = readingTime(topic);
       )
     }
 
-    <div class="wrap">
+    <div class="col-text">
       <div class="closers">
         <section class="panel" aria-labelledby="where-it-stands">
           <h2 id="where-it-stands">{t('topic.whereItStands')}</h2>
@@ -205,7 +205,6 @@ const minutes = readingTime(topic);
 <style>
   .topic-head {
     padding: var(--space-xl) 0 var(--space-l);
-    max-width: var(--measure-wide);
   }
 
   .eyebrow {
@@ -222,7 +221,7 @@ const minutes = readingTime(topic);
   }
 
   .sep {
-    color: var(--rule-strong);
+    color: var(--ink-faint);
   }
 
   h1 {
@@ -250,11 +249,9 @@ const minutes = readingTime(topic);
   .status-meaning {
     font-size: var(--step--1);
     color: var(--ink-muted);
-    max-width: var(--measure);
   }
 
   .panel {
-    max-width: var(--measure-wide);
     margin-bottom: var(--space-l);
   }
 
@@ -318,7 +315,6 @@ const minutes = readingTime(topic);
   }
 
   .context-note {
-    max-width: var(--measure-wide);
     margin-bottom: var(--space-l);
     padding: var(--space-m) var(--space-l);
     background: var(--bg-sunken);
@@ -332,28 +328,26 @@ const minutes = readingTime(topic);
   }
 
   .context-intro {
-    max-width: var(--measure-wide);
     margin-bottom: var(--space-l);
     color: var(--ink-muted);
   }
 
-  /* Two up on a wide screen, to sit under the two columns of arguments rather
-     than trailing off narrowly beside them; one column once that would squeeze
-     the one-line statements. */
+  /* Full-width rows rather than grid cells. The four entries differ a lot in
+     length, and in a two-column grid opening one left a void beside the
+     collapsed one next to it. Rows also read better at every breakpoint. */
   .position-list {
     list-style: none;
     margin: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr));
-    gap: var(--space-m) var(--space-xl);
-    align-items: start;
+    gap: var(--space-m);
   }
 
+  /* Stacked, not two-up: side by side these ran at 61 characters while the
+     prose above ran at 82. One measure means one column here too. */
   .closers {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
-    gap: var(--space-l) var(--space-xl);
+    gap: var(--space-l);
     margin-top: var(--space-xl);
     padding-top: var(--space-l);
     border-top: var(--hairline) solid var(--rule);
@@ -378,7 +372,6 @@ const minutes = readingTime(topic);
     margin-top: var(--space-xl);
     padding-top: var(--space-l);
     border-top: var(--hairline) solid var(--rule);
-    max-width: var(--measure-wide);
   }
 
   .glossary dl {
@@ -423,6 +416,7 @@ const minutes = readingTime(topic);
 
   .src-note {
     flex-basis: 100%;
+    max-width: 60ch;
     color: var(--ink-faint);
   }
 

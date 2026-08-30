@@ -128,12 +128,13 @@ const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.nam
 </html>
 
 <style>
+  /* Fully opaque: at 88% the page text ghosted through the bar as it scrolled
+     under, which reads as a rendering fault rather than as translucency. */
   .masthead {
     position: sticky;
     top: 0;
     z-index: 30;
-    background: color-mix(in oklab, var(--bg) 88%, transparent);
-    backdrop-filter: blur(8px);
+    background: var(--bg);
     border-bottom: var(--hairline) solid var(--rule);
   }
 
@@ -196,13 +197,12 @@ const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.nam
     font-family: var(--font-display);
     font-size: var(--step-0);
     color: var(--ink-muted);
-    max-width: var(--measure);
+    max-width: var(--measure-prose);
   }
 
   .site-footer .small {
     font-size: var(--step--1);
     margin-bottom: var(--space-2xs);
-    max-width: var(--measure-wide);
   }
 
   @media (max-width: 32rem) {

@@ -25,7 +25,7 @@ const statuses = ['settled-core', 'open', 'interpretive'] as const;
   description={content.lede}
   alternates={alternates}
 >
-  <div class="wrap about">
+  <div class="col-text about">
     <header>
       <h1>{t('about.title')}</h1>
       <p class="lede">{content.lede}</p>
@@ -78,7 +78,6 @@ const statuses = ['settled-core', 'open', 'interpretive'] as const;
 
 <style>
   .about {
-    max-width: var(--measure-wide);
     padding-block: var(--space-xl) var(--space-2xl);
   }
 
@@ -125,10 +124,12 @@ const statuses = ['settled-core', 'open', 'interpretive'] as const;
     column-gap: var(--space-xs);
   }
 
+  /* --rule-strong is a border colour and measured 2.4:1 as text. The numeral is
+     decorative but still rendered, so it takes a text colour. */
   .rule-num {
     font-family: var(--font-display);
     font-size: var(--step-2);
-    color: var(--rule-strong);
+    color: var(--ink-faint);
     line-height: 1;
   }
 

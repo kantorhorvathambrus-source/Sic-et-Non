@@ -9,7 +9,7 @@ Tracks which of the twenty topics are drafted, reviewed and translated.
 | # | Topic | Status tag | Drafted | Reviewed | en | es | fr | de | hu |
 |---|-------|-----------|---------|----------|----|----|----|----|----|
 | 1 | Did the universe begin, and does a beginning need a cause? | open | yes | not yet | ✓ | – | – | – | – |
-| 2 | Why is there something rather than nothing? | interpretive | yes | not yet | ✓ | – | – | – | – |
+| 2 | Why is there something rather than nothing? | open | yes | not yet | ✓ | – | – | – | – |
 | 3 | If God is good, why is there so much suffering? | open | yes | not yet | ✓ | – | – | – | – |
 | 4 | If God wants to be known, why is he hidden? | open | yes | not yet | ✓ | – | – | – | – |
 | 5 | Is the universe fine-tuned for life? | open | yes | not yet | ✓ | – | – | – | – |
@@ -32,6 +32,40 @@ Tracks which of the twenty topics are drafted, reviewed and translated.
 Titles and status tags for the undrafted topics live in `src/data/topics-index.json`,
 already translated into all five languages, so the home page lists the full set from
 the start.
+
+## How a status tag is assigned
+
+Applied in order; the first that fits wins. Written down because a tag assigned
+by feel drifts, and a drifting tag is worse than no tag.
+
+1. **settled-core** — there is a factual core that the relevant experts have
+   settled, and the remaining dispute is about what that core means rather than
+   about the facts. *Test:* could you name the discipline and say what it has
+   concluded? Topics 6, 13 and 19.
+2. **open** — the disagreement is over something that could in principle be
+   decided: the weight of some evidence, the soundness of an argument, a matter
+   of fact. Specialists are still arguing and positions still move. *Test:* can
+   you name people who have changed their minds, or an argument that shifted the
+   field? Topics 1, 2, 3, 4, 5.
+3. **interpretive** — the disagreement bottoms out in what someone counts as a
+   good life, a good explanation or a satisfying answer. Further argument
+   sharpens the disagreement without narrowing it. *Test:* if both sides granted
+   every fact and every valid inference, would they still disagree?
+
+The second test is about whether the *dispute* is live, not about whether
+*evidence* could settle it. That distinction is what moved topic 2. It has no
+empirical content at all — no observation bears on why there is anything — but
+the principle of sufficient reason is under active argument by Pruss, Rasmussen,
+Oppy and Della Rocca, and people in that literature change their minds. Under
+test 2 that is open. It was tagged interpretive by feel, because "no evidence
+can settle it" sounded like the definition, and the definition is narrower than
+that.
+
+Two of the remaining tags are the next closest calls and should be re-checked
+when those topics are drafted: **12** (whether eternal damnation can be just),
+because the universalism literature is genuinely live and positions have moved;
+and **18** (whether religion has done more harm than good), because it has a
+substantial empirical component that may amount to a settled core in places.
 
 ## The three sourcing rules
 
