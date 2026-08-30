@@ -1,0 +1,208 @@
+{
+  "id": "problem-of-suffering",
+  "number": 3,
+  "slug": "problem-of-suffering",
+  "title": "If God is good, why is there so much suffering?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "This is the oldest argument against God and still the strongest, and it is worth being precise about what it is.\n\nIt is not the claim that a good God is logically impossible given any suffering at all. That version was pressed hard in the twentieth century and is now widely thought to have failed, including by philosophers who are atheists. What replaced it is narrower and harder: the sheer quantity of suffering, and the way it falls on those who cannot have deserved it or learned from it, is [[evidence]] against a God who is both able to stop it and disposed to.\n\nSo the question is not \"can you tell a story in which this suffering has a point?\" — you almost always can. It is whether the suffering we actually observe is what you would expect if such a God existed, or whether it is what you would expect if nobody were in charge.\n\nThere is also a third thing in the room that is not an argument at all: the person who has just lost a child does not want a [[theodicy]]. Nothing on this page is addressed to them, and both sides on it would say the same.",
+  "glossary": [
+    {
+      "term": "evidence",
+      "definition": "Something that makes one explanation more likely than another. It is weaker than proof: evidence against a claim can be real and the claim still be true."
+    },
+    {
+      "term": "theodicy",
+      "definition": "An attempt to say what reason God might have for permitting suffering. From the Greek for 'justifying God'. A defence is weaker and only claims the reason could exist."
+    },
+    {
+      "term": "gratuitous suffering",
+      "definition": "Suffering that serves no purpose at all — that no greater good needed and no worse evil required. Whether any suffering is really like this is the whole dispute."
+    },
+    {
+      "term": "natural evil",
+      "definition": "Suffering nobody chose: disease, earthquakes, the pain of animals. Free will explains the harm people do to each other, and does not touch this."
+    },
+    {
+      "term": "skeptical theism",
+      "definition": "The reply that we are not well enough placed to tell whether suffering is pointless. If God's reasons existed, we might well not spot them, the way a child cannot follow an adult's reasoning."
+    },
+    {
+      "term": "soul-making",
+      "definition": "John Hick's term, borrowed from the poet Keats, for the idea that the world is not meant to be comfortable but to be the sort of place in which people can become something."
+    }
+  ],
+  "sides": [
+    {
+      "label": "The suffering we see is evidence against such a God",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "the-old-questions",
+          "claim": "The three questions have never had a good answer at the same time",
+          "explanation": "Say God can stop suffering, wants to stop it, and knows about it. Then it should not be here. Drop any one of the three and you have an answer, but not a God anyone worships: a God who cannot act, or who does not care, or who did not notice.\n\nHume put this in the mouth of a character in 1779 and the shape has not changed since. The force of it is not that it is clever. It is that every reply has to give up something a believer would rather keep.",
+          "quote": {
+            "text": "Is he willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?",
+            "author": "David Hume",
+            "work": "Dialogues Concerning Natural Religion",
+            "year": "1779",
+            "locator": "Part X, spoken by Philo",
+            "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The trilemma only works if a good being would always prevent every evil it could. That is not obviously true even of good people: a surgeon causes pain, a parent lets a child fail. Once you allow that a good being might permit a harm for the sake of something, the three questions stop being a contradiction and become a question about whether the something is worth it.",
+            "response": "Agreed, and that is exactly where the argument has moved. The modern version does not claim a contradiction. It claims that the surgeon analogy runs out long before the evidence does — a surgeon who could heal without cutting, and cut anyway, would not be good."
+          }
+        },
+        {
+          "id": "the-fawn",
+          "claim": "Some suffering does nobody any good, and there is far too much of it to be a rounding error",
+          "explanation": "The free-will answer covers what people do to each other. It does not touch [[natural evil]]: the animal that starves, the child with bone cancer, the four hundred million years of predation before there was anyone to learn anything from it.\n\nWilliam Rowe made the case with a single deliberately unremarkable example, chosen because it is not rare. Fires like this happen constantly, and have for as long as there have been forests. His argument is not that we can prove this was [[gratuitous suffering]]. It is that we have looked, we cannot find a point, and at some volume that is what evidence looks like.",
+          "quote": {
+            "text": "In some distant forest lightning strikes a dead tree, resulting in a forest fire. In the fire a fawn is trapped, horribly burned, and lies in terrible agony for several days before death relieves its suffering.",
+            "author": "William L. Rowe",
+            "work": "The Problem of Evil and Some Varieties of Atheism, American Philosophical Quarterly 16",
+            "year": "1979",
+            "locator": "p. 337",
+            "sourceUrl": "https://philpapers.org/rec/ROWTPO-3",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "\"We cannot see a reason\" is only evidence of \"there is no reason\" if we are the sort of thing that would see one. A beginner looking at a grandmaster's move cannot see the point of it, and is not thereby entitled to conclude there is none. If a mind capable of making a universe had reasons, our failing to spot them would be the expected result, not a surprise.",
+            "response": "That reply — [[skeptical theism]] — works, and it costs more than it looks. If we are that badly placed to judge God's reasons, we are equally badly placed to judge that anything is good, or that any answered prayer was answered, or that any of the evidence for God is what it seems. The blindness cannot be switched on only when it is needed."
+          }
+        },
+        {
+          "id": "the-price-of-a-reason",
+          "claim": "Any reason good enough to justify this would be a reason we should refuse",
+          "explanation": "Suppose a theodicy succeeds and every child's suffering turns out to have been necessary for some greater good. Notice what has been bought. The suffering is now not a tragedy but a component — a cost that was worth paying, in a plan that needed it.\n\nDostoevsky put the objection in the mouth of Ivan Karamazov, who says he is not denying that God exists or even that the final harmony will be beautiful. He is saying that if the price of it is one tortured child, he declines to be a beneficiary. This is a moral argument, not a logical one, and it is aimed precisely at the answers that work.",
+          "quote": {
+            "text": "It's not God that I don't accept, Alyosha, only I most respectfully return Him the ticket.",
+            "author": "Ivan Karamazov, in Fyodor Dostoevsky",
+            "work": "The Brothers Karamazov, tr. Constance Garnett",
+            "year": "1880",
+            "locator": "Book V, ch. 4, 'Rebellion'",
+            "sourceUrl": "https://www.gutenberg.org/ebooks/28054",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "This assumes the only available Christian answer is that suffering is a necessary component of a plan. A large part of the tradition denies exactly that: evil is an enemy rather than an instrument, something God defeats rather than deploys. Ivan is refusing a ticket that many Christians would also refuse.",
+            "response": "Then the question becomes what is left. If suffering serves no purpose in God's plan and God could have prevented it, the original problem is untouched — it has simply lost its most popular answer."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Suffering is real, and it does not settle the question",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "free-will-defence",
+          "claim": "A world with genuine choices cannot be a world where harm is impossible",
+          "explanation": "If people can really choose, some will choose badly, and God cannot both leave the choice free and guarantee the outcome. That is not a limit on God's power any more than being unable to draw a square circle is; it is what the words mean.\n\nAlvin Plantinga's version of this is narrow and is the reason the argument moved on. He does not claim to know why God permits suffering. He claims only that free creatures who sometimes do wrong are logically possible alongside a good God — which is enough to defeat the claim that the two are contradictory, and philosophers on both sides largely accept that it does.",
+          "quote": {
+            "text": "A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.",
+            "author": "Alvin Plantinga",
+            "work": "God, Freedom, and Evil",
+            "year": "1974",
+            "sourceUrl": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "It answers the version of the argument nobody presses any more. Free will says nothing about the fawn, about malaria, or about the hundreds of millions of years of animal suffering before humans existed. Winning the logical argument while the evidential one is untouched is not much of a win.",
+            "response": "It is a real win about a real claim, and it is why the honest atheist arguments today are evidential rather than deductive. What it does not do is settle the evidential question, and pretending otherwise would be the mistake this page is trying to avoid."
+          }
+        },
+        {
+          "id": "soul-making",
+          "claim": "A world safe enough to be painless would be too small for anyone to become anything in",
+          "explanation": "Imagine a world where no action could injure anyone: knives soften, floors catch you, cruelty simply fails. Courage would be impossible in it, and so would generosity, patience and forgiveness, because nothing would be at stake. It would be a very comfortable place with nobody in it worth being.\n\nJohn Hick's [[soul-making]] theodicy argues that this world is not designed as a paradise and was never meant to look like one; it is designed as somewhere people can be formed. He does not claim the arithmetic works out in this life, and this is the part usually left out: the case depends on a completion beyond it.",
+          "quote": {
+            "text": "The good that outshines all ill is not a paradise long since lost but a kingdom which is yet to come in its full glory and permanence.",
+            "author": "John Hick",
+            "work": "Evil and the God of Love",
+            "year": "1966",
+            "sourceUrl": "https://link.springer.com/book/10.1057/9780230283961",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The distribution is wrong. Soul-making needs someone whose soul is being made, and much suffering destroys people rather than forming them, or falls on infants and animals who will never reflect on it. And the quantities are absurd: whatever courage requires, it does not require the Black Death.",
+            "response": "The objection lands on the strong form of the theodicy and Hick largely concedes it, which is why the argument leans on what he calls the completion — the claim that those who were destroyed here are not finished. That is a serious cost: it makes the answer depend on something no one can inspect."
+          }
+        },
+        {
+          "id": "refusing-theodicy",
+          "claim": "Christianity is not committed to suffering having a purpose in the first place",
+          "explanation": "The strongest reply may be to refuse the question. On this view, the mistake shared by Ivan and by his opponents is assuming that if God permits a horror, God must have wanted it for something. The New Testament does not treat death and suffering as instruments of God's will. It treats them as an enemy, and the promise is not that the tears will turn out to have been worth it but that they will be wiped away.\n\nDavid Bentley Hart wrote this in the weeks after the 2004 tsunami, against Christians offering reasons for it. The position gives up a great deal: it has no explanation to offer, and it says the demand for one was misconceived.",
+          "quote": {
+            "text": "rather than showing us how the tears of a small girl suffering in the dark were necessary for the building of the Kingdom, he will instead raise her up and wipe away all tears from her eyes.",
+            "author": "David Bentley Hart",
+            "work": "The Doors of the Sea: Where Was God in the Tsunami?",
+            "year": "2005",
+            "sourceUrl": "https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "This is a change of subject dressed as an answer. The question was why an all-powerful and good God permits horrors he could stop. Saying he does not endorse them and will one day undo them concedes the whole point: he permitted them anyway, and no reason has been given.",
+            "response": "It concedes there is no explanation, which is not the same as conceding the argument. The claim is that a God who defeats evil rather than requiring it is not the God the evidential argument targets — and that a faith which has to justify each horror has already lost more than it can win back."
+          }
+        }
+      ]
+    }
+  ],
+  "whereItStands": "The logical form of the argument — that God and any suffering are flatly contradictory — is not where the dispute is any more. Plantinga's defence is generally granted, including by atheist philosophers, and pressing the logical version today is arguing against a position the other side abandoned fifty years ago.\n\nThe evidential form is very much alive, and it is the strongest argument against theism that anyone has. Nothing in this article should suggest otherwise. What is genuinely disputed is a narrower thing: whether our failure to see a point in a particular horror is good evidence that there is none. That turns on how well-placed we take ourselves to be, and there is no neutral way to settle that.\n\nThe honest summary is that this is a cost rather than a defeat. Suffering counts against belief in God, and most careful theists agree it does; the argument is about how much, and about whether anything else outweighs it. Where it lands, on the evidence, mostly depends on what you already thought was likely — which is uncomfortable for both sides and is why the topic is tagged open rather than settled.",
+  "commonMistake": "Atheists most often argue against the logical version — that suffering makes God impossible — which is both the weakest form and the one philosophy has moved past. It also invites a reply that wins, which wastes the strongest argument they have.\n\nChristians most often reach for a theodicy too quickly, and offer an explanation where none was asked for. Job's friends are the Bible's own portrait of this, and the book is not on their side. There is also a habit of treating any admission that suffering is evidence against God as a concession that cannot be made — when a great deal of the tradition, including Hart above, makes it freely.\n\nAnd both sides make the same mistake when they treat this as a puzzle. For most people who ask this question it is not one. Whatever the argument decides, an answer that is true and delivered to someone in the middle of a loss is still the wrong thing to say.",
+  "sources": [
+    {
+      "title": "Dialogues Concerning Natural Religion",
+      "author": "David Hume",
+      "year": "1779",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "note": "Part X carries the passage. Published posthumously; written over the preceding twenty-five years."
+    },
+    {
+      "title": "The Problem of Evil and Some Varieties of Atheism",
+      "author": "William L. Rowe",
+      "year": "1979",
+      "url": "https://philpapers.org/rec/ROWTPO-3",
+      "note": "American Philosophical Quarterly 16(4), 335-341. The paper that moved the argument from logical to evidential."
+    },
+    {
+      "title": "The Brothers Karamazov, tr. Constance Garnett",
+      "author": "Fyodor Dostoevsky",
+      "year": "1880",
+      "url": "https://www.gutenberg.org/ebooks/28054",
+      "note": "Book V, chapters 3-5. Ivan is a character, not the author; Dostoevsky was a Christian who thought the objection had to be put at full strength."
+    },
+    {
+      "title": "God, Freedom, and Evil",
+      "author": "Alvin Plantinga",
+      "year": "1974",
+      "url": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/"
+    },
+    {
+      "title": "Evil and the God of Love",
+      "author": "John Hick",
+      "year": "1966",
+      "url": "https://link.springer.com/book/10.1057/9780230283961"
+    },
+    {
+      "title": "The Doors of the Sea: Where Was God in the Tsunami?",
+      "author": "David Bentley Hart",
+      "year": "2005",
+      "url": "https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/"
+    },
+    {
+      "title": "The Evidential Problem of Evil",
+      "author": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/evil-evi/",
+      "note": "A survey of the argument's current state, useful for seeing how much of it is genuinely open."
+    },
+    {
+      "title": "Theodicies",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/theodicies/"
+    }
+  ]
+}

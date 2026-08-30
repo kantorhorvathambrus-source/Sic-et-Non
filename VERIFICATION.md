@@ -16,6 +16,70 @@ run `npm run verify:content` to see the count move.
 
 Rows are ordered by how cheap they are to check.
 
+## Topic 3: If God is good, why is there so much suffering?
+
+File: `src/content/topics/<locale>/03-problem-of-suffering.json`
+
+### 1. David Hume — [ ] corroborated
+
+- **Published as:** “Is he willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?”
+- **Work:** Dialogues Concerning Natural Religion
+- **Year:** 1779 · Part X, spoken by Philo
+- **Used for:** the-old-questions — the claim
+- **Source:** https://www.gutenberg.org/files/4583/4583-h/4583-h.htm
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that Part X, spoken by Philo is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Ivan Karamazov, in Fyodor Dostoevsky — [ ] corroborated
+
+- **Published as:** “It's not God that I don't accept, Alyosha, only I most respectfully return Him the ticket.”
+- **Work:** The Brothers Karamazov, tr. Constance Garnett
+- **Year:** 1880 · Book V, ch. 4, 'Rebellion'
+- **Used for:** the-price-of-a-reason — the claim
+- **Source:** https://www.gutenberg.org/ebooks/28054
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that Book V, ch. 4, 'Rebellion' is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Alvin Plantinga — [ ] corroborated
+
+- **Published as:** “A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.”
+- **Work:** God, Freedom, and Evil
+- **Year:** 1974
+- **Used for:** free-will-defence — the claim
+- **Source:** https://www.eerdmans.com/9780802817310/god-freedom-and-evil/
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. David Bentley Hart — [ ] corroborated
+
+- **Published as:** “rather than showing us how the tears of a small girl suffering in the dark were necessary for the building of the Kingdom, he will instead raise her up and wipe away all tears from her eyes.”
+- **Work:** The Doors of the Sea: Where Was God in the Tsunami?
+- **Year:** 2005
+- **Used for:** refusing-theodicy — the claim
+- **Source:** https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. John Hick — [ ] corroborated
+
+- **Published as:** “The good that outshines all ill is not a paradise long since lost but a kingdom which is yet to come in its full glory and permanence.”
+- **Work:** Evil and the God of Love
+- **Year:** 1966
+- **Used for:** soul-making — the claim
+- **Source:** https://link.springer.com/book/10.1057/9780230283961
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. William L. Rowe — [ ] corroborated
+
+- **Published as:** “In some distant forest lightning strikes a dead tree, resulting in a forest fire. In the fire a fawn is trapped, horribly burned, and lies in terrible agony for several days before death relieves its suffering.”
+- **Work:** The Problem of Evil and Some Varieties of Atheism, American Philosophical Quarterly 16
+- **Year:** 1979 · p. 337
+- **Used for:** the-fawn — the claim
+- **Source:** https://philpapers.org/rec/ROWTPO-3
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that p. 337 is right. Confirm it is not quoted out of a sentence that reverses it.
+
 ## Topic 6: Creation or evolution?
 
 File: `src/content/topics/<locale>/06-creation-or-evolution.json`
@@ -152,7 +216,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 
 ---
 
-**0 of 13 verified against the source text.**
+**0 of 19 verified against the source text.**
 
 When a row is confirmed, change `verification` to `primary` in all five locale
 files for that quotation and regenerate this sheet. If the wording turns out to

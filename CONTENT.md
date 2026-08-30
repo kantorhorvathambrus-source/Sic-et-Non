@@ -10,7 +10,7 @@ Tracks which of the twenty topics are drafted, reviewed and translated.
 |---|-------|-----------|---------|----------|----|----|----|----|----|
 | 1 | Did the universe begin, and does a beginning need a cause? | open | – | – | – | – | – | – | – |
 | 2 | Why is there something rather than nothing? | interpretive | – | – | – | – | – | – | – |
-| 3 | If God is good, why is there so much suffering? | open | – | – | – | – | – | – | – |
+| 3 | If God is good, why is there so much suffering? | open | yes | not yet | ✓ | – | – | – | – |
 | 4 | If God wants to be known, why is he hidden? | open | – | – | – | – | – | – | – |
 | 5 | Is the universe fine-tuned for life? | open | – | – | – | – | – | – | – |
 | 6 | Creation or evolution? | settled-core | yes | not yet | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -155,6 +155,21 @@ One quotation was dropped when the topic was shortened and is worth placing wher
 it fits better: Dawkins's "Biology is the study of complicated things that give
 the appearance of having been designed for a purpose" (*The Blind Watchmaker*,
 opening line).
+
+### Sourcing review: topic 3
+
+- **Hume (Philo), Rowe, Ivan Karamazov** — each argues the atheist side. Ivan is a
+  character rather than an author, which the citation says: Dostoevsky was a
+  Christian who put the objection at full strength deliberately, and treating the
+  line as Dostoevsky's own view would be the error.
+- **Plantinga, Hick, Hart** — each argues the Christian side, in a book devoted to
+  arguing it. Hart is included specifically because he rejects the theodicy move
+  that Ivan attacks, so the Christian side is not represented only by the answer
+  its critics find easiest to target. That is the same failure mode as topic 6's
+  young-earth quote, caught in advance this time.
+- **Nobody on this topic is quoted by an opponent.** Every objection is stated in
+  our prose rather than borrowed from a critic's quotation, so no `counter.quote`
+  is used and the rule has nothing to catch.
 
 ### Sourcing review: topic 6
 
