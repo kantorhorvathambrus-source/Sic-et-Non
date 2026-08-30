@@ -2,14 +2,15 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SideColumn from '../SideColumn.astro';
 import StatusTag from '../StatusTag.astro';
-import Quotation from '../Quotation.astro';
+import ContextEntry from '../ContextEntry.astro';
+import DisclosureControls from '../DisclosureControls.astro';
 import RichText from '../RichText.astro';
 import { homePath, mapPath, useTranslations, type Locale } from '../../i18n';
 import {
   alternatesForTopic,
   getTopicsForLocale,
   orderedSides,
-  readingMinutes,
+  readingTime,
 } from '../../lib/topics';
 import { buildGlossary, toPlainText } from '../../lib/richtext';
 
@@ -29,7 +30,7 @@ const topic = entry.data;
 const glossary = buildGlossary(topic.glossary);
 const sides = orderedSides(topic);
 const alternates = await alternatesForTopic(topic.id);
-const minutes = readingMinutes(topic);
+const minutes = readingTime(topic);
 ---
 
 <BaseLayout
@@ -53,7 +54,9 @@ const minutes = readingMinutes(topic);
 
         <div class="head-meta">
           <StatusTag status={topic.status} locale={locale} />
-          <span class="minutes">{t('topic.readingTime', { n: minutes })}</span>
+          <span class="minutes">
+            {t('topic.readingTime.layered', { summary: minutes.summary, full: minutes.full })}
+          </span>
           <a class="map-link" href={mapPath(locale, topic.slug)}>{t('topic.argumentMap')}</a>
         </div>
 
@@ -77,6 +80,7 @@ const minutes = readingMinutes(topic);
 
     <div class="wrap">
       <h2 class="sides-heading" id="sides">{t('topic.sides')}</h2>
+      <DisclosureControls locale={locale} />
       <div class="sides">
         {
           sides.map((side) => (
@@ -87,29 +91,25 @@ const minutes = readingMinutes(topic);
     </div>
 
     {
-      topic.familyPositions && (
+      topic.context && (
         <div class="wrap">
-          <section class="positions" aria-labelledby="positions-heading">
-            <h2 id="positions-heading" class="sides-heading">
-              {t('topic.familyPositions')}
+          <section class="context" aria-labelledby="context-heading">
+            <h2 id="context-heading" class="sides-heading">
+              {topic.context.heading}
             </h2>
 
+            {topic.context.intro && (
+              <RichText
+                text={topic.context.intro}
+                glossary={glossary}
+                class="context-intro"
+              />
+            )}
+
             <ol class="position-list">
-              {topic.familyPositions.map((position) => (
-                <li class="position" id={position.id}>
-                  <h3>{position.name}</h3>
-                  <p class="held-by">
-                    <span class="field-label">{t('position.heldBy')}</span>
-                    {position.heldBy}
-                  </p>
-                  <RichText text={position.summary} glossary={glossary} />
-                  {position.quote && (
-                    <Quotation quote={position.quote} locale={locale} side="theist" />
-                  )}
-                  <p class="standing">
-                    <span class="field-label">{t('position.scienceStanding')}</span>
-                    {position.scienceStanding}
-                  </p>
+              {topic.context.entries.map((entry) => (
+                <li>
+                  <ContextEntry entry={entry} locale={locale} glossary={glossary} />
                 </li>
               ))}
             </ol>
@@ -276,46 +276,23 @@ const minutes = readingMinutes(topic);
     grid-row: 1;
   }
 
+  .context-intro {
+    max-width: var(--measure-wide);
+    margin-bottom: var(--space-l);
+    color: var(--ink-muted);
+  }
+
+  /* Two up on a wide screen, to sit under the two columns of arguments rather
+     than trailing off narrowly beside them; one column once that would squeeze
+     the one-line statements. */
   .position-list {
     list-style: none;
     margin: 0;
     padding: 0;
     display: grid;
-    gap: var(--space-l);
-  }
-
-  .position {
-    padding: var(--space-m) var(--space-l);
-    background: var(--bg-raised);
-    border: var(--hairline) solid var(--rule);
-    border-radius: var(--radius);
-    max-width: var(--measure-wide);
-  }
-
-  .position h3 {
-    font-size: var(--step-1);
-    margin-bottom: var(--space-2xs);
-  }
-
-  .field-label {
-    display: block;
-    font-size: 0.78em;
-    font-weight: 600;
-    letter-spacing: 0.09em;
-    text-transform: uppercase;
-    color: var(--ink-faint);
-  }
-
-  .held-by,
-  .standing {
-    font-size: var(--step--1);
-    color: var(--ink-muted);
-  }
-
-  .standing {
-    margin: var(--space-s) 0 0;
-    padding-top: var(--space-s);
-    border-top: var(--hairline) solid var(--rule);
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr));
+    gap: var(--space-m) var(--space-xl);
+    align-items: start;
   }
 
   .closers {

@@ -48,8 +48,8 @@
             "work": "The Blind Watchmaker (El relojero ciego)",
             "year": "1986",
             "locator": "p. 6",
-            "sourceUrl": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker",
-            "verified": true,
+            "sourceUrl": "https://wwnorton.com/books/9780393351491",
+            "verification": "corroborated",
             "original": {
               "text": "Although atheism might have been logically tenable before Darwin, Darwin made it possible to be an intellectually fulfilled atheist.",
               "language": "en"
@@ -71,7 +71,7 @@
             "year": "1860",
             "locator": "DCP-LETT-2814",
             "sourceUrl": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice.",
               "language": "en"
@@ -91,8 +91,8 @@
             "author": "Daniel Dennett",
             "work": "Darwin's Dangerous Idea (La peligrosa idea de Darwin)",
             "year": "1995",
-            "sourceUrl": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea",
-            "verified": true,
+            "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710",
+            "verification": "corroborated",
             "original": {
               "text": "a skyhook is a \"mind-first\" force or power or process, an exception to the principle that all design, and apparent design, is ultimately the result of mindless, motiveless mechanicity.",
               "language": "en"
@@ -120,7 +120,7 @@
             "year": "1973",
             "locator": "pp. 125-129",
             "sourceUrl": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "I am a creationist and an evolutionist. Evolution is God's, or Nature's method of creation.",
               "language": "en"
@@ -142,7 +142,7 @@
             "year": "c. 415",
             "locator": "Book I, ch. 19",
             "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
               "language": "en"
@@ -164,7 +164,7 @@
             "year": "2011",
             "locator": "preface, p. ix",
             "sourceUrl": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "there is superficial conflict but deep concord between science and theistic religion, but superficial concord and deep conflict between science and naturalism",
               "language": "en"
@@ -178,81 +178,106 @@
       ]
     }
   ],
-  "familyPositions": [
-    {
-      "id": "young-earth-creationism",
-      "name": "Creacionismo de la Tierra joven",
-      "heldBy": "Una minoría de cristianos protestantes, concentrada en Estados Unidos; institucionalmente Answers in Genesis y el Institute for Creation Research.",
-      "summary": "Génesis 1 describe seis días corrientes hace unos pocos miles de años, y las capas de roca con fósiles las depositó el diluvio de Noé y no eones de tiempo.\n\nSu forma moderna es más reciente de lo que casi todos suponen. El historiador Ronald Numbers la rastreó hasta el escritor adventista del séptimo día George McCready Price, y su llegada como ortodoxia fundamentalista hasta The Genesis Flood en 1961. Muchos protestantes conservadores del siglo XIX aceptaban sin dificultad una Tierra antigua.",
-      "scienceStanding": "Rechazado. La datación radiométrica, los testigos de hielo, la tectónica de placas, las bandas de crecimiento de los corales y el tiempo que tarda en llegar la luz de galaxias lejanas coinciden entre sí y no con una Tierra joven. Aquí no hay disputa científica que informar.",
-      "quote": {
-        "text": "Whitcomb y Morris sostuvieron que la Biblia es la palabra infalible de Dios, que el registro geológico lo produjo el diluvio de Noé y no largas edades, y que el supuesto de la geología convencional de procesos lentos y uniformes debe rechazarse por esas razones.",
-        "author": "John C. Whitcomb and Henry M. Morris",
-        "work": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
-        "year": "1961",
-        "sourceUrl": "https://en.wikipedia.org/wiki/The_Genesis_Flood",
-        "verified": false
-      }
-    },
-    {
-      "id": "old-earth-creationism",
-      "name": "Creacionismo de la Tierra antigua",
-      "heldBy": "Protestantes conservadores que aceptan la geología convencional pero no el antepasado común; históricamente Charles Hodge, hoy grupos como Reasons to Believe.",
-      "summary": "La Tierra tiene realmente miles de millones de años y la columna geológica es real; los días del Génesis son edades, o un marco literario. Lo que se niega no es el tiempo profundo, sino el antepasado común sin dirección.\n\nCharles Hodge, el teólogo conservador estadounidense más formidable del siglo XIX, siguió exactamente esta línea. No tenía nada contra una Tierra antigua. Su problema era la exclusión del propósito de la naturaleza.",
-      "scienceStanding": "La Tierra antigua es correcta. La creación separada de tipos no lo es: el antepasado común descansa en la misma evidencia genómica que sostiene la medicina y la ciencia forense, y en fósiles de transición predichos antes de encontrarse.",
-      "quote": {
-        "text": "¿Qué es el darwinismo? Es ateísmo. Esto no significa, como ya se ha dicho, que el señor Darwin mismo y todos los que adoptan sus opiniones sean ateos; significa que su teoría es atea, que la exclusión del designio de la naturaleza equivale, como dice el doctor Gray, al ateísmo.",
-        "author": "Charles Hodge",
-        "work": "What is Darwinism?",
-        "year": "1874",
-        "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
-        "verified": true,
-        "original": {
-          "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
-          "language": "en"
+  "context": {
+    "heading": "Cuatro posturas cristianas",
+    "intro": "El desacuerdo entre estas cuatro se da dentro del cristianismo y no entre el cristianismo y el ateísmo, y por eso aparece aparte de los dos lados de arriba. Cada postura la enuncia alguien que la sostiene, y después se le responde.",
+    "entries": [
+      {
+        "id": "young-earth-creationism",
+        "name": "Creacionismo de la Tierra joven",
+        "heldBy": "Una minoría de cristianos protestantes, concentrada en Estados Unidos; institucionalmente Answers in Genesis y el Institute for Creation Research.",
+        "oneLine": "Génesis 1 describe seis días corrientes hace unos pocos miles de años, y la roca con fósiles la depositó el diluvio de Noé.",
+        "summary": "Génesis 1 describe seis días corrientes hace unos pocos miles de años, y las capas de roca con fósiles las depositó el diluvio de Noé y no eones de tiempo.\n\nSu forma moderna es más reciente de lo que casi todos suponen. El historiador Ronald Numbers la rastreó hasta el escritor adventista del séptimo día George McCready Price, y su llegada como ortodoxia fundamentalista hasta The Genesis Flood en 1961. Muchos protestantes conservadores del siglo XIX aceptaban sin dificultad una Tierra antigua.",
+        "quote": {
+          "text": "Ninguna prueba aparente, percibida o alegada en ningún campo de estudio, incluidas la ciencia, la historia y la cronología, puede ser válida si contradice la enseñanza clara de la Escritura obtenida mediante la interpretación histórico-gramatical.",
+          "author": "Answers in Genesis",
+          "work": "Declaración de fe, apartado sobre la Escritura",
+          "year": "current",
+          "sourceUrl": "https://answersingenesis.org/about/faith/",
+          "verification": "corroborated",
+          "original": {
+            "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
+            "language": "en"
+          }
+        },
+        "standing": "Rechazado. La datación radiométrica, los testigos de hielo, la tectónica de placas, las bandas de crecimiento de los corales y el tiempo que tarda en llegar la luz de galaxias lejanas coinciden entre sí y no con una Tierra joven. Aquí no hay disputa científica que informar."
+      },
+      {
+        "id": "old-earth-creationism",
+        "name": "Creacionismo de la Tierra antigua",
+        "heldBy": "Protestantes conservadores que aceptan la geología convencional pero no el antepasado común; históricamente Charles Hodge, hoy grupos como Reasons to Believe.",
+        "oneLine": "La Tierra sí tiene miles de millones de años, pero Dios creó por separado los grandes tipos en vez de por antepasado común.",
+        "summary": "La Tierra tiene realmente miles de millones de años y la columna geológica es real; los días del Génesis son edades, o un marco literario. Lo que se niega no es el tiempo profundo, sino el antepasado común sin dirección.\n\nCharles Hodge, el teólogo conservador estadounidense más formidable del siglo XIX, siguió exactamente esta línea. No tenía nada contra una Tierra antigua. Su problema era la exclusión del propósito de la naturaleza.",
+        "quote": {
+          "text": "¿Qué es el darwinismo? Es ateísmo. Esto no significa, como ya se ha dicho, que el señor Darwin mismo y todos los que adoptan sus opiniones sean ateos; significa que su teoría es atea, que la exclusión del designio de la naturaleza equivale, como dice el doctor Gray, al ateísmo.",
+          "author": "Charles Hodge",
+          "work": "What is Darwinism?",
+          "year": "1874",
+          "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
+          "verification": "corroborated",
+          "original": {
+            "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
+            "language": "en"
+          }
+        },
+        "standing": "La Tierra antigua es correcta. La creación separada de tipos no lo es: el antepasado común descansa en la misma evidencia genómica que sostiene la medicina y la ciencia forense, y en fósiles de transición predichos antes de encontrarse."
+      },
+      {
+        "id": "intelligent-design",
+        "name": "Diseño inteligente",
+        "heldBy": "Asociado al Discovery Institute; Michael Behe, William Dembski, Stephen Meyer.",
+        "oneLine": "Algunos sistemas biológicos necesitan todas sus piezas a la vez para funcionar, así que el diseño sería mejor inferencia que la selección paso a paso.",
+        "summary": "El diseño inteligente acepta una Tierra antigua y, en el caso de Behe, también el antepasado común. Su afirmación es más estrecha: que algunas estructuras biológicas son de [[complejidad irreducible]], y hace falta cada pieza para que el sistema funcione, de modo que la selección no puede construirlas mediante pasos intermedios útiles. El diseño se ofrece como inferencia a partir de la evidencia, no de la Escritura.\n\nSus defensores añaden que la ciencia convencional descarta el diseño de antemano, al adoptar el [[naturalismo metodológico]] como regla de partida y no como una conclusión.",
+        "quote": {
+          "text": "Por irreduciblemente complejo entiendo un sistema único compuesto de varias piezas bien ajustadas que interactúan y contribuyen a la función básica, de modo que la eliminación de cualquiera de ellas hace que el sistema deje efectivamente de funcionar.",
+          "author": "Michael J. Behe",
+          "work": "Darwin's Black Box: The Biochemical Challenge to Evolution",
+          "year": "1996",
+          "locator": "p. 39",
+          "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319",
+          "verification": "corroborated",
+          "original": {
+            "text": "By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning.",
+            "language": "en"
+          }
+        },
+        "standing": "No aceptado como ciencia. Los ejemplos concretos, en especial el flagelo bacteriano y la cascada de coagulación, cuentan con explicaciones evolutivas paso a paso a partir de piezas con otras funciones. En Kitzmiller contra Dover (2005) un tribunal federal examinó la afirmación en juicio y dictaminó que no es ciencia. Muchos cristianos también lo rechazan, por ser un argumento del [[Dios de los huecos]] que encoge a medida que avanza la biología.",
+        "standingQuote": {
+          "text": "Hemos abordado la cuestión capital de si el DI es ciencia. Hemos concluido que no lo es, y además que el DI no puede desligarse de sus antecedentes creacionistas y, por tanto, religiosos.",
+          "author": "Judge John E. Jones III",
+          "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
+          "year": "2005",
+          "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+          "verification": "corroborated",
+          "original": {
+            "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
+            "language": "en"
+          }
         }
+      },
+      {
+        "id": "evolutionary-creation",
+        "name": "Creación evolutiva, o evolución teísta",
+        "heldBy": "La postura mayoritaria entre los cristianos de todo el mundo, incluidas la Iglesia católica, la mayoría de las iglesias protestantes históricas y las ortodoxas; Francis Collins, Alister McGrath, BioLogos.",
+        "oneLine": "La evolución se acepta por completo, y se entiende como el medio por el que Dios creó.",
+        "summary": "La evolución se acepta por completo y se entiende como el medio por el que Dios creó. No se niega ninguna afirmación científica ni se reserva ningún hueco.\n\nLa postura católica la formuló Juan Pablo II en 1996, cuando dijo a la Academia Pontificia de las Ciencias que los nuevos conocimientos habían llevado a reconocer en la evolución «más que una hipótesis». Francis Collins, que dirigió el Proyecto Genoma Humano, defiende lo mismo a partir del propio genoma.",
+        "quote": {
+          "text": "Dios, que no está limitado por el espacio ni por el tiempo, creó el universo y estableció las leyes naturales que lo gobiernan.",
+          "author": "Francis Collins",
+          "work": "The Language of God: A Scientist Presents Evidence for Belief",
+          "year": "2006",
+          "locator": "p. 178",
+          "sourceUrl": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742",
+          "verification": "corroborated",
+          "original": {
+            "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
+            "language": "en"
+          }
+        },
+        "standing": "Compatible con la ciencia, porque no hace ninguna afirmación científica propia. Es también la postura con la que los críticos ateos discuten con más dureza, con el argumento de que un Dios que actúa solo mediante causas naturales ordinarias no hace ningún trabajo detectable."
       }
-    },
-    {
-      "id": "intelligent-design",
-      "name": "Diseño inteligente",
-      "heldBy": "Asociado al Discovery Institute; Michael Behe, William Dembski, Stephen Meyer.",
-      "summary": "El diseño inteligente acepta una Tierra antigua y, en el caso de Behe, también el antepasado común. Su afirmación es más estrecha: que algunas estructuras biológicas son de [[complejidad irreducible]], y hace falta cada pieza para que el sistema funcione, de modo que la selección no puede construirlas mediante pasos intermedios útiles. El diseño se ofrece como inferencia a partir de la evidencia, no de la Escritura.\n\nSus defensores añaden que la ciencia convencional descarta el diseño de antemano, al adoptar el [[naturalismo metodológico]] como regla de partida y no como una conclusión.",
-      "scienceStanding": "No aceptado como ciencia. Los ejemplos concretos, en especial el flagelo bacteriano y la cascada de coagulación, cuentan con explicaciones evolutivas paso a paso a partir de piezas con otras funciones. En Kitzmiller contra Dover (2005) un tribunal federal examinó la afirmación en juicio y dictaminó que no es ciencia. Muchos cristianos también lo rechazan, por ser un argumento del [[Dios de los huecos]] que encoge a medida que avanza la biología.",
-      "quote": {
-        "text": "Hemos abordado la cuestión capital de si el DI es ciencia. Hemos concluido que no lo es, y además que el DI no puede desligarse de sus antecedentes creacionistas y, por tanto, religiosos.",
-        "author": "Judge John E. Jones III",
-        "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
-        "year": "2005",
-        "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
-        "verified": true,
-        "original": {
-          "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
-          "language": "en"
-        }
-      }
-    },
-    {
-      "id": "evolutionary-creation",
-      "name": "Creación evolutiva, o evolución teísta",
-      "heldBy": "La postura mayoritaria entre los cristianos de todo el mundo, incluidas la Iglesia católica, la mayoría de las iglesias protestantes históricas y las ortodoxas; Francis Collins, Alister McGrath, BioLogos.",
-      "summary": "La evolución se acepta por completo y se entiende como el medio por el que Dios creó. No se niega ninguna afirmación científica ni se reserva ningún hueco.\n\nLa postura católica la formuló Juan Pablo II en 1996, cuando dijo a la Academia Pontificia de las Ciencias que los nuevos conocimientos habían llevado a reconocer en la evolución «más que una hipótesis». Francis Collins, que dirigió el Proyecto Genoma Humano, defiende lo mismo a partir del propio genoma.",
-      "scienceStanding": "Compatible con la ciencia, porque no hace ninguna afirmación científica propia. Es también la postura con la que los críticos ateos discuten con más dureza, con el argumento de que un Dios que actúa solo mediante causas naturales ordinarias no hace ningún trabajo detectable.",
-      "quote": {
-        "text": "Dios, que no está limitado por el espacio ni por el tiempo, creó el universo y estableció las leyes naturales que lo gobiernan.",
-        "author": "Francis Collins",
-        "work": "The Language of God: A Scientist Presents Evidence for Belief",
-        "year": "2006",
-        "locator": "p. 178",
-        "sourceUrl": "https://en.wikipedia.org/wiki/The_Language_of_God",
-        "verified": true,
-        "original": {
-          "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
-          "language": "en"
-        }
-      }
-    }
-  ],
+    ]
+  },
   "whereItStands": "La mitad científica de esta pregunta está cerrada, y lo está desde hace mucho. La mitad abierta es filosófica, y está genuinamente abierta: ¿deja intacta una explicación natural completa del desarrollo de la vida la afirmación de que el mundo tiene un autor, o la vacía poco a poco de todo contenido?\n\nAmbas respuestas las sostienen personas cuidadosas que coinciden por entero en la biología. Dobzhansky y Dawkins no discreparían en un solo dato de un artículo de genética. Discrepan sobre lo que significan los datos, y eso no lo va a resolver más genética.\n\nUna cosa ha cambiado en el último siglo y merece decirse sin adornos. Las cuatro posturas cristianas no están igual de respaldadas. El creacionismo de la Tierra joven hace afirmaciones empíricas falsas. El diseño inteligente no ha establecido su afirmación central y perdió con claridad al ponerse a prueba ante un tribunal. El creacionismo de la Tierra antigua acierta sobre la Tierra y se equivoca sobre la descendencia. La creación evolutiva es la única de las cuatro que no choca con nada establecido, y es además la postura cristiana mayoritaria en el mundo.",
   "commonMistake": "Los ateos suelen tratar el creacionismo de la Tierra joven como si fuera la postura del cristianismo. Es una visión minoritaria, en gran medida norteamericana, de unos sesenta años en su forma actual, y rechazada por la Iglesia católica, la mayoría de las denominaciones protestantes y las iglesias ortodoxas. Derrotarla es fácil y no prueba casi nada sobre la discusión real, que es con gente que acepta todos los datos que estás a punto de citar.\n\nLos cristianos suelen pensar que aceptar la evolución les cuesta algo, y por eso defienden una postura científica que no tienen ningún motivo para sostener. La regla de su propia tradición, la de Agustín y Tomás de Aquino, era evitar apostar la Escritura a una afirmación sobre la naturaleza que pudiera venirse abajo.\n\nY ambos lados cometen juntos un error: tratar «creación» y «evolución» como respuestas a la misma pregunta, de modo que más de una tenga que significar menos de la otra. Casi nadie que lo haya pensado con cuidado, en ninguno de los dos lados, cree eso.",
   "sources": [
@@ -280,13 +305,13 @@
       "title": "The Blind Watchmaker",
       "author": "Richard Dawkins",
       "year": "1986",
-      "url": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker"
+      "url": "https://wwnorton.com/books/9780393351491"
     },
     {
       "title": "Darwin's Dangerous Idea: Evolution and the Meanings of Life",
       "author": "Daniel C. Dennett",
       "year": "1995",
-      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea"
+      "url": "https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710"
     },
     {
       "title": "Where the Conflict Really Lies: Science, Religion, and Naturalism",
@@ -317,7 +342,7 @@
       "title": "Darwin's Black Box: The Biochemical Challenge to Evolution",
       "author": "Michael J. Behe",
       "year": "1996",
-      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Black_Box"
+      "url": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319"
     },
     {
       "title": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005)",
@@ -336,7 +361,7 @@
       "title": "The Language of God: A Scientist Presents Evidence for Belief",
       "author": "Francis S. Collins",
       "year": "2006",
-      "url": "https://en.wikipedia.org/wiki/The_Language_of_God"
+      "url": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742"
     },
     {
       "title": "Mensaje a la Academia Pontificia de las Ciencias, 22 de octubre de 1996",
@@ -345,10 +370,17 @@
       "url": "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1996/documents/hf_jp-ii_mes_19961022_evoluzione.html"
     },
     {
-      "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+      "title": "Statement of Faith",
       "author": "John C. Whitcomb y Henry M. Morris",
+      "url": "https://answersingenesis.org/about/faith/",
+      "note": "The young-earth position stated by its largest advocacy organisation, in its own words."
+    },
+    {
+      "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+      "author": "John C. Whitcomb and Henry M. Morris",
       "year": "1961",
-      "url": "https://en.wikipedia.org/wiki/The_Genesis_Flood"
+      "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
+      "note": "The book that made young-earth creationism mainstream among American fundamentalists."
     }
   ]
 }

@@ -1,0 +1,98 @@
+---
+// Opens or closes every disclosure on the topic at once.
+//
+// Rendered hidden and revealed by its own script, because without JavaScript
+// each <details> still works on its own and a dead button would be worse than
+// no button.
+import type { Locale } from '../i18n';
+import { useTranslations } from '../i18n';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+---
+
+<div class="disclosure-controls" data-disclosure-controls hidden>
+  <button type="button" data-toggle-all aria-expanded="false">
+    <span data-label-expand>{t('topic.expandAll')}</span>
+    <span data-label-collapse hidden>{t('topic.collapseAll')}</span>
+  </button>
+</div>
+
+<style>
+  .disclosure-controls {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: var(--space-xs);
+  }
+
+  button {
+    padding: 0.3rem 0.75rem;
+    border: var(--hairline) solid var(--rule);
+    border-radius: var(--radius);
+    background: transparent;
+    color: var(--ink-muted);
+    font: inherit;
+    font-size: var(--step--1);
+    cursor: pointer;
+  }
+
+  button:hover {
+    border-color: var(--rule-strong);
+    color: var(--ink);
+  }
+
+  @media print {
+    .disclosure-controls {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  const controls = document.querySelector<HTMLElement>('[data-disclosure-controls]');
+  const button = controls?.querySelector<HTMLButtonElement>('[data-toggle-all]');
+  const panels = Array.from(document.querySelectorAll<HTMLDetailsElement>('[data-argument]'));
+
+  if (controls && button && panels.length > 0) {
+    const expandLabel = button.querySelector<HTMLElement>('[data-label-expand]');
+    const collapseLabel = button.querySelector<HTMLElement>('[data-label-collapse]');
+    controls.hidden = false;
+
+    function sync() {
+      const allOpen = panels.every((panel) => panel.open);
+      button!.setAttribute('aria-expanded', String(allOpen));
+      if (expandLabel) expandLabel.hidden = allOpen;
+      if (collapseLabel) collapseLabel.hidden = !allOpen;
+    }
+
+    button.addEventListener('click', () => {
+      const open = !panels.every((panel) => panel.open);
+      for (const panel of panels) panel.open = open;
+      sync();
+    });
+
+    for (const panel of panels) {
+      panel.addEventListener('toggle', sync);
+    }
+
+    // A link to a collapsed argument must land on an open one, whether the
+    // reader arrives with the fragment already in the URL or clicks one here.
+    function openTarget() {
+      const id = decodeURIComponent(window.location.hash.slice(1));
+      if (!id) return;
+      const target = document.getElementById(id);
+      if (target instanceof HTMLDetailsElement) {
+        target.open = true;
+        target.scrollIntoView({ block: 'start' });
+      }
+    }
+
+    window.addEventListener('hashchange', openTarget);
+    openTarget();
+    sync();
+  }
+</script>

@@ -26,9 +26,10 @@
     ],
     "quotationsHeading": "About the quotations",
     "quotations": [
-      "Every quotation on this site is meant to be a real quotation: the actual words, from the actual work, by the person named. Wording, work and year are checked before anything is published.",
-      "Where the exact wording could not be confirmed, we do not guess and we do not reconstruct. The passage is rewritten as a clearly labelled paraphrase in our own words, marked as a paraphrase in the page, and never dressed up in quotation marks.",
-      "No page number, edition or link on this site is invented. A missing quotation is a small loss. A fabricated one would make the whole site worthless."
+      "Every quotation on this site is meant to be a real quotation: the actual words, from the actual work, by the person named. Nothing is published without the wording, the work and the year being checked.",
+      "How far that check went is printed next to the quotation, because you should not have to take our word for it. Primary means someone here read the wording in the source text, or in a scan of it. Corroborated means it was confirmed across several independent sources but not yet read in the original. Paraphrase means it is our sentence, not the author's, written that way because the exact wording could not be confirmed; it is labelled, set in ordinary type, and never given quotation marks.",
+      "No page number, edition or link on this site is invented. A missing quotation is a small loss. A fabricated one would make the whole site worthless.",
+      "One rule matters more than the rest: no position is presented only in the words of its opponents. If a page states an argument, it quotes someone who actually holds it, and puts the reply next to it. A summary of a view written by people who reject it is not the view."
     ],
     "designHeading": "Why the page looks like this",
     "design": [
@@ -37,7 +38,6 @@
       "There is no comment system, no account, no newsletter and no tracking. The site is a set of static files."
     ]
   },
-
   "es": {
     "lede": "Este no es un sitio de apologética ni un sitio antirreligioso. Existe para que veas lo que cada lado sostiene realmente, en palabras de quienes mejor lo sostienen, y decidas por tu cuenta.",
     "rulesHeading": "Las reglas editoriales",
@@ -65,9 +65,10 @@
     ],
     "quotationsHeading": "Sobre las citas",
     "quotations": [
-      "Toda cita de este sitio pretende ser una cita real: las palabras reales, de la obra real, de la persona nombrada. La formulación, la obra y el año se comprueban antes de publicar nada.",
-      "Cuando no se ha podido confirmar la formulación exacta, no adivinamos ni reconstruimos. El pasaje se reescribe como paráfrasis con nuestras propias palabras, se marca como paráfrasis en la página y nunca se disfraza con comillas.",
-      "Ninguna página, edición o enlace de este sitio está inventado. Que falte una cita es una pérdida pequeña. Una cita falsa dejaría sin valor todo el sitio."
+      "Toda cita de este sitio pretende ser una cita real: las palabras reales, de la obra real, de la persona nombrada. Nada se publica sin comprobar la formulación, la obra y el año.",
+      "Hasta dónde llegó esa comprobación aparece junto a la cita, porque no deberías tener que fiarte de nuestra palabra. «Primaria» significa que alguien aquí leyó la formulación en el texto fuente, o en una reproducción. «Corroborada» significa que se confirmó en varias fuentes independientes, pero todavía no se ha leído en el original. «Paráfrasis» significa que la frase es nuestra y no del autor, escrita así porque no se pudo confirmar la formulación exacta; va etiquetada, en letra normal, y nunca entre comillas.",
+      "Ninguna página, edición o enlace de este sitio está inventado. Que falte una cita es una pérdida pequeña. Una cita falsa dejaría sin valor todo el sitio.",
+      "Una regla importa más que las demás: ninguna postura se presenta solo con las palabras de quienes la rechazan. Si una página enuncia un argumento, cita a alguien que realmente lo sostiene, y pone la respuesta al lado. El resumen de una posición escrito por sus adversarios no es esa posición."
     ],
     "designHeading": "Por qué la página se ve así",
     "design": [
@@ -76,7 +77,6 @@
       "No hay comentarios, ni cuentas, ni boletín, ni rastreo. El sitio es un conjunto de archivos estáticos."
     ]
   },
-
   "fr": {
     "lede": "Ce site n'est ni un site d'apologétique ni un site antireligieux. Il existe pour que vous puissiez voir ce que chaque camp soutient réellement, dans les mots de ceux qui le soutiennent le mieux, et vous faire votre propre idée.",
     "rulesHeading": "Les règles éditoriales",
@@ -104,9 +104,10 @@
     ],
     "quotationsHeading": "À propos des citations",
     "quotations": [
-      "Toute citation de ce site se veut une citation réelle : les mots réels, de l'œuvre réelle, de la personne nommée. La formulation, l'œuvre et l'année sont vérifiées avant toute publication.",
-      "Lorsque la formulation exacte n'a pas pu être confirmée, nous ne devinons pas et nous ne reconstituons pas. Le passage est réécrit comme une paraphrase dans nos propres mots, signalé comme tel sur la page, et jamais habillé de guillemets.",
-      "Aucune page, édition ou adresse de ce site n'est inventée. Une citation manquante est une petite perte. Une citation fabriquée rendrait le site entier sans valeur."
+      "Toute citation de ce site se veut une citation réelle : les mots réels, de l'œuvre réelle, de la personne nommée. Rien n'est publié sans que la formulation, l'œuvre et l'année aient été vérifiées.",
+      "Jusqu'où cette vérification est allée est indiqué à côté de la citation, car vous ne devriez pas avoir à nous croire sur parole. « Primaire » signifie que quelqu'un ici a lu la formulation dans le texte source, ou dans une reproduction. « Corroborée » signifie qu'elle a été confirmée par plusieurs sources indépendantes, mais pas encore lue dans l'original. « Paraphrase » signifie que la phrase est la nôtre et non celle de l'auteur, écrite ainsi parce que la formulation exacte n'a pas pu être confirmée ; elle est signalée, en caractères ordinaires, et jamais mise entre guillemets.",
+      "Aucune page, édition ou adresse de ce site n'est inventée. Une citation manquante est une petite perte. Une citation fabriquée rendrait le site entier sans valeur.",
+      "Une règle compte plus que les autres : aucune position n'est présentée uniquement dans les mots de ses adversaires. Si une page énonce un argument, elle cite quelqu'un qui le défend réellement, et place la réponse à côté. Le résumé d'une position écrit par ceux qui la rejettent n'est pas cette position."
     ],
     "designHeading": "Pourquoi la page ressemble à cela",
     "design": [
@@ -115,7 +116,6 @@
       "Pas de commentaires, pas de comptes, pas d'infolettre, pas de traçage. Le site est un ensemble de fichiers statiques."
     ]
   },
-
   "de": {
     "lede": "Dies ist weder eine apologetische noch eine religionsfeindliche Seite. Sie existiert, damit du siehst, was jede Seite tatsächlich vorbringt, in den Worten derer, die es am besten vorbringen, und dir dann selbst ein Urteil bildest.",
     "rulesHeading": "Die redaktionellen Regeln",
@@ -143,9 +143,10 @@
     ],
     "quotationsHeading": "Zu den Zitaten",
     "quotations": [
-      "Jedes Zitat auf dieser Seite soll ein echtes Zitat sein: die tatsächlichen Worte, aus dem tatsächlichen Werk, von der genannten Person. Wortlaut, Werk und Jahr werden geprüft, bevor irgendetwas veröffentlicht wird.",
-      "Ließ sich der genaue Wortlaut nicht bestätigen, raten wir nicht und rekonstruieren wir nicht. Die Stelle wird als klar gekennzeichnete Paraphrase mit unseren Worten wiedergegeben, auf der Seite als Paraphrase markiert und nie in Anführungszeichen gekleidet.",
-      "Keine Seitenzahl, keine Ausgabe und kein Link auf dieser Seite ist erfunden. Ein fehlendes Zitat ist ein kleiner Verlust. Ein erfundenes würde die ganze Seite wertlos machen."
+      "Jedes Zitat auf dieser Seite soll ein echtes Zitat sein: die tatsächlichen Worte, aus dem tatsächlichen Werk, von der genannten Person. Nichts wird veröffentlicht, ohne dass Wortlaut, Werk und Jahr geprüft wurden.",
+      "Wie weit diese Prüfung ging, steht neben dem Zitat, denn Sie sollen uns das nicht einfach glauben müssen. «Primär» heißt, jemand hier hat den Wortlaut im Quelltext gelesen oder in einer Reproduktion. «Bestätigt» heißt, er wurde durch mehrere unabhängige Quellen bestätigt, aber noch nicht im Original gelesen. «Paraphrase» heißt, der Satz ist unserer und nicht der des Autors, so geschrieben, weil sich der genaue Wortlaut nicht bestätigen ließ; sie ist gekennzeichnet, steht in gewöhnlicher Schrift und nie in Anführungszeichen.",
+      "Keine Seitenzahl, keine Ausgabe und kein Link auf dieser Seite ist erfunden. Ein fehlendes Zitat ist ein kleiner Verlust. Ein erfundenes würde die ganze Seite wertlos machen.",
+      "Eine Regel wiegt schwerer als die übrigen: Keine Position wird nur in den Worten ihrer Gegner dargestellt. Wo eine Seite ein Argument vorbringt, zitiert sie jemanden, der es tatsächlich vertritt, und stellt die Erwiderung daneben. Die Zusammenfassung einer Auffassung durch ihre Gegner ist nicht diese Auffassung."
     ],
     "designHeading": "Warum die Seite so aussieht",
     "design": [
@@ -154,7 +155,6 @@
       "Es gibt keine Kommentare, keine Konten, keinen Newsletter und kein Tracking. Die Seite besteht aus statischen Dateien."
     ]
   },
-
   "hu": {
     "lede": "Ez nem apologetikai és nem is vallásellenes honlap. Azért készült, hogy lásd, mit állít valójában mindkét oldal, azoknak a szavaival, akik a legjobban képviselik, és aztán magad döntsd el, mit gondolsz.",
     "rulesHeading": "A szerkesztési szabályok",
@@ -182,9 +182,10 @@
     ],
     "quotationsHeading": "Az idézetekről",
     "quotations": [
-      "A honlap minden idézete valódi idézet kíván lenni: a tényleges szöveg, a tényleges műből, a megnevezett szerzőtől. A szöveget, a művet és az évszámot közlés előtt ellenőrizzük.",
-      "Ahol a pontos szöveget nem sikerült megerősíteni, ott nem találgatunk és nem rekonstruálunk. A helyet a saját szavainkkal, egyértelműen jelölt parafrázisként adjuk vissza, az oldalon parafrázisként megjelölve, és soha nem öltöztetjük idézőjelbe.",
-      "Ezen a honlapon egyetlen oldalszám, kiadás vagy hivatkozás sem kitalált. Egy hiányzó idézet kis veszteség. Egy koholt idézet az egész honlapot értéktelenné tenné."
+      "A honlap minden idézete valódi idézet kíván lenni: a tényleges szöveg, a tényleges műből, a megnevezett szerzőtől. Semmit nem közlünk anélkül, hogy a szöveget, a művet és az évszámot ellenőriznénk.",
+      "Hogy meddig jutott ez az ellenőrzés, az idézet mellett szerepel, mert nem kellene pusztán a szavunkat elhinned. Az „elsődleges” azt jelenti, hogy valaki itt elolvasta a szöveget a forrásban vagy annak másolatában. A „megerősítve” azt jelenti, hogy több független forrás megerősíti, de az eredetiben még nem olvastuk. A „parafrázis” azt jelenti, hogy a mondat a miénk és nem a szerzőé, azért így, mert a pontos szöveget nem sikerült megerősíteni; jelölve van, rendes betűvel szedjük, és soha nem tesszük idézőjelbe.",
+      "Ezen a honlapon egyetlen oldalszám, kiadás vagy hivatkozás sem kitalált. Egy hiányzó idézet kis veszteség. Egy koholt idézet az egész honlapot értéktelenné tenné.",
+      "Egy szabály a többinél is fontosabb: egyetlen álláspontot sem mutatunk be pusztán az ellenfelei szavaival. Ha egy oldal megfogalmaz egy érvet, olyasvalakit idéz, aki ténylegesen képviseli, és mellé teszi a választ. Egy nézet összefoglalása azoktól, akik elutasítják, nem maga a nézet."
     ],
     "designHeading": "Miért így néz ki az oldal",
     "design": [

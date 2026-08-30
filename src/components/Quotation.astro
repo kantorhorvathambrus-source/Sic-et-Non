@@ -1,9 +1,10 @@
 ---
-// Renders one quotation.
+// Renders one quotation, with its verification level shown rather than implied.
 //
-// A quotation with verified:false is never presented as if the writer said these
-// words. It is labelled a paraphrase, set in roman rather than the quoted italic,
-// and given no quotation marks.
+// A quotation whose wording we have not read in the original says so. A
+// paraphrase is never dressed as a quotation: it is set in roman, without
+// quotation marks, and labelled. Only a quotation verified against the source
+// text itself is presented plainly.
 import type { Locale } from '../i18n';
 import { useTranslations } from '../i18n';
 import type { CollectionEntry } from 'astro:content';
@@ -19,6 +20,11 @@ interface Props {
 
 const { quote, locale, side = 'neutral' } = Astro.props;
 const t = useTranslations(locale);
+
+const isParaphrase = quote.verification === 'paraphrase';
+// "primary" needs no note: it is the standard the site claims by default.
+const flagged = quote.verification !== 'primary';
+
 // Some works carry their own date ("Letter to Asa Gray, 22 May 1860"), so the
 // year is appended only when it is not already there.
 const cite = quote.work.includes(quote.year)
@@ -26,12 +32,15 @@ const cite = quote.work.includes(quote.year)
   : `${quote.work}, ${quote.year}`;
 ---
 
-<figure class:list={['quotation', `side-${side}`, { paraphrase: !quote.verified }]}>
+<figure
+  class:list={['quotation', `side-${side}`, { paraphrase: isParaphrase }]}
+  data-verification={quote.verification}
+>
   {
-    !quote.verified && (
-      <p class="paraphrase-flag">
-        <strong>{t('quote.paraphrase')}</strong>
-        <span>{t('quote.paraphraseNote')}</span>
+    flagged && (
+      <p class="verification">
+        <strong>{t(`quote.verification.${quote.verification}`)}</strong>
+        <span>{t(`quote.verification.${quote.verification}.note`)}</span>
       </p>
     )
   }
@@ -109,7 +118,7 @@ const cite = quote.work.includes(quote.year)
     content: none;
   }
 
-  .paraphrase-flag {
+  .verification {
     display: flex;
     flex-wrap: wrap;
     gap: 0 var(--space-xs);
@@ -118,11 +127,17 @@ const cite = quote.work.includes(quote.year)
     color: var(--ink-faint);
   }
 
-  .paraphrase-flag strong {
+  .verification strong {
     text-transform: uppercase;
     letter-spacing: 0.08em;
     font-size: 0.82em;
     color: var(--ink-muted);
+  }
+
+  /* Corroborated is the normal state for most of the library, so its note is
+     quiet; a paraphrase is exceptional and reads at full strength. */
+  [data-verification='corroborated'] .verification span {
+    font-size: 0.92em;
   }
 
   .original {

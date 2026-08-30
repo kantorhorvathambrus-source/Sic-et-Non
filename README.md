@@ -20,7 +20,7 @@ Individual commands:
 | Command | What it does |
 |---|---|
 | `npm run check` | `astro check` — types and Astro diagnostics |
-| `npm run verify:content` | content rules: every quote needs author, work, year, sourceUrl, verified |
+| `npm run verify:content` | content rules, and prints the verification mix per topic |
 | `npm run build` | runs the content check, then builds to `dist/` |
 | `npm run linkcheck` | every internal link and `#anchor` in `dist/` resolves (`--external` also fetches outbound URLs) |
 | `npm run search:index` | Pagefind index; not wired into the build until the search milestone |
@@ -42,9 +42,16 @@ src/
   styles/tokens.css        the design tokens, including the two matched side hues
 ```
 
-Content is data. The same topic file renders as the standard two-column page and
-as the argument map (`.../map`), which walks each argument as
+Content is data. One topic file renders three ways: the default view, where each
+argument is a single line; the same page with arguments expanded; and the
+argument map at `.../map`, which walks each argument as
 claim → strongest objection → response.
+
+Expansion is `<details>`/`<summary>`, not a scripted show/hide, so the text is in
+the DOM whether open or shut — indexed by search, reachable by keyboard, found by
+find-in-page, and printed. The "expand all" control ships `hidden` and is revealed
+by its own script, so without JavaScript there is no dead button and every
+disclosure still works.
 
 ### Routes
 
@@ -63,11 +70,19 @@ reader's current anchor across.
 
 ## Quotations
 
-Read `CONTENT.md` before adding one. The short version: only real quotations,
-checked before they are written into a file; if the exact wording cannot be
-confirmed, write a paraphrase in your own words and set `verified: false`, and
-the page will label it as a paraphrase; never invent a page number, an edition
-or a URL.
+Read the checklist in `CONTENT.md` before adding one. The two rules that matter
+most:
+
+**No position is presented only in the words of its opponents.** If a page states
+an argument, it quotes someone who actually holds it, and puts the reply beside
+it. The build fails on an argument that carries a critic's quote and no
+defender's.
+
+**Say how far the wording was checked.** `verification` is `primary` (read in the
+source text), `corroborated` (confirmed across independent sources but not read
+in the original) or `paraphrase` (our own words). The last two are labelled in
+the page, so the standard is visible to the reader instead of buried in this
+repository. Never invent a page number, an edition or a URL.
 
 ## Deployment
 

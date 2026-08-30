@@ -6,8 +6,8 @@
 //   node scripts/i18n-tools/build-locale.mjs <locale> <payload.json>
 //
 // Every quotation keeps the source wording in `original`, which the page shows
-// underneath the translation in smaller type. Paraphrases (verified: false) get
-// no `original`, because the sentence is ours, not the author's.
+// underneath the translation in smaller type. Paraphrases get no `original`,
+// because the sentence is ours, not the author's.
 
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -34,7 +34,9 @@ function translateQuote(quote, text, workLabel) {
   if (!quote) return undefined;
   const out = { ...quote, text: need(text, 'a quote translation') };
   if (workLabel) out.work = workLabel;
-  if (quote.verified) out.original = { text: quote.text, language: 'en' };
+  if (quote.verification !== 'paraphrase') {
+    out.original = { text: quote.text, language: 'en' };
+  }
   return out;
 }
 
@@ -44,7 +46,7 @@ const out = {
   title: need(t.title, 'title'),
   realQuestion: need(t.realQuestion, 'realQuestion'),
   settledCore: need(t.settledCore, 'settledCore'),
-  glossary: source.glossary.map((entry, i) => ({
+  glossary: source.glossary.map((_entry, i) => ({
     term: need(t.glossary[i]?.term, `glossary[${i}].term`),
     definition: need(t.glossary[i]?.definition, `glossary[${i}].definition`),
   })),
@@ -69,20 +71,27 @@ const out = {
       };
     }),
   })),
-  familyPositions: source.familyPositions.map((position, p) => {
-    const tr = need(t.familyPositions[p], `familyPositions[${p}]`);
-    if (tr.id !== position.id) {
-      throw new Error(`position ${p}: payload id "${tr.id}" != source id "${position.id}"`);
-    }
-    return {
-      ...position,
-      name: need(tr.name, 'name'),
-      heldBy: need(tr.heldBy, 'heldBy'),
-      summary: need(tr.summary, 'summary'),
-      scienceStanding: need(tr.scienceStanding, 'scienceStanding'),
-      quote: translateQuote(position.quote, tr.quote, tr.work),
-    };
-  }),
+  context: source.context && {
+    ...source.context,
+    heading: need(t.context?.heading, 'context.heading'),
+    intro: source.context.intro ? need(t.context?.intro, 'context.intro') : undefined,
+    entries: source.context.entries.map((entry, e) => {
+      const tr = need(t.context?.entries?.[e], `context.entries[${e}]`);
+      if (tr.id !== entry.id) {
+        throw new Error(`context entry ${e}: payload id "${tr.id}" != source id "${entry.id}"`);
+      }
+      return {
+        ...entry,
+        name: need(tr.name, 'name'),
+        heldBy: need(tr.heldBy, 'heldBy'),
+        oneLine: need(tr.oneLine, 'oneLine'),
+        summary: need(tr.summary, 'summary'),
+        standing: need(tr.standing, 'standing'),
+        quote: translateQuote(entry.quote, tr.quote, tr.work),
+        standingQuote: translateQuote(entry.standingQuote, tr.standingQuote, tr.standingWork),
+      };
+    }),
+  },
   whereItStands: need(t.whereItStands, 'whereItStands'),
   commonMistake: need(t.commonMistake, 'commonMistake'),
   sources: source.sources.map((entry, i) => ({

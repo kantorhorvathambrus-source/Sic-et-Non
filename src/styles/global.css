@@ -85,6 +85,16 @@ img {
   height: auto;
 }
 
+/*
+  Author styles beat the user-agent sheet, so any rule that sets `display` on an
+  element would otherwise defeat its own `hidden` attribute. Progressive
+  enhancement here depends on `hidden` actually hiding: a control that only works
+  with JavaScript ships hidden and is revealed by its own script.
+*/
+[hidden] {
+  display: none !important;
+}
+
 hr {
   border: 0;
   border-top: var(--hairline) solid var(--rule);

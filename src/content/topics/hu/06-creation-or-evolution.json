@@ -48,8 +48,8 @@
             "work": "The Blind Watchmaker (A vak órásmester)",
             "year": "1986",
             "locator": "p. 6",
-            "sourceUrl": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker",
-            "verified": true,
+            "sourceUrl": "https://wwnorton.com/books/9780393351491",
+            "verification": "corroborated",
             "original": {
               "text": "Although atheism might have been logically tenable before Darwin, Darwin made it possible to be an intellectually fulfilled atheist.",
               "language": "en"
@@ -71,7 +71,7 @@
             "year": "1860",
             "locator": "DCP-LETT-2814",
             "sourceUrl": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice.",
               "language": "en"
@@ -91,8 +91,8 @@
             "author": "Daniel Dennett",
             "work": "Darwin's Dangerous Idea (Darwin veszélyes ideája)",
             "year": "1995",
-            "sourceUrl": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea",
-            "verified": true,
+            "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710",
+            "verification": "corroborated",
             "original": {
               "text": "a skyhook is a \"mind-first\" force or power or process, an exception to the principle that all design, and apparent design, is ultimately the result of mindless, motiveless mechanicity.",
               "language": "en"
@@ -120,7 +120,7 @@
             "year": "1973",
             "locator": "pp. 125-129",
             "sourceUrl": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "I am a creationist and an evolutionist. Evolution is God's, or Nature's method of creation.",
               "language": "en"
@@ -142,7 +142,7 @@
             "year": "c. 415",
             "locator": "Book I, ch. 19",
             "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
               "language": "en"
@@ -164,7 +164,7 @@
             "year": "2011",
             "locator": "preface, p. ix",
             "sourceUrl": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "there is superficial conflict but deep concord between science and theistic religion, but superficial concord and deep conflict between science and naturalism",
               "language": "en"
@@ -178,81 +178,106 @@
       ]
     }
   ],
-  "familyPositions": [
-    {
-      "id": "young-earth-creationism",
-      "name": "Fiatal Föld-kreacionizmus",
-      "heldBy": "A protestáns keresztények kisebbsége, főként az Egyesült Államokban; intézményesen az Answers in Genesis és az Institute for Creation Research.",
-      "summary": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt, a kövületeket tartalmazó kőzetrétegeket pedig Noé özönvize rakta le, nem pedig korszakok.\n\nMai formája újabb keletű, mint sokan gondolnák. Ronald Numbers tudománytörténész a hetednapi adventista George McCready Price-ig vezette vissza, fundamentalista ortodoxiává válását pedig a The Genesis Flood 1961-es megjelenéséig. A tizenkilencedik századi konzervatív protestánsok közül sokan minden nehézség nélkül elfogadták az idős Földet.",
-      "scienceStanding": "Elutasítva. A radiometrikus kormeghatározás, a jégfuratminták, a lemeztektonika, a korallok növekedési gyűrűi és a távoli galaxisok fényének terjedési ideje egymással egybehangzanak, a fiatal Földdel viszont nem. Itt nincs tudományos vita, amiről beszámolhatnánk.",
-      "quote": {
-        "text": "Whitcomb és Morris azt állította, hogy a Biblia Isten tévedhetetlen szava, hogy a földtani rétegsort Noé özönvize hozta létre, nem pedig hosszú korszakok, és hogy a fősodratú geológia lassú, egyenletes folyamatokra vonatkozó feltevését ezen az alapon el kell vetni.",
-        "author": "John C. Whitcomb and Henry M. Morris",
-        "work": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
-        "year": "1961",
-        "sourceUrl": "https://en.wikipedia.org/wiki/The_Genesis_Flood",
-        "verified": false
-      }
-    },
-    {
-      "id": "old-earth-creationism",
-      "name": "Idős Föld-kreacionizmus",
-      "heldBy": "Konzervatív protestánsok, akik elfogadják a fősodratú geológiát, de a közös leszármazást nem; történetileg Charles Hodge, ma például a Reasons to Believe.",
-      "summary": "A Föld valóban több milliárd éves, és a földtani rétegoszlop valóságos; a Teremtés könyvének napjai korszakok, vagy irodalmi keret. Nem a mélyidőt tagadják, hanem az iránytalan közös leszármazást.\n\nCharles Hodge, a tizenkilencedik századi Amerika legjelentősebb konzervatív teológusa pontosan ezt a vonalat képviselte. Az idős Földdel semmi baja nem volt. A célszerűség természetből való kizárásával volt baja.",
-      "scienceStanding": "Az idős Föld helytálló. Az alaptípusok külön teremtése nem: a közös leszármazás ugyanazon a genomikai bizonyítékon nyugszik, amelyen az orvostudomány és az igazságügyi szakértés, valamint olyan átmeneti kövületeken, amelyeket megjósoltak, mielőtt megtalálták volna.",
-      "quote": {
-        "text": "Mi a darwinizmus? Ateizmus. Ez nem azt jelenti, ahogyan már mondtuk, hogy maga Darwin úr és mindazok, akik nézeteit átveszik, ateisták volnának; hanem azt jelenti, hogy az elmélete ateista, hogy a tervezettség kizárása a természetből, ahogyan Gray doktor mondja, egyenértékű az ateizmussal.",
-        "author": "Charles Hodge",
-        "work": "What is Darwinism?",
-        "year": "1874",
-        "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
-        "verified": true,
-        "original": {
-          "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
-          "language": "en"
+  "context": {
+    "heading": "Négy keresztény álláspont",
+    "intro": "Az e négy közötti vita a kereszténységen belül zajlik, nem a kereszténység és az ateizmus között, ezért szerepel külön a fenti két oldaltól. Minden álláspontot olyasvalaki fogalmaz meg, aki képviseli, és utána válaszolunk rá.",
+    "entries": [
+      {
+        "id": "young-earth-creationism",
+        "name": "Fiatal Föld-kreacionizmus",
+        "heldBy": "A protestáns keresztények kisebbsége, főként az Egyesült Államokban; intézményesen az Answers in Genesis és az Institute for Creation Research.",
+        "oneLine": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt, a kövületes kőzetet pedig Noé özönvize rakta le.",
+        "summary": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt, a kövületeket tartalmazó kőzetrétegeket pedig Noé özönvize rakta le, nem pedig korszakok.\n\nMai formája újabb keletű, mint sokan gondolnák. Ronald Numbers tudománytörténész a hetednapi adventista George McCready Price-ig vezette vissza, fundamentalista ortodoxiává válását pedig a The Genesis Flood 1961-es megjelenéséig. A tizenkilencedik századi konzervatív protestánsok közül sokan minden nehézség nélkül elfogadták az idős Földet.",
+        "quote": {
+          "text": "Semmilyen látszólagos, vélt vagy állított bizonyíték egyetlen tudományterületen sem, beleértve a természettudományt, a történelmet és a kronológiát, nem lehet érvényes, ha ellentmond a Szentírás világos tanításának, amelyet történeti-nyelvtani értelmezéssel nyerünk.",
+          "author": "Answers in Genesis",
+          "work": "Hitvallás, a Szentírásról szóló szakasz",
+          "year": "current",
+          "sourceUrl": "https://answersingenesis.org/about/faith/",
+          "verification": "corroborated",
+          "original": {
+            "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
+            "language": "en"
+          }
+        },
+        "standing": "Elutasítva. A radiometrikus kormeghatározás, a jégfuratminták, a lemeztektonika, a korallok növekedési gyűrűi és a távoli galaxisok fényének terjedési ideje egymással egybehangzanak, a fiatal Földdel viszont nem. Itt nincs tudományos vita, amiről beszámolhatnánk."
+      },
+      {
+        "id": "old-earth-creationism",
+        "name": "Idős Föld-kreacionizmus",
+        "heldBy": "Konzervatív protestánsok, akik elfogadják a fősodratú geológiát, de a közös leszármazást nem; történetileg Charles Hodge, ma például a Reasons to Believe.",
+        "oneLine": "A Föld valóban több milliárd éves, de Isten a nagy alaptípusokat külön teremtette, nem közös leszármazással.",
+        "summary": "A Föld valóban több milliárd éves, és a földtani rétegoszlop valóságos; a Teremtés könyvének napjai korszakok, vagy irodalmi keret. Nem a mélyidőt tagadják, hanem az iránytalan közös leszármazást.\n\nCharles Hodge, a tizenkilencedik századi Amerika legjelentősebb konzervatív teológusa pontosan ezt a vonalat képviselte. Az idős Földdel semmi baja nem volt. A célszerűség természetből való kizárásával volt baja.",
+        "quote": {
+          "text": "Mi a darwinizmus? Ateizmus. Ez nem azt jelenti, ahogyan már mondtuk, hogy maga Darwin úr és mindazok, akik nézeteit átveszik, ateisták volnának; hanem azt jelenti, hogy az elmélete ateista, hogy a tervezettség kizárása a természetből, ahogyan Gray doktor mondja, egyenértékű az ateizmussal.",
+          "author": "Charles Hodge",
+          "work": "What is Darwinism?",
+          "year": "1874",
+          "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
+          "verification": "corroborated",
+          "original": {
+            "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
+            "language": "en"
+          }
+        },
+        "standing": "Az idős Föld helytálló. Az alaptípusok külön teremtése nem: a közös leszármazás ugyanazon a genomikai bizonyítékon nyugszik, amelyen az orvostudomány és az igazságügyi szakértés, valamint olyan átmeneti kövületeken, amelyeket megjósoltak, mielőtt megtalálták volna."
+      },
+      {
+        "id": "intelligent-design",
+        "name": "Intelligens tervezés",
+        "heldBy": "A Discovery Institute-hoz kötődik; Michael Behe, William Dembski, Stephen Meyer.",
+        "oneLine": "Egyes biológiai rendszerekhez minden alkatrész egyszerre kell ahhoz, hogy egyáltalán működjenek, így a tervezettség jobb következtetés, mint a lépésenkénti szelekció.",
+        "summary": "Az intelligens tervezés elfogadja az idős Földet, Behe esetében pedig a közös leszármazást is. Állítása szűkebb: egyes biológiai szerkezetek [[irreducibilisen komplexek|irreducibilis komplexitás]], vagyis minden alkatrészre szükség van ahhoz, hogy a rendszer működjön, így a szelekció nem tudja őket hasznos köztes lépéseken át felépíteni. A tervezettséget a bizonyítékokból levont következtetésként kínálják, nem a Szentírásból.\n\nKépviselői hozzáteszik, hogy a fősodratú tudomány eleve kizárja a tervezettséget, mert a [[módszertani naturalizmust|módszertani naturalizmus]] alapszabályként veszi fel, nem pedig eredményként jut el hozzá.",
+        "quote": {
+          "text": "Irreducibilisen komplexen olyan egyetlen rendszert értek, amely több, egymáshoz jól illeszkedő, kölcsönhatásban álló alkatrészből áll, amelyek hozzájárulnak az alapfunkcióhoz, és amelyben bármelyik alkatrész eltávolítása gyakorlatilag működésképtelenné teszi a rendszert.",
+          "author": "Michael J. Behe",
+          "work": "Darwin's Black Box: The Biochemical Challenge to Evolution",
+          "year": "1996",
+          "locator": "p. 39",
+          "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319",
+          "verification": "corroborated",
+          "original": {
+            "text": "By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning.",
+            "language": "en"
+          }
+        },
+        "standing": "Tudományként nem elfogadott. A konkrét példákra, mindenekelőtt a bakteriális ostorra és a véralvadási kaszkádra, lépésről lépésre haladó evolúciós magyarázatok születtek, amelyek más funkciójú alkatrészekre támaszkodnak. A Kitzmiller kontra Dover perben (2005) egy szövetségi bíróság tárgyaláson vizsgálta meg az állítást, és kimondta, hogy nem tudomány. Sok keresztény szintén elutasítja, mint a [[hézagok Istene]] típusú érvet, amely a biológia előrehaladtával zsugorodik.",
+        "standingQuote": {
+          "text": "Foglalkoztunk azzal az alapvető kérdéssel, hogy az IT tudomány-e. Arra a következtetésre jutottunk, hogy nem az, sőt hogy az IT nem tudja levágni magát kreacionista, és így vallási előzményeiről.",
+          "author": "Judge John E. Jones III",
+          "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
+          "year": "2005",
+          "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+          "verification": "corroborated",
+          "original": {
+            "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
+            "language": "en"
+          }
         }
+      },
+      {
+        "id": "evolutionary-creation",
+        "name": "Evolúciós teremtés, vagy teista evolúció",
+        "heldBy": "A világ keresztényei között a többségi álláspont, beleértve a katolikus egyházat, a legtöbb történelmi protestáns egyházat és az ortodox egyházakat; Francis Collins, Alister McGrath, BioLogos.",
+        "oneLine": "Az evolúciót teljes egészében elfogadja, és úgy érti, mint azt az eszközt, amellyel Isten teremtett.",
+        "summary": "Az evolúciót teljes egészében elfogadja, és úgy érti, mint azt az eszközt, amellyel Isten teremtett. Semmilyen tudományos állítást nem tagad, és semmilyen hézagot nem tart fenn.\n\nA katolikus álláspontot II. János Pál fogalmazta meg 1996-ban, amikor azt mondta a Pápai Tudományos Akadémiának, hogy az új ismeretek nyomán az evolúcióban „több mint hipotézist” kell elismerni. Francis Collins, aki a Humán Genom Projektet vezette, ugyanezt magából a genomból vezeti le.",
+        "quote": {
+          "text": "Isten, akit nem korlátoz tér és idő, megteremtette a világegyetemet, és megalkotta az azt kormányzó természeti törvényeket.",
+          "author": "Francis Collins",
+          "work": "The Language of God: A Scientist Presents Evidence for Belief",
+          "year": "2006",
+          "locator": "p. 178",
+          "sourceUrl": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742",
+          "verification": "corroborated",
+          "original": {
+            "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
+            "language": "en"
+          }
+        },
+        "standing": "Összefér a tudománnyal, mert maga nem tesz tudományos állítást. Egyben ez az az álláspont, amellyel az ateista bírálók a legélesebben vitatkoznak, azon az alapon, hogy egy Isten, aki csak hétköznapi természeti okokon keresztül cselekszik, semmi észlelhető munkát nem végez."
       }
-    },
-    {
-      "id": "intelligent-design",
-      "name": "Intelligens tervezés",
-      "heldBy": "A Discovery Institute-hoz kötődik; Michael Behe, William Dembski, Stephen Meyer.",
-      "summary": "Az intelligens tervezés elfogadja az idős Földet, Behe esetében pedig a közös leszármazást is. Állítása szűkebb: egyes biológiai szerkezetek [[irreducibilisen komplexek|irreducibilis komplexitás]], vagyis minden alkatrészre szükség van ahhoz, hogy a rendszer működjön, így a szelekció nem tudja őket hasznos köztes lépéseken át felépíteni. A tervezettséget a bizonyítékokból levont következtetésként kínálják, nem a Szentírásból.\n\nKépviselői hozzáteszik, hogy a fősodratú tudomány eleve kizárja a tervezettséget, mert a [[módszertani naturalizmust|módszertani naturalizmus]] alapszabályként veszi fel, nem pedig eredményként jut el hozzá.",
-      "scienceStanding": "Tudományként nem elfogadott. A konkrét példákra, mindenekelőtt a bakteriális ostorra és a véralvadási kaszkádra, lépésről lépésre haladó evolúciós magyarázatok születtek, amelyek más funkciójú alkatrészekre támaszkodnak. A Kitzmiller kontra Dover perben (2005) egy szövetségi bíróság tárgyaláson vizsgálta meg az állítást, és kimondta, hogy nem tudomány. Sok keresztény szintén elutasítja, mint a [[hézagok Istene]] típusú érvet, amely a biológia előrehaladtával zsugorodik.",
-      "quote": {
-        "text": "Foglalkoztunk azzal az alapvető kérdéssel, hogy az IT tudomány-e. Arra a következtetésre jutottunk, hogy nem az, sőt hogy az IT nem tudja levágni magát kreacionista, és így vallási előzményeiről.",
-        "author": "Judge John E. Jones III",
-        "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
-        "year": "2005",
-        "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
-        "verified": true,
-        "original": {
-          "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
-          "language": "en"
-        }
-      }
-    },
-    {
-      "id": "evolutionary-creation",
-      "name": "Evolúciós teremtés, vagy teista evolúció",
-      "heldBy": "A világ keresztényei között a többségi álláspont, beleértve a katolikus egyházat, a legtöbb történelmi protestáns egyházat és az ortodox egyházakat; Francis Collins, Alister McGrath, BioLogos.",
-      "summary": "Az evolúciót teljes egészében elfogadja, és úgy érti, mint azt az eszközt, amellyel Isten teremtett. Semmilyen tudományos állítást nem tagad, és semmilyen hézagot nem tart fenn.\n\nA katolikus álláspontot II. János Pál fogalmazta meg 1996-ban, amikor azt mondta a Pápai Tudományos Akadémiának, hogy az új ismeretek nyomán az evolúcióban „több mint hipotézist” kell elismerni. Francis Collins, aki a Humán Genom Projektet vezette, ugyanezt magából a genomból vezeti le.",
-      "scienceStanding": "Összefér a tudománnyal, mert maga nem tesz tudományos állítást. Egyben ez az az álláspont, amellyel az ateista bírálók a legélesebben vitatkoznak, azon az alapon, hogy egy Isten, aki csak hétköznapi természeti okokon keresztül cselekszik, semmi észlelhető munkát nem végez.",
-      "quote": {
-        "text": "Isten, akit nem korlátoz tér és idő, megteremtette a világegyetemet, és megalkotta az azt kormányzó természeti törvényeket.",
-        "author": "Francis Collins",
-        "work": "The Language of God: A Scientist Presents Evidence for Belief",
-        "year": "2006",
-        "locator": "p. 178",
-        "sourceUrl": "https://en.wikipedia.org/wiki/The_Language_of_God",
-        "verified": true,
-        "original": {
-          "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
-          "language": "en"
-        }
-      }
-    }
-  ],
+    ]
+  },
   "whereItStands": "A kérdés tudományos fele lezárult, és már régóta. Ami nyitva maradt, az filozófiai, és valóban nyitva van: érintetlenül hagyja-e azt az állítást, hogy a világnak van szerzője, egy teljes természeti leírás arról, hogyan fejlődött az élet, vagy lassan kiüresíti?\n\nMindkét választ gondos emberek képviselik, akik a biológiában teljesen egyetértenek. Dobzhansky és Dawkins egyetlen tényben sem vitatkozna egy genetikai cikk kapcsán. Abban vitatkoznak, mit jelentenek a tények, és ezt nem fogja eldönteni több genetika.\n\nEgy dolog megváltozott az elmúlt évszázadban, és érdemes szépítés nélkül kimondani. A négy keresztény álláspont nem egyformán alátámasztott. A fiatal Föld-kreacionizmus hamis tapasztalati állításokat tesz. Az intelligens tervezés nem igazolta a központi állítását, és egyértelműen alulmaradt, amikor bíróság előtt próbára tették. Az idős Föld-kreacionizmusnak igaza van a Földben, és nincs igaza a leszármazásban. Az evolúciós teremtés az egyetlen a négy közül, amely semmi megállapítottal nem ütközik, és világszerte egyben a többségi keresztény álláspont is.",
   "commonMistake": "Az ateisták többnyire úgy kezelik a fiatal Föld-kreacionizmust, mintha az volna a kereszténység álláspontja. Kisebbségi nézet, jórészt észak-amerikai, mai formájában nagyjából hatvan éves, és elutasítja a katolikus egyház, a legtöbb protestáns felekezet és az ortodox egyházak. Megcáfolni könnyű, és szinte semmit nem bizonyít a valódi vitával kapcsolatban, amely olyan emberekkel folyik, akik minden tényt elfogadnak, amit épp idézni készülsz.\n\nA keresztények többnyire azt hiszik, hogy az evolúció elfogadása kerül valamibe, és ezért olyan tudományos álláspontot védenek, amelyet semmi okuk nincs tartani. A saját hagyományuk szabálya, Ágostoné és Aquinói Tamásé, éppen az volt, hogy ne tegyék fel a Szentírást egy természetre vonatkozó állításra, amely megdőlhet.\n\nÉs mindkét oldal elköveti együtt ugyanazt a hibát: úgy kezelik a „teremtést” és az „evolúciót”, mintha ugyanarra a kérdésre adott válaszok volnának, és ezért többet az egyikből szükségképpen kevesebbet jelentene a másikból. Szinte senki nem hiszi ezt, aki alaposan végiggondolta, egyik oldalon sem.",
   "sources": [
@@ -280,13 +305,13 @@
       "title": "The Blind Watchmaker",
       "author": "Richard Dawkins",
       "year": "1986",
-      "url": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker"
+      "url": "https://wwnorton.com/books/9780393351491"
     },
     {
       "title": "Darwin's Dangerous Idea: Evolution and the Meanings of Life",
       "author": "Daniel C. Dennett",
       "year": "1995",
-      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea"
+      "url": "https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710"
     },
     {
       "title": "Where the Conflict Really Lies: Science, Religion, and Naturalism",
@@ -317,7 +342,7 @@
       "title": "Darwin's Black Box: The Biochemical Challenge to Evolution",
       "author": "Michael J. Behe",
       "year": "1996",
-      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Black_Box"
+      "url": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319"
     },
     {
       "title": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005)",
@@ -336,7 +361,7 @@
       "title": "The Language of God: A Scientist Presents Evidence for Belief",
       "author": "Francis S. Collins",
       "year": "2006",
-      "url": "https://en.wikipedia.org/wiki/The_Language_of_God"
+      "url": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742"
     },
     {
       "title": "Üzenet a Pápai Tudományos Akadémiának, 1996. október 22.",
@@ -345,10 +370,17 @@
       "url": "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1996/documents/hf_jp-ii_mes_19961022_evoluzione.html"
     },
     {
-      "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+      "title": "Statement of Faith",
       "author": "John C. Whitcomb és Henry M. Morris",
+      "url": "https://answersingenesis.org/about/faith/",
+      "note": "The young-earth position stated by its largest advocacy organisation, in its own words."
+    },
+    {
+      "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+      "author": "John C. Whitcomb and Henry M. Morris",
       "year": "1961",
-      "url": "https://en.wikipedia.org/wiki/The_Genesis_Flood"
+      "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
+      "note": "The book that made young-earth creationism mainstream among American fundamentalists."
     }
   ]
 }

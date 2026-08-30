@@ -1,0 +1,162 @@
+---
+// One position inside a topic's context block, disclosed like an argument: the
+// name and a one-line statement always visible, the substance behind a summary.
+//
+// `quote` is the position in the words of someone who holds it. `standing` is
+// where the evidence lands, and it stays inside the disclosure alongside the
+// position it answers, so neither is read without the other.
+import type { CollectionEntry } from 'astro:content';
+import type { Locale } from '../i18n';
+import { useTranslations } from '../i18n';
+import type { GlossaryMap } from '../lib/richtext';
+import RichText from './RichText.astro';
+import Quotation from './Quotation.astro';
+
+type Topic = CollectionEntry<'topics'>['data'];
+type Entry = NonNullable<Topic['context']>['entries'][number];
+
+interface Props {
+  entry: Entry;
+  locale: Locale;
+  glossary: GlossaryMap;
+}
+
+const { entry, locale, glossary } = Astro.props;
+const t = useTranslations(locale);
+---
+
+<details class="position" id={entry.id} data-argument>
+  <summary>
+    <span class="head">
+      <h3>{entry.name}</h3>
+      <span class="one-line">{entry.oneLine}</span>
+    </span>
+    <span class="visually-hidden">{t('argument.expand')}</span>
+    <span class="marker" aria-hidden="true"></span>
+  </summary>
+
+  <div class="body">
+    <p class="held-by">
+      <span class="field-label">{t('context.heldBy')}</span>
+      {entry.heldBy}
+    </p>
+
+    <RichText text={entry.summary} glossary={glossary} />
+
+    {entry.quote && <Quotation quote={entry.quote} locale={locale} side="neutral" />}
+
+    <div class="standing">
+      <p class="field-label">{t('context.standing')}</p>
+      <RichText text={entry.standing} glossary={glossary} />
+      {
+        entry.standingQuote && (
+          <Quotation quote={entry.standingQuote} locale={locale} side="neutral" />
+        )
+      }
+    </div>
+  </div>
+</details>
+
+<style>
+  .position {
+    padding: var(--space-m) var(--space-l);
+    background: var(--bg-raised);
+    border: var(--hairline) solid var(--rule);
+    border-radius: var(--radius);
+  }
+
+  summary {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-m);
+    cursor: pointer;
+    list-style: none;
+    border-radius: var(--radius);
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 4px;
+  }
+
+  .head {
+    flex: 1;
+  }
+
+  h3 {
+    font-size: var(--step-1);
+    margin: 0 0 var(--space-2xs);
+  }
+
+  .one-line {
+    display: block;
+    color: var(--ink-muted);
+    font-size: var(--step--1);
+    max-width: var(--measure);
+  }
+
+  summary:hover h3 {
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+    text-decoration-thickness: 1px;
+  }
+
+  .marker {
+    flex: none;
+    width: 0.6em;
+    height: 0.6em;
+    margin-top: 0.4em;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(45deg);
+    transition: transform 140ms ease;
+    opacity: 0.45;
+  }
+
+  .position[open] .marker {
+    transform: rotate(-135deg);
+    margin-top: 0.55em;
+  }
+
+  .body {
+    padding-top: var(--space-m);
+    margin-top: var(--space-m);
+    border-top: var(--hairline) solid var(--rule);
+  }
+
+  .field-label {
+    display: block;
+    font-size: 0.78em;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+  }
+
+  .held-by {
+    font-size: var(--step--1);
+    color: var(--ink-muted);
+  }
+
+  .standing {
+    margin-top: var(--space-m);
+    padding-top: var(--space-m);
+    border-top: var(--hairline) solid var(--rule);
+    font-size: var(--step--1);
+    color: var(--ink-muted);
+  }
+
+  @media print {
+    .position .body {
+      display: block !important;
+    }
+
+    .marker {
+      display: none;
+    }
+  }
+</style>

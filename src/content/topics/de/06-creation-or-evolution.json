@@ -48,8 +48,8 @@
             "work": "The Blind Watchmaker (Der blinde Uhrmacher)",
             "year": "1986",
             "locator": "p. 6",
-            "sourceUrl": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker",
-            "verified": true,
+            "sourceUrl": "https://wwnorton.com/books/9780393351491",
+            "verification": "corroborated",
             "original": {
               "text": "Although atheism might have been logically tenable before Darwin, Darwin made it possible to be an intellectually fulfilled atheist.",
               "language": "en"
@@ -71,7 +71,7 @@
             "year": "1860",
             "locator": "DCP-LETT-2814",
             "sourceUrl": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice.",
               "language": "en"
@@ -91,8 +91,8 @@
             "author": "Daniel Dennett",
             "work": "Darwin's Dangerous Idea (Darwins gefährliches Erbe)",
             "year": "1995",
-            "sourceUrl": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea",
-            "verified": true,
+            "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710",
+            "verification": "corroborated",
             "original": {
               "text": "a skyhook is a \"mind-first\" force or power or process, an exception to the principle that all design, and apparent design, is ultimately the result of mindless, motiveless mechanicity.",
               "language": "en"
@@ -120,7 +120,7 @@
             "year": "1973",
             "locator": "pp. 125-129",
             "sourceUrl": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "I am a creationist and an evolutionist. Evolution is God's, or Nature's method of creation.",
               "language": "en"
@@ -142,7 +142,7 @@
             "year": "c. 415",
             "locator": "Book I, ch. 19",
             "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
               "language": "en"
@@ -164,7 +164,7 @@
             "year": "2011",
             "locator": "preface, p. ix",
             "sourceUrl": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097",
-            "verified": true,
+            "verification": "corroborated",
             "original": {
               "text": "there is superficial conflict but deep concord between science and theistic religion, but superficial concord and deep conflict between science and naturalism",
               "language": "en"
@@ -178,81 +178,106 @@
       ]
     }
   ],
-  "familyPositions": [
-    {
-      "id": "young-earth-creationism",
-      "name": "Junge-Erde-Kreationismus",
-      "heldBy": "Eine Minderheit protestantischer Christen, konzentriert in den Vereinigten Staaten; institutionell Answers in Genesis und das Institute for Creation Research.",
-      "summary": "Genesis 1 beschreibt sechs gewöhnliche Tage vor einigen tausend Jahren, und die fossilführenden Gesteinsschichten wurden von der Sintflut abgelagert und nicht über Erdzeitalter.\n\nDie moderne Gestalt ist jünger, als die meisten annehmen. Der Historiker Ronald Numbers führte sie auf den Siebenten-Tags-Adventisten George McCready Price zurück und ihren Aufstieg zur fundamentalistischen Rechtgläubigkeit auf The Genesis Flood von 1961. Viele konservative Protestanten des neunzehnten Jahrhunderts nahmen eine alte Erde ohne Schwierigkeiten an.",
-      "scienceStanding": "Abgelehnt. Radiometrische Datierung, Eisbohrkerne, Plattentektonik, Wachstumsbänder von Korallen und die Lichtlaufzeit ferner Galaxien stimmen untereinander überein und nicht mit einer jungen Erde. Hier gibt es keinen wissenschaftlichen Streit zu berichten.",
-      "quote": {
-        "text": "Whitcomb und Morris vertraten, dass die Bibel das unfehlbare Wort Gottes ist, dass der geologische Befund von der Sintflut und nicht von langen Zeitaltern hervorgebracht wurde, und dass die Annahme der gängigen Geologie, es handle sich um langsame gleichförmige Vorgänge, aus diesen Gründen zurückzuweisen sei.",
-        "author": "John C. Whitcomb and Henry M. Morris",
-        "work": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
-        "year": "1961",
-        "sourceUrl": "https://en.wikipedia.org/wiki/The_Genesis_Flood",
-        "verified": false
-      }
-    },
-    {
-      "id": "old-earth-creationism",
-      "name": "Alte-Erde-Kreationismus",
-      "heldBy": "Konservative Protestanten, die die gängige Geologie annehmen, die gemeinsame Abstammung aber nicht; historisch Charles Hodge, heute Gruppen wie Reasons to Believe.",
-      "summary": "Die Erde ist wirklich Milliarden Jahre alt und die geologische Schichtenfolge ist echt; die Tage der Genesis sind Zeitalter oder ein literarischer Rahmen. Bestritten wird nicht die Tiefenzeit, sondern die ungerichtete gemeinsame Abstammung.\n\nCharles Hodge, der gewichtigste amerikanische konservative Theologe des neunzehnten Jahrhunderts, vertrat genau diese Linie. Gegen eine alte Erde hatte er nichts. Sein Einwand galt dem Ausschluss der Zweckmäßigkeit aus der Natur.",
-      "scienceStanding": "Die alte Erde stimmt. Die getrennte Erschaffung der Grundformen nicht: Die gemeinsame Abstammung ruht auf denselben Genomdaten, auf denen Medizin und Forensik beruhen, und auf Übergangsfossilien, die vorhergesagt wurden, bevor man sie fand.",
-      "quote": {
-        "text": "Was ist Darwinismus? Er ist Atheismus. Das heißt, wie schon gesagt, nicht, dass Herr Darwin selbst und alle, die seine Ansichten übernehmen, Atheisten wären; es heißt, dass seine Theorie atheistisch ist, dass der Ausschluss der Planmäßigkeit aus der Natur, wie Dr. Gray sagt, dem Atheismus gleichkommt.",
-        "author": "Charles Hodge",
-        "work": "What is Darwinism?",
-        "year": "1874",
-        "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
-        "verified": true,
-        "original": {
-          "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
-          "language": "en"
+  "context": {
+    "heading": "Vier christliche Positionen",
+    "intro": "Der Streit zwischen diesen vieren wird innerhalb des Christentums geführt und nicht zwischen Christentum und Atheismus; deshalb steht er getrennt von den beiden Seiten oben. Jede Position wird von jemandem formuliert, der sie vertritt, und danach beantwortet.",
+    "entries": [
+      {
+        "id": "young-earth-creationism",
+        "name": "Junge-Erde-Kreationismus",
+        "heldBy": "Eine Minderheit protestantischer Christen, konzentriert in den Vereinigten Staaten; institutionell Answers in Genesis und das Institute for Creation Research.",
+        "oneLine": "Genesis 1 beschreibt sechs gewöhnliche Tage vor einigen tausend Jahren, und das fossilführende Gestein wurde von der Sintflut abgelagert.",
+        "summary": "Genesis 1 beschreibt sechs gewöhnliche Tage vor einigen tausend Jahren, und die fossilführenden Gesteinsschichten wurden von der Sintflut abgelagert und nicht über Erdzeitalter.\n\nDie moderne Gestalt ist jünger, als die meisten annehmen. Der Historiker Ronald Numbers führte sie auf den Siebenten-Tags-Adventisten George McCready Price zurück und ihren Aufstieg zur fundamentalistischen Rechtgläubigkeit auf The Genesis Flood von 1961. Viele konservative Protestanten des neunzehnten Jahrhunderts nahmen eine alte Erde ohne Schwierigkeiten an.",
+        "quote": {
+          "text": "Kein scheinbarer, wahrgenommener oder behaupteter Beleg in irgendeinem Studienfach, einschließlich Naturwissenschaft, Geschichte und Chronologie, kann gültig sein, wenn er der klaren Lehre der Schrift widerspricht, die durch historisch-grammatische Auslegung gewonnen wurde.",
+          "author": "Answers in Genesis",
+          "work": "Glaubensbekenntnis, Abschnitt über die Schrift",
+          "year": "current",
+          "sourceUrl": "https://answersingenesis.org/about/faith/",
+          "verification": "corroborated",
+          "original": {
+            "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
+            "language": "en"
+          }
+        },
+        "standing": "Abgelehnt. Radiometrische Datierung, Eisbohrkerne, Plattentektonik, Wachstumsbänder von Korallen und die Lichtlaufzeit ferner Galaxien stimmen untereinander überein und nicht mit einer jungen Erde. Hier gibt es keinen wissenschaftlichen Streit zu berichten."
+      },
+      {
+        "id": "old-earth-creationism",
+        "name": "Alte-Erde-Kreationismus",
+        "heldBy": "Konservative Protestanten, die die gängige Geologie annehmen, die gemeinsame Abstammung aber nicht; historisch Charles Hodge, heute Gruppen wie Reasons to Believe.",
+        "oneLine": "Die Erde ist wirklich Milliarden Jahre alt, aber Gott schuf die großen Grundformen je für sich und nicht durch gemeinsame Abstammung.",
+        "summary": "Die Erde ist wirklich Milliarden Jahre alt und die geologische Schichtenfolge ist echt; die Tage der Genesis sind Zeitalter oder ein literarischer Rahmen. Bestritten wird nicht die Tiefenzeit, sondern die ungerichtete gemeinsame Abstammung.\n\nCharles Hodge, der gewichtigste amerikanische konservative Theologe des neunzehnten Jahrhunderts, vertrat genau diese Linie. Gegen eine alte Erde hatte er nichts. Sein Einwand galt dem Ausschluss der Zweckmäßigkeit aus der Natur.",
+        "quote": {
+          "text": "Was ist Darwinismus? Er ist Atheismus. Das heißt, wie schon gesagt, nicht, dass Herr Darwin selbst und alle, die seine Ansichten übernehmen, Atheisten wären; es heißt, dass seine Theorie atheistisch ist, dass der Ausschluss der Planmäßigkeit aus der Natur, wie Dr. Gray sagt, dem Atheismus gleichkommt.",
+          "author": "Charles Hodge",
+          "work": "What is Darwinism?",
+          "year": "1874",
+          "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
+          "verification": "corroborated",
+          "original": {
+            "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
+            "language": "en"
+          }
+        },
+        "standing": "Die alte Erde stimmt. Die getrennte Erschaffung der Grundformen nicht: Die gemeinsame Abstammung ruht auf denselben Genomdaten, auf denen Medizin und Forensik beruhen, und auf Übergangsfossilien, die vorhergesagt wurden, bevor man sie fand."
+      },
+      {
+        "id": "intelligent-design",
+        "name": "Intelligentes Design",
+        "heldBy": "Mit dem Discovery Institute verbunden; Michael Behe, William Dembski, Stephen Meyer.",
+        "oneLine": "Manche biologischen Systeme brauchen alle Teile zugleich, um überhaupt zu funktionieren; Planung sei daher der bessere Schluss als schrittweise Selektion.",
+        "summary": "Das intelligente Design nimmt eine alte Erde an und, bei Behe, auch die gemeinsame Abstammung. Seine These ist enger: Manche biologischen Strukturen seien [[nicht reduzierbar komplex|nicht reduzierbare Komplexität]], jeder Teil werde für die Funktion des Systems gebraucht, und deshalb könne die Selektion sie nicht über nützliche Zwischenstufen bauen. Planung wird als Schluss aus dem Befund angeboten, nicht aus der Schrift.\n\nSeine Vertreter fügen hinzu, die gängige Wissenschaft schließe Planung von vornherein aus, indem sie den [[methodologischen Naturalismus|methodologischer Naturalismus]] als Grundregel setze, statt zu ihm als Ergebnis zu gelangen.",
+        "quote": {
+          "text": "Mit nicht reduzierbar komplex meine ich ein einzelnes System, das aus mehreren gut aufeinander abgestimmten, zusammenwirkenden Teilen besteht, die zur Grundfunktion beitragen, wobei die Entfernung eines beliebigen Teils dazu führt, dass das System praktisch aufhört zu funktionieren.",
+          "author": "Michael J. Behe",
+          "work": "Darwin's Black Box: The Biochemical Challenge to Evolution",
+          "year": "1996",
+          "locator": "p. 39",
+          "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319",
+          "verification": "corroborated",
+          "original": {
+            "text": "By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning.",
+            "language": "en"
+          }
+        },
+        "standing": "Nicht als Wissenschaft anerkannt. Für die konkreten Beispiele, vor allem die Bakteriengeißel und die Blutgerinnungskaskade, liegen schrittweise evolutionäre Erklärungen vor, die auf Bauteile mit anderen Funktionen zurückgreifen. In Kitzmiller gegen Dover (2005) prüfte ein Bundesgericht die These in einem Verfahren und entschied, sie sei keine Wissenschaft. Auch viele Christen lehnen sie ab, als Argument vom [[Lückenbüßergott]], das mit dem Fortschritt der Biologie schrumpft.",
+        "standingQuote": {
+          "text": "Wir haben die grundlegende Frage behandelt, ob ID Wissenschaft ist. Wir sind zu dem Schluss gekommen, dass sie es nicht ist, und überdies, dass ID sich von seinen kreationistischen und damit religiösen Vorläufern nicht lösen kann.",
+          "author": "Judge John E. Jones III",
+          "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
+          "year": "2005",
+          "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+          "verification": "corroborated",
+          "original": {
+            "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
+            "language": "en"
+          }
         }
+      },
+      {
+        "id": "evolutionary-creation",
+        "name": "Evolutionäre Schöpfung, oder theistische Evolution",
+        "heldBy": "Die Mehrheitsposition unter Christen weltweit, darunter die katholische Kirche, die meisten großen protestantischen Kirchen und die orthodoxen Kirchen; Francis Collins, Alister McGrath, BioLogos.",
+        "oneLine": "Die Evolution wird vollständig angenommen und als das Mittel verstanden, durch das Gott geschaffen hat.",
+        "summary": "Die Evolution wird vollständig angenommen und als das Mittel verstanden, durch das Gott geschaffen hat. Es wird keine wissenschaftliche Aussage bestritten und keine Lücke freigehalten.\n\nDie katholische Position formulierte Johannes Paul II. 1996, als er der Päpstlichen Akademie der Wissenschaften sagte, neue Erkenntnisse hätten dazu geführt, in der Evolution «mehr als eine Hypothese» anzuerkennen. Francis Collins, der das Humangenomprojekt leitete, führt dieselbe Sache vom Genom her.",
+        "quote": {
+          "text": "Gott, der nicht an Raum und Zeit gebunden ist, schuf das Universum und setzte die Naturgesetze ein, die es regieren.",
+          "author": "Francis Collins",
+          "work": "The Language of God: A Scientist Presents Evidence for Belief",
+          "year": "2006",
+          "locator": "p. 178",
+          "sourceUrl": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742",
+          "verification": "corroborated",
+          "original": {
+            "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
+            "language": "en"
+          }
+        },
+        "standing": "Mit der Wissenschaft vereinbar, weil sie selbst keine wissenschaftliche Aussage macht. Es ist zugleich die Position, mit der atheistische Kritiker am schärfsten ins Gericht gehen, mit dem Argument, ein Gott, der nur durch gewöhnliche natürliche Ursachen wirkt, verrichte keine feststellbare Arbeit."
       }
-    },
-    {
-      "id": "intelligent-design",
-      "name": "Intelligentes Design",
-      "heldBy": "Mit dem Discovery Institute verbunden; Michael Behe, William Dembski, Stephen Meyer.",
-      "summary": "Das intelligente Design nimmt eine alte Erde an und, bei Behe, auch die gemeinsame Abstammung. Seine These ist enger: Manche biologischen Strukturen seien [[nicht reduzierbar komplex|nicht reduzierbare Komplexität]], jeder Teil werde für die Funktion des Systems gebraucht, und deshalb könne die Selektion sie nicht über nützliche Zwischenstufen bauen. Planung wird als Schluss aus dem Befund angeboten, nicht aus der Schrift.\n\nSeine Vertreter fügen hinzu, die gängige Wissenschaft schließe Planung von vornherein aus, indem sie den [[methodologischen Naturalismus|methodologischer Naturalismus]] als Grundregel setze, statt zu ihm als Ergebnis zu gelangen.",
-      "scienceStanding": "Nicht als Wissenschaft anerkannt. Für die konkreten Beispiele, vor allem die Bakteriengeißel und die Blutgerinnungskaskade, liegen schrittweise evolutionäre Erklärungen vor, die auf Bauteile mit anderen Funktionen zurückgreifen. In Kitzmiller gegen Dover (2005) prüfte ein Bundesgericht die These in einem Verfahren und entschied, sie sei keine Wissenschaft. Auch viele Christen lehnen sie ab, als Argument vom [[Lückenbüßergott]], das mit dem Fortschritt der Biologie schrumpft.",
-      "quote": {
-        "text": "Wir haben die grundlegende Frage behandelt, ob ID Wissenschaft ist. Wir sind zu dem Schluss gekommen, dass sie es nicht ist, und überdies, dass ID sich von seinen kreationistischen und damit religiösen Vorläufern nicht lösen kann.",
-        "author": "Judge John E. Jones III",
-        "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
-        "year": "2005",
-        "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
-        "verified": true,
-        "original": {
-          "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
-          "language": "en"
-        }
-      }
-    },
-    {
-      "id": "evolutionary-creation",
-      "name": "Evolutionäre Schöpfung, oder theistische Evolution",
-      "heldBy": "Die Mehrheitsposition unter Christen weltweit, darunter die katholische Kirche, die meisten großen protestantischen Kirchen und die orthodoxen Kirchen; Francis Collins, Alister McGrath, BioLogos.",
-      "summary": "Die Evolution wird vollständig angenommen und als das Mittel verstanden, durch das Gott geschaffen hat. Es wird keine wissenschaftliche Aussage bestritten und keine Lücke freigehalten.\n\nDie katholische Position formulierte Johannes Paul II. 1996, als er der Päpstlichen Akademie der Wissenschaften sagte, neue Erkenntnisse hätten dazu geführt, in der Evolution «mehr als eine Hypothese» anzuerkennen. Francis Collins, der das Humangenomprojekt leitete, führt dieselbe Sache vom Genom her.",
-      "scienceStanding": "Mit der Wissenschaft vereinbar, weil sie selbst keine wissenschaftliche Aussage macht. Es ist zugleich die Position, mit der atheistische Kritiker am schärfsten ins Gericht gehen, mit dem Argument, ein Gott, der nur durch gewöhnliche natürliche Ursachen wirkt, verrichte keine feststellbare Arbeit.",
-      "quote": {
-        "text": "Gott, der nicht an Raum und Zeit gebunden ist, schuf das Universum und setzte die Naturgesetze ein, die es regieren.",
-        "author": "Francis Collins",
-        "work": "The Language of God: A Scientist Presents Evidence for Belief",
-        "year": "2006",
-        "locator": "p. 178",
-        "sourceUrl": "https://en.wikipedia.org/wiki/The_Language_of_God",
-        "verified": true,
-        "original": {
-          "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
-          "language": "en"
-        }
-      }
-    }
-  ],
+    ]
+  },
   "whereItStands": "Die naturwissenschaftliche Hälfte dieser Frage ist geschlossen, und zwar seit langem. Die offene Hälfte ist philosophisch und wirklich offen: Lässt eine vollständige natürliche Darstellung der Entwicklung des Lebens die Behauptung unberührt, die Welt habe einen Urheber, oder nimmt sie ihr nach und nach jeden Gegenstand?\n\nBeide Antworten werden von sorgfältigen Leuten vertreten, die sich über die Biologie vollkommen einig sind. Dobzhansky und Dawkins wären sich über keine einzige Tatsache in einem genetischen Aufsatz uneins. Sie sind sich uneins darüber, was die Tatsachen bedeuten, und das wird nicht durch mehr Genetik entschieden.\n\nEines hat sich im letzten Jahrhundert geändert und gehört ohne Beschönigung gesagt. Die vier christlichen Positionen sind nicht gleich gut gestützt. Der Junge-Erde-Kreationismus macht empirische Aussagen, die falsch sind. Das intelligente Design hat seine zentrale These nicht belegt und verlor deutlich, als es vor Gericht geprüft wurde. Der Alte-Erde-Kreationismus hat über die Erde recht und über die Abstammung unrecht. Die evolutionäre Schöpfung ist die einzige der vier, die mit nichts Feststehendem in Konflikt steht, und sie ist zugleich weltweit die christliche Mehrheitsposition.",
   "commonMistake": "Atheisten behandeln den Junge-Erde-Kreationismus meist so, als wäre er die Position des Christentums. Er ist eine Minderheitsauffassung, weitgehend nordamerikanisch, in seiner heutigen Form rund sechzig Jahre alt, und er wird von der katholischen Kirche, den meisten protestantischen Kirchen und den orthodoxen Kirchen abgelehnt. Ihn zu widerlegen ist leicht und beweist fast nichts über den eigentlichen Streit, der mit Leuten geführt wird, die jede Tatsache annehmen, die man gleich anführen will.\n\nChristen meinen meist, die Annahme der Evolution koste sie etwas, und verteidigen deshalb eine naturwissenschaftliche Position, die zu halten sie keinen Grund haben. Die Regel ihrer eigenen Tradition, die von Augustinus und Thomas von Aquin, lautete, die Schrift nicht auf eine Aussage über die Natur zu setzen, die umgestoßen werden könnte.\n\nUnd beide Seiten machen gemeinsam einen Fehler: «Schöpfung» und «Evolution» als Antworten auf dieselbe Frage zu behandeln, sodass mehr von dem einen weniger von dem anderen heißen müsste. Fast niemand, der sorgfältig darüber nachgedacht hat, glaubt das auf einer der beiden Seiten.",
   "sources": [
@@ -280,13 +305,13 @@
       "title": "The Blind Watchmaker",
       "author": "Richard Dawkins",
       "year": "1986",
-      "url": "https://en.wikipedia.org/wiki/The_Blind_Watchmaker"
+      "url": "https://wwnorton.com/books/9780393351491"
     },
     {
       "title": "Darwin's Dangerous Idea: Evolution and the Meanings of Life",
       "author": "Daniel C. Dennett",
       "year": "1995",
-      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea"
+      "url": "https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710"
     },
     {
       "title": "Where the Conflict Really Lies: Science, Religion, and Naturalism",
@@ -317,7 +342,7 @@
       "title": "Darwin's Black Box: The Biochemical Challenge to Evolution",
       "author": "Michael J. Behe",
       "year": "1996",
-      "url": "https://en.wikipedia.org/wiki/Darwin%27s_Black_Box"
+      "url": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319"
     },
     {
       "title": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005)",
@@ -336,7 +361,7 @@
       "title": "The Language of God: A Scientist Presents Evidence for Belief",
       "author": "Francis S. Collins",
       "year": "2006",
-      "url": "https://en.wikipedia.org/wiki/The_Language_of_God"
+      "url": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742"
     },
     {
       "title": "Botschaft an die Päpstliche Akademie der Wissenschaften, 22. Oktober 1996",
@@ -345,10 +370,17 @@
       "url": "https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1996/documents/hf_jp-ii_mes_19961022_evoluzione.html"
     },
     {
-      "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+      "title": "Statement of Faith",
       "author": "John C. Whitcomb und Henry M. Morris",
+      "url": "https://answersingenesis.org/about/faith/",
+      "note": "The young-earth position stated by its largest advocacy organisation, in its own words."
+    },
+    {
+      "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
+      "author": "John C. Whitcomb and Henry M. Morris",
       "year": "1961",
-      "url": "https://en.wikipedia.org/wiki/The_Genesis_Flood"
+      "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
+      "note": "The book that made young-earth creationism mainstream among American fundamentalists."
     }
   ]
 }

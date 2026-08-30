@@ -80,35 +80,69 @@ export async function alternatesForTopic(topicId: string): Promise<Record<Locale
   return paths;
 }
 
-/** Rough reading time, at 200 words a minute — the site targets 5 to 7 minutes. */
-export function readingMinutes(topic: TopicData): number {
-  const parts: string[] = [
+/**
+ * Reading time for the two ways the page is read: the default view, where each
+ * argument is one line, and the whole thing with every disclosure open. Both
+ * are shown, so nobody opens a topic expecting two minutes and finds thirteen.
+ *
+ * 200 words a minute is the usual figure for unfamiliar non-fiction.
+ */
+export interface ReadingTime {
+  summary: number;
+  full: number;
+}
+
+function countWords(parts: (string | undefined)[]): number {
+  const text = parts.filter(Boolean).join(' ').trim();
+  if (!text) return 0;
+  // Term markup renders as its label, so [[x|y]] counts as x, not as both.
+  return text.replace(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g, '$1').split(/\s+/).length;
+}
+
+export function readingTime(topic: TopicData): ReadingTime {
+  const shown: (string | undefined)[] = [
     topic.title,
     topic.realQuestion,
-    topic.settledCore ?? '',
+    topic.settledCore,
     topic.whereItStands,
     topic.commonMistake,
   ];
+  const hidden: (string | undefined)[] = [];
 
   for (const side of topic.sides) {
-    parts.push(side.label);
+    shown.push(side.label);
     for (const argument of side.arguments) {
-      parts.push(argument.claim, argument.explanation);
-      if (argument.quote) parts.push(argument.quote.text);
+      shown.push(argument.claim);
+      hidden.push(argument.explanation, argument.quote?.text);
       if (argument.counter) {
-        parts.push(argument.counter.objection, argument.counter.response ?? '');
-        if (argument.counter.quote) parts.push(argument.counter.quote.text);
+        hidden.push(
+          argument.counter.objection,
+          argument.counter.response,
+          argument.counter.quote?.text,
+        );
       }
     }
   }
 
-  for (const position of topic.familyPositions ?? []) {
-    parts.push(position.name, position.summary, position.scienceStanding);
-    if (position.quote) parts.push(position.quote.text);
+  if (topic.context) {
+    shown.push(topic.context.heading, topic.context.intro);
+    for (const entry of topic.context.entries) {
+      shown.push(entry.name, entry.oneLine);
+      hidden.push(
+        entry.heldBy,
+        entry.summary,
+        entry.standing,
+        entry.quote?.text,
+        entry.standingQuote?.text,
+      );
+    }
   }
 
-  const words = parts.join(' ').trim().split(/\s+/).length;
-  return Math.max(1, Math.round(words / 200));
+  const summaryWords = countWords(shown);
+  return {
+    summary: Math.max(1, Math.round(summaryWords / 200)),
+    full: Math.max(1, Math.round((summaryWords + countWords(hidden)) / 200)),
+  };
 }
 
 /**

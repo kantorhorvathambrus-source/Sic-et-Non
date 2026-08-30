@@ -2,7 +2,7 @@
 
 Tracks which of the twenty topics are drafted, reviewed and translated.
 
-- **drafted** — written, quotations verified, passes `npm run verify:content`
+- **drafted** — written, quotations checked, passes `npm run verify:content`
 - **reviewed** — read back against the editorial rules by a human
 - **en / es / fr / de / hu** — a content file exists for that locale
 
@@ -33,95 +33,134 @@ Titles and status tags for the undrafted topics live in `src/data/topics-index.j
 already translated into all five languages, so the home page lists the full set from
 the start.
 
-## Build milestones
+## The checklist for every topic
 
-1. **done** — scaffold, Zod schema, i18n routing, design tokens, topic 6 in all five languages
-2. topics 1–5 in English
-3. topics 7–13, then 14–20, in English
-4. translate everything into es, fr, de, hu
-5. argument-map view (already built), search, glossary page
+Run through this before marking a topic drafted. `npm run verify:content` enforces
+the mechanical half; the rest is editorial judgement.
+
+- [ ] **Every argument is quoted by someone who holds it.** No position appears
+      only in the words of its opponents — not in the two sides, not in a context
+      entry. This is the rule most likely to be broken by accident, because
+      critics of a position are usually easier to quote than its defenders.
+      *Enforced:* an argument carrying a critic's quote and no defender's fails
+      the build; one with no quote at all warns.
+- [ ] Both sides carry the **same number of arguments**, somewhere in 2 to 4.
+      Symmetry inside a topic is the point; sameness across topics is not.
+      *Enforced.*
+- [ ] Every quotation has author, work, year, `sourceUrl` and a `verification`
+      level. *Enforced.*
+- [ ] A `settled-core` topic states its `settledCore` plainly, above the sides.
+      *Enforced.*
+- [ ] Each argument's `claim` reads as a complete one-line statement, because in
+      the default view that line is the whole argument.
+- [ ] "Where it stands" describes the state of the argument, not a verdict.
+- [ ] "The common mistake" names an error made on *both* sides, or one on each.
+- [ ] Every marked-up term has a glossary entry, and every glossary entry is used.
+      *Enforced* (unused entries warn).
+
+## How a topic is shaped
+
+Three layers over one set of data:
+
+1. **Default view, about 4 minutes.** The real question, the status tag and what
+   it means, the settled core where there is one, each side's claims as one-line
+   statements, the context entries as one-liners, then "Where it stands" and
+   "The common mistake".
+2. **An expanded argument.** Explanation, quotation, the strongest objection, the
+   response. Built with `<details>`/`<summary>`, so the text is in the DOM
+   whether open or shut: search indexes it, find-in-page finds it, the keyboard
+   reaches it, and it prints. An "expand all" control ships hidden and is
+   revealed by its own script, so it is never a dead button.
+3. **The argument map** at `.../map`, which walks every argument as
+   claim → objection → response.
+
+Both times are shown in the badge: "4 min, or 14 min in full".
+
+Two sections stay in layer 1 that a strict reading would push into layer 2:
+`settledCore`, because a reader who reads nothing else must not come away
+thinking the science is contested (editorial rule 3), and "Where it stands" plus
+"The common mistake", because rule 4 makes them the payoff of the page. Together
+they are about 2 of the 4 minutes. Collapsing them would hit 2 minutes exactly,
+at the cost of the two things a skimming reader most benefits from.
+
+### The `context` block
+
+Optional, and used where a topic needs setup the two sides cannot carry. On topic
+6 the live disagreement about Genesis and geology runs between four Christian
+positions, which is not a disagreement between the two sides at all. Topics 13
+and 19 are expected to want the same field. Topics that need no such section omit
+it.
+
+Each entry is a position stated by someone who holds it (`quote`) and then
+answered (`standing`, optionally with `standingQuote`). The reply lives inside
+the same disclosure as the position, so neither is read without the other.
 
 ## Quotation status
 
-50 quotation objects across the five files: 10 distinct quotations, each present in
-all five locales. Six carry the arguments, four carry the Christian positions, and
-every one is by a different person.
+11 quotations on topic 6, present in all five locales. Every argument and every
+position is carried by someone who holds it.
 
-| Quotation | Work | Verified |
-|-----------|------|----------|
-| "Darwin made it possible to be an intellectually fulfilled atheist" | Dawkins, *The Blind Watchmaker* (1986), p. 6 | yes |
-| "I cannot persuade myself that a beneficent & omnipotent God…" | Darwin to Asa Gray, 22 May 1860 | yes |
-| "a skyhook is a 'mind-first' force…" | Dennett, *Darwin's Dangerous Idea* (1995) | yes |
-| "I am a creationist and an evolutionist…" | Dobzhansky, *American Biology Teacher* 35 (1973) | yes |
-| "it is a disgraceful and dangerous thing…" | Augustine, *De Genesi ad litteram* I.19 (c. 415), tr. Taylor | yes |
-| "superficial conflict but deep concord…" | Plantinga, *Where the Conflict Really Lies* (2011), p. ix | yes |
-| The Genesis Flood's position, in our own words | Whitcomb & Morris (1961) | **no — labelled paraphrase** |
-| "What is Darwinism? It is Atheism." | Hodge, *What is Darwinism?* (1874) | yes |
-| "We have concluded that it is not [science]…" | *Kitzmiller v. Dover*, 400 F. Supp. 2d 707 (2005) | yes |
-| "God, who is not limited to space and time…" | Collins, *The Language of God* (2006), p. 178 | yes |
+| Quotation | Work | Carries | Level |
+|-----------|------|---------|-------|
+| "Darwin made it possible to be an intellectually fulfilled atheist" | Dawkins, *The Blind Watchmaker* (1986), p. 6 | atheist argument | corroborated |
+| "I cannot persuade myself that a beneficent & omnipotent God…" | Darwin to Asa Gray, 22 May 1860 | atheist argument | corroborated |
+| "a skyhook is a 'mind-first' force…" | Dennett, *Darwin's Dangerous Idea* (1995) | atheist argument | corroborated |
+| "I am a creationist and an evolutionist…" | Dobzhansky, *American Biology Teacher* 35 (1973) | Christian argument | corroborated |
+| "it is a disgraceful and dangerous thing…" | Augustine, *De Genesi ad litteram* I.19 (c. 415) | Christian argument | corroborated |
+| "superficial conflict but deep concord…" | Plantinga, *Where the Conflict Really Lies* (2011), p. ix | Christian argument | corroborated |
+| "No apparent, perceived, or claimed evidence…can be valid if it contradicts…Scripture" | Answers in Genesis, *Statement of Faith* | young-earth creationism | corroborated |
+| "What is Darwinism? It is Atheism." | Hodge, *What is Darwinism?* (1874) | old-earth creationism | corroborated |
+| "By irreducibly complex I mean a single system…" | Behe, *Darwin's Black Box* (1996), p. 39 | intelligent design | corroborated |
+| "We have concluded that it is not [science]…" | *Kitzmiller v. Dover* (2005) | the reply to intelligent design | corroborated |
+| "God, who is not limited to space and time…" | Collins, *The Language of God* (2006), p. 178 | evolutionary creation | corroborated |
 
-Two further verified quotations were cut when the topic was shortened, and are worth
-placing on the topics they fit even better: Dawkins's "Biology is the study of
-complicated things that give the appearance of having been designed for a purpose"
-(*The Blind Watchmaker*, opening line), and Aquinas on holding a reading of Scripture
-"only in such measure as to be ready to abandon it" (*Summa Theologiae* I q.68 a.1,
-still cited in this topic's sources, and a natural fit for topic 14 or 19).
+Two quotations were dropped when the topic was shortened, and are worth placing
+where they fit better: Dawkins's "Biology is the study of complicated things that
+give the appearance of having been designed for a purpose" (*The Blind
+Watchmaker*, opening line), and Aquinas on holding a reading of Scripture "only
+in such measure as to be ready to abandon it" (*Summa Theologiae* I q.68 a.1,
+still in this topic's sources, and a natural fit for topic 14 or 19).
 
-The Whitcomb and Morris entry is the one place on topic 6 where the exact wording
-could not be confirmed. Rather than reconstruct a sentence and attribute it, the
-position is stated in our own words, `verified` is set to `false`, and the page
-renders it under a "Paraphrase" label, in roman type, without quotation marks.
+### Verification levels
 
-### How verification was done, and its limit
+`verification` records how far the wording was actually checked, and the page
+prints the level rather than leaving the reader to assume:
 
-Wording, work and year for each quotation were checked by web search against
-multiple independent results naming the same source. Worth recording honestly:
-this build environment's egress proxy allows search but blocks direct page
-fetches, so no quotation was read in the primary text itself. Before this
-content is treated as final, each `verified: true` quotation should be checked
-once against the work, and `sourceUrl` repointed at the primary text where the
-current link is a reference page rather than the source.
+| Level | Means | Rendered as |
+|-------|-------|-------------|
+| `primary` | the wording was read in the source text, or a scan of it | no label; this is the standard the site claims by default |
+| `corroborated` | confirmed across several independent secondary sources, not read in the original | labelled "Corroborated", with a one-line note |
+| `paraphrase` | our own words, because the exact wording could not be confirmed | labelled, roman type, no quotation marks |
 
-`npm run verify:content` enforces the mechanical part of the rule: every quote
-must carry author, work, year, a valid `sourceUrl` and an explicit `verified`
-flag, or the build fails.
+**Everything on topic 6 is currently `corroborated`, and nothing is `primary`.**
+This build environment's egress proxy allows web search but blocks direct page
+fetches, so no quotation could be read in its source. Each was checked against
+several independent results naming the same work, wording, year and page. The
+build prints the mix on every run, so the number cannot quietly rot:
 
-## Reading time — a known gap
+```
+en/06-creation-or-evolution.json   11 quotes  primary 0  corroborated 11  paraphrase 0
+```
 
-The brief asks for 5 to 7 minutes per topic. Topic 6 currently reads at about
-13 minutes in English (roughly 2,700 words at 200 words a minute), and 12 to 15
-across the other locales, since Romance-language prose runs longer.
+Upgrading a quotation to `primary` is a one-field change once someone can open
+the book, and needs no re-audit of anything else.
 
-It was already cut once, from 17 minutes: one argument was dropped from each side
-and the prose tightened throughout. The remaining gap is structural rather than
-careless, and there are three levers, in the order they cost least:
-
-1. **The four Christian positions cost about 3 minutes** and no other topic has that
-   section. Take them out and topic 6 reads at 10; every other topic on this template
-   would already be shorter.
-2. **Drop to two arguments a side.** Six arguments, each with a quotation, the
-   strongest objection and a response, is most of the length. Two a side brings the
-   whole topic to roughly 9 minutes.
-3. **Cut the objection-and-response pairs.** They are about a quarter of the length,
-   but they are also what the argument-map view walks, so this is the expensive one.
-
-Levers 1 and 2 together land inside the target. Which to pull is an editorial call,
-and it sets the shape for the remaining nineteen topics, so it is worth deciding
-before milestone 2 rather than after.
+Source URLs point at publishers, journals of record, court records or full texts
+where those exist (Norton, Simon & Schuster, Oxford, Harvard, UC Press, the
+Darwin Correspondence Project, Justia, Project Gutenberg, New Advent). None rests
+on a quote-aggregator site. A URL pointing at a reference page rather than the
+text is a reason a quotation stays `corroborated`.
 
 ## Editorial notes on topic 6
 
 - The status is `settled-core`, so the schema requires a `settledCore` statement.
-  It is rendered above the two sides, before either argument is made.
+  It renders above the two sides, before either argument is made.
 - The two sides are the live dispute — whether a complete evolutionary account
   leaves anything for a creator to have done — not evolution versus creationism.
-  Three arguments a side, each with a quotation, the strongest objection to it and
-  a response.
-- The four Christian positions are carried in the optional `familyPositions`
-  field, which exists because on this one topic the four-way argument runs
-  inside a tradition rather than between the two sides. Each carries a
-  `scienceStanding` that says plainly where the science lands, per editorial
-  rule 3.
+  Three arguments a side, each with a quotation, the strongest objection and a
+  response.
+- The four Christian positions live in the `context` block. Each states where the
+  evidence lands, plainly, per editorial rule 3.
 - Column order alternates by topic number (`orderedSides` in `src/lib/topics.ts`),
   so neither position has a permanent home on the left. Topic 6 is even, so the
   atheist side leads.
