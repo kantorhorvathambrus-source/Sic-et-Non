@@ -1,0 +1,68 @@
+---
+// One 404 per language.
+//
+// Cloudflare Pages serves the closest 404.html walking up from the requested
+// path, so /es/anything gets the Spanish one and only an unprefixed miss falls
+// through to English. A reader who was three pages into the Hungarian site
+// should not be told in English that they took a wrong turn.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { aboutPath, homePath, locales, useTranslations, type Locale } from '../../i18n';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+
+// A 404 has no equivalent in the other languages beyond its own; the switcher
+// keeps working, but nothing here should be advertised to a crawler.
+const alternates = Object.fromEntries(
+  locales.map((code) => [code, homePath(code)]),
+) as Record<Locale, string>;
+---
+
+<BaseLayout
+  locale={locale}
+  title={t('notFound.title')}
+  description={t('notFound.body')}
+  alternates={alternates}
+  translated={{}}
+  noindex
+  searchable={false}
+>
+  <div class="col-text missing">
+    <h1>{t('notFound.title')}</h1>
+    <p class="body">{t('notFound.body')}</p>
+    <ul>
+      <li><a href={homePath(locale)}>{t('notFound.toTopics')}</a></li>
+      <li><a href={aboutPath(locale)}>{t('notFound.toAbout')}</a></li>
+    </ul>
+  </div>
+</BaseLayout>
+
+<style>
+  .missing {
+    padding-block: var(--space-2xl);
+  }
+
+  h1 {
+    font-size: var(--step-3);
+    margin-bottom: var(--space-m);
+  }
+
+  .body {
+    font-size: var(--step-1);
+    color: var(--ink-muted);
+  }
+
+  ul {
+    margin-top: var(--space-l);
+    padding: 0;
+    list-style: none;
+  }
+
+  li + li {
+    margin-top: var(--space-xs);
+  }
+</style>

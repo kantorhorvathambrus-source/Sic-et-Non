@@ -1,0 +1,134 @@
+---
+// Search, served from the site's own files.
+//
+// Pagefind builds one index per language from the built HTML, so a Hungarian
+// search returns Hungarian pages and stems Hungarian words. The index and the
+// runtime are static assets on this origin: nothing typed here leaves the
+// browser, which is the only kind of search this site can honestly offer.
+//
+// The script is loaded on the search page only, and only after the page has
+// rendered, so no reader pays for it while reading a topic.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { locales, searchPath, useTranslations, type Locale } from '../../i18n';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+
+const alternates = Object.fromEntries(
+  locales.map((code) => [code, searchPath(code)]),
+) as Record<Locale, string>;
+---
+
+<BaseLayout
+  locale={locale}
+  title={t('search.title')}
+  description={t('search.privacy')}
+  alternates={alternates}
+  searchable={false}
+>
+  <div class="col-text search-page">
+    <h1>{t('search.title')}</h1>
+    <p class="privacy">{t('search.privacy')}</p>
+
+    <div id="search" data-placeholder={t('search.placeholder')}
+      data-locale={locale}
+      data-unavailable={t('search.noscript')}></div>
+
+    <noscript>
+      <p class="noscript">{t('search.noscript')}</p>
+    </noscript>
+  </div>
+</BaseLayout>
+
+<script>
+  // Pagefind's UI is an IIFE that assigns window.PagefindUI, not an ES module,
+  // and its files only exist after the index is built — so it is loaded with a
+  // script tag at runtime rather than bundled. In dev, and if anything else
+  // goes wrong, the box says what happened instead of sitting there empty.
+  const mount = document.getElementById('search');
+
+  function load(tag: 'script' | 'link', href: string): Promise<void> {
+    return new Promise((resolve, reject) => {
+      const el = document.createElement(tag);
+      if (el instanceof HTMLScriptElement) el.src = href;
+      else {
+        el.rel = 'stylesheet';
+        el.href = href;
+      }
+      el.addEventListener('load', () => resolve());
+      el.addEventListener('error', () => reject(new Error(`could not load ${href}`)));
+      (tag === 'script' ? document.body : document.head).append(el);
+    });
+  }
+
+  if (mount) {
+    try {
+      await Promise.all([
+        load('link', '/pagefind/pagefind-ui.css'),
+        load('script', '/pagefind/pagefind-ui.js'),
+      ]);
+      const Ctor = (window as unknown as { PagefindUI?: new (o: unknown) => unknown }).PagefindUI;
+      if (!Ctor) throw new Error('pagefind-ui.js loaded but defined no PagefindUI');
+      new Ctor({
+        element: '#search',
+        showSubResults: true,
+        showImages: false,
+        excerptLength: 24,
+        // One index per language: a search in German must not return English.
+        language: mount.dataset.locale ?? 'en',
+        translations: { placeholder: mount.dataset.placeholder },
+      });
+    } catch (error) {
+      const note = document.createElement('p');
+      note.className = 'search-unavailable';
+      note.textContent = mount.dataset.unavailable ?? '';
+      mount.replaceChildren(note);
+      console.warn('[search]', error);
+    }
+  }
+</script>
+
+<style is:global>
+  /* Pagefind's UI ships its own stylesheet; these variables retint it to the
+     site's palette rather than loading a second theme. */
+  #search {
+    --pagefind-ui-scale: 0.9;
+    --pagefind-ui-primary: var(--ink);
+    --pagefind-ui-text: var(--ink);
+    --pagefind-ui-background: var(--bg);
+    --pagefind-ui-border: var(--rule);
+    --pagefind-ui-tag: var(--bg-sunken);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: var(--radius);
+    --pagefind-ui-font: var(--font-body);
+    margin-top: var(--space-l);
+  }
+</style>
+
+<style>
+  .search-page {
+    padding-block: var(--space-xl) var(--space-2xl);
+  }
+
+  h1 {
+    font-size: var(--step-3);
+    margin-bottom: var(--space-m);
+  }
+
+  .privacy,
+  .noscript,
+  :global(.search-unavailable) {
+    color: var(--ink-muted);
+  }
+
+  .noscript {
+    margin-top: var(--space-l);
+    padding: var(--space-m);
+    background: var(--bg-sunken);
+    border-radius: var(--radius);
+  }
+</style>

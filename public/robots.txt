@@ -1,0 +1,9 @@
+# Sic et Non — a static site. Everything here is meant to be read and indexed.
+User-agent: *
+Allow: /
+
+# Pagefind's index is machine-readable data behind the on-page search; there is
+# nothing in it that is not already in the pages themselves.
+Disallow: /pagefind/
+
+Sitemap: https://sic-et-non.pages.dev/sitemap.xml

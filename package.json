@@ -6,16 +6,20 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "npm run verify:content && astro build",
+    "build": "npm run verify:content && astro build && npm run search:index",
     "preview": "astro preview",
     "check": "astro check",
     "linkcheck": "node scripts/link-check.mjs",
     "verify:content": "node scripts/verify-quotes.mjs",
-    "milestone": "npm run check && npm run build && npm run linkcheck && npm run check:layout && npm run check:palette && npm run check:style",
+    "milestone": "npm run check && npm run build && npm run linkcheck && npm run check:layout && npm run check:palette && npm run check:style && npm run check:seo && npm run check:search",
     "search:index": "pagefind --site dist",
     "check:layout": "node scripts/layout-check.mjs",
     "check:palette": "node scripts/palette-check.mjs",
     "check:style": "node scripts/style-check.mjs",
+    "check:seo": "node scripts/seo-check.mjs",
+    "check:search": "node scripts/search-check.mjs",
+    "images": "node scripts/make-images.mjs",
+    "lighthouse": "node scripts/lighthouse.mjs",
     "verification:sheet": "node scripts/verification-sheet.mjs"
   },
   "dependencies": {
@@ -25,6 +29,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
+    "lighthouse": "^13.4.1",
     "pagefind": "^1.4.0",
     "playwright": "^1.62.1",
     "typescript": "^5.9.2"

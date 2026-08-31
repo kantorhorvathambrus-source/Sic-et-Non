@@ -115,6 +115,28 @@ function inspect({ minWidth, minWords, maxChars, minRatio }) {
     return (hi + 0.05) / (lo + 0.05);
   }
 
+  // What the eye actually receives. getComputedStyle().color reports the
+  // declared colour, which is not what is painted when the text is see-through:
+  // `opacity` on the element or any ancestor, and any alpha in the colour
+  // itself, blend it toward whatever is behind. Missing this let an
+  // `opacity: 0.55` on a 5.25:1 grey ship at 2.22:1 — the checker read 5.25 and
+  // passed it, and Lighthouse caught it instead.
+  function effectiveInk(el, style, bg) {
+    let alpha = toRGB(style.color)[3];
+    for (let n = el; n; n = n.parentElement) {
+      const value = Number(getComputedStyle(n).opacity);
+      if (Number.isFinite(value)) alpha *= value;
+    }
+    const [r, g, b] = toRGB(style.color);
+    if (alpha >= 0.999) return [r, g, b];
+    // Source-over: the text at `alpha` composited on the ground behind it.
+    return [
+      r * alpha + bg[0] * (1 - alpha),
+      g * alpha + bg[1] * (1 - alpha),
+      b * alpha + bg[2] * (1 - alpha),
+    ];
+  }
+
   /** The first ancestor that actually paints something behind the text. */
   function backgroundOf(el) {
     for (let n = el; n; n = n.parentElement) {
@@ -124,9 +146,21 @@ function inspect({ minWidth, minWords, maxChars, minRatio }) {
     return toRGB(getComputedStyle(document.body).backgroundColor);
   }
 
+  function cumulativeOpacity(el) {
+    let alpha = 1;
+    for (let n = el; n; n = n.parentElement) {
+      const value = Number(getComputedStyle(n).opacity);
+      if (Number.isFinite(value)) alpha *= value;
+    }
+    return alpha;
+  }
+
   function isInvisible(el) {
     const style = getComputedStyle(el);
     if (style.visibility === 'hidden' || style.display === 'none') return true;
+    // Nothing is painted at all, so there is no contrast to judge. Pagefind's
+    // suppressed "clear" button sits at opacity 0 until the field has text.
+    if (cumulativeOpacity(el) < 0.02) return true;
     // The visually-hidden pattern: clipped to nothing, sized to a pixel.
     if (style.clipPath && style.clipPath !== 'none') {
       const rect = el.getBoundingClientRect();
@@ -241,7 +275,8 @@ function inspect({ minWidth, minWords, maxChars, minRatio }) {
     // --- contrast, on whatever element actually holds the words ------------
     const ownWords = ownWordCount(el);
     if (ownWords > 0 && !isInvisible(el)) {
-      const ratio = contrast(toRGB(style.color), backgroundOf(el));
+      const ground = backgroundOf(el);
+      const ratio = contrast(effectiveInk(el, style, ground), ground);
       const weight = Number(style.fontWeight) || 400;
       // WCAG counts >=24px, or >=18.66px bold, as large text.
       const large = fontPx >= 24 || (fontPx >= 18.66 && weight >= 700);
@@ -253,6 +288,7 @@ function inspect({ minWidth, minWords, maxChars, minRatio }) {
           need,
           fontPx: Math.round(fontPx * 10) / 10,
           weight,
+          opacity: Math.round(cumulativeOpacity(el) * 100) / 100,
           text: excerpt(el),
         });
       }
@@ -562,7 +598,8 @@ if (byKind.contrast.length > 0) {
   for (const p of byKind.contrast.slice(0, 15)) {
     console.error(
       `    ${p.route}  [${p.theme}]\n` +
-        `      ${p.selector}  ${p.ratio}:1, needs ${p.need}:1  (${p.fontPx}px w${p.weight})\n` +
+        `      ${p.selector}  ${p.ratio}:1, needs ${p.need}:1  ` +
+        `(${p.fontPx}px w${p.weight}${p.opacity < 0.999 ? `, opacity ${p.opacity}` : ''})\n` +
         `      "${p.text}..."\n`,
     );
   }

@@ -7,7 +7,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import StatusTag from '../StatusTag.astro';
 import Quotation from '../Quotation.astro';
 import { locales, topicPath, useTranslations, type Locale } from '../../i18n';
-import { alternatesForTopic, getTopicsForLocale, orderedSides } from '../../lib/topics';
+import { alternatesForTopic,
+  translatedAlternatesForTopic, getTopicsForLocale, orderedSides } from '../../lib/topics';
 import { toPlainText } from '../../lib/richtext';
 
 interface Props {
@@ -28,6 +29,12 @@ const sides = orderedSides(topic);
 // The map lives at .../map in every locale, so build its alternates from the
 // topic's own alternates rather than duplicating the lookup.
 const topicAlternates = await alternatesForTopic(topic.id);
+const translated = Object.fromEntries(
+  Object.entries(await translatedAlternatesForTopic(topic.id)).map(([code, path]) => [
+    code,
+    `${path}/map`,
+  ]),
+) as Partial<Record<Locale, string>>;
 const alternates = Object.fromEntries(
   locales.map((code) => {
     const base = topicAlternates[code];
@@ -46,6 +53,7 @@ const branches = sides.flatMap((side) =>
   title={`${t('topic.argumentMap')}: ${topic.title}`}
   description={toPlainText(topic.realQuestion).slice(0, 300)}
   alternates={alternates}
+  translated={translated}
 >
   <div class="col-text">
     <header class="map-head">

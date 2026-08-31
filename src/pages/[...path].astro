@@ -2,58 +2,22 @@
 // Every route on the site.
 //
 // The path segments are localised — /topics/... in English, /es/temas/... in
-// Spanish — which file-based routing cannot express, so the whole route table is
-// generated here and each page kind is delegated to its own component.
-import { aboutSlug, locales, localePath, topicSegment, type Locale } from '../i18n';
-import { getLocalisedTopics } from '../lib/topics';
+// Spanish — which file-based routing cannot express, so the route table is
+// generated (in lib/routes, shared with the sitemap) and each page kind is
+// delegated to its own component.
+import { siteRoutes } from '../lib/routes';
 import HomePage from '../components/pages/HomePage.astro';
 import AboutPage from '../components/pages/AboutPage.astro';
 import TopicPage from '../components/pages/TopicPage.astro';
 import ArgumentMapPage from '../components/pages/ArgumentMapPage.astro';
+import SearchPage from '../components/pages/SearchPage.astro';
 
 export async function getStaticPaths() {
-  const topics = await getLocalisedTopics();
-
-  const paths: {
-    params: { path: string | undefined };
-    props: { kind: 'home' | 'about' | 'topic' | 'map'; locale: Locale; topicId?: string };
-  }[] = [];
-
-  for (const locale of locales) {
-    const prefix = localePath(locale).replace(/^\//, '');
-
-    paths.push({
-      params: { path: prefix || undefined },
-      props: { kind: 'home', locale },
-    });
-
-    paths.push({
-      params: { path: [prefix, aboutSlug[locale]].filter(Boolean).join('/') },
-      props: { kind: 'about', locale },
-    });
-  }
-
-  for (const { entry, locale } of topics) {
-    const base = [
-      localePath(locale).replace(/^\//, ''),
-      topicSegment[locale],
-      entry.data.slug,
-    ]
-      .filter(Boolean)
-      .join('/');
-
-    paths.push({
-      params: { path: base },
-      props: { kind: 'topic', locale, topicId: entry.data.id },
-    });
-
-    paths.push({
-      params: { path: `${base}/map` },
-      props: { kind: 'map', locale, topicId: entry.data.id },
-    });
-  }
-
-  return paths;
+  const routes = await siteRoutes();
+  return routes.map(({ path, kind, locale, topicId }) => ({
+    params: { path },
+    props: { kind, locale, topicId },
+  }));
 }
 
 const { kind, locale, topicId } = Astro.props;
@@ -61,5 +25,6 @@ const { kind, locale, topicId } = Astro.props;
 
 {kind === 'home' && <HomePage locale={locale} />}
 {kind === 'about' && <AboutPage locale={locale} />}
+{kind === 'search' && <SearchPage locale={locale} />}
 {kind === 'topic' && topicId && <TopicPage locale={locale} topicId={topicId} />}
 {kind === 'map' && topicId && <ArgumentMapPage locale={locale} topicId={topicId} />}

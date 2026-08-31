@@ -61,6 +61,12 @@ export async function getTopicsForLocale(locale: Locale): Promise<TopicEntry[]> 
 /**
  * Where the same topic lives in each language. Locales that have no file yet
  * fall back to the locale's home page, so a switcher link is never dead.
+ *
+ * This is for the switcher only. It must not be used for hreflang: pointing
+ * hreflang="es" at the Spanish home page claims that page is the Spanish
+ * version of this topic, which is false and not reciprocal — the Spanish home
+ * page names the five home pages as its own alternates, not this one. Use
+ * translatedAlternatesForTopic for the markup.
  */
 export async function alternatesForTopic(topicId: string): Promise<Record<Locale, string>> {
   const all = await getLocalisedTopics();
@@ -75,6 +81,25 @@ export async function alternatesForTopic(topicId: string): Promise<Record<Locale
       : locale === defaultLocale
         ? '/'
         : `/${locale}`;
+  }
+
+  return paths;
+}
+
+/**
+ * Only the locales that actually carry this topic. This is what hreflang gets:
+ * an annotation for a translation that does not exist is worse than no
+ * annotation at all.
+ */
+export async function translatedAlternatesForTopic(
+  topicId: string,
+): Promise<Partial<Record<Locale, string>>> {
+  const all = await getLocalisedTopics();
+  const paths: Partial<Record<Locale, string>> = {};
+
+  for (const item of all) {
+    if (item.entry.data.id !== topicId) continue;
+    paths[item.locale] = topicPath(item.locale, item.entry.data.slug);
   }
 
   return paths;

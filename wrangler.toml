@@ -1,0 +1,11 @@
+# Cloudflare Pages, deployed from the built output.
+#
+#   npm run milestone        build and check
+#   npx wrangler pages deploy dist --project-name sic-et-non
+#
+# Nothing here needs an account id in the file: wrangler takes it from
+# CLOUDFLARE_ACCOUNT_ID or from `wrangler login`. No secrets belong in this
+# repository — the site has no backend and no keys.
+name = "sic-et-non"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-08-30"

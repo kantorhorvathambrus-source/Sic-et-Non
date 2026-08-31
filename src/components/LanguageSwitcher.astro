@@ -6,12 +6,18 @@ import { locales, useTranslations, type Locale } from '../i18n';
 
 interface Props {
   locale: Locale;
-  // /** Path to the equivalent page in each locale. */
+  // /** Where each locale's link goes. */
   alternates: Record<Locale, string>;
+  // /** The locales that genuinely carry this page. Others land on a home page. */
+  translated?: Partial<Record<Locale, string>>;
 }
 
-const { locale, alternates } = Astro.props;
+const { locale, alternates, translated } = Astro.props;
 const t = useTranslations(locale);
+// A language this page has not been written in yet still gets a link, because a
+// missing one is worse, but it says where it is actually going rather than
+// looking identical to the four that keep the reader's place.
+const has = (code: Locale) => !translated || Boolean(translated[code]);
 ---
 
 <nav class="lang" aria-label={t('lang.switch')}>
@@ -24,9 +30,13 @@ const t = useTranslations(locale);
             hreflang={code}
             lang={code}
             data-lang-link
+            class:list={{ untranslated: !has(code) }}
             aria-current={code === locale ? 'true' : undefined}
           >
-            <abbr title={t(`lang.${code}`)}>{code.toUpperCase()}</abbr>
+            <abbr title={has(code) ? t(`lang.${code}`) : `${t(`lang.${code}`)} — ${t('lang.untranslated')}`}>
+              {code.toUpperCase()}
+            </abbr>
+            {!has(code) && <span class="visually-hidden">{t('lang.untranslated')}</span>}
           </a>
         </li>
       ))
@@ -57,6 +67,16 @@ const t = useTranslations(locale);
   a:hover {
     color: var(--ink);
     background: var(--bg-sunken);
+  }
+
+  /* Still a link, but not pretending to be a translation.
+     The mark is texture, not weight. Dimming this with opacity took a 5.25:1
+     grey down to 2.22:1 — the reader who most needs to notice the difference is
+     the one least able to see it at that contrast. */
+  a.untranslated abbr {
+    text-decoration: underline dotted;
+    text-underline-offset: 0.25em;
+    text-decoration-thickness: 1px;
   }
 
   a[aria-current='true'] {

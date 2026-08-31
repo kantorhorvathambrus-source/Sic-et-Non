@@ -4,6 +4,7 @@ import {
   aboutPath,
   homePath,
   htmlLang,
+  searchPath,
   locales,
   useTranslations,
   type Locale,
@@ -15,14 +16,42 @@ interface Props {
   locale: Locale;
   title: string;
   description: string;
-  // /** Path to the equivalent page in each locale, for the switcher and hreflang. */
+  // Where the switcher sends the reader for each locale. A locale with no
+  // translation of this page falls back to its home page, so no link is dead.
   alternates: Record<Locale, string>;
+  // The locales that genuinely carry this page, for hreflang. Defaults to
+  // alternates, which is correct for pages that exist in every language.
+  translated?: Partial<Record<Locale, string>>;
+  // Error pages are reachable but should not be indexed or canonicalised.
+  noindex?: boolean;
+  // Whether this page's own text belongs in the search index. The search page
+  // and the 404s are navigation, not content: a reader searching for "suffering"
+  // should not be handed the search box back.
+  searchable?: boolean;
 }
 
-const { locale, title, description, alternates } = Astro.props;
+const {
+  locale,
+  title,
+  description,
+  alternates,
+  translated = alternates,
+  noindex = false,
+  searchable = true,
+} = Astro.props;
+const hreflangs = locales.filter((code) => translated[code]);
 const t = useTranslations(locale);
 const site = Astro.site;
 const canonical = new URL(Astro.url.pathname.replace(/\/$/, '') || '/', site ?? Astro.url);
+// Open Graph wants language_TERRITORY, where <html lang> carries only the
+// language. Nothing else on the page needs the territory, so it lives here.
+const ogLocale: Record<Locale, string> = {
+  en: 'en_GB',
+  es: 'es_ES',
+  fr: 'fr_FR',
+  de: 'de_DE',
+  hu: 'hu_HU',
+};
 const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.name')}`;
 ---
 
@@ -33,29 +62,47 @@ const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.nam
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical.href} />
+    {noindex ? <meta name="robots" content="noindex, follow" /> : <link rel="canonical" href={canonical.href} />}
 
     {
-      locales.map((code) => (
+      hreflangs.map((code) => (
         <link
           rel="alternate"
           hreflang={htmlLang[code]}
-          href={new URL(alternates[code], site ?? Astro.url).href}
+          href={new URL(translated[code]!, site ?? Astro.url).href}
         />
       ))
     }
     <link
       rel="alternate"
       hreflang="x-default"
-      href={new URL(alternates.en, site ?? Astro.url).href}
+      href={new URL(translated.en ?? alternates.en, site ?? Astro.url).href}
     />
 
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={t('site.name')} />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:locale" content={htmlLang[locale]} />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:url" content={canonical.href} />
+    <meta property="og:locale" content={ogLocale[locale]} />
+    {
+      locales
+        .filter((code) => code !== locale)
+        .map((code) => <meta property="og:locale:alternate" content={ogLocale[code]} />)
+    }
+    <meta property="og:image" content={new URL('/og.png', site ?? Astro.url).href} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={t('site.description')} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={new URL('/og.png', site ?? Astro.url).href} />
+
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
 
     <script is:inline>
       // Applied before first paint so the page never flashes the wrong theme.
@@ -73,7 +120,7 @@ const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.nam
   <body>
     <a class="skip-link" href="#main">{t('nav.skipToContent')}</a>
 
-    <header class="masthead">
+    <header class="masthead" data-pagefind-ignore>
       <div class="wrap masthead-inner">
         <a class="wordmark" href={homePath(locale)}>
           <span class="wordmark-name">{t('site.name')}</span>
@@ -82,20 +129,21 @@ const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.nam
         <nav class="primary" aria-label={t('nav.home')}>
           <a href={homePath(locale)}>{t('nav.home')}</a>
           <a href={aboutPath(locale)}>{t('nav.about')}</a>
+          <a href={searchPath(locale)}>{t('search.nav')}</a>
         </nav>
 
         <div class="controls">
-          <LanguageSwitcher locale={locale} alternates={alternates} />
+          <LanguageSwitcher locale={locale} alternates={alternates} translated={translated} />
           <ThemeToggle locale={locale} />
         </div>
       </div>
     </header>
 
-    <main id="main" tabindex="-1">
+    <main id="main" tabindex="-1" data-pagefind-body={searchable ? true : undefined} data-pagefind-ignore={searchable ? undefined : true}>
       <slot />
     </main>
 
-    <footer class="site-footer">
+    <footer class="site-footer" data-pagefind-ignore>
       <div class="wrap">
         <p class="tagline">{t('site.tagline')}</p>
         <p class="small">{t('footer.builtWith')}</p>

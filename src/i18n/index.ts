@@ -39,6 +39,15 @@ export const aboutSlug: Record<Locale, string> = {
   hu: 'a-honlaprol',
 };
 
+/** The search page's own slug, localised. */
+export const searchSlug: Record<Locale, string> = {
+  en: 'search',
+  es: 'buscar',
+  fr: 'recherche',
+  de: 'suche',
+  hu: 'kereses',
+};
+
 const dictionaries: Record<Locale, Record<string, string>> = { en, es, fr, de, hu };
 
 export function isLocale(value: string): value is Locale {
@@ -76,6 +85,10 @@ export function homePath(locale: Locale): string {
 
 export function aboutPath(locale: Locale): string {
   return localePath(locale, aboutSlug[locale]);
+}
+
+export function searchPath(locale: Locale): string {
+  return localePath(locale, searchSlug[locale]);
 }
 
 export function topicPath(locale: Locale, slug: string): string {

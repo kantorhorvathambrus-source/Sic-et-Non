@@ -11,6 +11,7 @@ import RichText from '../RichText.astro';
 import { homePath, mapPath, useTranslations, type Locale } from '../../i18n';
 import {
   alternatesForTopic,
+  translatedAlternatesForTopic,
   getTopicsForLocale,
   orderedSides,
   readingTime,
@@ -33,6 +34,7 @@ const topic = entry.data;
 const glossary = buildGlossary(topic.glossary);
 const sides = orderedSides(topic);
 const alternates = await alternatesForTopic(topic.id);
+const translated = await translatedAlternatesForTopic(topic.id);
 const minutes = readingTime(topic);
 ---
 
@@ -41,6 +43,7 @@ const minutes = readingTime(topic);
   title={topic.title}
   description={toPlainText(topic.realQuestion).slice(0, 300)}
   alternates={alternates}
+  translated={translated}
 >
   <article class="topic">
     <div class="col-text">
