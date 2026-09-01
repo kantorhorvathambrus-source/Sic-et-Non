@@ -14,13 +14,13 @@ Tracks which of the twenty topics are drafted, reviewed and translated.
 | 4 | If God wants to be known, why is he hidden? | open | yes | not yet | ✓ | – | – | – | – |
 | 5 | Is the universe fine-tuned for life? | open | yes | not yet | ✓ | – | – | – | – |
 | 6 | Creation or evolution? | settled-core | yes | not yet | ✓ | ✓ | ✓ | ✓ | ✓ |
-| 7 | Where did the first living cell come from? | open | – | – | – | – | – | – | – |
-| 8 | Is the mind more than the brain? | open | – | – | – | – | – | – | – |
-| 9 | Do we have free will? | open | – | – | – | – | – | – | – |
-| 10 | Can there be objective morality without God? | open | – | – | – | – | – | – | – |
-| 11 | What should we make of the violence in the Old Testament? | interpretive | – | – | – | – | – | – | – |
-| 12 | Can eternal damnation be just? | interpretive | – | – | – | – | – | – | – |
-| 13 | Did Jesus exist, and did he rise? | settled-core | – | – | – | – | – | – | – |
+| 7 | Where did the first living cell come from? | open | yes | not yet | ✓ | – | – | – | – |
+| 8 | Is the mind more than the brain? | open | yes | not yet | ✓ | – | – | – | – |
+| 9 | Do we have free will? | open | yes | not yet | ✓ | – | – | – | – |
+| 10 | Can there be objective morality without God? | open | yes | not yet | ✓ | – | – | – | – |
+| 11 | What should we make of the violence in the Old Testament? | interpretive | yes | not yet | ✓ | – | – | – | – |
+| 12 | Can eternal damnation be just? | interpretive | yes | not yet | ✓ | – | – | – | – |
+| 13 | Did Jesus exist, and did he rise? | settled-core | yes | not yet | ✓ | – | – | – | – |
 | 14 | Is the Bible reliable? | open | – | – | – | – | – | – | – |
 | 15 | Can a miracle ever be evidenced? | open | – | – | – | – | – | – | – |
 | 16 | Why Christianity rather than any other religion? | open | – | – | – | – | – | – | – |

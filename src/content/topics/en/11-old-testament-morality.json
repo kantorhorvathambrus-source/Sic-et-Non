@@ -1,0 +1,263 @@
+{
+  "id": "old-testament-morality",
+  "number": 11,
+  "slug": "old-testament-morality",
+  "title": "What should we make of the violence in the Old Testament?",
+  "category": "history-and-text",
+  "status": "interpretive",
+  "realQuestion": "In Deuteronomy and Joshua, God is described as commanding Israel to leave nothing alive in the cities of Canaan. In 1 Samuel, Saul loses his kingdom for sparing the Amalekite king and the livestock. These are not obscure passages, and they are not the only ones.\n\nThe argument is about what a reader should conclude from them. One side takes them as decisive: whatever else the Bible contains, a book that has God ordering the killing of children is describing a being no one should worship, and the various ways of reading around this arrived long after the objection did. The other side holds that the objection reads an ancient text as though it were a modern war report, and misses both what the genre is doing and what the tradition itself did with these passages afterwards.\n\nThis is tagged interpretive because both sides can grant every fact — what the words say, when they were written, what happened in the ground — and still disagree, because what is in dispute is what those facts are evidence of.",
+  "distinctions": [
+    {
+      "label": "Did the conquest happen as described?",
+      "gloss": "Largely no, and this is not really contested by archaeologists of any persuasion. It matters less than it seems: the moral objection is to the text presenting God as commanding it, which stands whether or not it was carried out. Set out in the note below.",
+      "activeHere": false
+    },
+    {
+      "label": "Do these passages give good reason to reject the God the Bible describes?",
+      "gloss": "This is the argument on this page. It is a question about what follows from a text, and both sides agree about what the text says.",
+      "activeHere": true
+    },
+    {
+      "label": "Has religion caused more violence than it prevented?",
+      "gloss": "A different question, largely empirical, about institutions and history rather than about a text. Topic 18.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "herem",
+      "definition": "The Hebrew term in these passages, usually rendered 'devote to destruction' or 'utterly destroy'. Its range and force is one of the things scholars disagree about."
+    },
+    {
+      "term": "accommodation",
+      "definition": "The idea, older than the modern debate, that God works within the limits of the culture he is speaking to rather than correcting everything at once. Calvin used it; so do several positions here."
+    },
+    {
+      "term": "inerrancy",
+      "definition": "The doctrine that Scripture contains no errors of any kind. Several of the readings below are available only to Christians who do not hold it, which is why the objection lands differently in different churches."
+    }
+  ],
+  "sides": [
+    {
+      "label": "The commands are not what a modern reader takes them to be",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "conquest-rhetoric",
+          "claim": "'Leave nothing alive' was standard exaggeration in ancient war writing, and the same books show survivors",
+          "explanation": "The first move is about genre, and it is a claim about evidence rather than a plea. Egyptian, Moabite and Assyrian conquest accounts routinely say a people was annihilated and left without seed, in cases where we know from other records that the people continued.\n\nThe biblical text does the same thing to itself. Joshua reports total destruction; Judges, which continues the story, has Canaanites living everywhere. Paul Copan's argument is that a reader who takes '[[herem]] everything that breathes' as a body count is reading a battle report in a genre that did not exist yet, and that the internal contradiction is not an error but a signal about what kind of writing it is.",
+          "quote": {
+            "text": "Joshua's conventional warfare rhetoric was common in many other ancient Near Eastern military accounts in the second and first millennia B.C.",
+            "author": "Paul Copan",
+            "work": "Is God a Moral Monster? Making Sense of the Old Testament God",
+            "year": "2011",
+            "sourceUrl": "https://www.str.org/w/the-canaanites-genocide-or-judgment-",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "Hyperbole about how thoroughly a city was taken is one thing; a specific instruction to kill women, children and infants is another, and 1 Samuel 15 gives the list. The reading also cuts the wrong way. If the language is conventional, then Israel's God is being made to speak in the idiom of the surrounding war gods, which is closer to the critic's account of what is going on than to the defender's. And no reader took it as hyperbole for three thousand years.",
+            "objectionFrom": "atheist",
+            "response": "The lists are themselves part of the formula, appearing in the same stereotyped order in non-biblical texts. Later readers taking it literally is a fact about later readers, and it is why the reading is being urged now."
+          }
+        },
+        {
+          "id": "not-a-moral-peer",
+          "claim": "The objection assumes God is bound by the duties we owe each other, which no version of theism holds",
+          "explanation": "The second move concedes the text and disputes the standard applied to it. You may not take a life; a doctor may cut you open; a state may imprison you. What is permitted turns on the relation, and the relation between a creator and a creature is not the relation between two neighbours.\n\nOn William Lane Craig's account God has no duty to prolong anyone's life, and he issues, rather than obeys, obligations. The claim is not that anything he commanded would be right by definition — Craig holds that God's nature constrains what he can command — but that the objection smuggles in a picture of God as an unusually powerful citizen breaking laws that apply to him.",
+          "quote": {
+            "text": "since our moral duties are constituted by God's commands, what He commands is just and right",
+            "author": "William Lane Craig",
+            "work": "Slaughter of the Canaanites (Question of the Week)",
+            "year": "2007",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The strongest form of this objection is Christian, not atheist. Randal Rauser, Eleonore Stump and others have argued that if 'what God commands is just' can absorb the killing of infants, the word 'just' has stopped meaning anything a worshipper could recognise, and the moral argument of topic 10 collapses with it — because that argument depends on our being able to tell that some things are monstrous. A defence that saves God's goodness by making it unrecognisable has given away what it set out to protect. And this reading is the one that has actually been used: by crusaders, by settlers, by anyone with a Canaanite to hand.",
+            "objectionFrom": "within",
+            "response": "Recognising that something is monstrous for us to do is compatible with its not being monstrous for the one who gives and takes life. The distinction is not invented for this case; it is the ordinary structure of moral permission."
+          }
+        }
+      ]
+    },
+    {
+      "label": "A good God would not have commanded it, so the text is wrong about him",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "the-inerrantist-challenge",
+          "claim": "Either these commands were good, or the book that reports them got God wrong",
+          "explanation": "Wes Morriston's version is careful and it is addressed to Christians rather than about them. It does not begin from a claim that the Bible is worthless. It begins from a claim most Christians already accept: that killing children is wrong, and that we know this as securely as we know anything moral.\n\nThe argument then runs as a dilemma. God, being good, would command such a thing only for morally sufficient reasons; it is very hard to see what those could be, given that an omnipotent being had every other option available; so the more reasonable conclusion is that the text is mistaken about what God commanded. That conclusion is available to a Christian — and unavailable to one who holds [[inerrancy]], which is why the argument bites hardest exactly where the doctrine is strongest.",
+          "quote": {
+            "text": "thoughtful Christians who hold the Old Testament in high regard must come to terms with passages in which God is said to command what appear to be moral atrocities",
+            "author": "Wes Morriston",
+            "work": "Did God Command Genocide? A Challenge to the Biblical Inerrantist, Philosophia Christi 11",
+            "year": "2009",
+            "locator": "pp. 7-26",
+            "sourceUrl": "https://spot.colorado.edu/~morristo/DidGodCommandGenocide.pdf",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The dilemma assumes we are in a position to survey the reasons an omniscient being might have, and the same move is rejected by most atheists when it appears in the problem of suffering as the 'noseeum' inference. If our inability to see a reason does not settle the case there, it does not settle it here. The argument also proves less than it appears: its conclusion is that a doctrine of inerrancy is false, which most Christians in the world have never held.",
+            "objectionFrom": "theist",
+            "response": "The comparison fails on the difference between permitting and commanding. Declining to prevent a harm for reasons we cannot see is one thing; instructing someone to inflict it is another, and it is the instruction that is in the text."
+          }
+        },
+        {
+          "id": "readings-that-arrive-on-schedule",
+          "claim": "Every one of these readings appeared after the objection, and each appears when the previous one fails",
+          "explanation": "This argument is about the pattern rather than about any single reading. The hyperbole reading, the accommodation reading, the cruciform reading and the judgement reading are all set out below, and they are mutually inconsistent — the text either records a real command or it does not.\n\nWhat they have in common is timing. None was the standard reading before the modern moral objection became forceful, and each becomes prominent as the one before it draws fire. A set of explanations that can absorb any result, and that arrives in the order that pressure is applied, is behaving the way a rationalisation behaves rather than the way a discovery does.",
+          "quote": {
+            "text": "The proposed readings are inconsistent with one another and none was the dominant reading before the modern moral objection; a family of explanations that arrives in the order the pressure is applied is exhibiting accommodation rather than discovery.",
+            "author": "Wes Morriston",
+            "work": "Ethical Criticism of the Bible: The Case of Divinely Mandated Genocide, Sophia 51(1)",
+            "year": "2012",
+            "locator": "our summary of the objection Morriston presses against the standard replies; not his wording",
+            "sourceUrl": "https://philpapers.org/rec/MORDGC",
+            "verification": "paraphrase"
+          },
+          "counter": {
+            "objection": "The dates do not support the claim. Origen read these passages non-literally in the third century, and the [[accommodation]] principle is in Calvin — both long before Enlightenment moral criticism. That new readings appear when a question becomes pressing is also how every field works, including this objection, which is itself a modern development of a much older complaint. Timing tells you when people started looking, not whether they found anything.",
+            "objectionFrom": "theist",
+            "response": "Origen allegorised most of the Old Testament, so his reading of these texts is not evidence of a moral scruple about them in particular. The four readings below are recognisably twentieth-century, and their proponents say so."
+          }
+        }
+      ]
+    }
+  ],
+  "context": {
+    "heading": "Four Christian readings of the conquest texts",
+    "intro": "The two arguments above are the general moves. These are the specific readings behind them, and they disagree with each other at least as sharply as any of them disagrees with the critic — a Christian who holds the second cannot hold the third. Most people raised in a church have met only one of these and did not know the others existed.",
+    "note": {
+      "heading": "What the ground says",
+      "text": "The archaeology is not a matter of dispute between the positions below, and all of them have to accommodate it. There is no evidence of a mass invasion of Canaan from outside, and no destruction layer pattern matching the account in Joshua. Jericho's walls appear to have been in ruins for a century or more before any plausible date for the conquest. The current mainstream reconstruction has early Israel emerging largely from within Canaanite society rather than arriving to destroy it.\n\nThis cuts in more than one direction. It removes the historical atrocity, which matters. It does not remove the text, and the moral objection is to a book that presents God as commanding this — a book that was read, and acted on, for three thousand years after whatever did or did not happen.",
+      "quote": {
+        "text": "about as certain as you can be about these things that the conquest of Canaan as the Bible describes did not happen: no mass invasion from the outside by an Israelite army, and no extermination of Canaanites as God commanded",
+        "author": "Peter Enns",
+        "work": "The Bible Tells Me So",
+        "year": "2014",
+        "locator": "Enns reporting the consensus among biblical archaeologists",
+        "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+        "verification": "corroborated"
+      }
+    },
+    "entries": [
+      {
+        "id": "judgement",
+        "name": "It was judgement, and judgement is God's to give",
+        "heldBy": "William Lane Craig, and much of conservative evangelical apologetics",
+        "oneLine": "The commands were real, and were a just sentence on a specific culture at a specific moment — not a precedent.",
+        "summary": "On this reading the texts mean what they say. The Canaanite cultures are described in Leviticus as practising child sacrifice and ritual prostitution, and the conquest is presented as a judgement long delayed — Genesis has God telling Abraham that his descendants will not return for four generations because 'the iniquity of the Amorites is not yet complete'.\n\nThe reading depends on two further claims: that God, as the giver of life, does no wrong in ending one, and that this was an unrepeatable circumstance rather than a standing permission. Both are stated explicitly by its defenders, the second because the reading's obvious danger is that someone will apply it again.",
+        "quote": {
+          "text": "the conquest of Canaan represented God's just judgement upon those peoples",
+          "author": "William Lane Craig",
+          "work": "Slaughter of the Canaanites (Question of the Week)",
+          "year": "2007",
+          "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
+          "verification": "corroborated"
+        },
+        "standing": "It is the only reading that takes the text at face value, which its holders count as its virtue and its critics as its cost. The historical premise is weak — the descriptions of Canaanite practice come from the conquering side, and archaeology does not support a picture of exceptional depravity — and the moral premise carries the objection stated on this page by Christians as often as by atheists. It is also the reading with the worst record in use, having been available to anyone who could cast a neighbour as a Canaanite."
+      },
+      {
+        "id": "hyperbole",
+        "name": "The language is ancient war rhetoric, not a body count",
+        "heldBy": "Paul Copan, Matthew Flannagan, Tremper Longman",
+        "oneLine": "'Utterly destroy' was formula, the campaigns were mostly against military outposts, and the text itself shows survivors.",
+        "summary": "This reading keeps the commands as historical but denies that they mean extermination. Comparable Egyptian and Assyrian texts declare peoples annihilated who demonstrably continued; the phrases are stock. Joshua's cities look, archaeologically, more like garrisons than population centres, and Judges shows Canaanites everywhere immediately afterwards.\n\nIt is the reading with the most scholarly machinery behind it, and the one most often confused with simple minimising by people who have not read the argument.",
+        "quote": {
+          "text": "seems to reflect the very language of the ancient Near East where you do have strong exaggeration",
+          "author": "Paul Copan",
+          "work": "interview on Is God a Moral Monster?",
+          "year": "2011",
+          "sourceUrl": "https://www.modernreformation.org/resources/interviews/is-god-a-moral-monster-q-a-with-paul-copan",
+          "verification": "corroborated"
+        },
+        "standing": "The comparative evidence for the convention is real and is accepted well outside apologetics. What it does not obviously reach is the explicit instruction in 1 Samuel 15 to kill infants, which is specific where the formula is general. Critics also note that the reading buys its result at the price of making Israel's God speak in the idiom of the surrounding war gods, which is not a comfortable place for the defence to end up."
+      },
+      {
+        "id": "accommodation",
+        "name": "The Israelites believed God commanded it, and the text records their belief",
+        "heldBy": "Peter Enns, Kenton Sparks, and much of mainline and progressive scholarship",
+        "oneLine": "An ancient tribal people understood their God the way ancient tribal peoples did; Scripture records that honestly rather than correcting it.",
+        "summary": "On this reading the Bible is not a set of dictated propositions but the record of a people's developing understanding of God, including the parts they got wrong. Israel's neighbours all had war gods who granted victory and demanded the spoils; Israel wrote in that idiom because Israel lived in that world.\n\nThe theological claim is that God accommodates himself to where people are rather than starting with a lecture — a principle Calvin used, applied further than Calvin applied it. What the text gives you is a true account of how Israel saw God at that stage, not a true account of God.",
+        "quote": {
+          "text": "God never told the Israelites to kill the Canaanites. The Israelites believed that God told them to kill the Canaanites.",
+          "author": "Peter Enns",
+          "work": "The Bible Tells Me So",
+          "year": "2014",
+          "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+          "verification": "corroborated"
+        },
+        "standing": "It fits the archaeology better than any other reading and removes the moral problem cleanly. The price is [[inerrancy]], which it abandons openly, and a question it must answer: if the text can be wrong about this, what settles which parts are wrong? Enns' answer is that Jesus is the criterion, which is the same move the reading below makes, more cautiously."
+      },
+      {
+        "id": "cruciform",
+        "name": "The violent portraits are real, and must be read through the cross",
+        "heldBy": "Gregory Boyd, and a strand of Anabaptist and nonviolent theology",
+        "oneLine": "God's character is fully revealed in a crucified man; where the Old Testament shows something else, it is showing God stooping to bear his people's misunderstanding.",
+        "summary": "This reading refuses both of the usual exits. It does not soften the texts — Boyd insists they are as violent as they look — and it does not simply call them mistaken. It treats them as revelation of a particular kind.\n\nOn the cross, God takes on an appearance that misrepresents him: a criminal, cursed, defeated. Boyd argues that the violent portraits work the same way. God allowed himself to be depicted as his people could then conceive him, bearing the distortion rather than abandoning them, and the cross is what tells us it is a distortion. The claim is that this is not a rescue imported from outside but the interpretive method the New Testament already uses on the Old.",
+        "quote": {
+          "text": "The Old Testament's violent portraits of God are not softened or set aside but read as God stooping to bear the distorted way his people conceived him, in the same self-emptying that reaches its full expression at the cross, where God again takes on an appearance that misrepresents his true character.",
+          "author": "Gregory A. Boyd",
+          "work": "The Crucifixion of the Warrior God",
+          "year": "2017",
+          "locator": "our summary of the cruciform thesis; not Boyd's wording",
+          "sourceUrl": "https://reknew.org/book/crucifixion-warrior-god/",
+          "verification": "paraphrase"
+        },
+        "standing": "It is the most theologically ambitious of the four and the least widely held. Conservative reviewers object that it lets a reader mark any passage as distortion; critics from the other direction note that it concedes the whole moral objection and then declines to draw the obvious conclusion. Its defenders regard both objections as the point: the method is meant to keep the texts and the moral judgement at once."
+      }
+    ]
+  },
+  "notes": [
+    {
+      "heading": "The texts that argue with the texts",
+      "text": "The Old Testament is not univocal about this, and reading it as though it were is an error both sides make. Jonah is a story about a prophet furious that God spares a foreign city. Ruth's heroine is a Moabite, from a people Deuteronomy bars from the assembly. Amos has God saying he brought the Philistines from Caphtor as he brought Israel from Egypt, which removes the special claim the conquest rests on.\n\nThis does not answer the objection, and it is not offered as an answer. It bears on a narrower question: whether the conquest texts represent the settled mind of the tradition that carried them. They were preserved alongside their own contradiction, by editors who evidently saw no need to remove either."
+    }
+  ],
+  "whereItStands": "Nothing about the evidence is going to move this, which is why the tag is what it is. The archaeology is settled enough that all four readings above have already accommodated it. The philological question about the conquest formula is real and is being worked on, but even a decisive answer would touch only the second reading.\n\nWhat is genuinely contested is a question of judgement: whether a text that presents God as commanding this is best explained as a misunderstanding recorded honestly, a convention misread by moderns, a real and terrible judgement, or a distortion God bore. Each explains the same evidence. Each has a cost its holders accept and its critics find intolerable.\n\nOne thing has moved. The straightforward judgement reading is markedly less dominant among Christian scholars than it was fifty years ago, and the accommodation reading markedly more so, and that shift happened under moral pressure rather than under new evidence. Both sides here can point at that fact: one as a tradition correcting itself, one as a tradition retreating.",
+  "commonMistake": "Christians most often reach for whichever reading answers the objection in front of them, without noticing that they have used three incompatible ones in a single conversation — the commands were hyperbole, and were deserved judgement, and were the Israelites' misunderstanding. Each is a serious position. Held together they are not a position at all, and an interlocutor who notices will reasonably conclude that the conclusion was fixed before the readings were chosen.\n\nAtheists most often quote the passages and stop, as though nothing further were required. Something further is required, because the question is not whether the sentences are shocking — everyone agrees — but whether the reading that makes them shocking is the right one. Refusing to engage the genre argument is refusing the only part of the exchange that could go anywhere.\n\nBoth sides also tend to treat the archaeology as though it settled something. It removes an atrocity from history and leaves the text exactly where it was.",
+  "sources": [
+    {
+      "title": "Did God Command Genocide? A Challenge to the Biblical Inerrantist",
+      "author": "Wes Morriston",
+      "year": "2009",
+      "url": "https://spot.colorado.edu/~morristo/DidGodCommandGenocide.pdf",
+      "note": "The philosophical form of the objection, on the author's own university page."
+    },
+    {
+      "title": "The Canaanites: Genocide or Judgment?",
+      "author": "Paul Copan",
+      "url": "https://www.str.org/w/the-canaanites-genocide-or-judgment-",
+      "note": "Copan's own statement of the hyperbole reading."
+    },
+    {
+      "title": "Slaughter of the Canaanites",
+      "author": "William Lane Craig",
+      "year": "2007",
+      "url": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
+      "note": "The judgement reading, stated by its best-known defender."
+    },
+    {
+      "title": "Canaanites, Reality Checks, and Letting the Bible Out of the Box",
+      "author": "Peter Enns",
+      "year": "2014",
+      "url": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+      "note": "Enns on the accommodation reading and on what the archaeology shows."
+    },
+    {
+      "title": "Crucifixion of the Warrior God",
+      "author": "Gregory A. Boyd",
+      "year": "2017",
+      "url": "https://reknew.org/book/crucifixion-warrior-god/",
+      "note": "The cruciform reading, on the author's own site. The page's statement of it is a paraphrase and is labelled as one."
+    },
+    {
+      "title": "Ethical Criticism of the Bible: The Case of Divinely Mandated Genocide",
+      "author": "Wes Morriston",
+      "year": "2012",
+      "url": "https://philpapers.org/rec/MORDGC",
+      "note": "Morriston's replies to the standard defences, including the ones set out above."
+    }
+  ]
+}

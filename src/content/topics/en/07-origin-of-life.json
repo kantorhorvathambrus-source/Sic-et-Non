@@ -1,0 +1,183 @@
+{
+  "id": "origin-of-life",
+  "number": 7,
+  "slug": "origin-of-life",
+  "title": "Where did the first living cell come from?",
+  "category": "natural-science",
+  "status": "open",
+  "realQuestion": "Everything alive descends from something alive. Run that backwards far enough and you reach a first thing that did not, and nobody knows how it started.\n\nThat much is agreed. What is disputed is what the gap means. One side says the difficulty is not ordinary: a cell runs on a coded sequence, and we have never once seen a code written by anything but a mind. The other side says the gap is the ordinary shape of an unsolved problem in a young field, that it has been narrowing steadily for seventy years, and that 'we cannot yet do it' has never been a reason to conclude 'it cannot be done'.\n\nThis is not the argument about evolution. Evolution starts once something can copy itself imperfectly; how the first copier arose is a separate question ([[abiogenesis]]), and Darwin's theory does not answer it and was never meant to.",
+  "distinctions": [
+    {
+      "label": "Does evolution depend on solving this?",
+      "gloss": "No, and both sides here agree. Natural selection needs a population that already replicates. Common descent rests on evidence that stands whatever the answer to this page turns out to be. Set aside, and argued in topic 6.",
+      "activeHere": false
+    },
+    {
+      "label": "Is there a demonstrated route from chemistry to a living cell?",
+      "gloss": "Not yet, and everyone says so. The disagreement is about what follows from that — whether it is a gap of the kind that gets closed, or a gap of a kind that does not. This is the argument on this page.",
+      "activeHere": true
+    },
+    {
+      "label": "Would a designer have to be God?",
+      "gloss": "A further step the design inference does not take by itself. Getting from 'a mind' to anything worth worshipping needs the arguments in topics 2 and 5. Not attempted here.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "abiogenesis",
+      "definition": "The origin of life from non-living chemistry. A separate question from evolution, which explains what happens after something can already reproduce."
+    },
+    {
+      "term": "RNA world",
+      "definition": "The proposal that RNA came before both DNA and proteins, because RNA can both carry information and act as a catalyst. Widely held, not established, and not the only candidate."
+    },
+    {
+      "term": "specified information",
+      "definition": "In this argument, a sequence that is both improbable and does a particular job — as a sentence is, and a random string of the same length is not. Whether the term names one thing or two is part of the dispute."
+    },
+    {
+      "term": "proton gradient",
+      "definition": "A difference in acidity across a membrane. Every living cell uses one to make energy, which is why finding a natural one in the right place matters to this argument."
+    },
+    {
+      "term": "protocell",
+      "definition": "A membrane-bounded droplet that grows and divides without being alive. Made in laboratories; the gap between one of these and a cell is the gap this page is about."
+    }
+  ],
+  "sides": [
+    {
+      "label": "A code is the kind of thing that needs an author",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "information-from-minds",
+          "claim": "Every code we know the history of was written by someone, and the cell runs on a code",
+          "explanation": "The argument is not that the origin of life is hard. It is that the thing needing explanation is of a particular kind. DNA does not merely have structure, like a crystal; it carries a sequence that specifies something else, in a mapping that is arbitrary in the way an alphabet is arbitrary — nothing about the chemistry of the three-letter group CAG makes it mean glutamine.\n\nStephen Meyer's case is an inference from experience rather than from ignorance: wherever we can trace a [[specified information]] sequence to its source, the source turns out to be a mind. Applying that to the one case where we cannot watch is, he argues, the ordinary way historical sciences reason, not a departure from it.",
+          "quote": {
+            "text": "Our uniform experience affirms that specified or functional information—whether inscribed in hieroglyphics, written in a book, encoded in a radio signal, or produced in an RNA-world 'ribozyme-engineering' experiment—always arises from an intelligent source, from a mind, not a strictly material process.",
+            "author": "Stephen C. Meyer",
+            "work": "Return of the God Hypothesis",
+            "year": "2021",
+            "locator": "the design inference as Meyer states it; the same argument runs through Signature in the Cell (2009)",
+            "sourceUrl": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The premise is doing all the work and it is the disputed one. 'Uniform experience' of coded information is uniform experience of human artefacts, and of nothing else — the sample is one species over a few thousand years. Extending it to a case four billion years old, in conditions nobody has observed, is not induction but assumption. And the arbitrariness of the genetic code is itself under investigation: several of its assignments track the chemistry of the amino acids they name, which is what you would expect if the mapping grew rather than being assigned.",
+            "objectionFrom": "atheist",
+            "response": "That a sample is limited is a reason for caution, not a reason to prefer the alternative, which has no positive instances at all. Nobody has watched unguided chemistry write a code either."
+          }
+        },
+        {
+          "id": "the-size-of-the-search",
+          "claim": "The space of possible sequences is far too large for an undirected search to have found a working one",
+          "explanation": "This is the empirical claim the inference rests on, and it is a number rather than an intuition. Douglas Axe, working on a fragment of a β-lactamase enzyme, estimated how much of sequence space produces a chain that folds into a working active site at all.\n\nIf functional sequences are that rare, then the question is not whether a blind search is slow but whether it is possible: there have not been enough seconds, enough molecules or enough planets. The argument concludes that the search must have been directed, because nothing else could have found the target.",
+          "quote": {
+            "text": "of the possible genes encoding protein chains 153 amino acids in length, only about one in a hundred trillion trillion trillion trillion trillion trillion is expected to encode a chain that folds well enough to perform a biological function!",
+            "author": "Douglas Axe",
+            "work": "Undeniable: How Biology Confirms Our Intuition That Life Is Designed",
+            "year": "2016",
+            "locator": "the popular statement of the estimate published in the Journal of Molecular Biology, 2004",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/15321723/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The sharpest version of this objection comes from Christians rather than from atheists, and it is about strategy rather than chemistry. Biologists at BioLogos and elsewhere argue that resting a case for God on a currently unsolved problem puts him where the ignorance is, so that every advance in prebiotic chemistry becomes a small defeat for faith — a bargain nobody should want to make. The measurement is also contested on its own terms: it assumes functional sequences sit in isolated islands rather than connected regions, and it counts one fold rather than any fold that would have done.",
+            "objectionFrom": "within",
+            "response": "The inference is not from ignorance but from a positive claim about what minds do and what chemistry does not. And an argument that would be weakened by a discovery is in that respect an ordinary scientific argument, not a disreputable one."
+          }
+        }
+      ]
+    },
+    {
+      "label": "The chemistry is being worked out, step by step",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "vents-supply-the-energy",
+          "claim": "Alkaline vents supply, for free, the one thing every living cell runs on",
+          "explanation": "The strongest version of this side is not a promissory note. Every cell alive powers itself with a [[proton gradient]] across a membrane — a fact so universal it almost certainly predates the split between bacteria and archaea, and so strange that it needs explaining.\n\nAlkaline hydrothermal vents produce exactly that gradient without any biology, in a labyrinth of thin mineral walls with catalytic iron-sulphur surfaces on them. On this account the puzzle inverts: life did not have to invent its energy system, it grew inside one that was already running.",
+          "quote": {
+            "text": "the difference in pH across thin barriers produced natural proton gradients with equivalent magnitude and polarity to the proton-motive force required for carbon fixation in extant bacteria and archaea",
+            "author": "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí and Nick Lane",
+            "work": "The Origin of Life in Alkaline Hydrothermal Vents, Astrobiology 16(2)",
+            "year": "2016",
+            "sourceUrl": "https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "A gradient is energy, and energy is not the problem. Ice on a hillside has a gradient. What has to be explained is a system that harnesses one to build and copy itself, and the distance between a mineral pore doing chemistry and a cell running a metabolism is exactly the distance in question. Naming a plausible location is not the same as demonstrating a route.",
+            "objectionFrom": "theist",
+            "response": "It is not only a location. The claim is that the specific mechanism modern cells use is present in the environment before any cell exists, which is a testable prediction rather than a hope, and reactors built to test it have produced organic molecules from carbon dioxide and hydrogen."
+          }
+        },
+        {
+          "id": "steps-once-called-impossible",
+          "claim": "Steps declared chemically impossible have kept turning out to be possible",
+          "explanation": "For decades the standard objection to the [[RNA world]] was that its building blocks could not be made. Ribose is hard to form selectively; joining a base to a sugar is inefficient for purines and simply does not happen for the pyrimidines used in RNA. That was not an exaggeration by opponents, it was the state of the field.\n\nJohn Sutherland's group dissolved the objection by refusing its terms. Rather than making the parts and joining them, they found a route that never produces free ribose or a free base at all, assembling the finished nucleotide through different intermediates. The lesson is about the shape of these arguments: the impossibility was in the assumed pathway, not in the chemistry.",
+          "quote": {
+            "text": "activated pyrimidine ribonucleotides can be formed in a short sequence that bypasses free ribose and the nucleobases, and instead proceeds through arabinose amino-oxazoline and anhydronucleoside intermediates",
+            "author": "Matthew Powner, Béatrice Gerland and John Sutherland",
+            "work": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions, Nature 459",
+            "year": "2009",
+            "sourceUrl": "https://www.nature.com/articles/nature08013",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "One step is not the sequence. The synthesis needs particular reagents in a particular order under conditions a chemist chose, which is what a chemist is for, and the question is whether an unattended planet does the same. Solving a step everyone agreed was hard is real progress and it also moves the difficulty rather than removing it: the sequence problem, the assembly problem and the copying problem are still there.",
+            "objectionFrom": "theist",
+            "response": "True, and the field says so. The claim is not that the problem is solved but that its supposed impossibilities have a poor record, having been stated with confidence three times and dissolved three times."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What Miller and Urey actually showed, and what they did not",
+      "text": "The 1953 spark-discharge experiment is the most cited and most misread result in the field. It produced amino acids from a simple gas mixture, which was genuinely surprising and remains a real result: the building blocks are easy, and they turn up in meteorites too.\n\nIt did not produce life, was not claimed to, and used an atmosphere richer in hydrogen than the early Earth's is now thought to have been. Both sides overreach here. It is not evidence that the problem is nearly solved, and it is not a failed experiment: it settled that the monomers are cheap, and moved the difficulty to how they are sequenced, which is where the difficulty has stayed."
+    },
+    {
+      "heading": "How little time there was",
+      "text": "This constrains both sides, and neither likes it. The Earth was uninhabitably hot until roughly 4.4 billion years ago, and there is reasonable evidence of life by about 3.7. That leaves a window of a few hundred million years, which is short for an undirected search and is a real difficulty for the chemistry.\n\nIt is not a difficulty for common descent, which is dated by different evidence entirely, and it is not by itself an argument for design — 'less time than expected' bears on how the thing happened, not on whether it needed a mind."
+    }
+  ],
+  "whereItStands": "Nobody has made a cell, and no route from chemistry to one has been demonstrated end to end. Anyone telling you otherwise, in either direction, is ahead of the evidence.\n\nThe field has moved, though, and in a particular way: the problems that looked most impossible from outside — making the monomers, making nucleotides, making membranes that grow and divide into [[protocell]]s — have turned out to be the tractable ones. The problem that has not moved is sequence. Getting a specific arrangement that does something, rather than a mixture of everything, is where the difficulty has sat since the 1960s and where it sits now.\n\nWhat is genuinely unresolved is what that pattern means. It is consistent with a hard problem being worked through in the usual way, and it is consistent with the difficulty being of a different kind from the ones already solved. No result currently distinguishes those two readings, which is why this is an argument and not a finding.",
+  "commonMistake": "Christians most often treat the current gap as though it were the argument's foundation, which makes the case hostage to the next paper. If the design inference is sound it should be statable as a claim about what codes are, not as a claim about what chemists have not yet done; stated the second way it shrinks every year whether or not it is true.\n\nAtheists most often answer a question that was not asked. 'Evolution does not need abiogenesis' is correct and is a reply to a different argument. So is listing what has been synthesised, when the objection was about sequence rather than about parts. Both moves let the actual claim through untouched.\n\nAnd both sides quietly use the same bad inference in opposite directions: that the difficulty of a problem tells you something about its solution. It does not. A problem can be hard because the answer is unusual, or hard because it is old and the traces are gone.",
+  "sources": [
+    {
+      "title": "Return of the God Hypothesis",
+      "author": "Stephen C. Meyer",
+      "year": "2021",
+      "url": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+      "note": "The design inference from biological information. Linked here to a critical discussion that quotes it, because BioLogos states the Christian objection on the same page."
+    },
+    {
+      "title": "Estimating the prevalence of protein sequences adopting functional enzyme folds",
+      "author": "Douglas D. Axe",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15321723/",
+      "note": "The peer-reviewed source of the rarity estimate Axe restates for general readers in Undeniable (2016)."
+    },
+    {
+      "title": "The Origin of Life in Alkaline Hydrothermal Vents",
+      "author": "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí and Nick Lane",
+      "year": "2016",
+      "url": "https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf",
+      "note": "The vent hypothesis stated by the group that argues for it."
+    },
+    {
+      "title": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions",
+      "author": "Matthew W. Powner, Béatrice Gerland and John D. Sutherland",
+      "year": "2009",
+      "url": "https://www.nature.com/articles/nature08013",
+      "note": "The paper that dissolved the standard objection to the RNA world by bypassing its assumed pathway."
+    },
+    {
+      "title": "Evolution and the Origin of Biological Information",
+      "url": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+      "note": "The objection from within Christianity to arguing for God from an unsolved problem."
+    }
+  ]
+}

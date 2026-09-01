@@ -1,0 +1,279 @@
+{
+  "id": "eternal-damnation",
+  "number": 12,
+  "slug": "eternal-damnation",
+  "title": "Can eternal damnation be just?",
+  "category": "morality",
+  "status": "interpretive",
+  "realQuestion": "A person lives seventy years and dies unreconciled to God. The traditional doctrine says the consequence has no end. The objection is arithmetic before it is anything else: a finite life, an unbounded penalty.\n\nThere are two arguments stacked here and they behave differently. One is about what the Christian texts actually teach — eternal conscious torment, annihilation, or the eventual reconciliation of everyone. That dispute is decidable in principle and positions in it demonstrably move; it is set out below rather than argued, because it is not the argument this page is for.\n\nThe other is the moral question, and it is the one on this page. Grant whichever reading you like as the true teaching. The critic still says a good God would not; the defender still says that love which cannot be refused is not love, and that a settled refusal is not a crime with a duration. Grant every exegetical fact to both, and neither moves. That is why this page is tagged interpretive.",
+  "distinctions": [
+    {
+      "label": "What do the Christian texts actually teach?",
+      "gloss": "Genuinely contested inside Christianity, and genuinely live: Robin Parry published a defence of universalism under a pseudonym because he had changed his mind, John Stott moved to annihilationism late in life, and conditional immortality went from fringe to a mainstream evangelical option on specific claims about the word aiōnios. Set out below as four positions rather than argued here.",
+      "activeHere": false
+    },
+    {
+      "label": "Could eternal punishment be just?",
+      "gloss": "This is the argument on this page. It is a moral question that survives every exegetical answer: whichever of the four readings is right, one can still ask whether the God it describes is good.",
+      "activeHere": true
+    },
+    {
+      "label": "What about those who never heard?",
+      "gloss": "A distinct question about the scope of judgement rather than its nature, and it turns on the uniqueness of Christ rather than on justice. Topic 16. The inclusivist position below is where the two questions touch.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "aiōnios",
+      "definition": "The Greek adjective translated 'eternal' or 'everlasting' in the relevant New Testament passages. Whether it means unending duration or 'belonging to the age to come' is the pivot of the textual dispute."
+    },
+    {
+      "term": "annihilationism",
+      "definition": "Also conditional immortality: the view that the unsaved cease to exist rather than suffering endlessly. Holds that immortality is a gift rather than a property of every soul."
+    },
+    {
+      "term": "apokatastasis",
+      "definition": "The restoration of all things, the technical term for Christian universalism. Held by some early Greek fathers, condemned in some later councils, and argued again now."
+    },
+    {
+      "term": "optimal grace",
+      "definition": "Jerry Walls' term for the claim that God gives every person the best possible opportunity to accept him, so that anyone finally lost has refused under the most favourable conditions available."
+    }
+  ],
+  "sides": [
+    {
+      "label": "No one is sent; some refuse, and refusal is not overridden",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "locked-on-the-inside",
+          "claim": "Hell is not a sentence imposed from outside but a condition someone holds themselves in",
+          "explanation": "The picture the objection attacks — a judge assigning a term of torture — is not the one most defenders of the doctrine now hold, and it is not what C.S. Lewis held. On his account the damned are not victims of a verdict but people who have got what they insisted on: a self entirely turned inward, with God shut out because God was refused.\n\nThe consequence has no end because the refusal has no end, not because a sentence was set at a length. On this reading the question 'why so long for so little?' misdescribes the case. Nothing is being served out.",
+          "quote": {
+            "text": "I willingly believe that the damned are, in one sense, successful, rebels to the end; that the doors of hell are locked on the inside.",
+            "author": "C.S. Lewis",
+            "work": "The Problem of Pain",
+            "year": "1940",
+            "sourceUrl": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The hardest version of this objection is Christian. Universalists from Gregory of Nyssa to David Bentley Hart argue that an eternally sustained free refusal is not coherent: choice runs on reasons, and no rational creature, seeing God clearly, could go on preferring misery for ever. Either the refuser is deceived — in which case the choice is not informed and not free — or they are not, in which case what they are choosing is unintelligible. A door locked from the inside is still a door someone built, in a house with only one exit.",
+            "objectionFrom": "within",
+            "response": "The claim is not that anyone chooses misery under that description, but that a person can come to want something incompatible with God so thoroughly that they are no longer capable of wanting otherwise. That is not exotic; it is the ordinary shape of an addiction, at the limit."
+          }
+        },
+        {
+          "id": "freedom-that-can-be-refused",
+          "claim": "A God who overrode a settled refusal would be treating the whole moral life as a rehearsal",
+          "explanation": "This argument faces the universalist rather than the atheist, and it is the one that has done the most work in recent philosophy of religion. Jerry Walls grants what the objection needs: that God wants everyone saved, and that anyone lost has had the best opportunity they could have had. He calls this [[optimal grace]].\n\nWhat he denies is that God can guarantee the outcome without emptying the choice. If every decisive rejection is finally reversed by divine intervention, then no choice anyone ever made about God was the choice it appeared to be, and the seriousness the moral life seems to have was a stage effect.",
+          "quote": {
+            "text": "would detract from the seriousness of moral freedom. Such freedom, in its most significant form, requires that we live with the consequences of our choices, at least our decisive choices.",
+            "author": "Jerry L. Walls",
+            "work": "Hell: The Logic of Damnation",
+            "year": "1992",
+            "locator": "on God's overriding a decisive rejection",
+            "sourceUrl": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "Living with the consequences of a choice is a principle about proportion, and it is being used here to license the one case where proportion is abandoned. We let a child live with the consequences of a bad decision; we do not let them live with unending ones, and a parent who could intervene and did not, citing the seriousness of the child's freedom, would not be admired. The argument also needs the choice to have been made under conditions good enough to bear infinite weight, and no human choice is made under those conditions.",
+            "objectionFrom": "atheist",
+            "response": "The parent analogy assumes the child can be brought round, which is exactly the case where nobody objects to intervening. The argument concerns someone who has been brought round as far as they can be and still refuses."
+          }
+        }
+      ]
+    },
+    {
+      "label": "No finite life can earn an unbounded outcome",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "proportion",
+          "claim": "Unending punishment for a bounded life is not severity, it is a category error about justice",
+          "explanation": "Every system of justice anyone actually operates scales the penalty to the offence. The objection is not that hell is harsh but that it is not a penalty at all in any recognisable sense, because it has been detached from the thing it is supposed to answer to.\n\nBertrand Russell put the point as a claim about character rather than about arithmetic, and that is the sharper version. It is not only that the doctrine is unjust; it is that holding it, and continuing to worship the one who imposes it, requires a hardening that a decent person cannot manage. The argument targets the believer's own moral sense, which is why it has moved more Christians than atheists.",
+          "quote": {
+            "text": "I do not myself feel that any person who is really profoundly humane can believe in everlasting punishment.",
+            "author": "Bertrand Russell",
+            "work": "Why I Am Not a Christian",
+            "year": "1927",
+            "locator": "a lecture delivered at Battersea Town Hall, 6 March 1927",
+            "sourceUrl": "https://russell-j.com/0399WINC.HTM",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The proportion argument assumes the penalty answers to a quantity of past wrongdoing, which is the picture the first argument above rejects. If the condition is a continuing refusal rather than a served sentence, its lack of an end is a fact about the refusal. Russell's version also proves less than it claims: two of the four positions below are held by people who accept his moral judgement entirely and remain Christians, so the incompatibility he asserts between humaneness and the faith is not the one he thought.",
+            "objectionFrom": "theist",
+            "response": "That reply works only for the versions that abandon retribution, and the tradition Russell was addressing did not. It also concedes the argument's force, since it survives by dropping what was objected to."
+          }
+        },
+        {
+          "id": "where-is-the-line",
+          "claim": "Goodness comes in degrees, the outcome does not, and no just procedure works that way",
+          "explanation": "Ted Sider's argument does not depend on the penalty being infinite, and it survives the first reply intact. Take two people whose moral and spiritual states differ by as little as you like — one hair's breadth of contrition, one further moment of hesitation. One is saved, one is not, and the outcomes differ without limit.\n\nAny just selection has borderline cases and treats near-identical cases nearly identically. A binary outcome over a continuous input cannot do that, and the difficulty is not that we cannot see where the line is; it is that a line anywhere has this consequence. Since God is the one running the procedure, the arbitrariness is his.",
+          "quote": {
+            "text": "God is in charge of the selection procedure, so it must be just; any just procedure has borderline cases and treats near-identical cases near-identically; but the traditional afterlife is binary and admits no borderline cases, so two people differing by a hair receive outcomes differing without limit.",
+            "author": "Theodore Sider",
+            "work": "Hell and Vagueness, Faith and Philosophy 19",
+            "year": "2002",
+            "locator": "pp. 58-68; our summary of the argument, not Sider's wording",
+            "sourceUrl": "https://tedsider.org/papers/hell.pdf",
+            "verification": "paraphrase"
+          },
+          "counter": {
+            "objection": "The argument assumes the criterion is a quantity of goodness, and no version of the doctrine says that. On the choice model the criterion is a settled orientation, which is not a matter of degree in the relevant sense: two people can be indistinguishable in behaviour and differ absolutely in whether they have finally accepted or refused. Compare a proposal of marriage, where the answers differ absolutely and the people asking may be identical in every measurable way.",
+            "objectionFrom": "theist",
+            "response": "Acceptance and refusal are themselves the outcome of processes that do come in degrees — how much someone understood, how much was asked of them, how tired they were. Pushing the binary one step back does not find a bright line, it finds the same gradient under a different name."
+          }
+        }
+      ]
+    }
+  ],
+  "context": {
+    "heading": "Four Christian positions on what happens to the lost",
+    "intro": "This is the dispute the page sets aside, and it is the part most readers raised in a church have never seen. These are not shades of one view: the first and third cannot both be true. All four are held by people who take the Bible as authoritative, and the argument between them is about what it says.",
+    "note": {
+      "heading": "The word the argument turns on",
+      "text": "Most of the exegetical dispute runs through one adjective. [[aiōnios]] is used of the punishment in Matthew 25:46 and of the life offered in the same sentence, which is why translators render both 'eternal' and why the traditional reading regards the parallel as decisive.\n\nThe counter-argument is that the word derives from aiōn, an age, and that in Jewish Greek it can mean 'belonging to the age to come' rather than 'unending' — a qualitative claim rather than a temporal one. If that is right, the parallel survives without the duration: the life and the punishment both belong to the age to come, and how long either lasts is a separate question the word does not answer. This is a genuine dispute among lexicographers, not a device, and it is why the exegetical question is open rather than interpretive."
+    },
+    "entries": [
+      {
+        "id": "eternal-conscious-torment",
+        "name": "Eternal conscious torment",
+        "heldBy": "the Catholic Catechism, most confessional Protestant statements, the majority of the tradition",
+        "oneLine": "The lost continue to exist, separated from God, without end.",
+        "summary": "The historic majority position across Catholic, Orthodox and Protestant Christianity, and the one the other three are defined against. Its modern statements are notably restrained compared with its eighteenth-century preaching: the Catholic Catechism names the chief punishment as eternal separation from God rather than dwelling on fire, and adds that God predestines no one to go to hell.\n\nIts case is textual before it is philosophical. The relevant passages set the punishment and the life in parallel, and the tradition has read the parallel as fixing both.",
+        "quote": {
+          "text": "The teaching of the Church affirms the existence of hell and its eternity.",
+          "author": "Catechism of the Catholic Church",
+          "work": "paragraph 1035",
+          "year": "1992",
+          "sourceUrl": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html",
+          "verification": "corroborated"
+        },
+        "standing": "It has the weight of the tradition and the most straightforward reading of the parallel passages. It also carries the whole force of the moral objection on this page, and the share of evangelical scholars holding it has fallen noticeably since the 1980s — not because of new evidence but because of arguments about aiōnios and about proportion."
+      },
+      {
+        "id": "annihilationism",
+        "name": "Annihilationism, or conditional immortality",
+        "heldBy": "John Stott, Edward Fudge, John Wenham; a substantial minority of evangelicals",
+        "oneLine": "The lost cease to exist. The destruction the texts describe is destruction, not endless survival in ruin.",
+        "summary": "The [[annihilationism]] argument is that immortality is a gift given to the saved rather than a property every soul has, and that the biblical vocabulary — perish, destroy, consume, the second death — means what it says. On this reading the traditional doctrine imports a Greek assumption about the indestructible soul that the texts themselves do not make.\n\nThe punishment is eternal in the sense that its result is permanent, as an eternal judgement is one that will not be revised. What is not eternal is the suffering.",
+        "quote": {
+          "text": "survey the biblical material afresh",
+          "author": "John Stott",
+          "work": "Essentials: A Liberal-Evangelical Dialogue, with David L. Edwards",
+          "year": "1988",
+          "locator": "Stott's call to evangelicals to reconsider whether conditional immortality better fits the biblical evidence",
+          "sourceUrl": "https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf",
+          "verification": "corroborated"
+        },
+        "onConflict": {
+          "text": "Stott was explicit that his emotional recoil from the traditional doctrine was not his reason for the view, and said so in the same passage — which is worth noting because the sentence about recoil is the one his critics quote.",
+          "quote": {
+            "text": "But our emotions are a fluctuating, unreliable guide to truth and must not be exalted to the place of supreme authority in determining it.",
+            "author": "John Stott",
+            "work": "Essentials: A Liberal-Evangelical Dialogue",
+            "year": "1988",
+            "sourceUrl": "https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf",
+            "verification": "corroborated"
+          }
+        },
+        "standing": "The lexical case is real and has convinced serious people; Stott's own move, made cautiously and late in a career of unimpeachable orthodoxy, is why the position stopped being marginal. Its difficulty is the parallel in Matthew 25:46, which it has to read asymmetrically, and the objection that a permanent ending is not obviously a punishment at all."
+      },
+      {
+        "id": "universalism",
+        "name": "Universal reconciliation",
+        "heldBy": "David Bentley Hart, Robin Parry, Thomas Talbott; Gregory of Nyssa and, arguably, Origen",
+        "oneLine": "Everyone is finally saved. Judgement is real and purgative, and it ends.",
+        "summary": "The claim is not that judgement is a fiction but that it has a terminus, because its purpose is restoration rather than retribution. [[apokatastasis]] was held by named church fathers, and its modern defenders argue that it is what the New Testament's universal statements plainly say — that God will be all in all, that all will be made alive.\n\nHart's version is the most uncompromising: he holds not that universalism is a permissible option but that Christianity taken as a coherent whole entails it, and that the alternative makes God the author of a creation he knew would end in unending misery for some, which no account of goodness survives.",
+        "quote": {
+          "text": "if Christianity is any way true, Christians dare not doubt the salvation of all … any understanding of what God accomplished in Christ that does not include the assurance of a final apokatastasis in which all things created are redeemed and joined to God is ultimately entirely incoherent and unworthy of rational faith.",
+          "author": "David Bentley Hart",
+          "work": "That All Shall Be Saved: Heaven, Hell, and the Universal Salvation",
+          "year": "2019",
+          "sourceUrl": "https://yalebooks.yale.edu/book/9780300258486/that-all-shall-be-saved/",
+          "verification": "corroborated"
+        },
+        "standing": "It answers the moral objection completely, which its critics say is the point and the problem. It has to account for the judgement language, which is extensive, and for the fact that the position was condemned under Justinian — though its defenders dispute what exactly was condemned and by what authority. Robin Parry's mind-change is the clearest evidence that the exegetical dispute is live: he wrote his defence of the position under a pseudonym, having previously held the traditional view."
+      },
+      {
+        "id": "inclusivism",
+        "name": "Inclusivism",
+        "heldBy": "the Second Vatican Council; Karl Rahner, Clark Pinnock",
+        "oneLine": "Hell may be as traditionally described, but far fewer people are in it: God's grace reaches those who never heard.",
+        "summary": "This is the position that changes the scope rather than the nature of the outcome, and it is why the moral objection lands differently on different churches. Vatican II teaches that those who have never encountered the Gospel, but seek God sincerely and follow their conscience, may be saved through Christ without knowing it.\n\nIt is compatible with the first position and it removes the version of the objection most people actually feel — that the majority of humanity is condemned for an accident of birth. It does not touch the question this page argues, which is whether the outcome could be just for anyone.",
+        "quote": {
+          "text": "Those who, through no fault of their own, do not know the Gospel of Christ or his Church, but who nevertheless seek God with a sincere heart, and, moved by grace, try in their actions to do his will as they know it through the dictates of their conscience—those too may attain eternal salvation.",
+          "author": "Second Vatican Council",
+          "work": "Lumen Gentium, 16",
+          "year": "1964",
+          "sourceUrl": "https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm",
+          "verification": "corroborated"
+        },
+        "standing": "It is official teaching for the largest Christian body and is held well beyond it, which makes the popular image of Christianity consigning the unevangelised to hell false for most Christians alive. Exclusivists object that it makes explicit faith optional and evangelism hard to motivate. It is included here because it changes who the argument on this page is about, without changing the argument."
+      }
+    ]
+  },
+  "notes": [
+    {
+      "heading": "Why the exegetical dispute is open and this page is not",
+      "text": "The two questions on this topic take different tags, and it is worth being explicit about why, because the page's own labelling depends on it.\n\nWhat the texts teach is open: you can name the arguments that moved the field and the people they moved. Conditional immortality went from fringe to a mainstream evangelical option over forty years, on specific lexical claims about aiōnios and on the vocabulary of destruction. Robin Parry changed his mind and published under a pseudonym. John Stott changed his, late and at cost. That is a dispute where argument narrows disagreement.\n\nWhether eternal punishment could be just is not like that. Grant the traditional reading and the critic still says a good God would not; grant the universalist reading and the traditionalist still says a love that cannot be refused is not love. Both sides have every fact the other has. Further argument sharpens the disagreement without narrowing it, and that is the third test."
+    }
+  ],
+  "whereItStands": "The moral argument is where it was, and there is no reason to expect it to move. Both sides have stated their positions clearly enough that the disagreement is now visible in its whole shape: whether a settled refusal is the kind of thing that can bear an unbounded consequence, and whether the freedom that makes refusal possible is worth what it costs. Nobody has produced a consideration that the other side lacks.\n\nWhat has moved, and is still moving, is the question underneath it. The traditional reading is less dominant among Christian scholars than it was fifty years ago; annihilationism has become respectable; universalism has gone from unmentionable to widely argued, with Hart's book in 2019 marking the point at which it stopped being a fringe interest. That shift has come from exegetical and philosophical argument rather than from new evidence, which is what an open dispute looks like when it is going somewhere.\n\nThe honest reading of the two together: the moral objection has not won, but it has been the pressure under which the textual question was reopened.",
+  "commonMistake": "Christians most often present the traditional doctrine as though it were the only Christian option, which is how someone raised in a church can reach forty without knowing that Stott doubted it or that Gregory of Nyssa denied it. That is not tact, it is a false picture of their own tradition, and it makes any later encounter with the alternatives feel like a discovery of concealment.\n\nAtheists most often argue against the eighteenth-century version — a torture chamber with a judge — and then find that their interlocutor never held it. Attacking the strongest form means engaging the choice model, and the choice model is not answered by more vivid descriptions of flames.\n\nBoth sides also tend to collapse the two questions on this page into one. 'The Bible does not really teach that' is an answer to the exegetical dispute and not to the moral one; 'no good God would' is an answer to the moral one and not to the exegetical. Most exchanges here are two people answering the question the other did not ask.",
+  "sources": [
+    {
+      "title": "The Problem of Pain",
+      "author": "C.S. Lewis",
+      "year": "1940",
+      "url": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/",
+      "note": "The self-exclusion account, in the passage that gave it its usual phrasing."
+    },
+    {
+      "title": "Hell: The Logic of Damnation",
+      "author": "Jerry L. Walls",
+      "year": "1992",
+      "url": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy",
+      "note": "The freedom defence and the doctrine of optimal grace, quoted in a Faith and Philosophy review."
+    },
+    {
+      "title": "Why I Am Not a Christian",
+      "author": "Bertrand Russell",
+      "year": "1927",
+      "url": "https://russell-j.com/0399WINC.HTM"
+    },
+    {
+      "title": "Hell and Vagueness",
+      "author": "Theodore Sider",
+      "year": "2002",
+      "url": "https://tedsider.org/papers/hell.pdf",
+      "note": "The author's own copy. The page's statement of the argument is a paraphrase and is labelled as one."
+    },
+    {
+      "title": "Catechism of the Catholic Church, 1033-1037",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html"
+    },
+    {
+      "title": "Essentials: A Liberal-Evangelical Dialogue",
+      "author": "David L. Edwards and John Stott",
+      "year": "1988",
+      "url": "https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf",
+      "note": "The passage in which Stott sets out his move to conditional immortality."
+    },
+    {
+      "title": "That All Shall Be Saved: Heaven, Hell, and the Universal Salvation",
+      "author": "David Bentley Hart",
+      "year": "2019",
+      "url": "https://yalebooks.yale.edu/book/9780300258486/that-all-shall-be-saved/"
+    },
+    {
+      "title": "Lumen Gentium",
+      "author": "Second Vatican Council",
+      "year": "1964",
+      "url": "https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "jesus-and-resurrection",
+  "number": 13,
+  "slug": "jesus-and-resurrection",
+  "title": "Did Jesus exist, and did he rise?",
+  "category": "history-and-text",
+  "status": "settled-core",
+  "settledCore": "A Jewish teacher called Jesus of Nazareth lived in first-century Galilee, gathered followers, and was executed by crucifixion under Pontius Pilate. This is not a matter of dispute among historians of the period, and it is not a Christian claim that non-Christians reject: it is affirmed by Jewish, agnostic and atheist scholars in the field, on the ordinary evidence historians use for anyone of that era and social position. The view that no such person existed — [[mythicism]] — has no standing in the discipline, and is not represented on this page as a side.\n\nWhat is not settled is what happened afterwards, and specifically what best accounts for the fact that his followers came to say he was alive. That is the argument below.",
+  "realQuestion": "Two questions get run together here, and only one of them is open.\n\nWhether Jesus existed is not. He is attested by Paul, who says he met his brother; by four gospels within living memory; and by Tacitus and Josephus from outside the movement. The evidence is ordinary for a provincial figure of that period, and historians treat it as settling the matter.\n\nWhat his followers then reported is also largely agreed: within a very short time they were saying, at cost, that they had seen him alive. The dispute is about what produced that. One side holds that no available natural explanation accounts for the shape of what happened, and that the resurrection does. The other holds that grief, guilt and vision are well-documented human phenomena, and that a historian who reaches past them for a miracle has left the discipline.",
+  "distinctions": [
+    {
+      "label": "Did Jesus of Nazareth exist?",
+      "gloss": "Settled, and stated above rather than argued. Set aside not because it is unimportant but because presenting it as contested would be manufacturing a controversy where the specialists have none.",
+      "activeHere": false
+    },
+    {
+      "label": "Did his followers sincerely believe they had seen him alive?",
+      "gloss": "Largely agreed, and it is the shared premise rather than a point of dispute: both sides on this page accept it, and the argument is about what caused it. Set aside.",
+      "activeHere": false
+    },
+    {
+      "label": "What best explains that belief?",
+      "gloss": "This is the argument on this page. It is a dispute about historical explanation, and about whether historical method can reach a conclusion of this kind at all.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mythicism",
+      "definition": "The claim that Jesus never existed as a historical person. A position with a long popular life and effectively no presence in the relevant academic field."
+    },
+    {
+      "term": "minimal facts",
+      "definition": "Gary Habermas' method: build only on data granted by the large majority of scholars in the field, including sceptical ones, and ask what best explains those."
+    },
+    {
+      "term": "second temple Judaism",
+      "definition": "Jewish belief and practice in the period ending in AD 70. Its expectations about resurrection are central to the first argument on this page."
+    },
+    {
+      "term": "the empty tomb",
+      "definition": "Whether the tomb was found empty is genuinely disputed among historians, unlike the crucifixion and the appearances. Several arguments here are built to work without it."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Nothing else accounts for the shape of what happened",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "nobody-expected-this",
+          "claim": "First-century Judaism had no category for one man rising in the middle of history, so the belief cannot be read off their expectations",
+          "explanation": "The usual naturalistic account has grieving followers reaching for a hope their tradition already gave them. N.T. Wright's argument is that the tradition did not give them this one.\n\n[[second temple Judaism]] did have a resurrection hope: a general resurrection of all the faithful, at the end, together. It had no expectation that any individual would be raised in advance of it, and no expectation at all that the Messiah would be — because a messiah who was executed had by that fact been shown not to be the Messiah, and the recorded response to such failures was to go home or find another candidate. What the first Christians said was not an intensification of an existing hope but a mutation of it, and mutations of that specificity need a cause.",
+          "quote": {
+            "text": "nobody would have thought to say 'I believe that so-and-so really was the Messiah; therefore he must have been raised from the dead'",
+            "author": "N.T. Wright",
+            "work": "The Resurrection of the Son of God",
+            "year": "2003",
+            "locator": "on the absence of any second-temple expectation of an individual messianic resurrection",
+            "sourceUrl": "https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "Novelty is a fact about the belief, not evidence for its truth, and new religious claims are not rare. Movements whose leader dies unexpectedly do sometimes reinterpret rather than disband — the Sabbatian movement survived its messiah's conversion to Islam, and several Lubavitch groups survived their rebbe's death with claims about him. The argument also assumes that first-century Jewish expectation was uniform enough to rule the innovation out, and the sources are thinner and more varied than that.",
+            "objectionFrom": "atheist",
+            "response": "The parallels cited are later and are shaped by categories Christianity itself supplied, which is the difficulty with using them. And the claim is not that novelty proves truth but that a specific unprecedented belief needs a specific cause, which 'they were sad' does not supply."
+          }
+        },
+        {
+          "id": "the-facts-both-sides-grant",
+          "claim": "Take only what sceptical scholars already accept, and no natural explanation covers all of it",
+          "explanation": "The [[minimal facts]] method is designed to avoid arguing from the reliability of the gospels, which would beg the question against the other side. Gary Habermas built it from a bibliography of academic work on the resurrection compiled since the 1970s, keeping only the data granted by a large majority of scholars in the field.\n\nThe usual list: Jesus died by crucifixion; his followers had experiences they took to be appearances of him alive; Paul, an active persecutor, was converted by what he took to be such an experience; and James, a sceptical brother, likewise. The argument is not that any one of these is inexplicable but that the natural hypotheses each handle some and none handles all — group hallucination is not a recognised phenomenon, and grief does not convert enemies.",
+          "quote": {
+            "text": "so strongly attested historically that they are granted by nearly every scholar who studies the subject, even the rather skeptical ones",
+            "author": "Gary Habermas",
+            "work": "The Minimal Facts Approach to the Resurrection of Jesus",
+            "year": "2012",
+            "locator": "Habermas on the criterion for admitting a datum to the list",
+            "sourceUrl": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The sharpest critic of this argument is a Christian. Dale Allison accepts the facts and denies that the inference goes through: what scholars grant is that the followers had experiences, which is a claim about their psychology, and the step from there to a bodily resurrection is not something the consensus supports — it is exactly what the consensus stops short of. Allison also notes that the comparative literature on bereavement visions is far larger and stranger than the apologetic use of it admits, including collective cases. Counting scholars who accept a premise is not the same as counting scholars who accept the conclusion.",
+            "objectionFrom": "within",
+            "response": "The argument does not claim the consensus supports the conclusion; it claims the conclusion is the best explanation of what the consensus supports, which is an inference the method makes openly rather than borrowing."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Grief, guilt and vision are documented; resurrection is not",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "visions-after-a-death",
+          "claim": "Bereavement visions are common, and the movement's founding experiences look like them",
+          "explanation": "This is a positive reconstruction rather than a refusal. Gerd Lüdemann, a New Testament scholar who worked on the question for decades and lost his faith in the course of it, argued that the sequence is recoverable.\n\nPeter had denied Jesus and then watched him die; the combination of guilt and grief is exactly the condition under which people see the dead, which is well documented and occurs in mentally healthy mourners. Peter's experience, reported with the authority he carried, then propagated through a group already primed to expect vindication. Paul's experience is of the same kind and is the only one described by the person who had it — and he describes something visionary, light and voice, rather than a body.",
+          "quote": {
+            "text": "Peter, overwhelmed by grief and by guilt at having denied Jesus, experienced a vision he took to be the risen Jesus; that experience, carrying his authority, propagated through the group, and Paul's later experience was of the same visionary kind.",
+            "author": "Gerd Lüdemann",
+            "work": "The Resurrection of Jesus: History, Experience, Theology",
+            "year": "1994",
+            "locator": "our summary of the vision hypothesis as Lüdemann develops it; not his wording",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
+            "verification": "paraphrase"
+          },
+          "counter": {
+            "objection": "Bereavement visions are real and are not what the sources describe. Mourners who see the dead do not conclude that the person has been raised bodily and that the age to come has begun; they conclude, correctly, that they have seen something and that the person is dead. The hypothesis also has to carry James, who was not grieving a leader he had followed, and Paul, who was not grieving at all but hunting the movement down. A mechanism that explains the disciples explains the two hardest cases worst.",
+            "objectionFrom": "theist",
+            "response": "James' scepticism is attested weakly and late, and Paul's conversion has a well-known shape — the persecutor whose intensity turns — that does not require anything unusual to have happened to him."
+          }
+        },
+        {
+          "id": "what-history-can-reach",
+          "claim": "Historical method delivers probabilities, and a miracle is the least probable thing available",
+          "explanation": "Bart Ehrman's objection is about the discipline rather than about the evidence, and it applies however good the evidence is. Historians do not establish what happened; they establish what most probably happened, given sources of known unreliability and no access to the events.\n\nA miracle is, by construction, the least probable kind of event: that is what makes it a miracle. So for any body of historical evidence, there will be a natural explanation that is more probable than the miraculous one — not because the natural explanation is good, but because the bar it has to clear is so much lower. Ehrman is explicit that this does not show the resurrection did not happen. It shows that history is not the tool that could tell you.",
+          "quote": {
+            "text": "Historians can establish only what probably happened in the past, but miracles, by their very nature, are always the least probable explanation for what happened.",
+            "author": "Bart D. Ehrman",
+            "work": "in debate with William Lane Craig, College of the Holy Cross",
+            "year": "2006",
+            "sourceUrl": "https://en.wikiquote.org/wiki/Bart_D._Ehrman",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The principle rules the conclusion out before any evidence is examined, which is not a method but a stipulation. Prior improbability can be overcome by evidence — that is what Bayes' theorem describes, and it is how we conclude that unlikely things happened all the time. A lottery win is astronomically improbable and we believe in one on the testimony of a newspaper. If the rule is that no evidence could ever establish a miracle, then the argument is not a historical finding but the assumption that miracles do not occur, stated as a rule about historians.",
+            "objectionFrom": "theist",
+            "response": "The lottery comparison fails because someone wins every week, so the improbability of a particular winner is not the improbability of a win. There is no comparable base rate for resurrections."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Why mythicism is not on this page",
+      "text": "The claim that Jesus never existed circulates widely online and has essentially no presence in the field. This is not a case of a religiously committed discipline defending its subject: the scholars who say so most bluntly include agnostics and atheists who have spent careers arguing that the gospels are unreliable and that Christianity's central claims are false.\n\nThe evidence is not extraordinary and does not need to be. Paul, writing within about twenty-five years of the crucifixion, says he met Jesus' brother James and Peter in Jerusalem — a difficult sentence to write about a person who did not exist, to an audience who could ask. Tacitus and Josephus refer to him from outside the movement. For a provincial teacher executed in a minor province, this is more than usually survives.",
+      "quote": {
+        "text": "He certainly existed, as virtually every competent scholar of antiquity, Christian or non-Christian, agrees",
+        "author": "Bart D. Ehrman",
+        "work": "Forged: Writing in the Name of God",
+        "year": "2011",
+        "locator": "Ehrman is an agnostic and a critic of the gospels' reliability",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Did_Jesus_Exist%3F_(Ehrman_book)",
+        "verification": "corroborated"
+      }
+    },
+    {
+      "heading": "The empty tomb, which is genuinely contested",
+      "text": "It is worth separating this from the settled core, because it is often presented as though it belonged to it and it does not.\n\nThat Jesus was crucified is agreed. That his followers reported appearances is agreed. Whether [[the empty tomb]] was found is disputed among historians: a majority of scholars writing on the question accept it, but that majority is smaller and less cross-cutting than the agreement on the other two, and serious specialists deny it — some arguing that a crucified criminal is unlikely to have been given a private tomb at all.\n\nThis is why the strongest form of the theist argument on this page is built without it, and why an argument that leans on it is weaker than one that does not."
+    }
+  ],
+  "whereItStands": "The existence question is closed and will not reopen. Anyone still arguing it is arguing with a field that settled it, and the popular energy behind mythicism has no counterpart in the literature.\n\nThe resurrection question is genuinely open and has an unusual structure: the two sides agree on the data to an extent that is rare in this collection. Both accept the crucifixion, both accept that the followers had experiences they took to be appearances, both accept that the movement began very early and at real cost. The disagreement is entirely at the level of explanation, and the deepest part of it is not even about which explanation is better but about whether historical method is the kind of thing that could deliver this conclusion. That second disagreement is what keeps the first from moving.\n\nWhere there has been movement is in the honesty of the framing. Habermas' method is a real methodological advance over arguing from gospel reliability, and Allison's critique of it — from inside Christianity — is the best thing written on the subject in twenty years. Both sides are arguing better than they were.",
+  "commonMistake": "Christians most often treat the agreement of sceptical scholars as covering more than it does. That most specialists grant the disciples had experiences is true and is a claim about what the disciples underwent; it is not a partial concession of the resurrection, and presenting it as one to an audience that will later check is a bad trade. Dale Allison, a Christian, makes this criticism more forcefully than any atheist.\n\nAtheists most often reach for mythicism, which is the one move on this topic that is simply wrong on the evidence, and which costs them the whole argument by association. Anyone who opens with 'Jesus never existed' has handed the other side an easy and deserved win, and has skipped the question where the real difficulty for Christianity lies.\n\nBoth sides tend to argue as though the empty tomb were settled — one way or the other. It is the least secure element in the case and both would do better to argue without it.",
+  "sources": [
+    {
+      "title": "The Resurrection of the Son of God",
+      "author": "N.T. Wright",
+      "year": "2003",
+      "url": "https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/",
+      "note": "Reviewed in Themelios, which sets out the second-temple argument the page quotes."
+    },
+    {
+      "title": "The Minimal Facts Approach to the Resurrection of Jesus",
+      "author": "Gary Habermas",
+      "year": "2012",
+      "url": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs",
+      "note": "Habermas' own statement of the method and its criterion."
+    },
+    {
+      "title": "Vision theory of Jesus' appearances",
+      "url": "https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
+      "note": "Lüdemann's reconstruction and its critics. The page's statement of it is a paraphrase and is labelled as one."
+    },
+    {
+      "title": "Bart D. Ehrman",
+      "url": "https://en.wikiquote.org/wiki/Bart_D._Ehrman",
+      "note": "Sourced quotations, including the argument about historical method and miracles from the 2006 Craig debate."
+    },
+    {
+      "title": "Is There Historical Evidence for the Resurrection of Jesus? The Craig-Ehrman Debate",
+      "year": "2006",
+      "url": "https://www.reasonablefaith.org/media/debates/is-there-historical-evidence-for-the-resurrection-of-jesus-the-craig-ehrman",
+      "note": "The full exchange, hosted by Craig's own site."
+    },
+    {
+      "title": "Did Jesus Exist? (Ehrman)",
+      "url": "https://en.wikipedia.org/wiki/Did_Jesus_Exist%3F_(Ehrman_book)",
+      "note": "Ehrman's book-length treatment of mythicism, written as an agnostic."
+    }
+  ]
+}

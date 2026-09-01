@@ -338,6 +338,50 @@ for (const full of files) {
   }
 }
 
+// The home page lists all twenty topics from src/data/topics-index.json and
+// links the drafted ones by matching id. A drafted topic whose id is not in the
+// index simply fails to link, and the count silently stays low -- which is
+// exactly what happened when topics 7, 10, 11 and 13 were first drafted.
+{
+  const indexPath = join(ROOT, 'src/data/topics-index.json');
+  const raw = JSON.parse(await readFile(indexPath, 'utf8'));
+  const rows = Array.isArray(raw) ? raw : (raw.en ?? []);
+  const byId = new Map(rows.map((row) => [row.id, row]));
+
+  const seen = new Map();
+  for (const full of files) {
+    const rel = relative(CONTENT, full);
+    const [loc] = rel.split('/');
+    if (loc !== 'en') continue;
+    const topic = JSON.parse(await readFile(full, 'utf8'));
+    const file = relative(ROOT, full);
+
+    const row = byId.get(topic.id);
+    if (!row) {
+      fail(
+        file,
+        'id',
+        `"${topic.id}" is not in src/data/topics-index.json, so the home page cannot link this topic. ` +
+          `The index expects "${rows.find((r) => r.number === topic.number)?.id ?? '(no row with this number)'}" for topic ${topic.number}.`,
+      );
+      continue;
+    }
+    if (row.number !== topic.number) {
+      fail(file, 'number', `topic is numbered ${topic.number} but the index has "${topic.id}" at ${row.number}.`);
+    }
+    if (row.status !== topic.status) {
+      fail(
+        file,
+        'status',
+        `status is "${topic.status}" but the index says "${row.status}". The home page shows the index's tag, so the two would disagree in front of the reader.`,
+      );
+    }
+    const clash = seen.get(topic.id);
+    if (clash) fail(file, 'id', `duplicate topic id, also used by ${clash}.`);
+    seen.set(topic.id, file);
+  }
+}
+
 for (const [base, perArgument] of objectionSources) {
   for (const [id, byLocale] of perArgument) {
     const distinct = new Set(byLocale.values());

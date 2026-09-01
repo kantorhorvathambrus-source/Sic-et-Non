@@ -1,0 +1,180 @@
+{
+  "id": "free-will",
+  "number": 9,
+  "slug": "free-will",
+  "title": "Do we have free will?",
+  "category": "mind-and-will",
+  "status": "open",
+  "realQuestion": "You chose to read this. Something in your history — genes, upbringing, blood sugar, the last thing you read — made that choice the one you made. Both of those look true, and the argument is about whether they can both be true.\n\nThe dispute is not really about physics. It is about a word. One side holds that being free means being able, in the very circumstances you were in, to have done something else; if the past and the laws fix what you do, you were not free, and praise and blame are misplaced. The other holds that this sets the bar somewhere nothing could clear, and that being free means acting from your own reasons without being coerced or compelled — which is exactly what you did, and is all anyone ever wanted.\n\nWhat makes this hard is that neither is obviously a redefinition. Each side thinks the other has changed the subject.",
+  "distinctions": [
+    {
+      "label": "Is determinism true?",
+      "gloss": "A question for physics, and unsettled — quantum mechanics has interpretations that are deterministic and interpretations that are not. It matters less here than it looks: a choice made by a random quantum event is no more yours than one made by a chain of causes. Set aside.",
+      "activeHere": false
+    },
+    {
+      "label": "Does responsibility require that you could have done otherwise?",
+      "gloss": "This is the argument on this page. It is a question about what freedom is for — what has to be true of you for praise, blame and desert to make sense.",
+      "activeHere": true
+    },
+    {
+      "label": "Does God's foreknowledge remove your freedom?",
+      "gloss": "A separate and much older problem, internal to theism, with its own literature on eternity, middle knowledge and open theism. It does not turn on the arguments here. Not attempted on this page.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "compatibilism",
+      "definition": "The view that free will and determinism can both be true, because freedom means acting from your own reasons rather than being an exception to causation."
+    },
+    {
+      "term": "libertarian free will",
+      "definition": "Freedom that requires genuinely open alternatives: in exactly those circumstances, you could have done otherwise. Nothing to do with the political term."
+    },
+    {
+      "term": "agent causation",
+      "definition": "The proposal that a person can be a cause without being caused to cause — an originator rather than a link in a chain. The main positive account of libertarian freedom."
+    },
+    {
+      "term": "desert",
+      "definition": "Deserving something — praise, blame, punishment — as a matter of justice rather than usefulness. Much of the practical stake in this argument is here."
+    }
+  ],
+  "sides": [
+    {
+      "label": "You are an originator, not only a link in a chain",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "agents-originate",
+          "claim": "A person can be the cause of an action without something else having caused them to cause it",
+          "explanation": "This is the positive proposal, and it comes first because the case for [[libertarian free will]] is often mistaken for a purely negative one. The claim is that among the causes in the world there is a kind that is not an event: a substance, a person, exercising a power.\n\nOn Timothy O'Connor's account your reasons are genuinely causal — they shape how likely you are to form one intention rather than another — but they do not settle it. You do. That is what it would be for an action to originate with you rather than to pass through you, and it is a claim about the metaphysics of causation, not a plea for an exemption from science.",
+          "quote": {
+            "text": "A free action is one in which the agent herself causes her intention to act. Reasons shape how likely the agent is to form one intention rather than another, but no set of prior conditions causes her to form it: the agent exercises a causal power that is hers.",
+            "author": "Timothy O'Connor",
+            "work": "Persons and Causes: The Metaphysics of Free Will",
+            "year": "2000",
+            "locator": "our summary of the agent-causal account the book defends; not O'Connor's wording",
+            "sourceUrl": "https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf",
+            "verification": "paraphrase"
+          },
+          "counter": {
+            "objection": "This names the mystery rather than solving it. If the agent's causing is not itself caused by anything about the agent — her character, her reasons, her mood — then it is not clear in what sense it expresses her rather than simply happening. Make it depend on those things and it is determined after all; make it independent of them and it looks like a random event with a person's name on it. That dilemma is old and no agent-causal theory has escaped it to its critics' satisfaction.",
+            "objectionFrom": "atheist",
+            "response": "The dilemma assumes that every cause must be an event, which is what [[agent causation]] denies. That the position is hard to state in event-causal vocabulary is expected, since it is proposing a different category, not a strange event."
+          }
+        },
+        {
+          "id": "the-consequence-argument",
+          "claim": "If the past and the laws fix what you do, then what you do is not up to you",
+          "explanation": "Peter van Inwagen's argument is short, and it has set the terms of the dispute for forty years. It does not appeal to introspection or to the felt sense of choosing, both of which the other side can explain away. It appeals only to a transfer principle: if you have no choice about A, and no choice about A leading to B, then you have no choice about B.\n\nYou had no choice about the state of the world before you were born, and none about the laws of nature. If those two together entail every move you make, then by that principle you have no choice about any of them.",
+          "quote": {
+            "text": "If determinism is true, then our acts are the consequences of the laws of nature and events in the remote past. But it is not up to us what went on before we were born; and neither is it up to us what the laws of nature are. Therefore the consequences of these things (including our present acts) are not up to us.",
+            "author": "Peter van Inwagen",
+            "work": "An Essay on Free Will",
+            "year": "1983",
+            "locator": "p. 16",
+            "sourceUrl": "https://andrewmbailey.com/pvi/Consequence_Argument.doc",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "'Up to us' is exactly the phrase in dispute, so a principle built out of it inherits the disagreement rather than resolving it. On the compatibilist reading, whether something is up to you is a question about whether it went through your deliberation and would have gone differently had your reasons differed — and on that reading the premises are false, because it was up to you in the only sense anyone acts on. The argument is valid; whether it is sound depends on the very question it was meant to settle.",
+            "objectionFrom": "atheist",
+            "response": "That reply concedes the argument and changes the subject to a weaker notion of freedom. The question is whether that weaker notion can carry the weight of [[desert]], and saying that it is the only sense anyone acts on is not an answer to whether it should be."
+          }
+        }
+      ]
+    },
+    {
+      "label": "The freedom worth having was never the impossible kind",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "freedom-worth-wanting",
+          "claim": "The freedom that actually matters is compatible with everything science has found",
+          "explanation": "Daniel Dennett's case is that the libertarian has been describing a kind of freedom nobody could have and nobody would want. A choice uncaused by your character, your history and your reasons would not be more yours; it would be less.\n\nWhat we actually care about, when we hold someone responsible, is whether they were the sort of agent who could take in reasons and respond to them, whether they were coerced, deceived or compelled, and whether talking to them might make a difference next time. All of that is real, all of it varies between people and situations, and none of it requires an exception to causation. [[compatibilism]] is not a consolation prize; on this account it is the thing itself.",
+          "quote": {
+            "text": "saving everything that mattered about the everyday concept of free will, while jettisoning the impediments",
+            "author": "Daniel C. Dennett",
+            "work": "Elbow Room: The Varieties of Free Will Worth Wanting",
+            "year": "1984",
+            "locator": "Dennett describing the book's aim, in the preface to the revised edition",
+            "sourceUrl": "https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "Everything on that list is real and none of it is what was being asked about. A sophisticated machine also takes in reasons and responds to them, and nobody thinks it deserves anything. The question was never whether human beings differ from rocks in their responsiveness — obviously they do — but whether anyone is ever the ultimate source of what they do, and the answer offered simply declines the question while keeping the vocabulary.",
+            "objectionFrom": "theist",
+            "response": "There is no coherent notion of an 'ultimate source' to decline. Being the ultimate source of your action would require having created your own character, which would require an earlier self to do the creating, and so on without end."
+          }
+        },
+        {
+          "id": "no-author-of-your-thoughts",
+          "claim": "Your intentions arrive already formed, from causes you did not choose and cannot see",
+          "explanation": "Sam Harris presses a harder line, and it is a claim about experience rather than about metaphysics. Watch closely for the next thought you have. You do not select it from a menu; it appears. The intention to move your hand shows up in consciousness already made, produced by processes you had no access to and did not author.\n\nOn this account compatibilism keeps the word by quietly dropping the thing people meant by it. Nobody, hearing that they are free, understands it as 'your desires cause your actions'. They understand it as 'you could have done otherwise', and that is what Harris says is false.",
+          "quote": {
+            "text": "Free will is an illusion. Our wills are simply not of our own making.",
+            "author": "Sam Harris",
+            "work": "Free Will",
+            "year": "2012",
+            "locator": "the book's thesis, stated in its opening pages",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Free_Will_(book)",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The sharpest objection here comes from within the same camp, not from religion: Dennett has argued at length against Harris that this confuses a folk theory with the phenomenon. That thoughts arrive unbidden is true and irrelevant, because deliberation is not the selecting of a first thought but what happens to it afterwards — the reflection, the weighing, the veto. Telling people that responsibility is an illusion is also, Dennett argues, an empirical claim about consequences that Harris does not defend and that may well be false.",
+            "objectionFrom": "within",
+            "response": "The reflection and the veto arrive by the same route as the first thought and are no more authored than it was. Pushing the account one step later in the process does not find an author, it finds more machinery."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Christians are on both sides of this, and always have been",
+      "text": "The page puts libertarian freedom on the theist side because that is where the argument for it is currently made, but it is not the Christian view, and presenting it that way would misrepresent a large part of the tradition.\n\nThe Reformed tradition is broadly compatibilist. Jonathan Edwards argued in 1754 that the will is always determined by the strongest motive and that this is no threat to responsibility — a position closer to Dennett's than to van Inwagen's, reached two centuries earlier and for theological reasons. Augustine and Aquinas are both read in more than one direction. A reader who takes from this page that Christians believe in libertarian free will and atheists do not has taken the wrong thing: what the page shows is which arguments are currently live, not who is entitled to make them."
+    },
+    {
+      "heading": "The Libet experiments, and why they are not in an argument slot",
+      "text": "In the 1980s Benjamin Libet found brain activity preceding the reported moment of deciding to move a finger by a few hundred milliseconds, and for thirty years this was cited everywhere as experimental evidence against free will.\n\nIt is not in a slot above because the interpretation has been substantially walked back, by people on both sides. The 'readiness potential' now looks in part like an artefact of averaging trials aligned on movement, and can appear when no decision is made at all; the task — move a finger at an arbitrary moment for no reason — is close to the least deliberative thing a person can do; and Libet himself thought his results left room for a conscious veto. The finding is real and the conclusion drawn from it is not currently defended in that form, which is why it is here."
+    }
+  ],
+  "whereItStands": "Compatibilism is the majority position among philosophers who work on this, and has been for decades; libertarianism is a substantial minority, and hard incompatibilism a smaller one. That is a fact about the field rather than an argument, and the minority contains some of the best-known people in it.\n\nThe consequence argument is still the pivot. Nobody has refuted it to general satisfaction and nobody has made it decisive, because both outcomes require settling what 'up to us' means, and that is the disagreement rather than a step in it. Where movement has happened is elsewhere: Frankfurt-style cases pushed many people to accept that responsibility might not require alternatives after all, which shifted the ground under both sides, and the neuroscience that was expected to settle everything has settled nothing.\n\nThe honest summary is that this is one of the few disputes where both sides can state the other's position accurately, agree on all the facts, and still disagree — and yet it is not interpretive, because specific arguments keep changing specific minds.",
+  "commonMistake": "Christians most often argue as though libertarian freedom were required by their faith and therefore safe to assume, which is both bad philosophy and bad history: a large part of their own tradition denies it. Assuming it also makes the free-will defence in topic 3 look circular, since that argument needs libertarian freedom as a premise and cannot also be evidence for it.\n\nAtheists most often reach for Libet, or for a story about neurons firing before you feel the decision, as though the experiment had settled a philosophical question. It has not, and the version usually cited has been retracted in substance by the field. Reaching for it also concedes the framing: if the question were empirical, a better experiment would settle it, and everyone in the actual dispute knows it would not.\n\nThe error underneath both is treating the disagreement as though one side were failing to notice something. Van Inwagen knows how brains work. Dennett knows what it feels like to choose. What they disagree about is what freedom would have to be to be worth the name.",
+  "sources": [
+    {
+      "title": "Persons and Causes: The Metaphysics of Free Will",
+      "author": "Timothy O'Connor",
+      "year": "2000",
+      "url": "https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf",
+      "note": "The introduction, on the author's own site. The page's statement of his position is a paraphrase and is labelled as one."
+    },
+    {
+      "title": "The Consequence Argument",
+      "author": "Peter van Inwagen",
+      "year": "1983",
+      "url": "https://andrewmbailey.com/pvi/Consequence_Argument.doc",
+      "note": "Van Inwagen's own text of the argument as first published in An Essay on Free Will."
+    },
+    {
+      "title": "Elbow Room: The Varieties of Free Will Worth Wanting",
+      "author": "Daniel C. Dennett",
+      "year": "1984",
+      "url": "https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting",
+      "note": "The MIT Press edition, which carries Dennett's preface describing the book's aim."
+    },
+    {
+      "title": "Free Will",
+      "author": "Sam Harris",
+      "year": "2012",
+      "url": "https://en.wikipedia.org/wiki/Free_Will_(book)"
+    },
+    {
+      "title": "Consequence argument",
+      "url": "https://en.wikipedia.org/wiki/Consequence_argument",
+      "note": "Includes the standard replies and the Frankfurt-case literature the page refers to."
+    }
+  ]
+}

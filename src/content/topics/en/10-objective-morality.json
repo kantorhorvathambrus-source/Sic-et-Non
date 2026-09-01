@@ -1,0 +1,180 @@
+{
+  "id": "objective-morality",
+  "number": 10,
+  "slug": "objective-morality",
+  "title": "Can there be objective morality without God?",
+  "category": "morality",
+  "status": "open",
+  "realQuestion": "Torturing a child for entertainment is wrong. Not disapproved of, not counter-productive — wrong, and it would still have been wrong if everyone alive had approved. Almost nobody on either side of this argument wants to give that up.\n\nThe question is what makes it true. One side says a claim like that is binding on you, and being bound is a relation to someone: obligations are owed, and a universe of particles owes nothing and is owed nothing. The other says the claim is true in the way that mathematical claims are true — necessarily, and without needing anything to have made it so — and that adding a commander explains nothing while raising a harder question about the commander.\n\nThis is not a question about whether atheists behave well. Everyone here agrees that they do.",
+  "distinctions": [
+    {
+      "label": "Can someone be good without believing in God?",
+      "gloss": "Yes, and no serious participant denies it. This is a question about psychology and it is not in dispute; confusing it with the question below is the single most common failure in this argument. Set aside.",
+      "activeHere": false
+    },
+    {
+      "label": "If there are objective moral facts, does God explain them better than anything else?",
+      "gloss": "This is the argument on this page. Both sides here hold [[moral realism]]: they agree there are moral facts and disagree about what accounts for them.",
+      "activeHere": true
+    },
+    {
+      "label": "Are there any objective moral facts at all?",
+      "gloss": "A prior question, and a live one — error theorists and expressivists say no. It is set aside here because granting it is what makes the argument on this page interesting: the dispute is between two realists, not between a realist and a sceptic.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "moral realism",
+      "definition": "The view that some moral claims are true independently of what anyone thinks or feels. Held by both sides on this page; what they dispute is what makes them true."
+    },
+    {
+      "term": "divine command theory",
+      "definition": "The account on which moral obligations are constituted by God's commands. The modern version adds that the commander must be loving, which is meant to answer the Euthyphro dilemma."
+    },
+    {
+      "term": "natural law",
+      "definition": "The older Christian alternative, from Aquinas: what is good for a creature follows from the kind of creature it is, so morality is grounded in nature rather than in commands."
+    },
+    {
+      "term": "evolutionary debunking",
+      "definition": "The argument that if our moral beliefs were shaped by selection for fitness rather than for truth, we have no reason to think they track moral facts, whatever those facts are."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Obligation is owed to someone, and particles are owed nothing",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "duties-need-a-commander",
+          "claim": "A duty is something you owe, and owing is a relation between persons",
+          "explanation": "The positive account distinguishes two things usually run together. Values are about what is good; duties are about what you must do. Robert Adams' version, which is the serious form of the argument, grounds the first in God's nature — God is the standard that finite goods resemble — and the second in his commands.\n\nThe force of it is in the second half. You can be told that cruelty is bad and reasonably ask why that binds you. On this account a moral requirement has the structure of a demand, and a demand is made by someone. William Lane Craig puts the conditional plainly, and the whole argument rests on whether a godless universe can supply anything with that structure.",
+          "quote": {
+            "text": "If God does not exist, objective moral values do not exist.",
+            "author": "William Lane Craig",
+            "work": "the first premise of the moral argument, as Craig states it",
+            "year": "2008",
+            "locator": "Craig defines 'objective' as 'valid and binding independently of whether anybody believes in it or not'",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The oldest and sharpest objection to grounding morality in commands is Christian, not atheist. The [[natural law]] tradition from Aquinas holds that what is good for a creature follows from what kind of creature it is, so that cruelty is wrong because of what human beings are, not because it was forbidden. On that view [[divine command theory]] gets the order backwards and makes God's goodness unintelligible: if his commands constitute rightness, calling him good says only that he acts as he acts.",
+            "objectionFrom": "within",
+            "response": "The modern version grants much of this by grounding values in God's nature rather than his will, and only obligations in his commands. Natures alone still leave the question of what turns 'this is good for you' into 'you must'."
+          }
+        },
+        {
+          "id": "why-would-we-track-them",
+          "claim": "On naturalism our moral sense was built for survival, which gives no reason to think it tracks moral truth",
+          "explanation": "This is the epistemological half, and it targets the other side's strongest position rather than a weak one. Grant that there are objective, non-natural moral facts standing on their own. Now ask how creatures like us came to know any of them.\n\nOur moral responses were shaped by selection, and selection rewards what works, not what is true. A tendency to protect your children is favoured whether or not there is a mind-independent fact that you ought to. This is the [[evolutionary debunking]] argument, and Mark Linville's version is that the naturalist realist therefore has beliefs whose reliability they cannot account for, while the theist can: faculties made by a moral being might be expected to track moral reality.",
+          "quote": {
+            "text": "The naturalist must hold that human moral faculties were shaped by selection for reproductive fitness rather than for tracking mind-independent moral truth, and so has no account of their reliability; the theist, taking those faculties to be created by a good God, does.",
+            "author": "Mark D. Linville",
+            "work": "The Moral Argument, in The Blackwell Companion to Natural Theology",
+            "year": "2009",
+            "locator": "our summary of the evolutionary argument against naturalistic moral realism, pp. 391-448; not Linville's wording",
+            "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
+            "verification": "paraphrase"
+          },
+          "counter": {
+            "objection": "The argument cuts against its user. If selection shaped our moral faculties, it shaped them whether or not God exists — God would have had to work through the same process, so the theist inherits the identical story about how the beliefs arrived and has only added a hope about where it was heading. And the reliability challenge has an answer: if some moral truths are necessary, then any process that produces beliefs about cooperation, harm and fairness will produce beliefs that are true, not by luck but because those truths could not have been otherwise.",
+            "objectionFrom": "atheist",
+            "response": "That reply needs the necessary truths to line up with what was adaptive, which is the coincidence the argument was pointing at rather than an explanation of it."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Moral facts stand on their own, as necessary truths do",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "brute-ethical-facts",
+          "claim": "Basic moral truths are the foundation, and foundations do not rest on anything",
+          "explanation": "Erik Wielenberg's position is not that morality is invented, or a matter of feeling, or reducible to what helps us get along. It is that there are objective, non-natural moral properties, and that they need no support — the same status the theist has always been willing to grant to God.\n\nThe argument is one of parity. The theist stops at a being whose goodness is not explained by anything further; the realist stops one step earlier, at the moral facts themselves. Neither can say why their stopping point is there, but only one of them is accused of leaving something out. 'It is wrong to torture children for fun' is, on this account, true in the way '2 + 2 = 4' is true, and neither needed anyone to make it so.",
+          "quote": {
+            "text": "Basic ethical facts are the axioms of morality: they have no external foundation, because they are the foundation. They are brute necessary truths, in the way that the theist takes God's own goodness to be.",
+            "author": "Erik J. Wielenberg",
+            "work": "Value and Virtue in a Godless Universe, and Robust Ethics",
+            "year": "2005",
+            "locator": "our summary of the position defended in both books; not Wielenberg's wording",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/robust-ethics-the-metaphysics-and-epistemology-of-godless-normative-realism/",
+            "verification": "paraphrase"
+          },
+          "counter": {
+            "objection": "Calling something a brute necessary truth is a way of declining to explain it, and the parity claim does not hold. God is a person, and a person can issue a demand; a fact cannot. The question was never only what makes cruelty bad but what makes it binding on you, and a free-floating necessary truth about badness has no more grip on anyone than a free-floating truth about triangles. Nor is the mathematical parallel clean: nobody thinks arithmetic obliges them.",
+            "objectionFrom": "theist",
+            "response": "That a fact cannot make demands is asserted rather than shown. Reasons are not demands either, and they bind: if there is a fact that an action is monstrous, that is a reason not to do it, and adding someone who also disapproves does not add force to it."
+          }
+        },
+        {
+          "id": "euthyphro",
+          "claim": "Either God's commands track something already good, or goodness is whatever he happens to command",
+          "explanation": "Socrates asked the question two and a half thousand years ago and it has never been retired. Take anything God commands. Either he commands it because it is good, in which case its goodness is independent of him and the theist's foundation is not doing the work; or it is good because he commands it, in which case anything at all could have been good, and had he commanded cruelty, cruelty would have been a duty.\n\nThe usual answer is that God's own nature is the standard, so the choice is a false one. The atheist's reply is that this relocates the dilemma rather than dissolving it: either God's nature is good by a standard, or 'good' just means 'like God', which makes 'God is good' say nothing.",
+          "quote": {
+            "text": "Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?",
+            "author": "Plato",
+            "work": "Euthyphro",
+            "year": "c. 399 BC",
+            "locator": "10a; Socrates to Euthyphro",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The third option is not a dodge and is older than the objection to it. Goodness is identified with God's nature, which is neither an arbitrary choice nor an external standard he consults, because a nature is not something anyone chooses. That 'God is good' then becomes something like an identity statement is not a defect: 'water is H₂O' is uninformative in the same way and is not thereby empty.",
+            "objectionFrom": "theist",
+            "response": "The identity move works only if we can recognise the goodness independently, which is what lets us say the identity is true rather than stipulated — and that recognition is the independent standard the theist said there was not."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Hume's gap, which both sides claim",
+      "text": "Hume observed that arguments slide without warning from statements about what is to statements about what ought to be, and that the step is never justified. Both sides cite this against the other, and both are entitled to.\n\nAgainst the naturalist: no set of facts about wellbeing, flourishing or social stability adds up to an obligation without a premise that already contains one. Against the theist: no set of facts about what God is or what God commands adds up to an obligation either, without a premise that you ought to do what God commands — and that premise cannot come from another command without circling. The gap is a problem for anyone who wants to derive morality from anything, which is part of why both sides on this page end up positing something foundational rather than deriving it."
+    },
+    {
+      "heading": "Three things 'objective' can mean",
+      "text": "Most cross-talk in this argument is one word doing three jobs. It can mean *not a matter of opinion* — the Nazis were wrong even though they thought otherwise. It can mean *mind-independent* — true whether or not any minds exist. It can mean *grounded in something outside the natural world*.\n\nThe first is agreed by everyone on this page. The second is where the disagreement is. The third is a theist thesis, and quietly assuming it is what makes the argument look circular to the other side: if 'objective' means 'grounded outside nature', then 'objective morality requires something outside nature' is true by definition and proves nothing. When an exchange here goes nowhere, it is usually worth asking which of the three each person is using."
+    }
+  ],
+  "whereItStands": "Both positions are held by serious people and neither is close to collapsing. Among philosophers as a whole, moral realism is the majority view and theism is not, which means most moral realists are atheists — a fact that tells against the claim that the combination is unstable, though it is a headcount rather than an argument.\n\nWhere the argument has actually moved is the epistemological half. The metaphysical dispute — what grounds moral facts — has been static for a long time, with both sides positing something foundational and neither able to justify stopping where it does. But the question of how evolved creatures came to know moral truths has generated real work in the last twenty years, and Wielenberg's books are substantially a response to it. That is the part to watch.\n\nWhat is not in dispute, and gets misreported constantly, is whether atheists can be moral. Nobody in this argument thinks otherwise, including the people making the strongest version of the theist case.",
+  "commonMistake": "Christians most often let the argument slide from 'atheism cannot ground morality' to 'atheists have no morals', which is a different claim, is false, and is insulting to the people they are trying to persuade. It also loses the argument: the moment the claim becomes empirical it is refuted by every decent unbeliever the listener knows.\n\nAtheists most often answer with an account of where our moral feelings came from — evolution, culture, empathy — as though that addressed the question. It does not. An explanation of why we believe cruelty is wrong is compatible with cruelty being wrong and compatible with it not being; the question was what makes it true, and a genealogy of the belief is not an answer to it.\n\nBoth sides also tend to treat their own stopping point as obviously reasonable and the other's as obviously arbitrary. God, uncaused and good by nature, and moral facts, uncaused and true by necessity, are the same move made in two places. Whichever you find easier to accept, it is worth noticing that you are accepting one.",
+  "sources": [
+    {
+      "title": "The Moral Argument for God",
+      "author": "William Lane Craig",
+      "url": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
+      "note": "Craig's own statement of the argument and of what he means by 'objective'."
+    },
+    {
+      "title": "The Moral Argument",
+      "author": "Mark D. Linville",
+      "year": "2009",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
+      "note": "The scholarly form of the theist case, in The Blackwell Companion to Natural Theology. The page's statement of it is a paraphrase and is labelled as one."
+    },
+    {
+      "title": "Robust Ethics: The Metaphysics and Epistemology of Godless Normative Realism",
+      "author": "Erik J. Wielenberg",
+      "year": "2014",
+      "url": "https://ndpr.nd.edu/reviews/robust-ethics-the-metaphysics-and-epistemology-of-godless-normative-realism/",
+      "note": "Reviewed in Notre Dame Philosophical Reviews. Much of the book answers the reliability challenge above."
+    },
+    {
+      "title": "Euthyphro dilemma",
+      "url": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+      "note": "The passage at 10a, with the standard theist replies and the responses to them."
+    },
+    {
+      "title": "Finite and Infinite Goods: A Framework for Ethics",
+      "author": "Robert Merrihew Adams",
+      "year": "1999",
+      "url": "https://global.oup.com/academic/product/finite-and-infinite-goods-9780195153712",
+      "note": "The serious form of the divine command account the first argument describes."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "mind-and-brain",
+  "number": 8,
+  "slug": "mind-and-brain",
+  "title": "Is the mind more than the brain?",
+  "category": "mind-and-will",
+  "status": "open",
+  "realQuestion": "A neuroscientist can tell you which region lights up when you see red, which lesion takes your speech, which drug flattens your mood. None of that is disputed by anyone in this argument, and the page is not about it.\n\nWhat is disputed is whether that story, completed, would be the whole story. When you see red there is something it is like to be you at that moment — the [[qualia]] of the experience. The question is whether a complete physical description of your brain would have described that, or would have left it out — and if it left it out, what follows.\n\nThe two sides are not neuroscience against religion. They are two answers to a question neuroscience does not ask.",
+  "distinctions": [
+    {
+      "label": "Does the mind depend on the brain?",
+      "gloss": "Yes, and nobody arguing here denies it. Damage the brain and you damage the mind, reliably and specifically. Every position on this page has to accommodate that, and each says how. Set aside, and covered in the note below.",
+      "activeHere": false
+    },
+    {
+      "label": "Would a complete physical account of the brain be a complete account of the mind?",
+      "gloss": "This is the argument on this page. It is a question about explanation and about what exists, not about which brain regions do what.",
+      "activeHere": true
+    },
+    {
+      "label": "Does anything survive death?",
+      "gloss": "A further step. Even a soul, if there is one, might not be the kind of thing that outlasts a body without help. The step from dualism to survival is a theological argument, not this one, and is not attempted here.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "qualia",
+      "definition": "The felt quality of an experience — what red looks like from inside, rather than which wavelength it is. Whether this names a real further thing is much of the dispute."
+    },
+    {
+      "term": "substance dualism",
+      "definition": "The view that a person is made of two things, a body and a soul, which interact. Distinct from the weaker claim that mental properties are not physical properties."
+    },
+    {
+      "term": "causal closure",
+      "definition": "The principle that every physical event has a sufficient physical cause. Not a discovery so much as a working assumption of physics, which is part of why it is arguable."
+    },
+    {
+      "term": "the hard problem",
+      "definition": "David Chalmers' name for the question of why physical processing is accompanied by experience at all, as distinct from the tractable questions of how the brain discriminates, integrates and reports."
+    }
+  ],
+  "sides": [
+    {
+      "label": "The subject of experience is not one more thing in the brain",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "the-further-fact",
+          "claim": "A complete inventory of your body would not yet have said which person you are",
+          "explanation": "Richard Swinburne's argument turns on a question physical description seems unable to settle. Take a full specification of a body and brain — every atom, every connection. Now ask whether the person in it is you. Swinburne argues that this remains an open question after all the physical facts are in, and that a question that stays open after every physical fact is settled must be about something further.\n\nHe is not denying that the soul depends on the brain, and he is explicit that it does. The claim is about what a person is, not about whether minds can float free of bodies.",
+          "quote": {
+            "text": "a person consists of two parts — a physical body and a non-physical soul",
+            "author": "Richard Swinburne",
+            "work": "Substance Dualism, Faith and Philosophy 26(5)",
+            "year": "2009",
+            "locator": "the thesis defended at length in The Evolution of the Soul (1986)",
+            "sourceUrl": "https://users.ox.ac.uk/~orie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The open question may be about our concepts rather than about the world. That we can ask 'but would it be me?' shows something about the elasticity of personal-identity talk, not that there is an extra ingredient the question is tracking. We can ask 'but would it be the same ship?' about a rebuilt vessel without anyone concluding that ships have souls. And an [[substance dualism]] that grants full dependence on the brain has to say what the soul is contributing that the brain is not already doing.",
+            "objectionFrom": "atheist",
+            "response": "The ship case is not parallel: there is no fact about which the ship's own answer could be right or wrong, and about yourself there is. Either you wake up tomorrow or someone else does, and that is not a matter of how we choose to speak."
+          }
+        },
+        {
+          "id": "consciousness-needs-explaining",
+          "claim": "If consciousness cannot be reduced, a universe that starts with mind explains it better than one that does not",
+          "explanation": "This argument does not begin with the soul. It begins by granting the hardest version of the problem to the other side and asking which picture of the world accommodates it.\n\nOn a naturalist account, mind appears late, out of arrangements of matter that were never mental, by a route nobody can specify — and its appearance is either a brute fact or a very long promissory note. On theism, mind is where the universe starts, and finite minds are the kind of thing such a universe would be expected to contain. J.P. Moreland's argument is comparative and conditional: it does not claim to prove consciousness irreducible, only that if it is, this counts.",
+          "quote": {
+            "text": "If irreducible consciousness exists (or is regularly correlated with physical states), then this provides evidence (to a degree specified in chapter two) for God's existence.",
+            "author": "J.P. Moreland",
+            "work": "Consciousness and the Existence of God: A Theistic Argument",
+            "year": "2008",
+            "locator": "the conditional the book sets out to defend",
+            "sourceUrl": "https://www.jpmoreland.com/books/god-and-consciousness/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The conditional is doing less than it appears, because the antecedent is the whole dispute and the consequent smuggles in a comparison never run. 'Mind is fundamental' explains consciousness the way 'it is in the nature of opium to cause sleep' explains sleep: it re-describes the thing at a higher price. A divine mind is itself an irreducible consciousness, unexplained, so the account ends where it started with one more entity in it.",
+            "objectionFrom": "atheist",
+            "response": "Every explanation stops somewhere, and stopping at mind is not obviously worse than stopping at matter. The claim is only that if consciousness is not reducible, a universe with mind at the bottom is less surprised by it."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mind is what brains do, and nothing has been left out",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "nothing-but-the-cells",
+          "claim": "Every mental capacity we have located has turned out to be a brain function",
+          "explanation": "The positive case is a two-century record with no counterexample. Every capacity once thought too inward to be physical — memory, language, recognising a face, moral judgement, the sense of being a self — has, when investigated, turned out to be something specific neural tissue does, and to fail in specific ways when that tissue fails.\n\nPatricia Churchland's point is that this is not a series of correlations awaiting a deeper explanation. It is what finding out what something is looks like. Nobody now says water is correlated with H₂O.",
+          "quote": {
+            "text": "When I say that the mind is the brain, when I say that vision just is a function of the brain, that's what I mean … that there is nothing other than the cells and the way they're put together.",
+            "author": "Patricia Churchland",
+            "work": "interview with Bill Moyers",
+            "year": "2011",
+            "locator": "spoken; a false start has been elided",
+            "sourceUrl": "https://billmoyers.com/content/patricia-churchland/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "The strongest form of this objection comes from within naturalism rather than from religion. David Chalmers accepts every result Churchland cites, denies souls, and still argues that the list is a list of functions — discriminating, integrating, reporting — and that explaining a function does not explain why performing it is accompanied by experience. Water and H₂O is the wrong parallel, because there is nothing it is like to be water: the identity there needs no further fact, and here one is exactly what is in dispute.",
+            "objectionFrom": "within",
+            "response": "The 'further fact' may be an artefact of the first-person view rather than a further thing in the world. A system that models itself will represent its own states as simple and immediate, and will find their explanation in functional terms unsatisfying, whether or not anything has been left out."
+          }
+        },
+        {
+          "id": "no-room-for-a-second-cause",
+          "claim": "A soul that moves a body would have to displace a physical cause that is already sufficient",
+          "explanation": "This is the argument that has done the most work in the last forty years, and it is aimed at dualism's action rather than at its plausibility. Physics appears to be causally closed: for any physical event, there is a sufficient physical cause. Your arm rises because of muscle fibres, motor neurons, and a chain running back into the brain, with no gap.\n\nJaegwon Kim's exclusion principle then bites. If the soul also caused the arm to rise, the event has two sufficient causes, which is either overdetermination — a coincidence repeated every time anyone moves — or one of the two causes is not doing anything. Kim pressed this against fellow physicalists first, which is part of why it is hard to dismiss as prejudice.",
+          "quote": {
+            "text": "No single event can have more than one sufficient cause occurring at any given time — unless it is a genuine case of causal overdetermination.",
+            "author": "Jaegwon Kim",
+            "work": "Physicalism, or Something Near Enough",
+            "year": "2005",
+            "locator": "the causal exclusion principle, as stated in the supervenience argument",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/physicalism-or-something-near-enough/",
+            "verification": "corroborated"
+          },
+          "counter": {
+            "objection": "[[causal closure]] is an assumption of physical practice, not a result of it. No experiment has surveyed all causes of a physical event and found them all physical; what physics has found is that physical causes suffice for the phenomena physics studies, which is not the same claim. And Kim's argument proves too much for its own side: he takes it to show that non-reducible mental properties are causally idle, which many naturalists find as unacceptable as dualists do.",
+            "objectionFrom": "theist",
+            "response": "That the closure principle is not a theorem is granted. It is, however, the best-supported working assumption in the sciences, and nothing has ever been found to violate it — while the alternative requires an interaction with no mechanism, no location and no energy budget."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "The argument that was withdrawn by the man who made it",
+      "text": "For twenty years the sharpest anti-physicalist argument was Frank Jackson's: Mary knows every physical fact about colour vision but has never seen colour; when she is let out of her black-and-white room, she learns something; so not every fact is a physical fact.\n\nJackson then changed his mind and became a physicalist, concluding that Mary's surprise does not show what he had taken it to show. That is why the argument is here rather than in one of the slots above: it is a famous argument its own author abandoned, and a page that spent a slot on it would be showing an argument nobody in the current dispute is pressing in that form. It matters anyway — a philosopher publicly reversing a career-defining position is rare enough to be worth knowing about, and both sides now cite the reversal for opposite reasons."
+    },
+    {
+      "heading": "What both sides agree the brain does",
+      "text": "Dualists on this page are not disputing the neuroscience, and it is worth being exact about that because the argument is usually misreported as if they were.\n\nSwinburne holds that the soul's every conscious state depends on the brain in this life, so that anaesthetic, injury and dementia do exactly what they appear to do. Moreland's argument does not require dualism at all, only that consciousness resist reduction. Neither position predicts that a lesion will leave a capacity intact, and neither is embarrassed by a scan. The disagreement is about what a complete physical story would and would not have contained, and no scan settles that."
+    }
+  ],
+  "whereItStands": "The empirical trend runs one way and has for a long time. Capacities keep turning out to be brain functions, and no mental phenomenon has ever been localised outside the head. Anyone arguing that the mind is more than the brain is arguing against that current, and the honest ones say so.\n\nThe philosophical dispute has not moved with it. [[the hard problem]] is roughly where Chalmers left it in 1995: nobody has produced a derivation of experience from physical description, and nobody has produced an argument that no such derivation is possible which the other side accepts. What has changed is the shape of the field — the live options are now mostly forms of physicalism and forms of naturalistic non-physicalism, with theistic dualism a minority position argued by a small number of philosophers who argue it well.\n\nThat last fact cuts less than it looks. A position held by few can be right, and the reason to attend to Swinburne is that his argument is good, not that many share his conclusion.",
+  "commonMistake": "Christians most often argue as though the neuroscience were the opponent, and reach for cases — near-death reports, terminal lucidity — that would be striking if they held up and that no serious version of the argument needs. The strong version concedes the dependence entirely and asks a question the dependence does not answer. Reaching for anomalies makes a philosophical claim look like a factual bet, and it is losing bets that have made dualism sound disreputable.\n\nAtheists most often treat a correlation as a conclusion. That a region lights up when you feel fear tells you where fear happens; the claim in dispute is that the lighting-up is what the fear is, which is a further claim and one that Chalmers, an atheist, spends a book denying. Producing more scans does not address it.\n\nThe shared error is thinking the other side must be ignoring evidence. Neither is. They are disagreeing about what would count as having explained something.",
+  "sources": [
+    {
+      "title": "Substance Dualism",
+      "author": "Richard Swinburne",
+      "year": "2009",
+      "url": "https://users.ox.ac.uk/~orie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf",
+      "note": "Swinburne's own statement of the position, from his Oxford page."
+    },
+    {
+      "title": "Consciousness and the Existence of God: A Theistic Argument",
+      "author": "J.P. Moreland",
+      "year": "2008",
+      "url": "https://www.jpmoreland.com/books/god-and-consciousness/",
+      "note": "The argument from consciousness, on the author's own site."
+    },
+    {
+      "title": "Patricia Churchland: A Conversation With the Philosopher and Writer",
+      "author": "Bill Moyers",
+      "year": "2011",
+      "url": "https://billmoyers.com/content/patricia-churchland/"
+    },
+    {
+      "title": "Physicalism, or Something Near Enough",
+      "author": "Jaegwon Kim",
+      "year": "2005",
+      "url": "https://ndpr.nd.edu/reviews/physicalism-or-something-near-enough/",
+      "note": "Reviewed in Notre Dame Philosophical Reviews, which states the exclusion argument and its premises."
+    },
+    {
+      "title": "Knowledge Argument Against Physicalism",
+      "url": "https://iep.utm.edu/know-arg/",
+      "note": "The Internet Encyclopedia of Philosophy on Mary's room, including Jackson's later reversal."
+    }
+  ]
+}
