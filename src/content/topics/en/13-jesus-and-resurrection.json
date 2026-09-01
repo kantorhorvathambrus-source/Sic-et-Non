@@ -82,6 +82,7 @@
           "counter": {
             "objection": "The sharpest critic of this argument is a Christian. Dale Allison accepts the facts and denies that the inference goes through: what scholars grant is that the followers had experiences, which is a claim about their psychology, and the step from there to a bodily resurrection is not something the consensus supports — it is exactly what the consensus stops short of. Allison also notes that the comparative literature on bereavement visions is far larger and stranger than the apologetic use of it admits, including collective cases. Counting scholars who accept a premise is not the same as counting scholars who accept the conclusion.",
             "objectionFrom": "within",
+            "sharedPremise": "it accepts every one of the minimal facts and the method used to establish them, and disputes only whether a consensus that grants those premises also supports the inference drawn from them.",
             "response": "The argument does not claim the consensus supports the conclusion; it claims the conclusion is the best explanation of what the consensus supports, which is an inference the method makes openly rather than borrowing."
           }
         }

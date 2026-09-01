@@ -83,8 +83,8 @@
             "verification": "corroborated"
           },
           "counter": {
-            "objection": "The sharpest version of this objection comes from Christians rather than from atheists, and it is about strategy rather than chemistry. Biologists at BioLogos and elsewhere argue that resting a case for God on a currently unsolved problem puts him where the ignorance is, so that every advance in prebiotic chemistry becomes a small defeat for faith — a bargain nobody should want to make. The measurement is also contested on its own terms: it assumes functional sequences sit in isolated islands rather than connected regions, and it counts one fold rather than any fold that would have done.",
-            "objectionFrom": "within",
+            "objection": "The estimate measures one fold in one protein and then treats functional sequences as isolated islands in a space that has to be searched blind. Both assumptions are contested by protein evolution researchers: functional regions may be connected rather than isolated, the search is not blind because selection retains partial success, and a count of sequences that produce one specific fold is not a count of sequences that would have done some job. A separate objection, pressed by Christians at BioLogos and elsewhere, is strategic rather than technical: resting a case for God on a currently unsolved problem puts him where the ignorance is, so that every advance in prebiotic chemistry becomes a small defeat for faith.",
+            "objectionFrom": "atheist",
             "response": "The inference is not from ignorance but from a positive claim about what minds do and what chemistry does not. And an argument that would be weakened by a discovery is in that respect an ordinary scientific argument, not a disreputable one."
           }
         }

@@ -118,6 +118,7 @@
           "counter": {
             "objection": "Transformer une méthode qui réussit en une affirmation sur tout ce qui existe est un pari philosophique, pas un résultat scientifique — et ce sont des athées qui acceptent entièrement la biologie de l'évolution et refusent l'extension métaphysique qui pressent le plus fort cette objection. Dennett appelle sa propre idée un acide universel qui ronge tous les concepts traditionnels, et un acide qui dissout tout, y compris la fiabilité de l'esprit qui dissout, demande à être manié avec précaution.",
             "objectionFrom": "within",
+            "sharedPremise": "elle est faite selon les termes mêmes de la biologie de l'évolution : elle accepte pleinement la descendance commune et la sélection naturelle, et ne conteste que le pas supplémentaire d'une méthode qui réussit à une affirmation sur tout ce qui existe.",
             "response": "C'est un pari, mais un pari qui rapporte depuis deux siècles. Le pari inverse perd du terrain depuis tout ce temps."
           }
         }

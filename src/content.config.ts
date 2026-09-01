@@ -77,6 +77,50 @@ const note = z.object({
 });
 
 /**
+ * One way people on a side actually hold a position.
+ *
+ * A side does not speak with one voice, and printing it as though it did is how
+ * an argument ends with one person attacking a version the other never held.
+ * Variants render collapsed beneath the parent argument, never at load, so
+ * layer 1 does not grow.
+ *
+ * `changesTheObjection` is the filter, and it is prose rather than a flag: a
+ * variant earns its place only if the objection printed above it does not land
+ * against it. If the objection to hell is that infinite punishment for finite
+ * wrongs is disproportionate, the annihilationist does not have to answer it,
+ * because on that view the punishment is not infinite. A variant that leaves
+ * the objection's work unchanged is trivia; cut it.
+ *
+ * Admission is by three tests, and popularity is not one of them: a real
+ * constituency named (a person, an institution, a recognised tradition — never
+ * "some argue"), a citable public argument, and internal coherence on its own
+ * terms. A minority position with a serious case gets in; a majority position
+ * with no argument behind it does not.
+ */
+const variant = z.object({
+  id: z.string().regex(/^[a-z0-9-]+$/),
+  label: z.string().min(1),
+  /** Named people, institutions or traditions. "Some philosophers" is not a constituency. */
+  heldBy: z.string().min(1),
+  /** Shown when the disclosure is opened; the whole variant in one line. */
+  oneLine: z.string().min(1),
+  summary: z.string().min(1),
+  /** Required. A position with no citable advocate fails the second admission test. */
+  quote,
+  status: z.enum(['settled-core', 'open', 'interpretive']).optional(),
+  /** Required prose: what the objection above can no longer do against this version. */
+  changesTheObjection: z.string().min(1),
+  /**
+   * Where a variant conflicts with something the site has tagged settled-core,
+   * it still goes in, stated at full strength by its own advocates, and carries
+   * this marker saying where it stands against the relevant field's conclusion.
+   * Quietly dropping it and printing it unmarked are dishonest in different
+   * directions.
+   */
+  againstSettledCore: z.string().optional(),
+});
+
+/**
  * One argument, stated as its best defenders state it.
  *
  * `claim` is the whole of the argument in one line: it is what the default view
@@ -111,16 +155,44 @@ const argument = z.object({
        * Values match `side.position` so the two can be compared directly.
        */
       objectionFrom: z.enum(['theist', 'atheist', 'both', 'within']).optional(),
+      /**
+       * Required when objectionFrom is "within". An objection is internal when
+       * it is made on premises the position itself accepts — an argument from
+       * Scripture against a reading of Scripture, an argument from naturalism
+       * against a naturalist conclusion. That is a property of the argument,
+       * readable from the text and checkable by anyone.
+       *
+       * It is NOT a claim about what the arguer believes. Whether a critic is
+       * personally a Christian is private, changeable, and none of our business,
+       * and we are not in a position to assert it. So this field names the
+       * shared premise, never a person: the check below rejects a bare name.
+       */
+      sharedPremise: z.string().optional(),
+      /**
+       * Which variants of the parent argument this objection actually reaches,
+       * by id. Required once the argument carries variants: an objection printed
+       * over three versions of a position, two of which it does not touch, is
+       * the exact failure variants exist to expose.
+       */
+      landsOn: z.array(z.string()).optional(),
       response: z.string().optional(),
       quote: quote.optional(),
     })
     .optional(),
+  variants: z.array(variant).min(1).max(3).optional(),
 });
 
 const side = z.object({
   label: z.string().min(1),
   position: z.enum(['theist', 'atheist']),
   arguments: z.array(argument).min(2).max(4),
+  /**
+   * Required when the other side carries variants and this one does not.
+   * Both sides carry variants or neither does, per topic; where a side
+   * genuinely has no live internal split on a question, it says so in one line
+   * rather than leaving an asymmetry the reader will read as fracture.
+   */
+  singleVoice: z.string().optional(),
 });
 
 /**
@@ -286,8 +358,100 @@ const topics = defineCollection({
               `argument "${arg.id}" declares objectionFrom "${sideValue.position}", its own side. An objection from the same side is objectionFrom "within".`,
             );
           }
+
+          // "within" is a claim about the objection's premises, so it has to
+          // name them. A bare name would be a claim about a person's beliefs,
+          // which we are not in a position to make and which can change.
+          if (arg.counter?.objectionFrom === 'within') {
+            const reason = arg.counter.sharedPremise?.trim() ?? '';
+            const lowercaseWords = (reason.match(/\b[a-z][a-z-]{2,}\b/g) ?? []).length;
+            if (!reason) {
+              fail(
+                ['sides', s, 'arguments', a],
+                `argument "${arg.id}" declares objectionFrom "within" without a sharedPremise. Name the premise the objection and the position both accept.`,
+              );
+            } else if (lowercaseWords < 8) {
+              fail(
+                ['sides', s, 'arguments', a],
+                `argument "${arg.id}" has a sharedPremise that reads like a name rather than a premise: "${reason.slice(0, 60)}". Say what the objection and the position both accept, not who is objecting.`,
+              );
+            }
+          } else if (arg.counter?.sharedPremise) {
+            fail(
+              ['sides', s, 'arguments', a],
+              `argument "${arg.id}" carries a sharedPremise but its objection is not "within".`,
+            );
+          }
+
+          // Variants
+          const ids = new Set();
+          for (const [v, variantValue] of (arg.variants ?? []).entries()) {
+            if (ids.has(variantValue.id)) {
+              fail(['sides', s, 'arguments', a, 'variants', v], `duplicate variant id "${variantValue.id}".`);
+            }
+            ids.add(variantValue.id);
+            // "Some argue" is not a constituency; the first admission test is a name.
+            if (/^(some|many|most|certain|others|various)\b/i.test(variantValue.heldBy.trim())) {
+              fail(
+                ['sides', s, 'arguments', a, 'variants', v],
+                `variant "${variantValue.id}" says it is held by "${variantValue.heldBy}". Name a person, an institution or a recognised tradition.`,
+              );
+            }
+          }
+
+          if (arg.variants?.length) {
+            const landsOn = arg.counter?.landsOn;
+            if (!arg.counter) {
+              fail(
+                ['sides', s, 'arguments', a],
+                `argument "${arg.id}" carries variants but no objection, so there is nothing for changesTheObjection to change.`,
+              );
+            } else if (!landsOn) {
+              fail(
+                ['sides', s, 'arguments', a],
+                `argument "${arg.id}" carries variants, so its objection must say which ones it reaches (counter.landsOn). An empty list is a real answer — it means the objection reaches the main form only — but it has to be stated.`,
+              );
+            } else {
+              for (const target of landsOn) {
+                if (!ids.has(target)) {
+                  fail(
+                    ['sides', s, 'arguments', a],
+                    `objection on "${arg.id}" claims to reach variant "${target}", which this argument does not have.`,
+                  );
+                }
+              }
+              if (landsOn.length === ids.size && ids.size > 1) {
+                fail(
+                  ['sides', s, 'arguments', a],
+                  `the objection on "${arg.id}" reaches every variant, so none of them changes what it has to do. Either the variants are trivia, or the objection is stated too loosely to distinguish them.`,
+                );
+              }
+            }
+          }
         });
       });
+
+      // Both sides carry variants or neither does. A page that splits one side
+      // into three positions and leaves the other as a single voice tells the
+      // reader that one of them is fractured, which is a claim we did not check.
+      const carries = topic.sides.map((sideValue) =>
+        sideValue.arguments.some((arg) => (arg.variants?.length ?? 0) > 0),
+      );
+      if (carries[0] !== carries[1]) {
+        const bare = carries[0] ? 1 : 0;
+        if (!topic.sides[bare].singleVoice) {
+          fail(
+            ['sides', bare],
+            `the ${topic.sides[bare ? 0 : 1].position} side carries variants and the ${topic.sides[bare].position} side does not. Either give it variants, or say in one line why this question has no live split on that side (side.singleVoice).`,
+          );
+        }
+      } else if (carries[0] && carries[1]) {
+        topic.sides.forEach((sideValue, i) => {
+          if (sideValue.singleVoice) {
+            fail(['sides', i], `side declares singleVoice but also carries variants.`);
+          }
+        });
+      }
 
       (topic.context?.entries ?? []).forEach((entry, e) => {
         if (entry.standingQuote && !entry.quote) {

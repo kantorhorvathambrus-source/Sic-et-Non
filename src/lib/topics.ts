@@ -153,8 +153,23 @@ export function readingTime(topic: TopicData): ReadingTime {
       if (argument.counter) {
         hidden.push(
           argument.counter.objection,
+          argument.counter.sharedPremise,
           argument.counter.response,
           argument.counter.quote?.text,
+        );
+      }
+      // Variants ship collapsed, so none of this is in the first number -- but
+      // all of it is in the second, and leaving it out would understate the
+      // full read by the length of a whole extra layer.
+      for (const item of argument.variants ?? []) {
+        hidden.push(
+          item.label,
+          item.heldBy,
+          item.oneLine,
+          item.summary,
+          item.quote.text,
+          item.changesTheObjection,
+          item.againstSettledCore,
         );
       }
     }

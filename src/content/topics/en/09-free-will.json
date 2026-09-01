@@ -125,6 +125,7 @@
           "counter": {
             "objection": "The sharpest objection here comes from within the same camp, not from religion: Dennett has argued at length against Harris that this confuses a folk theory with the phenomenon. That thoughts arrive unbidden is true and irrelevant, because deliberation is not the selecting of a first thought but what happens to it afterwards — the reflection, the weighing, the veto. Telling people that responsibility is an illusion is also, Dennett argues, an empirical claim about consequences that Harris does not defend and that may well be false.",
             "objectionFrom": "within",
+            "sharedPremise": "it accepts that there is no soul and no exception to physical causation, and argues from those premises that deliberation is what happens to a thought after it arrives rather than the arrival itself.",
             "response": "The reflection and the veto arrive by the same route as the first thought and are no more authored than it was. Pushing the account one step later in the process does not find an author, it finds more machinery."
           }
         }

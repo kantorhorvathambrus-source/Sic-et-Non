@@ -61,6 +61,7 @@
           "counter": {
             "objection": "The hardest version of this objection is Christian. Universalists from Gregory of Nyssa to David Bentley Hart argue that an eternally sustained free refusal is not coherent: choice runs on reasons, and no rational creature, seeing God clearly, could go on preferring misery for ever. Either the refuser is deceived — in which case the choice is not informed and not free — or they are not, in which case what they are choosing is unintelligible. A door locked from the inside is still a door someone built, in a house with only one exit.",
             "objectionFrom": "within",
+            "sharedPremise": "it argues from premises the doctrine itself holds — that God wills everyone's salvation, and that a choice is made for reasons — to the conclusion that an eternally sustained refusal of a clearly seen good is not a coherent free choice.",
             "response": "The claim is not that anyone chooses misery under that description, but that a person can come to want something incompatible with God so thoroughly that they are no longer capable of wanting otherwise. That is not exotic; it is the ordinary shape of an addiction, at the limit."
           }
         },

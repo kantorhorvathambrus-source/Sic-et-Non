@@ -106,6 +106,7 @@
           "counter": {
             "objection": "Turning a successful method into a claim about everything that exists is a philosophical bet, not a scientific result — and the objection is pressed hardest by atheists who accept evolutionary biology entirely and refuse the metaphysical extension. Dennett calls his own idea a universal acid that eats through every traditional concept, and an acid that dissolves everything, including the reliability of the mind doing the dissolving, wants handling with care.",
             "objectionFrom": "within",
+            "sharedPremise": "it is made on evolutionary biology's own terms: it accepts common descent and natural selection in full, and disputes only the further step from a successful method to a claim about everything that exists.",
             "response": "It is a bet, but one with a two-century record of paying out. The alternative bet has been losing territory that whole time."
           }
         }

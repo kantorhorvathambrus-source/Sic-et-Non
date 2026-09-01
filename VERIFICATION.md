@@ -16,6 +16,75 @@ run `npm run verify:content` to see the count move.
 
 Rows are ordered by how cheap they are to check.
 
+## Pull these first: a paraphrase is standing in for the author's words
+
+These are the places where an argument slot is carried by our summary rather
+than a quotation, so a reader has nothing to check us against. Replacing one
+retires a paraphrase entirely.
+
+| Author | Topic | Slot | Source |
+|---|---|---|---|
+| Sean Carroll | 1. Did the universe begin, and does a beginning need a cause? | causation-inside-time — the claim | https://preposterousuniverse.com/writings/dtung/ |
+| J. L. Schellenberg | 4. If God wants to be known, why is he hidden? | nonresistant-nonbelief — the claim | https://philpapers.org/rec/SCHDHA |
+| Timothy O'Connor | 9. Do we have free will? | agents-originate — the claim | https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf |
+| Mark D. Linville | 10. Can there be objective morality without God? | why-would-we-track-them — the claim | https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7 |
+| Wes Morriston | 11. What should we make of the violence in the Old Testament? | readings-that-arrive-on-schedule — the claim | https://philpapers.org/rec/MORDGC |
+| Theodore Sider | 12. Can eternal damnation be just? | where-is-the-line — the claim | https://tedsider.org/papers/hell.pdf |
+| Gerd Lüdemann | 13. Did Jesus exist, and did he rise? | visions-after-a-death — the claim | https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances |
+
+## Freely readable, so cheap to check
+
+Open in a browser, no account or payment needed.
+
+| Author | Published as | Source |
+|---|---|---|
+| Bertrand Russell | If everything must have a cause, then God must have a cause. If there … | https://russell-j.com/0399WINC.HTM |
+| Thomas Aquinas | We find in nature things that are possible to be and not to be, since … | https://www.newadvent.org/summa/1002.htm |
+| Bertrand Russell | I should say that the universe is just there, and that's all. | https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm |
+| David Hume | Did I show you the particular causes of each individual in a collectio… | https://www.gutenberg.org/files/4583/4583-h/4583-h.htm |
+| David Hume | Is he willing to prevent evil, but not able? then is he impotent. Is h… | https://www.gutenberg.org/files/4583/4583-h/4583-h.htm |
+| Ivan Karamazov, in Fyodor Dostoevsky | It's not God that I don't accept, Alyosha, only I most respectfully re… | https://www.gutenberg.org/ebooks/28054 |
+| David Hume | many worlds might have been botched and bungled, throughout an eternit… | https://www.gutenberg.org/files/4583/4583-h/4583-h.htm |
+| Thomas Aquinas | since Holy Scripture can be explained in a multiplicity of senses, one… | https://www.newadvent.org/summa/1068.htm |
+| Charles Hodge | What is Darwinism? It is Atheism. This does not mean, as before said, … | https://www.gutenberg.org/files/19192/19192-h/19192-h.htm |
+| Judge John E. Jones III | We have addressed the seminal question of whether ID is science. We ha… | https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/ |
+| Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí and Nick Lane | the difference in pH across thin barriers produced natural proton grad… | https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf |
+| Richard Swinburne | a person consists of two parts — a physical body and a non-physical so… | https://users.ox.ac.uk/~orie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf |
+| J.P. Moreland | If irreducible consciousness exists (or is regularly correlated with p… | https://www.jpmoreland.com/books/god-and-consciousness/ |
+| Timothy O'Connor | A free action is one in which the agent herself causes her intention t… | https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf |
+| Peter van Inwagen | If determinism is true, then our acts are the consequences of the laws… | https://andrewmbailey.com/pvi/Consequence_Argument.doc |
+| Thomas Aquinas | good is to be done and pursued, and evil is to be avoided. All other p… | https://www.newadvent.org/summa/2094.htm |
+| J.L. Mackie | There are no objective values. | https://spot.colorado.edu/~heathwoo/readings/mackie.pdf |
+| Wes Morriston | thoughtful Christians who hold the Old Testament in high regard must c… | https://spot.colorado.edu/~morristo/DidGodCommandGenocide.pdf |
+| Jerry L. Walls | would detract from the seriousness of moral freedom. Such freedom, in … | https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy |
+| Bertrand Russell | I do not myself feel that any person who is really profoundly humane c… | https://russell-j.com/0399WINC.HTM |
+| Theodore Sider | God is in charge of the selection procedure, so it must be just; any j… | https://tedsider.org/papers/hell.pdf |
+| John Stott | survey the biblical material afresh | https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf |
+| John Stott | But our emotions are a fluctuating, unreliable guide to truth and must… | https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf |
+| Second Vatican Council | Those who, through no fault of their own, do not know the Gospel of Ch… | https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm |
+| Gary Habermas | so strongly attested historically that they are granted by nearly ever… | https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs |
+| William Lane Craig | Whatever begins to exist has a cause of its existence. The universe be… | https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument |
+| Alexander Vilenkin | All the evidence we have says that the universe had a beginning. | https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf |
+| Sean Carroll | Carroll's position is that modern physics does not describe the univer… | https://preposterousuniverse.com/writings/dtung/ |
+| William Lane Craig | this recourse to the World Ensemble will be in vain if it turns out th… | https://www.reasonablefaith.org/writings/scholarly-writings/ |
+| Charles Darwin | I cannot persuade myself that a beneficent & omnipotent God would have… | https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml |
+| Ken Ham | Billions of dead things, buried in rock layers, laid down by water, al… | https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/ |
+| Answers in Genesis | No apparent, perceived, or claimed evidence in any field of study, inc… | https://answersingenesis.org/about/faith/ |
+| William Lane Craig | If God does not exist, objective moral values do not exist. | https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god |
+| William Lane Craig | since our moral duties are constituted by God's commands, what He comm… | https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites |
+| William Lane Craig | since our moral duties are constituted by God's commands, what He comm… | https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites |
+| William Lane Craig | the conquest of Canaan represented God's just judgement upon those peo… | https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites |
+| Catechism of the Catholic Church | The teaching of the Church affirms the existence of hell and its etern… | https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html |
+| Gottfried Wilhelm Leibniz | Why is there something rather than nothing? For nothing is simpler and… | https://philpapers.org/rec/LEIPON |
+| William L. Rowe | In some distant forest lightning strikes a dead tree, resulting in a f… | https://philpapers.org/rec/ROWTPO-3 |
+| Stephen J. Wykstra | if we think carefully about the sort of being theism proposes for our … | https://link.springer.com/article/10.1007/BF00136567 |
+| John Hick | The good that outshines all ill is not a paradise long since lost but … | https://link.springer.com/book/10.1057/9780230283961 |
+| J. L. Schellenberg | Schellenberg's argument runs that a perfectly loving God would always … | https://philpapers.org/rec/SCHDHA |
+| Theodosius Dobzhansky | I am a creationist and an evolutionist. Evolution is God's, or Nature'… | https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light |
+| Wes Morriston | The proposed readings are inconsistent with one another and none was t… | https://philpapers.org/rec/MORDGC |
+
+## Every quotation, by topic
+
 ## Topic 1: Did the universe begin, and does a beginning need a cause?
 
 File: `src/content/topics/<locale>/01-beginning-and-cause.json`
@@ -436,9 +505,532 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and that Book I, ch. 19 is right. Confirm it is not quoted out of a sentence that reverses it.
 
+## Topic 7: Where did the first living cell come from?
+
+File: `src/content/topics/<locale>/07-origin-of-life.json`
+
+### 1. Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí and Nick Lane — [ ] corroborated
+
+- **Published as:** “the difference in pH across thin barriers produced natural proton gradients with equivalent magnitude and polarity to the proton-motive force required for carbon fixation in extant bacteria and archaea”
+- **Work:** The Origin of Life in Alkaline Hydrothermal Vents, Astrobiology 16(2)
+- **Year:** 2016
+- **Used for:** vents-supply-the-energy — the claim
+- **Source:** https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Stephen C. Meyer — [ ] corroborated
+
+- **Published as:** “Our uniform experience affirms that specified or functional information—whether inscribed in hieroglyphics, written in a book, encoded in a radio signal, or produced in an RNA-world 'ribozyme-engineering' experiment—always arises from an intelligent source, from a mind, not a strictly material process.”
+- **Work:** Return of the God Hypothesis
+- **Year:** 2021 · the design inference as Meyer states it; the same argument runs through Signature in the Cell (2009)
+- **Used for:** information-from-minds — the claim
+- **Source:** https://biologos.org/articles/evolution-and-the-origin-of-biological-information
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the design inference as Meyer states it; the same argument runs through Signature in the Cell (2009) is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Matthew Powner, Béatrice Gerland and John Sutherland — [ ] corroborated
+
+- **Published as:** “activated pyrimidine ribonucleotides can be formed in a short sequence that bypasses free ribose and the nucleobases, and instead proceeds through arabinose amino-oxazoline and anhydronucleoside intermediates”
+- **Work:** Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions, Nature 459
+- **Year:** 2009
+- **Used for:** steps-once-called-impossible — the claim
+- **Source:** https://www.nature.com/articles/nature08013
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Douglas Axe — [ ] corroborated
+
+- **Published as:** “of the possible genes encoding protein chains 153 amino acids in length, only about one in a hundred trillion trillion trillion trillion trillion trillion is expected to encode a chain that folds well enough to perform a biological function!”
+- **Work:** Undeniable: How Biology Confirms Our Intuition That Life Is Designed
+- **Year:** 2016 · the popular statement of the estimate published in the Journal of Molecular Biology, 2004
+- **Used for:** the-size-of-the-search — the claim
+- **Source:** https://pubmed.ncbi.nlm.nih.gov/15321723/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the popular statement of the estimate published in the Journal of Molecular Biology, 2004 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 8: Is the mind more than the brain?
+
+File: `src/content/topics/<locale>/08-mind-and-brain.json`
+
+### 1. J.P. Moreland — [ ] corroborated
+
+- **Published as:** “If irreducible consciousness exists (or is regularly correlated with physical states), then this provides evidence (to a degree specified in chapter two) for God's existence.”
+- **Work:** Consciousness and the Existence of God: A Theistic Argument
+- **Year:** 2008 · the conditional the book sets out to defend
+- **Used for:** consciousness-needs-explaining — the claim
+- **Source:** https://www.jpmoreland.com/books/god-and-consciousness/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that the conditional the book sets out to defend is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Richard Swinburne — [ ] corroborated
+
+- **Published as:** “a person consists of two parts — a physical body and a non-physical soul”
+- **Work:** Substance Dualism, Faith and Philosophy 26(5)
+- **Year:** 2009 · the thesis defended at length in The Evolution of the Soul (1986)
+- **Used for:** the-further-fact — the claim
+- **Source:** https://users.ox.ac.uk/~orie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that the thesis defended at length in The Evolution of the Soul (1986) is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Jaegwon Kim — [ ] corroborated
+
+- **Published as:** “No single event can have more than one sufficient cause occurring at any given time — unless it is a genuine case of causal overdetermination.”
+- **Work:** Physicalism, or Something Near Enough
+- **Year:** 2005 · the causal exclusion principle, as stated in the supervenience argument
+- **Used for:** no-room-for-a-second-cause — the claim
+- **Source:** https://ndpr.nd.edu/reviews/physicalism-or-something-near-enough/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the causal exclusion principle, as stated in the supervenience argument is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Patricia Churchland — [ ] corroborated
+
+- **Published as:** “When I say that the mind is the brain, when I say that vision just is a function of the brain, that's what I mean … that there is nothing other than the cells and the way they're put together.”
+- **Work:** interview with Bill Moyers
+- **Year:** 2011 · spoken; a false start has been elided
+- **Used for:** nothing-but-the-cells — the claim
+- **Source:** https://billmoyers.com/content/patricia-churchland/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that spoken; a false start has been elided is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 9: Do we have free will?
+
+File: `src/content/topics/<locale>/09-free-will.json`
+
+### 1. Timothy O'Connor — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** A free action is one in which the agent herself causes her intention to act. Reasons shape how likely the agent is to form one intention rather than another, but no set of prior conditions causes her to form it: the agent exercises a causal power that is hers.
+- **Work:** Persons and Causes: The Metaphysics of Free Will
+- **Year:** 2000 · our summary of the agent-causal account the book defends; not O'Connor's wording
+- **Used for:** agents-originate — the claim
+- **Source:** https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 2. Peter van Inwagen — [ ] corroborated
+
+- **Published as:** “If determinism is true, then our acts are the consequences of the laws of nature and events in the remote past. But it is not up to us what went on before we were born; and neither is it up to us what the laws of nature are. Therefore the consequences of these things (including our present acts) are not up to us.”
+- **Work:** An Essay on Free Will
+- **Year:** 1983 · p. 16
+- **Used for:** the-consequence-argument — the claim
+- **Source:** https://andrewmbailey.com/pvi/Consequence_Argument.doc
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that p. 16 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Daniel C. Dennett — [ ] corroborated
+
+- **Published as:** “saving everything that mattered about the everyday concept of free will, while jettisoning the impediments”
+- **Work:** Elbow Room: The Varieties of Free Will Worth Wanting
+- **Year:** 1984 · Dennett describing the book's aim, in the preface to the revised edition
+- **Used for:** freedom-worth-wanting — the claim
+- **Source:** https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that Dennett describing the book's aim, in the preface to the revised edition is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Sam Harris — [ ] corroborated
+
+- **Published as:** “Free will is an illusion. Our wills are simply not of our own making.”
+- **Work:** Free Will
+- **Year:** 2012 · the book's thesis, stated in its opening pages
+- **Used for:** no-author-of-your-thoughts — the claim
+- **Source:** https://en.wikipedia.org/wiki/Free_Will_(book)
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the book's thesis, stated in its opening pages is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 10: Can there be objective morality without God?
+
+File: `src/content/topics/<locale>/10-objective-morality.json`
+
+### 1. Thomas Aquinas — [ ] corroborated
+
+- **Published as:** “good is to be done and pursued, and evil is to be avoided. All other precepts of the natural law are based upon this”
+- **Work:** Summa Theologiae, I-II q.94 a.2
+- **Year:** c. 1270 · the first precept of the natural law
+- **Used for:** duties-need-a-commander — variant: Natural law
+- **Source:** https://www.newadvent.org/summa/2094.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that the first precept of the natural law is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. J.L. Mackie — [ ] corroborated
+
+- **Published as:** “There are no objective values.”
+- **Work:** Ethics: Inventing Right and Wrong
+- **Year:** 1977 · the opening sentence of chapter 1, 'The Subjectivity of Values'
+- **Used for:** no-maker-needed — variant: Error theory
+- **Source:** https://spot.colorado.edu/~heathwoo/readings/mackie.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that the opening sentence of chapter 1, 'The Subjectivity of Values' is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. William Lane Craig — [ ] corroborated
+
+- **Published as:** “If God does not exist, objective moral values do not exist.”
+- **Work:** the first premise of the moral argument, as Craig states it
+- **Year:** 2008 · Craig defines 'objective' as 'valid and binding independently of whether anybody believes in it or not'
+- **Used for:** duties-need-a-commander — the claim
+- **Source:** https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and that Craig defines 'objective' as 'valid and binding independently of whether anybody believes in it or not' is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. William Lane Craig — [ ] corroborated
+
+- **Published as:** “since our moral duties are constituted by God's commands, what He commands is just and right”
+- **Work:** Slaughter of the Canaanites (Question of the Week)
+- **Year:** 2007
+- **Used for:** duties-need-a-commander — variant: Divine command
+- **Source:** https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. Mark C. Murphy — [ ] corroborated
+
+- **Published as:** “all moral necessity is the pull of divine goodness specified by the nature of the creatures involved”
+- **Work:** God and Moral Law: On the Theistic Explanation of Morality
+- **Year:** 2011 · the thesis of moral concurrentism, quoted in the Notre Dame Philosophical Reviews notice
+- **Used for:** duties-need-a-commander — variant: Moral concurrentism
+- **Source:** https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the thesis of moral concurrentism, quoted in the Notre Dame Philosophical Reviews notice is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Plato — [ ] corroborated
+
+- **Published as:** “Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?”
+- **Work:** Euthyphro
+- **Year:** c. 399 BC · 10a; Socrates to Euthyphro
+- **Used for:** euthyphro — the claim
+- **Source:** https://en.wikipedia.org/wiki/Euthyphro_dilemma
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that 10a; Socrates to Euthyphro is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 7. Derek Parfit — [ ] corroborated
+
+- **Published as:** “there are some claims that are irreducibly normative in the reason-involving sense, and are in a strong sense true. These truths have no ontological implications.”
+- **Work:** On What Matters, volume II
+- **Year:** 2011 · the position Parfit calls Non-Metaphysical Non-Naturalist Normative Cognitivism
+- **Used for:** no-maker-needed — the claim
+- **Source:** https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the position Parfit calls Non-Metaphysical Non-Naturalist Normative Cognitivism is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 8. Sam Harris — [ ] corroborated
+
+- **Published as:** “Questions about values … are really questions about the well-being of conscious creatures.”
+- **Work:** The Moral Landscape: How Science Can Determine Human Values
+- **Year:** 2010
+- **Used for:** no-maker-needed — variant: Naturalist realism
+- **Source:** https://www.samharris.org/books/the-moral-landscape
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 9. David Enoch — [ ] corroborated
+
+- **Published as:** “there are irreducibly normative truths and facts … [they] are independent of us, our desires and our (or anyone else's) will”
+- **Work:** Taking Morality Seriously: A Defense of Robust Realism
+- **Year:** 2011
+- **Used for:** no-maker-needed — variant: Robust non-natural realism
+- **Source:** https://ndpr.nd.edu/reviews/taking-morality-seriously-a-defense-of-robust-realism/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 10. Mark D. Linville — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** The naturalist must hold that human moral faculties were shaped by selection for reproductive fitness rather than for tracking mind-independent moral truth, and so has no account of their reliability; the theist, taking those faculties to be created by a good God, does.
+- **Work:** The Moral Argument, in The Blackwell Companion to Natural Theology
+- **Year:** 2009 · our summary of the evolutionary argument against naturalistic moral realism, pp. 391-448; not Linville's wording. At the top of VERIFICATION.md for a primary check
+- **Used for:** why-would-we-track-them — the claim
+- **Source:** https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+## Topic 11: What should we make of the violence in the Old Testament?
+
+File: `src/content/topics/<locale>/11-old-testament-morality.json`
+
+### 1. Wes Morriston — [ ] corroborated
+
+- **Published as:** “thoughtful Christians who hold the Old Testament in high regard must come to terms with passages in which God is said to command what appear to be moral atrocities”
+- **Work:** Did God Command Genocide? A Challenge to the Biblical Inerrantist, Philosophia Christi 11
+- **Year:** 2009 · pp. 7-26
+- **Used for:** the-inerrantist-challenge — the claim
+- **Source:** https://spot.colorado.edu/~morristo/DidGodCommandGenocide.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that pp. 7-26 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. William Lane Craig — [ ] corroborated
+
+- **Published as:** “the conquest of Canaan represented God's just judgement upon those peoples”
+- **Work:** Slaughter of the Canaanites (Question of the Week)
+- **Year:** 2007
+- **Used for:** judgement — positive case
+- **Source:** https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. William Lane Craig — [ ] corroborated
+
+- **Published as:** “since our moral duties are constituted by God's commands, what He commands is just and right”
+- **Work:** Slaughter of the Canaanites (Question of the Week)
+- **Year:** 2007
+- **Used for:** not-a-moral-peer — the claim
+- **Source:** https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Wes Morriston — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** The proposed readings are inconsistent with one another and none was the dominant reading before the modern moral objection; a family of explanations that arrives in the order the pressure is applied is exhibiting accommodation rather than discovery.
+- **Work:** Ethical Criticism of the Bible: The Case of Divinely Mandated Genocide, Sophia 51(1)
+- **Year:** 2012 · our summary of the objection Morriston presses against the standard replies; not his wording
+- **Used for:** readings-that-arrive-on-schedule — the claim
+- **Source:** https://philpapers.org/rec/MORDGC
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 5. Peter Enns — [ ] corroborated
+
+- **Published as:** “God never told the Israelites to kill the Canaanites. The Israelites believed that God told them to kill the Canaanites.”
+- **Work:** The Bible Tells Me So
+- **Year:** 2014
+- **Used for:** accommodation — positive case
+- **Source:** https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Paul Copan — [ ] corroborated
+
+- **Published as:** “Joshua's conventional warfare rhetoric was common in many other ancient Near Eastern military accounts in the second and first millennia B.C.”
+- **Work:** Is God a Moral Monster? Making Sense of the Old Testament God
+- **Year:** 2011
+- **Used for:** conquest-rhetoric — the claim
+- **Source:** https://www.str.org/w/the-canaanites-genocide-or-judgment-
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 7. Peter Enns — [ ] corroborated
+
+- **Published as:** “about as certain as you can be about these things that the conquest of Canaan as the Bible describes did not happen: no mass invasion from the outside by an Israelite army, and no extermination of Canaanites as God commanded”
+- **Work:** The Bible Tells Me So
+- **Year:** 2014 · Enns reporting the consensus among biblical archaeologists
+- **Used for:** context note
+- **Source:** https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that Enns reporting the consensus among biblical archaeologists is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 8. Gregory A. Boyd — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** The Old Testament's violent portraits of God are not softened or set aside but read as God stooping to bear the distorted way his people conceived him, in the same self-emptying that reaches its full expression at the cross, where God again takes on an appearance that misrepresents his true character.
+- **Work:** The Crucifixion of the Warrior God
+- **Year:** 2017 · our summary of the cruciform thesis; not Boyd's wording
+- **Used for:** cruciform — positive case
+- **Source:** https://reknew.org/book/crucifixion-warrior-god/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 9. Paul Copan — [ ] corroborated
+
+- **Published as:** “seems to reflect the very language of the ancient Near East where you do have strong exaggeration”
+- **Work:** interview on Is God a Moral Monster?
+- **Year:** 2011
+- **Used for:** hyperbole — positive case
+- **Source:** https://www.modernreformation.org/resources/interviews/is-god-a-moral-monster-q-a-with-paul-copan
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 12: Can eternal damnation be just?
+
+File: `src/content/topics/<locale>/12-eternal-damnation.json`
+
+### 1. John Stott — [ ] corroborated
+
+- **Published as:** “survey the biblical material afresh”
+- **Work:** Essentials: A Liberal-Evangelical Dialogue, with David L. Edwards
+- **Year:** 1988 · Stott's call to evangelicals to reconsider whether conditional immortality better fits the biblical evidence
+- **Used for:** annihilationism — positive case
+- **Source:** https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that Stott's call to evangelicals to reconsider whether conditional immortality better fits the biblical evidence is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. John Stott — [ ] corroborated
+
+- **Published as:** “But our emotions are a fluctuating, unreliable guide to truth and must not be exalted to the place of supreme authority in determining it.”
+- **Work:** Essentials: A Liberal-Evangelical Dialogue
+- **Year:** 1988
+- **Used for:** annihilationism — when evidence disagrees
+- **Source:** https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Jerry L. Walls — [ ] corroborated
+
+- **Published as:** “would detract from the seriousness of moral freedom. Such freedom, in its most significant form, requires that we live with the consequences of our choices, at least our decisive choices.”
+- **Work:** Hell: The Logic of Damnation
+- **Year:** 1992 · on God's overriding a decisive rejection
+- **Used for:** freedom-that-can-be-refused — the claim
+- **Source:** https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that on God's overriding a decisive rejection is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Second Vatican Council — [ ] corroborated
+
+- **Published as:** “Those who, through no fault of their own, do not know the Gospel of Christ or his Church, but who nevertheless seek God with a sincere heart, and, moved by grace, try in their actions to do his will as they know it through the dictates of their conscience—those too may attain eternal salvation.”
+- **Work:** Lumen Gentium, 16
+- **Year:** 1964
+- **Used for:** inclusivism — positive case
+- **Source:** https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. Bertrand Russell — [ ] corroborated
+
+- **Published as:** “I do not myself feel that any person who is really profoundly humane can believe in everlasting punishment.”
+- **Work:** Why I Am Not a Christian
+- **Year:** 1927 · a lecture delivered at Battersea Town Hall, 6 March 1927
+- **Used for:** proportion — the claim
+- **Source:** https://russell-j.com/0399WINC.HTM
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that a lecture delivered at Battersea Town Hall, 6 March 1927 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Theodore Sider — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** God is in charge of the selection procedure, so it must be just; any just procedure has borderline cases and treats near-identical cases near-identically; but the traditional afterlife is binary and admits no borderline cases, so two people differing by a hair receive outcomes differing without limit.
+- **Work:** Hell and Vagueness, Faith and Philosophy 19
+- **Year:** 2002 · pp. 58-68; our summary of the argument, not Sider's wording
+- **Used for:** where-is-the-line — the claim
+- **Source:** https://tedsider.org/papers/hell.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 7. Catechism of the Catholic Church — [ ] corroborated
+
+- **Published as:** “The teaching of the Church affirms the existence of hell and its eternity.”
+- **Work:** paragraph 1035
+- **Year:** 1992
+- **Used for:** eternal-conscious-torment — positive case
+- **Source:** https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 8. C.S. Lewis — [ ] corroborated
+
+- **Published as:** “I willingly believe that the damned are, in one sense, successful, rebels to the end; that the doors of hell are locked on the inside.”
+- **Work:** The Problem of Pain
+- **Year:** 1940
+- **Used for:** locked-on-the-inside — the claim
+- **Source:** https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 9. David Bentley Hart — [ ] corroborated
+
+- **Published as:** “if Christianity is any way true, Christians dare not doubt the salvation of all … any understanding of what God accomplished in Christ that does not include the assurance of a final apokatastasis in which all things created are redeemed and joined to God is ultimately entirely incoherent and unworthy of rational faith.”
+- **Work:** That All Shall Be Saved: Heaven, Hell, and the Universal Salvation
+- **Year:** 2019
+- **Used for:** universalism — positive case
+- **Source:** https://yalebooks.yale.edu/book/9780300258486/that-all-shall-be-saved/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 13: Did Jesus exist, and did he rise?
+
+File: `src/content/topics/<locale>/13-jesus-and-resurrection.json`
+
+### 1. Gary Habermas — [ ] corroborated
+
+- **Published as:** “so strongly attested historically that they are granted by nearly every scholar who studies the subject, even the rather skeptical ones”
+- **Work:** The Minimal Facts Approach to the Resurrection of Jesus
+- **Year:** 2012 · Habermas on the criterion for admitting a datum to the list
+- **Used for:** the-facts-both-sides-grant — the claim
+- **Source:** https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that Habermas on the criterion for admitting a datum to the list is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. N.T. Wright — [ ] corroborated
+
+- **Published as:** “nobody would have thought to say 'I believe that so-and-so really was the Messiah; therefore he must have been raised from the dead'”
+- **Work:** The Resurrection of the Son of God
+- **Year:** 2003 · on the absence of any second-temple expectation of an individual messianic resurrection
+- **Used for:** nobody-expected-this — the claim
+- **Source:** https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that on the absence of any second-temple expectation of an individual messianic resurrection is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Bart D. Ehrman — [ ] corroborated
+
+- **Published as:** “He certainly existed, as virtually every competent scholar of antiquity, Christian or non-Christian, agrees”
+- **Work:** Forged: Writing in the Name of God
+- **Year:** 2011 · Ehrman is an agnostic and a critic of the gospels' reliability
+- **Used for:** note: Why mythicism is not on this page
+- **Source:** https://en.wikipedia.org/wiki/Did_Jesus_Exist%3F_(Ehrman_book)
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that Ehrman is an agnostic and a critic of the gospels' reliability is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Gerd Lüdemann — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** Peter, overwhelmed by grief and by guilt at having denied Jesus, experienced a vision he took to be the risen Jesus; that experience, carrying his authority, propagated through the group, and Paul's later experience was of the same visionary kind.
+- **Work:** The Resurrection of Jesus: History, Experience, Theology
+- **Year:** 1994 · our summary of the vision hypothesis as Lüdemann develops it; not his wording
+- **Used for:** visions-after-a-death — the claim
+- **Source:** https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 5. Bart D. Ehrman — [ ] corroborated
+
+- **Published as:** “Historians can establish only what probably happened in the past, but miracles, by their very nature, are always the least probable explanation for what happened.”
+- **Work:** in debate with William Lane Craig, College of the Holy Cross
+- **Year:** 2006
+- **Used for:** what-history-can-reach — the claim
+- **Source:** https://en.wikiquote.org/wiki/Bart_D._Ehrman
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
 ---
 
-**0 of 36 verified against the source text.**
+**0 of 81 verified against the source text.**
 
 When a row is confirmed, set three fields on that quotation in all five locale
 files — `verification` to `primary`, `verifiedBy` to who checked it, and

@@ -37,6 +37,14 @@ const objectionLabel =
     : objectionFrom === 'both'
       ? t('argument.objection.both')
       : t('argument.objection.other');
+
+// Which versions of this argument the objection actually reaches. An objection
+// printed over three ways of holding a position, two of which it does not
+// touch, is the failure variants exist to expose -- so the panel says so.
+const variants = argument.variants ?? [];
+const landsOn = argument.counter?.landsOn;
+const reached = variants.filter((v) => landsOn?.includes(v.id));
+const untouched = variants.filter((v) => !landsOn?.includes(v.id));
 ---
 
 <details class:list={['argument', `side-${position}`]} id={argument.id} data-argument>
@@ -57,8 +65,25 @@ const objectionLabel =
           <p class="counter-label">{objectionLabel}</p>
           <RichText text={argument.counter.objection} glossary={glossary} />
 
+          {argument.counter.sharedPremise && (
+            <p class="shared-premise">
+              <strong>{t('argument.objection.sharedPremise')}</strong>{' '}
+              {argument.counter.sharedPremise}
+            </p>
+          )}
+
           {argument.counter.quote && (
             <Quotation quote={argument.counter.quote} locale={locale} side={objectionTint} />
+          )}
+
+          {landsOn && variants.length > 0 && (
+            <p class="lands-on">
+              {reached.length === 0
+                ? t('argument.landsOn.mainOnly')
+                : `${t('argument.landsOn.reaches')} ${reached.map((v) => v.label).join(', ')}`}
+              {untouched.length > 0 &&
+                ` \u00b7 ${t('argument.landsOn.notReached')} ${untouched.map((v) => v.label).join(', ')}`}
+            </p>
           )}
 
           {argument.counter.response && (
@@ -67,6 +92,37 @@ const objectionLabel =
               <RichText text={argument.counter.response} glossary={glossary} />
             </div>
           )}
+        </div>
+      )
+    }
+
+    {
+      variants.length > 0 && (
+        <div class="variants">
+          <p class="variants-label">{t('argument.variants')}</p>
+          {variants.map((variantValue) => (
+            <details class="variant">
+              <summary>
+                <span class="variant-name">{variantValue.label}</span>
+                <span class="variant-line">{variantValue.oneLine}</span>
+                <span class="marker" aria-hidden="true" />
+              </summary>
+              <div class="variant-body">
+                <p class="held-by">{variantValue.heldBy}</p>
+                <RichText text={variantValue.summary} glossary={glossary} />
+                <Quotation quote={variantValue.quote} locale={locale} side={position} />
+                {variantValue.againstSettledCore && (
+                  <p class="against-settled">
+                    <strong>{t('argument.variants.againstSettledCore')}</strong>{' '}
+                    {variantValue.againstSettledCore}
+                  </p>
+                )}
+                <p class="changes">
+                  <strong>{t('argument.variants.changes')}</strong> {variantValue.changesTheObjection}
+                </p>
+              </div>
+            </details>
+          ))}
         </div>
       )
     }
@@ -209,9 +265,111 @@ const objectionLabel =
     color: var(--ink-muted);
   }
 
+
+  /* A side does not speak with one voice. Variants are always collapsed, so
+     layer 1 never grows, and they sit under the objection because what they are
+     for is showing which versions it reaches. */
+  .variants {
+    margin-top: var(--space-m);
+    padding-top: var(--space-s);
+    border-top: var(--hairline) solid var(--rule);
+  }
+
+  .variants-label,
+  .lands-on {
+    margin: 0 0 var(--space-xs);
+    font-size: 0.82em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--ink-muted);
+  }
+
+  .lands-on {
+    margin-top: var(--space-s);
+    text-transform: none;
+    letter-spacing: 0;
+    font-weight: 500;
+    font-size: var(--step--1);
+  }
+
+  .variant {
+    padding-block: var(--space-xs);
+  }
+
+  .variant + .variant {
+    border-top: var(--hairline) solid var(--rule);
+  }
+
+  .variant > summary {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-xs);
+    flex-wrap: wrap;
+    font-size: var(--step--1);
+  }
+
+  .variant-name {
+    font-weight: 600;
+  }
+
+  .side-theist .variant-name {
+    color: var(--theist);
+  }
+
+  .side-atheist .variant-name {
+    color: var(--atheist);
+  }
+
+  .variant-line {
+    flex: 1;
+    min-width: 12rem;
+    color: var(--ink-muted);
+  }
+
+  .variant .marker {
+    width: 0.5em;
+    height: 0.5em;
+    margin-top: 0.15em;
+  }
+
+  .variant-body {
+    padding: var(--space-s) 0 var(--space-s) var(--space-m);
+    font-size: var(--step--1);
+  }
+
+  .held-by {
+    margin: 0 0 var(--space-xs);
+    color: var(--ink-faint);
+    font-style: italic;
+  }
+
+  /* "Within" is a claim about premises, not about anybody's beliefs, so the
+     panel shows the premise rather than leaving the label to be read as a
+     statement about who is objecting. */
+  .shared-premise {
+    margin-top: var(--space-s);
+    font-size: var(--step--1);
+    color: var(--ink-muted);
+  }
+
+  .changes,
+  .against-settled {
+    margin-top: var(--space-s);
+    padding: var(--space-s);
+    background: var(--bg-sunken);
+    border-radius: var(--radius);
+  }
+
+  .changes strong,
+  .against-settled strong {
+    color: var(--ink);
+  }
+
   /* Everything is open on paper; a collapsed argument would just be missing. */
   @media print {
-    .argument .body {
+    .argument .body,
+    .variant .variant-body {
       display: block !important;
     }
 

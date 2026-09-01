@@ -118,6 +118,7 @@
           "counter": {
             "objection": "Egy sikeres módszert mindenre kiterjeszteni, ami létezik, filozófiai fogadás, nem tudományos eredmény — és az ellenvetést azok az ateisták fogalmazzák meg a leghatározottabban, akik az evolúcióbiológiát maradéktalanul elfogadják, a metafizikai kiterjesztést pedig elutasítják. Dennett maga nevezi az ötletét egyetemes oldószernek, amely minden hagyományos fogalmat szétmar, és egy oldószert, amely mindent felold, beleértve az oldást végző elme megbízhatóságát is, óvatosan érdemes kezelni.",
             "objectionFrom": "within",
+            "sharedPremise": "az evolúcióbiológia saját feltételei szerint fogalmazódik meg: maradéktalanul elfogadja a közös leszármazást és a természetes szelekciót, és kizárólag azt a további lépést vitatja, amely egy sikeres módszertől egy mindenre kiterjedő állításig visz.",
             "response": "Fogadás, de olyan, amely két évszázada fizet. Az ellenkező fogadás mindeközben végig veszít a területéből."
           }
         }

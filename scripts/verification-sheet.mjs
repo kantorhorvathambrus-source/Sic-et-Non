@@ -21,7 +21,7 @@ const EN = join(ROOT, 'src/content/topics/en');
  */
 const EFFORT = [
   {
-    match: /gutenberg\.org|wikisource\.org|newadvent\.org|law\.justia\.com|dhspriory\.org|russell-j\.com/,
+    match: /gutenberg\.org|wikisource\.org|newadvent\.org|law\.justia\.com|dhspriory\.org|russell-j\.com|spot\.colorado\.edu|tedsider\.org|andrewmbailey\.com|users\.ox\.ac\.uk|toconnor\.org|nick-lane\.net|digitalcommons\.liberty\.edu|place\.asburyseminary\.edu|betweentwocities\.com|jpmoreland\.com|bc\.edu/,
     cost: 1,
     kind: 'Full text, free',
     how: 'Open and search the page for a distinctive phrase.',
@@ -73,6 +73,9 @@ function* quotesOf(topic) {
   for (const side of topic.sides ?? []) {
     for (const argument of side.arguments ?? []) {
       if (argument.quote) yield { slot: `${argument.id} — the claim`, quote: argument.quote };
+      for (const item of argument.variants ?? []) {
+        yield { slot: `${argument.id} — variant: ${item.label}`, quote: item.quote };
+      }
       if (argument.counter?.quote) {
         yield { slot: `${argument.id} — the objection`, quote: argument.counter.quote };
       }
@@ -115,6 +118,64 @@ lines.push('run `npm run verify:content` to see the count move.');
 lines.push('');
 lines.push('Rows are ordered by how cheap they are to check.');
 lines.push('');
+
+// The queue, computed rather than hand-kept, so it cannot drift from the
+// content the way a written-in list would. Two things go above everything else:
+// a paraphrase standing in for an author's words in an argument slot, because
+// there the reader has nothing to check against; and anything whose source can
+// be opened without an account, because those are minutes rather than an
+// afternoon.
+{
+  const queue = [];
+  for (const file of files) {
+    const topic = JSON.parse(await readFile(join(EN, file), 'utf8'));
+    for (const row of quotesOf(topic)) {
+      queue.push({ ...row, topic, effort: effortFor(row.quote.sourceUrl) });
+    }
+  }
+
+  const paraphrases = queue.filter(
+    (row) => row.quote.verification === 'paraphrase' && /— the claim$/.test(row.slot),
+  );
+  const free = queue
+    .filter((row) => row.quote.verification !== 'primary' && row.effort.cost <= 3)
+    .sort((a, b) => a.effort.cost - b.effort.cost);
+
+  if (paraphrases.length > 0) {
+    lines.push('## Pull these first: a paraphrase is standing in for the author\'s words');
+    lines.push('');
+    lines.push('These are the places where an argument slot is carried by our summary rather');
+    lines.push('than a quotation, so a reader has nothing to check us against. Replacing one');
+    lines.push('retires a paraphrase entirely.');
+    lines.push('');
+    lines.push('| Author | Topic | Slot | Source |');
+    lines.push('|---|---|---|---|');
+    for (const row of paraphrases) {
+      lines.push(
+        `| ${row.quote.author} | ${row.topic.number}. ${row.topic.title} | ${row.slot} | ${row.quote.sourceUrl} |`,
+      );
+    }
+    lines.push('');
+  }
+
+  if (free.length > 0) {
+    lines.push('## Freely readable, so cheap to check');
+    lines.push('');
+    lines.push('Open in a browser, no account or payment needed.');
+    lines.push('');
+    lines.push('| Author | Published as | Source |');
+    lines.push('|---|---|---|');
+    for (const row of free) {
+      const text = row.quote.text.replace(/\s+/g, ' ');
+      const shown = text.length > 70 ? `${text.slice(0, 70)}…` : text;
+      lines.push(`| ${row.quote.author} | ${shown} | ${row.quote.sourceUrl} |`);
+    }
+    lines.push('');
+  }
+
+  lines.push('## Every quotation, by topic');
+  lines.push('');
+}
 
 for (const file of files) {
   const topic = JSON.parse(await readFile(join(EN, file), 'utf8'));

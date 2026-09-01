@@ -129,6 +129,55 @@ The common thread is that each failure passes every mechanical check and produce
 a page that looks balanced. Only reading the page as an opponent would catches
 them.
 
+## Enumerate exhaustively, then cut
+
+**Never stop at the first item that satisfies a slot.** List everything that
+qualifies, write down why each one is in or out, then take the strongest up to
+the cap.
+
+*Caught on the `objectionFrom` labels for topics 7 to 13.* Every topic came out
+with exactly one objection marked `within`, seven for seven. Re-derived from
+scratch with no target number, the honest count was 1, 2, 2, 2, 2, 2, 1 — and
+two of the original seven were on the wrong side with the wrong label. The
+failure was not that the internal objections were invented. It was that finding
+one per page and stopping pushed the second onto the other side, where it got
+labelled as an opponent's objection.
+
+That is a search-termination failure, not a content one, and it will recur
+anywhere the site enumerates: arguments per side, variants, sources, objections.
+
+**A category that comes out with the same count every time is evidence of a
+quota, not of the field.** When a count is suspiciously even, re-derive it
+without looking at what you already have.
+
+## What makes an objection internal
+
+`objectionFrom: "within"` is a claim about **the objection's premises, never
+about the arguer's biography**.
+
+An objection is internal when it is *made on premises the position itself
+accepts* — an argument from Scripture against a reading of Scripture, an
+argument from naturalism against a naturalist conclusion, an argument from
+evolutionary biology against an extension of evolutionary biology. That is a
+property of the argument. It is readable from the text, stable over time, and
+checkable by anyone.
+
+Whether the person making it currently believes the thing is a separate fact:
+private, subject to change, and not ours to assert. Getting a living person's
+beliefs wrong on a site about belief is not a mistake this project can absorb.
+
+So the field requires `sharedPremise` — prose naming what the objection and the
+position both accept. The schema rejects a bare name: a `sharedPremise` that
+reads like a list of people fails the build. Where an author's own position is
+genuinely part of the point *and* is publicly and currently stated by them, the
+prose may say so; otherwise the label carries no biographical claim at all.
+
+*Worked case.* Thom Stark's book-length response to Paul Copan argues from the
+text and from what inerrancy commits its holder to. That is `within` on the
+argument's own terms, and saying so requires no claim about Stark. Eric Seibert
+writes as a Christian and can be described as one. The two are handled
+differently because the evidence is different, not because the arguments are.
+
 ## The checklist for every topic
 
 Run through this before marking a topic drafted. `npm run verify:content` enforces
@@ -211,6 +260,61 @@ every topic, and are never put behind a disclosure. Together they are about 2 of
 the 4 minutes. Collapsing them would hit 2 minutes exactly, at the cost of the
 two things a skimming reader most benefits from — so 4 minutes is the standard,
 not a miss.
+
+### Variants: a side does not speak with one voice
+
+Each side used to present a few arguments as though the side agreed with itself.
+It does not. A reader came away thinking "the Christian answer on hell is eternal
+conscious torment" or "the atheist answer on morality is that it is subjective",
+and then the objections we printed were answering positions many people on that
+side do not hold. Real arguments fail this way constantly, and showing it is the
+most useful single thing the site can do.
+
+An argument may carry up to three `variants`: other ways people on that side hold
+that position. The main argument stays the best-known form; variants render
+**collapsed beneath it, never at load**, so layer 1 does not grow.
+
+**The test.** `changesTheObjection` is required prose, not a flag. A variant
+earns its place only if the objection printed above it cannot do the same work
+against it. If the objection to hell is that infinite punishment for finite
+wrongs is disproportionate, the annihilationist does not have to answer it,
+because on that view the punishment is not infinite. If a variant leaves the
+objection's job unchanged, it is trivia — cut it.
+
+**The consequence.** Objection panels carry `landsOn`: which variants the
+objection actually reaches. An empty list is a real and informative answer — it
+means the objection reaches the main form only. An objection that reaches *every*
+variant fails the build, because then none of them is changing anything. This is
+more honest than either printing an objection as a knockdown or dropping it.
+
+**Admission.** Three tests, all required, and popularity is not among them:
+
+1. A real constituency, **named** — a person, an institution, a recognised
+   tradition. "Some argue" fails the build.
+2. A public argument we can cite by the normal standard. A variant with no
+   quotable advocate does not go in.
+3. Internal coherence on its own terms.
+
+A minority position with a serious case gets in; a majority position with no
+argument behind it does not. *Cut on topic 10 under test 2:* constructivism
+(Korsgaard, Scanlon) is a genuine fourth atheist position and was left out
+because no verbatim could be corroborated in this environment — not because it
+is weak.
+
+**Against a settled core.** Where a variant conflicts with something the site has
+tagged settled-core, it still goes in, stated at full strength by its own
+advocates, and carries `againstSettledCore` saying where it stands against the
+relevant field's conclusion. Quietly dropping it and printing it unmarked are
+dishonest in different directions. This is the topic 6 rule applied one level
+down.
+
+**Symmetry is enforced.** Both sides carry variants or neither does, per topic.
+Where a side genuinely has no live internal split on a question, it says so in
+one line (`side.singleVoice`) rather than leaving an asymmetry a reader will read
+as fracture. The build fails on a bare asymmetry.
+
+**Retrofit status.** Variants are in on topic 10. Still to do: topics 7, 8, 9,
+11, 12, 13, then topics 1 to 6 in a single pass. Do not let this list go stale.
 
 ### The `context` block
 

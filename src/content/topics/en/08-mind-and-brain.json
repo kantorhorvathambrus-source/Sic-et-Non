@@ -106,6 +106,7 @@
           "counter": {
             "objection": "The strongest form of this objection comes from within naturalism rather than from religion. David Chalmers accepts every result Churchland cites, denies souls, and still argues that the list is a list of functions — discriminating, integrating, reporting — and that explaining a function does not explain why performing it is accompanied by experience. Water and H₂O is the wrong parallel, because there is nothing it is like to be water: the identity there needs no further fact, and here one is exactly what is in dispute.",
             "objectionFrom": "within",
+            "sharedPremise": "it accepts naturalism and every neuroscientific result cited, and argues from those premises that explaining what a system does is not yet explaining why doing it is accompanied by experience.",
             "response": "The 'further fact' may be an artefact of the first-person view rather than a further thing in the world. A system that models itself will represent its own states as simple and immediate, and will find their explanation in functional terms unsatisfying, whether or not anything has been left out."
           }
         },

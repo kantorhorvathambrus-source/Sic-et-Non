@@ -118,6 +118,7 @@
           "counter": {
             "objection": "Convertir un método exitoso en una afirmación sobre todo lo que existe es una apuesta filosófica, no un resultado científico, y quienes más presionan con esta objeción son ateos que aceptan íntegramente la biología evolutiva y rechazan la extensión metafísica. Dennett llama a su propia idea un ácido universal que corroe todos los conceptos tradicionales, y un ácido que disuelve todo, incluida la fiabilidad de la mente que disuelve, conviene manejarlo con cuidado.",
             "objectionFrom": "within",
+            "sharedPremise": "se hace en los propios términos de la biología evolutiva: acepta por completo la descendencia común y la selección natural, y discute únicamente el paso ulterior de un método exitoso a una afirmación sobre todo lo que existe.",
             "response": "Es una apuesta, pero con un historial de dos siglos de pagar. La apuesta contraria lleva todo ese tiempo perdiendo terreno."
           }
         }
