@@ -34,9 +34,15 @@ const alternates = Object.fromEntries(
     <h1>{t('search.title')}</h1>
     <p class="privacy">{t('search.privacy')}</p>
 
-    <div id="search" data-placeholder={t('search.placeholder')}
+    <label id="search-label" class="search-label" for="pagefind-search-input" hidden>
+      {t('search.label')}
+    </label>
+    <div
+      id="search"
+      data-placeholder={t('search.placeholder')}
       data-locale={locale}
-      data-unavailable={t('search.noscript')}></div>
+      data-unavailable={t('search.noscript')}
+    ></div>
 
     <noscript>
       <p class="noscript">{t('search.noscript')}</p>
@@ -73,7 +79,7 @@ const alternates = Object.fromEntries(
       ]);
       const Ctor = (window as unknown as { PagefindUI?: new (o: unknown) => unknown }).PagefindUI;
       if (!Ctor) throw new Error('pagefind-ui.js loaded but defined no PagefindUI');
-      new Ctor({
+      const ui = new Ctor({
         element: '#search',
         showSubResults: true,
         showImages: false,
@@ -82,6 +88,21 @@ const alternates = Object.fromEntries(
         language: mount.dataset.locale ?? 'en',
         translations: { placeholder: mount.dataset.placeholder },
       });
+      void ui;
+
+      // Pagefind labels its input with `title` alone, which axe flags as
+      // label-title-only: a tooltip is not a label, and it never appears for a
+      // keyboard or touch user. We render a real <label>, hidden until the box
+      // exists so it is never a label for nothing, and move it into the form
+      // above the input it names.
+      const input = mount.querySelector<HTMLInputElement>('input[type="text"]');
+      const label = document.getElementById('search-label');
+      if (input && label) {
+        input.id = 'pagefind-search-input';
+        input.removeAttribute('title');
+        input.parentElement?.prepend(label);
+        label.hidden = false;
+      }
     } catch (error) {
       const note = document.createElement('p');
       note.className = 'search-unavailable';
@@ -117,6 +138,14 @@ const alternates = Object.fromEntries(
   h1 {
     font-size: var(--step-3);
     margin-bottom: var(--space-m);
+  }
+
+  .search-label {
+    display: block;
+    margin-bottom: var(--space-2xs);
+    font-size: var(--step--1);
+    font-weight: 600;
+    color: var(--ink-muted);
   }
 
   .privacy,

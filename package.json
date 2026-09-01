@@ -3,6 +3,9 @@
   "type": "module",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=20.3.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -11,13 +14,14 @@
     "check": "astro check",
     "linkcheck": "node scripts/link-check.mjs",
     "verify:content": "node scripts/verify-quotes.mjs",
-    "milestone": "npm run check && npm run build && npm run linkcheck && npm run check:layout && npm run check:palette && npm run check:style && npm run check:seo && npm run check:search",
+    "milestone": "npm run check && npm run build && npm run linkcheck && npm run check:layout && npm run check:palette && npm run check:style && npm run check:seo && npm run check:search && npm run audit",
     "search:index": "pagefind --site dist",
     "check:layout": "node scripts/layout-check.mjs",
     "check:palette": "node scripts/palette-check.mjs",
     "check:style": "node scripts/style-check.mjs",
     "check:seo": "node scripts/seo-check.mjs",
     "check:search": "node scripts/search-check.mjs",
+    "audit": "node scripts/audit-check.mjs",
     "images": "node scripts/make-images.mjs",
     "lighthouse": "node scripts/lighthouse.mjs",
     "verification:sheet": "node scripts/verification-sheet.mjs"
@@ -29,6 +33,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
+    "axe-core": "^4.13.0",
     "lighthouse": "^13.4.1",
     "pagefind": "^1.4.0",
     "playwright": "^1.62.1",

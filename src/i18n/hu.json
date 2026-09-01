@@ -58,6 +58,7 @@
   "about.title": "A honlapról",
   "search.nav": "Keresés",
   "search.title": "Keresés a honlapon",
+  "search.label": "Keresés a honlapon",
   "search.placeholder": "Írjon be egy szót, nevet vagy kifejezést.",
   "search.privacy": "A keresés a böngészőjében fut. Amit beír, sehová nem kerül elküldésre.",
   "search.noscript": "A JavaScript ki van kapcsolva, így a kereső nem működik. Minden oldal elérhető a témalistából, és a böngésző saját oldalon belüli keresése bármelyik megnyitott oldalon működik.",

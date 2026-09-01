@@ -61,11 +61,47 @@ test 2 that is open. It was tagged interpretive by feel, because "no evidence
 can settle it" sounded like the definition, and the definition is narrower than
 that.
 
-Two of the remaining tags are the next closest calls and should be re-checked
-when those topics are drafted: **12** (whether eternal damnation can be just),
-because the universalism literature is genuinely live and positions have moved;
-and **18** (whether religion has done more harm than good), because it has a
-substantial empirical component that may amount to a settled core in places.
+**The tag describes the question the page's two sides are arguing, not the
+topic's whole subject matter.** Where a topic contains several questions that
+would take different tags, the `distinctions` strip names them and says which
+one the page is for; the tag follows that one.
+
+This is not a loophole, it is what stops the tag being meaningless. Most of
+these topics contain two or three separable disputes with genuinely different
+characters, and a tag that tried to average them would describe none of them.
+The strip is what keeps it honest: a reader can see which question was chosen
+and which were set aside, so the tag is a claim about something specific rather
+than a mood.
+
+Topic 12 is the case that produced the rule. It stacks two disputes:
+
+- **What do the texts teach** — eternal conscious torment, annihilation or
+  universal reconciliation? Decidable in principle, and positions demonstrably
+  move: Robin Parry published *The Evangelical Universalist* under a pseudonym
+  because he had changed his mind; John Stott moved to annihilationism late in
+  life; conditional immortality went from fringe to a mainstream evangelical
+  option on specific claims about `aiōnios`. That is test 2. **Open.**
+- **Could eternal punishment be just?** Grant every exegetical fact — grant that
+  the texts teach whichever view you like — and the atheist still says a good God
+  would not, the Christian still says freedom or justice requires it, and nothing
+  further that is granted moves either. That is test 3. **Interpretive.**
+
+The page centres on the second, so the topic is tagged interpretive, the first
+is marked `activeHere: false` in the strip, and the exegetical dispute gets a
+`context` block of its own — the way the four positions sit on topic 6 — so that
+a reader can see it is contested inside Christianity rather than being told the
+page is not about it.
+
+Topic 13 already had this shape and solved it before the rule was written: it is
+`settled-core` on whether Jesus existed and was crucified, while the page argues
+the resurrection, which is open. Topics 14 and 19 have it too. Check for it
+whenever a tag feels like a compromise — that feeling usually means two
+questions are being averaged.
+
+Topic **18** (whether religion has done more harm than good) is the remaining
+close call and should be re-checked when drafted: it has a substantial empirical
+component that may amount to a settled core in places, and the same split may
+apply.
 
 ## The three sourcing rules
 

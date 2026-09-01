@@ -58,6 +58,7 @@
   "about.title": "À propos de ce site",
   "search.nav": "Rechercher",
   "search.title": "Rechercher sur ce site",
+  "search.label": "Rechercher sur le site",
   "search.placeholder": "Tapez un mot, un nom ou une phrase.",
   "search.privacy": "La recherche s'exécute dans votre navigateur. Rien de ce que vous tapez n'est envoyé où que ce soit.",
   "search.noscript": "JavaScript est désactivé, la recherche ne peut donc pas fonctionner. Toutes les pages restent accessibles depuis la liste des sujets, et la recherche intégrée de votre navigateur fonctionne sur toute page ouverte.",

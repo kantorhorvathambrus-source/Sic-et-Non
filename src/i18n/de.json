@@ -58,6 +58,7 @@
   "about.title": "Über diese Seite",
   "search.nav": "Suchen",
   "search.title": "Diese Website durchsuchen",
+  "search.label": "Website durchsuchen",
   "search.placeholder": "Geben Sie ein Wort, einen Namen oder einen Satz ein.",
   "search.privacy": "Die Suche läuft in Ihrem Browser. Nichts, was Sie eingeben, wird irgendwohin gesendet.",
   "search.noscript": "JavaScript ist aus, die Suche kann also nicht laufen. Alle Seiten sind weiterhin über die Themenliste erreichbar, und die Suchfunktion Ihres Browsers funktioniert auf jeder geöffneten Seite.",

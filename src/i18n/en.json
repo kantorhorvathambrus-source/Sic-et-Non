@@ -58,6 +58,7 @@
   "about.title": "About this site",
   "search.nav": "Search",
   "search.title": "Search this site",
+  "search.label": "Search the site",
   "search.placeholder": "Type a word, a name or a phrase.",
   "search.privacy": "Search runs in your browser. Nothing you type is sent anywhere.",
   "search.noscript": "JavaScript is off, so the search box cannot run. Every page is still reachable from the topic list, and your browser's own find-in-page works on any page you open.",
