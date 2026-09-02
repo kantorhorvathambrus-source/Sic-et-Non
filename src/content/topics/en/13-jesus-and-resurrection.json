@@ -63,8 +63,33 @@
           "counter": {
             "objection": "Novelty is a fact about the belief, not evidence for its truth, and new religious claims are not rare. Movements whose leader dies unexpectedly do sometimes reinterpret rather than disband — the Sabbatian movement survived its messiah's conversion to Islam, and several Lubavitch groups survived their rebbe's death with claims about him. The argument also assumes that first-century Jewish expectation was uniform enough to rule the innovation out, and the sources are thinner and more varied than that.",
             "objectionFrom": "atheist",
-            "response": "The parallels cited are later and are shaped by categories Christianity itself supplied, which is the difficulty with using them. And the claim is not that novelty proves truth but that a specific unprecedented belief needs a specific cause, which 'they were sad' does not supply."
-          }
+            "response": "The parallels cited are later and are shaped by categories Christianity itself supplied, which is the difficulty with using them. And the claim is not that novelty proves truth but that a specific unprecedented belief needs a specific cause, which 'they were sad' does not supply.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "spiritual-body",
+              "label": "A real resurrection, but not of the corpse",
+              "heldBy": "Marcus Borg, John Dominic Crossan; a substantial strand of mainline and progressive Christianity",
+              "oneLine": "Easter is true and the tomb is beside the point: what Paul describes in 1 Corinthians 15 is a spiritual body, and the Christian claim never needed the corpse.",
+              "summary": "This is a Christian position, held by Christians, and it is on this side of the page because its conclusion is that the resurrection happened — not because of anything about its holders' beliefs.\n\nThe exegetical case is that Paul, our earliest witness, does not describe a resuscitated body. He describes a *sōma pneumatikon*, a spiritual body, and says explicitly that flesh and blood cannot inherit the kingdom. On this reading the gospel accounts of eating fish and touching wounds are later, and the empty-tomb narratives are theological compositions rather than reports. What Easter names is that the disciples encountered Jesus as a living reality, and that this was not a mistake.",
+              "quote": {
+                "text": "Paul explicitly states that the resurrection \"body\" is not a \"physical\" body but a \"spiritual\" body, a \"glorified\" body. As Paul says, it is not a flesh and blood body.",
+                "author": "Marcus J. Borg",
+                "work": "The Resurrection of Jesus: Physical/Bodily or Spiritual/Mystical?",
+                "year": "2013",
+                "sourceUrl": "https://marcusjborg.org/posts-by-marcus/the-resurrection-of-jesus/",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above is that novelty is a fact about a belief rather than evidence for it, and that movements do reinterpret when a leader dies. That objection is aimed at a claim about an unprecedented *bodily* resurrection. This reading does not make that claim, so the parallels the objection offers — movements that reinterpreted rather than disbanded — are not counter-examples to it but roughly what it says happened.",
+              "objection": {
+                "text": "Wright's own argument runs against this hardest, and it is philological. In the Greek of the period, *anastasis* and its cognates meant bodily resurrection specifically, and were used precisely to distinguish it from the survival of a soul or a vision of the dead — which is why pagans found the claim absurd rather than familiar. A first-century Jew saying 'he has been raised' while meaning 'we encountered him spiritually' would have been using the one word that ruled that out. The reading also has to explain why a movement that could have settled for a vindicated spirit produced an empty-tomb tradition it did not need.",
+                "from": "within",
+                "sharedPremise": "it argues from premises this reading accepts — that Paul is the earliest witness, that the vocabulary is first-century Jewish, and that what the first Christians meant is recoverable from how they wrote — to the conclusion that the words they chose exclude a non-bodily reading.",
+                "response": "Paul is the earliest witness and the one who most explicitly denies flesh and blood, so the vocabulary argument has to explain him first; and the empty tomb is exactly the tradition whose historicity is least secure."
+              }
+            }
+          ]
         },
         {
           "id": "the-facts-both-sides-grant",
@@ -129,7 +154,8 @@
             "response": "The lottery comparison fails because someone wins every week, so the improbability of a particular winner is not the improbability of a win. There is no comparable base rate for resurrections."
           }
         }
-      ]
+      ],
+      "singleVoice": "This side does not split on this question, and saying so is more honest than manufacturing a division. The natural explanations on offer — bereavement vision, guilt, cognitive dissonance, the growth of narrative around an experience — are not incompatible positions but parts of one hypothesis, and their proponents cite each other rather than argue. The one genuinely incompatible alternative is that Jesus never existed, and that is excluded on the evidence, not by preference: it is set out in the note below rather than as a variant here."
     }
   ],
   "notes": [

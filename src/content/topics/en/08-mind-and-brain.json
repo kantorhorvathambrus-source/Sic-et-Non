@@ -62,8 +62,54 @@
           "counter": {
             "objection": "The open question may be about our concepts rather than about the world. That we can ask 'but would it be me?' shows something about the elasticity of personal-identity talk, not that there is an extra ingredient the question is tracking. We can ask 'but would it be the same ship?' about a rebuilt vessel without anyone concluding that ships have souls. And an [[substance dualism]] that grants full dependence on the brain has to say what the soul is contributing that the brain is not already doing.",
             "objectionFrom": "atheist",
-            "response": "The ship case is not parallel: there is no fact about which the ship's own answer could be right or wrong, and about yourself there is. Either you wake up tomorrow or someone else does, and that is not a matter of how we choose to speak."
-          }
+            "response": "The ship case is not parallel: there is no fact about which the ship's own answer could be right or wrong, and about yourself there is. Either you wake up tomorrow or someone else does, and that is not a matter of how we choose to speak.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "hylomorphism",
+              "label": "Hylomorphism",
+              "heldBy": "Thomas Aquinas and the Thomist tradition; Edward Feser, Eleonore Stump, David Oderberg",
+              "oneLine": "The soul is not a second thing joined to a body but the form of the body — what makes this matter a living human at all.",
+              "summary": "The older Christian account, and the one Aquinas actually held. It is not Descartes with different vocabulary: on this view a human being is one substance, not two, and the soul is what a living body's organisation *is* rather than a passenger inside it.\n\nThat is why the interaction problem does not arise in the usual form — there are not two things to interact. What the tradition adds, and what makes it dualist at all, is that this particular form is subsistent: unlike the form of a tree, it can persist when the matter it organises is gone.",
+              "quote": {
+                "text": "the soul is the substantial form of the living human body … and it is unique among the forms of material things in being subsistent, that is, capable of surviving beyond the death of the body",
+                "author": "Edward Feser",
+                "work": "Vallicella on hylemorphic dualism",
+                "year": "2011",
+                "sourceUrl": "http://edwardfeser.blogspot.com/2011/08/vallicella-on-hylemorphic-dualism.html",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above is that the open question — 'but would it be me?' — shows something about the elasticity of our concepts rather than about the world. This position never ran that argument. It reaches the soul from a general account of what any substance is, not from an intuition about personal identity, so a diagnosis of that intuition leaves it untouched.",
+              "objection": {
+                "text": "A form that can survive the matter it is the form of is not obviously coherent: a form is supposed to be the organisation of something, and an organisation with nothing organised is hard to distinguish from the second substance the view says it is not. Critics inside the tradition and outside it both press this, and the usual reply — that the intellect's operations are immaterial and so the form that performs them can subsist — depends on an argument about abstraction that few philosophers outside Thomism accept.",
+                "from": "both",
+                "response": "A subsistent form in separation is admitted to be in an unnatural state, which is why the tradition insists on bodily resurrection rather than treating the disembodied soul as the person."
+              }
+            },
+            {
+              "id": "christian-materialism",
+              "label": "Christian materialism",
+              "heldBy": "Kevin Corcoran, Nancey Murphy, Peter van Inwagen, Trenton Merricks",
+              "oneLine": "There is no soul. A human person is a material thing, and the Christian hope is bodily resurrection, which is what it always said.",
+              "summary": "This position is on the theist side of the page and agrees with the atheist side about the metaphysics. Its argument is partly exegetical — that the Bible's anthropology is unified rather than Platonic, and that its hope is resurrection rather than the immortality of the soul — and partly philosophical: the soul was imported from Greek philosophy and has been doing damage since.\n\nCorcoran's version has persons constituted by their bodies without being identical to them, on the model of a statue and the bronze: the same relation, not the same thing.",
+              "quote": {
+                "text": "we human persons are constituted by our bodies without being identical with the bodies that constitute us",
+                "author": "Kevin J. Corcoran",
+                "work": "Rethinking Human Nature: A Christian Materialist Alternative to the Soul",
+                "year": "2006",
+                "sourceUrl": "https://philpapers.org/rec/CORRHN",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "Nothing in the objection above is aimed at anything this holds. It agrees that the open question is a fact about concepts, agrees there is no further ingredient, and would agree with most of the atheist side of this page — which is the point of printing it, because a reader who takes dualism to be the Christian position is wrong about a growing minority of Christian philosophers of mind.",
+              "objection": {
+                "text": "If a person is a material thing, the resurrection has an identity problem the soul was invented to solve: the atoms disperse, and a being assembled later from other matter looks like a very good copy rather than you. The constitution relation also does the work of a distinction without the metaphysics of one — saying you are constituted by your body but not identical with it either means there are two things after all, or means nothing that survives being pressed.",
+                "from": "within",
+                "sharedPremise": "it argues from premises this position holds — that God exists, that the resurrection is bodily, and that a person must be numerically the same person afterwards — to the conclusion that a purely material account leaves nothing to carry that identity across the gap.",
+                "response": "Numerical identity across a gap is a problem for any account that takes the resurrection to be bodily, including dualist ones, since the dualist also needs the raised body to be yours. Van Inwagen and Merricks have offered answers; none is comfortable, and none is worse than a soul nobody can locate."
+              }
+            }
+          ]
         },
         {
           "id": "consciousness-needs-explaining",
@@ -107,13 +153,59 @@
             "objection": "The strongest form of this objection comes from within naturalism rather than from religion. David Chalmers accepts every result Churchland cites, denies souls, and still argues that the list is a list of functions — discriminating, integrating, reporting — and that explaining a function does not explain why performing it is accompanied by experience. Water and H₂O is the wrong parallel, because there is nothing it is like to be water: the identity there needs no further fact, and here one is exactly what is in dispute.",
             "objectionFrom": "within",
             "sharedPremise": "it accepts naturalism and every neuroscientific result cited, and argues from those premises that explaining what a system does is not yet explaining why doing it is accompanied by experience.",
-            "response": "The 'further fact' may be an artefact of the first-person view rather than a further thing in the world. A system that models itself will represent its own states as simple and immediate, and will find their explanation in functional terms unsatisfying, whether or not anything has been left out."
-          }
+            "response": "The 'further fact' may be an artefact of the first-person view rather than a further thing in the world. A system that models itself will represent its own states as simple and immediate, and will find their explanation in functional terms unsatisfying, whether or not anything has been left out.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "illusionism",
+              "label": "Illusionism",
+              "heldBy": "Keith Frankish; Daniel Dennett; Jay Garfield",
+              "oneLine": "There is no hard problem because there is nothing of the kind it is about: introspection misrepresents our experiences as having phenomenal properties they do not have.",
+              "summary": "The most radical position on this side, and the one that takes the hard problem most seriously by refusing its starting point. Illusionists do not deny that we are conscious; they deny that consciousness consists in private qualities of the kind the debate assumes.\n\nWhat needs explaining, on this account, is not why physical processing is accompanied by experience but why we are so sure it is — and that is a question about how a self-modelling system represents its own states, which is hard but not of a different kind from other problems in cognitive science.",
+              "quote": {
+                "text": "phenomenal consciousness … is an introspective illusion — introspection misrepresents experiences as having phenomenal properties",
+                "author": "Keith Frankish",
+                "work": "Illusionism as a Theory of Consciousness, Journal of Consciousness Studies 23",
+                "year": "2016",
+                "sourceUrl": "https://www.keithfrankish.com/illusionism-as-a-theory-of-consciousness/",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above says that explaining a function does not explain why performing it is accompanied by experience. This position denies the thing the 'why' is asking about: there is no accompaniment, only a system that represents itself as having one. The objection cannot be pressed without assuming exactly what is in dispute.",
+              "objection": {
+                "text": "An illusion is a way things seem, and seeming is the thing in question — so the position appears to presuppose what it denies. Chalmers calls this the hardest of the hard cases and its defenders concede the shape of the problem: to say experience is an illusion is to say there seems to be experience, and it is not clear what that could be if not experience. The reply, that seemings can be cashed out in purely informational terms, is precisely what critics say has never been done.",
+                "from": "within",
+                "sharedPremise": "it accepts naturalism and the entire functional story about what brains do, and argues from those premises alone that an account which explains a seeming by calling it a misrepresentation still owes an account of the seeming.",
+                "response": "It has been attempted rather than assumed: an informational state that represents a state of the system as simple and intrinsic is a seeming, and building one is an engineering problem rather than a metaphysical one."
+              }
+            },
+            {
+              "id": "panpsychism",
+              "label": "Panpsychism",
+              "heldBy": "Philip Goff, Galen Strawson, Luke Roelofs; a growing minority in philosophy of mind",
+              "oneLine": "Consciousness is not produced by brains at all: it is a basic feature of matter, and brains organise it rather than create it.",
+              "summary": "This position accepts the hard problem in full and concludes that the mistake was made at the start. Physics describes what matter does, not what it is; the intrinsic nature of matter is left blank, and consciousness is a candidate for filling it. On that account experience does not have to be got out of the non-experiential, because there is no non-experiential to get it out of.\n\nIt is emphatically not a religious view — Goff, Strawson and Roelofs are not theists — which is why it is on this side of the page. It is also not the fringe position it sounds like: the argument is that it is the only view which is both realist about consciousness and free of the emergence problem.",
+              "quote": {
+                "text": "consciousness is a fundamental and ubiquitous feature of the physical world",
+                "author": "Philip Goff",
+                "work": "Galileo’s Error: Foundations for a New Science of Consciousness",
+                "year": "2019",
+                "sourceUrl": "https://en.wikipedia.org/wiki/Galileo%27s_Error",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above asks why physical processing should be accompanied by experience. On this view the question has a presupposition it rejects — that the physical was ever experience-free — so there is no accompanying to explain. The objection has to be reformulated as a question about combination instead, which is a different and much more specific difficulty.",
+              "objection": {
+                "text": "The combination problem, and it is severe. Even granting that electrons have some minimal experience, nothing explains how billions of tiny subjects add up to one subject reading this sentence — and a sum of experiences is not obviously an experience at all, any more than a crowd of people is a person. Critics argue the view has relocated the hard problem rather than solved it, exchanging 'how does experience arise from the non-experiential' for 'how do micro-experiences compose', with no more traction on the second.",
+                "from": "both",
+                "response": "The combination problem is at least a problem about how things of one kind make a thing of the same kind, which is the ordinary business of science. Emergence of experience from the wholly non-experiential is a change of category, and that is the harder ask."
+              }
+            }
+          ]
         },
         {
           "id": "no-room-for-a-second-cause",
           "claim": "A soul that moves a body would have to displace a physical cause that is already sufficient",
-          "explanation": "This is the argument that has done the most work in the last forty years, and it is aimed at dualism's action rather than at its plausibility. Physics appears to be causally closed: for any physical event, there is a sufficient physical cause. Your arm rises because of muscle fibres, motor neurons, and a chain running back into the brain, with no gap.\n\nJaegwon Kim's exclusion principle then bites. If the soul also caused the arm to rise, the event has two sufficient causes, which is either overdetermination — a coincidence repeated every time anyone moves — or one of the two causes is not doing anything. Kim pressed this against fellow physicalists first, which is part of why it is hard to dismiss as prejudice.",
+          "explanation": "This is the argument that has done the most work in the last forty years, and it is aimed at dualism's action rather than at its plausibility. Physics appears to obey [[causal closure]]: for any physical event, there is a sufficient physical cause. Your arm rises because of muscle fibres, motor neurons, and a chain running back into the brain, with no gap.\n\nJaegwon Kim's exclusion principle then bites. If the soul also caused the arm to rise, the event has two sufficient causes, which is either overdetermination — a coincidence repeated every time anyone moves — or one of the two causes is not doing anything. Kim pressed this against fellow physicalists first, which is part of why it is hard to dismiss as prejudice.",
           "quote": {
             "text": "No single event can have more than one sufficient cause occurring at any given time — unless it is a genuine case of causal overdetermination.",
             "author": "Jaegwon Kim",
@@ -124,9 +216,10 @@
             "verification": "corroborated"
           },
           "counter": {
-            "objection": "[[causal closure]] is an assumption of physical practice, not a result of it. No experiment has surveyed all causes of a physical event and found them all physical; what physics has found is that physical causes suffice for the phenomena physics studies, which is not the same claim. And Kim's argument proves too much for its own side: he takes it to show that non-reducible mental properties are causally idle, which many naturalists find as unacceptable as dualists do.",
-            "objectionFrom": "theist",
-            "response": "That the closure principle is not a theorem is granted. It is, however, the best-supported working assumption in the sciences, and nothing has ever been found to violate it — while the alternative requires an interaction with no mechanism, no location and no energy budget."
+            "objection": "Kim aimed the argument at fellow physicalists before he aimed it at anyone else, and its sharpest critics are physicalists too. Stephen Yablo, Karen Bennett and the causal-compatibilist literature argue that the exclusion principle misdescribes causation across levels: a determinable and its determinate are not two competing sufficient causes, and neither are a mental state and its physical realiser, so nothing is being overdetermined and nothing has to be idle. Kim himself takes the argument to show that irreducible mental properties are causally inert, a conclusion many naturalists find as unacceptable as any dualist does. Causal closure is also an assumption of physical practice rather than a result of it: no experiment has surveyed all the causes of an event and found them all physical.",
+            "objectionFrom": "within",
+            "response": "That the closure principle is not a theorem is granted. It is, however, the best-supported working assumption in the sciences, and nothing has ever been found to violate it — while the alternative requires an interaction with no mechanism, no location and no energy budget.",
+            "sharedPremise": "it accepts physicalism and the causal closure of the physical, and argues from those premises alone that the exclusion principle misdescribes how causes at different levels relate, so that a mental cause and its physical realiser are not two candidates competing for one job."
           }
         }
       ]

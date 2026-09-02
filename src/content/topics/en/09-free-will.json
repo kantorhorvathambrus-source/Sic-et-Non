@@ -62,8 +62,33 @@
           "counter": {
             "objection": "This names the mystery rather than solving it. If the agent's causing is not itself caused by anything about the agent — her character, her reasons, her mood — then it is not clear in what sense it expresses her rather than simply happening. Make it depend on those things and it is determined after all; make it independent of them and it looks like a random event with a person's name on it. That dilemma is old and no agent-causal theory has escaped it to its critics' satisfaction.",
             "objectionFrom": "atheist",
-            "response": "The dilemma assumes that every cause must be an event, which is what [[agent causation]] denies. That the position is hard to state in event-causal vocabulary is expected, since it is proposing a different category, not a strange event."
-          }
+            "response": "The dilemma assumes that every cause must be an event, which is what [[agent causation]] denies. That the position is hard to state in event-causal vocabulary is expected, since it is proposing a different category, not a strange event.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "theological-compatibilism",
+              "label": "Reformed compatibilism",
+              "heldBy": "Jonathan Edwards; Paul Helm, John Feinberg; the Reformed tradition broadly",
+              "oneLine": "The will is always determined by what appears most agreeable, and that is no threat to responsibility — you are responsible for acting on your own desires, not for having produced them.",
+              "summary": "A theist position that agrees with the atheist side of this page about the metaphysics and reaches it from theology rather than from physics. Edwards argued in 1754 that the will is not a self-moving faculty choosing between open options but the mind's inclination towards what appears best to it — and that this is exactly what freedom is, because a will that could act against every motive would be arbitrary rather than free.\n\nThe theological motive is divine sovereignty: a God who ordains all things cannot be waiting to see what creatures do. The consequence, which Edwards accepted openly, is that libertarian freedom is not merely unnecessary but incoherent.",
+              "quote": {
+                "text": "the will always is as the greatest apparent good, or as what appears most agreeable",
+                "author": "Jonathan Edwards",
+                "work": "Freedom of the Will",
+                "year": "1754",
+                "sourceUrl": "http://onthewing.org/user/Edwards%20-%20Freedom%20of%20the%20Will%20-%20Modern.pdf",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above is the luck dilemma: if the agent's causing is not settled by her character and reasons it looks random, and if it is settled it is determined. This position takes the second horn deliberately and denies it is a horn at all. An argument that agent causation cannot escape determination is not an objection to a view whose whole claim is that it should not try.",
+              "objection": {
+                "text": "It makes God the author of sin, and the tradition has never found a comfortable answer. If every inclination is ordained and the will simply follows the strongest, then the strongest inclination of a murderer was ordained too, and the standard reply — that God ordains without being the proximate cause — is the same distinction between permitting and doing that this page's own topic 3 finds hard to sustain. Arminian and Wesleyan Christians press this as the reason to reject the whole account.",
+                "from": "within",
+                "sharedPremise": "it argues from premises the position holds — that God is good, that he ordains what comes to pass, and that human beings are genuinely guilty — to the conclusion that the three cannot all be true if the will is determined by inclinations God ordained.",
+                "response": "The distinction between ordaining and authoring is doing real work, not evading: an author of a novel is not guilty of its murders, and the objection assumes a univocal notion of causation that the doctrine denies."
+              }
+            }
+          ]
         },
         {
           "id": "the-consequence-argument",
@@ -104,10 +129,56 @@
             "verification": "corroborated"
           },
           "counter": {
-            "objection": "Everything on that list is real and none of it is what was being asked about. A sophisticated machine also takes in reasons and responds to them, and nobody thinks it deserves anything. The question was never whether human beings differ from rocks in their responsiveness — obviously they do — but whether anyone is ever the ultimate source of what they do, and the answer offered simply declines the question while keeping the vocabulary.",
-            "objectionFrom": "theist",
-            "response": "There is no coherent notion of an 'ultimate source' to decline. Being the ultimate source of your action would require having created your own character, which would require an earlier self to do the creating, and so on without end."
-          }
+            "objection": "Everything on that list is real and none of it is what was being asked about, and the objection is pressed hardest not by religion but by naturalists. Galen Strawson and Derk Pereboom accept every one of Dennett's premises about physics and about human beings, and argue that responsiveness to reasons is not sourcehood: a sophisticated machine also takes in reasons and responds to them, and nobody thinks it deserves anything. The question was never whether human beings differ from rocks in their responsiveness, but whether anyone is ever the ultimate source of what they do.",
+            "objectionFrom": "within",
+            "response": "There is no coherent notion of an 'ultimate source' to decline. Being the ultimate source of your action would require having created your own character, which would require an earlier self to do the creating, and so on without end.",
+            "sharedPremise": "it accepts naturalism, determinism-or-indeterminism as physics leaves it, and the whole functional account of what deliberation is, and argues from those premises alone that responsiveness to reasons is not the same thing as being the source of what one does.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "hard-incompatibilism",
+              "label": "Hard incompatibilism",
+              "heldBy": "Derk Pereboom; Neil Levy; Bruce Waller",
+              "oneLine": "We lack the freedom moral responsibility requires, and this is so whether or not determinism is true — but almost everything worth keeping survives that.",
+              "summary": "Pereboom's position is not despair and not compatibilism. He argues that an undetermined action is no more under your control than a determined one, so indeterminism does not help, and concludes that nobody deserves blame or credit in the basic sense.\n\nWhat he then does with it is the interesting part. Retributive punishment goes; quarantine, deterrence and rehabilitation stay. Gratitude and love mostly survive, since they do not require thinking the other person could have done otherwise. The claim is that the practices we care about were never resting on desert in the first place.",
+              "quote": {
+                "text": "we lack the kind of free will required for moral responsibility, and … this is so whether or not determinism is true",
+                "author": "Derk Pereboom",
+                "work": "Living Without Free Will",
+                "year": "2001",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/living-without-free-will/",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above is that compatibilism keeps the vocabulary while dropping the thing people meant. This position agrees, and drops the vocabulary too. An argument that a redefinition has changed the subject cannot be pressed against someone who has declined to redefine anything.",
+              "objection": {
+                "text": "The practical claim is doing a great deal of work and is asserted rather than shown. Whether gratitude, love, remorse and the criminal law survive the removal of desert is an empirical question about human beings, not a philosophical one, and the answer may well be that they do not. There is also a self-application problem: if no one deserves credit for anything, that includes the reasoning that got you here.",
+                "from": "both",
+                "response": "The self-application is not a paradox: an argument can be sound whether or not its author deserves credit for producing it. Whether the practices survive is empirical, and Pereboom argues it at length rather than assuming it."
+              }
+            },
+            {
+              "id": "the-basic-argument",
+              "label": "The basic argument",
+              "heldBy": "Galen Strawson",
+              "oneLine": "To be responsible for what you do you would have to be responsible for how you are, which would require having created yourself — and nothing creates itself.",
+              "summary": "The most compressed argument on this page, and it is aimed at everyone. To act as you do because of how you are, and to be responsible for acting that way, you would have to be responsible for how you are. But to be responsible for how you are, you would have had to have chosen to be that way — for reasons that came from how you already were. The regress does not terminate.\n\nStrawson takes this to show that ultimate moral responsibility is impossible in principle, not merely absent in fact, and that this holds whatever physics turns out to say.",
+              "quote": {
+                "text": "nothing can be the cause of itself, and in order to be truly or ultimately morally responsible for one's actions one would have to be causa sui, at least in certain crucial mental respects",
+                "author": "Galen Strawson",
+                "work": "The Impossibility of Moral Responsibility, Philosophical Studies 75",
+                "year": "1994",
+                "sourceUrl": "https://plato.stanford.edu/entries/skepticism-moral-responsibility/",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above says that the freedom on offer is not the freedom people meant. This argument does not offer any freedom, so there is nothing to accuse of falling short. It also removes the theist's usual reply — that indeterminism makes room — since the regress runs identically whether the steps are determined or not.",
+              "objection": {
+                "text": "The argument proves that a particular notion of ultimate self-creation is incoherent, which almost nobody was claiming. Compatibilists say responsibility never required being causa sui; libertarians say origination is not self-creation but the exercise of a power a person has, which does not need to have been chosen. On both readings the argument refutes a condition neither side accepted, and the word 'ultimate' is carrying the whole thing.",
+                "from": "both",
+                "response": "The word is carrying it deliberately. The claim is that anything short of ultimate responsibility will not support desert, and that desert is what praise, blame and punishment have always been taken to require."
+              }
+            }
+          ]
         },
         {
           "id": "no-author-of-your-thoughts",

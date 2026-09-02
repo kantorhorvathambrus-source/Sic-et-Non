@@ -361,8 +361,14 @@ Where a side genuinely has no live internal split on a question, it says so in
 one line (`side.singleVoice`) rather than leaving an asymmetry a reader will read
 as fracture. The build fails on a bare asymmetry.
 
-**Retrofit status.** Variants are in on topic 10. Still to do: topics 7, 8, 9,
-11, 12, 13, then topics 1 to 6 in a single pass. Do not let this list go stale.
+**Retrofit status.** Variants are in on topics 7 to 13. Still to do: topics 1 to
+6, in a single pass. Do not let this list go stale.
+
+Topic 13 is the one `singleVoice` case so far: the atheist explanations there —
+bereavement vision, guilt, cognitive dissonance, narrative growth — are parts of
+one hypothesis rather than incompatible positions, and their proponents cite each
+other rather than argue. One such case in seven topics is roughly what the field
+looks like; seven would have been the quota pattern again.
 
 ### The `context` block
 
