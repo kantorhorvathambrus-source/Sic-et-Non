@@ -111,6 +111,25 @@ const variant = z.object({
   /** Required prose: what the objection above can no longer do against this version. */
   changesTheObjection: z.string().min(1),
   /**
+   * The objection this version faces in its own right.
+   *
+   * Required for any variant the parent objection does not reach, because
+   * escaping the parent objection is not the same as being unopposed. A variant
+   * that renders with nothing pushing back on it reads as unchallenged, and a
+   * mechanism that lets a position dodge criticism while looking like candour
+   * is worse than not having the mechanism.
+   */
+  objection: z
+    .object({
+      text: z.string().min(1),
+      from: z.enum(['theist', 'atheist', 'both', 'within']).optional(),
+      /** Required when `from` is "within"; same premise rule as the parent. */
+      sharedPremise: z.string().optional(),
+      quote: quote.optional(),
+      response: z.string().optional(),
+    })
+    .optional(),
+  /**
    * Where a variant conflicts with something the site has tagged settled-core,
    * it still goes in, stated at full strength by its own advocates, and carries
    * this marker saying where it stands against the relevant field's conclusion.
@@ -420,6 +439,39 @@ const topics = defineCollection({
                   );
                 }
               }
+              // Escaping the parent objection is not being unopposed.
+              for (const [v, variantValue] of (arg.variants ?? []).entries()) {
+                const reached = landsOn.includes(variantValue.id);
+                if (!reached && !variantValue.objection) {
+                  fail(
+                    ['sides', s, 'arguments', a, 'variants', v],
+                    `variant "${variantValue.id}" is not reached by the objection above and carries none of its own, so it renders with nothing pushing back on it. Give it an objection, or say why it is reached after all.`,
+                  );
+                }
+                if (reached && variantValue.objection) {
+                  fail(
+                    ['sides', s, 'arguments', a, 'variants', v],
+                    `variant "${variantValue.id}" is already reached by the objection above and also carries its own. Two objections on one version is a page that argues with itself; keep the one that bites.`,
+                  );
+                }
+                const own = variantValue.objection;
+                if (own?.from === 'within') {
+                  const reason = own.sharedPremise?.trim() ?? '';
+                  const lowercaseWords = (reason.match(/\b[a-z][a-z-]{2,}\b/g) ?? []).length;
+                  if (lowercaseWords < 8) {
+                    fail(
+                      ['sides', s, 'arguments', a, 'variants', v],
+                      `variant "${variantValue.id}" declares an objection "within" without a sharedPremise that names a premise. Say what the objection and the position both accept, not who is objecting.`,
+                    );
+                  }
+                } else if (own?.sharedPremise) {
+                  fail(
+                    ['sides', s, 'arguments', a, 'variants', v],
+                    `variant "${variantValue.id}" carries a sharedPremise but its objection is not "within".`,
+                  );
+                }
+              }
+
               if (landsOn.length === ids.size && ids.size > 1) {
                 fail(
                   ['sides', s, 'arguments', a],

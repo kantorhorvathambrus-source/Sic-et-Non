@@ -120,6 +120,34 @@ const untouched = variants.filter((v) => !landsOn?.includes(v.id));
                 <p class="changes">
                   <strong>{t('argument.variants.changes')}</strong> {variantValue.changesTheObjection}
                 </p>
+
+                {variantValue.objection && (
+                  <div class="variant-objection">
+                    <p class="counter-label">
+                      {variantValue.objection.from === 'within'
+                        ? t('argument.objection.within')
+                        : variantValue.objection.from === 'both'
+                          ? t('argument.objection.both')
+                          : t('argument.objection.other')}
+                    </p>
+                    <RichText text={variantValue.objection.text} glossary={glossary} />
+                    {variantValue.objection.sharedPremise && (
+                      <p class="shared-premise">
+                        <strong>{t('argument.objection.sharedPremise')}</strong>{' '}
+                        {variantValue.objection.sharedPremise}
+                      </p>
+                    )}
+                    {variantValue.objection.quote && (
+                      <Quotation quote={variantValue.objection.quote} locale={locale} side="neutral" />
+                    )}
+                    {variantValue.objection.response && (
+                      <div class="response">
+                        <p class="counter-label">{t('argument.response')}</p>
+                        <RichText text={variantValue.objection.response} glossary={glossary} />
+                      </div>
+                    )}
+                  </div>
+                )}
               </div>
             </details>
           ))}
@@ -353,12 +381,19 @@ const untouched = variants.filter((v) => !landsOn?.includes(v.id));
     color: var(--ink-muted);
   }
 
+  /* A variant the parent objection misses still has to face something. */
+  .variant-objection {
+    margin-top: var(--space-s);
+    padding: var(--space-m);
+    border-radius: var(--radius);
+    background: var(--bg-sunken);
+  }
+
   .changes,
   .against-settled {
     margin-top: var(--space-s);
     padding: var(--space-s);
-    background: var(--bg-sunken);
-    border-radius: var(--radius);
+    border-left: 2px solid var(--rule-strong);
   }
 
   .changes strong,

@@ -134,9 +134,18 @@ lines.push('');
     }
   }
 
-  const paraphrases = queue.filter(
-    (row) => row.quote.verification === 'paraphrase' && /— the claim$/.test(row.slot),
-  );
+  // Worst placement first: a page whose argument IS this author's, carrying our
+  // summary instead of their sentence, then the rest of the argument slots.
+  // Match on the surname anywhere in the author string: these are written
+  // "J. L. Schellenberg", so startsWith on the surname finds nothing.
+  const WORST_FIRST = ['Schellenberg', 'Carroll', 'Linville', "O'Connor"];
+  const rank = (author) => {
+    const i = WORST_FIRST.findIndex((name) => author.includes(name));
+    return i === -1 ? WORST_FIRST.length : i;
+  };
+  const paraphrases = queue
+    .filter((row) => row.quote.verification === 'paraphrase' && /— the claim$/.test(row.slot))
+    .sort((a, b) => rank(a.quote.author) - rank(b.quote.author));
   const free = queue
     .filter((row) => row.quote.verification !== 'primary' && row.effort.cost <= 3)
     .sort((a, b) => a.effort.cost - b.effort.cost);
@@ -147,6 +156,14 @@ lines.push('');
     lines.push('These are the places where an argument slot is carried by our summary rather');
     lines.push('than a quotation, so a reader has nothing to check us against. Replacing one');
     lines.push('retires a paraphrase entirely.');
+    lines.push('');
+    lines.push('Ordered by how badly the paraphrase sits. Schellenberg is first because topic 4');
+    lines.push("is his argument and the page carrying it cannot quote its own author — the worst");
+    lines.push('placement a paraphrase can have on this site. *The Hiddenness Argument* (2015)');
+    lines.push('and *Divine Hiddenness and Human Reason* (1993) are both easy to get.');
+    lines.push('');
+    lines.push("O'Connor is last in this order and cheapest to pull: the introduction to");
+    lines.push('*Persons and Causes* is on his own site, already linked below.');
     lines.push('');
     lines.push('| Author | Topic | Slot | Source |');
     lines.push('|---|---|---|---|');
@@ -172,6 +189,20 @@ lines.push('');
     }
     lines.push('');
   }
+
+  lines.push('## Candidates: positions waiting only on a quotation');
+  lines.push('');
+  lines.push('These pass the merit and constituency tests and are off the page only because');
+  lines.push('this environment cannot open a source. They are not cut. Merit decides');
+  lines.push('inclusion; retrieval decides timing. See CONTENT.md.');
+  lines.push('');
+  lines.push('| Topic | Position | Pull from |');
+  lines.push('|---|---|---|');
+  lines.push(
+    '| 10 | Constructivism | Christine Korsgaard, *The Sources of Normativity* (1996); ' +
+      'T.M. Scanlon, *What We Owe to Each Other* (1998) |',
+  );
+  lines.push('');
 
   lines.push('## Every quotation, by topic');
   lines.push('');

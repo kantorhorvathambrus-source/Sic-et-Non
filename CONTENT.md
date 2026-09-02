@@ -143,6 +143,14 @@ failure was not that the internal objections were invented. It was that finding
 one per page and stopping pushed the second onto the other side, where it got
 labelled as an opponent's objection.
 
+*Caught a second time in the same session, on the same failure in a different
+form.* The verification sheet had never indexed variant quotations and had no
+priority queue; when it was taught to compute one, three paraphrases turned up in
+argument slots where only one was known — Schellenberg on topic 4, Carroll on
+topic 1, alongside Linville on topic 10. The first instance was a search that
+stopped early. The second was a count that never started. Both are the same rule
+going unapplied.
+
 That is a search-termination failure, not a content one, and it will recur
 anywhere the site enumerates: arguments per side, variants, sources, objections.
 
@@ -287,6 +295,20 @@ means the objection reaches the main form only. An objection that reaches *every
 variant fails the build, because then none of them is changing anything. This is
 more honest than either printing an objection as a knockdown or dropping it.
 
+**Every variant is either reached by the parent objection or carries its own.**
+Escaping the parent objection is not the same as being unopposed. A variant that
+renders with nothing pushing back on it reads as unchallenged, and a mechanism
+that lets a position dodge criticism while looking like candour is worse than not
+having the mechanism at all. The build fails on a variant that appears in no
+`landsOn` and declares no `objection` of its own — and on one that has both,
+because two objections on one version is a page arguing with itself.
+
+Variant objections carry text and a source label, and a quotation where one can
+be sourced. That is the same standard the parent objections are held to: no
+objection anywhere on the site is required to carry a quotation, because the
+sourcing rules govern *positions* needing their own voice, not objections. Where
+the objection has a named author, name them in the prose.
+
 **Admission.** Three tests, all required, and popularity is not among them:
 
 1. A real constituency, **named** — a person, an institution, a recognised
@@ -296,10 +318,36 @@ more honest than either printing an objection as a knockdown or dropping it.
 3. Internal coherence on its own terms.
 
 A minority position with a serious case gets in; a majority position with no
-argument behind it does not. *Cut on topic 10 under test 2:* constructivism
-(Korsgaard, Scanlon) is a genuine fourth atheist position and was left out
-because no verbatim could be corroborated in this environment — not because it
-is weak.
+argument behind it does not.
+
+### Merit decides inclusion, retrieval decides timing
+
+A position that passes the merit and constituency tests and is waiting only on a
+quotation is **not cut**. It goes on the topic's candidates list below and into
+VERIFICATION.md, and it goes onto the page as soon as the quotation exists.
+
+This rule exists because the alternative is invisible and directional. The build
+environment can search the web but cannot open a page or a PDF, so "could not
+corroborate a verbatim" is a fact about a proxy configuration, not about
+philosophy. Left unmarked, it would shape the site's coverage across twenty
+topics in a direction nobody chose, and in six months "cut, could not
+corroborate" would read to anyone looking — including us — as "cut on the
+merits".
+
+**Never let retrieval masquerade as merit.** When a position is left off a page,
+the reason is recorded, and the two reasons are recorded differently.
+
+#### Candidates, waiting only on a quotation
+
+| Topic | Position | Constituency | What is needed |
+|---|---|---|---|
+| 10 | Constructivism | Christine Korsgaard, *The Sources of Normativity* (1996); T.M. Scanlon, *What We Owe to Each Other* (1998) | A verbatim from either. Both are among the most-cited books in modern moral philosophy; nothing about them is obscure. |
+
+*Cut on the merits, for contrast, so the difference stays visible:* theistic
+Platonism on topic 10, because Adams holds it alongside modified divine command
+theory and it therefore does not change what the objection has to do; and
+Zagzebski's exemplarism, because it is an account of moral concepts rather than
+of grounding.
 
 **Against a settled core.** Where a variant conflicts with something the site has
 tagged settled-core, it still goes in, stated at full strength by its own

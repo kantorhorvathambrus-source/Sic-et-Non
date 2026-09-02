@@ -95,7 +95,13 @@
                 "sourceUrl": "https://www.newadvent.org/summa/2094.htm",
                 "verification": "corroborated"
               },
-              "changesTheObjection": "The regress cannot start. There is no command whose authority needs a prior obligation to obey, because obligation follows from what a creature is rather than from what it has been told. The Euthyphro dilemma also loses its grip here: God is not consulting an external standard and not choosing one either, since he is the author of the natures the standard is read off."
+              "changesTheObjection": "The regress cannot start. There is no command whose authority needs a prior obligation to obey, because obligation follows from what a creature is rather than from what it has been told. The Euthyphro dilemma also loses its grip here: God is not consulting an external standard and not choosing one either, since he is the author of the natures the standard is read off.",
+              "objection": {
+                "text": "If the good for a creature follows from what kind of creature it is, then the account runs without God — and its most developed modern form is atheist. Philippa Foot built exactly this structure in Natural Goodness, taking Aquinas's account of the virtues as applicable to unbelievers, and Rosalind Hursthouse has developed it further; on both, moral defect is natural defect, and no theism enters at any point. That does not refute natural law. It undercuts the use being made of it here, because a page arguing that morality requires God cannot lean on the one theistic account whose machinery is demonstrably detachable from theism.",
+                "from": "within",
+                "sharedPremise": "it accepts the natural law premise entirely — that what is good for a creature follows from the kind of creature it is, and that reason can read it off — and argues from that premise alone that the resulting ethics is complete without adding God to it.",
+                "response": "Natures are not self-explanatory. The account tells you what is good for a human without telling you why there are creatures with that nature, or why their flourishing is something the universe answers to, and those are the questions the theist is answering."
+              }
             },
             {
               "id": "concurrentism",
@@ -112,14 +118,21 @@
                 "sourceUrl": "https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/",
                 "verification": "corroborated"
               },
-              "changesTheObjection": "The objection has to find a command to regress on, and there is none: what necessitates is a pull, not an instruction, so asking why you must obey it is like asking why you must find the good good. What the objection can do instead is press the other way — whether a 'pull' that requires no acknowledgement is doing any work that the natures were not already doing."
+              "changesTheObjection": "The objection has to find a command to regress on, and there is none: what necessitates is a pull, not an instruction, so asking why you must obey it is like asking why you must find the good good. What the objection can do instead is press the other way — whether a 'pull' that requires no acknowledgement is doing any work that the natures were not already doing.",
+              "objection": {
+                "text": "Murphy's own test is that a theistic account of morality must make God's role explanatory rather than decorative, and the objection is that his does not pass it. If the natures do all the specifying — if what you must do is settled entirely by what you are — then the 'pull of divine goodness' contributes no content, and a universe without it would contain the same obligations. An explanation that changes nothing about what is explained is an addition, not an account.",
+                "from": "atheist",
+                "response": "The pull supplies the necessity rather than the content: natures determine what is required, and goodness is why anything is required at all. Those are different jobs, and the objection collapses them."
+              }
             }
           ],
           "counter": {
             "objection": "If an obligation is constituted by a command, then being commanded to do something makes it obligatory only if you are already obliged to do what you are commanded. That prior obligation cannot itself be constituted by a command without starting the regress again, so it must come from somewhere else — and once something else can generate an obligation, the account has conceded the point it was making. This is not the atheist's objection; it is the standing objection made inside theism by those who ground morality elsewhere.",
             "objectionFrom": "within",
             "sharedPremise": "it accepts that God exists, that he is good, and that moral facts are real, and argues from those premises alone that obligations cannot be constituted by commands, since obeying a command is obligatory only given a prior obligation to obey — a premise the divine command theorist grants.",
-            "landsOn": ["divine-command"],
+            "landsOn": [
+              "divine-command"
+            ],
             "response": "The prior obligation is not a further command but a feature of the relationship: a creature stands to its creator as a child to a parent, and the obligation to heed is part of what that relation is rather than a rule inside it."
           }
         },
@@ -209,14 +222,22 @@
                 "sourceUrl": "https://spot.colorado.edu/~heathwoo/readings/mackie.pdf",
                 "verification": "corroborated"
               },
-              "changesTheObjection": "There is nothing left for it to do. A debunking argument shows that our moral beliefs are not explained by moral facts; the error theorist agrees, and has been saying so since 1977. Aimed here, the objection is not a refutation but a restatement of the position — and the theist who runs it has to switch to a different argument entirely, one for the existence of the moral facts Mackie denies."
+              "changesTheObjection": "There is nothing left for it to do. A debunking argument shows that our moral beliefs are not explained by moral facts; the error theorist agrees, and has been saying so since 1977. Aimed here, the objection is not a refutation but a restatement of the position — and the theist who runs it has to switch to a different argument entirely, one for the existence of the moral facts Mackie denies.",
+              "objection": {
+                "text": "The argument from queerness proves more than its author wanted. If we should not believe in objective values because they would be metaphysically strange and require an odd faculty to detect, the same is true of epistemic reasons — facts about what you ought to believe given your evidence. Terence Cuneo's companions-in-guilt argument presses exactly this: an error theory about morality commits you to an error theory about reasons, and then the error theory itself is not something you have any reason to believe. There is also the practical question of what an error theorist is doing when they go on making moral judgements, which Richard Joyce answers with a fictionalism most of his critics regard as a concession.",
+                "from": "both",
+                "response": "The parallel can be accepted. Joyce and other error theorists have taken the epistemic case on board and argued the position through, which is more than most companions-in-guilt arguments expect of their target."
+              }
             }
           ],
           "counter": {
             "objection": "If our evaluative attitudes were shaped by selection, and selection is indifferent to normative truth, then the realist faces a dilemma: either those attitudes are unrelated to the independent truths, in which case we have no reason to think ours are the accurate ones, or the realist owes a tracking account that the independence of the truths makes very hard to give. This is not a theist objection — it is made from naturalism, against other naturalists, and it is the most-cited challenge to atheist realism of the last twenty years.",
             "objectionFrom": "within",
             "sharedPremise": "it accepts naturalism, and the evolutionary account of where our evaluative attitudes came from, and argues from those premises alone that a realist who takes moral truths to be independent of us still owes an account of why our attitudes would track them.",
-            "landsOn": ["robust-realism", "naturalist-realism"],
+            "landsOn": [
+              "robust-realism",
+              "naturalist-realism"
+            ],
             "response": "The tracking account is available if some moral truths are necessary: a process that produces beliefs about harm, fairness and cooperation produces true ones because those truths could not have been otherwise, not because it was aiming at them."
           }
         },

@@ -22,12 +22,20 @@ These are the places where an argument slot is carried by our summary rather
 than a quotation, so a reader has nothing to check us against. Replacing one
 retires a paraphrase entirely.
 
+Ordered by how badly the paraphrase sits. Schellenberg is first because topic 4
+is his argument and the page carrying it cannot quote its own author — the worst
+placement a paraphrase can have on this site. *The Hiddenness Argument* (2015)
+and *Divine Hiddenness and Human Reason* (1993) are both easy to get.
+
+O'Connor is last in this order and cheapest to pull: the introduction to
+*Persons and Causes* is on his own site, already linked below.
+
 | Author | Topic | Slot | Source |
 |---|---|---|---|
-| Sean Carroll | 1. Did the universe begin, and does a beginning need a cause? | causation-inside-time — the claim | https://preposterousuniverse.com/writings/dtung/ |
 | J. L. Schellenberg | 4. If God wants to be known, why is he hidden? | nonresistant-nonbelief — the claim | https://philpapers.org/rec/SCHDHA |
-| Timothy O'Connor | 9. Do we have free will? | agents-originate — the claim | https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf |
+| Sean Carroll | 1. Did the universe begin, and does a beginning need a cause? | causation-inside-time — the claim | https://preposterousuniverse.com/writings/dtung/ |
 | Mark D. Linville | 10. Can there be objective morality without God? | why-would-we-track-them — the claim | https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7 |
+| Timothy O'Connor | 9. Do we have free will? | agents-originate — the claim | https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf |
 | Wes Morriston | 11. What should we make of the violence in the Old Testament? | readings-that-arrive-on-schedule — the claim | https://philpapers.org/rec/MORDGC |
 | Theodore Sider | 12. Can eternal damnation be just? | where-is-the-line — the claim | https://tedsider.org/papers/hell.pdf |
 | Gerd Lüdemann | 13. Did Jesus exist, and did he rise? | visions-after-a-death — the claim | https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances |
@@ -82,6 +90,16 @@ Open in a browser, no account or payment needed.
 | J. L. Schellenberg | Schellenberg's argument runs that a perfectly loving God would always … | https://philpapers.org/rec/SCHDHA |
 | Theodosius Dobzhansky | I am a creationist and an evolutionist. Evolution is God's, or Nature'… | https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light |
 | Wes Morriston | The proposed readings are inconsistent with one another and none was t… | https://philpapers.org/rec/MORDGC |
+
+## Candidates: positions waiting only on a quotation
+
+These pass the merit and constituency tests and are off the page only because
+this environment cannot open a source. They are not cut. Merit decides
+inclusion; retrieval decides timing. See CONTENT.md.
+
+| Topic | Position | Pull from |
+|---|---|---|
+| 10 | Constructivism | Christine Korsgaard, *The Sources of Normativity* (1996); T.M. Scanlon, *What We Owe to Each Other* (1998) |
 
 ## Every quotation, by topic
 
