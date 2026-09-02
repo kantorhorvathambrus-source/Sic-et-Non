@@ -66,8 +66,54 @@
           "counter": {
             "objection": "The premise is doing all the work and it is the disputed one. 'Uniform experience' of coded information is uniform experience of human artefacts, and of nothing else — the sample is one species over a few thousand years. Extending it to a case four billion years old, in conditions nobody has observed, is not induction but assumption. And the arbitrariness of the genetic code is itself under investigation: several of its assignments track the chemistry of the amino acids they name, which is what you would expect if the mapping grew rather than being assigned.",
             "objectionFrom": "atheist",
-            "response": "That a sample is limited is a reason for caution, not a reason to prefer the alternative, which has no positive instances at all. Nobody has watched unguided chemistry write a code either."
-          }
+            "response": "That a sample is limited is a reason for caution, not a reason to prefer the alternative, which has no positive instances at all. Nobody has watched unguided chemistry write a code either.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "evolutionary-creation",
+              "label": "Evolutionary creation",
+              "heldBy": "Francis Collins and BioLogos; Denis Alexander; the mainstream position in Catholic and Anglican theology",
+              "oneLine": "God is the author of the whole process, including whatever chemistry produced the first cell — so the origin of life is a scientific problem, not evidence for him.",
+              "summary": "This position holds everything the design inference holds about God and almost nothing it holds about method. Creation is not a series of interventions but the existence and lawfulness of the whole system, so a natural route from chemistry to life would not be a defeat for theism; it would be a description of how God did it.\n\nCollins is explicit that the opposite strategy is dangerous, and he applies the warning to intelligent design by name. Faith attached to a currently unsolved problem inherits that problem's fate.",
+              "quote": {
+                "text": "Faith that places God in the gaps of current understanding about the natural world may be headed for crisis if advances in science subsequently fill those gaps.",
+                "author": "Francis S. Collins",
+                "work": "The Language of God: A Scientist Presents Evidence for Belief",
+                "year": "2006",
+                "sourceUrl": "https://en.wikipedia.org/wiki/Francis_Collins",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above cannot start, because this position makes no inference from information to a designer. Telling it that our uniform experience of codes is uniform experience of human artefacts is telling it something it already grants and has no use for: it is not arguing from the code at all.",
+              "objection": {
+                "text": "If God acts entirely through natural causes at the origin of life, then nothing about the origin of life is evidence of him, and the position is empirically indistinguishable from the naturalism it is contrasted with. Intelligent design proponents press this as an abdication; atheists press it as a concession. Both are asking the same question — what work is God doing here that could ever be noticed?",
+                "from": "both",
+                "response": "Indistinguishable within chemistry, which is the only place the comparison is being run. The claim was never that God is one cause among the chemical ones, and a doctrine of creation that required him to be would be the weaker one."
+              }
+            },
+            {
+              "id": "young-earth-creation",
+              "label": "Direct creation, recently",
+              "heldBy": "Answers in Genesis; Ken Ham; the Institute for Creation Research",
+              "oneLine": "Life did not arise from chemistry at all: living kinds were made directly, within the last ten thousand years, and the law of biogenesis says so.",
+              "summary": "The strongest form of the theist side, and the one that concedes least. It does not argue that a designer is the best explanation of a chemical difficulty; it denies there was a chemical episode to explain. The scientific argument offered is the law of biogenesis — that life has never been observed to come from non-life — treated not as a summary of current experience but as a standing law with a named author.\n\nIt is set out here at its own strength rather than through a critic, and its constituency is large: this is what a substantial minority of American Christians are taught.",
+              "quote": {
+                "text": "Life only comes from life. This was the law established by the Author of Life, Who is the Way, the Truth, and the Life—Jesus Christ.",
+                "author": "Answers in Genesis",
+                "work": "Life from Life… or Not?",
+                "year": "2018",
+                "sourceUrl": "https://answersingenesis.org/origin-of-life/life-from-life-or-not/",
+                "verification": "corroborated"
+              },
+              "againstSettledCore": "This conflicts with the settled core of topic 6, which is not a matter of dispute among biologists and geologists: living species descend with modification from shared ancestors, and the Earth is about 4.5 billion years old. The dating is established independently by radiometric methods, ice cores, varves, coral growth bands and starlight travel time, and no result in any of those fields supports a recent creation. The position is printed here at full strength because it is genuinely held and because paraphrasing it through its critics would be the mistake this site was built to avoid — and marked because printing it unmarked would be the other one.",
+              "changesTheObjection": "The objection above is aimed at an inference this position does not make. It is not reasoning from the improbability of a sequence to a mind; it is denying that any prebiotic sequence occurred, on the authority of a text. An argument about the limits of induction from human artefacts has nothing to engage.",
+              "objection": {
+                "text": "The law of biogenesis is a generalisation from observation, not a law with modal force, and it is being asked to do work no empirical generalisation can do: rule out an event nobody was present for. Old-earth and evolutionary creationists object on the same ground as geologists — that the position requires the independent dating methods to be wrong in a coordinated way nobody has explained — and add a theological objection, that hanging the faith on a claim the evidence contradicts sets a young believer up to lose both at once.",
+                "from": "both",
+                "response": "The dating methods rest on assumptions about initial conditions and constant rates that cannot themselves be observed, and Scripture is a better-attested witness to origins than an extrapolation is."
+              }
+            }
+          ]
         },
         {
           "id": "the-size-of-the-search",
@@ -109,25 +155,50 @@
           "counter": {
             "objection": "A gradient is energy, and energy is not the problem. Ice on a hillside has a gradient. What has to be explained is a system that harnesses one to build and copy itself, and the distance between a mineral pore doing chemistry and a cell running a metabolism is exactly the distance in question. Naming a plausible location is not the same as demonstrating a route.",
             "objectionFrom": "theist",
-            "response": "It is not only a location. The claim is that the specific mechanism modern cells use is present in the environment before any cell exists, which is a testable prediction rather than a hope, and reactors built to test it have produced organic molecules from carbon dioxide and hydrogen."
-          }
+            "response": "It is not only a location. The claim is that the specific mechanism modern cells use is present in the environment before any cell exists, which is a testable prediction rather than a hope, and reactors built to test it have produced organic molecules from carbon dioxide and hydrogen.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "replication-first",
+              "label": "Replication first",
+              "heldBy": "John Sutherland, Matthew Powner; Jack Szostak; Gerald Joyce",
+              "oneLine": "What had to come first was a molecule that copies itself, and the chemistry for making its parts is being built step by step in the laboratory.",
+              "summary": "The other half of the field, and it disagrees with the vent hypothesis about what the first thing was. On this account life begins when something starts copying itself with errors, because that is the point at which selection can start; metabolism follows.\n\nThe programme is synthetic rather than geological: rather than looking for a place where the chemistry could have happened, it works out routes by which the molecules could have been made, and it has dissolved objections that stood for decades. The standard complaint against the [[RNA world]] was that its building blocks could not be made — ribose is hard to form selectively, and joining a base to a sugar does not work for the pyrimidines RNA uses. Sutherland's group answered it by finding a route that never produces free ribose or a free base at all.",
+              "quote": {
+                "text": "activated pyrimidine ribonucleotides can be formed in a short sequence that bypasses free ribose and the nucleobases, and instead proceeds through arabinose amino-oxazoline and anhydronucleoside intermediates",
+                "author": "Matthew Powner, Béatrice Gerland and John Sutherland",
+                "work": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions, Nature 459",
+                "year": "2009",
+                "sourceUrl": "https://www.nature.com/articles/nature08013",
+                "verification": "corroborated"
+              },
+              "changesTheObjection": "The objection above is that a gradient is only energy, and that naming a plausible location is not demonstrating a route. This programme is not naming a location. It is building routes, in reagents and steps, and can be argued with on the chemistry rather than on the geology — which is a different conversation with different evidence in it.",
+              "objection": {
+                "text": "A chemist choosing reagents in a chosen order is doing what an unattended planet does not. Each synthesis is real, and each is also a demonstration that the step is possible under conditions someone selected, which is why the field's own name for the difficulty is the water problem and the concentration problem rather than the impossibility problem.",
+                "from": "theist",
+                "response": "The conditions in these syntheses are chosen to be ones an early Earth plausibly supplied — wet-dry cycles, ultraviolet light, cyanide chemistry from impacts — and arguing about whether they were available is arguing about geology, which is progress."
+              }
+            }
+          ]
         },
         {
-          "id": "steps-once-called-impossible",
-          "claim": "Steps declared chemically impossible have kept turning out to be possible",
-          "explanation": "For decades the standard objection to the [[RNA world]] was that its building blocks could not be made. Ribose is hard to form selectively; joining a base to a sugar is inefficient for purines and simply does not happen for the pyrimidines used in RNA. That was not an exaggeration by opponents, it was the state of the field.\n\nJohn Sutherland's group dissolved the objection by refusing its terms. Rather than making the parts and joining them, they found a route that never produces free ribose or a free base at all, assembling the finished nucleotide through different intermediates. The lesson is about the shape of these arguments: the impossibility was in the assumed pathway, not in the chemistry.",
+          "id": "the-field-names-its-own-paradoxes",
+          "claim": "The hardest problems are stated in the field’s own literature, in its own words, and worked on",
+          "explanation": "A field in denial does not publish its difficulties under the heading 'paradoxes'. Steven Benner's paper does exactly that, and the sharpest of them is not one an outsider raised.\n\nLeave organic chemistry running with energy and it does not tend towards life. It tends towards tar: heterogeneous, intractable mixtures that go nowhere. That is a general result across an enormous amount of experimental work, and it is a problem for every route including the ones argued for above. Benner's argument is methodological — that the way to make progress on origins is to name the paradoxes precisely enough to design experiments against them — and the state of the field is that this is being done in print rather than managed in public.",
           "quote": {
-            "text": "activated pyrimidine ribonucleotides can be formed in a short sequence that bypasses free ribose and the nucleobases, and instead proceeds through arabinose amino-oxazoline and anhydronucleoside intermediates",
-            "author": "Matthew Powner, Béatrice Gerland and John Sutherland",
-            "work": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions, Nature 459",
-            "year": "2009",
-            "sourceUrl": "https://www.nature.com/articles/nature08013",
+            "text": "An enormous amount of empirical data have established, as a rule, that organic systems, given energy and left to themselves, devolve to give uselessly complex mixtures, 'asphalts'",
+            "author": "Steven A. Benner",
+            "work": "Paradoxes in the Origin of Life, Origins of Life and Evolution of Biospheres 44",
+            "year": "2014",
+            "locator": "the asphalt paradox, one of several the paper sets out",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25608919/",
             "verification": "corroborated"
           },
           "counter": {
-            "objection": "One step is not the sequence. The synthesis needs particular reagents in a particular order under conditions a chemist chose, which is what a chemist is for, and the question is whether an unattended planet does the same. Solving a step everyone agreed was hard is real progress and it also moves the difficulty rather than removing it: the sequence problem, the assembly problem and the copying problem are still there.",
+            "objection": "Naming a problem is not solving it, and the honesty is being offered as though it were progress. The asphalt paradox is precisely what the design argument predicts: undirected chemistry with energy in it produces mess, and the exceptions are the cases where a chemist supplied the direction. A field that has been candid about this for a decade and has not resolved it is evidence that the difficulty is structural rather than temporary.",
             "objectionFrom": "theist",
-            "response": "True, and the field says so. The claim is not that the problem is solved but that its supposed impossibilities have a poor record, having been stated with confidence three times and dissolved three times."
+            "response": "Structural difficulties get solved too, and the asphalt paradox already has candidate answers — mineral surfaces, wet-dry cycling, systems chemistry that selects rather than accumulates. Whether they work is an experimental question, which is the position a problem is in when it is being worked on rather than declared closed."
           }
         }
       ]
@@ -151,7 +222,7 @@
       "author": "Stephen C. Meyer",
       "year": "2021",
       "url": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
-      "note": "The design inference from biological information. Linked here to a critical discussion that quotes it, because BioLogos states the Christian objection on the same page."
+      "note": "The design inference from biological information. Linked to a critical discussion that quotes it, because BioLogos states the Christian objection on the same page."
     },
     {
       "title": "Estimating the prevalence of protein sequences adopting functional enzyme folds",
@@ -161,11 +232,25 @@
       "note": "The peer-reviewed source of the rarity estimate Axe restates for general readers in Undeniable (2016)."
     },
     {
+      "title": "The Language of God: A Scientist Presents Evidence for Belief",
+      "author": "Francis S. Collins",
+      "year": "2006",
+      "url": "https://en.wikipedia.org/wiki/Francis_Collins",
+      "note": "The evolutionary creation position, including the warning against arguing from gaps."
+    },
+    {
+      "title": "Life from Life… or Not?",
+      "author": "Answers in Genesis",
+      "year": "2018",
+      "url": "https://answersingenesis.org/origin-of-life/life-from-life-or-not/",
+      "note": "The young-earth position on the origin of life, in its own words."
+    },
+    {
       "title": "The Origin of Life in Alkaline Hydrothermal Vents",
       "author": "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí and Nick Lane",
       "year": "2016",
       "url": "https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf",
-      "note": "The vent hypothesis stated by the group that argues for it."
+      "note": "The metabolism-first case, stated by the group that argues for it."
     },
     {
       "title": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions",
@@ -173,6 +258,13 @@
       "year": "2009",
       "url": "https://www.nature.com/articles/nature08013",
       "note": "The paper that dissolved the standard objection to the RNA world by bypassing its assumed pathway."
+    },
+    {
+      "title": "Paradoxes in the Origin of Life",
+      "author": "Steven A. Benner",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25608919/",
+      "note": "The field stating its own hardest problems, including the asphalt paradox."
     },
     {
       "title": "Evolution and the Origin of Biological Information",

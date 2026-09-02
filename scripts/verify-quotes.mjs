@@ -167,10 +167,32 @@ for (const full of files) {
       seenIds.add(argument.id);
 
       checkTerms(file, `${base}.explanation`, argument.explanation ?? '', glossary, usedTerms);
+
+      // Variants carry prose, and a term marked up only inside one was being
+      // reported as unused -- the same enumerate failure as the reading time and
+      // the verification sheet, in a third place.
+      for (const [v, item] of (argument.variants ?? []).entries()) {
+        const vbase = `${base}.variants[${v}]`;
+        checkTerms(file, `${vbase}.oneLine`, item.oneLine ?? '', glossary, usedTerms);
+        checkTerms(file, `${vbase}.summary`, item.summary ?? '', glossary, usedTerms);
+        checkTerms(file, `${vbase}.changesTheObjection`, item.changesTheObjection ?? '', glossary, usedTerms);
+        if (item.againstSettledCore) {
+          checkTerms(file, `${vbase}.againstSettledCore`, item.againstSettledCore, glossary, usedTerms);
+        }
+        if (item.objection) {
+          checkTerms(file, `${vbase}.objection.text`, item.objection.text ?? '', glossary, usedTerms);
+          if (item.objection.response) {
+            checkTerms(file, `${vbase}.objection.response`, item.objection.response, glossary, usedTerms);
+          }
+        }
+      }
       if (argument.quote) checkQuote(file, `${base}.quote`, argument.quote);
 
       if (argument.counter) {
         checkTerms(file, `${base}.counter.objection`, argument.counter.objection ?? '', glossary, usedTerms);
+        if (argument.counter.sharedPremise) {
+          checkTerms(file, `${base}.counter.sharedPremise`, argument.counter.sharedPremise, glossary, usedTerms);
+        }
         if (argument.counter.response) {
           checkTerms(file, `${base}.counter.response`, argument.counter.response, glossary, usedTerms);
         }
