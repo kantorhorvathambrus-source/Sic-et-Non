@@ -80,7 +80,7 @@
   "quote.verification.corroborated": "Corroborée",
   "quote.verification.corroborated.note": "Formulation confirmée par plusieurs sources indépendantes, mais pas encore lue dans l'original.",
   "quote.verification.paraphrase": "Paraphrase",
-  "quote.verification.paraphrase.note": "Ce n'est pas une citation littérale. La formulation exacte n'a pas pu être vérifiée ; nous rendons donc l'idée de l'auteur avec nos mots.",
+  "quote.verification.paraphrase.note": "Ce n'est pas une citation. C'est notre résumé de la position, dans nos mots, et la formulation n'a pas été vérifiée sur la source.",
   "topic.expandAll": "Tout déplier",
   "topic.collapseAll": "Tout replier",
   "topic.readingTime.layered": "{summary} min, ou {full} min en entier",

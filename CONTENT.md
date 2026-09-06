@@ -129,6 +129,52 @@ The common thread is that each failure passes every mechanical check and produce
 a page that looks balanced. Only reading the page as an opponent would catches
 them.
 
+## Two tests for a paraphrase, not one
+
+The `paraphrase` level answers one question: **is this accurate?** It does not
+answer the other one, and the label that tells the reader does nothing at all
+for the person named.
+
+**The second test: would this person object to being associated with this
+claim?**
+
+Apply it separately, and apply it before the accuracy question, because a
+paraphrase can be a fair reading of a position and still be something its author
+would refuse. The distinction that matters:
+
+- **A sympathetic statement of the person's own position** is low risk. If we
+  have read them badly, they would say we misunderstood — an ordinary
+  disagreement, and the label invites the reader to check.
+- **A charge the person is said to make about a third party** is a different
+  kind of thing entirely. Here our sentence becomes their accusation, and if it
+  is not close to what they argue, we have not misread them: we have
+  misrepresented a named living person, in public, on a page about honesty.
+
+*Caught on topic 11.* An argument was attributed to Wes Morriston in our words —
+that the Christian readings of the conquest texts "arrive in the order the
+pressure is applied" and exhibit "accommodation rather than discovery". That is
+a charge of bad faith against a field, under a living philosopher's name. Worse
+than a bad paraphrase: the source was a Sophia paper nobody here had read. All
+that existed was a title and a citation from a search result listing, and the
+argument was written out of the title.
+
+The label protected the reader and did nothing for him. It has been removed, and
+the argument now stands unattributed and says on the page why.
+
+**The rule that follows.** Never paraphrase an accusation under a real name. If
+the argument is worth printing and no quotable version can be found, print it
+unattributed as the standard objection it is, say on the page that this is what
+has been done, cite the person only for what can actually be quoted, and put the
+quotable version on the candidates list. An argument with no voice is a weaker
+page. An invented voice is a different kind of thing.
+
+**Two mechanical guards, since the judgement cannot be mechanised.** A
+paraphrase's `locator` must state in words that the wording is ours — enforced,
+and two paraphrases had shipped without one. And the reader-facing label no
+longer claims to state "the writer's point"; it says it is our summary of the
+position and has not been checked against the source, because claiming to have
+captured someone's point is the assumption that failed here.
+
 ## Enumerate exhaustively, then cut
 
 **Never stop at the first item that satisfies a slot.** List everything that
@@ -342,6 +388,7 @@ the reason is recorded, and the two reasons are recorded differently.
 | Topic | Position | Constituency | What is needed |
 |---|---|---|---|
 | 10 | Constructivism | Christine Korsgaard, *The Sources of Normativity* (1996); T.M. Scanlon, *What We Owe to Each Other* (1998) | A verbatim from either. Both are among the most-cited books in modern moral philosophy; nothing about them is obscure. |
+| 11 | A quotable version of the incompatible-readings objection, so the second atheist argument stops being unattributed | Randal Rauser, *Jesus Loves the Canaanites* (2021); the Bergmann, Murray and Rea volume *Divine Evil?* (2011), where Louise Antony and Evan Fales have chapters | Any verbatim making the objection. Note Rauser argues it as a Christian, so he would be a `within` objection rather than the atheist argument. |
 
 *Cut on the merits, for contrast, so the difference stays visible:* theistic
 Platonism on topic 10, because Adams holds it alongside modified divine command

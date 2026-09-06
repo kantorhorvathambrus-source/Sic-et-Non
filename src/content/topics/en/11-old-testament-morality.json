@@ -183,22 +183,13 @@
           }
         },
         {
-          "id": "readings-that-arrive-on-schedule",
-          "claim": "Every one of these readings appeared after the objection, and each appears when the previous one fails",
-          "explanation": "This argument is about the pattern rather than about any single reading. Hyperbole, accommodation, the cruciform thesis and judgement are all set out above, and they are mutually inconsistent — the text either records a real command or it does not.\n\nWhat they have in common is timing. None was the standard reading before the modern moral objection became forceful, and each becomes prominent as the one before it draws fire. A set of explanations that can absorb any result, and that arrives in the order pressure is applied, is behaving the way a rationalisation behaves rather than the way a discovery does.",
-          "quote": {
-            "text": "The proposed readings are inconsistent with one another and none was the dominant reading before the modern moral objection; a family of explanations that arrives in the order the pressure is applied is exhibiting accommodation rather than discovery.",
-            "author": "Wes Morriston",
-            "work": "Ethical Criticism of the Bible: The Case of Divinely Mandated Genocide, Sophia 51(1)",
-            "year": "2012",
-            "locator": "our summary of the objection Morriston presses against the standard replies; not his wording",
-            "sourceUrl": "https://philpapers.org/rec/MORDGC",
-            "verification": "paraphrase"
-          },
+          "id": "the-readings-are-incompatible",
+          "claim": "The four readings cannot all be right, and each is rejected by the defenders of the others",
+          "explanation": "This argument is stated here without an attribution, and the reason is worth saying plainly: it is the standard objection, it is made constantly, and we could not find a version of it we were able to quote. Rather than put our wording in a named philosopher's mouth, it is set out in our own.\n\nThe observation is one a reader can check against this page. Four readings of the conquest texts appear above. They are not shades of one view: the hyperbole reading says the commands were real and conventionally exaggerated, the accommodation reading says they were not commands at all, the cruciform reading says they were real and are a revelation of God bearing misrepresentation, and the judgement reading says they were real, meant, and just. At most one of these is true, and each is rejected in print by the defenders of the others.\n\nWhat follows is narrower than the version usually pressed. It is not a claim about anyone's motives. It is that a defender who answers one objection with hyperbole and the next with accommodation has not moved between two compatible defences; they have changed position, and the reader is owed a statement of which one is held.",
           "counter": {
-            "objection": "The dates do not support the claim. Origen read these passages non-literally in the third century, and the [[accommodation]] principle is in Calvin — both long before Enlightenment moral criticism. That new readings appear when a question becomes pressing is also how every field works, including this objection, which is itself a modern development of a much older complaint. Timing tells you when people started looking, not whether they found anything.",
+            "objection": "Incompatible answers to a hard question are what a live field looks like, not evidence against any of them. Physicists hold incompatible interpretations of quantum mechanics; that a defender of one rejects the others is how disagreement works, and it tells you nothing about whether one is right. The argument also asks for something no interpretive tradition provides: readers do move between readings while making up their minds, and a demand that everyone declare a fixed position before speaking would be a strange rule to apply here and nowhere else.",
             "objectionFrom": "theist",
-            "response": "Origen allegorised most of the Old Testament, so his reading of these texts is not evidence of a moral scruple about them in particular. The readings above are recognisably twentieth-century, and their proponents say so."
+            "response": "The parallel would hold if the readings were being offered as competing hypotheses to be tested. They are being offered as answers to an objection, one at a time, by the same people — and that is the specific practice the argument is about, not the existence of disagreement."
           }
         }
       ]
@@ -275,11 +266,11 @@
       "note": "Reviewed in The Bible and Critical Theory, which states the thesis and the objections to it."
     },
     {
-      "title": "Ethical Criticism of the Bible: The Case of Divinely Mandated Genocide",
-      "author": "Wes Morriston",
-      "year": "2012",
-      "url": "https://philpapers.org/rec/MORDGC",
-      "note": "Morriston's replies to the standard defences, including the ones set out above."
+      "title": "Jesus Loves the Canaanites: Biblical Genocide in the Light of Moral Intuition",
+      "author": "Randal Rauser",
+      "year": "2021",
+      "url": "https://randalrauser.com/2022/10/debating-the-canaanite-genocide-with-paul-copan/",
+      "note": "A book-length Christian critique of the hyperbole and just-war readings. Listed because it is where a quotable version of the second argument above is most likely to be found; see VERIFICATION.md."
     }
   ]
 }

@@ -327,6 +327,40 @@ const topics = defineCollection({
       const fail = (path: (string | number)[], message: string) =>
         ctx.addIssue({ code: z.ZodIssueCode.custom, path, message });
 
+      // A paraphrase puts our sentence under a real person's name. The label
+      // tells the reader; the locator is what tells anyone reading the source
+      // files, and two paraphrases shipped without one. Requiring it is cheap
+      // and it forces the author to write the disclaimer out rather than assume
+      // the level carries it.
+      const DISCLAIMER = /\bnot\b[^.]*\b(wording|words)\b|\bour\b[^.]*\b(summary|words|wording|statement|paraphrase)\b/i;
+      const paraphrases: { path: (string | number)[]; quote: { verification: string; locator?: string; author: string } }[] = [];
+      topic.sides.forEach((sideValue, s) =>
+        sideValue.arguments.forEach((arg, a) => {
+          if (arg.quote) paraphrases.push({ path: ['sides', s, 'arguments', a, 'quote'], quote: arg.quote });
+          if (arg.counter?.quote) {
+            paraphrases.push({ path: ['sides', s, 'arguments', a, 'counter', 'quote'], quote: arg.counter.quote });
+          }
+          (arg.variants ?? []).forEach((v, i) => {
+            paraphrases.push({ path: ['sides', s, 'arguments', a, 'variants', i, 'quote'], quote: v.quote });
+            if (v.objection?.quote) {
+              paraphrases.push({ path: ['sides', s, 'arguments', a, 'variants', i, 'objection', 'quote'], quote: v.objection.quote });
+            }
+          });
+        }),
+      );
+      (topic.notes ?? []).forEach((n, i) => {
+        if (n.quote) paraphrases.push({ path: ['notes', i, 'quote'], quote: n.quote });
+      });
+      for (const { path, quote: q } of paraphrases) {
+        if (q.verification !== 'paraphrase') continue;
+        if (!q.locator || !DISCLAIMER.test(q.locator)) {
+          fail(
+            path,
+            `this is a paraphrase attributed to ${q.author}, so its locator must say in words that the wording is ours and not theirs. A reader may miss the label; the source file should not be able to.`,
+          );
+        }
+      }
+
       if (topic.status === 'settled-core' && !topic.settledCore) {
         fail(
           ['settledCore'],

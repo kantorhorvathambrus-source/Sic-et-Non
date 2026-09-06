@@ -80,7 +80,7 @@
   "quote.verification.corroborated": "Bestätigt",
   "quote.verification.corroborated.note": "Wortlaut durch mehrere unabhängige Quellen bestätigt, aber noch nicht im Original gelesen.",
   "quote.verification.paraphrase": "Paraphrase",
-  "quote.verification.paraphrase.note": "Kein wörtliches Zitat. Der genaue Wortlaut ließ sich nicht bestätigen, deshalb geben wir den Gedanken mit unseren Worten wieder.",
+  "quote.verification.paraphrase.note": "Kein wörtliches Zitat. Dies ist unsere Zusammenfassung der Position, in unseren Worten, und der Wortlaut wurde nicht an der Quelle geprüft.",
   "topic.expandAll": "Alle aufklappen",
   "topic.collapseAll": "Alle zuklappen",
   "topic.readingTime.layered": "{summary} Min., vollständig {full} Min.",

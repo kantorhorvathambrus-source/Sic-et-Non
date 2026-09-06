@@ -139,6 +139,9 @@ lines.push('');
   // Match on the surname anywhere in the author string: these are written
   // "J. L. Schellenberg", so startsWith on the surname finds nothing.
   const WORST_FIRST = ['Schellenberg', 'Carroll', 'Linville', "O'Connor"];
+  // Morriston is no longer in this list: the paraphrase attributed to him was an
+  // accusation we could not source, and it has been removed from the page rather
+  // than queued for checking. See CONTENT.md, "Two tests for a paraphrase".
   const rank = (author) => {
     const i = WORST_FIRST.findIndex((name) => author.includes(name));
     return i === -1 ? WORST_FIRST.length : i;

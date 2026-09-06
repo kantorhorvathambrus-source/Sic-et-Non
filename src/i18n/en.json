@@ -80,7 +80,7 @@
   "quote.verification.corroborated": "Corroborated",
   "quote.verification.corroborated.note": "Wording confirmed across several independent sources, but not yet read in the original.",
   "quote.verification.paraphrase": "Paraphrase",
-  "quote.verification.paraphrase.note": "Not a direct quotation. The exact wording could not be confirmed, so this states the writer's point in our words.",
+  "quote.verification.paraphrase.note": "Not a direct quotation. This is our summary of the position, in our words, and the wording has not been checked against the source.",
   "topic.expandAll": "Expand all",
   "topic.collapseAll": "Collapse all",
   "topic.readingTime.layered": "{summary} min, or {full} min in full",

@@ -5,9 +5,7 @@
   "title": "If God wants to be known, why is he hidden?",
   "category": "existence-of-god",
   "status": "open",
-
   "realQuestion": "Christianity claims that God wants a relationship with every person. It is hard to have a relationship with someone whose existence you are not sure of.\n\nSo there is a puzzle in the shape of the world. If a loving God exists and wants to be known, the evidence of his existence should be at least clear enough for anyone honestly looking to find him. Instead, sincere people look and come up empty, and whole cultures have gone their entire history without hearing anything about him.\n\nThe modern version of this argument is careful about who it is talking about. It is not about people who do not want God to exist, or who have never asked. It is about people who are open, who have looked, and who still do not believe. That such people exist is not seriously disputed. What that fact shows is.",
-
   "distinctions": [
     {
       "label": "Why doesn't God prove himself to sceptics?",
@@ -25,7 +23,6 @@
       "activeHere": false
     }
   ],
-
   "glossary": [
     {
       "term": "nonresistant nonbelief",
@@ -40,7 +37,6 @@
       "definition": "A theme inside the Bible long before it was an argument against it. The psalms ask where God has gone; Isaiah calls him a God who hides himself."
     }
   ],
-
   "sides": [
     {
       "label": "A God who wanted to be known would be easier to find",
@@ -73,6 +69,7 @@
             "author": "J. L. Schellenberg",
             "work": "Divine Hiddenness and Human Reason",
             "year": "1993",
+            "locator": "our summary of the hiddenness argument as Schellenberg sets it out; not his wording",
             "sourceUrl": "https://philpapers.org/rec/SCHDHA",
             "verification": "paraphrase"
           },
@@ -125,24 +122,50 @@
       ]
     }
   ],
-
   "notes": [
     {
       "heading": "The Bible got here first",
       "text": "It is worth knowing, on both sides, that [[the hiddenness of God]] is not an objection invented by critics. It is a theme inside the texts.\n\nThe psalms ask how long God will hide his face. Isaiah addresses him directly as a God who hides himself. Job's complaint is not that God is unjust in the abstract but that he will not show up and answer. And the sentence the Gospels put in Jesus's mouth at the crucifixion is a quotation from Psalm 22: my God, why have you forsaken me.\n\nThis does not settle anything. It does mean that a Christian who finds God absent is in a position the tradition has language for, and that an atheist presenting hiddenness as a fact Christianity has failed to notice is presenting it to people who have been writing about it for three thousand years."
     }
   ],
-
   "whereItStands": "This is the argument that has moved most in the last thirty years. Before Schellenberg it was a mood; now it is a formal argument in the literature, and it is generally reckoned the strongest case against theism after the problem of suffering.\n\nThe two sides have narrowed to a real disagreement rather than a misunderstanding. Nobody now argues that God should prove himself to people who are refusing. The dispute is about whether a loving God could have reasons for remaining hidden from someone who is not refusing — and about whether the reasons offered, which are mostly about freedom and the timing of a relationship, are enough to cover the cases that actually occur.\n\nWhere it lands depends on something not itself decidable here: how confident you are that you can tell what a loving God would do. The atheist argument needs that confidence, and the main theist reply is that we do not have it — which is the same move made against the problem of suffering, and carries the same cost. If we cannot judge what love would look like, we lose most of our grip on what we were arguing about.",
-
   "commonMistake": "Atheists most often argue the version about proof — why doesn't God write it in the sky — which invites the free-response reply and loses the argument that actually works. The strong form is not about proof at all; it is about people who are already reaching.\n\nChristians most often answer with the free-will reply and stop there, without noticing that it addresses compulsion rather than distribution. It says nothing about the person who spent a decade praying to be shown something, and nothing at all about the millions who never heard the claim.\n\nAnd both sides tend to argue about a generic seeker while the real force of the topic is in particular cases. Whatever is said here should be sayable to someone who prayed for years and got nothing, because that person is who the argument is about.",
-
   "sources": [
-    { "title": "Daybreak: Thoughts on the Prejudices of Morality", "author": "Friedrich Nietzsche", "year": "1881", "url": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt", "note": "§91 is titled 'God's honesty'." },
-    { "title": "Divine Hiddenness and Human Reason", "author": "J. L. Schellenberg", "year": "1993", "url": "https://philpapers.org/rec/SCHDHA", "note": "The argument on this page is summarised rather than quoted; the summary is labelled a paraphrase." },
-    { "title": "Pensées, tr. W. F. Trotter", "author": "Blaise Pascal", "year": "1670", "url": "https://www.ccel.org/ccel/pascal/pensees.viii.html" },
-    { "title": "The Screwtape Letters", "author": "C. S. Lewis", "year": "1942", "url": "https://en.wikipedia.org/wiki/The_Screwtape_Letters" },
-    { "title": "The Hiddenness of God", "author": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/entries/divine-hiddenness/" },
-    { "title": "Divine Hiddenness Argument against God's Existence", "author": "Internet Encyclopedia of Philosophy", "url": "https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/" }
+    {
+      "title": "Daybreak: Thoughts on the Prejudices of Morality",
+      "author": "Friedrich Nietzsche",
+      "year": "1881",
+      "url": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
+      "note": "§91 is titled 'God's honesty'."
+    },
+    {
+      "title": "Divine Hiddenness and Human Reason",
+      "author": "J. L. Schellenberg",
+      "year": "1993",
+      "url": "https://philpapers.org/rec/SCHDHA",
+      "note": "The argument on this page is summarised rather than quoted; the summary is labelled a paraphrase."
+    },
+    {
+      "title": "Pensées, tr. W. F. Trotter",
+      "author": "Blaise Pascal",
+      "year": "1670",
+      "url": "https://www.ccel.org/ccel/pascal/pensees.viii.html"
+    },
+    {
+      "title": "The Screwtape Letters",
+      "author": "C. S. Lewis",
+      "year": "1942",
+      "url": "https://en.wikipedia.org/wiki/The_Screwtape_Letters"
+    },
+    {
+      "title": "The Hiddenness of God",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/divine-hiddenness/"
+    },
+    {
+      "title": "Divine Hiddenness Argument against God's Existence",
+      "author": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/"
+    }
   ]
 }

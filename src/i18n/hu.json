@@ -80,7 +80,7 @@
   "quote.verification.corroborated": "Megerősítve",
   "quote.verification.corroborated.note": "A szöveget több független forrás megerősíti, de az eredetiben még nem olvastuk el.",
   "quote.verification.paraphrase": "Parafrázis",
-  "quote.verification.paraphrase.note": "Nem szó szerinti idézet. A pontos szöveget nem sikerült ellenőrizni, ezért a szerző gondolatát a saját szavainkkal adjuk vissza.",
+  "quote.verification.paraphrase.note": "Nem szó szerinti idézet. Ez a mi összefoglalónk az álláspontról, a mi szavainkkal, és a megfogalmazás nincs összevetve a forrással.",
   "topic.expandAll": "Mind kinyitása",
   "topic.collapseAll": "Mind bezárása",
   "topic.readingTime.layered": "{summary} perc, teljesen {full} perc",
