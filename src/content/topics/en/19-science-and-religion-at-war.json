@@ -1,0 +1,239 @@
+{
+  "id": "science-and-religion-at-war",
+  "number": 19,
+  "slug": "science-and-religion-at-war",
+  "title": "Are science and religion at war?",
+  "category": "faith-and-society",
+  "status": "settled-core",
+  "settledCore": "The historical claim is settled, and it is settled against the war.\n\nThe idea that science and religion have been in perpetual conflict is not an old observation but a Victorian thesis, argued by John William Draper in 1874 and Andrew Dickson White in 1896, and it has been rejected by historians of science for half a century. The set-piece episodes it rests on do not survive the archives: medieval Europe did not think the earth was flat, the Church did not ban human dissection, Galileo was not tortured or imprisoned in a dungeon, and Bruno was not executed for Copernicanism.\n\nWhat follows from it is narrower than either side usually wants. It establishes that the popular history is wrong. It does not establish that the two enterprises are compatible now, which is what the two sides below are actually arguing about.",
+  "realQuestion": "Almost everything said about this topic in public is about the history, and the history is over. So the useful question is the one left standing after it.\n\nGranting that there was no war — that the episodes are myths or distortions, that a great deal of early science was done by clergy, that the institutions funded observatories and universities — is there nonetheless an incompatibility now, at the level of method? Not 'have the practitioners fought', but 'can the two ways of settling a question be held together by someone who understands both'.\n\nThat question is live, it is philosophical rather than historical, and the people arguing it are not the people who argue about Galileo. One side says the two are answering different questions with different tools and that the appearance of conflict comes from a category error. The other says they are answering the same questions with incompatible tools, and that the division of labour is a truce drawn after one side had already lost the disputed ground.",
+  "distinctions": [
+    {
+      "label": "Was there a historical war?",
+      "gloss": "No, and this is not in dispute between the sides here. Stated above rather than argued below, because arguing it would spend two slots on a question historians closed.",
+      "activeHere": false
+    },
+    {
+      "label": "Do particular claims conflict?",
+      "gloss": "Sometimes, and where they do it is argued on the page for that claim rather than here — evolution, the mind, miracles. Collecting them into a general verdict is the move this page is about.",
+      "activeHere": false
+    },
+    {
+      "label": "Are the methods compatible?",
+      "gloss": "The live question. It is about what counts as a reason, what makes a belief revisable, and whether 'different questions' is a real division or a boundary drawn after the fact.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "conflict thesis",
+      "definition": "The Draper-White claim that science and religion are locked in permanent, structural warfare. Rejected by historians of science, and distinct from any claim about present-day compatibility."
+    },
+    {
+      "term": "methodological naturalism",
+      "definition": "The working rule that scientific explanations appeal only to natural causes. A rule about procedure, not a claim that nothing else exists — though whether it can stay that way is part of what is argued here."
+    },
+    {
+      "term": "magisterium",
+      "definition": "A domain of teaching authority. Gould borrowed the word from Catholic usage to argue that science and religion hold two of them and that they do not overlap."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Different questions, different tools, and no collision",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "different-questions",
+          "claim": "There is no experiment that bears on what anything is for, and no scripture that fixes a decay rate.",
+          "explanation": "The sciences answer a particular kind of question: what is there, what is it made of, how does it behave, what will it do next. The methods are built for exactly that and are unmatched at it.\n\nThe questions religion is about are of a different kind: whether anything matters, what a person owes, what a life is for, how to face dying. No measurement bears on them, which is why no scientific result has ever settled one, and why no amount of further research will. Conversely no religious text has ever fixed the value of a physical constant, and where texts have been read as though they did, the reading was a mistake about the text.\n\nCalling this a war requires the two to be competing for the same ground. On this account they are not adjacent claims at all but answers to different questions, and the appearance of conflict comes from taking a statement in one [[magisterium]] as a rival to a statement in the other.",
+          "quote": {
+            "text": "The net of science covers the empirical realm: what is the universe made of (fact) and why does it work this way (theory). The net of religion extends over questions of moral meaning and value.",
+            "author": "Stephen Jay Gould",
+            "work": "Rocks of Ages: Science and the Fullness of Life",
+            "year": "1999",
+            "locator": "the statement of non-overlapping magisteria, first published as an essay in 1997; Gould was an agnostic",
+            "sourceUrl": "https://www.naturalhistorymag.com/picks-from-the-past/13430/nonoverlapping-magisteria",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "theology-made-it-thinkable",
+              "label": "Not merely compatible — one produced the other",
+              "heldBy": "Alfred North Whitehead, and the historians of science who have developed the thesis since",
+              "oneLine": "The conviction that nature is orderly, contingent and intelligible to us was a theological expectation before it was a scientific one, and experimental science is unlikely without it.",
+              "summary": "This is a much stronger claim than peaceful coexistence, and it is historical rather than philosophical.\n\nThe argument is that the working assumptions of early modern science were not obvious and were not universal. That nature is law-governed everywhere rather than capricious; that its laws are contingent, so they have to be found by looking rather than deduced from first principles; and that a finite mind can grasp them — these were the expectations of people who thought the world was made by a rational creator who need not have made it this way. Doing experiments rather than reasoning from essences follows naturally from the second, and it is the step the classical world never took.\n\nThe claim is not that no one else could have got there. It is that the people who did get there were working from that expectation, and said so.",
+              "quote": {
+                "text": "My explanation is that the faith in the possibility of science, generated antecedently to the development of modern scientific theory, is an unconscious derivative from medieval theology.",
+                "author": "Alfred North Whitehead",
+                "work": "Science and the Modern World",
+                "year": "1925",
+                "locator": "the chapter on the origins of modern science",
+                "sourceUrl": "https://www.gutenberg.org/files/68611/68611-h/68611-h.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that the boundary between the two domains was not discovered but drawn, and always in retreat. This position draws no boundary and makes no claim about domains; it is a causal claim about where a set of working assumptions came from. An argument about who conceded what ground has nothing to attach to in a claim about the seventeenth century's intellectual inheritance.",
+              "objection": {
+                "text": "The thesis is much more contested inside the history of science than its popularity outside suggests. Sophisticated mathematical astronomy, optics and medicine developed in settings with quite different theologies and in some with none that fit the description, and the specific causal path — from a doctrine of contingent creation to the practice of experiment — is asserted far more often than it is demonstrated. What the record shows clearly is that Christian belief was the ambient context, which is not the same as its being the cause.",
+                "from": "within",
+                "sharedPremise": "it accepts the whole revisionist historiography that killed the conflict thesis, including the deep involvement of religious institutions in early science, and argues from that same literature that the further causal claim is a different and weaker-supported proposition than the negative one everybody now agrees on",
+                "response": "Ambient context that supplies the specific premises a practice requires, and is cited by the practitioners as supplying them, is the ordinary standard for a causal claim in intellectual history. The objection is right that it is weaker than the negative finding, which is why it is here as a variant and not as the settled core above."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "The boundary is not a discovery about two subject matters; it is a line drawn where the fighting stopped. Religions have made claims about the age of the earth, the origin of species, the causes of disease and the efficacy of prayer, and every one of those was surrendered to the empirical side after it was lost, not before. A division of labour arrived at by successive retreats, in which one party keeps redrawing its own border, is a description of a defeat rather than a principle.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Central Christian doctrine has not moved, and the things surrendered were mostly readings that the tradition's own scholars had contested long before any scientific result arrived — Augustine warned against tying scripture to a cosmology in the fifth century. Distinguishing a doctrine from a popular reading of it is not a retreat; it is the normal work of any interpretive tradition, and every discipline does it. Science has its own version of the same distinction: [[methodological naturalism]] is a rule about what counts as a scientific explanation, not a finding about what exists, and reading it as the second is the same category error running the other way."
+          }
+        },
+        {
+          "id": "practitioners",
+          "claim": "An incompatibility of method would show up in the people executing the methods, and it does not.",
+          "explanation": "The claim on the other side is not about beliefs but about procedures: that the two cannot be held together by anyone who understands both. That is a claim with an observable consequence.\n\nThe largest systematic survey of what scientists at elite American universities actually think found nearly half identifying with a religious tradition, with a further fifth describing themselves as spiritual, and — the more telling finding — no evidence that religious scientists do worse science, avoid particular fields, or experience the tension the conflict picture predicts they must. The population most exposed to the alleged contradiction reports the least of it.\n\nThe inference is modest. It does not show that the two are philosophically compatible; people hold inconsistent things all the time. It shows that the incompatibility, if real, is invisible at the point where it would do damage, which is a fact any account of it has to explain.",
+          "quote": {
+            "text": "Nearly 50 percent of them are religious.",
+            "author": "Elaine Howard Ecklund",
+            "work": "Science vs. Religion: What Scientists Really Think",
+            "year": "2010",
+            "locator": "the study's headline finding, from a survey of nearly 1,700 scientists with 275 follow-up interviews; the wording is the one used on the publisher's page for the book",
+            "sourceUrl": "https://global.oup.com/academic/product/science-vs-religion-9780195392982",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "Compartmentalisation is a well-documented human capacity and is not evidence of coherence. People hold contradictory beliefs comfortably in every domain, and the survey shows that scientists do it too — which is what the argument predicts, not what it denies. The finding is also about a population selected for professional success in institutions with strong norms about what one discusses at work, and the religiosity reported is heavily weighted toward liberal traditions that have already given up the claims in tension.",
+            "objectionFrom": "atheist",
+            "response": "Compartmentalisation is a real phenomenon and it is also the reply that makes the claim untestable: any scientist who is religious is compartmentalising, so no observation could count against. If the incompatibility never surfaces in the practice of the people doing both, it is a claim about the logical relations between propositions, which is a smaller claim than 'at war'."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Same questions, incompatible tools, and a border that has only moved one way",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "different-methods",
+          "claim": "The two settle questions by procedures that give opposite answers about what to do when you are wrong.",
+          "explanation": "The incompatibility is not about subject matter, and framing it that way is what lets the truce look plausible. It is about what counts as a reason.\n\nScience has a procedure for being wrong. Claims are held provisionally, tested against observation, and abandoned when the observation goes the other way; the whole apparatus of controls, replication and peer review exists to make abandonment possible against the wishes of the person who made the claim. Revelation has the opposite structure: the central claims are fixed in advance, the interpretation adjusts, and there is no observation whose occurrence would be accepted as refutation.\n\nTwo enterprises can share a room and still be incompatible in this sense, because the incompatibility is in the norms rather than the topics. And the norms do produce different answers, about the origin of species, the beginning of the universe and the history of a people, which is how we know they are not confined to separate questions.",
+          "quote": {
+            "text": "My claim is this: science and religion are incompatible because they have different methods for getting knowledge about reality, have different ways of assessing the reliability of that knowledge, and, in the end, arrive at conflicting conclusions about the universe.",
+            "author": "Jerry A. Coyne",
+            "work": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+            "year": "2015",
+            "locator": "pp. 83-84",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "god-is-a-hypothesis",
+              "label": "The central claim is itself an empirical one",
+              "heldBy": "Richard Dawkins",
+              "oneLine": "Whether a creative intelligence exists is a question about what is in the universe, which makes it science's business whatever anyone has agreed.",
+              "summary": "This position does not argue that two methods clash. It denies that there are two questions.\n\nA universe made and superintended by an intelligence is a different universe from one that is not, and differences of that kind have consequences that show up somewhere: in the fabric of life, in the answers to prayer, in the historicity of the miracle stories that traditions rest on. On this account the truce survives only because the religious claim has been quietly emptied of content first — and the emptying is not what believers think they are doing when they pray.\n\nThe argument has the merit of taking religion's claims at face value, and it is regularly made by believers themselves when the evidence looks favourable.",
+              "quote": {
+                "text": "The presence or absence of a creative super-intelligence is unequivocally a scientific question, even if it is not in practice — or not yet — a decided one. So also is the truth or falsehood of every one of the miracle stories that religions rely upon to impress multitudes of the faithful.",
+                "author": "Richard Dawkins",
+                "work": "The God Delusion",
+                "year": "2006",
+                "locator": "the chapter arguing against non-overlapping magisteria",
+                "sourceUrl": "https://www.goodreads.com/work/quotes/3044365-the-god-delusion",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The reply above is that the two enterprises answer different questions, so different norms are appropriate to each. This position denies the antecedent rather than the inference: there is one question, about what exists. An objection built on a division of questions cannot be aimed at a position that refuses the division.",
+              "objection": {
+                "text": "A hypothesis earns the name by making differential predictions, and this one makes none that its proponent has produced. What experiment distinguishes a universe made by a God who chose to work through secondary causes from one with no God at all? Without an answer the claim that it is a scientific question is a slogan, and the position ends up asserting that science has jurisdiction over a matter it has no procedure for.",
+                "from": "theist",
+                "response": "Predictions have been offered and have failed, which is the usual fate of a hypothesis: intercessory prayer studies, the specific design claims about the bacterial flagellum and the eye, the historicity of a global flood. That the surviving version of the hypothesis makes no predictions is an observation about how much of it has already been withdrawn."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "The contrast is drawn between science at its best and religion at its worst, and it does not survive being drawn the other way. Scientific fields hold core commitments fixed for decades and adjust the periphery; that is how research programmes work, and the philosophy of science has described it for sixty years. Theology revises too, and has rejected positions under pressure of evidence and argument — geocentrism, monogenism, the young earth — which on the stated criterion should be impossible.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "A research programme that stops making progress is abandoned, and its practitioners agree in advance on what progress would look like. Nothing in theology plays that role: the revisions cited were all forced from outside, over generations, and none was the result of a test the tradition itself had proposed."
+          }
+        },
+        {
+          "id": "one-way-ratchet",
+          "claim": "The territory has been reassigned in one direction for four centuries, and always after the loss.",
+          "explanation": "Claims that were once held as straightforward statements about the world have become, one after another, statements of a different kind. The six days, the flood, the first couple, the fixity of species, disease as affliction, the sun's motion: each was taught literally, defended literally, and then reinterpreted as figurative — in each case after the empirical question had been settled the other way, and never before.\n\nA process with that shape is not a division of labour. If the boundary between the domains were real, it would have been visible in advance, and reinterpretations would happen in both directions; some claim now read as metaphor would occasionally be promoted back to literal fact by new evidence. That has not once occurred.\n\nWhat the pattern predicts is that the remaining religious claims are precisely the ones for which no test exists — which is also the reason the compatibility looks so comfortable from where it now stands.",
+          "quote": {
+            "text": "a recurrent pattern in theology is this: as branches of science — evolutionary biology, geology, history, and archaeology — have disproved scriptural claims one by one, those claims have morphed from literal truths into allegories",
+            "author": "Jerry A. Coyne",
+            "work": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+            "year": "2015",
+            "locator": "on the reinterpretation of scriptural claims",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "The list is of popular readings, not of doctrines, and figurative readings of Genesis are older than any of the sciences that supposedly forced them. Origen in the third century and Augustine in the fifth argued against literal six-day creation on textual grounds, with no geology available to either. The ratchet is real about folk belief and about the nineteenth-century literalism that was itself a reaction to modernity; it is not the history of the tradition's own theology, which was never as literal as the argument needs it to have been.",
+            "objectionFrom": "theist",
+            "response": "The early figurative readings are real and they were minority positions that lost; the tradition taught and enforced the literal readings for most of its history, and disciplined those who did not. That a resource for reinterpretation existed does not change when it was used, and it was used after."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Where the myths came from",
+      "oneLine": "The best-known conflict stories were manufactured in the nineteenth century by two American writers with an institutional argument to win, and the flat-earth one was invented by a novelist.",
+      "text": "Draper's History of the Conflict between Religion and Science (1874) and White's A History of the Warfare of Science with Theology in Christendom (1896) were written in the middle of a fight about who would control the new American research universities. Both were enormously successful, both are still quoted, and both were reconstructed from secondary polemic rather than from documents.\n\nThe flat-earth story has an even stranger origin. The image of Columbus facing down churchmen who thought he would sail off the edge comes from Washington Irving's 1828 biography, which was openly part fiction. No educated European of the period thought the earth was flat; the actual dispute with Columbus was about the earth's circumference, and his opponents were right and he was wrong.\n\nWhat is worth taking from this is not that religion has been unfairly treated. It is that a story repeated for a century in textbooks can be false, and that the correction came from ordinary archival work by historians with no stake in the outcome.\n\nThis is not a contested finding and it is not an apologetic one. The standard reference work correcting them is edited by a historian raised in Seventh-day Adventism who left the faith, and its contributors include believers and non-believers arguing from the same documents to the same conclusion."
+    },
+    {
+      "heading": "Galileo, briefly",
+      "oneLine": "He was not tortured, not imprisoned in a dungeon and not killed, and the case was a genuine collision — just not the one the myth describes.",
+      "text": "Galileo spent his condemnation under house arrest in a villa, continuing to write; his most important book was finished there. The threat of torture was formally shown to him under the procedure of the time and was not carried out. He had been a friend of the pope who condemned him.\n\nThe collision was real and it was several things at once: a dispute about whether the Copernican model was established or merely a calculating device, a dispute about who had authority to interpret scripture in a period when that question was the hinge of the Reformation, and a personal quarrel that Galileo did much to provoke. The scientific evidence available in 1633 did not in fact settle the matter, and the stellar parallax that would have settled it was not observed until 1838.\n\nSo it will not serve as an illustration of science confronting faith, and it will not serve as an illustration of the Church being reasonable either. It was an institution with the power to compel silence using it, in a case where the science was unsettled and the claimed authority was not the institution's to exercise."
+    }
+  ],
+  "whereItStands": "The historical question closed decades ago and the popular conversation has not noticed, which is why most public argument about this topic is conducted at a level neither side's specialists occupy.\n\nThe live question has also moved, and in an unusual way: it has become clearer without becoming closer to resolution. Both sides now agree on what they are disagreeing about, which is the status of faith as a way of forming beliefs, and both have abandoned the arguments that were really about something else. The compatibilists no longer argue from the piety of Newton; the incompatibilists no longer argue from the Inquisition.\n\nWhat neither side has produced is a decisive case. The claim that the domains are distinct has never been given a principled statement of where the line falls that was not vulnerable to the ratchet objection, and Gould's own version was criticised from both directions on exactly that ground. The claim that the methods are incompatible has never been given an account of what a religious claim would have to do to count as revisable that theologians would recognise as fair.\n\nSo the position is a stable disagreement with a settled history underneath it, which is an unusual shape and worth naming as what it is.",
+  "commonMistake": "Christians most often treat the collapse of the [[conflict thesis]] as though it settled the present question. It does not. That the Victorian history was propaganda is agreed by everyone on this page, and it leaves the argument about method exactly where it was.\n\nAtheists most often cite Galileo, Bruno or the flat earth, and each citation costs more than it gains: the facts are against them in detail, the correction is easy to find, and an argument that opens with a refuted story invites the audience to discount the rest of it.\n\nBoth sides misuse Gould. Compatibilists cite non-overlapping magisteria as though it were a finding rather than a proposal, and one that many religious thinkers reject as forfeiting the claim that God did anything. Incompatibilists cite it as the position they are refuting, when it is a minority view that most of the people they are arguing with do not hold either.",
+  "sources": [
+    {
+      "title": "Galileo Goes to Jail and Other Myths about Science and Religion",
+      "author": "Ronald L. Numbers (editor)",
+      "year": "2009",
+      "url": "https://books.google.com/books/about/Galileo_Goes_to_Jail_and_Other_Myths_abo.html?id=_Wj-ruvGFvgC",
+      "note": "Twenty-five myths, each taken apart by a specialist. The standard reference for the settled core above."
+    },
+    {
+      "title": "Nonoverlapping Magisteria",
+      "author": "Stephen Jay Gould",
+      "year": "1997",
+      "url": "https://www.naturalhistorymag.com/picks-from-the-past/13430/nonoverlapping-magisteria",
+      "note": "The original essay, free and short. The book-length version followed in 1999."
+    },
+    {
+      "title": "Science and the Modern World",
+      "author": "Alfred North Whitehead",
+      "year": "1925",
+      "url": "https://www.gutenberg.org/files/68611/68611-h/68611-h.htm",
+      "note": "Free and complete. The argument about medieval theology is in the chapter on the origins of modern science."
+    },
+    {
+      "title": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+      "author": "Jerry A. Coyne",
+      "year": "2015",
+      "url": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+      "note": "Linked to a quotations page rather than the text: both quotations on this page were taken at second hand."
+    },
+    {
+      "title": "Science vs. Religion: What Scientists Really Think",
+      "author": "Elaine Howard Ecklund",
+      "year": "2010",
+      "url": "https://global.oup.com/academic/product/science-vs-religion-9780195392982",
+      "note": "The survey behind the second argument. Ecklund's own conclusion is that the popular conflict picture misdescribes both sides."
+    }
+  ]
+}
