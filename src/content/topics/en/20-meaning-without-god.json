@@ -1,0 +1,238 @@
+{
+  "id": "meaning-without-god",
+  "number": 20,
+  "slug": "meaning-without-god",
+  "title": "Can life have meaning without God?",
+  "category": "faith-and-society",
+  "status": "interpretive",
+  "realQuestion": "The word is doing three jobs and the argument is mostly people answering different ones.\n\nIt can mean that a life feels significant from inside it. It can mean that a life has a purpose it was made for, which it can succeed or fail at. And it can mean that a life matters in some way that does not stop when it stops. The first is not in dispute by anyone. The third is the one the argument is usually really about, and it is smuggled in under the second.\n\nSo the question here is not whether atheists find their lives worth living, which they do at about the same rate as everyone else, and not whether they are entitled to feel that way, which is a strange thing to think anyone needs permission for. It is whether the thing people are reaching for when they ask this question — something that holds whether or not they decide it does — is available without God.\n\nThe tag is interpretive because the disagreement survives every fact. Both sides here know the same things about death, about value and about what people report. They disagree about whether what is left is enough, and 'enough' is not a measurement.",
+  "distinctions": [
+    {
+      "label": "Do non-believers experience their lives as meaningful?",
+      "gloss": "Not in dispute. They do, they say so, and no argument on this page denies it. A Christian who argues otherwise is arguing against something observable.",
+      "activeHere": false
+    },
+    {
+      "label": "Is there objective value at all?",
+      "gloss": "Argued on its own page rather than here, and this page leans on it heavily: the strongest atheist answer below needs objective worth to exist, so a reader who rejects that has to read the two together.",
+      "activeHere": false
+    },
+    {
+      "label": "Is the thing being asked for available without God?",
+      "gloss": "The live question, and the hard part is that the two sides do not fully agree on what is being asked for. Both positions below include an account of that, which is the most useful thing each has to offer.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "the absurd",
+      "definition": "Camus's name for the gap between the human demand that the world make sense and the world's silence. Not a claim that life is bad — a claim about the shape of the mismatch."
+    },
+    {
+      "term": "teleology",
+      "definition": "Explanation by what something is for. Standard in Aristotle and in medieval thought, abandoned in the physical sciences, and still argued over for living things and for human lives."
+    },
+    {
+      "term": "nihilism",
+      "definition": "The view that nothing is of value. Almost nobody on either side of this argument holds it, which is worth stating because both sides regularly accuse the other of it."
+    }
+  ],
+  "sides": [
+    {
+      "label": "What is left is not meaning but the management of its absence",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "death-erases-it",
+          "claim": "The question is whether anything survives the annihilation of the person asking, and self-made meaning does not.",
+          "explanation": "The crisis this question names is not an intellectual puzzle, and the people who have described it best were not apologists at the time. It arrives as the recognition that everything a person builds, loves and becomes is scheduled for deletion, along with the person who valued it, and eventually along with everyone who might have remembered.\n\nA purpose adopted for oneself is inside that boundary. It lasts as long as the one who adopted it and no longer, which means the answer to 'does this survive my death' is no by construction. The reply that one should stop asking about the future is not an answer to the question; it is advice about which questions to entertain.\n\nThe argument is not that non-believers are miserable. It is that the thing that would settle the question — something that holds independently of anyone continuing to hold it — is exactly what a finite, self-conferred purpose cannot be.",
+          "quote": {
+            "text": "Is there any meaning in my life that the inevitable death awaiting me does not destroy?",
+            "author": "Leo Tolstoy",
+            "work": "A Confession",
+            "year": "1882",
+            "locator": "chapter 5, where he states the question that nearly killed him",
+            "sourceUrl": "https://www.marxists.org/archive/tolstoy/1882/a-confession/part-5.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "meaning-is-telos",
+              "label": "Meaning is what a nature is for, not what anyone decides",
+              "heldBy": "Alasdair MacIntyre, and the Aristotelian tradition he is recovering",
+              "oneLine": "A human life has a characteristic end in the way an acorn does, and meaning is the distance between what a person is and what they would be if they realised it.",
+              "summary": "This position says nothing about duration, and that is what separates it from the argument above.\n\nOn the older scheme, a thing's good is fixed by what kind of thing it is. A knife is a good knife by cutting well; a human being flourishes by exercising the capacities proper to a human being, in the practices and relationships where those capacities have their point. Ethics on this account is not a code but an account of a transition — from the person as they happen to be to the person as they could be if they became what they are for.\n\n[[teleology]] of this kind does not require anyone to have issued an instruction, which is why the objection that a commanded purpose is just somebody else's preference has nothing to grip. It requires natures to have ends, which is the thing the modern picture denied and the thing this position is arguing to restore.",
+              "quote": {
+                "text": "there is a fundamental contrast between man-as-he-happens-to-be and man-as-he-could-be-if-he-realized-his-essential-nature. Ethics is the science which is to enable men to understand how they make the transition from the former state to the latter.",
+                "author": "Alasdair MacIntyre",
+                "work": "After Virtue",
+                "year": "1981",
+                "locator": "the account of the classical teleological scheme, chapter 5",
+                "sourceUrl": "https://www.bu.edu/cpt/?p=74",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that the demand for permanence is misplaced, because duration is not what makes anything valuable. This position never asks for permanence. It locates meaning in a nature having an end, which a life of eighty years can realise completely, so an argument about how long things last passes it by.",
+              "objection": {
+                "text": "The essential natures were looked for and are not there. Biology found lineages, variation and functions that are historical accidents rather than ends — a heart is for pumping blood in the sense that pumping blood is why hearts were selected, which is a fact about the past and issues no instruction about how to live. And the parts of the account that do work, about practices with internal goods and lives with narrative shape, are available to a naturalist without any of the metaphysics, as they have been taken up by naturalists since.",
+                "from": "atheist",
+                "response": "Selected-for functions are not the kind of end at issue, and the objection is answering a biological question with a biological answer. That naturalists have borrowed the account of practices is true and is the interesting part: the borrowings work, and what they work on is a claim about what human beings are for, which naturalism says there is no fact about."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "The demand is for permanence, and permanence has never been what makes anything valuable. A piece of music is not improved by being longer, a friendship is not worthless because one of the friends will die, and a rescue does not become pointless when the rescued person eventually dies of something else. If duration conferred value then the shorter half of every valuable thing would be the worse half, which nobody believes. The argument takes a fact about how endings feel and treats it as a discovery about worth.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "The analogies are all of finite things inside a world that continues, judged by people who remain. The claim is about the case where nothing continues and no one remains — where there is finally no vantage point from which the rescue was ever worth doing. That is not a longer version of a symphony ending; it is the difference between a performance and no performance."
+          }
+        },
+        {
+          "id": "conferred-is-not-found",
+          "claim": "A purpose you assign yourself has exactly the authority you gave it, which is none.",
+          "explanation": "Take the standard answer seriously: meaning is not discovered but created, and each person makes their own. Then 'my life is meaningful' reports that someone has adopted a stance towards it. It can be adopted, revised or dropped, and nothing outside the adopting makes any version of it correct.\n\nThat is not what the question was asking. Someone who wonders whether their life means anything is not asking whether they have decided that it does; they typically know that they have, and are asking whether the decision is answerable to anything. An answer that reduces to 'you chose, and the choosing is what meaning is' has changed the subject, politely.\n\nThe difficulty sharpens at the edges. If meaning is conferred, the person who confers it on cruelty has made their life meaningful by the only available standard — and every attempt to rule that out reaches for a criterion that the theory said was not there.",
+          "quote": {
+            "text": "If there is no God, then man and the universe are doomed.",
+            "author": "William Lane Craig",
+            "work": "The Absurdity of Life without God, in Reasonable Faith",
+            "year": "1994",
+            "locator": "the essay's statement of the consequence, developed at length in the surrounding pages",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "The same question can be asked one level up and gets no better answer. If a purpose is meaningful because God assigned it, then 'God decided this matters' is also a report of a decision, and being made by someone very large does not turn a decision into a discovery. Either there is a standard independent of the decider, in which case a creature could in principle meet it without a decree, or there is not, in which case the theist's meaning is conferred too — and conferred by someone else, which is worse, because it makes a human life an instrument for a purpose it did not choose.",
+            "objectionFrom": "within",
+            "sharedPremise": "it accepts the argument's own premise in full — that a purpose is not made authoritative by someone deciding on it, however important the decider — and turns that premise on the theistic answer, which is the shape the Euthyphro question has taken inside theology since the medieval dispute about the divine will",
+            "response": "The dilemma assumes God issues decisions the way a person does. The classical claim is that God does not assign a purpose but is the good a human nature is ordered to, so the standard is neither an arbitrary decree nor independent of God — it is what God is. The charge of instrumentality then fails as well: being made for a relationship is not being made into a tool."
+          }
+        }
+      ]
+    },
+    {
+      "label": "It can, and what the other side is asking for would not help if it arrived",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "subjective-meets-objective",
+          "claim": "Meaning is what happens when someone is gripped by something that is genuinely worth doing.",
+          "explanation": "The best account of meaning in the philosophical literature is not 'whatever you decide' and not 'whatever God says'. It is a joint condition, and it fails in both directions.\n\nA life spent doing something worthless with great passion is not meaningful; that is why the person who devotes forty years to memorising television schedules is a sad case rather than an inspiring one. A life spent doing something worthwhile with no engagement is not meaningful either; that is the burnt-out functionary, going through motions that happen to be good ones. Meaning appears where the two meet — where a person is genuinely caught up in something whose worth does not depend on their being caught up in it.\n\nThis answers the question directly. The worth of raising a child well, of work that helps, of the things people actually organise their lives around, does not depend on any decree, and it is not conferred by the person who takes it up. It is found by them, which is what the other side says is unavailable.",
+          "quote": {
+            "text": "meaning arises when subjective attraction meets objective attractiveness",
+            "author": "Susan Wolf",
+            "work": "Meaning in Life and Why It Matters",
+            "year": "2010",
+            "locator": "her own summary of the Fitting Fulfillment view",
+            "sourceUrl": "https://press.princeton.edu/books/paperback/9780691154503/meaning-in-life-and-why-it-matters",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "absurd-and-liveable",
+              "label": "There is no objective worth, and a life is still fully liveable",
+              "heldBy": "Albert Camus",
+              "oneLine": "Grant the other side everything — the silence, the erasure, the absence of any answer — and the conclusion is not despair but a life lived without appeal.",
+              "summary": "This position concedes more than any other on the page and is the harder one to argue against for that reason.\n\n[[the absurd]] is not the claim that life is bad. It is the mismatch between a creature that demands reasons and a universe that supplies none. Camus's argument is that both of the usual escapes are evasions: suicide, which abolishes one term, and the leap to faith, which abolishes the other by inventing an answer. What is left is to hold both — to keep the demand and to refuse the consolation — and to live with the lucidity that follows.\n\nWhat makes it a different position rather than a gloomier version of the one above is that it claims no objective worth at all. It says a human being can be wholly absorbed, wholly awake and wholly without illusions at the same time, and that this is not a consolation prize.",
+              "quote": {
+                "text": "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
+                "author": "Albert Camus",
+                "work": "The Myth of Sisyphus",
+                "year": "1942",
+                "locator": "the closing lines of the essay",
+                "sourceUrl": "https://history.hanover.edu/courses/excerpts/111camus.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that objective worth is exactly what naturalism cannot supply, so the account borrows the other side's premise. This position asserts no objective worth and needs none. An objection about where objective value comes from cannot be aimed at a view whose first move is that there is not any.",
+              "objection": {
+                "text": "Then the page's question has been answered no, and the answer given a braver name. If nothing is worth doing and one does it anyway, that is endurance, which is admirable and is not meaning. The position is also unstable in practice: 'one must imagine Sisyphus happy' is a recommendation, and recommendations need grounds — if there are none, the advice to live lucidly has no more standing than the advice to despair.",
+                "from": "theist",
+                "response": "The recommendation is grounded in what a person is, not in a value written into the world: given the demand for reasons that human beings actually have, lucidity is what does not require lying to oneself. That is a weaker ground than a cosmic one and it is the ground the position claims."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "The account works and it works on borrowed capital. 'Objective attractiveness' is doing all the load-bearing — it is what separates the child-rearing from the bottle caps — and on naturalism there is no account of where that objectivity comes from. Either these worths are real features of the world, which is a large metaphysical claim naturalism has not paid for, or they are widely shared preferences, in which case the theory has collapsed back into the subjective half and the bottle-cap collector is back.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Whether objective value survives naturalism is the subject of another page on this site and is not conceded here. But the objection proves less than it needs to even if it wins: if objective worth requires theism, then what follows is that a naturalist is wrong about metaphysics, not that a naturalist's life lacks meaning — on this account the worth was there being responded to, whatever its ultimate grounding turns out to be."
+          }
+        },
+        {
+          "id": "permanence-is-a-red-herring",
+          "claim": "That nothing will matter later does not make anything matter less now.",
+          "explanation": "The argument from the heat death runs: in a sufficiently distant future nothing anyone does will make any difference, therefore nothing anyone does matters. As an inference it is invalid, and the invalidity is easy to see once it is stated.\n\nWhat matters is indexed to a time and a set of beings. That a person's work will be forgotten in a million years is a fact about a million years from now; it does not reach back and alter whether the work is worth doing today, any more than the fact that a meal will be digested makes it not worth eating. Running the argument the other way exposes it: if nothing matters now because it will not matter then, it equally does not matter then that nothing we do now will matter.\n\nThe deeper point is that the demand cannot be satisfied even in principle. Adding an eternity does not convert a meaningless thing into a meaningful one; an endless life would need its meaning from what filled it, which is the same question again with more of it.",
+          "quote": {
+            "text": "It does not matter now that in a million years nothing we do now will matter.",
+            "author": "Thomas Nagel",
+            "work": "The Absurd, in The Journal of Philosophy 68",
+            "year": "1971",
+            "locator": "p. 716",
+            "sourceUrl": "https://www.jstor.org/stable/2024942",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "The reply answers a bad version of the argument. Nobody serious claims that duration confers value; the claim is about the vantage point. A judgement that something matters is made from somewhere, and the worry is that when every vantage point is gone there is no perspective from which it was ever true that it mattered — not that the mattering wore out, but that it was never underwritten. Nagel himself did not think the absurdity dissolved, which is why he wrote about how to live with it rather than about how to argue it away.",
+            "objectionFrom": "theist",
+            "response": "'True from no perspective' is not a coherent worry unless truth requires an observer, which nobody on either side believes about anything else — that the last witness dies does not make a past event un-happen. And Nagel's position is correctly described: he holds that the absurd is real, that it is not a disaster, and that the cure on offer is worse than the condition."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Three different questions under one word",
+      "oneLine": "Most of this argument is one side answering 'does your life feel significant' while the other asks 'does anything hold when you are gone', and neither notices.",
+      "text": "The first sense is psychological: a life experienced from inside as worth living. It is measurable, it is high among believers and non-believers alike, and no argument on this page turns on it.\n\nThe second is functional: a purpose a thing has, which it can fulfil or fail. This is where the two sides genuinely engage, because it is contested whether a human life has one of these at all and, if so, what fixes it.\n\nThe third is about standing: whether a life matters in a way that does not depend on anyone being around to think so. This is what most people are reaching for when the question arrives at three in the morning, and it is the one that cannot be settled by finding out anything.\n\nA conversation in which one person means the first and the other means the third can run for hours without either saying anything false."
+    },
+    {
+      "heading": "This page leans on another one",
+      "oneLine": "The strongest atheist answer here requires that some things are genuinely worth doing independently of anyone's preferences — which is exactly the claim argued on the objective morality page.",
+      "text": "Wolf's account, and every hybrid account like it, has two halves. The subjective half is uncontroversial. The objective half asserts that some projects have worth that does not derive from being chosen, and that assertion is not free on naturalism.\n\nThe consequence is that a reader cannot settle this page on its own. Someone who thinks objective value survives without God will find the atheist case here strong and the Christian arguments answering a question already dealt with. Someone who thinks it does not will find the Christian objection decisive and the atheist case circular.\n\nCamus's position is the exception, and it is on the page for that reason: it is the only answer here that owes nothing to the other argument. It is also the least comforting, which may be the same fact."
+    }
+  ],
+  "whereItStands": "Nothing here has been settled and the argument has still improved, in a way that is unusual and worth naming.\n\nWhat changed is that the philosophy of meaning became a subject in its own right, rather than a place people went to restate conclusions reached elsewhere. Before about 1980 the question was mostly handled by theologians asserting that meaning requires God and existentialists asserting that it does not. Since then the work has been analytic and comparative: what is being claimed, what would satisfy it, which accounts are internally coherent. Wolf's hybrid view came out of that, and so did a much clearer statement of what the theistic claim actually needs.\n\nThe result is that both sides now make smaller and better claims. Almost nobody argues that atheists cannot experience meaning, which was a staple of apologetics within living memory. Almost nobody argues that the question is a pseudo-question, which was a staple of the other side for just as long.\n\nWhat remains is a disagreement about sufficiency, and it does not move. Both sides agree on the facts of death, on what people report, and largely on what the candidate accounts are. They disagree about whether a meaning that ends is the thing that was being asked for, and no further argument has been found that bears on that.",
+  "commonMistake": "Christians most often argue that life without God would be unbearable, which is both the weaker claim and the falsifiable one. People bear it, visibly and in large numbers, and every version of the argument that depends on them not bearing it is refuted by the person it is addressed to. The serious argument is about what the word means, not about how anyone feels.\n\nAtheists most often treat the question as a confusion to be dissolved. It is not: the thing being asked for is intelligible, most people want it, and the honest answer is that it is not available on naturalism rather than that nobody should have wanted it. Answering 'you're asking the wrong question' to someone in Tolstoy's condition is a refusal, not a reply.\n\nBoth sides accuse the other of [[nihilism]], and almost nobody on either side holds it. The Christian who says the atheist is committed to nihilism is arguing against an implication the atheist denies; the atheist who says the Christian's meaning is borrowed is making the same move in reverse. Very little on this page is advanced by either.",
+  "sources": [
+    {
+      "title": "A Confession",
+      "author": "Leo Tolstoy",
+      "year": "1882",
+      "url": "https://www.marxists.org/archive/tolstoy/1882/a-confession/part-5.html",
+      "note": "Free and short. Part 5 is where the question is put; the whole thing is worth an hour."
+    },
+    {
+      "title": "The Meaning of Life",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "year": "2021",
+      "url": "https://plato.stanford.edu/entries/life-meaning/",
+      "note": "Maps the supernaturalist, objective naturalist and subjective naturalist positions, which is the division this page uses."
+    },
+    {
+      "title": "Meaning in Life and Why It Matters",
+      "author": "Susan Wolf",
+      "year": "2010",
+      "url": "https://press.princeton.edu/books/paperback/9780691154503/meaning-in-life-and-why-it-matters",
+      "note": "Short, and printed with four critical responses. The Fitting Fulfillment view is stated in the first lecture."
+    },
+    {
+      "title": "The Absurdity of Life without God",
+      "author": "William Lane Craig",
+      "year": "1994",
+      "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god",
+      "note": "The full essay, free on his own site. The strongest popular statement of the argument from this side."
+    },
+    {
+      "title": "The Absurd",
+      "author": "Thomas Nagel",
+      "year": "1971",
+      "url": "https://www.jstor.org/stable/2024942",
+      "note": "Twelve pages, and the source of most of what has been said on both sides since."
+    }
+  ]
+}
