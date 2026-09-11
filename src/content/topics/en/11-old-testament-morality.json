@@ -57,7 +57,8 @@
             "work": "Is God a Moral Monster? Making Sense of the Old Testament God",
             "year": "2011",
             "sourceUrl": "https://www.str.org/w/the-canaanites-genocide-or-judgment-",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "variants": [
             {
@@ -72,7 +73,8 @@
                 "work": "The Bible Tells Me So",
                 "year": "2014",
                 "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The genre objection cannot land, because this reading never claimed the commands were hyperbole. It agrees they read as real commands and says the report of them is mistaken — so an argument that the text has been strained to avoid its plain sense is answered by conceding the plain sense entirely.",
               "objection": {
@@ -94,7 +96,8 @@
                 "year": "2017",
                 "locator": "our summary of the cruciform thesis; not Boyd's wording",
                 "sourceUrl": "https://reknew.org/book/crucifixion-warrior-god/",
-                "verification": "paraphrase"
+                "verification": "paraphrase",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The genre objection has nothing to work on. Boyd agrees the commands read as commands and that no philological result will soften them; he keeps the texts at full strength and relocates the question to what a revelation of that kind is doing. An argument that the hyperbole reading strains the Hebrew is not an argument against a reading that never invoked it.",
               "objection": {
@@ -122,7 +125,8 @@
             "work": "Slaughter of the Canaanites (Question of the Week)",
             "year": "2007",
             "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "If 'what God commands is just' can absorb the killing of infants, then the word 'just' has stopped meaning anything a worshipper could recognise — and the moral argument of topic 10 collapses with it, because that argument depends on our being able to tell that some things are monstrous. A defence that saves God's goodness by making it unrecognisable has given away what it set out to protect. Randal Rauser, Eleonore Stump and Eric Seibert all press this, and the historical premise is weak besides: the descriptions of Canaanite practice come from the conquering side, and archaeology does not support a picture of exceptional depravity.",
@@ -148,7 +152,8 @@
             "year": "2009",
             "locator": "pp. 7-26",
             "sourceUrl": "https://spot.colorado.edu/~morristo/DidGodCommandGenocide.pdf",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "variants": [
             {
@@ -164,7 +169,8 @@
                 "year": "2007",
                 "locator": "the thesis of the book, in the author's summary of it",
                 "sourceUrl": "https://bibleandcriticaltheory.com/wp-content/uploads/2018/05/vol4-no2-2008-the-end-of-biblical-studies-miscall-207-808-1-PB-u7y34v.pdf",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The reply above cannot start. It says we are not placed to survey the reasons an omniscient being might have — but this version makes no claim about God's reasons at all, and is not asking whether the command was justified. It is a claim about what a discipline is doing, and an argument about divine epistemic access is simply not addressed to it.",
               "objection": {
@@ -198,6 +204,7 @@
   "notes": [
     {
       "heading": "What the ground says",
+      "oneLine": "There is no archaeological evidence for the conquest as Joshua describes it — which removes the historical atrocity and leaves the text exactly where it was.",
       "text": "The archaeology is not in dispute between the readings above, and all of them have to accommodate it. There is no evidence of a mass invasion of Canaan from outside, and no destruction-layer pattern matching the account in Joshua. Jericho's walls appear to have been in ruins for a century or more before any plausible date for the conquest. The current mainstream reconstruction has early Israel emerging largely from within Canaanite society rather than arriving to destroy it.\n\nThis cuts in more than one direction. It removes the historical atrocity, which matters. It does not remove the text, and the moral objection is to a book that presents God as commanding this — a book that was read, and acted on, for three thousand years after whatever did or did not happen.",
       "quote": {
         "text": "about as certain as you can be about these things that the conquest of Canaan as the Bible describes did not happen: no mass invasion from the outside by an Israelite army, and no extermination of Canaanites as God commanded",
@@ -206,11 +213,13 @@
         "year": "2014",
         "locator": "Enns reporting the consensus among biblical archaeologists",
         "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
-        "verification": "corroborated"
+        "verification": "corroborated",
+        "sawWhat": "snippet"
       }
     },
     {
       "heading": "The texts that argue with the texts",
+      "oneLine": "The Old Testament contains its own counter-testimony to these passages, preserved alongside them by editors who evidently saw no need to remove either.",
       "text": "The Old Testament is not univocal about this, and reading it as though it were is an error both sides make. Jonah is a story about a prophet furious that God spares a foreign city. Ruth's heroine is a Moabite, from a people Deuteronomy bars from the assembly. Amos has God saying he brought the Philistines from Caphtor as he brought Israel from Egypt, which removes the special claim the conquest rests on.\n\nThis does not answer the objection and is not offered as an answer. It bears on a narrower question: whether the conquest texts represent the settled mind of the tradition that carried them. They were preserved alongside their own contradiction, by editors who evidently saw no need to remove either."
     }
   ],

@@ -134,7 +134,13 @@ const minutes = readingTime(topic);
             {topic.context.note && (
               <aside class="context-note">
                 <h3>{topic.context.note.heading}</h3>
-                <RichText text={topic.context.note.text} glossary={glossary} />
+                <p class="corrective">{topic.context.note.oneLine}</p>
+                <details class="note-more">
+                  <summary>{t('note.more')}</summary>
+                  <div class="note-body">
+                    <RichText text={topic.context.note.text} glossary={glossary} />
+                  </div>
+                </details>
                 {topic.context.note.quote && (
                   <Quotation quote={topic.context.note.quote} locale={locale} side="neutral" />
                 )}

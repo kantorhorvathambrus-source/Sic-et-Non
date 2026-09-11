@@ -26,6 +26,7 @@
   "notes": [
     {
       "heading": "Why the logical version is no longer argued",
+      "oneLine": "The logical problem of evil — that God and suffering cannot both exist — is no longer pressed by serious atheist philosophers, and citing it as live is a mistake.",
       "text": "For most of the twentieth century the case was that God and suffering are logically incompatible: that no consistent story could contain both. Alvin Plantinga's free will defence ended that. He did not claim to know why God permits suffering; he argued only that free creatures who sometimes choose wrongly are logically possible alongside a good God, which is all that is needed to break a claim of contradiction.\n\nIt worked, and it is why this page argues the evidential version instead. It is set out here rather than as one of the three arguments because it settles a question nobody is still pressing — a slot on this page is for a live argument. It also does nothing about the fawn, which is what the arguments above are for.",
       "quote": {
         "text": "A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.",
@@ -33,7 +34,8 @@
         "work": "God, Freedom, and Evil",
         "year": "1974",
         "sourceUrl": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/",
-        "verification": "corroborated"
+        "verification": "corroborated",
+        "sawWhat": "snippet"
       }
     }
   ],
@@ -79,7 +81,8 @@
             "year": "1779",
             "locator": "Part X, spoken by Philo",
             "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The trilemma only works if a good being would always prevent every evil it could. That is not obviously true even of good people: a surgeon causes pain, a parent lets a child fail. Once you allow that a good being might permit a harm for the sake of something, the three questions stop being a contradiction and become a question about whether the something is worth it.",
@@ -97,7 +100,8 @@
             "year": "1979",
             "locator": "p. 337",
             "sourceUrl": "https://philpapers.org/rec/ROWTPO-3",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "\"We cannot see a reason\" is only evidence of \"there is no reason\" if we are the sort of thing that would see one. A beginner looking at a grandmaster's move cannot see the point of it, and is not thereby entitled to conclude there is none. If a mind capable of making a universe had reasons, our failing to spot them would be the expected result, not a surprise.",
@@ -115,7 +119,8 @@
             "year": "1880",
             "locator": "Book V, ch. 4, 'Rebellion'",
             "sourceUrl": "https://www.gutenberg.org/ebooks/28054",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This assumes the only available Christian answer is that suffering is a necessary component of a plan. A large part of the tradition denies exactly that: evil is an enemy rather than an instrument, something God defeats rather than deploys. Ivan is refusing a ticket that many Christians would also refuse.",
@@ -139,7 +144,8 @@
             "year": "1984",
             "locator": "p. 91",
             "sourceUrl": "https://link.springer.com/article/10.1007/BF00136567",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The blindness cannot be switched on only when it is needed. If we are too small to judge whether a horror was permitted for a reason, we are too small to judge that anything is good, that any prayer was answered, or that a religious experience was what it seemed. It also cuts into ordinary ethics: if unknown goods may justify appalling suffering, I can never be confident that preventing a harm is right, since the harm might be serving one. The price of the defence is paid in topics 10 and 17 as much as here.",
@@ -156,7 +162,8 @@
             "work": "Evil and the God of Love",
             "year": "1966",
             "sourceUrl": "https://link.springer.com/book/10.1057/9780230283961",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The distribution is wrong. Soul-making needs someone whose soul is being made, and much suffering destroys people rather than forming them, or falls on infants and animals who will never reflect on it. And the quantities are absurd: whatever courage requires, it does not require the Black Death.",
@@ -173,7 +180,8 @@
             "work": "The Doors of the Sea: Where Was God in the Tsunami?",
             "year": "2005",
             "sourceUrl": "https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This is a change of subject dressed as an answer. The question was why an all-powerful and good God permits horrors he could stop. Saying he does not endorse them and will one day undo them concedes the whole point: he permitted them anyway, and no reason has been given.",

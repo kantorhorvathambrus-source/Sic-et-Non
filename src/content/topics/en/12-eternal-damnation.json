@@ -56,7 +56,8 @@
             "work": "The Problem of Pain",
             "year": "1940",
             "sourceUrl": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The hardest version of this objection is Christian. Universalists from Gregory of Nyssa to David Bentley Hart argue that an eternally sustained free refusal is not coherent: choice runs on reasons, and no rational creature, seeing God clearly, could go on preferring misery for ever. Either the refuser is deceived — in which case the choice is not informed and not free — or they are not, in which case what they are choosing is unintelligible. A door locked from the inside is still a door someone built, in a house with only one exit.",
@@ -79,7 +80,8 @@
                 "year": "1988",
                 "locator": "Stott's call to evangelicals to reconsider whether conditional immortality better fits the biblical evidence",
                 "sourceUrl": "https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The objection above is that an eternally sustained refusal is not a coherent free choice. On this view nothing is eternally sustained: the refusal ends when the refuser does. An argument about the incoherence of choosing misery for ever has no subject here, and the proportionality objection on the other side loses most of its force at the same time.",
               "objection": {
@@ -101,7 +103,8 @@
                 "work": "That All Shall Be Saved: Heaven, Hell, and the Universal Salvation",
                 "year": "2019",
                 "sourceUrl": "https://yalebooks.yale.edu/book/9780300258486/that-all-shall-be-saved/",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "This is where the objection above comes from, not something it lands on. The universalist is the one arguing that an eternally sustained refusal is incoherent, so printing that objection over this variant would be printing it over its own author.",
               "objection": {
@@ -122,7 +125,8 @@
                 "work": "Lumen Gentium, 16",
                 "year": "1964",
                 "sourceUrl": "https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "It does not, and that is the point of including it: it is compatible with the main form and changes who the argument is about rather than what it says. What it does change is the version of the objection most people actually feel — that the majority of humanity is condemned for an accident of birth — which is not the argument on this page and is answered here.",
               "objection": {
@@ -145,7 +149,8 @@
             "year": "1992",
             "locator": "on God's overriding a decisive rejection",
             "sourceUrl": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Living with the consequences of a choice is a principle about proportion, and it is being used here to license the one case where proportion is abandoned. We let a child live with the consequences of a bad decision; we do not let them live with unending ones, and a parent who could intervene and did not, citing the seriousness of the child's freedom, would not be admired. The argument also needs the choice to have been made under conditions good enough to bear infinite weight, and no human choice is made under those conditions.",
@@ -170,7 +175,8 @@
             "year": "1927",
             "locator": "a lecture delivered at Battersea Town Hall, 6 March 1927",
             "sourceUrl": "https://russell-j.com/0399WINC.HTM",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The proportion argument assumes the penalty answers to a quantity of past wrongdoing, which is the picture the first argument above rejects. If the condition is a continuing refusal rather than a served sentence, its lack of an end is a fact about the refusal. Russell's version also proves less than it claims: two of the four positions below are held by people who accept his moral judgement entirely and remain Christians, so the incompatibility he asserts between humaneness and the faith is not the one he thought.",
@@ -192,7 +198,8 @@
                 "year": "2001",
                 "locator": "the notion of basic desert Pereboom argues nobody satisfies",
                 "sourceUrl": "https://ndpr.nd.edu/reviews/living-without-free-will/",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The reply printed above is that the condition is a continuing refusal rather than a served sentence, so its lack of an end is a fact about the refusal. That answer needs the refusal to be the refuser's own in the sense that makes them answerable for it, and this version denies exactly that. Relocating the outcome from a sentence to a choice does not help if no choice is authored.",
               "objection": {
@@ -214,7 +221,8 @@
             "year": "2002",
             "locator": "pp. 58-68; our summary of the argument, not Sider's wording",
             "sourceUrl": "https://tedsider.org/papers/hell.pdf",
-            "verification": "paraphrase"
+            "verification": "paraphrase",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The argument assumes the criterion is a quantity of goodness, and no version of the doctrine says that. On the choice model the criterion is a settled orientation, which is not a matter of degree in the relevant sense: two people can be indistinguishable in behaviour and differ absolutely in whether they have finally accepted or refused. Compare a proposal of marriage, where the answers differ absolutely and the people asking may be identical in every measurable way.",
@@ -228,10 +236,12 @@
   "notes": [
     {
       "heading": "The word the argument turns on",
+      "oneLine": "Most of the exegetical dispute runs through one adjective, aiōnios, and whether it means unending duration or belonging to the age to come.",
       "text": "Most of the exegetical dispute runs through one adjective. [[aiōnios]] is used of the punishment in Matthew 25:46 and of the life offered in the same sentence, which is why translators render both 'eternal' and why the traditional reading regards the parallel as decisive.\n\nThe counter-argument is that the word derives from aiōn, an age, and that in Jewish Greek it can mean 'belonging to the age to come' rather than 'unending' — a qualitative claim rather than a temporal one. If that is right, the parallel survives without the duration: the life and the punishment both belong to the age to come, and how long either lasts is a separate question the word does not answer. This is a genuine dispute among lexicographers, not a device, and it is why the exegetical question is open rather than interpretive."
     },
     {
       "heading": "Why the exegetical dispute is open and this page is not",
+      "oneLine": "The two questions on this topic take different tags — what the texts teach is open, whether it could be just is interpretive — and the page argues the second.",
       "text": "The two questions on this topic take different tags, and it is worth being explicit about why, because the page's own labelling depends on it.\n\nWhat the texts teach is open: you can name the arguments that moved the field and the people they moved. Conditional immortality went from fringe to a mainstream evangelical option over forty years, on specific lexical claims about aiōnios and on the vocabulary of destruction. Robin Parry changed his mind and published under a pseudonym. John Stott changed his, late and at cost. That is a dispute where argument narrows disagreement.\n\nWhether eternal punishment could be just is not like that. Grant the traditional reading and the critic still says a good God would not; grant the universalist reading and the traditionalist still says a love that cannot be refused is not love. Both sides have every fact the other has. Further argument sharpens the disagreement without narrowing it, and that is the third test."
     }
   ],

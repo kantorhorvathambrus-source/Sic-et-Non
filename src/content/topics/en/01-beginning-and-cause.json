@@ -57,7 +57,8 @@
             "year": "1979",
             "locator": "the argument as Craig states it, defended at length in his later writings",
             "sourceUrl": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Every [[cause]] anyone has ever observed happened inside time, to something made of already-existing stuff, in a universe with laws. The premise is an excellent rule about events within the universe and there is no reason to think it applies to the universe itself. Extending it there is not obvious; it is the whole thing being argued for.",
@@ -74,7 +75,8 @@
             "work": "Did the Universe Have a Beginning?, talk at the State of the Universe meeting, Cambridge",
             "year": "2012",
             "sourceUrl": "https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The theorem constrains classical spacetimes, and nobody thinks the earliest universe was classical. What it shows is that our current description breaks down, which is what a [[singularity]] always shows. Vilenkin himself has since worked on quantum-gravity models in which the boundary is not an absolute beginning, and no theory we trust reaches back that far.",
@@ -97,7 +99,8 @@
             "work": "Why I Am Not a Christian",
             "year": "1927",
             "sourceUrl": "https://russell-j.com/0399WINC.HTM",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The distinction is not a dodge invented to save the argument. It is much older than the objection and rests on a real difference: a thing that has always existed does not need an account of how it started, because it did not start. Russell is attacking a premise nobody defending the argument has held for eight hundred years.",
@@ -115,7 +118,8 @@
             "year": "2012",
             "locator": "our summary of the position Carroll defends in this essay; not his wording",
             "sourceUrl": "https://preposterousuniverse.com/writings/dtung/",
-            "verification": "paraphrase"
+            "verification": "paraphrase",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "\"The equations do not mention causes\" is a fact about the notation, not about reality. Physics does not mention persons or promises either. And a cause need not come earlier in time: the tradition has always allowed a cause that is simultaneous with, or outside, what it causes — the point is dependence, not sequence.",
@@ -128,6 +132,7 @@
   "notes": [
     {
       "heading": "What cosmology actually says",
+      "oneLine": "The Big Bang model describes the universe expanding from a hot dense early state; whether that state was the beginning of time is not settled, and both sides routinely claim it was.",
       "text": "Both sides overclaim here, so it is worth setting out separately.\n\nThe Big Bang model describes the universe expanding from an extremely hot, dense early state about 13.8 billion years ago. That much is not in doubt. What it does not straightforwardly say is that this was the beginning of everything: run the equations back far enough and general relativity produces a [[singularity]], which is generally read as the theory failing rather than as a description of a real first instant. A quantum theory of gravity would be needed to say what happened there, and there is not yet one that is settled.\n\nThe Borde–Guth–Vilenkin theorem is a real constraint and it does rule out a large class of past-eternal models. It is not a proof that time began. Anyone telling you that cosmology has established a beginning, or that it has ruled one out, is ahead of the evidence.\n\nOne confusion is worth heading off. Physicists sometimes say particles arise from nothing, and popular accounts take this as science producing something from non-existence. What they mean is the [[quantum vacuum]], which is a physical system with energy, structure and laws. Whatever else it is, it is not the nothing this argument is about."
     }
   ],

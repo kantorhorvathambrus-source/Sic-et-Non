@@ -67,6 +67,7 @@
             "locator": "p. 6",
             "sourceUrl": "https://wwnorton.com/books/9780393351491",
             "verification": "corroborated",
+            "sawWhat": "snippet",
             "original": {
               "text": "Although atheism might have been logically tenable before Darwin, Darwin made it possible to be an intellectually fulfilled atheist.",
               "language": "en"
@@ -89,6 +90,7 @@
             "locator": "DCP-LETT-2814",
             "sourceUrl": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
             "verification": "corroborated",
+            "sawWhat": "snippet",
             "original": {
               "text": "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice.",
               "language": "en"
@@ -110,6 +112,7 @@
             "year": "1995",
             "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710",
             "verification": "corroborated",
+            "sawWhat": "snippet",
             "original": {
               "text": "a skyhook is a \"mind-first\" force or power or process, an exception to the principle that all design, and apparent design, is ultimately the result of mindless, motiveless mechanicity.",
               "language": "en"
@@ -140,6 +143,7 @@
             "locator": "pp. 125-129",
             "sourceUrl": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
             "verification": "corroborated",
+            "sawWhat": "snippet",
             "original": {
               "text": "I am a creationist and an evolutionist. Evolution is God's, or Nature's method of creation.",
               "language": "en"
@@ -161,6 +165,7 @@
             "year": "c. 1268",
             "sourceUrl": "https://www.newadvent.org/summa/1068.htm",
             "verification": "corroborated",
+            "sawWhat": "snippet",
             "original": {
               "text": "since Holy Scripture can be explained in a multiplicity of senses, one should adhere to a particular explanation, only in such measure as to be ready to abandon it, if it be proved with certainty to be false",
               "language": "en"
@@ -184,6 +189,7 @@
             "locator": "preface, p. ix",
             "sourceUrl": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097",
             "verification": "corroborated",
+            "sawWhat": "snippet",
             "original": {
               "text": "there is superficial conflict but deep concord between science and theistic religion, but superficial concord and deep conflict between science and naturalism",
               "language": "en"
@@ -202,6 +208,7 @@
     "intro": "Der Streit zwischen diesen vieren wird innerhalb des Christentums geführt und nicht zwischen Christentum und Atheismus; deshalb steht er getrennt von den beiden Seiten oben. Jede Position wird von jemandem formuliert, der sie vertritt, und danach beantwortet.",
     "note": {
       "heading": "Woher dieser Streit kommt",
+      "oneLine": "Flood geology in its modern form dates from 1961, not from the ancient church — which reframes the dispute for most readers before they meet the four positions.",
       "text": "Die Sintflutgeologie ist in ihrer heutigen Form jünger, als beide Lager annehmen. Sie geht weitgehend auf The Genesis Flood zurück, 1961 von John Whitcomb und Henry Morris veröffentlicht und auf dem Siebenten-Tags-Adventisten George McCready Price aufbauend. Davor waren Alte-Erde-Lesarten unter konservativen Protestanten unauffällig: Charles Hodge und B. B. Warfield, zwei der gewichtigsten Verteidiger der biblischen Irrtumslosigkeit im neunzehnten Jahrhundert, nahmen beide eine alte Erde an.\n\nDies ist also nicht Wissenschaft gegen Christentum. Es ist eine weitgehend im zwanzigsten Jahrhundert entstandene Bewegung, die sich sowohl gegen die etablierte Wissenschaft als auch gegen den größten Teil der christlichen Geschichte stellt — was Augustinus fünfzehnhundert Jahre früher von innerhalb der Tradition angemerkt hatte.",
       "quote": {
         "text": "Nun ist es eine schändliche und gefährliche Sache, wenn ein Ungläubiger einen Christen, der angeblich den Sinn der Heiligen Schrift wiedergibt, über diese Gegenstände Unsinn reden hört; und wir sollten alles tun, um eine so peinliche Lage zu verhindern, in der man an einem Christen ungeheure Unwissenheit aufdeckt und sie verlacht.",
@@ -211,6 +218,7 @@
         "locator": "Book I, ch. 19",
         "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
         "verification": "corroborated",
+        "sawWhat": "snippet",
         "original": {
           "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
           "language": "en"
@@ -232,6 +240,7 @@
           "locator": "a formulation used across Answers in Genesis material",
           "sourceUrl": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/",
           "verification": "corroborated",
+          "sawWhat": "snippet",
           "original": {
             "text": "Billions of dead things, buried in rock layers, laid down by water, all over the earth.",
             "language": "en"
@@ -246,6 +255,7 @@
             "year": "current",
             "sourceUrl": "https://answersingenesis.org/about/faith/",
             "verification": "corroborated",
+            "sawWhat": "snippet",
             "original": {
               "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
               "language": "en"
@@ -267,6 +277,7 @@
           "year": "1874",
           "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
           "verification": "corroborated",
+          "sawWhat": "snippet",
           "original": {
             "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
             "language": "en"
@@ -288,6 +299,7 @@
           "locator": "p. 39",
           "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319",
           "verification": "corroborated",
+          "sawWhat": "snippet",
           "original": {
             "text": "By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning.",
             "language": "en"
@@ -301,6 +313,7 @@
           "year": "2005",
           "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
           "verification": "corroborated",
+          "sawWhat": "snippet",
           "original": {
             "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
             "language": "en"
@@ -321,6 +334,7 @@
           "locator": "p. 178",
           "sourceUrl": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742",
           "verification": "corroborated",
+          "sawWhat": "snippet",
           "original": {
             "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
             "language": "en"

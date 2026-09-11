@@ -56,7 +56,8 @@
             "work": "The Universe: Past and Present Reflections, Engineering and Science",
             "year": "1981",
             "sourceUrl": "https://en.wikipedia.org/wiki/Fred_Hoyle",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Narrow compared to what? To call a value improbable you need to know the range it could have taken and how likely each part of that range was, and nobody has either. We have exactly one universe, no theory of where constants come from, and no sample. The impression of a knife edge may be an artefact of choosing units and varying one number at a time.",
@@ -73,7 +74,8 @@
             "work": "Reasonable Faith",
             "year": "2008",
             "sourceUrl": "https://www.reasonablefaith.org/writings/scholarly-writings/",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The same regress applies to the other answer with more force. A mind capable of selecting the constants of physics is not a simple thing that needs no account; it is at least as specific as the universe it is invoked to explain, and rather harder to describe. If 'what fine-tuned the multiverse generator' is a good question, 'what accounts for a universe-designing mind' is a better one.",
@@ -97,7 +99,8 @@
             "year": "1779",
             "locator": "Part V, spoken by Philo",
             "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "There is no evidence for any of the other universes, and by construction there cannot be. A hypothesis that multiplies unobservable entities without limit in order to make an improbability go away is not obviously more scientific than the one it is replacing; it is an appeal to a very large number of unseen things.",
@@ -114,7 +117,8 @@
             "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge",
             "year": "1998",
             "sourceUrl": "https://www.biotacast.org/douglasAdams.html",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The [[anthropic principle]] explains why we observe a life-permitting universe given that we observe anything. It does not explain why there is a life-permitting universe to be observed. Facing a firing squad and surviving, you may conclude that of course you are alive to wonder about it — and still be entitled to ask why twelve marksmen all missed.",
@@ -128,6 +132,7 @@
   "notes": [
     {
       "heading": "What is agreed, and what is not",
+      "oneLine": "The physics is far less contested than the argument built on it: the narrowness of the ranges is agreed, and what the narrowness means is not.",
       "text": "The physics is less contested than the argument around it, so it is worth separating out.\n\nAgreed: for several constants, values outside a narrow band would give a universe without stars, without chemistry, or without enough duration for anything to develop. The carbon resonance, the cosmological constant and the ratio of electromagnetic to gravitational strength are the usual examples, and they are real results, not apologetic inventions.\n\nNot agreed: how narrow some of the bands are once you allow several constants to vary together rather than one at a time; whether the constants could have taken other values at all, which depends on a deeper theory nobody has; and whether the word 'tuning' is doing argumentative work that the physics has not earned. Anyone who tells you the fine-tuning is a proven improbability, or that it is a well-known illusion, has gone past what is known."
     }
   ],

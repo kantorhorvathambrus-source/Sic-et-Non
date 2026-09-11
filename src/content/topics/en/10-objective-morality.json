@@ -61,7 +61,8 @@
             "year": "2008",
             "locator": "Craig defines 'objective' as 'valid and binding independently of whether anybody believes in it or not'",
             "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "variants": [
             {
@@ -76,7 +77,8 @@
                 "work": "Slaughter of the Canaanites (Question of the Week)",
                 "year": "2007",
                 "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "It does not. This is the version the objection above is built against, and the one it reaches: if obligation is constituted by a command, the question of why you are obliged to obey has to be answered without appealing to another command. Everything below is a way of not being in that position."
             },
@@ -93,7 +95,8 @@
                 "year": "c. 1270",
                 "locator": "the first precept of the natural law",
                 "sourceUrl": "https://www.newadvent.org/summa/2094.htm",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The regress cannot start. There is no command whose authority needs a prior obligation to obey, because obligation follows from what a creature is rather than from what it has been told. The Euthyphro dilemma also loses its grip here: God is not consulting an external standard and not choosing one either, since he is the author of the natures the standard is read off.",
               "objection": {
@@ -116,7 +119,8 @@
                 "year": "2011",
                 "locator": "the thesis of moral concurrentism, quoted in the Notre Dame Philosophical Reviews notice",
                 "sourceUrl": "https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The objection has to find a command to regress on, and there is none: what necessitates is a pull, not an instruction, so asking why you must obey it is like asking why you must find the good good. What the objection can do instead is press the other way — whether a 'pull' that requires no acknowledgement is doing any work that the natures were not already doing.",
               "objection": {
@@ -147,7 +151,8 @@
             "year": "2009",
             "locator": "our summary of the evolutionary argument against naturalistic moral realism, pp. 391-448; not Linville's wording. At the top of VERIFICATION.md for a primary check",
             "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
-            "verification": "paraphrase"
+            "verification": "paraphrase",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The argument cuts against its user. If selection shaped our moral faculties, it shaped them whether or not God exists — God would have had to work through the same process, so the theist inherits the identical story about how the beliefs arrived and has only added a hope about where it was heading. And the reliability challenge has an answer available: if some moral truths are necessary, then any process producing beliefs about cooperation, harm and fairness will produce beliefs that are true, not by luck but because those truths could not have been otherwise.",
@@ -172,7 +177,8 @@
             "year": "2011",
             "locator": "the position Parfit calls Non-Metaphysical Non-Naturalist Normative Cognitivism",
             "sourceUrl": "https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "variants": [
             {
@@ -187,7 +193,8 @@
                 "work": "Taking Morality Seriously: A Defense of Robust Realism",
                 "year": "2011",
                 "sourceUrl": "https://ndpr.nd.edu/reviews/taking-morality-seriously-a-defense-of-robust-realism/",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "It does not. This is the version the debunking objection is built against and reaches most directly: facts that are causally inert and independent of us are exactly the facts it is hardest to explain our tracking. The two positions below are ways of not owning facts of that kind."
             },
@@ -203,7 +210,8 @@
                 "work": "The Moral Landscape: How Science Can Determine Human Values",
                 "year": "2010",
                 "sourceUrl": "https://www.samharris.org/books/the-moral-landscape",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The debunking argument has to be restated and loses much of its force. If moral facts are natural facts about what harms and helps creatures like us, then a faculty selected for detecting harm and help to creatures like us is tracking them by construction, and no coincidence needs explaining. What the objection can still press is whether the identification is right — but that is Moore's open question, not a debunking argument."
             },
@@ -220,7 +228,8 @@
                 "year": "1977",
                 "locator": "the opening sentence of chapter 1, 'The Subjectivity of Values'",
                 "sourceUrl": "https://spot.colorado.edu/~heathwoo/readings/mackie.pdf",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "There is nothing left for it to do. A debunking argument shows that our moral beliefs are not explained by moral facts; the error theorist agrees, and has been saying so since 1977. Aimed here, the objection is not a refutation but a restatement of the position — and the theist who runs it has to switch to a different argument entirely, one for the existence of the moral facts Mackie denies.",
               "objection": {
@@ -252,7 +261,8 @@
             "year": "c. 399 BC",
             "locator": "10a; Socrates to Euthyphro",
             "sourceUrl": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The third option is not a dodge and is older than the objection to it. Goodness is identified with God's nature, which is neither an arbitrary choice nor an external standard he consults, because a nature is not something anyone selects. That 'God is good' then becomes something like an identity statement is not a defect: 'water is H₂O' is uninformative in the same way and is not thereby empty. And the dilemma has no purchase at all on the natural law version above, where the question was never about what God commands.",
@@ -266,10 +276,12 @@
   "notes": [
     {
       "heading": "Hume's gap, which both sides claim",
+      "oneLine": "Hume's gap between what is and what ought to be is a problem for every position on this page, which is why almost all of them end by positing something foundational rather than deriving it.",
       "text": "Hume observed that arguments slide without warning from statements about what is to statements about what ought to be, and that the step is never justified. Both sides cite this against the other, and both are entitled to.\n\nAgainst the naturalist: no set of facts about wellbeing or flourishing adds up to an obligation without a premise that already contains one. Against the theist: no set of facts about what God is or commands adds up to an obligation either, without a premise that you ought to do what God commands — and that premise cannot come from another command without circling, which is the objection printed above. The gap is a problem for anyone deriving morality from anything, which is why almost every position on this page ends by positing something foundational rather than deriving it. The exception is the error theorist, who has nothing to posit."
     },
     {
       "heading": "Three things 'objective' can mean",
+      "oneLine": "Most cross-talk here is the word 'objective' doing three different jobs, and it is worth asking which one each person means.",
       "text": "Most cross-talk in this argument is one word doing three jobs. It can mean *not a matter of opinion* — the Nazis were wrong even though they thought otherwise. It can mean *mind-independent* — true whether or not any minds exist. It can mean *grounded in something outside the natural world*.\n\nThe first is agreed by everyone here except the error theorist, who denies it and says so. The second is where most of the disagreement is. The third is a theist thesis, and quietly assuming it is what makes the argument look circular from outside: if 'objective' means 'grounded outside nature', then 'objective morality requires something outside nature' is true by definition and proves nothing. When an exchange goes nowhere, it is usually worth asking which of the three each person is using."
     }
   ],

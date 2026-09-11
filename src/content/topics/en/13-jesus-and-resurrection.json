@@ -58,7 +58,8 @@
             "year": "2003",
             "locator": "on the absence of any second-temple expectation of an individual messianic resurrection",
             "sourceUrl": "https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Novelty is a fact about the belief, not evidence for its truth, and new religious claims are not rare. Movements whose leader dies unexpectedly do sometimes reinterpret rather than disband — the Sabbatian movement survived its messiah's conversion to Islam, and several Lubavitch groups survived their rebbe's death with claims about him. The argument also assumes that first-century Jewish expectation was uniform enough to rule the innovation out, and the sources are thinner and more varied than that.",
@@ -79,7 +80,8 @@
                 "work": "The Resurrection of Jesus: Physical/Bodily or Spiritual/Mystical?",
                 "year": "2013",
                 "sourceUrl": "https://marcusjborg.org/posts-by-marcus/the-resurrection-of-jesus/",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The objection above is that novelty is a fact about a belief rather than evidence for it, and that movements do reinterpret when a leader dies. That objection is aimed at a claim about an unprecedented *bodily* resurrection. This reading does not make that claim, so the parallels the objection offers — movements that reinterpreted rather than disbanded — are not counter-examples to it but roughly what it says happened.",
               "objection": {
@@ -102,7 +104,8 @@
             "year": "2012",
             "locator": "Habermas on the criterion for admitting a datum to the list",
             "sourceUrl": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The sharpest critic of this argument is a Christian. Dale Allison accepts the facts and denies that the inference goes through: what scholars grant is that the followers had experiences, which is a claim about their psychology, and the step from there to a bodily resurrection is not something the consensus supports — it is exactly what the consensus stops short of. Allison also notes that the comparative literature on bereavement visions is far larger and stranger than the apologetic use of it admits, including collective cases. Counting scholars who accept a premise is not the same as counting scholars who accept the conclusion.",
@@ -128,7 +131,8 @@
             "year": "1994",
             "locator": "our summary of the vision hypothesis as Lüdemann develops it; not his wording",
             "sourceUrl": "https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
-            "verification": "paraphrase"
+            "verification": "paraphrase",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Bereavement visions are real and are not what the sources describe. Mourners who see the dead do not conclude that the person has been raised bodily and that the age to come has begun; they conclude, correctly, that they have seen something and that the person is dead. The hypothesis also has to carry James, who was not grieving a leader he had followed, and Paul, who was not grieving at all but hunting the movement down. A mechanism that explains the disciples explains the two hardest cases worst.",
@@ -146,7 +150,8 @@
             "work": "in debate with William Lane Craig, College of the Holy Cross",
             "year": "2006",
             "sourceUrl": "https://en.wikiquote.org/wiki/Bart_D._Ehrman",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The principle rules the conclusion out before any evidence is examined, which is not a method but a stipulation. Prior improbability can be overcome by evidence — that is what Bayes' theorem describes, and it is how we conclude that unlikely things happened all the time. A lottery win is astronomically improbable and we believe in one on the testimony of a newspaper. If the rule is that no evidence could ever establish a miracle, then the argument is not a historical finding but the assumption that miracles do not occur, stated as a rule about historians.",
@@ -161,6 +166,7 @@
   "notes": [
     {
       "heading": "Why mythicism is not on this page",
+      "oneLine": "That Jesus existed is affirmed by agnostic and atheist scholars of the period as firmly as by Christian ones; mythicism has essentially no presence in the field.",
       "text": "The claim that Jesus never existed circulates widely online and has essentially no presence in the field. This is not a case of a religiously committed discipline defending its subject: the scholars who say so most bluntly include agnostics and atheists who have spent careers arguing that the gospels are unreliable and that Christianity's central claims are false.\n\nThe evidence is not extraordinary and does not need to be. Paul, writing within about twenty-five years of the crucifixion, says he met Jesus' brother James and Peter in Jerusalem — a difficult sentence to write about a person who did not exist, to an audience who could ask. Tacitus and Josephus refer to him from outside the movement. For a provincial teacher executed in a minor province, this is more than usually survives.",
       "quote": {
         "text": "He certainly existed, as virtually every competent scholar of antiquity, Christian or non-Christian, agrees",
@@ -169,11 +175,13 @@
         "year": "2011",
         "locator": "Ehrman is an agnostic and a critic of the gospels' reliability",
         "sourceUrl": "https://en.wikipedia.org/wiki/Did_Jesus_Exist%3F_(Ehrman_book)",
-        "verification": "corroborated"
+        "verification": "corroborated",
+        "sawWhat": "snippet"
       }
     },
     {
       "heading": "The empty tomb, which is genuinely contested",
+      "oneLine": "Whether the tomb was found empty is genuinely contested among historians, unlike the crucifixion and the appearances, and the strongest arguments here are built without it.",
       "text": "It is worth separating this from the settled core, because it is often presented as though it belonged to it and it does not.\n\nThat Jesus was crucified is agreed. That his followers reported appearances is agreed. Whether [[the empty tomb]] was found is disputed among historians: a majority of scholars writing on the question accept it, but that majority is smaller and less cross-cutting than the agreement on the other two, and serious specialists deny it — some arguing that a crucified criminal is unlikely to have been given a private tomb at all.\n\nThis is why the strongest form of the theist argument on this page is built without it, and why an argument that leans on it is weaker than one that does not."
     }
   ],

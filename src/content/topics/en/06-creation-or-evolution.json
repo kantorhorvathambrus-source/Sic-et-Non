@@ -66,7 +66,8 @@
             "year": "1986",
             "locator": "p. 6",
             "sourceUrl": "https://wwnorton.com/books/9780393351491",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This defeats one argument for God, and only one. Explaining how the eye was built is not explaining why there is a universe in which building things by selection is possible at all. Selection needs heritable variation, stable chemistry, and laws that hold still for four billion years.",
@@ -84,7 +85,8 @@
             "year": "1860",
             "locator": "DCP-LETT-2814",
             "sourceUrl": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This is the problem of suffering wearing a lab coat. It is a serious objection to a good God, and it is treated as one elsewhere on this site, but it is not an objection about evolution. Waste and time only count against a creator if you assume one would work quickly and economically.",
@@ -101,7 +103,8 @@
             "work": "Darwin's Dangerous Idea",
             "year": "1995",
             "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Dangerous-Idea/Daniel-C-Dennett/9780684824710",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Turning a successful method into a claim about everything that exists is a philosophical bet, not a scientific result — and the objection is pressed hardest by atheists who accept evolutionary biology entirely and refuse the metaphysical extension. Dennett calls his own idea a universal acid that eats through every traditional concept, and an acid that dissolves everything, including the reliability of the mind doing the dissolving, wants handling with care.",
@@ -127,7 +130,8 @@
             "year": "1973",
             "locator": "pp. 125-129",
             "sourceUrl": "https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "If the natural causes do all the work, God is doing nothing that can be detected, tested or noticed. A cause with no effects you could ever measure is indistinguishable from no cause at all, and adding it explains nothing.",
@@ -144,7 +148,8 @@
             "work": "Summa Theologiae I, q. 68, a. 1, tr. Fathers of the English Dominican Province",
             "year": "c. 1268",
             "sourceUrl": "https://www.newadvent.org/summa/1068.htm",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This is convenient, and the sharpest version of the complaint comes from other Christians rather than from atheists: young-earth creationists argue that once the science is settled, the text is discovered to have meant something compatible with it all along. A reading that can absorb any result is not being tested by anything.",
@@ -163,7 +168,8 @@
             "year": "2011",
             "locator": "preface, p. ix",
             "sourceUrl": "https://global.oup.com/academic/product/where-the-conflict-really-lies-9780199812097",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Evolution has no trouble explaining reliable belief: an animal that misjudges where the cliff edge is does not leave descendants. And the assumption that nature is regular is not a borrowed religious premise, it is a working rule vindicated every day for four hundred years.",
@@ -178,6 +184,7 @@
     "intro": "The disagreement between these four runs inside Christianity rather than between Christianity and atheism, which is why it sits apart from the two sides above. Each position is stated by someone who holds it, and then answered.",
     "note": {
       "heading": "Where this disagreement came from",
+      "oneLine": "Flood geology in its modern form dates from 1961, not from the ancient church — which reframes the dispute for most readers before they meet the four positions.",
       "text": "Flood geology in its modern form is younger than people on either side tend to assume. It runs largely from The Genesis Flood, published by John Whitcomb and Henry Morris in 1961 and building on the Seventh-day Adventist writer George McCready Price. Before that, old-earth readings were unremarkable among conservative Protestants: Charles Hodge and B. B. Warfield, two of the most formidable nineteenth-century defenders of biblical inerrancy, both accepted an ancient Earth.\n\nSo this is not science against Christianity. It is a largely twentieth-century movement standing against both mainstream science and most of Christian history — a point Augustine had made from inside the tradition fifteen hundred years earlier.",
       "quote": {
         "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
@@ -186,7 +193,8 @@
         "year": "c. 415",
         "locator": "Book I, ch. 19",
         "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
-        "verification": "corroborated"
+        "verification": "corroborated",
+        "sawWhat": "snippet"
       }
     },
     "entries": [
@@ -203,7 +211,8 @@
           "year": "2016",
           "locator": "a formulation used across Answers in Genesis material",
           "sourceUrl": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/",
-          "verification": "corroborated"
+          "verification": "corroborated",
+          "sawWhat": "snippet"
         },
         "onConflict": {
           "text": "Where the dating methods disagree with that reading, the reading wins. Young-earth creationism is explicit about this rather than evasive, and its largest advocacy organisation puts the principle in writing.",
@@ -213,7 +222,8 @@
             "work": "Statement of Faith, section on Scripture",
             "year": "current",
             "sourceUrl": "https://answersingenesis.org/about/faith/",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           }
         },
         "standing": "Rejected. Radiometric dating, ice cores, plate tectonics, coral growth bands and light travel time from distant galaxies agree with each other and not with a young Earth. There is no scientific dispute here to report."
@@ -230,7 +240,8 @@
           "work": "What is Darwinism?",
           "year": "1874",
           "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
-          "verification": "corroborated"
+          "verification": "corroborated",
+          "sawWhat": "snippet"
         },
         "standing": "The old Earth is correct. The separate creation of kinds is not: common descent rests on the same genomic evidence that underpins medicine and forensics, and on transitional fossils predicted before they were found."
       },
@@ -247,7 +258,8 @@
           "year": "1996",
           "locator": "p. 39",
           "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319",
-          "verification": "corroborated"
+          "verification": "corroborated",
+          "sawWhat": "snippet"
         },
         "standing": "Not accepted as science. The specific examples, notably the bacterial flagellum and the blood-clotting cascade, have step-by-step evolutionary accounts drawing on parts with other functions. In Kitzmiller v. Dover (2005) a federal court examined the claim at trial and ruled it is not science. Many Christians reject it too, as a [[God of the gaps]] argument that shrinks as biology advances.",
         "standingQuote": {
@@ -256,7 +268,8 @@
           "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
           "year": "2005",
           "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
-          "verification": "corroborated"
+          "verification": "corroborated",
+          "sawWhat": "snippet"
         }
       },
       {
@@ -272,7 +285,8 @@
           "year": "2006",
           "locator": "p. 178",
           "sourceUrl": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742",
-          "verification": "corroborated"
+          "verification": "corroborated",
+          "sawWhat": "snippet"
         },
         "standing": "Consistent with the science, because it makes no scientific claim of its own. It is also the position atheist critics engage with most sharply, on the ground that a God who acts only through ordinary natural causes is doing no detectable work."
       }

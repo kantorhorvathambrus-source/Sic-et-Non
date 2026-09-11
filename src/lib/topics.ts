@@ -141,8 +141,12 @@ export function readingTime(topic: TopicData): ReadingTime {
     shown.push(item.label, item.gloss);
   }
 
+  // A note's corrective is visible; its background is disclosed. This split is
+  // what brings layer 1 back under four minutes -- notes, not the openings, were
+  // what pushed it to six.
   for (const item of topic.notes ?? []) {
-    shown.push(item.heading, item.text, item.quote?.text);
+    shown.push(item.heading, item.oneLine);
+    hidden.push(item.text, item.quote?.text);
   }
 
   for (const side of topic.sides) {
@@ -177,6 +181,10 @@ export function readingTime(topic: TopicData): ReadingTime {
 
   if (topic.context) {
     shown.push(topic.context.heading, topic.context.intro);
+    if (topic.context.note) {
+      shown.push(topic.context.note.heading, topic.context.note.oneLine);
+      hidden.push(topic.context.note.text, topic.context.note.quote?.text);
+    }
     for (const entry of topic.context.entries) {
       shown.push(entry.name, entry.oneLine);
       hidden.push(

@@ -61,7 +61,8 @@
             "year": "2021",
             "locator": "the design inference as Meyer states it; the same argument runs through Signature in the Cell (2009)",
             "sourceUrl": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The premise is doing all the work and it is the disputed one. 'Uniform experience' of coded information is uniform experience of human artefacts, and of nothing else — the sample is one species over a few thousand years. Extending it to a case four billion years old, in conditions nobody has observed, is not induction but assumption. And the arbitrariness of the genetic code is itself under investigation: several of its assignments track the chemistry of the amino acids they name, which is what you would expect if the mapping grew rather than being assigned.",
@@ -82,7 +83,8 @@
                 "work": "The Language of God: A Scientist Presents Evidence for Belief",
                 "year": "2006",
                 "sourceUrl": "https://en.wikipedia.org/wiki/Francis_Collins",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The objection above cannot start, because this position makes no inference from information to a designer. Telling it that our uniform experience of codes is uniform experience of human artefacts is telling it something it already grants and has no use for: it is not arguing from the code at all.",
               "objection": {
@@ -103,7 +105,8 @@
                 "work": "Life from Life… or Not?",
                 "year": "2018",
                 "sourceUrl": "https://answersingenesis.org/origin-of-life/life-from-life-or-not/",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "againstSettledCore": "This conflicts with the settled core of topic 6, which is not a matter of dispute among biologists and geologists: living species descend with modification from shared ancestors, and the Earth is about 4.5 billion years old. The dating is established independently by radiometric methods, ice cores, varves, coral growth bands and starlight travel time, and no result in any of those fields supports a recent creation. The position is printed here at full strength because it is genuinely held and because paraphrasing it through its critics would be the mistake this site was built to avoid — and marked because printing it unmarked would be the other one.",
               "changesTheObjection": "The objection above is aimed at an inference this position does not make. It is not reasoning from the improbability of a sequence to a mind; it is denying that any prebiotic sequence occurred, on the authority of a text. An argument about the limits of induction from human artefacts has nothing to engage.",
@@ -126,7 +129,8 @@
             "year": "2016",
             "locator": "the popular statement of the estimate published in the Journal of Molecular Biology, 2004",
             "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/15321723/",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The estimate measures one fold in one protein and then treats functional sequences as isolated islands in a space that has to be searched blind. Both assumptions are contested by protein evolution researchers: functional regions may be connected rather than isolated, the search is not blind because selection retains partial success, and a count of sequences that produce one specific fold is not a count of sequences that would have done some job. A separate objection, pressed by Christians at BioLogos and elsewhere, is strategic rather than technical: resting a case for God on a currently unsolved problem puts him where the ignorance is, so that every advance in prebiotic chemistry becomes a small defeat for faith.",
@@ -150,7 +154,8 @@
             "work": "The Origin of Life in Alkaline Hydrothermal Vents, Astrobiology 16(2)",
             "year": "2016",
             "sourceUrl": "https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "abstract"
           },
           "counter": {
             "objection": "A gradient is energy, and energy is not the problem. Ice on a hillside has a gradient. What has to be explained is a system that harnesses one to build and copy itself, and the distance between a mineral pore doing chemistry and a cell running a metabolism is exactly the distance in question. Naming a plausible location is not the same as demonstrating a route.",
@@ -171,7 +176,8 @@
                 "work": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions, Nature 459",
                 "year": "2009",
                 "sourceUrl": "https://www.nature.com/articles/nature08013",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "abstract"
               },
               "changesTheObjection": "The objection above is that a gradient is only energy, and that naming a plausible location is not demonstrating a route. This programme is not naming a location. It is building routes, in reagents and steps, and can be argued with on the chemistry rather than on the geology — which is a different conversation with different evidence in it.",
               "objection": {
@@ -193,7 +199,8 @@
             "year": "2014",
             "locator": "the asphalt paradox, one of several the paper sets out",
             "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25608919/",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Naming a problem is not solving it, and the honesty is being offered as though it were progress. The asphalt paradox is precisely what the design argument predicts: undirected chemistry with energy in it produces mess, and the exceptions are the cases where a chemist supplied the direction. A field that has been candid about this for a decade and has not resolved it is evidence that the difficulty is structural rather than temporary.",
@@ -207,10 +214,12 @@
   "notes": [
     {
       "heading": "What Miller and Urey actually showed, and what they did not",
+      "oneLine": "Miller and Urey showed the building blocks of life form easily from simple chemistry — not that life nearly formed, and not that the problem is nearly solved.",
       "text": "The 1953 spark-discharge experiment is the most cited and most misread result in the field. It produced amino acids from a simple gas mixture, which was genuinely surprising and remains a real result: the building blocks are easy, and they turn up in meteorites too.\n\nIt did not produce life, was not claimed to, and used an atmosphere richer in hydrogen than the early Earth's is now thought to have been. Both sides overreach here. It is not evidence that the problem is nearly solved, and it is not a failed experiment: it settled that the monomers are cheap, and moved the difficulty to how they are sequenced, which is where the difficulty has stayed."
     },
     {
       "heading": "How little time there was",
+      "oneLine": "The window between a cooled Earth and the first evidence of life is a few hundred million years, which constrains every account here and is a difficulty for the chemistry.",
       "text": "This constrains both sides, and neither likes it. The Earth was uninhabitably hot until roughly 4.4 billion years ago, and there is reasonable evidence of life by about 3.7. That leaves a window of a few hundred million years, which is short for an undirected search and is a real difficulty for the chemistry.\n\nIt is not a difficulty for common descent, which is dated by different evidence entirely, and it is not by itself an argument for design — 'less time than expected' bears on how the thing happened, not on whether it needed a mind."
     }
   ],

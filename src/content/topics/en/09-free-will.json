@@ -57,7 +57,8 @@
             "year": "2000",
             "locator": "our summary of the agent-causal account the book defends; not O'Connor's wording",
             "sourceUrl": "https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf",
-            "verification": "paraphrase"
+            "verification": "paraphrase",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This names the mystery rather than solving it. If the agent's causing is not itself caused by anything about the agent — her character, her reasons, her mood — then it is not clear in what sense it expresses her rather than simply happening. Make it depend on those things and it is determined after all; make it independent of them and it looks like a random event with a person's name on it. That dilemma is old and no agent-causal theory has escaped it to its critics' satisfaction.",
@@ -78,7 +79,8 @@
                 "work": "Freedom of the Will",
                 "year": "1754",
                 "sourceUrl": "http://onthewing.org/user/Edwards%20-%20Freedom%20of%20the%20Will%20-%20Modern.pdf",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The objection above is the luck dilemma: if the agent's causing is not settled by her character and reasons it looks random, and if it is settled it is determined. This position takes the second horn deliberately and denies it is a horn at all. An argument that agent causation cannot escape determination is not an objection to a view whose whole claim is that it should not try.",
               "objection": {
@@ -101,7 +103,8 @@
             "year": "1983",
             "locator": "p. 16",
             "sourceUrl": "https://andrewmbailey.com/pvi/Consequence_Argument.doc",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "'Up to us' is exactly the phrase in dispute, so a principle built out of it inherits the disagreement rather than resolving it. On the compatibilist reading, whether something is up to you is a question about whether it went through your deliberation and would have gone differently had your reasons differed — and on that reading the premises are false, because it was up to you in the only sense anyone acts on. The argument is valid; whether it is sound depends on the very question it was meant to settle.",
@@ -126,7 +129,8 @@
             "year": "1984",
             "locator": "Dennett describing the book's aim, in the preface to the revised edition",
             "sourceUrl": "https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Everything on that list is real and none of it is what was being asked about, and the objection is pressed hardest not by religion but by naturalists. Galen Strawson and Derk Pereboom accept every one of Dennett's premises about physics and about human beings, and argue that responsiveness to reasons is not sourcehood: a sophisticated machine also takes in reasons and responds to them, and nobody thinks it deserves anything. The question was never whether human beings differ from rocks in their responsiveness, but whether anyone is ever the ultimate source of what they do.",
@@ -148,7 +152,8 @@
                 "work": "Living Without Free Will",
                 "year": "2001",
                 "sourceUrl": "https://ndpr.nd.edu/reviews/living-without-free-will/",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The objection above is that compatibilism keeps the vocabulary while dropping the thing people meant. This position agrees, and drops the vocabulary too. An argument that a redefinition has changed the subject cannot be pressed against someone who has declined to redefine anything.",
               "objection": {
@@ -169,7 +174,8 @@
                 "work": "The Impossibility of Moral Responsibility, Philosophical Studies 75",
                 "year": "1994",
                 "sourceUrl": "https://plato.stanford.edu/entries/skepticism-moral-responsibility/",
-                "verification": "corroborated"
+                "verification": "corroborated",
+                "sawWhat": "snippet"
               },
               "changesTheObjection": "The objection above says that the freedom on offer is not the freedom people meant. This argument does not offer any freedom, so there is nothing to accuse of falling short. It also removes the theist's usual reply — that indeterminism makes room — since the regress runs identically whether the steps are determined or not.",
               "objection": {
@@ -191,7 +197,8 @@
             "year": "2012",
             "locator": "the book's thesis, stated in its opening pages",
             "sourceUrl": "https://en.wikipedia.org/wiki/Free_Will_(book)",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The sharpest objection here comes from within the same camp, not from religion: Dennett has argued at length against Harris that this confuses a folk theory with the phenomenon. That thoughts arrive unbidden is true and irrelevant, because deliberation is not the selecting of a first thought but what happens to it afterwards — the reflection, the weighing, the veto. Telling people that responsibility is an illusion is also, Dennett argues, an empirical claim about consequences that Harris does not defend and that may well be false.",
@@ -206,10 +213,12 @@
   "notes": [
     {
       "heading": "Christians are on both sides of this, and always have been",
+      "oneLine": "Libertarian free will is not the Christian position: a large part of the tradition, Edwards and the Reformed line especially, denies it on theological grounds.",
       "text": "The page puts libertarian freedom on the theist side because that is where the argument for it is currently made, but it is not the Christian view, and presenting it that way would misrepresent a large part of the tradition.\n\nThe Reformed tradition is broadly compatibilist. Jonathan Edwards argued in 1754 that the will is always determined by the strongest motive and that this is no threat to responsibility — a position closer to Dennett's than to van Inwagen's, reached two centuries earlier and for theological reasons. Augustine and Aquinas are both read in more than one direction. A reader who takes from this page that Christians believe in libertarian free will and atheists do not has taken the wrong thing: what the page shows is which arguments are currently live, not who is entitled to make them."
     },
     {
       "heading": "The Libet experiments, and why they are not in an argument slot",
+      "oneLine": "The Libet experiments are still cited as showing free will is an illusion, and the interpretation has been substantially walked back by the field.",
       "text": "In the 1980s Benjamin Libet found brain activity preceding the reported moment of deciding to move a finger by a few hundred milliseconds, and for thirty years this was cited everywhere as experimental evidence against free will.\n\nIt is not in a slot above because the interpretation has been substantially walked back, by people on both sides. The 'readiness potential' now looks in part like an artefact of averaging trials aligned on movement, and can appear when no decision is made at all; the task — move a finger at an arbitrary moment for no reason — is close to the least deliberative thing a person can do; and Libet himself thought his results left room for a conscious veto. The finding is real and the conclusion drawn from it is not currently defended in that form, which is why it is here."
     }
   ],

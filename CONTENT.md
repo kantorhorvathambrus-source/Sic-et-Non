@@ -129,6 +129,60 @@ The common thread is that each failure passes every mechanical check and produce
 a page that looks balanced. Only reading the page as an opponent would catches
 them.
 
+## How much of the source did we actually have?
+
+Every quotation and every paraphrase carries `sawWhat`, and it is not a
+confidence rating. It records literally how much of the source was on the screen
+when the entry was written:
+
+| value | meaning |
+|---|---|
+| `full-text` | the work, chapter or article was read |
+| `abstract` | an abstract or publisher's summary was read in full |
+| `snippet` | a fragment reached us, typically quoted inside a search result |
+| `title-only` | a title and a citation, and nothing else |
+
+**Nothing is written from a title.** A title plus a citation is a pointer to a
+source, not a source. `title-only` fails the build: if that is all we have, the
+entry does not exist yet and goes on the candidates list with a note of what is
+missing.
+
+This field exists because the worst failure on this project was written from a
+title — an argument invented out of the name of a paper, with a living
+philosopher's name attached to it. `verification` records how far the wording was
+checked. `sawWhat` records whether there was anything to check it against.
+
+Fill it as you write the entry, never as a later pass. A field filled
+retrospectively is a guess about what you saw.
+
+## Decisions are made here, not in messages
+
+Status tags, variant counts, slots versus notes, `objectionFrom` classification,
+`singleVoice`, `againstSettledCore`, cutting a candidate on merit or parking it
+on retrieval, and reading time over four minutes where the alternative misleads a
+skimmer — all of these are decided by whoever is working, using the tests already
+written down, and **recorded in this file as they are made**.
+
+Not in a report. A report is read once and lost; this file is what the next
+session reads. That has already gone wrong once on this project: an entire
+specification was sent, never arrived, and nobody noticed for two rounds because
+the only record of it was a message.
+
+The two things that stop and ask are: an irreversible action, and a genuine
+contradiction between two rules in this file that cannot be resolved from what is
+written. Everything else gets decided and logged.
+
+## Layer 1: the corrective stays, the background goes behind a disclosure
+
+Notes are split. `oneLine` is the one sentence a skimming reader must not leave
+without, and it is visible. `text` is the background, and it is disclosed.
+
+*Measured, which is how the split was chosen.* Layer 1 had drifted to five and
+six minutes, and the diagnosis offered first — longer opening sections — was
+wrong. `realQuestion` was 124-168 words on topics 7-13 and 131-203 on topics 1-5;
+the notes were 171-306 words against 0-208. Notes were the whole of the drift.
+After the split, layer 1 is three to four minutes on every topic.
+
 ## Two tests for a paraphrase, not one
 
 The `paraphrase` level answers one question: **is this accurate?** It does not
@@ -657,3 +711,19 @@ text is a reason a quotation stays `corroborated`.
 - Column order alternates by topic number (`orderedSides` in `src/lib/topics.ts`),
   so neither position has a permanent home on the left. Topic 6 is even, so the
   atheist side leads.
+
+
+---
+
+# Decision log
+
+Decisions taken under standing authority, newest last. One line of reason each.
+Anything that changed a tag, a count, a slot, or a classification belongs here.
+
+| Date | Topic | Decision | Reason |
+|---|---|---|---|
+| 2026-08-30 | 2 | Tag moved interpretive → open | The PSR literature is live and people in it change their minds; test 2 is about whether the dispute moves, not whether evidence could settle it. |
+| 2026-09-01 | 12 | Tag interpretive, with the exegetical question split off as `activeHere: false` | Two disputes stacked: what the texts teach is open, whether it could be just is interpretive, and the page argues the second. |
+| 2026-09-01 | 7 | `objectionFrom: within` removed from the Axe argument | Fitted, not found: the strongest pressure on the estimate is the methodological critique, which is not distinctively internal. |
+| 2026-09-06 | 11 | Second atheist argument left unattributed | The accusation could not be sourced to anyone; printing it unattributed is better than hanging it on a name, and the quotable version is parked on candidates. |
+| 2026-09-11 | all | Notes split into a visible corrective and disclosed background | Measurement showed notes, not openings, were what pushed layer 1 past four minutes. |

@@ -4,6 +4,7 @@
 import type { CollectionEntry } from 'astro:content';
 import type { Locale } from '../i18n';
 import type { GlossaryMap } from '../lib/richtext';
+import { useTranslations } from '../i18n';
 import RichText from './RichText.astro';
 import Quotation from './Quotation.astro';
 
@@ -17,15 +18,81 @@ interface Props {
 }
 
 const { note, locale, glossary } = Astro.props;
+const t = useTranslations(locale);
 ---
 
 <aside class="topic-note">
   <h3>{note.heading}</h3>
-  <RichText text={note.text} glossary={glossary} />
-  {note.quote && <Quotation quote={note.quote} locale={locale} side="neutral" />}
+  <p class="corrective">{note.oneLine}</p>
+
+  <details class="note-more">
+    <summary>
+      <span>{t('note.more')}</span>
+      <span class="marker" aria-hidden="true"></span>
+    </summary>
+    <div class="note-body">
+      <RichText text={note.text} glossary={glossary} />
+      {note.quote && <Quotation quote={note.quote} locale={locale} side="neutral" />}
+    </div>
+  </details>
 </aside>
 
 <style>
+  /* The corrective is the sentence a skimmer must not leave without, so it stays
+     visible; the background behind it is disclosed. Notes, not the openings,
+     were what pushed layer 1 from four minutes to six. */
+  .corrective {
+    margin: 0;
+    font-weight: 500;
+  }
+
+  .note-more > summary {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2xs);
+    margin-top: var(--space-s);
+    cursor: pointer;
+    list-style: none;
+    font-size: var(--step--1);
+    color: var(--ink-muted);
+  }
+
+  .note-more > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .note-more > summary:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 4px;
+  }
+
+  .note-more .marker {
+    width: 0.45em;
+    height: 0.45em;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(45deg);
+    opacity: 0.6;
+  }
+
+  .note-more[open] .marker {
+    transform: rotate(-135deg);
+  }
+
+  .note-body {
+    padding-top: var(--space-s);
+  }
+
+  @media print {
+    .note-body {
+      display: block !important;
+    }
+
+    .note-more .marker {
+      display: none;
+    }
+  }
+
   .topic-note {
     padding: var(--space-m) var(--space-l);
     background: var(--bg-sunken);

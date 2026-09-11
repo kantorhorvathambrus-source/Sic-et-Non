@@ -25,6 +25,24 @@ const quote = z.object({
   year: z.string().min(1),
   sourceUrl: z.string().url(),
   verification: z.enum(['primary', 'corroborated', 'paraphrase']),
+  /**
+   * How much of the source was actually in front of whoever wrote this entry.
+   * Not a confidence rating — a record of what was on the screen.
+   *
+   *   full-text  the work, or the relevant chapter or article, was read
+   *   abstract   an abstract or a publisher's summary was read in full
+   *   snippet    a fragment reached us, typically quoted inside a search result
+   *   title-only a title and a citation, and nothing else
+   *
+   * "title-only" fails the build. A title plus a citation is a pointer to a
+   * source, not a source; if that is all we have, the entry does not exist yet
+   * and belongs on the candidates list with a note of what is missing.
+   *
+   * This field exists because the worst failure on this project came from
+   * writing an argument out of a title and attaching a living philosopher's
+   * name to it. See CONTENT.md, "Two tests for a paraphrase".
+   */
+  sawWhat: z.enum(['full-text', 'abstract', 'snippet', 'title-only']),
   /** Page, section or line reference within the work, where one is known. */
   locator: z.string().optional(),
   /**
@@ -70,8 +88,21 @@ const distinction = z.object({
  * it belongs here, where it is not competing for the space a current argument
  * needs.
  */
+/**
+ * Background that is not an argument.
+ *
+ * Split in two so that layer 1 does not carry the whole thing. `oneLine` is the
+ * corrective — the single sentence a skimming reader must not leave without —
+ * and stays visible. `text` is the background behind it and is disclosed.
+ *
+ * The split exists because notes, not the opening sections, were what pushed
+ * layer 1 from four minutes to six: topics 7-13 carried 171-306 words of note
+ * text in the default view.
+ */
 const note = z.object({
   heading: z.string().min(1),
+  /** One sentence, visible in the default view. The thing a skimmer must not miss. */
+  oneLine: z.string().min(1),
   text: z.string().min(1),
   quote: quote.optional(),
 });
@@ -333,25 +364,47 @@ const topics = defineCollection({
       // and it forces the author to write the disclaimer out rather than assume
       // the level carries it.
       const DISCLAIMER = /\bnot\b[^.]*\b(wording|words)\b|\bour\b[^.]*\b(summary|words|wording|statement|paraphrase)\b/i;
-      const paraphrases: { path: (string | number)[]; quote: { verification: string; locator?: string; author: string } }[] = [];
+      const everyQuote: {
+        path: (string | number)[];
+        quote: { verification: string; sawWhat: string; locator?: string; author: string };
+      }[] = [];
       topic.sides.forEach((sideValue, s) =>
         sideValue.arguments.forEach((arg, a) => {
-          if (arg.quote) paraphrases.push({ path: ['sides', s, 'arguments', a, 'quote'], quote: arg.quote });
+          if (arg.quote) everyQuote.push({ path: ['sides', s, 'arguments', a, 'quote'], quote: arg.quote });
           if (arg.counter?.quote) {
-            paraphrases.push({ path: ['sides', s, 'arguments', a, 'counter', 'quote'], quote: arg.counter.quote });
+            everyQuote.push({ path: ['sides', s, 'arguments', a, 'counter', 'quote'], quote: arg.counter.quote });
           }
           (arg.variants ?? []).forEach((v, i) => {
-            paraphrases.push({ path: ['sides', s, 'arguments', a, 'variants', i, 'quote'], quote: v.quote });
+            everyQuote.push({ path: ['sides', s, 'arguments', a, 'variants', i, 'quote'], quote: v.quote });
             if (v.objection?.quote) {
-              paraphrases.push({ path: ['sides', s, 'arguments', a, 'variants', i, 'objection', 'quote'], quote: v.objection.quote });
+              everyQuote.push({ path: ['sides', s, 'arguments', a, 'variants', i, 'objection', 'quote'], quote: v.objection.quote });
             }
           });
         }),
       );
       (topic.notes ?? []).forEach((n, i) => {
-        if (n.quote) paraphrases.push({ path: ['notes', i, 'quote'], quote: n.quote });
+        if (n.quote) everyQuote.push({ path: ['notes', i, 'quote'], quote: n.quote });
       });
-      for (const { path, quote: q } of paraphrases) {
+      if (topic.context?.note?.quote) {
+        everyQuote.push({ path: ['context', 'note', 'quote'], quote: topic.context.note.quote });
+      }
+      (topic.context?.entries ?? []).forEach((e, i) => {
+        if (e.quote) everyQuote.push({ path: ['context', 'entries', i, 'quote'], quote: e.quote });
+        if (e.onConflict?.quote) {
+          everyQuote.push({ path: ['context', 'entries', i, 'onConflict', 'quote'], quote: e.onConflict.quote });
+        }
+        if (e.standingQuote) {
+          everyQuote.push({ path: ['context', 'entries', i, 'standingQuote'], quote: e.standingQuote });
+        }
+      });
+      for (const { path, quote: q } of everyQuote) {
+        // Nothing is written from a title.
+        if (q.sawWhat === 'title-only') {
+          fail(
+            path,
+            `this entry is attributed to ${q.author} but only a title and a citation were ever seen. A title is a pointer to a source, not a source: put it on the candidates list with what is missing, and take it off the page.`,
+          );
+        }
         if (q.verification !== 'paraphrase') continue;
         if (!q.locator || !DISCLAIMER.test(q.locator)) {
           fail(

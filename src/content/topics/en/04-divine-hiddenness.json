@@ -53,7 +53,8 @@
             "year": "1881",
             "locator": "§91, 'God's honesty'",
             "sourceUrl": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "It assumes that being understood is the only thing God could want, and that clarity costs nothing. If what is wanted is a relationship freely entered, then overwhelming someone with evidence is not a better version of the same thing; it changes what is on offer. A proof would produce assent, and assent is not trust.",
@@ -71,7 +72,8 @@
             "year": "1993",
             "locator": "our summary of the hiddenness argument as Schellenberg sets it out; not his wording",
             "sourceUrl": "https://philpapers.org/rec/SCHDHA",
-            "verification": "paraphrase"
+            "verification": "paraphrase",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The argument needs 'open to a relationship' to mean 'makes belief happen now', and those are different. A relationship can be genuinely on offer while the timing is not ours: a person unready at thirty may be ready at fifty, and a God outside time is not obliged to work to our schedule. Nor is belief the only form openness can take.",
@@ -94,7 +96,8 @@
             "work": "Pensées, tr. W. F. Trotter",
             "year": "1670",
             "sourceUrl": "https://www.ccel.org/ccel/pascal/pensees.viii.html",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This makes an untestable claim about the inner state of everyone who fails to find God, and it makes it in a direction that is very convenient. It says that anyone still looking must not really want to see — which cannot be checked, cannot be disproved, and quietly insults a great many honest people.",
@@ -112,7 +115,8 @@
             "year": "1942",
             "locator": "Letter VIII",
             "sourceUrl": "https://en.wikipedia.org/wiki/The_Screwtape_Letters",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This explains why God might not force belief. It does not explain the actual distribution. Millions have lived and died without ever encountering the claim, which is not freedom but absence of the option. And within Christianity, God is described as making himself unmistakable to particular people — Paul on the road to Damascus was not left epistemic distance. Whatever the value of the gap, it is applied unevenly.",
@@ -125,6 +129,7 @@
   "notes": [
     {
       "heading": "The Bible got here first",
+      "oneLine": "Divine hiddenness is not an objection invented by critics: the complaint is inside the Psalms and the prophets, in sharper language than most modern versions use.",
       "text": "It is worth knowing, on both sides, that [[the hiddenness of God]] is not an objection invented by critics. It is a theme inside the texts.\n\nThe psalms ask how long God will hide his face. Isaiah addresses him directly as a God who hides himself. Job's complaint is not that God is unjust in the abstract but that he will not show up and answer. And the sentence the Gospels put in Jesus's mouth at the crucifixion is a quotation from Psalm 22: my God, why have you forsaken me.\n\nThis does not settle anything. It does mean that a Christian who finds God absent is in a position the tradition has language for, and that an atheist presenting hiddenness as a fact Christianity has failed to notice is presenting it to people who have been writing about it for three thousand years."
     }
   ],

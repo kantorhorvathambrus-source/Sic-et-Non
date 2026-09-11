@@ -61,7 +61,8 @@
             "year": "1714",
             "locator": "§7",
             "sourceUrl": "https://philpapers.org/rec/LEIPON",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The principle is asserted, not established. It works beautifully inside the universe, where explanations are found by looking, and there is no independent reason to think it holds of existence as such. And if it does hold universally, it is in trouble anyway: God's existence would then need an explanation too, and calling it self-explanatory is not obviously more than a way of stopping.",
@@ -78,7 +79,8 @@
             "work": "Summa Theologiae I, q. 2, a. 3, the Third Way, tr. Fathers of the English Dominican Province",
             "year": "c. 1265",
             "sourceUrl": "https://www.newadvent.org/summa/1002.htm",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "This looks like a [[fallacy of composition]]. Every human has a mother; the human race does not. Moving from 'each thing is contingent' to 'the whole is contingent' is exactly the move that fails elsewhere, and the argument gives no reason why it should work here.",
@@ -101,7 +103,8 @@
             "work": "Debate with Frederick Copleston, BBC Third Programme",
             "year": "1948",
             "sourceUrl": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "The two stopping points are not equivalent. Stopping at a necessary being is stopping at something whose nature accounts for its existing; stopping at the universe is stopping at something that visibly could have been otherwise, and simply declining to ask. One is an explanation, the other is a decision not to want one.",
@@ -119,7 +122,8 @@
             "year": "1779",
             "locator": "Part IX, spoken by Cleanthes",
             "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
-            "verification": "corroborated"
+            "verification": "corroborated",
+            "sawWhat": "snippet"
           },
           "counter": {
             "objection": "Explaining each member by another member does not explain why there is a series at all. If every coat in a rack hangs on the hook of the coat beside it, you have explained each coat and not why anything is off the floor. The question was never 'what caused this event', it was 'why is there a sequence rather than none'.",
