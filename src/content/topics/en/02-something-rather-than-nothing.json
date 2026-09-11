@@ -66,8 +66,34 @@
           },
           "counter": {
             "objection": "The principle is asserted, not established. It works beautifully inside the universe, where explanations are found by looking, and there is no independent reason to think it holds of existence as such. And if it does hold universally, it is in trouble anyway: God's existence would then need an explanation too, and calling it self-explanatory is not obviously more than a way of stopping.",
-            "response": "Abandoning it has a price that is rarely counted. If some things simply have no explanation, then no failure to find one ever counts as evidence of anything, and the reasoning that got us to the question in the first place is undercut. The choice is not between a principle and no principle; it is between a principle and arbitrariness."
-          }
+            "response": "Abandoning it has a price that is rarely counted. If some things simply have no explanation, then no failure to find one ever counts as evidence of anything, and the reasoning that got us to the question in the first place is undercut. The choice is not between a principle and no principle; it is between a principle and arbitrariness.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "classical-theism",
+              "label": "God is not a being among beings",
+              "heldBy": "Thomas Aquinas; Edward Feser, David Bentley Hart, Brian Davies",
+              "oneLine": "The answer is not that one more entity happens to exist necessarily, but that everything whose essence does not include existing depends on the one thing whose essence is existing.",
+              "summary": "Classical theism and the argument above reach the same conclusion by routes that its own defenders regard as importantly different — and the dispute between them is live inside Christian philosophy, with Feser and Craig on opposite sides of it in print.\n\nThe move here is not an explanatory principle applied to the universe. It is a distinction between two kinds of thing: those where what a thing is and that it is come apart, and one where they do not. Anything of the first kind has its existence from outside itself. Whatever terminates that dependence is not an unusually powerful item in the inventory of things; on this account it is not an item in the inventory at all.",
+              "quote": {
+                "text": "God is very being by His own essence",
+                "author": "Thomas Aquinas",
+                "work": "Summa Theologiae, I q.3 a.4",
+                "year": "c. 1270",
+                "locator": "on whether essence and existence are the same in God",
+                "sourceUrl": "https://www.newadvent.org/summa/1003.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that the explanatory principle is asserted rather than established — that nothing licenses demanding an explanation for the universe as a whole. This version does not run on a general principle about explanation. It runs on a specific claim about two kinds of being, and it has to be attacked there: by denying the essence-existence distinction, or by holding that the universe itself is of the second kind. An argument that the principle is unproven has no principle in front of it.",
+              "objection": {
+                "text": "The distinction is the whole argument and it is available only inside one metaphysics. Outside Aristotelian-Thomistic philosophy, 'essence' is not a thing a being has in the required sense, and the claim that existence is added to it is not a claim most philosophers can state, let alone evaluate. There is also a cost its defenders accept and its critics find fatal: a God who is not a being among beings and has no properties in the ordinary sense is very hard to distinguish, in practice, from the brute necessity the other side is accused of settling for.",
+                "from": "atheist",
+                "response": "That a position needs its own metaphysics is not an objection to it, and the distinction is argued for at length rather than assumed. The charge of indistinguishability runs the other way too: a God who was just a very large item in the inventory would be exactly the thing the other side says needs explaining."
+              }
+            }
+          ]
         },
         {
           "id": "contingent-all-the-way",
@@ -108,8 +134,33 @@
           },
           "counter": {
             "objection": "The two stopping points are not equivalent. Stopping at a necessary being is stopping at something whose nature accounts for its existing; stopping at the universe is stopping at something that visibly could have been otherwise, and simply declining to ask. One is an explanation, the other is a decision not to want one.",
-            "response": "That only works if 'necessary being' is a coherent notion doing real work, rather than a name for the place the questions were stopped. Nobody has produced a necessary being that can be inspected, and 'its nature accounts for its existing' is a claim, not a demonstration."
-          }
+            "response": "That only works if 'necessary being' is a coherent notion doing real work, rather than a name for the place the questions were stopped. Nobody has produced a necessary being that can be inspected, and 'its nature accounts for its existing' is a claim, not a demonstration.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "pseudo-question",
+              "label": "The question is ill-formed",
+              "heldBy": "Adolf Grünbaum; Sean Carroll",
+              "oneLine": "The demand for an explanation of existence rests on treating nothingness as the natural default, and there is no reason whatever to think it is.",
+              "summary": "This is a sharper position than the one above, and it disagrees with it. Where the brute-fact answer concedes the question and declines to answer it, this one denies there is a well-formed question.\n\nThe argument attacks a premise nobody usually states: that nothing is what you would expect, so that something needs a reason. Grünbaum traces that assumption to Leibniz and asks what could possibly license it. Our sense of what is spontaneous or natural comes from inside a world of things, and tells us nothing at all about whether a universe with nothing in it would have been the unsurprising case.",
+              "quote": {
+                "text": "Leibniz's explanatory demand is an ill-conceived non-starter which poses a pseudo issue",
+                "author": "Adolf Grünbaum",
+                "work": "Why Is There a World AT ALL, Rather Than Just Nothing?",
+                "year": "2009",
+                "sourceUrl": "https://www.stafforini.com/existence/Grunbaum%20-%20Why%20is%20there%20a%20world%20at%20all,%20rather%20than%20just%20nothing.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that the two stopping points are not equivalent: stopping at a necessary being is stopping at something whose nature accounts for its existing, and stopping at a brute universe is not. That comparison assumes there is an explanatory demand to be met well or badly. This version denies the demand, so an argument that one answer to it is better than another is not addressed to it.",
+              "objection": {
+                "text": "Declaring a question ill-formed is the strongest possible claim and the hardest to establish. People have asked this one for three thousand years without obvious confusion, and 'you have no licence to expect nothing' is not the same as 'there is nothing to explain' — the fact that a universe exists remains a fact, whatever our expectations were. The position also sits awkwardly with the rest of the side: the brute-fact answer above concedes the question is real and simply has no answer, which it could not do if the question were malformed.",
+                "from": "theist",
+                "response": "That a question has been asked for a long time is not evidence that it is well formed; several long-standing questions have turned out to presuppose something false. The awkwardness with the other answer is real and is what this section is for."
+              }
+            }
+          ]
         },
         {
           "id": "the-parts-and-the-whole",

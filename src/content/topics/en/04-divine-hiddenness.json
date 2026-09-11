@@ -77,8 +77,34 @@
           },
           "counter": {
             "objection": "The argument needs 'open to a relationship' to mean 'makes belief happen now', and those are different. A relationship can be genuinely on offer while the timing is not ours: a person unready at thirty may be ready at fifty, and a God outside time is not obliged to work to our schedule. Nor is belief the only form openness can take.",
-            "response": "Some of those people die at thirty. And an offer that the person reaching for it cannot detect is doing none of the work the word 'offer' usually does. The reply may be true, but it is the claim that God's love does not look like love from inside a human life, which is a heavy thing to grant."
-          }
+            "response": "Some of those people die at thirty. And an offer that the person reaching for it cannot detect is doing none of the work the word 'offer' usually does. The reply may be true, but it is the claim that God's love does not look like love from inside a human life, which is a heavy thing to grant.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "demographics",
+              "label": "The geography of belief",
+              "heldBy": "Stephen Maitzen",
+              "oneLine": "Theistic belief is nearly universal in some countries and very rare in others, and that distribution is what you would expect from culture rather than from a God seeking everyone.",
+              "summary": "This version does not turn on whether any individual is resisting. It turns on a pattern.\n\nIf belief in God arose from a faculty responding to God, or from a God making himself available to whoever is open, its distribution should not track national borders as closely as it does. What the demographic data show instead is that the best predictor of whether a person believes is where they were born. Naturalistic explanations of that pattern are straightforward; theistic ones have to explain why a God seeking relationship with everyone would produce an outcome shaped like a map.",
+              "quote": {
+                "text": "Theistic belief is distributed extremely unevenly across the world, being near-universal in some countries and very rare in others, and this pattern is far better explained by cultural transmission than by any account on which God seeks a relationship with every person.",
+                "author": "Stephen Maitzen",
+                "work": "Divine Hiddenness and the Demographics of Theism, Religious Studies 42",
+                "year": "2006",
+                "locator": "our summary of the argument as Maitzen sets it out; not his wording",
+                "sourceUrl": "https://philosophy.acadiau.ca/tl_files/sites/philosophy/resources/documents/Maitzen_Hiddenness.pdf",
+                "verification": "paraphrase",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that 'open to a relationship' need not mean 'makes belief happen now', and that a relationship can be genuinely on offer while someone is not yet ready. That answer is about individuals and their readiness. It has nothing to say about why readiness should correlate so strongly with a passport, which is the fact this version is built on.",
+              "objection": {
+                "text": "Cultural transmission explains the distribution of almost every belief, including true ones: where you are born predicts whether you accept evolution or germ theory too, and nobody concludes from that that germs are cultural. The argument also assumes a God who wants uniform belief now rather than a history working through particular peoples and times, which is the opposite of what the tradition claims about how he has in fact acted.",
+                "from": "theist",
+                "response": "The parallel fails at the point that matters: where the evidence is public, the cultural variation shrinks as the evidence spreads, and the theistic claim is precisely that the relevant evidence is available to everyone already."
+              }
+            }
+          ]
         }
       ]
     },
@@ -101,8 +127,33 @@
           },
           "counter": {
             "objection": "This makes an untestable claim about the inner state of everyone who fails to find God, and it makes it in a direction that is very convenient. It says that anyone still looking must not really want to see — which cannot be checked, cannot be disproved, and quietly insults a great many honest people.",
-            "response": "Read that way it deserves the objection, and it is often read that way. The stronger reading is not about individuals at all: it is that evidence never operates on a person independently of what they are prepared to do with it, which is a claim about how belief works generally, not an accusation about any particular unbeliever."
-          }
+            "response": "Read that way it deserves the objection, and it is often read that way. The stronger reading is not about individuals at all: it is that evidence never operates on a person independently of what they are prepared to do with it, which is a claim about how belief works generally, not an accusation about any particular unbeliever.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "properly-basic",
+              "label": "The demand for evidence misdescribes the belief",
+              "heldBy": "Alvin Plantinga, Nicholas Wolterstorff, William Alston; Reformed epistemology broadly",
+              "oneLine": "Belief in God is not a conclusion people reach from evidence, so a complaint that the evidence is insufficient is aimed at something nobody was doing.",
+              "summary": "This position does not say the evidence is adequate. It says the question is framed wrongly from the start.\n\nOn Plantinga's account we have a faculty — Calvin's sensus divinitatis — that produces belief in God directly in certain circumstances: gratitude, guilt, the sight of a mountain. Beliefs formed that way are basic, like belief in other minds or in the reality of the past, and none of those is held on the strength of an argument either. If the faculty exists and is working, belief is warranted without evidence; if sin has damaged it, that is a story about why some people do not believe which does not require them to be culpably resisting anything.",
+              "quote": {
+                "text": "God has created us human beings with a belief-producing process or source of belief, the sensus divinitatis; this source works under various conditions to produce beliefs about God, including beliefs that immediately entail his existence. Belief produced in this way can easily meet the conditions for warrant.",
+                "author": "Alvin Plantinga",
+                "work": "Warranted Christian Belief",
+                "year": "2000",
+                "sourceUrl": "https://www.ccel.org/ccel/plantinga/warrant3.vi.ii.i.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that the position makes an untestable claim about the inner state of everyone who fails to find God, and makes it in a convenient direction. This version makes no claim about resistance at all. A faculty can fail without its owner being at fault, in the way that colour blindness is not a moral failing, so the charge of blaming the unbeliever has nothing to attach to.",
+              "objection": {
+                "text": "A faculty that produces belief in God in some populations and not others, and whose outputs disagree about which God, is not obviously a faculty rather than a cultural inheritance. The account also cuts both ways: if basic beliefs can be warranted without argument, the same licence is available to every religion and to positions the account's holders reject, and Plantinga's answer — that only the true one is in fact warranted — is unavailable to anyone trying to work out which is true.",
+                "from": "atheist",
+                "response": "The parity objection is answered rather than ignored: warrant is a matter of whether the faculty is functioning properly in a suitable environment, which is an external fact and not something the believer has to establish first."
+              }
+            }
+          ]
         },
         {
           "id": "the-distance-is-the-point",

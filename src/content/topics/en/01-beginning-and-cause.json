@@ -62,8 +62,34 @@
           },
           "counter": {
             "objection": "Every [[cause]] anyone has ever observed happened inside time, to something made of already-existing stuff, in a universe with laws. The premise is an excellent rule about events within the universe and there is no reason to think it applies to the universe itself. Extending it there is not obvious; it is the whole thing being argued for.",
-            "response": "That objection proves too much. If rules learned inside the universe cannot be applied to it, then neither can the cosmology the other side relies on, nor logic, nor probability. Something has to carry across, and a principle this basic is a strange one to abandon precisely where it becomes inconvenient."
-          }
+            "response": "That objection proves too much. If rules learned inside the universe cannot be applied to it, then neither can the cosmology the other side relies on, nor logic, nor probability. Something has to carry across, and a principle this basic is a strange one to abandon precisely where it becomes inconvenient.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "essentially-ordered",
+              "label": "A cause here and now, not at the start",
+              "heldBy": "Thomas Aquinas; Edward Feser, David Oderberg, Gaven Kerr",
+              "oneLine": "The argument that matters is not about a first moment at all: it is that anything whose existence is derived needs something sustaining it at every instant.",
+              "summary": "The Thomistic tradition grants what the kalam disputes — a universe with no temporal beginning would be no embarrassment — and argues that this changes nothing.\n\nThe distinction is between a series stretched out in time, where each cause has done its work and gone, and a series where every member is being held in place right now. A cat on a floor on joists on foundations is the second kind: remove the ground and the whole arrangement fails this instant, not eventually. On this account the world is that kind of series all the way down, and what it terminates in is not the first event but the one thing whose existence is not derived from anything.",
+              "quote": {
+                "text": "The Aristotelian proof does not point to a first cause at the start of a sequence of consecutive events, but to a sustaining cause that at every instant holds finite and changeable things in existence.",
+                "author": "Edward Feser",
+                "work": "Five Proofs of the Existence of God",
+                "year": "2017",
+                "locator": "our summary of the essentially-ordered argument as Feser states it; not his wording",
+                "sourceUrl": "http://edwardfeser.blogspot.com/2016/06/four-causes-and-five-ways.html",
+                "verification": "paraphrase",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that every cause we have observed operated inside time, on already-existing material, so the premise cannot be extended to the universe as a whole. This version never extends it that way. It is not claiming that the universe began and therefore had a cause; it is claiming that whatever exists derivatively is being sustained now, which is an argument that would run identically in a universe with no first moment at all.",
+              "objection": {
+                "text": "The argument needs a distinction between things whose existence is derived and things whose existence is not, and that distinction is doing all the work before any causal claim is made. Critics argue the series may simply have no terminus, or that the universe itself is the undérived member — and the reply that the universe is composite and so cannot be underived assumes an Aristotelian metaphysics of act and potency that almost nobody outside the tradition accepts. A proof whose premises are only available inside one school is not obviously a proof.",
+                "from": "atheist",
+                "response": "Every argument has premises someone rejects. The act-and-potency analysis is defended on its own grounds rather than assumed, and the alternative — a series of derived existences with nothing underived anywhere — is the thing being denied, not an untouched option."
+              }
+            }
+          ]
         },
         {
           "id": "an-actual-beginning",
@@ -80,7 +106,9 @@
           },
           "counter": {
             "objection": "The theorem constrains classical spacetimes, and nobody thinks the earliest universe was classical. What it shows is that our current description breaks down, which is what a [[singularity]] always shows. Vilenkin himself has since worked on quantum-gravity models in which the boundary is not an absolute beginning, and no theory we trust reaches back that far.",
-            "response": "Granted, and this is why the argument does not rest here. The point is narrower: the models designed specifically to avoid a beginning have not succeeded in avoiding one, and a past-eternal universe is currently the harder position to hold, not the safe default."
+            "response": "Granted, and this is why the argument does not rest here. The point is narrower: the models designed specifically to avoid a beginning have not succeeded in avoiding one, and a past-eternal universe is currently the harder position to hold, not the safe default.",
+            "objectionFrom": "within",
+            "sharedPremise": "it accepts the Borde-Guth-Vilenkin theorem and the observational cosmology entirely, and argues from those results alone that a theorem about classical spacetimes does not settle what happened where the classical description fails — which is the regime the argument needs."
           }
         }
       ]
@@ -123,8 +151,34 @@
           },
           "counter": {
             "objection": "\"The equations do not mention causes\" is a fact about the notation, not about reality. Physics does not mention persons or promises either. And a cause need not come earlier in time: the tradition has always allowed a cause that is simultaneous with, or outside, what it causes — the point is dependence, not sequence.",
-            "response": "Once the cause need not be earlier, need not be physical, and need not act in any way we can describe, it is fair to ask what is left of the word. The argument's force came from the everyday sense of cause, and that sense is exactly what has been given up to make it work."
-          }
+            "response": "Once the cause need not be earlier, need not be physical, and need not act in any way we can describe, it is fair to ask what is left of the word. The argument's force came from the everyday sense of cause, and that sense is exactly what has been given up to make it work.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "quantum-nothing",
+              "label": "Empty space is not stable",
+              "heldBy": "Lawrence Krauss; Alexander Vilenkin and Alan Guth on quantum cosmology",
+              "oneLine": "A universe can come from empty space with no cause, because empty space is a quantum system and quantum systems do not sit still.",
+              "summary": "This is the version most readers have met, and it is a stronger claim than the one above it. It does not say the causal principle fails to extend beyond time; it says the principle is already false inside the world, and that we can watch it fail.\n\nOn the quantum-cosmological account a zero-total-energy universe can appear from a state with no matter, no radiation and no spacetime, by the same physics that makes the vacuum fizz with particles. Whether that state deserves the name 'nothing' is exactly what the argument is about.",
+              "quote": {
+                "text": "Nothing is unstable. It will always produce something.",
+                "author": "Lawrence M. Krauss",
+                "work": "A Universe from Nothing, in interview",
+                "year": "2012",
+                "sourceUrl": "https://www.npr.org/2012/01/13/145175263/lawrence-krauss-on-a-universe-from-nothing",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that 'the equations do not mention causes' is a fact about notation rather than about the world. That reply is aimed at a position which says the causal question does not arise; this version says the causal question arises and gets answered — by physics, with a mechanism. It is a much more exposed claim, and a much more testable one.",
+              "objection": {
+                "text": "The [[quantum vacuum]] is not nothing. It is a physical system with energy, structure and laws, and a universe emerging from it is a universe emerging from something highly specific. Sean Carroll, from the same side of this page, has made the criticism as plainly as any theist: the book equivocates between the philosopher's nothing and the physicist's vacuum, and the title promises an answer to a question the contents do not address. Where the laws themselves came from is then the same question one step back.",
+                "from": "within",
+                "sharedPremise": "it accepts quantum field theory and the cosmological models in full, and argues from those premises alone that the state they begin from is a physical system with properties, so describing it as nothing changes the subject rather than answering the question.",
+                "response": "There may be no other sense of \"nothing\" that is coherent. A state with no space, no time and no matter is as close to nothing as anything can be, and demanding a nothing with no properties at all may be demanding something that could not exist to be explained."
+              }
+            }
+          ]
         }
       ]
     }

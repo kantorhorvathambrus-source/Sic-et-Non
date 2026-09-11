@@ -71,8 +71,33 @@
           },
           "counter": {
             "objection": "This defeats one argument for God, and only one. Explaining how the eye was built is not explaining why there is a universe in which building things by selection is possible at all. Selection needs heritable variation, stable chemistry, and laws that hold still for four billion years.",
-            "response": "That is a real question, but a different one, and it belongs to the argument about why anything exists. What was lost here is specific and large: biology used to be the best evidence for a designer, and now it is not evidence either way."
-          }
+            "response": "That is a real question, but a different one, and it belongs to the argument about why anything exists. What was lost here is specific and large: biology used to be the best evidence for a designer, and now it is not evidence either way.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "noma",
+              "label": "The question does not arise",
+              "heldBy": "Stephen Jay Gould; much of mainstream scientific institutional policy, including the National Academy of Sciences",
+              "oneLine": "Evolution does not bear on God either way, because the two enterprises answer different kinds of question and their domains do not overlap.",
+              "summary": "Gould's position is on this side of the page because he was not a theist, and it is the position most scientific institutions have adopted in public. It is not a diplomatic silence; it is a claim about what each enterprise is for.\n\nScience covers what the universe is made of and why it works as it does. Religion covers questions of meaning and value. On that division, asking whether evolution counts against God is a category error in the same way as asking whether it counts against justice, and the argument on this page is one nobody should be having.",
+              "quote": {
+                "text": "we get the age of rocks, and religion retains the rock of ages; we study how the heavens go, and they determine how to go to heaven",
+                "author": "Stephen Jay Gould",
+                "work": "Nonoverlapping Magisteria, Natural History",
+                "year": "1997",
+                "sourceUrl": "https://www.bennington.edu/doc/24366",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that explaining how the eye was built defeats one argument for God and only one. This position says it defeats none, because no biological result could bear on the question either way. The objection concedes that evolution has some evidential force against theism and disputes its scope; here the force is denied outright, so a dispute about scope has nothing to be about.",
+              "objection": {
+                "text": "The division does not survive contact with what religions actually claim. A faith that says a man rose from the dead, that the universe was made, or that prayer changes outcomes is making claims about the empirical net, and telling it that it is really only doing values is redefining it rather than respecting it. Dawkins has pressed this from one side and conservative theologians from the other, which is unusual agreement: both say the truce is bought by describing religion as something its adherents do not recognise.",
+                "from": "both",
+                "response": "The division is normative rather than descriptive: it says what each enterprise can legitimately claim, not what every practitioner has claimed, and a religion that makes empirical predictions has stepped outside its own magisterium."
+              }
+            }
+          ]
         },
         {
           "id": "process-looks-unplanned",
@@ -135,8 +160,81 @@
           },
           "counter": {
             "objection": "If the natural causes do all the work, God is doing nothing that can be detected, tested or noticed. A cause with no effects you could ever measure is indistinguishable from no cause at all, and adding it explains nothing.",
-            "response": "Indistinguishable within physics, yes, which is what the doctrine has always said. The claim was never that God is one force among the forces. Being explanatorily idle for a particular science is not the same as being absent, or the same objection would rule out mathematics, moral facts and other minds."
-          }
+            "response": "Indistinguishable within physics, yes, which is what the doctrine has always said. The claim was never that God is one force among the forces. Being explanatorily idle for a particular science is not the same as being absent, or the same objection would rule out mathematics, moral facts and other minds.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "young-earth-creationism",
+              "label": "Young-earth creationism",
+              "heldBy": "A minority of Protestant Christians, concentrated in the United States; institutionally Answers in Genesis and the Institute for Creation Research.",
+              "oneLine": "Genesis 1 describes six ordinary days a few thousand years ago, and the fossil-bearing rock was laid down by Noah's flood.",
+              "summary": "Genesis 1 describes six ordinary days a few thousand years ago. The positive case is geological: a global flood is offered as the explanation of the sedimentary rock layers and of the fossils in them, which on this reading were buried fast rather than accumulating over aeons. The argument is that the strata are what a year-long catastrophe would leave behind.\n\nIt also draws a distinction between observational science, done on things you can measure now, and historical science, which reconstructs a past nobody witnessed — and argues that deep time belongs to the second kind.",
+              "quote": {
+                "text": "Billions of dead things, buried in rock layers, laid down by water, all over the earth.",
+                "author": "Ken Ham",
+                "work": "Learning Paleontology from a Biblical Perspective, Answers in Genesis",
+                "year": "2016",
+                "locator": "a formulation used across Answers in Genesis material",
+                "sourceUrl": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that a God who works only through natural causes is doing nothing detectable. This position does not claim that: it claims direct creation, recently, and disputes the dating rather than the detectability. An argument about undetectable action has no target here.",
+              "objection": {
+                "text": "The dating is established independently by radiometric methods, ice cores, varves, coral bands, tree rings and the travel time of starlight, and the position requires all of them to be wrong in a coordinated way nobody has explained. Old-earth and evolutionary creationists add a theological objection: hanging the faith on a claim the evidence contradicts sets a believer up to lose both at once.",
+                "from": "both",
+                "response": "Set out at length in the position's own literature; the page states the objection rather than adjudicating it."
+              },
+              "againstSettledCore": "This conflicts with the settled core stated at the top of this page, which is not a matter of dispute among biologists or geologists. It is printed here in its own advocates' words because a position held by a large minority of Christians should not be met only through its critics, and marked because printing it unmarked would be the opposite mistake.",
+              "status": "settled-core"
+            },
+            {
+              "id": "old-earth-creationism",
+              "label": "Old-earth creationism",
+              "heldBy": "Conservative Protestants who accept mainstream geology but not common descent; historically Charles Hodge, today groups such as Reasons to Believe.",
+              "oneLine": "The Earth really is billions of years old, but God created the major kinds separately rather than by common descent.",
+              "summary": "The Earth really is billions of years old and the geological column is real; the days of Genesis are ages, or a literary frame. What is denied is not deep time but undirected common descent.\n\nCharles Hodge, the most formidable American conservative theologian of the nineteenth century, took exactly this line. He had no quarrel with an old Earth. His quarrel was with the exclusion of purpose from nature.",
+              "quote": {
+                "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
+                "author": "Charles Hodge",
+                "work": "What is Darwinism?",
+                "year": "1874",
+                "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "It accepts the age of the Earth and the geology entirely and denies common descent, so the objection about undetectable divine action misses it in the same way: this position expects the action to be detectable, in the fossil record, at the points where new kinds appear.",
+              "objection": {
+                "text": "Accepting the geology and rejecting the biology takes the evidence apart at a joint it does not have. The same radiometric dating that gives the rocks their age gives the fossils theirs, and the nested pattern of shared genetic errors -- broken vitamin C genes, endogenous retroviruses in matching positions -- is the kind of evidence that convicts people in court. The position also keeps needing to move: each 'kind' held to be separately created has tended to acquire transitional relatives.",
+                "from": "both",
+                "response": "Set out at length in the position's own literature; the page states the objection rather than adjudicating it."
+              }
+            },
+            {
+              "id": "intelligent-design",
+              "label": "Intelligent design",
+              "heldBy": "Associated with the Discovery Institute; Michael Behe, William Dembski, Stephen Meyer.",
+              "oneLine": "Some biological systems need every part at once to work at all, so design is a better inference than step-by-step selection.",
+              "summary": "Intelligent design accepts an old Earth and, in Behe's case, common descent too. Its claim is narrower: that some biological structures are [[irreducibly complex|irreducible complexity]], every part being needed for the system to work, so selection cannot build them by useful intermediate steps. Design is offered as an inference from evidence, not from Scripture.\n\nIts defenders add that mainstream science rules design out in advance, by adopting [[methodological naturalism]] as a ground rule rather than reaching it as a finding.",
+              "quote": {
+                "text": "By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning.",
+                "author": "Michael J. Behe",
+                "work": "Darwin's Black Box: The Biochemical Challenge to Evolution",
+                "year": "1996",
+                "locator": "p. 39",
+                "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "Same displacement, by a different route. The whole programme exists to say that design is empirically detectable in biological systems, so an objection that God's action would leave no measurable trace is an objection to a position this one was formed against.",
+              "objection": {
+                "text": "Irreducible complexity has not survived its test cases: the bacterial flagellum, the blood-clotting cascade and the immune system were each offered as examples and each has had plausible stepwise accounts published. The deeper objection is methodological and is pressed by Christians as often as by atheists -- an inference to design from what has not yet been explained is a [[god of the gaps]] bet against future biology, and it has lost every previous round.",
+                "from": "both",
+                "response": "Set out at length in the position's own literature; the page states the objection rather than adjudicating it."
+              }
+            }
+          ]
         },
         {
           "id": "genesis-and-the-fathers",
@@ -179,119 +277,6 @@
       ]
     }
   ],
-  "context": {
-    "heading": "Four Christian positions",
-    "intro": "The disagreement between these four runs inside Christianity rather than between Christianity and atheism, which is why it sits apart from the two sides above. Each position is stated by someone who holds it, and then answered.",
-    "note": {
-      "heading": "Where this disagreement came from",
-      "oneLine": "Flood geology in its modern form dates from 1961, not from the ancient church — which reframes the dispute for most readers before they meet the four positions.",
-      "text": "Flood geology in its modern form is younger than people on either side tend to assume. It runs largely from The Genesis Flood, published by John Whitcomb and Henry Morris in 1961 and building on the Seventh-day Adventist writer George McCready Price. Before that, old-earth readings were unremarkable among conservative Protestants: Charles Hodge and B. B. Warfield, two of the most formidable nineteenth-century defenders of biblical inerrancy, both accepted an ancient Earth.\n\nSo this is not science against Christianity. It is a largely twentieth-century movement standing against both mainstream science and most of Christian history — a point Augustine had made from inside the tradition fifteen hundred years earlier.",
-      "quote": {
-        "text": "Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.",
-        "author": "Augustine of Hippo",
-        "work": "De Genesi ad litteram (The Literal Meaning of Genesis), tr. J. H. Taylor",
-        "year": "c. 415",
-        "locator": "Book I, ch. 19",
-        "sourceUrl": "https://inters.org/augustine-interpretating-sacred-scripture",
-        "verification": "corroborated",
-        "sawWhat": "snippet"
-      }
-    },
-    "entries": [
-      {
-        "id": "young-earth-creationism",
-        "name": "Young-earth creationism",
-        "heldBy": "A minority of Protestant Christians, concentrated in the United States; institutionally Answers in Genesis and the Institute for Creation Research.",
-        "oneLine": "Genesis 1 describes six ordinary days a few thousand years ago, and the fossil-bearing rock was laid down by Noah's flood.",
-        "summary": "Genesis 1 describes six ordinary days a few thousand years ago. The positive case is geological: a global flood is offered as the explanation of the sedimentary rock layers and of the fossils in them, which on this reading were buried fast rather than accumulating over aeons. The argument is that the strata are what a year-long catastrophe would leave behind.\n\nIt also draws a distinction between observational science, done on things you can measure now, and historical science, which reconstructs a past nobody witnessed — and argues that deep time belongs to the second kind.",
-        "quote": {
-          "text": "Billions of dead things, buried in rock layers, laid down by water, all over the earth.",
-          "author": "Ken Ham",
-          "work": "Learning Paleontology from a Biblical Perspective, Answers in Genesis",
-          "year": "2016",
-          "locator": "a formulation used across Answers in Genesis material",
-          "sourceUrl": "https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/",
-          "verification": "corroborated",
-          "sawWhat": "snippet"
-        },
-        "onConflict": {
-          "text": "Where the dating methods disagree with that reading, the reading wins. Young-earth creationism is explicit about this rather than evasive, and its largest advocacy organisation puts the principle in writing.",
-          "quote": {
-            "text": "No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.",
-            "author": "Answers in Genesis",
-            "work": "Statement of Faith, section on Scripture",
-            "year": "current",
-            "sourceUrl": "https://answersingenesis.org/about/faith/",
-            "verification": "corroborated",
-            "sawWhat": "snippet"
-          }
-        },
-        "standing": "Rejected. Radiometric dating, ice cores, plate tectonics, coral growth bands and light travel time from distant galaxies agree with each other and not with a young Earth. There is no scientific dispute here to report."
-      },
-      {
-        "id": "old-earth-creationism",
-        "name": "Old-earth creationism",
-        "heldBy": "Conservative Protestants who accept mainstream geology but not common descent; historically Charles Hodge, today groups such as Reasons to Believe.",
-        "oneLine": "The Earth really is billions of years old, but God created the major kinds separately rather than by common descent.",
-        "summary": "The Earth really is billions of years old and the geological column is real; the days of Genesis are ages, or a literary frame. What is denied is not deep time but undirected common descent.\n\nCharles Hodge, the most formidable American conservative theologian of the nineteenth century, took exactly this line. He had no quarrel with an old Earth. His quarrel was with the exclusion of purpose from nature.",
-        "quote": {
-          "text": "What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.",
-          "author": "Charles Hodge",
-          "work": "What is Darwinism?",
-          "year": "1874",
-          "sourceUrl": "https://www.gutenberg.org/files/19192/19192-h/19192-h.htm",
-          "verification": "corroborated",
-          "sawWhat": "snippet"
-        },
-        "standing": "The old Earth is correct. The separate creation of kinds is not: common descent rests on the same genomic evidence that underpins medicine and forensics, and on transitional fossils predicted before they were found."
-      },
-      {
-        "id": "intelligent-design",
-        "name": "Intelligent design",
-        "heldBy": "Associated with the Discovery Institute; Michael Behe, William Dembski, Stephen Meyer.",
-        "oneLine": "Some biological systems need every part at once to work at all, so design is a better inference than step-by-step selection.",
-        "summary": "Intelligent design accepts an old Earth and, in Behe's case, common descent too. Its claim is narrower: that some biological structures are [[irreducibly complex|irreducible complexity]], every part being needed for the system to work, so selection cannot build them by useful intermediate steps. Design is offered as an inference from evidence, not from Scripture.\n\nIts defenders add that mainstream science rules design out in advance, by adopting [[methodological naturalism]] as a ground rule rather than reaching it as a finding.",
-        "quote": {
-          "text": "By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning.",
-          "author": "Michael J. Behe",
-          "work": "Darwin's Black Box: The Biochemical Challenge to Evolution",
-          "year": "1996",
-          "locator": "p. 39",
-          "sourceUrl": "https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319",
-          "verification": "corroborated",
-          "sawWhat": "snippet"
-        },
-        "standing": "Not accepted as science. The specific examples, notably the bacterial flagellum and the blood-clotting cascade, have step-by-step evolutionary accounts drawing on parts with other functions. In Kitzmiller v. Dover (2005) a federal court examined the claim at trial and ruled it is not science. Many Christians reject it too, as a [[God of the gaps]] argument that shrinks as biology advances.",
-        "standingQuote": {
-          "text": "We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.",
-          "author": "Judge John E. Jones III",
-          "work": "Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)",
-          "year": "2005",
-          "sourceUrl": "https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
-          "verification": "corroborated",
-          "sawWhat": "snippet"
-        }
-      },
-      {
-        "id": "evolutionary-creation",
-        "name": "Evolutionary creation, or theistic evolution",
-        "heldBy": "The majority position among Christians worldwide, including the Catholic Church, most mainline Protestant churches and the Orthodox churches; Francis Collins, Alister McGrath, BioLogos.",
-        "oneLine": "Evolution is accepted in full, and understood as the means by which God created.",
-        "summary": "Evolution is accepted in full and understood as the means by which God created. No scientific claim is denied and no gap is reserved.\n\nThe Catholic position was stated by John Paul II in 1996, when he told the Pontifical Academy of Sciences that new knowledge had led to the recognition in evolution of \"more than a hypothesis\". Francis Collins, who led the Human Genome Project, argues the same case from the genome itself.",
-        "quote": {
-          "text": "God, who is not limited to space and time, created the universe and established natural laws that govern it.",
-          "author": "Francis Collins",
-          "work": "The Language of God: A Scientist Presents Evidence for Belief",
-          "year": "2006",
-          "locator": "p. 178",
-          "sourceUrl": "https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742",
-          "verification": "corroborated",
-          "sawWhat": "snippet"
-        },
-        "standing": "Consistent with the science, because it makes no scientific claim of its own. It is also the position atheist critics engage with most sharply, on the ground that a God who acts only through ordinary natural causes is doing no detectable work."
-      }
-    ]
-  },
   "whereItStands": "The scientific half of this question is closed, and has been for a long time. The half that is open is philosophical, and genuinely open: does a complete natural account of how life developed leave the claim that the world has an author untouched, or slowly drain it of anything to do?\n\nBoth answers are held by careful people who agree entirely about the biology. Dobzhansky and Dawkins would not disagree about a single fact in a genetics paper. They disagree about what the facts mean, and that will not be settled by more genetics.\n\nOne thing has changed in the last century and is worth stating without spin. The four Christian positions are not equally supported. Young-earth creationism makes empirical claims that are false. Intelligent design has not established its central claim and lost badly when it was tested in court. Old-earth creationism is right about the Earth and wrong about descent. Evolutionary creation is the only one of the four not in conflict with anything established, and it is also the majority Christian position worldwide.",
   "commonMistake": "Atheists most often treat young-earth creationism as though it were Christianity's position. It is a minority view, largely North American, about sixty years old in its modern form, and rejected by the Catholic Church, most Protestant denominations and the Orthodox churches. Defeating it is easy and proves almost nothing about the real argument, which is with people who accept every fact you are about to cite.\n\nChristians most often think accepting evolution costs them something, and so defend a scientific position they have no reason to hold. Their own tradition's rule, from Augustine and Aquinas, was to avoid staking Scripture on a claim about nature that might be overturned.\n\nAnd both sides make one mistake together: treating \"creation\" and \"evolution\" as answers to the same question, so that more of one has to mean less of the other. Almost nobody who has thought about it carefully, on either side, believes that.",
   "sources": [

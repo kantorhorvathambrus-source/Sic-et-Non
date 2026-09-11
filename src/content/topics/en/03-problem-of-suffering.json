@@ -105,8 +105,33 @@
           },
           "counter": {
             "objection": "\"We cannot see a reason\" is only evidence of \"there is no reason\" if we are the sort of thing that would see one. A beginner looking at a grandmaster's move cannot see the point of it, and is not thereby entitled to conclude there is none. If a mind capable of making a universe had reasons, our failing to spot them would be the expected result, not a surprise.",
-            "response": "That reply — [[skeptical theism]] — works, and it costs more than it looks. If we are that badly placed to judge God's reasons, we are equally badly placed to judge that anything is good, or that any answered prayer was answered, or that any of the evidence for God is what it seems. The blindness cannot be switched on only when it is needed."
-          }
+            "response": "That reply — [[skeptical theism]] — works, and it costs more than it looks. If we are that badly placed to judge God's reasons, we are equally badly placed to judge that anything is good, or that any answered prayer was answered, or that any of the evidence for God is what it seems. The blindness cannot be switched on only when it is needed.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "pain-and-pleasure",
+              "label": "A likelihood comparison, not a failure to see",
+              "heldBy": "Paul Draper",
+              "oneLine": "Set theism against the hypothesis that the universe is indifferent, and ask which better predicts what we actually know about how pain and pleasure are distributed in living things.",
+              "summary": "Draper's version is the most technically careful form of the argument from suffering, and it is built to avoid the weakness the reply above exploits.\n\nIt makes no claim that we have searched for a reason and failed. It compares two hypotheses over a body of evidence: what we know about pain and pleasure, including the fact that both are distributed exactly as biological usefulness would predict — pain where damage must be avoided, pleasure where behaviour must be reinforced, and a great deal of both where it serves no apparent moral purpose at all. The claim is that indifference predicts this pattern better than a good God does, and so the evidence tells against theism whether or not we can think of a reason.",
+              "quote": {
+                "text": "observations and testimony about pain and pleasure bear a significant negative evidential relation to theism",
+                "author": "Paul Draper",
+                "work": "Pain and Pleasure: An Evidential Problem for Theists, Noûs 23(3)",
+                "year": "1989",
+                "sourceUrl": "https://infidels.org/library/modern/nontheism-atheism-pain-and-pleasure/",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that 'we cannot see a reason' is evidence of 'there is no reason' only if we are the sort of thing that would see one. That reply targets an inference from failure to find. This argument makes no such inference: it is a comparison of how well two hypotheses predict evidence we already have, and an opponent who wants to answer it has to argue about the likelihoods rather than about the limits of human insight.",
+              "objection": {
+                "text": "The comparison needs a prior probability for each hypothesis and a way of fixing what theism predicts about biology, and neither is available in a form both sides accept. A theist who holds that God had reasons to create a law-governed world with functioning organisms will say theism predicts biologically useful pain rather well. The argument's precision is real, but the numbers it compares are estimates of estimates, and the sceptical-theist reply reappears in a new place: our sense of what a good God would probably do is exactly what is in question.",
+                "from": "theist",
+                "response": "Fixing the likelihoods is difficult and the argument is explicit about it; what it does not require is that we survey God’s reasons, which is what the older version was accused of."
+              }
+            }
+          ]
         },
         {
           "id": "the-price-of-a-reason",
@@ -149,8 +174,35 @@
           },
           "counter": {
             "objection": "The blindness cannot be switched on only when it is needed. If we are too small to judge whether a horror was permitted for a reason, we are too small to judge that anything is good, that any prayer was answered, or that a religious experience was what it seemed. It also cuts into ordinary ethics: if unknown goods may justify appalling suffering, I can never be confident that preventing a harm is right, since the harm might be serving one. The price of the defence is paid in topics 10 and 17 as much as here.",
-            "response": "The reply is that the limit is specific rather than general: we are badly placed to survey the whole space of possible goods across all of history, and perfectly well placed to know that a child in front of us is in pain and that we should help. Whether that line can be held where it is needed and nowhere else is the open question, and it is a real one."
-          }
+            "response": "The reply is that the limit is specific rather than general: we are badly placed to survey the whole space of possible goods across all of history, and perfectly well placed to know that a child in front of us is in pain and that we should help. Whether that line can be held where it is needed and nowhere else is the open question, and it is a real one.",
+            "landsOn": [],
+            "objectionFrom": "both"
+          },
+          "variants": [
+            {
+              "id": "open-theism",
+              "label": "God did not know which way it would go",
+              "heldBy": "John Sanders, Gregory Boyd, Clark Pinnock, Richard Rice",
+              "oneLine": "If creatures are genuinely free, the future is partly open, and God is not culpable for failing to prevent what was not there to be foreseen.",
+              "summary": "Open theism is a minority position and a contested one inside Christianity, and it answers this topic differently from every other theist position on the page.\n\nThe classical account has God knowing the whole future as settled fact, which makes every horror something he saw coming and permitted. Open theists hold instead that God's knowledge is perfect but that a partly open future is what there is to know: he knows possibilities as possibilities. Most of the theodicy problem is then not a problem about what God allowed but about what a world containing genuinely free creatures is.",
+              "quote": {
+                "text": "because agents are free, the future includes possibilities, and since God’s knowledge is perfect, open theists hold that God knows the future partly as a realm of possibilities. This view contrasts with classical theism that has usually held that God knows the future exclusively as a domain of settled facts.",
+                "author": "John Sanders",
+                "work": "Summary of Open Theism",
+                "year": "2016",
+                "sourceUrl": "https://drjohnsanders.com/summary-of-open-theism/",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that the blindness cannot be switched on only when it is needed — that if we are too small to judge whether a horror had a reason, we are too small to judge anything. This position claims no blindness. It does not say there is a reason we cannot see; it says that for a large class of horrors there was no foreseen outcome to have a reason about, so the argument has no concealed justification to attack.",
+              "objection": {
+                "text": "It answers only the horrors that turn on free choices, and much of the worst suffering does not: a child's bone cancer, a tsunami, four hundred million years of animal predation. For those, God's foreknowledge is not in question and the original problem returns untouched. The cost is also very high and is what most of the tradition objects to — a God who is genuinely surprised is not the God of the creeds, and the position has been formally rejected by several denominations that hold it incompatible with providence.",
+                "from": "within",
+                "sharedPremise": "it argues from premises this position holds — that God is good, that Scripture is authoritative, and that providence is real — to the conclusion that a God who does not know the future cannot be the one the tradition has been describing, and that natural suffering is untouched either way.",
+                "response": "Natural suffering is addressed by the same account applied to a creation given real causal powers of its own, and the creedal objection is a claim about which tradition is right rather than an argument that this one is wrong."
+              }
+            }
+          ]
         },
         {
           "id": "soul-making",

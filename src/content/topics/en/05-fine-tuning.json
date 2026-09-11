@@ -79,8 +79,34 @@
           },
           "counter": {
             "objection": "The same regress applies to the other answer with more force. A mind capable of selecting the constants of physics is not a simple thing that needs no account; it is at least as specific as the universe it is invoked to explain, and rather harder to describe. If 'what fine-tuned the multiverse generator' is a good question, 'what accounts for a universe-designing mind' is a better one.",
-            "response": "That is the strongest reply, and the classical answer is that God is held not to be a complex arrangement of parts at all, so that the regress does not start. Whether that answer is a genuine metaphysical claim or a way of declaring one explanation exempt is the argument in topic 2, and it is not settled here."
-          }
+            "response": "That is the strongest reply, and the classical answer is that God is held not to be a complex arrangement of parts at all, so that the regress does not start. Whether that answer is a genuine metaphysical claim or a way of declaring one explanation exempt is the argument in topic 2, and it is not settled here.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "theistic-multiverse",
+              "label": "God made the multiverse",
+              "heldBy": "Don Page, Robin Collins; a strand of Christian physics and philosophy of religion",
+              "oneLine": "A multiverse is not a rival to design but a thing that might have been designed, and a God who wanted a universe like this one may have made many.",
+              "summary": "This position accepts the physics the argument above is attacking and denies that accepting it costs anything.\n\nIf the landscape is real, then the question simply moves: a multiverse with the right law-generating machinery is itself a very particular thing, and the reasons for thinking a single fine-tuned universe calls for explanation apply to an ensemble that reliably produces fine-tuned members. Page has argued at length that a creator who values a rich creation might be expected to make many universes rather than one, so that the discovery would confirm rather than embarrass theism.",
+              "quote": {
+                "text": "A multiverse is not an alternative to a creator but a possible form of creation: a God who values a rich and varied creation might well produce many universes rather than one, so the existence of a multiverse would be evidence about what was made, not about whether it was made.",
+                "author": "Don N. Page",
+                "work": "Does God So Love the Multiverse?",
+                "year": "2008",
+                "locator": "our summary of the position Page argues for; not his wording",
+                "sourceUrl": "https://philpapers.org/rec/PAGDGS",
+                "verification": "paraphrase",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that the same regress applies with more force to a designing mind — that a mind able to select the constants is not a simple thing needing no explanation. That objection is aimed at an argument which treats the multiverse as a competitor. Here it is not a competitor, so a complaint that theism is the less economical of two rival explanations has only one explanation in front of it.",
+              "objection": {
+                "text": "If the multiverse is compatible with God, the fine-tuning argument has lost its evidential force in the only place it had any. An argument that the constants are improbable on chance and likely on design cannot survive the concession that they are also unremarkable on a physics that produces every combination. The position is coherent, and it is coherent at the price of the argument this page is about.",
+                "from": "both",
+                "response": "It is a price the position accepts: the claim is that theism is not threatened by the multiverse, not that the multiverse leaves the design argument intact. Whether anything is lost depends on how much weight the argument was carrying."
+              }
+            }
+          ]
         }
       ]
     },
@@ -122,9 +148,35 @@
           },
           "counter": {
             "objection": "The [[anthropic principle]] explains why we observe a life-permitting universe given that we observe anything. It does not explain why there is a life-permitting universe to be observed. Facing a firing squad and surviving, you may conclude that of course you are alive to wonder about it — and still be entitled to ask why twelve marksmen all missed.",
-            "response": "The firing squad works as an analogy only if we know the marksmen rarely miss, which is the probability we do not have. Without knowing the range the constants could have taken, there is no fact about how surprising the outcome is, and the analogy imports the very number the argument needs to establish."
+            "response": "The firing squad works as an analogy only if we know the marksmen rarely miss, which is the probability we do not have. Without knowing the range the constants could have taken, there is no fact about how surprising the outcome is, and the analogy imports the very number the argument needs to establish.",
+            "landsOn": []
           },
-          "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge"
+          "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge",
+          "variants": [
+            {
+              "id": "the-landscape",
+              "label": "The landscape",
+              "heldBy": "Leonard Susskind, Martin Rees, Max Tegmark, Andrei Linde",
+              "oneLine": "String theory and eternal inflation together predict an enormous number of universes with different constants, so a universe with constants like ours is not surprising but expected.",
+              "summary": "The multiverse is the answer most often attributed to this side and, until now, the only position on this page nobody stated in their own words — it appeared as something the theist argument above attacks. It belongs here in its own voice.\n\nThe claim is not a bare appeal to possibility. String theory appears to permit an astronomical number of stable vacua with different physical constants, and eternal inflation appears to realise them. If both hold, the constants are not dials somebody set: they are what varies between regions, and observers necessarily find themselves in a region where observers can exist.",
+              "quote": {
+                "text": "the best explanation for the patterns we see in cosmology and particle physics is a very diverse landscape of possibilities and an extremely large universe – a multiverse",
+                "author": "Leonard Susskind",
+                "work": "in discussion with Lee Smolin, Edge",
+                "year": "2004",
+                "sourceUrl": "https://www.edge.org/conversation/lee_smolin-leonard_susskind-smolin-vs-susskind-the-anthropic-principle",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that the anthropic principle explains why we observe a life-permitting universe given that we observe anything, but not why there is a life-permitting universe at all. That reply is decisive against a bare anthropic observation. It is not available against this version, which supplies the thing the bare version lacks: a mechanism that actually produces the ensemble the selection effect then operates on.",
+              "objection": {
+                "text": "The sharpest objection is from physics, not religion. Lee Smolin — an atheist, arguing with Susskind directly — holds that a theory which predicts every possible universe predicts nothing, and that anthropic reasoning in this form removes the discipline that made physics work: there is no observation that could come out against it. String theory's landscape is also not an established result but a conjecture about a framework that has made no confirmed prediction in forty years.",
+                "from": "within",
+                "sharedPremise": "it accepts naturalism and the whole of the physics, and argues from those premises alone that a framework compatible with every outcome makes no predictions, and that a theory which cannot be disconfirmed has left the practice that gave physics its authority.",
+                "response": "The landscape does make predictions — about the cosmological constant, about spatial curvature — and anthropic reasoning of this kind was used to predict the observed value of the cosmological constant before it was measured."
+              }
+            }
+          ]
         }
       ]
     }
