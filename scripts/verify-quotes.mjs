@@ -184,7 +184,13 @@ for (const full of files) {
           if (item.objection.response) {
             checkTerms(file, `${vbase}.objection.response`, item.objection.response, glossary, usedTerms);
           }
+          if (item.objection.quote) checkQuote(file, `${vbase}.objection.quote`, item.objection.quote);
         }
+        // A variant's quotation is a quotation: it goes through every check the
+        // parent's does, and it counts in the tally. It was doing neither -- the
+        // fifth place the same enumerate failure turned up, found because topic
+        // 14 reported four quotes when it carries seven.
+        if (item.quote) checkQuote(file, `${vbase}.quote`, item.quote);
       }
       if (argument.quote) checkQuote(file, `${base}.quote`, argument.quote);
 
@@ -335,6 +341,10 @@ for (const full of files) {
       for (const argument of side.arguments ?? []) {
         if (argument.quote) collect.push([`quote (${argument.id})`, argument.quote]);
         if (argument.counter?.quote) collect.push([`counter quote (${argument.id})`, argument.counter.quote]);
+        for (const item of argument.variants ?? []) {
+          if (item.quote) collect.push([`variant quote (${item.id})`, item.quote]);
+          if (item.objection?.quote) collect.push([`variant objection quote (${item.id})`, item.objection.quote]);
+        }
       }
     }
     for (const [n, item] of (topic.notes ?? []).entries()) {

@@ -1,0 +1,260 @@
+{
+  "id": "bible-reliability",
+  "number": 14,
+  "slug": "bible-reliability",
+  "title": "Is the Bible reliable?",
+  "category": "history-and-text",
+  "status": "open",
+  "realQuestion": "The word is doing three jobs, and most arguments here are two people using different ones.\n\nIt can mean the text has come down to us roughly as written. It can mean the text is accurate about what it reports. It can mean the text has authority over what you believe. The first is largely settled and is not in dispute between the sides. The third is theological. This page is about the second.\n\nEven narrowed that far, the Christian side is not one position. What 'reliable' requires — no error of any kind, no error in matters of faith, or something looser still — is contested inside Christianity as sharply as anything on this page, and an objection that lands on one of those does not land on the others.",
+  "distinctions": [
+    {
+      "label": "Has the text been transmitted accurately?",
+      "gloss": "Largely settled, and not what the two sides here disagree about. The New Testament is attested far better than any comparable ancient work, the variants are overwhelmingly trivial, and both sides say so. Set out in the note below.",
+      "activeHere": false
+    },
+    {
+      "label": "Are the texts accurate about what they report?",
+      "gloss": "This is the argument on this page — whether the events, speeches and numbers in the texts are what happened, and what follows for the texts' standing when they are not.",
+      "activeHere": true
+    },
+    {
+      "label": "Is the Bible authoritative?",
+      "gloss": "A theological question rather than a historical one, and it does not follow from the answer to the second: a text can be accurate without binding anyone, and several positions below hold that it binds without being accurate throughout. Not argued here.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "textual variant",
+      "definition": "Any place where surviving manuscripts differ. The great majority are spelling, word order, or obvious slips; a small number change meaning."
+    },
+    {
+      "term": "inerrancy",
+      "definition": "The doctrine that Scripture contains no error of any kind, including in history and science. A specific modern position, not the historic default."
+    },
+    {
+      "term": "biblical minimalism",
+      "definition": "The position, associated with scholars at Copenhagen, that the Hebrew Bible is a late literary composition and cannot be used to reconstruct the history of ancient Israel."
+    }
+  ],
+  "sides": [
+    {
+      "label": "The texts are trustworthy about what they report",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "what-reliable-requires",
+          "claim": "Scripture is God's own word, and a text God authored does not get things wrong",
+          "explanation": "The strongest and best-known Christian position is also the most exposed, and it is worth stating at full strength rather than through its softer cousins. [[inerrancy]] as the Chicago Statement defines it holds that Scripture is of infallible divine authority in everything it touches — not only in faith and morals but in history and in whatever it says about the world.\n\nThe argument for it is theological before it is evidential: a God who cannot lie inspired the text, so the text does not err. Where an apparent error is found, the doctrine holds that either the manuscript is corrupt, the passage has been misread, or the difficulty is not yet resolved.\n\nTwo weaker positions are set out below. Both are held by people who take the Bible as authoritative, and both exist because they think this one cannot be sustained.",
+          "quote": {
+            "text": "Holy Scripture, being God's own Word, written by men prepared and superintended by His Spirit, is of infallible divine authority in all matters upon which it touches.",
+            "author": "The Chicago Statement on Biblical Inerrancy",
+            "work": "the Short Statement, article 2",
+            "year": "1978",
+            "locator": "drafted by more than two hundred evangelical leaders at the International Council on Biblical Inerrancy",
+            "sourceUrl": "http://www.bible-researcher.com/chicago1.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "infallible-not-inerrant",
+              "label": "Infallible in faith and practice",
+              "heldBy": "the Catholic Church since Dei Verbum; most Anglican and mainline Protestant confessions; many British evangelicals",
+              "oneLine": "Scripture does not fail in what it teaches for salvation, and was never making claims about chronology, cosmology or the size of armies.",
+              "summary": "This is the majority Christian position worldwide, and the one most often mistaken for a retreat from inerrancy when it is in fact older than it. Vatican II's formula is that the Scriptures teach 'without error that truth which God wanted put into the sacred writings for the sake of our salvation' — a deliberate narrowing of the scope of the claim rather than a weakening of it.\n\nOn this view the numbers in Chronicles, the order of events in the Gospels and the cosmology of Genesis are the furniture of the message rather than part of it, and a discrepancy in any of them is not a defect in Scripture but a misunderstanding of what Scripture was for.",
+              "quote": {
+                "text": "the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into the sacred writings for the sake of salvation",
+                "author": "Second Vatican Council",
+                "work": "Dei Verbum, 11",
+                "year": "1965",
+                "sourceUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is a list of discrepancies — two genealogies for Jesus, two accounts of Judas's death, numbers that disagree between Kings and Chronicles. Against this position the list is not an objection at all, because none of those items is being claimed. An argument built from historical and numerical error is aimed at a claim about historical and numerical accuracy, and this one does not make it.",
+              "objection": {
+                "text": "The line between what is taught for salvation and what is furniture has to be drawn somewhere, and in practice it is drawn after the fact, wherever the difficulty happens to be. Conservative critics press this hardest: a doctrine that can relocate any embarrassing claim into the furniture is not making a testable commitment. There is also a hard case the formula struggles with — the resurrection is both a historical claim and a claim taught for salvation, so the two categories cannot be kept apart where it matters most.",
+                "from": "within",
+                "sharedPremise": "it argues from premises this position holds — that Scripture is inspired, that it teaches truth for salvation, and that the resurrection is central to that teaching — to the conclusion that the line between saving truth and incidental detail cannot be drawn where the position needs it.",
+                "response": "The line is drawn by what the text is doing, which is a question of genre and is answerable case by case rather than arbitrarily. The resurrection is a hard case precisely because it is taught as history and as gospel at once, and the position affirms both."
+              }
+            },
+            {
+              "id": "human-authorship",
+              "label": "Inspired through genuinely human authors",
+              "heldBy": "Peter Enns, Kenton Sparks, N.T. Wright in a different key; much of mainline and progressive scholarship",
+              "oneLine": "God worked through writers who were fully of their time, so the texts carry their assumptions, their limits and sometimes their mistakes — and that is what inspiration looks like.",
+              "summary": "The weakest claim of the three about accuracy and, its holders argue, the strongest about incarnation. The model is Christ rather than dictation: as God took on a fully human nature without ceasing to be God, Scripture is fully a human product without ceasing to be God's word.\n\nWhat follows is that the writers' cosmology is ancient cosmology, their historiography is ancient historiography, and their moral horizons are sometimes those of their neighbours. None of that is an embarrassment to be explained away on this view, because none of it was ever the claim.",
+              "quote": {
+                "text": "God never told the Israelites to kill the Canaanites. The Israelites believed that God told them to kill the Canaanites.",
+                "author": "Peter Enns",
+                "work": "The Bible Tells Me So",
+                "year": "2014",
+                "locator": "Enns applying the model to the hardest case for it; see topic 11",
+                "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The discrepancy list is not merely survivable here but expected. This position predicts that ancient writers will produce ancient writing, so a catalogue of errors confirms it rather than telling against it. What the objection would have to do instead is show that the texts are wrong about something this position does claim, which is a much narrower target.",
+              "objection": {
+                "text": "If the texts can be wrong about what God commanded, the criterion for which parts are reliable has to come from outside them — and then the outside criterion is doing the work Scripture was supposed to do. Conservative critics call this making the reader the authority; critics from the other direction note that nothing in the position rules out its being applied until nothing is left. Both objections are the same question: what, on this account, could Scripture say that you would have to accept?",
+                "from": "both",
+                "response": "The criterion is stated rather than smuggled: Christ is the measure, and reading the Old Testament through him is the method the New Testament already uses on it."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "The texts contradict each other on matters they plainly mean to report. Matthew and Luke give Jesus two different genealogies. Judas hangs himself in one account and bursts open in a field in another. The numbers in Kings and Chronicles disagree, sometimes by an order of magnitude. Each of these has a proposed harmonisation and the harmonisations are the problem: a doctrine that survives every difficulty by proposing a solution to it is not being tested by the evidence, and a text that needs this much rescuing is not behaving like a text without error.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Apparent discrepancies in ancient documents are the normal condition of ancient documents, and harmonisation is what historians do with every other source before concluding that one of them is wrong."
+          }
+        },
+        {
+          "id": "manuscript-wealth",
+          "claim": "The New Testament is attested better than any other work from the ancient world, by a wide margin",
+          "explanation": "This argument is about transmission rather than about truth, and it is worth separating because the two get run together constantly.\n\nThe question is whether what we read is what was written. For most ancient authors the answer rests on a handful of copies made a thousand years after the fact. For the New Testament there are more than five thousand Greek manuscripts, some within a century or so of composition, plus early translations and enough quotation in early Christian writers to reconstruct most of the text without any manuscript at all. Where the copies disagree, the sheer number is what makes it possible to work out which reading is earlier.",
+          "quote": {
+            "text": "We have more than 1,000 times the manuscript data for the NT than we do for the average Greco-Roman author.",
+            "author": "Daniel B. Wallace",
+            "work": "interview, The Gospel Coalition",
+            "year": "2012",
+            "sourceUrl": "https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "Nobody disputes the numbers, and the numbers answer a question that was not asked. That we can reconstruct the second-century text well is compatible with the second-century text already being at some distance from the events, and with the earliest copies we have being made after decades of uncontrolled copying by non-professionals. Abundance also creates the variants: more copies means more disagreement, and the argument quietly treats the same fact as a strength when counting manuscripts and as trivial when counting differences.",
+            "objectionFrom": "atheist",
+            "response": "The variants are counted and classified, not waved away, and the classification is done by the same scholars both sides cite. What abundance buys is the ability to see where the disagreements are, which is exactly what a small manuscript tradition denies you."
+          }
+        }
+      ]
+    },
+    {
+      "label": "The texts are what ancient texts are, and that is not what is claimed for them",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "changed-in-the-copying",
+          "claim": "The text was altered in transmission, sometimes in the places that matter most",
+          "explanation": "The strongest form of this argument is not that the Bible has been corrupted beyond recognition; nobody serious holds that. It is narrower and harder to answer.\n\nThe scribes who copied the New Testament for its first two centuries were not professionals, and they changed what they copied — mostly by accident, sometimes deliberately, and sometimes at exactly the points where a doctrine was under dispute. The woman taken in adultery is not in the earliest manuscripts. Nor is the ending of Mark. The clearest trinitarian sentence in the New Testament is a later Latin addition. The claim is that a text with this history is not the kind of thing a doctrine of verbal inerrancy can be built on, whatever its overall stability.",
+          "quote": {
+            "text": "There are more variations among our manuscripts than there are words in the New Testament.",
+            "author": "Bart D. Ehrman",
+            "work": "Misquoting Jesus: The Story Behind Who Changed the Bible and Why",
+            "year": "2005",
+            "sourceUrl": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "minimalism",
+              "label": "Minimalism, on the Hebrew Bible",
+              "heldBy": "Niels Peter Lemche, Thomas L. Thompson, Philip Davies, Keith Whitelam",
+              "oneLine": "The problem is not copying but composition: the Hebrew Bible is a late literary work and cannot be used to reconstruct the history of ancient Israel at all.",
+              "summary": "[[biblical minimalism]] is a minority position and a contested one, and it makes a far stronger claim than the argument above.\n\nThe case is that the narrative books took their present form centuries after the events they describe — on the strongest version, in the Hellenistic period — and that they are literature written for the purposes of the community that produced them rather than records of the past. Where archaeology and text can be compared, the minimalists argue the text loses; where they cannot, the text has no independent standing. On that account asking whether the conquest, the united monarchy or the exodus happened as described is asking the wrong kind of question of the wrong kind of document.",
+              "quote": {
+                "text": "The narratives of ancient Israel are a composite literary creation, not a record of the past; the Bible is best read as literature, and a history of ancient Israel has to be written from archaeology and inscriptions rather than from it.",
+                "author": "Thomas L. Thompson",
+                "work": "The Mythic Past: Biblical Archaeology and the Myth of Israel",
+                "year": "1999",
+                "locator": "our summary of the book's thesis as its publisher and its reviewers describe it; not Thompson's wording",
+                "sourceUrl": "https://www.hachettebookgroup.com/titles/thomas-l-thompson/the-mythic-past-biblical-archaeology-and-the-myth-of-israel/9780786725175/",
+                "verification": "paraphrase",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The reply above is about the manuscript tradition — that the variants are counted, classified and mostly trivial. That answer is about copying, and this position is not about copying. It grants that the Hebrew Bible has come down to us substantially as written and says the question is what was written, and when, and why.",
+              "objection": {
+                "text": "The position has lost ground since the 1990s, and largely to evidence. The Tel Dan stele refers to the house of David; the Mesha stele and the Assyrian records name Israelite kings the Bible names; Hezekiah's tunnel and Sennacherib's siege line up. None of that establishes the conquest or the exodus, but it does establish that the texts preserve real institutional memory, which the strong version denied. Mainstream scholarship now sits between the two poles rather than at either.",
+                "from": "within",
+                "sharedPremise": "it accepts the whole critical apparatus — the late dating of the final texts, the composite authorship, the absence of evidence for the exodus and conquest — and argues from that same evidence base that inscriptions independent of the Bible corroborate enough of its institutional detail to rule out the strong claim.",
+                "response": "Corroborating a king's name is not corroborating the narrative around him, and the position was always about what the texts can bear rather than about whether any of their furniture was real."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Every one of those examples is in the critical apparatus of every modern Bible, printed in a footnote for any reader to see, and was identified by the same textual scholarship the argument relies on. That is not a concealed problem, it is a solved one: the passages are known to be late because the method works. The argument also proves less than its framing suggests — the number of variants is a function of the number of manuscripts, and the overwhelming majority are spelling and word order.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "That the method works is agreed and is the point: what it shows is a text that changed, which is what a doctrine of verbal inerrancy has to accommodate."
+          }
+        },
+        {
+          "id": "not-independent-witnesses",
+          "claim": "The Gospels are not four witnesses but one source and three revisions of it",
+          "explanation": "The apologetic appeal to multiple attestation assumes four accounts arriving independently. The textual relationship between them is the strongest evidence against that.\n\nMatthew and Luke reproduce Mark, often word for word, in Greek, including his editorial asides — which is not how independent memories of an Aramaic-speaking teacher would coincide. Where they add material, much of it is shared between them and absent from Mark. The differences are frequently in the direction of a developing theology: the same episode is told with the miracle heightened, the disciples improved, or the christology raised.\n\nWhat that leaves is one narrative source with editorial descendants, plus John, whose relationship to the other three is disputed. Four books, fewer witnesses.",
+          "quote": {
+            "text": "There are more variations among our manuscripts than there are words in the New Testament.",
+            "author": "Bart D. Ehrman",
+            "work": "Misquoting Jesus",
+            "year": "2005",
+            "locator": "cited here for the transmission point only; the literary-dependence argument on this page is the standard two-source position in New Testament studies and is not a quotation from anyone",
+            "sourceUrl": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "Literary dependence is agreed by nearly everyone, including conservative scholars, and does not have the consequence claimed. Shared sources are how ancient historians worked, and using a good earlier account is a mark of care rather than of invention. The argument also has to explain the material Matthew and Luke do not share, and John, and Paul — who is earlier than all of them and independent of all of them, and who reports the resurrection appearances within a few decades of the events.",
+            "objectionFrom": "theist",
+            "response": "Paul is the strongest card here and is genuinely independent, which is why the case for the resurrection in topic 13 leans on him rather than on the Gospels. What he does not supply is the narrative detail whose multiple attestation is usually being claimed."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What the manuscripts do and do not settle",
+      "oneLine": "Both sides agree the New Testament text is stable and well attested; what they disagree about is whether a stable text is an accurate one.",
+      "text": "This is the part of the argument that is effectively over, and it is worth stating because both sides are tempted to spend their energy here.\n\nThe New Testament's manuscript attestation is exceptional for an ancient work, by any measure. The [[variants|textual variant]] number in the hundreds of thousands because the manuscripts number in the thousands, and the overwhelming majority are spelling, word order and obvious slips. A small number are substantial, they are known, and they are printed in the footnotes of every modern edition.\n\nNone of that bears on whether the events reported happened. A perfectly transmitted text of a legend is a perfectly transmitted legend. Arguing about manuscripts is arguing about the first distinction on this page, which nobody here disputes."
+    },
+    {
+      "heading": "Where the archaeology has landed",
+      "oneLine": "Archaeology has confirmed a great deal of the Bible's institutional furniture — kings, cities, campaigns — and has not confirmed its foundational narratives.",
+      "text": "The pattern is consistent enough to be worth stating plainly, because both sides quote the half that suits them.\n\nConfirmed, by inscriptions and excavation independent of the Bible: the house of David as a dynastic name, a series of Israelite and Judean kings, Sennacherib's campaign, Hezekiah's water tunnel, the Babylonian destruction of Jerusalem, and a great deal of the geography and political structure of the later monarchy.\n\nNot confirmed, and in several cases contradicted: the exodus as described, the conquest of Canaan as described, and the united monarchy at the scale the text gives it. The later the period, the better the texts do — which is what you would expect of documents written down over centuries, and which is why the minimalist position and its opponents have converged somewhat since the 1990s."
+    }
+  ],
+  "whereItStands": "The transmission question is closed and the two sides agree about it. The historical question is open and moving, and it has moved in both directions: away from the confident harmonisation of the mid-twentieth century, and away from the strong minimalism of the 1990s.\n\nWhat has genuinely shifted is inside Christianity rather than between the sides. Strict inerrancy is a smaller position among Christian scholars than it was fifty years ago, and the arguments that moved people were not atheist arguments but the difficulties themselves, raised by people trying to hold the doctrine. The two weaker positions on this page exist because of that, and they are the ones the atheist arguments here have least purchase on.\n\nWhich is worth noticing about the shape of the argument. The objections on this page are aimed mostly at the strongest claim, and the strongest claim is the one Christianity is quietly moving away from.",
+  "commonMistake": "Christians most often answer an argument about accuracy with evidence about transmission. The manuscript numbers are impressive, they are accurate, and they are about a question the other side conceded before it started. Leading with them reads as a change of subject to anyone who noticed.\n\nAtheists most often treat any error as fatal to any version of the Christian claim, which is only true of the strongest version. Telling someone who holds that Scripture is infallible in faith and practice that Chronicles miscounts an army is telling them something they already believe and do not mind.\n\nBoth sides also tend to argue as though the Bible were one kind of document. It is a library assembled over roughly a millennium containing law, chronicle, poetry, proverb, letter and apocalyptic, and 'is it reliable' does not have one answer across that range any more than 'is the library reliable' does.",
+  "sources": [
+    {
+      "title": "The Chicago Statement on Biblical Inerrancy",
+      "year": "1978",
+      "url": "http://www.bible-researcher.com/chicago1.html",
+      "note": "The full text with exposition."
+    },
+    {
+      "title": "Dei Verbum",
+      "author": "Second Vatican Council",
+      "year": "1965",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+      "note": "Article 11 contains the formula quoted."
+    },
+    {
+      "title": "An Interview with Daniel B. Wallace on the New Testament Manuscripts",
+      "year": "2012",
+      "url": "https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/"
+    },
+    {
+      "title": "Misquoting Jesus: The Story Behind Who Changed the Bible and Why",
+      "author": "Bart D. Ehrman",
+      "year": "2005",
+      "url": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+      "note": "Full text on the Internet Archive, so this one can be checked word for word."
+    },
+    {
+      "title": "Canaanites, Reality Checks, and Letting the Bible Out of the Box",
+      "author": "Peter Enns",
+      "year": "2014",
+      "url": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so"
+    },
+    {
+      "title": "Biblical minimalism",
+      "url": "https://en.wikipedia.org/wiki/Biblical_minimalism",
+      "note": "The Copenhagen position and the evidence that has moved the field since. The page's statement of it is a paraphrase and is labelled as one."
+    }
+  ]
+}
