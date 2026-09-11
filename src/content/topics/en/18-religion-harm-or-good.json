@@ -1,0 +1,241 @@
+{
+  "id": "religion-harm-or-good",
+  "number": 18,
+  "slug": "religion-harm-or-good",
+  "title": "Has religion done more harm than good?",
+  "category": "faith-and-society",
+  "status": "interpretive",
+  "realQuestion": "This is the topic where both sides are most confident and the question is least well formed.\n\nThree things have to be fixed before it means anything. What is being weighed — beliefs, institutions, communities, or the whole of human history filed under one word. What it is being weighed against — a world with no religion is not a world that has ever existed, so the comparison is with an invented alternative, and each side invents a flattering one. And what the scale is: the goods and harms are of different kinds, and no procedure converts a century of hospitals into a unit that can be set against a pogrom.\n\nNone of that makes the question empty. People are asking something real, and the honest form of it is narrower: given what we can measure and what we can document, is the case that religion has been net destructive stronger than the case that it has been net constructive? Both sides here argue that theirs is stronger, and both accept most of the other's facts.\n\nThe tag on this page is `interpretive` for the reason the last paragraph implies. Grant every fact and every valid inference to both sides and they still disagree, because the disagreement is finally about what weighs more.",
+  "distinctions": [
+    {
+      "label": "Did these specific things happen, and at what scale?",
+      "gloss": "Largely settled, and the settling was done by archival historians rather than by either side in this argument. Where popular claims are wrong they are usually wrong in the direction of exaggeration, in both directions. Set out in the first note.",
+      "activeHere": false
+    },
+    {
+      "label": "Are religious people better or worse neighbours now?",
+      "gloss": "A measurable question with a reasonably clear answer, and it appears on this page as evidence. It does not settle the topic, because the topic is about a ledger running for millennia and this is a finding about one country in one century.",
+      "activeHere": false
+    },
+    {
+      "label": "Does the ledger come out positive or negative?",
+      "gloss": "The live question, and the one that cannot be settled by more facts, because it requires a weighting of incommensurable things and a comparison with a world that has never existed.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "counterfactual",
+      "definition": "A claim about what would have happened had things gone otherwise. Every 'more harm than good' judgement contains one, and it is almost never stated."
+    },
+    {
+      "term": "secularisation thesis",
+      "definition": "The expectation, standard in mid-twentieth-century social science, that modernisation would make religion decline everywhere. It held in Western Europe and failed nearly everywhere else, which is why arguments resting on it have aged badly."
+    }
+  ],
+  "sides": [
+    {
+      "label": "The accounting is rigged, and the standard doing the accounting was built here",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "the-standard-is-borrowed",
+          "claim": "The moral vocabulary the indictment is written in is a product of the thing being indicted.",
+          "explanation": "The charges are that religion oppressed the weak, degraded women, defended slavery, tortured dissenters and treated human beings as disposable. Every one of those is a charge, and it is a charge only because of a prior conviction that the weak matter, that persons are of equal worth, and that cruelty is not a legitimate entertainment.\n\nThat conviction is not a human universal and it is not obvious. The classical world it replaced did not hold it: it found the exposure of infants unremarkable, slavery natural, and public killing a civic entertainment. The historians who have made this case most forcefully are not apologists — the best-known recent statement of it is by a writer who describes himself as a non-believer and reached the conclusion against his own expectations.\n\nThe argument is not that only Christians can be good. It is that the scale being used to weigh the ledger was manufactured by one of the parties, and that an audit conducted in the defendant's own units is not the neutral exercise it presents itself as.",
+          "quote": {
+            "text": "In my morals and ethics, I have learned to accept that I am not Greek or Roman at all, but thoroughly and proudly Christian.",
+            "author": "Tom Holland",
+            "work": "Dominion: How the Christian Revolution Remade the World",
+            "year": "2019",
+            "locator": "the introduction, where he describes changing his mind; Holland writes as a non-believer",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/68279026-dominion-how-the-christian-revolution-remade-the-world",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "measured-not-inferred",
+              "label": "Measured now, rather than inferred from history",
+              "heldBy": "Robert D. Putnam and David E. Campbell",
+              "oneLine": "Set the genealogy aside: on the ordinary measures of good neighbourliness, religious participation still predicts more of it, and the gap is large.",
+              "summary": "This case rests on survey data rather than on any claim about where modern morals came from.\n\nThe finding, from the most substantial recent study of American religion, is that religious Americans give more to charity — including secular charity — volunteer more, are more involved in civic associations, and are rated as better neighbours on a range of measures, with the differences surviving controls for education and income.\n\nWhat makes it useful here is that it is checkable and contemporary. It does not depend on adjudicating the Crusades, on any historical genealogy, or on the truth of anything anyone believes. It is a live measurement of what religious participation currently does to behaviour in one large society, and it points in one direction.",
+              "quote": {
+                "text": "religious Americans are, in fact, more generous neighbors and more conscientious citizens than their secular counterparts",
+                "author": "Robert D. Putnam and David E. Campbell",
+                "work": "American Grace: How Religion Divides and Unites Us",
+                "year": "2010",
+                "locator": "the book's central finding on religion and civic behaviour",
+                "sourceUrl": "http://robertdputnam.com/american-grace/",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is a historical one: that other traditions arrived at similar moral conclusions without Christianity, so the genealogy proves less than it claims. That argument is about origins. This position makes no claim about origins at all, so an argument about where the values came from leaves the measurement exactly where it was.",
+              "objection": {
+                "text": "The study's own authors identify what is producing the effect, and it is not belief. The predictor is participation in a congregation — having friends there, being asked, showing up — and it works about equally well whatever the congregation believes. A secular association with the same density of ties would be expected to produce the same result, and where such associations exist it broadly does. The finding is about community, and it has been enlisted as a finding about religion.",
+                "from": "within",
+                "sharedPremise": "it accepts the survey data in full, accepts that the measured gap is real and large, and argues from inside the same study that the mechanism the authors identify locates the effect in congregational ties rather than in anything believed",
+                "response": "That religion works through communities is not a discovery that it works through something else. Congregations of that density, spanning classes and generations and meeting weekly for a lifetime, are not a form of association that secular society has managed to produce at scale, and a mechanism nobody else can reproduce is not a deduction from the credit."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Genealogy is not justification, and the history is more crowded than the argument allows. Stoics argued for the common humanity of slaves, Ashoka's edicts predate Christianity by centuries, and the abolition and rights movements drew on Enlightenment arguments as much as on scripture — often against churches defending the other side. Even granting the causal story in full, it establishes where an idea came from and not whether its present holders owe anything to the institution that carried it.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Isolated anticipations are not the same as a moral revolution that changed what a whole civilisation found unremarkable, and the objection concedes the thing at issue by having to search for them. The point about churches on both sides is true and is the subject of the second argument on the other side of this page."
+          }
+        },
+        {
+          "id": "the-category-is-doing-the-work",
+          "claim": "The question assumes a single thing called religion with its own tendencies, and that thing is a recent invention.",
+          "explanation": "'Has religion done more harm than good' presupposes that beliefs about gods form a natural kind, separable from politics, economics and identity, with a characteristic behaviour of its own. That assumption is younger than the printing press. Before the seventeenth century nobody carved the world that way, and many cultures still do not.\n\nThe consequence is not verbal. The wars conventionally called religious were fought by Catholic states allied with Protestant ones against co-religionists, over territory, succession and taxation, with confession as one variable among several. Calling the whole period the Wars of Religion and then citing it as evidence of what religion does is the argument assuming its conclusion in the naming.\n\nThe further claim is about what the category is for. Sorting human motivations into a dangerous, irrational kind and a reasonable, secular kind is not a neutral description; it is a move that licenses one sort of violence while condemning another, and it arrived exactly when the modern state needed it.",
+          "quote": {
+            "text": "the idea that religion is a transhistorical and transcultural feature of human life, essentially distinct from 'secular' features such as politics and economics, which has a peculiarly dangerous inclination to promote violence",
+            "author": "William T. Cavanaugh",
+            "work": "The Myth of Religious Violence: Secular Ideology and the Roots of Modern Conflict",
+            "year": "2009",
+            "locator": "his definition of the myth the book is about",
+            "sourceUrl": "https://global.oup.com/academic/product/the-myth-of-religious-violence-9780195385045",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "The dissolution proves too much and would retire the question in every direction. If 'religion' is too incoherent to be weighed, it is too incoherent to be credited either — the hospitals, the universities and the abolitionists go into the same shredder as the inquisitions, and the argument's own first half goes with them. And the observation that religious wars had political causes is true of every war ever fought; noting that motives are mixed does not show that one of the motives was inert.",
+            "objectionFrom": "atheist",
+            "response": "Both halves going is the correct result, and it is what the page's tag says. The argument is not that religion is innocent; it is that the ledger cannot be totalled in the form the question demands, and that the demand has a history of being made by one side only."
+          }
+        }
+      ]
+    },
+    {
+      "label": "It supplies a reason that cannot be argued with, and it has had to be forced off every position it was wrong about",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "beyond-correction",
+          "claim": "The characteristic harm is not wickedness but a conviction insulated from evidence.",
+          "explanation": "People do terrible things for ordinary reasons all the time, and no account of religion is needed to explain greed, fear or tribalism. The specific contribution is different and narrower: a warrant that does not answer to argument.\n\nAn ordinary bad reason can be defeated by showing that it does not work, that its costs exceed its benefits, that the facts are otherwise. A reason held as revelation is not defeated that way, because nothing in the ordinary register bears on it. That is not a claim that believers are unreasonable people — most are more reasonable than most. It is a claim about what happens to a decision procedure when one of its inputs is exempt from revision.\n\nThe effect is visible at the point where a person of evident decency does something that would be unthinkable on any other grounds, and does it with a clear conscience, because the warrant came from somewhere that does not take questions.",
+          "quote": {
+            "text": "With or without religion, good people can behave well and bad people can do evil; but for good people to do evil — that takes religion.",
+            "author": "Steven Weinberg",
+            "work": "address to the Conference on Cosmic Design, American Association for the Advancement of Science",
+            "year": "1999",
+            "locator": "the closing of the talk, after a passage on religious defences of slavery",
+            "sourceUrl": "https://en.wikiquote.org/wiki/Steven_Weinberg",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "moderation-is-not-a-firebreak",
+              "label": "The moderates are part of the mechanism",
+              "heldBy": "Sam Harris",
+              "oneLine": "Moderate religion is not a brake on extremism but the thing that makes it possible, because it keeps unfalsifiable conviction socially respectable.",
+              "summary": "The usual reply to the argument above is that the people who do the damage are a fringe, and that the mainstream repudiates them. This position denies that the distinction helps.\n\nOn this account the extremist is not doing something the moderate rejects in principle; they are doing consistently what the moderate does selectively. What the moderate supplies is the surrounding culture in which faith is a respectable ground for belief and in which questioning someone's revelation is a social offence. Remove that and the extremist has no cover; keep it and no internal argument is available against the person who takes the text more seriously than you do.\n\nIt is the sharpest form of the case because it is not about atrocity at all. It is about which claims a society agrees not to examine.",
+              "quote": {
+                "text": "While moderation in religion may seem a reasonable position to stake out, in light of all that we have (and have not) learned about the universe, it offers no bulwark against religious extremism and religious violence.",
+                "author": "Sam Harris",
+                "work": "The End of Faith: Religion, Terror, and the Future of Reason",
+                "year": "2004",
+                "locator": "the chapter on the problem with religious moderation",
+                "sourceUrl": "https://www.goodreads.com/work/quotes/2399497-the-end-of-faith-religion-terror-and-the-future-of-reason",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is that secular convictions have produced the same behaviour at greater scale, which is an argument about what ideologies in general do. This position is not about ideology in general. It is a claim about a specific social mechanism — the protected status of unexaminable belief — so pointing at a secular atrocity does not reach it unless the same mechanism can be shown to be operating.",
+              "objection": {
+                "text": "It makes a prediction and the prediction fails. If moderation supplied the cover, then more religious moderation should mean more extremism, and less should mean less. The comparison runs the other way: the most religiously moderate societies in Europe have the least religious violence, and the collapse of moderate mainline churches has been followed by the growth of harder movements rather than their decline. The mechanism is asserted and the correlation it requires is absent.",
+                "from": "theist",
+                "response": "The prediction is about what argument is available inside a tradition, not about national homicide rates, and the societies cited are ones where religious claims stopped being socially unexaminable — which is the change the argument asks for, not a counterexample to it."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Unfalsifiable conviction is a property of ideologies, not of religions, and the twentieth century made the point at a scale nothing before it approached. Marxism-Leninism and the racial state both supplied warrants immune to evidence, both produced people of evident decency doing unthinkable things with clear consciences, and neither required a god. If the mechanism is the insulation of a belief from revision, the indictment is of a habit of mind that religion has no monopoly on and no special claim to have invented.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "That the mechanism can run on other fuel is granted and does not acquit this fuel. The relevant question is which sources of conviction most reliably produce the insulation, and a claim that is explicitly held to be beyond human correction is better designed for it than one that merely ends up that way."
+          }
+        },
+        {
+          "id": "it-had-to-be-forced",
+          "claim": "On the moral questions that have actually been settled, it was usually on the losing side and had to be moved from outside.",
+          "explanation": "Take the moral advances that nearly everyone now regards as advances: the abolition of slavery, the end of judicial torture, religious toleration, the legal equality of women, the decriminalisation of homosexuality, the end of the caste disabilities. In each case the major religious institutions of the time were substantially on the other side, moved late, and moved under pressure.\n\nThe usual reply is that the reformers were themselves believers, and many were. That is true and it is why the argument is not that religion contains no resources for reform. The argument is about institutional behaviour: the resources were available on both sides of every one of those disputes, the institutions chose, and the pattern of the choices is not random.\n\nThe clearest modern instance is not a doctrine but a practice. Institutions that had taught for centuries about the protection of children responded to evidence of their abuse by protecting themselves, across countries and denominations, for decades, and stopped when secular authorities compelled them to.",
+          "quote": {
+            "text": "Violent, irrational, intolerant, allied to racism and tribalism and bigotry, invested in ignorance and hostile to free inquiry, contemptuous of women and coercive toward children: organized religion ought to have a great deal on its conscience.",
+            "author": "Christopher Hitchens",
+            "work": "God Is Not Great",
+            "year": "2007",
+            "locator": "the opening chapter's statement of the charge",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/3442838-god-is-not-great",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "The list is a selection, and the selection is the argument. The same institutions ran the hospitals, invented the university, preserved the literature, produced the abolitionist movement in Britain and the civil rights movement in America, and staffed the resistance to two totalitarianisms. A body that supplies both the defenders and the destroyers of every position is behaving like a cross-section of humanity organised at scale, which is what it is — and 'it changed late and under pressure' describes every institution that has ever changed, including universities, parliaments and the press.",
+            "objectionFrom": "theist",
+            "response": "Being a cross-section is a defence available to any institution and is incompatible with the claim to moral authority that these ones make. The argument is not that religious people were worse than others; it is that an institution claiming privileged access to moral truth performed, on the questions we can now grade, no better than average and frequently worse."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "The numbers, where there are numbers",
+      "oneLine": "The death tolls quoted in popular argument are usually an order of magnitude too high, and the corrections came from secular archival historians rather than from apologists.",
+      "text": "The Spanish Inquisition is the clearest case, because the tribunal kept obsessive records and those records have been worked through. Henry Kamen's revision, now standard, puts the maximum at about three thousand executions across three and a half centuries. Figures in the millions, still common in popular argument, descend from nineteenth-century polemic and have no archival basis.\n\nThe correction runs in both directions, and the other direction matters as much. The scale of the Atlantic slave trade's religious justification, of the residential and industrial school systems, and of clerical sexual abuse was systematically understated for decades by the institutions that held the records, and the true figures emerged only when outside bodies obtained them.\n\nWhat the pattern suggests is not that one side exaggerates and the other does not. It is that the numbers on this topic have almost always come from the party with an interest in them, and that where independent archival work has been done it has moved the figures substantially — sometimes down by three orders of magnitude, sometimes up."
+    },
+    {
+      "heading": "The comparison nobody has",
+      "oneLine": "Every 'more harm than good' verdict is a comparison with a world that has never existed, and each side quietly supplies a version of that world designed to win.",
+      "text": "The atheist [[counterfactual]] is usually a society that developed as ours did — the science, the hospitals, the rights — without the wars and the repression. The Christian one is usually the twentieth century's atheist states, taken as what fills the space when religion is removed.\n\nBoth are constructions, and neither is entitled. Removing an institution that organised education, welfare, law, art and identity for two millennia does not leave everything else in place; it leaves something nobody can describe. The Soviet and Chinese cases are real evidence about what states do when they suppress religion, which is not the same as evidence about a society that never had it.\n\nThis is the reason for the tag on this page. It is not that the facts are unavailable — a great many of them are well established, and both sides here accept most of the other's. It is that converting them into a verdict requires a weighting and a comparison that no evidence supplies, and the people doing the converting reliably reach the answer they started with."
+    }
+  ],
+  "whereItStands": "Almost nothing about this question is settled, and the most useful development in it has been the erosion of confidence on both sides about whether it is answerable in the form it is asked.\n\nOn the empirical sub-questions there has been real movement, and mostly in one direction: the historical claims that have been checked against archives have come back smaller than the polemical versions, and the contemporary social-science findings on religious participation have come back positive for participation and ambiguous about belief. Neither result is decisive for the page's question, and both are now accepted by careful people on both sides.\n\nThe framing arguments have also moved. The [[secularisation thesis]] that made this question feel urgent in the twentieth century — that religion was a residue on its way out, so the only remaining task was to total up what it had cost — did not survive contact with the rest of the world. And the historical work on the category of religion itself has made the confident version of the question harder to ask in print, whatever it does in argument.\n\nWhat has not moved is the verdict. Both sides have the same facts, have had them for some time, and reach opposite conclusions, which is exactly what an interpretive tag predicts.",
+  "commonMistake": "Christians most often defend the institutions when the charge is against the institutions. The reply that Christianity produced hospitals and abolitionists is true and does not answer an argument about what the Church did with evidence of child abuse in the 1980s; treating a historical credit as a response to a documented failure reads as evasion, and is.\n\nAtheists most often run an argument that would convict every large human institution and then present the conviction as specific to this one. Universities, states, armies, corporations and political movements all changed late, under pressure, and protected themselves first. If the charge is that religion is unusually bad, the comparison has to be made and not assumed.\n\nBoth sides use the twentieth century as a trump and neither is entitled to it. That Stalin was an atheist establishes that atheism does not prevent mass murder, which nobody denies; that the Church blessed armies establishes that religion does not prevent it either, which nobody denies. Neither observation is an argument, and a page of them is a page of nothing.",
+  "sources": [
+    {
+      "title": "Dominion: How the Christian Revolution Remade the World",
+      "author": "Tom Holland",
+      "year": "2019",
+      "url": "https://www.goodreads.com/work/quotes/68279026-dominion-how-the-christian-revolution-remade-the-world",
+      "note": "Linked to a quotations page rather than a text: the argument here is summarised from passages quoted at second hand."
+    },
+    {
+      "title": "American Grace: How Religion Divides and Unites Us",
+      "author": "Robert D. Putnam and David E. Campbell",
+      "year": "2010",
+      "url": "http://robertdputnam.com/american-grace/",
+      "note": "The authors' own page. The finding about congregational ties rather than belief is theirs, not a critic's."
+    },
+    {
+      "title": "The Myth of Religious Violence: Secular Ideology and the Roots of Modern Conflict",
+      "author": "William T. Cavanaugh",
+      "year": "2009",
+      "url": "https://global.oup.com/academic/product/the-myth-of-religious-violence-9780195385045",
+      "note": "The argument that the category is a modern construction, made at length and with the historiography."
+    },
+    {
+      "title": "The End of Faith: Religion, Terror, and the Future of Reason",
+      "author": "Sam Harris",
+      "year": "2004",
+      "url": "https://www.goodreads.com/work/quotes/2399497-the-end-of-faith-religion-terror-and-the-future-of-reason",
+      "note": "Linked to a quotations page. The chapter on moderation is where the variant's argument is made."
+    },
+    {
+      "title": "The Spanish Inquisition: A Historical Revision",
+      "author": "Henry Kamen",
+      "year": "1997",
+      "url": "https://books.google.com/books/about/The_Spanish_Inquisition.html?id=G-F1y0P5DvkC",
+      "note": "The archival revision of the death tolls, by a historian with no stake in the theology."
+    },
+    {
+      "title": "Steven Weinberg",
+      "author": "Wikiquote",
+      "year": "1999",
+      "url": "https://en.wikiquote.org/wiki/Steven_Weinberg",
+      "note": "Linked for the sourcing of the 1999 AAAS remark, which is widely quoted and often misdated."
+    }
+  ]
+}
