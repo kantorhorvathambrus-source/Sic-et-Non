@@ -1,0 +1,258 @@
+{
+  "id": "why-christianity",
+  "number": 16,
+  "slug": "why-christianity",
+  "title": "Why Christianity rather than any other religion?",
+  "category": "faith-and-society",
+  "status": "open",
+  "realQuestion": "This is the question that survives every other page on this site, and it is usually asked at the wrong point.\n\nSuppose the arguments for a creator all worked. Nothing in them selects a tradition. A first cause, a fine-tuned constant and an objective moral law are as available to a Muslim or a deist as to a Christian, and a reader who granted every argument on the preceding fifteen pages would still be standing in front of several thousand years of incompatible revelation claims with no instruction about which door to use.\n\nSo the question here is narrower than 'is Christianity true'. It is whether there is any reason, of a kind that could move someone not already inside, to prefer Christianity's specific claims to a rival's. The Christian side says yes and names what it is. The atheist side says the question has an answer, and that the answer is where you were born.",
+  "distinctions": [
+    {
+      "label": "Is there a God at all?",
+      "gloss": "Not this page. It is argued across the first ten, and it is logically prior — but answering it yes does not get anyone to a particular religion, which is the whole difficulty here.",
+      "activeHere": false
+    },
+    {
+      "label": "Are non-Christians saved?",
+      "gloss": "A question inside Christianity, not between the two sides, and the answer given by most Christian bodies today is not the one popularly assumed. It matters here only because the argument from birthplace is usually aimed at a version of Christianity most Christians no longer hold. Set out in the first note.",
+      "activeHere": false
+    },
+    {
+      "label": "Is there a reason to prefer these claims to a rival's?",
+      "gloss": "The live question. It has to be a reason that does not already assume the conclusion, because the person asking is by definition outside.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exclusivism",
+      "definition": "The view that salvation comes only through explicit faith in Christ. Historically the majority Christian position; now a minority one among Christian bodies, though not among Christians."
+    },
+    {
+      "term": "inclusivism",
+      "definition": "The view that Christ is the only source of salvation but that people who never knew of him may receive it anyway. The position of the Catholic Church since the Second Vatican Council."
+    },
+    {
+      "term": "pluralism",
+      "definition": "The view that the major traditions are all valid human responses to one transcendent reality, none of them the uniquely true one. Associated above all with John Hick."
+    },
+    {
+      "term": "outsider test",
+      "definition": "John Loftus's proposal that a believer examine their own tradition with the level of scepticism they already apply, competently and confidently, to every tradition they reject."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Christianity makes a claim that can be checked, and the others largely do not",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "staked-on-an-event",
+          "claim": "Christianity is the one major tradition that names the fact that would refute it.",
+          "explanation": "Most religious traditions are not falsifiable by a historical finding, and do not present themselves as though they were. The teaching of the Buddha stands or falls on whether it works, not on whether the man existed. The Qur'an's authority rests on the text itself rather than on a datable public event with witnesses.\n\nChristianity's founding document does something different, and does it in the earliest text we have. Paul, writing to Corinth within about twenty-five years of the crucifixion, names the condition under which the entire thing is worthless — not disappointing, not in need of reinterpretation, but empty. That is an unusual thing for a religion to say about itself, and it is the reason this question has an answer rather than a shrug.\n\nThe argument is not that the resurrection has been proved. It is that Christianity has told you what would settle it, and has therefore put itself in a different epistemic position from a tradition that has not.",
+          "quote": {
+            "text": "and if Christ has not been raised, then our proclamation has been in vain and your faith has been in vain",
+            "author": "Paul of Tarsus",
+            "work": "1 Corinthians 15:14",
+            "year": "c. 54",
+            "locator": "New Revised Standard Version",
+            "sourceUrl": "https://bible.oremus.org/?passage=1+Corinthians+15%3A1%E2%80%9317&version=nrsv",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "inclusivism",
+              "label": "The claim is about Christ, not about membership",
+              "heldBy": "The Catholic Church since the Second Vatican Council, and Karl Rahner before it",
+              "oneLine": "Christianity can be uniquely true without the people outside it being uniquely lost — and on this account most of them are not.",
+              "summary": "[[inclusivism]] separates two claims that the argument from birthplace treats as one: that salvation comes through Christ, and that it comes only to people who have heard of him.\n\nOn this account grace is not restricted to the people who can name its source. Someone who has responded to whatever truth reached them is responding to the same reality, and the tradition they did it inside is not a rival but a partial and genuine bearer of it. That is the official teaching of the largest Christian body in the world, and it is not a recent softening for a pluralist audience — it is a formal conciliar declaration from 1965.\n\nWhat it does not say is that the traditions are equivalent. It says the others contain truth, not that they contain all of it.",
+              "quote": {
+                "text": "The Catholic Church rejects nothing of what is true and holy in these religions. She regards with sincere reverence those ways of conduct and of life, those precepts and teachings which, though differing in many aspects from the ones she holds and sets forth, nonetheless often reflect a ray of that Truth which enlightens all men and women.",
+                "author": "Second Vatican Council",
+                "work": "Nostra Aetate",
+                "year": "1965",
+                "locator": "article 2",
+                "sourceUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above says the historical claim is unverifiable in practice, which is an objection about evidence. This position is not an evidential claim at all — it is about what follows for everyone else if the claim is true — so an objection about the strength of the historical case leaves it standing exactly where it was.",
+              "objection": {
+                "text": "It concedes the question and keeps the name. If someone can be reached by grace inside another tradition without ever encountering the Christian claim, then the distinctive content of that claim is not what is doing the work, and the argument for preferring Christianity has quietly become an argument for preferring a description. The other traditions did not ask to be told that their adherents are being saved by someone else's founder.",
+                "from": "both",
+                "response": "A claim about what makes salvation possible and a claim about who gets it are different claims, and holding the first without the second is not a retreat but a distinction the tradition has drawn since its early centuries. The objection that other traditions do not accept the description is true and does not bear on whether it is accurate."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Naming a falsifier is not the same as being falsifiable. The condition Paul names cannot be checked by anyone now living, and in two thousand years it has never once been treated by the tradition as a real risk. A claim that is in principle refutable but in practice immune is doing the rhetorical work of falsifiability without the cost, and the fact that Christianity says something bold about itself is a fact about Christianity's literature, not evidence about the world.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "It has been treated as a real risk, repeatedly, by people inside it whose careers ended over it — and the entire discipline of critical New Testament scholarship, which is largely a Christian invention, exists because the claim was taken to be the kind of thing you could be wrong about. That is more than most traditions have exposed."
+          }
+        },
+        {
+          "id": "not-the-same-mountain",
+          "claim": "The question is real, and the popular answer to it is false.",
+          "explanation": "The most common response to 'why this one' is that the choice does not matter, because the traditions are saying the same thing in different idioms. That is a claim about the content of the world's religions, and it is one that the people who study them for a living do not accept.\n\nThe traditions do not agree about what the problem is. Christianity says the problem is sin and the solution is salvation; Buddhism says the problem is suffering and the solution is awakening; Confucianism says the problem is social disorder and the solution is right relationship. These are not different routes to one summit. They are different diagnoses, and a diagnosis that is right about one thing is not thereby right about another.\n\nThe relevance here is structural. If the traditions really were interchangeable, asking which to prefer would be a confusion. They are not, so it is a question — and a question with incompatible answers has at most one right one.",
+          "quote": {
+            "text": "So why do we pretend that the world's religious traditions are different paths to the same God?",
+            "author": "Stephen Prothero",
+            "work": "God Is Not One: The Eight Rival Religions That Run the World",
+            "year": "2010",
+            "locator": "the introduction, where he names the assumption 'Godthink'",
+            "sourceUrl": "https://www.stephenprothero.com/book/god-is-not-one/",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "Granted, and it helps the other side. That the traditions make incompatible claims is precisely the premise of the argument from diversity: incompatible claims cannot all be true, they were arrived at by the same kinds of process in the same kinds of people, and the overwhelming majority of them are therefore false. Establishing that this is a real dispute establishes that most of its participants are wrong, which is a strange result to offer in support of one of them.",
+            "objectionFrom": "atheist",
+            "response": "It supports nothing on its own and was not offered as support. It removes a move — the one that says the question need not be faced — and it happens to be the move most often used to avoid this page's question altogether."
+          }
+        }
+      ]
+    },
+    {
+      "label": "The answer to 'why this one' is already known, and it is not evidential",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "outsider-test",
+          "claim": "Nobody applies to their own tradition the standard they apply to every other one.",
+          "explanation": "A Christian assessing Islam, Hinduism or Mormonism uses a recognisable and reasonable procedure: ask what the evidence is, note that the founding events are attested only by the community that formed around them, note the psychological and cultural pressures on the witnesses, and conclude that the case has not been made. The procedure is applied competently and to thousands of traditions.\n\nThe [[outsider test]] proposal is simply that it be applied once more, to the one tradition it has been exempted from. Not that it will fail — that is left open — but that the exemption is unearned, and that the reason for it is almost never a reason anyone would accept coming from a believer in something else.\n\nWhat gives the proposal its force is what predicts religious affiliation. It is not argument, exposure to evidence or comparative study. It is where a person was born and to whom.",
+          "quote": {
+            "text": "The only way to rationally test one's culturally adopted religious faith is from the perspective of an outsider, a nonbeliever, with the same level of reasonable skepticism believers already use when examining the other religious faiths they reject.",
+            "author": "John W. Loftus",
+            "work": "The Outsider Test for Faith: How to Know Which Religion Is True",
+            "year": "2013",
+            "locator": "his standard formulation of the test, repeated in the book and in his paper of the same name",
+            "sourceUrl": "https://people.willamette.edu/~ttalbott/Loftus%20OTF2.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "revelations-cancel",
+              "label": "The revelations cancel one another",
+              "heldBy": "David Hume, and the argument from inconsistent revelations after him",
+              "oneLine": "Each tradition's founding evidence is evidence against every other, so the reports do not accumulate — they subtract.",
+              "summary": "This argument says nothing about how anyone came by their belief, which is what separates it from the test above.\n\nIt is about the structure of the evidence. A miracle report supports the system it was told to establish, and the systems are incompatible, so each report also counts against every rival. Every tradition can produce witnesses, healings, martyrs and transformed lives, and can produce them in quantity. Taken together the reports do not build a case for the supernatural in general; they build a set of mutually defeating cases, and the defeat is symmetrical.\n\nApplied here, it says the Christian evidence is not weak but contested by evidence of exactly the same form, and that no tradition has ever produced the kind of report that would break the tie.",
+              "quote": {
+                "text": "In destroying a rival system, it likewise destroys the credit of those miracles, on which that system was established; so that all the prodigies of different religions are to be regarded as contrary facts, and the evidences of these prodigies, whether weak or strong, as opposite to each other.",
+                "author": "David Hume",
+                "work": "An Enquiry concerning Human Understanding, Section X, 'Of Miracles'",
+                "year": "1748",
+                "locator": "Part II",
+                "sourceUrl": "https://davidhume.org/texts/e/10",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is the genetic fallacy charge: that how a belief was acquired says nothing about whether it is true. This argument makes no claim about how anyone acquired anything. It is about what the reports evidentially do to each other, so a reply about the origins of belief passes it by without touching it.",
+              "objection": {
+                "text": "Cancellation needs symmetry, and symmetry has to be shown rather than assumed. Claims differ in date, in the number and independence of the witnesses, in whether the community had anything to gain, and in how early they were written down. Treating every report as one unit to be subtracted from another is the move the argument needs and the one it never makes; done properly, the comparison is a research programme, not a stalemate.",
+                "from": "theist",
+                "response": "The comparison has been attempted, and the traditions that lose it are always the other ones, assessed by the standards of the tradition doing the assessing. That is the pattern the argument predicts."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Where a belief came from is not an argument about whether it is true, and the test cuts equally against the person applying it: secular convictions are distributed by geography and upbringing at least as sharply as religious ones, which on this reasoning would make them equally suspect. What the test actually asks for — examine your beliefs by the standards you use on others — is either ordinary intellectual hygiene, which nobody disputes, or a demand to start from the assumption that the belief is false, which is not neutrality.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "The test is not an argument that the belief is false and does not claim to be; it is a claim about which examination is the honest one, and the reply concedes it by calling it hygiene. That it applies to secular convictions too is true and is not a defence — it is an endorsement with the name changed."
+          }
+        },
+        {
+          "id": "symmetry",
+          "claim": "Every tradition has the same reasons, and they cannot all be good ones.",
+          "explanation": "Thousands of religions have existed. Their adherents have had the same kinds of experience, offered the same kinds of testimony, felt the same certainty, produced the same transformed lives and pointed to the same interior confirmation. On any account, the overwhelming majority of those traditions are false.\n\nSo whatever process generates religious conviction is a process that produces contradictory outputs from identical inputs, at enormous scale, with the confidence unchanged in every case. A process with that track record is not a reliable guide to what is true, and the fact that one's own conviction feels different from the inside is exactly what the record predicts it would feel like.\n\nThis is not an argument that no religion could be true. It is an argument that the ordinary grounds people give for holding one — experience, testimony, transformation, certainty — cannot be what picks the right one out, because they are present in full measure in all the wrong ones.",
+          "quote": {
+            "text": "Kitcher's case is that the world's traditions arose in the same way, are sustained in the same way, and offer the same kinds of internal confirmation, and that there are no resources neutral between them for deciding which is right — so complete symmetry holds, and the believer's own tradition has no claim to be the exception.",
+            "author": "Philip Kitcher",
+            "work": "Life After Faith: The Case for Secular Humanism",
+            "year": "2014",
+            "locator": "our summary of the symmetry argument as the book's reviewers set it out; not Kitcher's wording",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/",
+            "verification": "paraphrase",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "The symmetry is asserted at a level of description coarse enough to guarantee it. Traditions differ in whether they make public historical claims, in whether those claims were checkable by hostile contemporaries, in whether the founding community had anything to gain, and in whether the tradition has ever revised itself under evidential pressure. A survey that records only 'people were certain and people disagreed' cannot see any of that, and the argument needs the survey to be at that resolution to work.",
+            "objectionFrom": "theist",
+            "response": "The finer resolution is available and has been applied, and it has never yet produced a criterion that selects one tradition and that anyone outside it accepts. Until it does, the symmetry claim is not coarse — it is a summary of every attempt so far."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Three Christian answers, not one",
+      "oneLine": "'Christianity is true' and 'everyone outside it is lost' are separate claims, and most Christian bodies now affirm the first without the second.",
+      "text": "[[exclusivism]] holds that salvation requires explicit faith in Christ. It was the historic majority position and remains the position of much of evangelical Protestantism.\n\n[[inclusivism]] holds that Christ is the sole source of salvation but that it reaches people who never heard of him. This is the official teaching of the Catholic Church, formally stated at the Second Vatican Council, and of most mainline Protestant bodies. In numerical terms it is now the majority Christian position by a wide margin.\n\n[[pluralism]] holds that the major traditions are equally valid human responses to one reality that none of them describes as it is in itself. Its best-known defender was John Hick, a Christian philosopher, and it is a minority position that most Christian bodies reject as giving away the store.\n\nThe distinction matters on this page because the argument from birthplace is almost always aimed at the first, and lands hardest there. Aimed at the second it has much less to grip, and aimed at the third it is not an objection at all but an agreement.",
+      "quote": {
+        "text": "we are led to postulate the Real an sich as the presupposition of the veridical character of this range of forms of religious experience",
+        "author": "John Hick",
+        "work": "An Interpretation of Religion: Human Responses to the Transcendent",
+        "year": "1989",
+        "locator": "the statement of the pluralistic hypothesis",
+        "sourceUrl": "https://iep.utm.edu/hick/",
+        "verification": "corroborated",
+        "sawWhat": "snippet"
+      }
+    },
+    {
+      "heading": "What the outsider test is not",
+      "oneLine": "It is a proposal about how to examine a belief, not an argument that the belief is false — and it is misread in that direction by both sides about equally often.",
+      "text": "Christians read the test as saying 'assume your faith is false and see if you can rebuild it', which would indeed be a rigged procedure, and reject it on that ground. Atheists cite it as though passing or failing it were the same as being true or false, which it is not: a tradition could survive the test and still be wrong, or fail it and be right.\n\nWhat the test actually proposes is a standard of consistency. Whatever level of scrutiny you consider appropriate for assessing a religion you do not hold — and everyone has one, and applies it confidently — is the level you should apply to the one you do.\n\nStated that way it is hard to reject and correspondingly modest. Its force comes entirely from the observation that almost nobody does it, and that the asymmetry is not usually defended when pointed out, but simply not noticed."
+    }
+  ],
+  "whereItStands": "Nothing here has moved much, and the reason is that the two sides are arguing about different things and both know it.\n\nThe demographic claim is not in dispute. Religious affiliation is overwhelmingly inherited, both sides accept that it is, and the argument is about what follows — which is a question about the epistemology of belief formation, not about the data. The Christian reply that origin does not determine truth is correct and is not a reply to the sharper form of the argument, which is about the reliability of the process rather than the truth of the output. The atheist reply that the process produces contradictory outputs is correct and does not by itself select against any particular tradition.\n\nWhat has changed is the ground the question is fought on. A century ago the Christian answer to 'why this one' would have been fulfilled prophecy and the moral superiority of the West. Neither is much used now. The case has narrowed to the historical claim about the resurrection, which has the merit of being the claim the tradition itself says everything depends on — and the effect of that narrowing is that this page and the resurrection page have largely become the same argument.",
+  "commonMistake": "Christians most often answer this question with an argument for theism, which does not reach it. Every argument on the first ten pages of this site, granted in full, leaves a reader with a creator and no tradition. Producing them here reads as not having understood the question.\n\nAtheists most often argue against a version of Christianity that most Christians do not hold, by treating the question as though exclusivism were the only option on the table. That argument is strong against the position it names and weak against the one the Catholic Church has taught since 1965, and using it without noticing the difference wastes its force.\n\nBoth sides treat 'all religions can't be right, so they're all wrong' as an argument. It is not one: that most claims in a contradictory set are false is a fact about the set, and it leaves the question of which, if any, is true exactly where it was.",
+  "sources": [
+    {
+      "title": "Nostra Aetate: Declaration on the Relation of the Church to Non-Christian Religions",
+      "author": "Second Vatican Council",
+      "year": "1965",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+      "note": "Short, and article 2 is the formal statement of Catholic inclusivism."
+    },
+    {
+      "title": "The Outsider Test for Faith",
+      "author": "John W. Loftus",
+      "year": "2013",
+      "url": "https://people.willamette.edu/~ttalbott/Loftus%20OTF2.pdf",
+      "note": "Loftus's own paper stating the test, hosted with a philosopher's reply."
+    },
+    {
+      "title": "An Enquiry concerning Human Understanding, Section X, Part II",
+      "author": "David Hume",
+      "year": "1748",
+      "url": "https://davidhume.org/texts/e/10",
+      "note": "The mutual-cancellation argument, in the second half of the section."
+    },
+    {
+      "title": "God Is Not One: The Eight Rival Religions That Run the World",
+      "author": "Stephen Prothero",
+      "year": "2010",
+      "url": "https://www.stephenprothero.com/book/god-is-not-one/",
+      "note": "A religious-studies case against the 'same mountain' assumption. Prothero is arguing with pluralists, not for Christianity."
+    },
+    {
+      "title": "John Hick",
+      "author": "Internet Encyclopedia of Philosophy",
+      "year": "2011",
+      "url": "https://iep.utm.edu/hick/",
+      "note": "The clearest short statement of the pluralistic hypothesis and the standard objections to it."
+    },
+    {
+      "title": "Life After Faith: The Case for Secular Humanism",
+      "author": "Philip Kitcher",
+      "year": "2014",
+      "url": "https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/",
+      "note": "Linked to a review rather than the book: the symmetry argument on this page is summarised from descriptions of it, not from the text."
+    }
+  ]
+}
