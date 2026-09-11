@@ -1,0 +1,252 @@
+{
+  "id": "miracles-and-evidence",
+  "number": 15,
+  "slug": "miracles-and-evidence",
+  "title": "Can a miracle ever be evidenced?",
+  "category": "history-and-text",
+  "status": "open",
+  "realQuestion": "Almost every argument filed under this heading is really one of three arguments, and they have different answers.\n\nThe first is whether miracles happen. The second is whether any particular report — the resurrection, a healing at Lourdes — survives scrutiny. The third is whether evidence of the kind human beings can actually have could ever make it reasonable to believe a miracle occurred.\n\nThis page is about the third. It is the one where the disagreement is genuinely about method rather than about which cases you have read, and it is the one that has to be settled first: if the answer is no, no amount of case detail matters, and if the answer is yes, the argument moves to the cases and stops being a philosophical argument at all.\n\nThe two sides here are not 'miracles happen' and 'miracles do not happen'. They are 'testimony can in principle carry this weight' and 'it cannot, and the reason is structural'.",
+  "distinctions": [
+    {
+      "label": "Do miracles in fact occur?",
+      "gloss": "Not this page. It is the conclusion people want, and it cannot be reached until the question of what evidence could show is answered. The resurrection specifically is argued on its own page.",
+      "activeHere": false
+    },
+    {
+      "label": "Is a miracle metaphysically possible?",
+      "gloss": "Not this page either, and not really contested on its own terms. If there is a God of the kind Christianity describes, miracles are possible; if there is not, they are not. That argument is the rest of this site.",
+      "activeHere": false
+    },
+    {
+      "label": "Could evidence available to human beings ever establish one?",
+      "gloss": "The live question, and the one both sides here are actually arguing about. It is a question about testimony, probability and what historical method can deliver, not about God.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "prior probability",
+      "definition": "How likely you took a claim to be before seeing the evidence now in front of you. In Bayesian reasoning the prior and the evidence are combined to give a revised probability."
+    },
+    {
+      "term": "independent testimony",
+      "definition": "Reports whose agreement is not explained by their sharing a source, a community, or a motive. Independence is what makes multiple witnesses worth more than one, and it is much harder to establish than to assume."
+    },
+    {
+      "term": "inference to the best explanation",
+      "definition": "Accepting the hypothesis that would, if true, best account for the evidence — provided it beats the rivals, and provided the rivals have actually been canvassed."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Testimony can carry it, and the bar is not infinite",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "enough-independent-witnesses",
+          "claim": "Hume's maxim is arithmetic, and the arithmetic does not go his way.",
+          "explanation": "Hume's rule says to believe a miracle report only when the falsehood of the testimony would be more surprising than the miracle. Stated that way it is not a bar; it is a comparison, and comparisons can come out either way.\n\nThe point was made against him within a century, in a book about machines. However small you make the [[prior probability]] of the event, it is a finite number, and the probability that some number of genuinely [[independent|independent testimony]] witnesses all err in the same direction shrinks faster than any fixed prior. So there is always some number of witnesses that clears the bar. Hume's argument, read as a blanket prohibition, requires the prior to be zero — and a prior of zero is not a judgement about the world, it is a refusal to be moved by any evidence whatever.\n\nThat does not show any actual miracle report clears the bar. It shows the bar is a bar and not a ceiling, which is what the blanket reading of Hume denied.",
+          "quote": {
+            "text": "it is possible to assign a number of independent witnesses, the improbability of the falsehood of whose concurring testimony shall be greater than that of the improbability of the miracle itself",
+            "author": "Charles Babbage",
+            "work": "The Ninth Bridgewater Treatise, Appendix Note E, 'On Hume's Argument against Miracles'",
+            "year": "1838",
+            "locator": "second edition, appendix note E",
+            "sourceUrl": "https://victorianweb.org/science/science_texts/bridgewater/appendixe.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "non-repeatable-counter-instance",
+              "label": "The prior is smaller than it looks",
+              "heldBy": "Richard Swinburne",
+              "oneLine": "A miracle is a one-off exception, not a defeated law, so the vast evidence for the law is not evidence against the event.",
+              "summary": "This is a different move from counting witnesses, and it attacks the other term in Hume's comparison.\n\nOn this account the enormous body of evidence supporting a law of nature is evidence that the law holds generally. A miracle claim does not contradict that. It claims a single exception that will not recur and that no revised law would predict — so it does not compete with the law for the same evidence, and the law's support does not transfer into support against it. The prior that testimony has to overcome is therefore much smaller than Hume's framing assumes.\n\nIt also lets the defender concede everything about the regularity of nature that the other side wants conceded, which the witness-counting argument does not.",
+              "quote": {
+                "text": "an occurrence of a non-repeatable counter-instance to a law of nature",
+                "author": "Richard Swinburne",
+                "work": "The Concept of Miracle",
+                "year": "1970",
+                "locator": "Swinburne's definition of a violation of a law of nature, as quoted in the Stanford Encyclopedia of Philosophy entry on miracles",
+                "sourceUrl": "https://plato.stanford.edu/entries/miracles/",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above is about whether witnesses are ever independent enough for the multiplication to work. This position does not multiply witnesses. It grants that testimony is weak and argues that the thing it has to outweigh is much lighter than Hume assumed, so an objection about witness independence passes it by entirely.",
+              "objection": {
+                "text": "The category is protected from the inside. A 'non-repeatable counter-instance' is defined so that no future observation can bear on it: if the event recurs it was never a miracle but a gap in the law, and if it does not recur there is nothing left to examine. That is not a modest claim about a single exception, it is an unfalsifiable one, and it makes the prior small by fiat rather than by evidence.",
+                "from": "atheist",
+                "response": "Every claim about a single past event has this shape — a particular battle, a particular crime — and we do not conclude that history is unfalsifiable. The traces, the testimony and the timing are all still open to examination; what is not repeatable is the event, not the evidence for it."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "The witnesses are never independent in the sense the arithmetic requires. Reports of a miracle come from people who were together, who belonged to the same community, who told each other what they had seen before anyone wrote it down, and who shared a strong interest in the conclusion. Correlated errors do not shrink the way independent ones do — and Earman, who thinks Hume's argument fails, makes exactly this point about how demanding real independence is.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "This is a good objection to particular cases and not to the principle, which is what was at issue. It also cuts both ways: it says miracle testimony can be evidence and that assessing it is empirical work about who talked to whom, which is precisely the position the blanket reading of Hume was meant to make unnecessary."
+          }
+        },
+        {
+          "id": "contemporary-and-investigated",
+          "claim": "The claims are not confined to ancient texts, and some of them have been examined under medical conditions.",
+          "explanation": "The debate is usually conducted as though miracle reports were all first-century and all literary. They are not. Survey work across ten countries puts the number of living people who say they have witnessed a divine healing in the hundreds of millions, and the reports are cross-cultural rather than confined to one tradition or one educational level.\n\nVolume alone proves nothing, and nobody serious claims it does. The argument is narrower: the standard picture in which miracle claims are a residue of the pre-modern world, evaporating wherever medicine arrives, is false as a matter of fact, and an argument that relies on it is relying on something that is not so.\n\nA small number of cases have also been examined prospectively, with medical records before and after — the Lourdes bureau being the longest-running example. That process almost always ends in 'not established', which is the point: it is a process that can return no.",
+          "quote": {
+            "text": "hundreds of millions of people today claim to have experienced miracles",
+            "author": "Craig S. Keener",
+            "work": "Miracles: The Credibility of the New Testament Accounts",
+            "year": "2011",
+            "locator": "the survey chapters; the figure is built from a 2006 ten-country Pew survey of Pentecostal and charismatic experience",
+            "sourceUrl": "https://books.google.com/books/about/Miracles_2_volumes.html?id=oCrSpYJvGakC",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "A large number of claims is a large number of claims. Every tradition produces them, including traditions whose doctrines contradict Christianity, so either the reports establish incompatible conclusions or they establish that human beings report this kind of experience readily under certain conditions. The second explanation covers the whole data set and needs nothing supernatural. Where the cases have been examined, the honest finding is 'no medical explanation available', and that is a statement about the state of medicine.",
+            "objectionFrom": "atheist",
+            "response": "That reports occur across traditions is an argument against any one tradition owning the phenomenon, which is worth making and is not the argument here. The claim on the table is that the evidence base is contemporary and examinable, and 'no explanation available after examination' is a different epistemic position from 'unexamined anecdote', which is how these cases are usually filed."
+          }
+        }
+      ]
+    },
+    {
+      "label": "The structure of the case defeats it before the evidence arrives",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "testimony-is-the-weaker-side",
+          "claim": "Whatever makes testimony unreliable is ordinary; what a miracle report asks you to accept is not.",
+          "explanation": "Hume's maxim is usually quoted as a prohibition. It is better read as a weighing instruction with an empirical claim attached: that on one side sits a class of events with no established instances, and on the other sits human testimony, whose failure modes — mistake, exaggeration, deference, piety, faulty memory, retelling — are abundantly instanced and well understood.\n\nThe comparison is not close, and it is not close for a reason that has nothing to do with hostility to religion. False testimony requires nothing new in the world. A miracle requires something new in the world. Given a choice between explanations, the one that needs no new entities is where the weight sits before a single detail of the case is examined.\n\nThat is a defeasible position, and Hume says so. What it denies is that the detail of any actual case has ever been strong enough to move it.",
+          "quote": {
+            "text": "That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish",
+            "author": "David Hume",
+            "work": "An Enquiry concerning Human Understanding, Section X, 'Of Miracles'",
+            "year": "1748",
+            "locator": "Part I; Hume calls it a general maxim worthy of attention",
+            "sourceUrl": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "variants": [
+            {
+              "id": "the-historian-s-version",
+              "label": "The methodological version",
+              "heldBy": "Bart D. Ehrman",
+              "oneLine": "History is a discipline that establishes what probably happened, and a miracle is by construction the least probable thing on any list.",
+              "summary": "This version makes no claim about what did or did not occur, and that is what distinguishes it.\n\nHistorical method produces comparative judgements: given the sources, which reconstruction is most probable? A miracle is defined as the event that departs from everything the method uses as its baseline. So it can never be the most probable reconstruction, not because historians have ruled it out in advance, but because the tool measures probability and this is the item at the bottom of the scale.\n\nThe conclusion is correspondingly modest: not that no miracle happened, but that if one did, history is the wrong instrument for finding out. A believer can hold this position without inconsistency, and some do.",
+              "quote": {
+                "text": "Historians can only establish what probably happened in the past, and by definition a miracle is the least probable occurrence",
+                "author": "Bart D. Ehrman",
+                "work": "his standard statement of the historian's problem with miracle, made in print and in debate",
+                "year": "2006",
+                "locator": "the formulation recurs across his debates and his blog; no single canonical page",
+                "sourceUrl": "https://ehrmanblog.org/historians-and-the-problem-of-miracle/",
+                "verification": "corroborated",
+                "sawWhat": "snippet"
+              },
+              "changesTheObjection": "The objection above says Hume's weighing is really a disguised prior of zero. That charge cannot be laid here, because this version assigns no prior at all. It concedes that a miracle may have occurred and says only that a probabilistic method cannot be the thing that shows it, so an objection about smuggled priors has nothing to attach to.",
+              "objection": {
+                "text": "Then it is true by stipulation and tells us nothing. If 'historical' is defined as 'reconstructible by a method that ranks by probability', the conclusion that history cannot reach a miracle is a fact about the definition, not a finding about the past. Worse, it quarantines the most consequential claim in the field from the discipline that studies it, so a historian who thought the evidence for one particular event was overwhelming would have no way to say so in their professional voice.",
+                "from": "within",
+                "sharedPremise": "it accepts the full critical apparatus and the probabilistic character of historical judgement, and argues from inside that apparatus that a method which cannot in principle return a positive result on some class of question has been defined too narrowly to be doing the work of a method",
+                "response": "A discipline is entitled to its instruments, and every instrument has a range. That a historian cannot, qua historian, certify a miracle is no stranger than that a chemist cannot, qua chemist, certify that a painting is beautiful."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "The maxim only bars miracles if the prior is set at zero, and Hume gives no argument for that. Set it at any finite value and enough independent testimony clears it; the point has been made since Babbage, and Earman's book-length treatment concludes Hume's argument fails as probability. What survives is not a principle but a case-by-case judgement, which is far less than Hume claimed.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "The prior is not zero, and it does not need to be. It needs to be smaller than the probability that a correlated group of people, in a community that expected exactly this, all reported it wrongly — and that second number is not small. Every instance we can check has come out on the side of the testimony failing."
+          }
+        },
+        {
+          "id": "the-double-burden",
+          "claim": "Two things have to be shown, and the evidence that establishes the first undermines the second.",
+          "explanation": "To have a miracle you must establish both that the event occurred and that it was a violation of a genuine law of nature — not merely of what we currently take the laws to be. These are not two tasks pointing the same way; they pull against each other.\n\nWhat makes an event well attested is that it fits the ordinary machinery of evidence: records, witnesses, traces, consistency with how the world works. What makes it a miracle is that it does not. The better you satisfy the first requirement, the more you are relying on exactly the regularities the second requirement asks you to declare broken.\n\nAnd the second requirement is harder than it sounds. Establishing a violation of a genuine law requires knowing what the laws are — not approximately, but well enough to rule out that this event falls under one we have not written down. Physics has never been in that position and does not claim to be. So the honest description of an unexplained event is 'unexplained', and the step to 'act of God' is a separate [[inference to the best explanation]] that the evidence for the event does not supply.",
+          "quote": {
+            "text": "Where there is some plausible testimony about the occurrence of what would appear to be a miracle, those who accept this as a miracle have the double burden of showing both that the event took place and that it violated the laws of nature. But it will be very hard to sustain this double burden.",
+            "author": "J. L. Mackie",
+            "work": "The Miracle of Theism",
+            "year": "1982",
+            "locator": "the chapter on miracles and testimony",
+            "sourceUrl": "https://global.oup.com/academic/product/the-miracle-of-theism-9780198246824",
+            "verification": "corroborated",
+            "sawWhat": "snippet"
+          },
+          "counter": {
+            "objection": "The second burden is an artefact of defining a miracle as a violation, which most theologians do not. On the older account a miracle is an act of God that works through nature rather than against it, so nothing has to be shown to be broken; what marks it out is its timing, its context and what it signifies. On that account the two burdens collapse into one — did this happen, and is the religious context the best explanation of why it happened then — and the inference is the ordinary kind used everywhere else.",
+            "objectionFrom": "theist",
+            "response": "Then the word is doing no work. If a miracle is compatible with everything nature does anyway, the only thing distinguishing it from a fortunate coincidence is the interpretation the observer brings, and the interpretation is the thing in dispute. The violation account at least said something that could be wrong."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "What Lourdes actually certifies",
+      "oneLine": "The medical bureau certifies that a cure has no available medical explanation; the judgement that it was a miracle is made afterwards, by the Church, and is a separate act.",
+      "text": "The Bureau des Constatations Médicales was set up in 1883 and has recorded more than seven thousand dossiers. Seventy-two cures have been recognised as miraculous, the most recent in 2025 — roughly one per cent of the files, over more than a century.\n\nThat ratio is the interesting number, and both sides tend to misuse it. It is not a hit rate for divine intervention, because the denominator is self-selected people who travelled to Lourdes and reported feeling better. Nor is it evidence that the process is a formality: a procedure that rejects ninety-nine cases in a hundred is doing something, and critics from inside the bureau have argued it is still too permissive rather than too strict.\n\nThe two steps are worth keeping apart because arguments on both sides run them together. The medical finding is 'no explanation available to us'. The ecclesiastical finding is 'this was a miracle'. Nothing in the first entails the second, and the bureau does not claim it does."
+    },
+    {
+      "heading": "Hume wrote two arguments, not one",
+      "oneLine": "Part I argues that testimony can never in principle establish a miracle; Part II argues that no actual report has ever come close — and almost everything people cite as 'Hume's argument' is from Part II.",
+      "text": "Section X of the Enquiry divides at the halfway mark. Part I is the maxim and the weighing: an argument about what evidence could in principle do. Part II is four empirical claims — that no miracle has been attested by enough educated witnesses of unquestioned integrity, that human beings are drawn to wonder, that such reports cluster among what Hume calls ignorant and barbarous nations, and that the miracles of rival religions cancel one another out.\n\nThe two parts fail and succeed independently, which is why the debate is so often at cross purposes. Earman's critique is aimed almost entirely at Part I and concludes the principle does not work. Keener's is aimed almost entirely at Part II and argues the empirical claims are false, particularly the third. Someone can agree with both and still hold that no particular miracle report has been established.\n\nThe fourth claim — that reports from rival religions cancel out — is the one that has aged best, and it is not really a claim about testimony at all. It is the argument that appears on this site under the question of why Christianity rather than any other religion."
+    }
+  ],
+  "whereItStands": "The in-principle question has moved, and it has moved against Hume. The technical literature since the 1990s largely agrees that the argument of Part I does not work as stated: a finite prior can be overcome by enough independent evidence, and Hume had no argument for the prior being zero. That is not a theological result — Earman, whose book is the standard statement of it, is not making a case for miracles — and it is accepted by philosophers on both sides.\n\nWhat has not moved is the applied question, and the reason is the independence requirement. The arithmetic that defeats Part I demands witnesses whose errors are uncorrelated, and the cases that matter religiously are exactly the cases where witnesses shared a community, a set of expectations and a great deal of conversation before anything was written down. Nobody has produced a case that clears the bar that both sides would recognise as cleared.\n\nSo the position after two centuries is unusual: the famous argument is widely thought to fail, and the conclusion it was meant to support is about where it was. Both sides can quote the state of the literature accurately and reach opposite places, because they are quoting different halves of it.",
+  "commonMistake": "Christians most often treat the collapse of Hume's Part I as though it were evidence for a miracle. It is not. It removes a barrier and leaves the case exactly where the case's own evidence puts it, which is the position the argument was supposed to improve on.\n\nAtheists most often quote the maxim as a rule that settles the matter, without noticing that it is a comparison with two sides and that its author intended the empirical arguments of Part II to do most of the work. Quoting Part I as a prohibition attributes to Hume a stronger claim than he made and one that is now generally thought not to succeed.\n\nBoth sides use 'extraordinary claims require extraordinary evidence' as though it were an argument. It is Hume's maxim restated, with the same question left open: how much is extraordinary, and what could supply it.",
+  "sources": [
+    {
+      "title": "An Enquiry concerning Human Understanding, Section X: Of Miracles",
+      "author": "David Hume",
+      "year": "1748",
+      "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+      "note": "The primary text, in full and free. Parts I and II are clearly marked."
+    },
+    {
+      "title": "Miracles",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "year": "2019",
+      "url": "https://plato.stanford.edu/entries/miracles/",
+      "note": "The best survey of the definitional dispute and of the Bayesian literature on testimony."
+    },
+    {
+      "title": "Hume's Abject Failure: The Argument Against Miracles",
+      "author": "John Earman",
+      "year": "2000",
+      "url": "https://academic.oup.com/book/26135",
+      "note": "The standard statement of the case that Part I fails as probability. Earman is not arguing for miracles."
+    },
+    {
+      "title": "The Ninth Bridgewater Treatise, Appendix Note E",
+      "author": "Charles Babbage",
+      "year": "1838",
+      "url": "https://victorianweb.org/science/science_texts/bridgewater/appendixe.html",
+      "note": "The independent-witness reply to Hume, a century and a half before the Bayesian literature restated it."
+    },
+    {
+      "title": "Miracles: The Credibility of the New Testament Accounts",
+      "author": "Craig S. Keener",
+      "year": "2011",
+      "url": "https://books.google.com/books/about/Miracles_2_volumes.html?id=oCrSpYJvGakC",
+      "note": "Two volumes, most of it a survey of contemporary reports. The argument is against Hume's Part II, not Part I."
+    },
+    {
+      "title": "The Miracle of Theism",
+      "author": "J. L. Mackie",
+      "year": "1982",
+      "url": "https://global.oup.com/academic/product/the-miracle-of-theism-9780198246824",
+      "note": "Chapter 1 on miracles and testimony states the double-burden argument."
+    },
+    {
+      "title": "The recognised cures",
+      "author": "Sanctuaire Notre-Dame de Lourdes",
+      "year": "2025",
+      "url": "https://www.lourdes-france.com/en/day-pilgrims/the-miracles/",
+      "note": "The sanctuary's own list, with the count and the procedure."
+    }
+  ]
+}

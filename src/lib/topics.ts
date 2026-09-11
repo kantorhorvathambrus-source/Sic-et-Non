@@ -150,7 +150,7 @@ export function readingTime(topic: TopicData): ReadingTime {
   }
 
   for (const side of topic.sides) {
-    shown.push(side.label);
+    shown.push(side.label, side.singleVoice);
     for (const argument of side.arguments) {
       shown.push(argument.claim);
       hidden.push(argument.explanation, argument.quote?.text);
@@ -174,6 +174,10 @@ export function readingTime(topic: TopicData): ReadingTime {
           item.quote.text,
           item.changesTheObjection,
           item.againstSettledCore,
+          item.objection?.text,
+          item.objection?.sharedPremise,
+          item.objection?.response,
+          item.objection?.quote?.text,
         );
       }
     }
