@@ -27,8 +27,12 @@ is his argument and the page carrying it cannot quote its own author — the wor
 placement a paraphrase can have on this site. *The Hiddenness Argument* (2015)
 and *Divine Hiddenness and Human Reason* (1993) are both easy to get.
 
-O'Connor is last in this order and cheapest to pull: the introduction to
-*Persons and Causes* is on his own site, already linked below.
+O'Connor is last of the four named above and cheapest to pull: the
+introduction to *Persons and Causes* is on his own site, already linked below.
+
+Everything after those four is ordered main slots before variant slots, then by
+topic. A variant paraphrase is the same failure in a smaller frame, not a
+lesser one: the reader still has our sentence where the author's should be.
 
 | Author | Topic | Slot | Source |
 |---|---|---|---|
@@ -38,6 +42,13 @@ O'Connor is last in this order and cheapest to pull: the introduction to
 | Timothy O'Connor | 9. Do we have free will? | agents-originate — the claim | https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf |
 | Theodore Sider | 12. Can eternal damnation be just? | where-is-the-line — the claim | https://tedsider.org/papers/hell.pdf |
 | Gerd Lüdemann | 13. Did Jesus exist, and did he rise? | visions-after-a-death — the claim | https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances |
+| Philip Kitcher | 16. Why Christianity rather than any other religion? | symmetry — the claim | https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/ |
+| William P. Alston | 17. Is religious experience evidence? | no-practice-validates-itself — the claim | https://www.jstor.org/stable/10.7591/j.ctt5hh24c |
+| Edward Feser | 1. Did the universe begin, and does a beginning need a cause? | out-of-nothing — variant: A cause here and now, not at the start | http://edwardfeser.blogspot.com/2016/06/four-causes-and-five-ways.html |
+| Stephen Maitzen | 4. If God wants to be known, why is he hidden? | nonresistant-nonbelief — variant: The geography of belief | https://philosophy.acadiau.ca/tl_files/sites/philosophy/resources/documents/Maitzen_Hiddenness.pdf |
+| Don N. Page | 5. Is the universe fine-tuned for life? | the-multiverse-moves-the-problem — variant: God made the multiverse | https://philpapers.org/rec/PAGDGS |
+| Gregory A. Boyd | 11. What should we make of the violence in the Old Testament? | conquest-rhetoric — variant: The violent portraits are real, and must be read through the cross | https://reknew.org/book/crucifixion-warrior-god/ |
+| Thomas L. Thompson | 14. Is the Bible reliable? | changed-in-the-copying — variant: Minimalism, on the Hebrew Bible | https://www.hachettebookgroup.com/titles/thomas-l-thompson/the-mythic-past-biblical-archaeology-and-the-myth-of-israel/9780786725175/ |
 
 ## Freely readable, so cheap to check
 
@@ -46,15 +57,15 @@ Open in a browser, no account or payment needed.
 | Author | Published as | Source |
 |---|---|---|
 | Bertrand Russell | If everything must have a cause, then God must have a cause. If there … | https://russell-j.com/0399WINC.HTM |
+| Thomas Aquinas | God is very being by His own essence | https://www.newadvent.org/summa/1003.htm |
 | Thomas Aquinas | We find in nature things that are possible to be and not to be, since … | https://www.newadvent.org/summa/1002.htm |
 | Bertrand Russell | I should say that the universe is just there, and that's all. | https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm |
 | David Hume | Did I show you the particular causes of each individual in a collectio… | https://www.gutenberg.org/files/4583/4583-h/4583-h.htm |
 | David Hume | Is he willing to prevent evil, but not able? then is he impotent. Is h… | https://www.gutenberg.org/files/4583/4583-h/4583-h.htm |
 | Ivan Karamazov, in Fyodor Dostoevsky | It's not God that I don't accept, Alyosha, only I most respectfully re… | https://www.gutenberg.org/ebooks/28054 |
 | David Hume | many worlds might have been botched and bungled, throughout an eternit… | https://www.gutenberg.org/files/4583/4583-h/4583-h.htm |
-| Thomas Aquinas | since Holy Scripture can be explained in a multiplicity of senses, one… | https://www.newadvent.org/summa/1068.htm |
 | Charles Hodge | What is Darwinism? It is Atheism. This does not mean, as before said, … | https://www.gutenberg.org/files/19192/19192-h/19192-h.htm |
-| Judge John E. Jones III | We have addressed the seminal question of whether ID is science. We ha… | https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/ |
+| Thomas Aquinas | since Holy Scripture can be explained in a multiplicity of senses, one… | https://www.newadvent.org/summa/1068.htm |
 | Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí and Nick Lane | the difference in pH across thin barriers produced natural proton grad… | https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf |
 | Richard Swinburne | a person consists of two parts — a physical body and a non-physical so… | https://users.ox.ac.uk/~orie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf |
 | J.P. Moreland | If irreducible consciousness exists (or is regularly correlated with p… | https://www.jpmoreland.com/books/god-and-consciousness/ |
@@ -69,23 +80,32 @@ Open in a browser, no account or payment needed.
 | Bertrand Russell | I do not myself feel that any person who is really profoundly humane c… | https://russell-j.com/0399WINC.HTM |
 | Theodore Sider | God is in charge of the selection procedure, so it must be just; any j… | https://tedsider.org/papers/hell.pdf |
 | Gary Habermas | so strongly attested historically that they are granted by nearly ever… | https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs |
+| David Hume | That no testimony is sufficient to establish a miracle, unless the tes… | https://www.gutenberg.org/files/9662/9662-h/9662-h.htm |
+| William James | Mystical states, when well developed, usually are, and have the right … | https://www.gutenberg.org/files/621/621-h/621-h.html |
+| Evan Fales | mystical experiences are not public | https://andrewmbailey.com/wpa/AlstonFales.pdf |
+| Alfred North Whitehead | My explanation is that the faith in the possibility of science, genera… | https://www.gutenberg.org/files/68611/68611-h/68611-h.htm |
 | William Lane Craig | Whatever begins to exist has a cause of its existence. The universe be… | https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument |
 | Alexander Vilenkin | All the evidence we have says that the universe had a beginning. | https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf |
 | Sean Carroll | Carroll's position is that modern physics does not describe the univer… | https://preposterousuniverse.com/writings/dtung/ |
 | William Lane Craig | this recourse to the World Ensemble will be in vain if it turns out th… | https://www.reasonablefaith.org/writings/scholarly-writings/ |
 | Charles Darwin | I cannot persuade myself that a beneficent & omnipotent God would have… | https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml |
 | Ken Ham | Billions of dead things, buried in rock layers, laid down by water, al… | https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/ |
-| Answers in Genesis | No apparent, perceived, or claimed evidence in any field of study, inc… | https://answersingenesis.org/about/faith/ |
 | Answers in Genesis | Life only comes from life. This was the law established by the Author … | https://answersingenesis.org/origin-of-life/life-from-life-or-not/ |
 | Galen Strawson | nothing can be the cause of itself, and in order to be truly or ultima… | https://plato.stanford.edu/entries/skepticism-moral-responsibility/ |
 | William Lane Craig | If God does not exist, objective moral values do not exist. | https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god |
 | William Lane Craig | since our moral duties are constituted by God's commands, what He comm… | https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites |
 | William Lane Craig | the conquest of Canaan represented God's just judgement upon those peo… | https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites |
+| Second Vatican Council | the books of Scripture must be acknowledged as teaching solidly, faith… | https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html |
+| Richard Swinburne | an occurrence of a non-repeatable counter-instance to a law of nature | https://plato.stanford.edu/entries/miracles/ |
+| Second Vatican Council | The Catholic Church rejects nothing of what is true and holy in these … | https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html |
+| John Hick | we are led to postulate the Real an sich as the presupposition of the … | https://iep.utm.edu/hick/ |
+| William Lane Craig | If there is no God, then man and the universe are doomed. | https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god |
 | Gottfried Wilhelm Leibniz | Why is there something rather than nothing? For nothing is simpler and… | https://philpapers.org/rec/LEIPON |
 | William L. Rowe | In some distant forest lightning strikes a dead tree, resulting in a f… | https://philpapers.org/rec/ROWTPO-3 |
 | Stephen J. Wykstra | if we think carefully about the sort of being theism proposes for our … | https://link.springer.com/article/10.1007/BF00136567 |
 | John Hick | The good that outshines all ill is not a paradise long since lost but … | https://link.springer.com/book/10.1057/9780230283961 |
 | J. L. Schellenberg | Schellenberg's argument runs that a perfectly loving God would always … | https://philpapers.org/rec/SCHDHA |
+| Don N. Page | A multiverse is not an alternative to a creator but a possible form of… | https://philpapers.org/rec/PAGDGS |
 | Theodosius Dobzhansky | I am a creationist and an evolutionist. Evolution is God's, or Nature'… | https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light |
 | Kevin J. Corcoran | we human persons are constituted by our bodies without being identical… | https://philpapers.org/rec/CORRHN |
 
@@ -149,6 +169,28 @@ File: `src/content/topics/<locale>/01-beginning-and-cause.json`
 - **Primary document, free.** Open and search the page. Confirm the wording and the date.
 - **Check:** the wording word for word, and that the argument as Craig states it, defended at length in his later writings is right. Confirm it is not quoted out of a sentence that reverses it.
 
+### 5. Lawrence M. Krauss — [ ] corroborated
+
+- **Published as:** “Nothing is unstable. It will always produce something.”
+- **Work:** A Universe from Nothing, in interview
+- **Year:** 2012
+- **Used for:** causation-inside-time — variant: Empty space is not stable
+- **Source:** https://www.npr.org/2012/01/13/145175263/lawrence-krauss-on-a-universe-from-nothing
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Edward Feser — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** The Aristotelian proof does not point to a first cause at the start of a sequence of consecutive events, but to a sustaining cause that at every instant holds finite and changeable things in existence.
+- **Work:** Five Proofs of the Existence of God
+- **Year:** 2017 · our summary of the essentially-ordered argument as Feser states it; not his wording
+- **Used for:** out-of-nothing — variant: A cause here and now, not at the start
+- **Source:** http://edwardfeser.blogspot.com/2016/06/four-causes-and-five-ways.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
 ## Topic 2: Why is there something rather than nothing?
 
 File: `src/content/topics/<locale>/02-something-rather-than-nothing.json`
@@ -175,7 +217,18 @@ File: `src/content/topics/<locale>/02-something-rather-than-nothing.json`
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
-### 3. David Hume — [ ] corroborated
+### 3. Thomas Aquinas — [ ] corroborated
+
+- **Published as:** “God is very being by His own essence”
+- **Work:** Summa Theologiae, I q.3 a.4
+- **Year:** c. 1270 · on whether essence and existence are the same in God
+- **Used for:** nothing-is-simpler — variant: God is not a being among beings
+- **Source:** https://www.newadvent.org/summa/1003.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that on whether essence and existence are the same in God is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. David Hume — [ ] corroborated
 
 - **Published as:** “Did I show you the particular causes of each individual in a collection of twenty particles of matter, I should think it very unreasonable, should you afterwards ask me, what was the cause of the whole twenty.”
 - **Work:** Dialogues Concerning Natural Religion
@@ -186,7 +239,7 @@ File: `src/content/topics/<locale>/02-something-rather-than-nothing.json`
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and that Part IX, spoken by Cleanthes is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 4. Gottfried Wilhelm Leibniz — [ ] corroborated
+### 5. Gottfried Wilhelm Leibniz — [ ] corroborated
 
 - **Published as:** “Why is there something rather than nothing? For nothing is simpler and easier than something.”
 - **Work:** Principles of Nature and Grace, Founded on Reason
@@ -196,6 +249,17 @@ File: `src/content/topics/<locale>/02-something-rather-than-nothing.json`
 - **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
 - **Check:** the wording word for word, and that §7 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Adolf Grünbaum — [ ] corroborated
+
+- **Published as:** “Leibniz's explanatory demand is an ill-conceived non-starter which poses a pseudo issue”
+- **Work:** Why Is There a World AT ALL, Rather Than Just Nothing?
+- **Year:** 2009
+- **Used for:** just-there — variant: The question is ill-formed
+- **Source:** https://www.stafforini.com/existence/Grunbaum%20-%20Why%20is%20there%20a%20world%20at%20all,%20rather%20than%20just%20nothing.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
 ## Topic 3: If God is good, why is there so much suffering?
 
@@ -256,7 +320,18 @@ File: `src/content/topics/<locale>/03-problem-of-suffering.json`
 - **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
 - **Check:** the wording word for word, and that p. 337 is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 6. Alvin Plantinga — [ ] corroborated
+### 6. John Sanders — [ ] corroborated
+
+- **Published as:** “because agents are free, the future includes possibilities, and since God’s knowledge is perfect, open theists hold that God knows the future partly as a realm of possibilities. This view contrasts with classical theism that has usually held that God knows the future exclusively as a domain of settled facts.”
+- **Work:** Summary of Open Theism
+- **Year:** 2016
+- **Used for:** beyond-our-ken — variant: God did not know which way it would go
+- **Source:** https://drjohnsanders.com/summary-of-open-theism/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 7. Alvin Plantinga — [ ] corroborated
 
 - **Published as:** “A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.”
 - **Work:** God, Freedom, and Evil
@@ -267,13 +342,24 @@ File: `src/content/topics/<locale>/03-problem-of-suffering.json`
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
-### 7. David Bentley Hart — [ ] corroborated
+### 8. David Bentley Hart — [ ] corroborated
 
 - **Published as:** “rather than showing us how the tears of a small girl suffering in the dark were necessary for the building of the Kingdom, he will instead raise her up and wipe away all tears from her eyes.”
 - **Work:** The Doors of the Sea: Where Was God in the Tsunami?
 - **Year:** 2005
 - **Used for:** refusing-theodicy — the claim
 - **Source:** https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 9. Paul Draper — [ ] corroborated
+
+- **Published as:** “observations and testimony about pain and pleasure bear a significant negative evidential relation to theism”
+- **Work:** Pain and Pleasure: An Evidential Problem for Theists, Noûs 23(3)
+- **Year:** 1989
+- **Used for:** the-fawn — variant: A likelihood comparison, not a failure to see
+- **Source:** https://infidels.org/library/modern/nontheism-atheism-pain-and-pleasure/
 - **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
@@ -304,7 +390,18 @@ File: `src/content/topics/<locale>/04-divine-hiddenness.json`
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
-### 3. Friedrich Nietzsche — [ ] corroborated
+### 3. Alvin Plantinga — [ ] corroborated
+
+- **Published as:** “God has created us human beings with a belief-producing process or source of belief, the sensus divinitatis; this source works under various conditions to produce beliefs about God, including beliefs that immediately entail his existence. Belief produced in this way can easily meet the conditions for warrant.”
+- **Work:** Warranted Christian Belief
+- **Year:** 2000
+- **Used for:** enough-light — variant: The demand for evidence misdescribes the belief
+- **Source:** https://www.ccel.org/ccel/plantinga/warrant3.vi.ii.i.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Friedrich Nietzsche — [ ] corroborated
 
 - **Published as:** “A god who is all-knowing and all-powerful and who does not even make sure that his creatures understand his intention — could that be a god of goodness?”
 - **Work:** Daybreak: Thoughts on the Prejudices of Morality
@@ -315,7 +412,18 @@ File: `src/content/topics/<locale>/04-divine-hiddenness.json`
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and that §91, 'God's honesty' is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 4. C. S. Lewis — [ ] corroborated
+### 5. Stephen Maitzen — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** Theistic belief is distributed extremely unevenly across the world, being near-universal in some countries and very rare in others, and this pattern is far better explained by cultural transmission than by any account on which God seeks a relationship with every person.
+- **Work:** Divine Hiddenness and the Demographics of Theism, Religious Studies 42
+- **Year:** 2006 · our summary of the argument as Maitzen sets it out; not his wording
+- **Used for:** nonresistant-nonbelief — variant: The geography of belief
+- **Source:** https://philosophy.acadiau.ca/tl_files/sites/philosophy/resources/documents/Maitzen_Hiddenness.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 6. C. S. Lewis — [ ] corroborated
 
 - **Published as:** “Our cause is never more in danger, than when a human, no longer desiring, but intending, to do our Enemy's will, looks round upon a universe from which every trace of Him seems to have vanished, and asks why he has been forsaken, and still obeys.”
 - **Work:** The Screwtape Letters
@@ -352,7 +460,18 @@ File: `src/content/topics/<locale>/05-fine-tuning.json`
 - **Primary document, free.** Open and search the page. Confirm the wording and the date.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
-### 3. Fred Hoyle — [ ] corroborated
+### 3. Don N. Page — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** A multiverse is not an alternative to a creator but a possible form of creation: a God who values a rich and varied creation might well produce many universes rather than one, so the existence of a multiverse would be evidence about what was made, not about whether it was made.
+- **Work:** Does God So Love the Multiverse?
+- **Year:** 2008 · our summary of the position Page argues for; not his wording
+- **Used for:** the-multiverse-moves-the-problem — variant: God made the multiverse
+- **Source:** https://philpapers.org/rec/PAGDGS
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Scholarly record.** The record is free; the text may be paywalled. Check the page number as well as the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 4. Fred Hoyle — [ ] corroborated
 
 - **Published as:** “A common sense interpretation of the facts suggests that a superintellect has monkeyed with physics, as well as with chemistry and biology.”
 - **Work:** The Universe: Past and Present Reflections, Engineering and Science
@@ -363,13 +482,24 @@ File: `src/content/topics/<locale>/05-fine-tuning.json`
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
-### 4. Douglas Adams — [ ] corroborated
+### 5. Douglas Adams — [ ] corroborated
 
 - **Published as:** “This is rather as if you imagine a puddle waking up one morning and thinking, 'This is an interesting world I find myself in — an interesting hole I find myself in — fits me rather neatly, doesn't it?'”
 - **Work:** Is There an Artificial God?, speech at Digital Biota 2, Cambridge
 - **Year:** 1998
 - **Used for:** the-observer-is-the-sample — the claim
 - **Source:** https://www.biotacast.org/douglasAdams.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Leonard Susskind — [ ] corroborated
+
+- **Published as:** “the best explanation for the patterns we see in cosmology and particle physics is a very diverse landscape of possibilities and an extremely large universe – a multiverse”
+- **Work:** in discussion with Lee Smolin, Edge
+- **Year:** 2004
+- **Used for:** the-observer-is-the-sample — variant: The landscape
+- **Source:** https://www.edge.org/conversation/lee_smolin-leonard_susskind-smolin-vs-susskind-the-anthropic-principle
 - **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
@@ -389,27 +519,27 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
-### 2. Judge John E. Jones III — [ ] corroborated
-
-- **Published as:** “We have addressed the seminal question of whether ID is science. We have concluded that it is not, and moreover that ID cannot uncouple itself from its creationist, and thus religious, antecedents.”
-- **Work:** Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa.)
-- **Year:** 2005
-- **Used for:** intelligent-design — the reply
-- **Source:** https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/
-- **Verified by:** _(not yet)_  **on:** _(not yet)_
-- **Full text, free.** Open and search the page for a distinctive phrase.
-- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
-
-### 3. Charles Hodge — [ ] corroborated
+### 2. Charles Hodge — [ ] corroborated
 
 - **Published as:** “What is Darwinism? It is Atheism. This does not mean, as before said, that Mr. Darwin himself and all who adopt his views are atheists; but it means that his theory is atheistic, that the exclusion of design from nature is, as Dr. Gray says, tantamount to atheism.”
 - **Work:** What is Darwinism?
 - **Year:** 1874
-- **Used for:** old-earth-creationism — positive case
+- **Used for:** mechanism-not-author — variant: Old-earth creationism
 - **Source:** https://www.gutenberg.org/files/19192/19192-h/19192-h.htm
 - **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Ken Ham — [ ] corroborated
+
+- **Published as:** “Billions of dead things, buried in rock layers, laid down by water, all over the earth.”
+- **Work:** Learning Paleontology from a Biblical Perspective, Answers in Genesis
+- **Year:** 2016 · a formulation used across Answers in Genesis material
+- **Used for:** mechanism-not-author — variant: Young-earth creationism
+- **Source:** https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and that a formulation used across Answers in Genesis material is right. Confirm it is not quoted out of a sentence that reverses it.
 
 ### 4. Charles Darwin — [ ] corroborated
 
@@ -422,29 +552,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Primary document, free.** Open and search the page. Confirm the wording and the date.
 - **Check:** the wording word for word, and that DCP-LETT-2814 is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 5. Ken Ham — [ ] corroborated
-
-- **Published as:** “Billions of dead things, buried in rock layers, laid down by water, all over the earth.”
-- **Work:** Learning Paleontology from a Biblical Perspective, Answers in Genesis
-- **Year:** 2016 · a formulation used across Answers in Genesis material
-- **Used for:** young-earth-creationism — positive case
-- **Source:** https://answersingenesis.org/blogs/ken-ham/2016/08/29/learning-paleontology-biblical-perspective/
-- **Verified by:** _(not yet)_  **on:** _(not yet)_
-- **Primary document, free.** Open and search the page. Confirm the wording and the date.
-- **Check:** the wording word for word, and that a formulation used across Answers in Genesis material is right. Confirm it is not quoted out of a sentence that reverses it.
-
-### 6. Answers in Genesis — [ ] corroborated
-
-- **Published as:** “No apparent, perceived, or claimed evidence in any field of study, including science, history, and chronology, can be valid if it contradicts the clear teaching of Scripture obtained by historical-grammatical interpretation.”
-- **Work:** Statement of Faith, section on Scripture
-- **Year:** current
-- **Used for:** young-earth-creationism — when evidence disagrees
-- **Source:** https://answersingenesis.org/about/faith/
-- **Verified by:** _(not yet)_  **on:** _(not yet)_
-- **Primary document, free.** Open and search the page. Confirm the wording and the date.
-- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
-
-### 7. Theodosius Dobzhansky — [ ] corroborated
+### 5. Theodosius Dobzhansky — [ ] corroborated
 
 - **Published as:** “I am a creationist and an evolutionist. Evolution is God's, or Nature's method of creation.”
 - **Work:** Nothing in Biology Makes Sense except in the Light of Evolution, The American Biology Teacher 35
@@ -455,7 +563,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Journal of record.** Open the article (paywall or library access) and check the page number.
 - **Check:** the wording word for word, and that pp. 125-129 is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 8. Alvin Plantinga — [ ] corroborated
+### 6. Alvin Plantinga — [ ] corroborated
 
 - **Published as:** “there is superficial conflict but deep concord between science and theistic religion, but superficial concord and deep conflict between science and naturalism”
 - **Work:** Where the Conflict Really Lies: Science, Religion, and Naturalism
@@ -466,7 +574,7 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and that preface, p. ix is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 9. Richard Dawkins — [ ] corroborated
+### 7. Richard Dawkins — [ ] corroborated
 
 - **Published as:** “Although atheism might have been logically tenable before Darwin, Darwin made it possible to be an intellectually fulfilled atheist.”
 - **Work:** The Blind Watchmaker
@@ -477,29 +585,18 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and that p. 6 is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 10. Francis Collins — [ ] corroborated
-
-- **Published as:** “God, who is not limited to space and time, created the universe and established natural laws that govern it.”
-- **Work:** The Language of God: A Scientist Presents Evidence for Belief
-- **Year:** 2006 · p. 178
-- **Used for:** evolutionary-creation — positive case
-- **Source:** https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742
-- **Verified by:** _(not yet)_  **on:** _(not yet)_
-- **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
-- **Check:** the wording word for word, and that p. 178 is right. Confirm it is not quoted out of a sentence that reverses it.
-
-### 11. Michael J. Behe — [ ] corroborated
+### 8. Michael J. Behe — [ ] corroborated
 
 - **Published as:** “By irreducibly complex I mean a single system composed of several well-matched, interacting parts that contribute to the basic function, wherein the removal of any one of the parts causes the system to effectively cease functioning.”
 - **Work:** Darwin's Black Box: The Biochemical Challenge to Evolution
 - **Year:** 1996 · p. 39
-- **Used for:** intelligent-design — positive case
+- **Used for:** mechanism-not-author — variant: Intelligent design
 - **Source:** https://www.simonandschuster.com/books/Darwins-Black-Box/Michael-J-Behe/9780743290319
 - **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and that p. 39 is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 12. Daniel Dennett — [ ] corroborated
+### 9. Daniel Dennett — [ ] corroborated
 
 - **Published as:** “a skyhook is a "mind-first" force or power or process, an exception to the principle that all design, and apparent design, is ultimately the result of mindless, motiveless mechanicity.”
 - **Work:** Darwin's Dangerous Idea
@@ -510,16 +607,16 @@ File: `src/content/topics/<locale>/06-creation-or-evolution.json`
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
-### 13. Augustine of Hippo — [ ] corroborated
+### 10. Stephen Jay Gould — [ ] corroborated
 
-- **Published as:** “Now, it is a disgraceful and dangerous thing for an infidel to hear a Christian, presumably giving the meaning of Holy Scripture, talking nonsense on these topics; and we should take all means to prevent such an embarrassing situation, in which people show up vast ignorance in a Christian and laugh it to scorn.”
-- **Work:** De Genesi ad litteram (The Literal Meaning of Genesis), tr. J. H. Taylor
-- **Year:** c. 415 · Book I, ch. 19
-- **Used for:** context note
-- **Source:** https://inters.org/augustine-interpretating-sacred-scripture
+- **Published as:** “we get the age of rocks, and religion retains the rock of ages; we study how the heavens go, and they determine how to go to heaven”
+- **Work:** Nonoverlapping Magisteria, Natural History
+- **Year:** 1997
+- **Used for:** design-without-designer — variant: The question does not arise
+- **Source:** https://www.bennington.edu/doc/24366
 - **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Unclassified.** Find the source text and confirm the wording.
-- **Check:** the wording word for word, and that Book I, ch. 19 is right. Confirm it is not quoted out of a sentence that reverses it.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
 ## Topic 7: Where did the first living cell come from?
 
@@ -1132,9 +1229,521 @@ File: `src/content/topics/<locale>/13-jesus-and-resurrection.json`
 - **Unclassified.** Find the source text and confirm the wording.
 - **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
 
+## Topic 14: Is the Bible reliable?
+
+File: `src/content/topics/<locale>/14-bible-reliability.json`
+
+### 1. Second Vatican Council — [ ] corroborated
+
+- **Published as:** “the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into the sacred writings for the sake of salvation”
+- **Work:** Dei Verbum, 11
+- **Year:** 1965
+- **Used for:** what-reliable-requires — variant: Infallible in faith and practice
+- **Source:** https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Bart D. Ehrman — [ ] corroborated
+
+- **Published as:** “There are more variations among our manuscripts than there are words in the New Testament.”
+- **Work:** Misquoting Jesus: The Story Behind Who Changed the Bible and Why
+- **Year:** 2005
+- **Used for:** changed-in-the-copying — the claim
+- **Source:** https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Thomas L. Thompson — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** The narratives of ancient Israel are a composite literary creation, not a record of the past; the Bible is best read as literature, and a history of ancient Israel has to be written from archaeology and inscriptions rather than from it.
+- **Work:** The Mythic Past: Biblical Archaeology and the Myth of Israel
+- **Year:** 1999 · our summary of the book's thesis as its publisher and its reviewers describe it; not Thompson's wording
+- **Used for:** changed-in-the-copying — variant: Minimalism, on the Hebrew Bible
+- **Source:** https://www.hachettebookgroup.com/titles/thomas-l-thompson/the-mythic-past-biblical-archaeology-and-the-myth-of-israel/9780786725175/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 4. Daniel B. Wallace — [ ] corroborated
+
+- **Published as:** “We have more than 1,000 times the manuscript data for the NT than we do for the average Greco-Roman author.”
+- **Work:** interview, The Gospel Coalition
+- **Year:** 2012
+- **Used for:** manuscript-wealth — the claim
+- **Source:** https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and find the page or section. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. Bart D. Ehrman — [ ] corroborated
+
+- **Published as:** “There are more variations among our manuscripts than there are words in the New Testament.”
+- **Work:** Misquoting Jesus
+- **Year:** 2005 · cited here for the transmission point only; the literary-dependence argument on this page is the standard two-source position in New Testament studies and is not a quotation from anyone
+- **Used for:** not-independent-witnesses — the claim
+- **Source:** https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that cited here for the transmission point only; the literary-dependence argument on this page is the standard two-source position in New Testament studies and is not a quotation from anyone is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. The Chicago Statement on Biblical Inerrancy — [ ] corroborated
+
+- **Published as:** “Holy Scripture, being God's own Word, written by men prepared and superintended by His Spirit, is of infallible divine authority in all matters upon which it touches.”
+- **Work:** the Short Statement, article 2
+- **Year:** 1978 · drafted by more than two hundred evangelical leaders at the International Council on Biblical Inerrancy
+- **Used for:** what-reliable-requires — the claim
+- **Source:** http://www.bible-researcher.com/chicago1.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that drafted by more than two hundred evangelical leaders at the International Council on Biblical Inerrancy is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 7. Peter Enns — [ ] corroborated
+
+- **Published as:** “God never told the Israelites to kill the Canaanites. The Israelites believed that God told them to kill the Canaanites.”
+- **Work:** The Bible Tells Me So
+- **Year:** 2014 · Enns applying the model to the hardest case for it; see topic 11
+- **Used for:** what-reliable-requires — variant: Inspired through genuinely human authors
+- **Source:** https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that Enns applying the model to the hardest case for it; see topic 11 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 15: Can a miracle ever be evidenced?
+
+File: `src/content/topics/<locale>/15-miracles-and-evidence.json`
+
+### 1. David Hume — [ ] corroborated
+
+- **Published as:** “That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish”
+- **Work:** An Enquiry concerning Human Understanding, Section X, 'Of Miracles'
+- **Year:** 1748 · Part I; Hume calls it a general maxim worthy of attention
+- **Used for:** testimony-is-the-weaker-side — the claim
+- **Source:** https://www.gutenberg.org/files/9662/9662-h/9662-h.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that Part I; Hume calls it a general maxim worthy of attention is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Richard Swinburne — [ ] corroborated
+
+- **Published as:** “an occurrence of a non-repeatable counter-instance to a law of nature”
+- **Work:** The Concept of Miracle
+- **Year:** 1970 · Swinburne's definition of a violation of a law of nature, as quoted in the Stanford Encyclopedia of Philosophy entry on miracles
+- **Used for:** enough-independent-witnesses — variant: The prior is smaller than it looks
+- **Source:** https://plato.stanford.edu/entries/miracles/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Reference work, free.** Confirms the attribution but not the wording. Repoint at the source text where one exists.
+- **Check:** the wording word for word, and that Swinburne's definition of a violation of a law of nature, as quoted in the Stanford Encyclopedia of Philosophy entry on miracles is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. J. L. Mackie — [ ] corroborated
+
+- **Published as:** “Where there is some plausible testimony about the occurrence of what would appear to be a miracle, those who accept this as a miracle have the double burden of showing both that the event took place and that it violated the laws of nature. But it will be very hard to sustain this double burden.”
+- **Work:** The Miracle of Theism
+- **Year:** 1982 · the chapter on miracles and testimony
+- **Used for:** the-double-burden — the claim
+- **Source:** https://global.oup.com/academic/product/the-miracle-of-theism-9780198246824
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
+- **Check:** the wording word for word, and that the chapter on miracles and testimony is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Craig S. Keener — [ ] corroborated
+
+- **Published as:** “hundreds of millions of people today claim to have experienced miracles”
+- **Work:** Miracles: The Credibility of the New Testament Accounts
+- **Year:** 2011 · the survey chapters; the figure is built from a 2006 ten-country Pew survey of Pentecostal and charismatic experience
+- **Used for:** contemporary-and-investigated — the claim
+- **Source:** https://books.google.com/books/about/Miracles_2_volumes.html?id=oCrSpYJvGakC
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the survey chapters; the figure is built from a 2006 ten-country Pew survey of Pentecostal and charismatic experience is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. Charles Babbage — [ ] corroborated
+
+- **Published as:** “it is possible to assign a number of independent witnesses, the improbability of the falsehood of whose concurring testimony shall be greater than that of the improbability of the miracle itself”
+- **Work:** The Ninth Bridgewater Treatise, Appendix Note E, 'On Hume's Argument against Miracles'
+- **Year:** 1838 · second edition, appendix note E
+- **Used for:** enough-independent-witnesses — the claim
+- **Source:** https://victorianweb.org/science/science_texts/bridgewater/appendixe.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that second edition, appendix note E is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Bart D. Ehrman — [ ] corroborated
+
+- **Published as:** “Historians can only establish what probably happened in the past, and by definition a miracle is the least probable occurrence”
+- **Work:** his standard statement of the historian's problem with miracle, made in print and in debate
+- **Year:** 2006 · the formulation recurs across his debates and his blog; no single canonical page
+- **Used for:** testimony-is-the-weaker-side — variant: The methodological version
+- **Source:** https://ehrmanblog.org/historians-and-the-problem-of-miracle/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the formulation recurs across his debates and his blog; no single canonical page is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 16: Why Christianity rather than any other religion?
+
+File: `src/content/topics/<locale>/16-why-christianity.json`
+
+### 1. John Hick — [ ] corroborated
+
+- **Published as:** “we are led to postulate the Real an sich as the presupposition of the veridical character of this range of forms of religious experience”
+- **Work:** An Interpretation of Religion: Human Responses to the Transcendent
+- **Year:** 1989 · the statement of the pluralistic hypothesis
+- **Used for:** note: Three Christian answers, not one
+- **Source:** https://iep.utm.edu/hick/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Reference work, free.** Confirms the attribution but not the wording. Repoint at the source text where one exists.
+- **Check:** the wording word for word, and that the statement of the pluralistic hypothesis is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Second Vatican Council — [ ] corroborated
+
+- **Published as:** “The Catholic Church rejects nothing of what is true and holy in these religions. She regards with sincere reverence those ways of conduct and of life, those precepts and teachings which, though differing in many aspects from the ones she holds and sets forth, nonetheless often reflect a ray of that Truth which enlightens all men and women.”
+- **Work:** Nostra Aetate
+- **Year:** 1965 · article 2
+- **Used for:** staked-on-an-event — variant: The claim is about Christ, not about membership
+- **Source:** https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and that article 2 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Stephen Prothero — [ ] corroborated
+
+- **Published as:** “So why do we pretend that the world's religious traditions are different paths to the same God?”
+- **Work:** God Is Not One: The Eight Rival Religions That Run the World
+- **Year:** 2010 · the introduction, where he names the assumption 'Godthink'
+- **Used for:** not-the-same-mountain — the claim
+- **Source:** https://www.stephenprothero.com/book/god-is-not-one/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the introduction, where he names the assumption 'Godthink' is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. John W. Loftus — [ ] corroborated
+
+- **Published as:** “The only way to rationally test one's culturally adopted religious faith is from the perspective of an outsider, a nonbeliever, with the same level of reasonable skepticism believers already use when examining the other religious faiths they reject.”
+- **Work:** The Outsider Test for Faith: How to Know Which Religion Is True
+- **Year:** 2013 · his standard formulation of the test, repeated in the book and in his paper of the same name
+- **Used for:** outsider-test — the claim
+- **Source:** https://people.willamette.edu/~ttalbott/Loftus%20OTF2.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that his standard formulation of the test, repeated in the book and in his paper of the same name is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. David Hume — [ ] corroborated
+
+- **Published as:** “In destroying a rival system, it likewise destroys the credit of those miracles, on which that system was established; so that all the prodigies of different religions are to be regarded as contrary facts, and the evidences of these prodigies, whether weak or strong, as opposite to each other.”
+- **Work:** An Enquiry concerning Human Understanding, Section X, 'Of Miracles'
+- **Year:** 1748 · Part II
+- **Used for:** outsider-test — variant: The revelations cancel one another
+- **Source:** https://davidhume.org/texts/e/10
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that Part II is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Paul of Tarsus — [ ] corroborated
+
+- **Published as:** “and if Christ has not been raised, then our proclamation has been in vain and your faith has been in vain”
+- **Work:** 1 Corinthians 15:14
+- **Year:** c. 54 · New Revised Standard Version
+- **Used for:** staked-on-an-event — the claim
+- **Source:** https://bible.oremus.org/?passage=1+Corinthians+15%3A1%E2%80%9317&version=nrsv
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that New Revised Standard Version is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 7. Philip Kitcher — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** Kitcher's case is that the world's traditions arose in the same way, are sustained in the same way, and offer the same kinds of internal confirmation, and that there are no resources neutral between them for deciding which is right — so complete symmetry holds, and the believer's own tradition has no claim to be the exception.
+- **Work:** Life After Faith: The Case for Secular Humanism
+- **Year:** 2014 · our summary of the symmetry argument as the book's reviewers set it out; not Kitcher's wording
+- **Used for:** symmetry — the claim
+- **Source:** https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+## Topic 17: Is religious experience evidence?
+
+File: `src/content/topics/<locale>/17-religious-experience.json`
+
+### 1. Evan Fales — [ ] corroborated
+
+- **Published as:** “mystical experiences are not public”
+- **Work:** his reply to Alston, in Contemporary Debates in Philosophy of Religion
+- **Year:** 2004 · the cross-checking argument against mystical perception
+- **Used for:** not-public — the claim
+- **Source:** https://andrewmbailey.com/wpa/AlstonFales.pdf
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that the cross-checking argument against mystical perception is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. William James — [ ] corroborated
+
+- **Published as:** “Mystical states, when well developed, usually are, and have the right to be, absolutely authoritative over the individuals to whom they come. No authority emanates from them which should make it a duty for those who stand outside of them to accept their revelations uncritically.”
+- **Work:** The Varieties of Religious Experience
+- **Year:** 1902 · Lectures XVI-XVII, 'Mysticism', in the summary of his conclusions
+- **Used for:** seemings-count — variant: Authoritative for the one who has it, and for nobody else
+- **Source:** https://www.gutenberg.org/files/621/621-h/621-h.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that Lectures XVI-XVII, 'Mysticism', in the summary of his conclusions is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Richard Swinburne — [ ] corroborated
+
+- **Published as:** “it is a principle of rationality that (in the absence of special considerations) if it seems (epistemically) to a subject that x is present, then probably x is present; what one seems to perceive is probably so”
+- **Work:** The Existence of God
+- **Year:** 1979, revised 2004 · the statement of the principle of credulity; the wording is the one quoted in the secondary literature, which cites the revised edition
+- **Used for:** seemings-count — the claim
+- **Source:** https://global.oup.com/academic/product/the-existence-of-god-9780199271672
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
+- **Check:** the wording word for word, and that the statement of the principle of credulity; the wording is the one quoted in the secondary literature, which cites the revised edition is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. William P. Alston — [ ] paraphrase
+
+- **Published as a paraphrase, not a quotation:** Alston's argument is that mystical perception cannot be shown to be reliable in any non-circular way, that sense perception and memory are in exactly the same position, and that since we rationally continue to rely on those, the practice of forming beliefs about God on the basis of apparent experience of God is rational on the same terms.
+- **Work:** Perceiving God: The Epistemology of Religious Experience
+- **Year:** 1991 · our summary of the book's central argument as its critics and commentators state it; not Alston's wording
+- **Used for:** no-practice-validates-itself — the claim
+- **Source:** https://www.jstor.org/stable/10.7591/j.ctt5hh24c
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
+
+### 5. Steven T. Katz — [ ] corroborated
+
+- **Published as:** “There are NO pure (i.e. unmediated) experiences”
+- **Work:** Language, Epistemology and Mysticism, in Mysticism and Philosophical Analysis
+- **Year:** 1978 · the essay's central thesis; Katz is a scholar of Jewish mysticism arguing about experience, and does not draw the conclusion this side draws from it
+- **Used for:** no-unmediated-experience — the claim
+- **Source:** https://philosophyofreligion.org/?page_id=5769
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the essay's central thesis; Katz is a scholar of Jewish mysticism arguing about experience, and does not draw the conclusion this side draws from it is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. R. R. Griffiths, W. A. Richards, U. McCann and R. Jesse — [ ] corroborated
+
+- **Published as:** “When administered under supportive conditions, psilocybin occasioned experiences similar to spontaneously occurring mystical experiences.”
+- **Work:** Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance, Psychopharmacology 187
+- **Year:** 2006 · the conclusions of the abstract
+- **Used for:** not-public — variant: Except that it is repeatable, chemically
+- **Source:** https://pubmed.ncbi.nlm.nih.gov/16826400/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the conclusions of the abstract is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 18: Has religion done more harm than good?
+
+File: `src/content/topics/<locale>/18-religion-harm-or-good.json`
+
+### 1. William T. Cavanaugh — [ ] corroborated
+
+- **Published as:** “the idea that religion is a transhistorical and transcultural feature of human life, essentially distinct from 'secular' features such as politics and economics, which has a peculiarly dangerous inclination to promote violence”
+- **Work:** The Myth of Religious Violence: Secular Ideology and the Roots of Modern Conflict
+- **Year:** 2009 · his definition of the myth the book is about
+- **Used for:** the-category-is-doing-the-work — the claim
+- **Source:** https://global.oup.com/academic/product/the-myth-of-religious-violence-9780195385045
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
+- **Check:** the wording word for word, and that his definition of the myth the book is about is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Steven Weinberg — [ ] corroborated
+
+- **Published as:** “With or without religion, good people can behave well and bad people can do evil; but for good people to do evil — that takes religion.”
+- **Work:** address to the Conference on Cosmic Design, American Association for the Advancement of Science
+- **Year:** 1999 · the closing of the talk, after a passage on religious defences of slavery
+- **Used for:** beyond-correction — the claim
+- **Source:** https://en.wikiquote.org/wiki/Steven_Weinberg
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the closing of the talk, after a passage on religious defences of slavery is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Sam Harris — [ ] corroborated
+
+- **Published as:** “While moderation in religion may seem a reasonable position to stake out, in light of all that we have (and have not) learned about the universe, it offers no bulwark against religious extremism and religious violence.”
+- **Work:** The End of Faith: Religion, Terror, and the Future of Reason
+- **Year:** 2004 · the chapter on the problem with religious moderation
+- **Used for:** beyond-correction — variant: The moderates are part of the mechanism
+- **Source:** https://www.goodreads.com/work/quotes/2399497-the-end-of-faith-religion-terror-and-the-future-of-reason
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the chapter on the problem with religious moderation is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Christopher Hitchens — [ ] corroborated
+
+- **Published as:** “Violent, irrational, intolerant, allied to racism and tribalism and bigotry, invested in ignorance and hostile to free inquiry, contemptuous of women and coercive toward children: organized religion ought to have a great deal on its conscience.”
+- **Work:** God Is Not Great
+- **Year:** 2007 · the opening chapter's statement of the charge
+- **Used for:** it-had-to-be-forced — the claim
+- **Source:** https://www.goodreads.com/work/quotes/3442838-god-is-not-great
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the opening chapter's statement of the charge is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. Tom Holland — [ ] corroborated
+
+- **Published as:** “In my morals and ethics, I have learned to accept that I am not Greek or Roman at all, but thoroughly and proudly Christian.”
+- **Work:** Dominion: How the Christian Revolution Remade the World
+- **Year:** 2019 · the introduction, where he describes changing his mind; Holland writes as a non-believer
+- **Used for:** the-standard-is-borrowed — the claim
+- **Source:** https://www.goodreads.com/work/quotes/68279026-dominion-how-the-christian-revolution-remade-the-world
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the introduction, where he describes changing his mind; Holland writes as a non-believer is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Robert D. Putnam and David E. Campbell — [ ] corroborated
+
+- **Published as:** “religious Americans are, in fact, more generous neighbors and more conscientious citizens than their secular counterparts”
+- **Work:** American Grace: How Religion Divides and Unites Us
+- **Year:** 2010 · the book's central finding on religion and civic behaviour
+- **Used for:** the-standard-is-borrowed — variant: Measured now, rather than inferred from history
+- **Source:** http://robertdputnam.com/american-grace/
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the book's central finding on religion and civic behaviour is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 19: Are science and religion at war?
+
+File: `src/content/topics/<locale>/19-science-and-religion-at-war.json`
+
+### 1. Alfred North Whitehead — [ ] corroborated
+
+- **Published as:** “My explanation is that the faith in the possibility of science, generated antecedently to the development of modern scientific theory, is an unconscious derivative from medieval theology.”
+- **Work:** Science and the Modern World
+- **Year:** 1925 · the chapter on the origins of modern science
+- **Used for:** different-questions — variant: Not merely compatible — one produced the other
+- **Source:** https://www.gutenberg.org/files/68611/68611-h/68611-h.htm
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Full text, free.** Open and search the page for a distinctive phrase.
+- **Check:** the wording word for word, and that the chapter on the origins of modern science is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Elaine Howard Ecklund — [ ] corroborated
+
+- **Published as:** “Nearly 50 percent of them are religious.”
+- **Work:** Science vs. Religion: What Scientists Really Think
+- **Year:** 2010 · the study's headline finding, from a survey of nearly 1,700 scientists with 275 follow-up interviews; the wording is the one used on the publisher's page for the book
+- **Used for:** practitioners — the claim
+- **Source:** https://global.oup.com/academic/product/science-vs-religion-9780195392982
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
+- **Check:** the wording word for word, and that the study's headline finding, from a survey of nearly 1,700 scientists with 275 follow-up interviews; the wording is the one used on the publisher's page for the book is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Jerry A. Coyne — [ ] corroborated
+
+- **Published as:** “My claim is this: science and religion are incompatible because they have different methods for getting knowledge about reality, have different ways of assessing the reliability of that knowledge, and, in the end, arrive at conflicting conclusions about the universe.”
+- **Work:** Faith Versus Fact: Why Science and Religion Are Incompatible
+- **Year:** 2015 · pp. 83-84
+- **Used for:** different-methods — the claim
+- **Source:** https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that pp. 83-84 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Richard Dawkins — [ ] corroborated
+
+- **Published as:** “The presence or absence of a creative super-intelligence is unequivocally a scientific question, even if it is not in practice — or not yet — a decided one. So also is the truth or falsehood of every one of the miracle stories that religions rely upon to impress multitudes of the faithful.”
+- **Work:** The God Delusion
+- **Year:** 2006 · the chapter arguing against non-overlapping magisteria
+- **Used for:** different-methods — variant: The central claim is itself an empirical one
+- **Source:** https://www.goodreads.com/work/quotes/3044365-the-god-delusion
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the chapter arguing against non-overlapping magisteria is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. Stephen Jay Gould — [ ] corroborated
+
+- **Published as:** “The net of science covers the empirical realm: what is the universe made of (fact) and why does it work this way (theory). The net of religion extends over questions of moral meaning and value.”
+- **Work:** Rocks of Ages: Science and the Fullness of Life
+- **Year:** 1999 · the statement of non-overlapping magisteria, first published as an essay in 1997; Gould was an agnostic
+- **Used for:** different-questions — the claim
+- **Source:** https://www.naturalhistorymag.com/picks-from-the-past/13430/nonoverlapping-magisteria
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the statement of non-overlapping magisteria, first published as an essay in 1997; Gould was an agnostic is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Jerry A. Coyne — [ ] corroborated
+
+- **Published as:** “a recurrent pattern in theology is this: as branches of science — evolutionary biology, geology, history, and archaeology — have disproved scriptural claims one by one, those claims have morphed from literal truths into allegories”
+- **Work:** Faith Versus Fact: Why Science and Religion Are Incompatible
+- **Year:** 2015 · on the reinterpretation of scriptural claims
+- **Used for:** one-way-ratchet — the claim
+- **Source:** https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that on the reinterpretation of scriptural claims is right. Confirm it is not quoted out of a sentence that reverses it.
+
+## Topic 20: Can life have meaning without God?
+
+File: `src/content/topics/<locale>/20-meaning-without-god.json`
+
+### 1. William Lane Craig — [ ] corroborated
+
+- **Published as:** “If there is no God, then man and the universe are doomed.”
+- **Work:** The Absurdity of Life without God, in Reasonable Faith
+- **Year:** 1994 · the essay's statement of the consequence, developed at length in the surrounding pages
+- **Used for:** conferred-is-not-found — the claim
+- **Source:** https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Primary document, free.** Open and search the page. Confirm the wording and the date.
+- **Check:** the wording word for word, and that the essay's statement of the consequence, developed at length in the surrounding pages is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 2. Leo Tolstoy — [ ] corroborated
+
+- **Published as:** “Is there any meaning in my life that the inevitable death awaiting me does not destroy?”
+- **Work:** A Confession
+- **Year:** 1882 · chapter 5, where he states the question that nearly killed him
+- **Used for:** death-erases-it — the claim
+- **Source:** https://www.marxists.org/archive/tolstoy/1882/a-confession/part-5.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that chapter 5, where he states the question that nearly killed him is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 3. Alasdair MacIntyre — [ ] corroborated
+
+- **Published as:** “there is a fundamental contrast between man-as-he-happens-to-be and man-as-he-could-be-if-he-realized-his-essential-nature. Ethics is the science which is to enable men to understand how they make the transition from the former state to the latter.”
+- **Work:** After Virtue
+- **Year:** 1981 · the account of the classical teleological scheme, chapter 5
+- **Used for:** death-erases-it — variant: Meaning is what a nature is for, not what anyone decides
+- **Source:** https://www.bu.edu/cpt/?p=74
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the account of the classical teleological scheme, chapter 5 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 4. Thomas Nagel — [ ] corroborated
+
+- **Published as:** “It does not matter now that in a million years nothing we do now will matter.”
+- **Work:** The Absurd, in The Journal of Philosophy 68
+- **Year:** 1971 · p. 716
+- **Used for:** permanence-is-a-red-herring — the claim
+- **Source:** https://www.jstor.org/stable/2024942
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that p. 716 is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 5. Susan Wolf — [ ] corroborated
+
+- **Published as:** “meaning arises when subjective attraction meets objective attractiveness”
+- **Work:** Meaning in Life and Why It Matters
+- **Year:** 2010 · her own summary of the Fitting Fulfillment view
+- **Used for:** subjective-meets-objective — the claim
+- **Source:** https://press.princeton.edu/books/paperback/9780691154503/meaning-in-life-and-why-it-matters
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that her own summary of the Fitting Fulfillment view is right. Confirm it is not quoted out of a sentence that reverses it.
+
+### 6. Albert Camus — [ ] corroborated
+
+- **Published as:** “The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.”
+- **Work:** The Myth of Sisyphus
+- **Year:** 1942 · the closing lines of the essay
+- **Used for:** subjective-meets-objective — variant: There is no objective worth, and a life is still fully liveable
+- **Source:** https://history.hanover.edu/courses/excerpts/111camus.html
+- **Verified by:** _(not yet)_  **on:** _(not yet)_
+- **Unclassified.** Find the source text and confirm the wording.
+- **Check:** the wording word for word, and that the closing lines of the essay is right. Confirm it is not quoted out of a sentence that reverses it.
+
 ---
 
-**0 of 89 verified against the source text.**
+**0 of 140 verified against the source text.**
 
 When a row is confirmed, set three fields on that quotation in all five locale
 files — `verification` to `primary`, `verifiedBy` to who checked it, and

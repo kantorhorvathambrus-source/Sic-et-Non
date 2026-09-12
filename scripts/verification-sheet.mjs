@@ -146,9 +146,17 @@ lines.push('');
     const i = WORST_FIRST.findIndex((name) => author.includes(name));
     return i === -1 ? WORST_FIRST.length : i;
   };
+  // A paraphrase in a variant slot is the same failure as one in a main slot:
+  // the reader has our sentence where the author's should be. Filtering on
+  // "— the claim" hid five of the eleven, which is why the queue read as six.
   const paraphrases = queue
-    .filter((row) => row.quote.verification === 'paraphrase' && /— the claim$/.test(row.slot))
-    .sort((a, b) => rank(a.quote.author) - rank(b.quote.author));
+    .filter((row) => row.quote.verification === 'paraphrase')
+    .sort(
+      (a, b) =>
+        rank(a.quote.author) - rank(b.quote.author) ||
+        Number(/variant:/.test(a.slot)) - Number(/variant:/.test(b.slot)) ||
+        a.topic.number - b.topic.number,
+    );
   const free = queue
     .filter((row) => row.quote.verification !== 'primary' && row.effort.cost <= 3)
     .sort((a, b) => a.effort.cost - b.effort.cost);
@@ -165,8 +173,12 @@ lines.push('');
     lines.push('placement a paraphrase can have on this site. *The Hiddenness Argument* (2015)');
     lines.push('and *Divine Hiddenness and Human Reason* (1993) are both easy to get.');
     lines.push('');
-    lines.push("O'Connor is last in this order and cheapest to pull: the introduction to");
-    lines.push('*Persons and Causes* is on his own site, already linked below.');
+    lines.push("O'Connor is last of the four named above and cheapest to pull: the");
+    lines.push('introduction to *Persons and Causes* is on his own site, already linked below.');
+    lines.push('');
+    lines.push('Everything after those four is ordered main slots before variant slots, then by');
+    lines.push('topic. A variant paraphrase is the same failure in a smaller frame, not a');
+    lines.push('lesser one: the reader still has our sentence where the author\'s should be.');
     lines.push('');
     lines.push('| Author | Topic | Slot | Source |');
     lines.push('|---|---|---|---|');
