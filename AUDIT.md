@@ -31,9 +31,9 @@ marked † below, and the schema fails the build if it does not.
 | 16 | Why Christianity rather than any other religion? | `open` | 2 | 1/1 | 0 | 7 | 1 | 2 | 4 min | 16 min |
 | 17 | Is religious experience evidence? | `open` | 2 | 1/1 | 0 | 6 | 1 | 2 | 4 min | 16 min |
 | 18 | Has religion done more harm than good? | `interpretive` | 2 | 1/1 | 1 | 6 | 0 | 2 | 4 min | 17 min |
-| 19 | Are science and religion at war? | `settled-core` | 2 | 1/1 | 1 | 6 | 0 | 2 | 5 min | 18 min |
+| 19 | Are science and religion at war? | `settled-core` | 2 | 1/1 | 1 | 6 | 1 | 2 | 5 min | 18 min |
 | 20 | Can life have meaning without God? | `interpretive` | 2 | 1/1 | 1 | 6 | 0 | 2 | 4 min | 17 min |
-| | **all twenty** | | **84 slots** | **30/23** | **29** | **140** | **13** | **32** | | |
+| | **all twenty** | | **84 slots** | **30/23** | **29** | **140** | **14** | **32** | | |
 
 ## How much of the source was actually in front of us
 

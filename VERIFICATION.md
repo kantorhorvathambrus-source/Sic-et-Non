@@ -44,6 +44,7 @@ lesser one: the reader still has our sentence where the author's should be.
 | Gerd Lüdemann | 13. Did Jesus exist, and did he rise? | visions-after-a-death — the claim | https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances |
 | Philip Kitcher | 16. Why Christianity rather than any other religion? | symmetry — the claim | https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/ |
 | William P. Alston | 17. Is religious experience evidence? | no-practice-validates-itself — the claim | https://www.jstor.org/stable/10.7591/j.ctt5hh24c |
+| Elaine Howard Ecklund | 19. Are science and religion at war? | practitioners — the claim | https://global.oup.com/academic/product/science-vs-religion-9780195392982 |
 | Edward Feser | 1. Did the universe begin, and does a beginning need a cause? | out-of-nothing — variant: A cause here and now, not at the start | http://edwardfeser.blogspot.com/2016/06/four-causes-and-five-ways.html |
 | Stephen Maitzen | 4. If God wants to be known, why is he hidden? | nonresistant-nonbelief — variant: The geography of belief | https://philosophy.acadiau.ca/tl_files/sites/philosophy/resources/documents/Maitzen_Hiddenness.pdf |
 | Don N. Page | 5. Is the universe fine-tuned for life? | the-multiverse-moves-the-problem — variant: God made the multiverse | https://philpapers.org/rec/PAGDGS |
@@ -1616,16 +1617,16 @@ File: `src/content/topics/<locale>/19-science-and-religion-at-war.json`
 - **Full text, free.** Open and search the page for a distinctive phrase.
 - **Check:** the wording word for word, and that the chapter on the origins of modern science is right. Confirm it is not quoted out of a sentence that reverses it.
 
-### 2. Elaine Howard Ecklund — [ ] corroborated
+### 2. Elaine Howard Ecklund — [ ] paraphrase
 
-- **Published as:** “Nearly 50 percent of them are religious.”
+- **Published as a paraphrase, not a quotation:** Ecklund's finding, from a survey of nearly 1,700 scientists at elite American universities with 275 follow-up interviews, is that just under half identify with a religious tradition and a further fifth describe themselves as spiritual, and that the popular picture of scientists in conflict with religion misdescribes what they report.
 - **Work:** Science vs. Religion: What Scientists Really Think
-- **Year:** 2010 · the study's headline finding, from a survey of nearly 1,700 scientists with 275 follow-up interviews; the wording is the one used on the publisher's page for the book
+- **Year:** 2010 · our summary of the study's headline findings as the publisher's page and its reviewers state them; not Ecklund's wording
 - **Used for:** practitioners — the claim
 - **Source:** https://global.oup.com/academic/product/science-vs-religion-9780195392982
 - **Verified by:** _(not yet)_  **on:** _(not yet)_
 - **Book, publisher page only.** Needs the book, a library copy, or a searchable scan. Check the page number too.
-- **Check:** the wording word for word, and that the study's headline finding, from a survey of nearly 1,700 scientists with 275 follow-up interviews; the wording is the one used on the publisher's page for the book is right. Confirm it is not quoted out of a sentence that reverses it.
+- **Check:** whether a real sentence in the source makes this point as well. If one does, replace the paraphrase with it. If none does, confirm the paraphrase is a fair reading and leave the level as it is.
 
 ### 3. Jerry A. Coyne — [ ] corroborated
 
