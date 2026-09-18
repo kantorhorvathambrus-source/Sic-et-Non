@@ -1,0 +1,288 @@
+{
+  "id": "bible-reliability",
+  "number": 14,
+  "slug": "megbizhato-e-a-biblia",
+  "title": "Megbízható-e a Biblia?",
+  "category": "history-and-text",
+  "status": "open",
+  "realQuestion": "A szó három munkát végez egyszerre, és az itteni viták nagy része két ember, akik éppen mást értenek rajta.\n\nJelentheti azt, hogy a szöveg nagyjából úgy maradt ránk, ahogyan megírták. Jelentheti azt, hogy a szöveg pontos abban, amiről beszámol. És jelentheti azt, hogy a szövegnek tekintélye van afölött, amit hiszel. Az első nagyrészt lezárt, és a két oldal között nem vitás. A harmadik teológiai kérdés. Ez az oldal a másodikról szól.\n\nMég ennyire leszűkítve sem egyetlen álláspont a keresztény oldal. Hogy mit követel meg a „megbízható\" — semmilyen tévedést, vagy csak hitbeli tévedést nem, vagy még ennél is lazábban valamit —, azt a kereszténységen belül olyan élesen vitatják, mint bármit ezen az oldalon, és az az ellenvetés, amely az egyikre talál, a többire nem.",
+  "distinctions": [
+    {
+      "label": "Pontosan hagyományozódott-e ránk a szöveg?",
+      "gloss": "Nagyrészt lezárt, és nem ezen vitatkozik itt a két oldal. Az Újszövetség sokkal jobban adatolt, mint bármely hasonló ókori mű, az eltérések túlnyomórészt jelentéktelenek, és ezt mindkét oldal kimondja. Az alábbi jegyzet fejti ki.",
+      "activeHere": false
+    },
+    {
+      "label": "Pontosak-e a szövegek abban, amiről beszámolnak?",
+      "gloss": "Ez az oldal vitája — hogy az események, beszédek és számok a szövegekben azok-e, amik megtörténtek, és mi következik a szövegek helyzetére nézve, amikor nem.",
+      "activeHere": true
+    },
+    {
+      "label": "Tekintély-e a Biblia?",
+      "gloss": "Teológiai kérdés, nem történeti, és nem következik a második válaszából: egy szöveg lehet pontos anélkül, hogy bárkit kötelezne, és több alábbi álláspont szerint kötelez anélkül, hogy végig pontos volna. Itt nem vitatjuk.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "szövegváltozat",
+      "definition": "Minden olyan hely, ahol a fennmaradt kéziratok eltérnek egymástól. A túlnyomó többség helyesírás, szórend vagy nyilvánvaló elírás; kis részük megváltoztatja a jelentést."
+    },
+    {
+      "term": "tévedhetetlenség",
+      "definition": "Az a tanítás, hogy a Szentírás semmilyen tévedést nem tartalmaz, a történelemben és a természettudományban sem. Meghatározott újkori álláspont, nem a történeti alapeset."
+    },
+    {
+      "term": "bibliai minimalizmus",
+      "definition": "A koppenhágai kutatókhoz kötődő álláspont, amely szerint a Héber Biblia késői irodalmi alkotás, és nem használható az ókori Izráel történetének rekonstruálására."
+    }
+  ],
+  "sides": [
+    {
+      "label": "A szövegek megbízhatóak abban, amiről beszámolnak",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "what-reliable-requires",
+          "claim": "A Szentírás Isten saját szava, és amit Isten szerzett, az nem téved",
+          "explanation": "A legerősebb és legismertebb keresztény álláspont egyben a legkitettebb is, és érdemes teljes erejében kimondani, nem a lágyabb rokonain keresztül. A [[tévedhetetlenség]], ahogyan a Chicagói Nyilatkozat meghatározza, azt tartja, hogy a Szentírás csalhatatlan isteni tekintéllyel bír mindenben, amit érint — nemcsak hitben és erkölcsben, hanem a történelemben és mindenben, amit a világról mond.\n\nAz érv előbb teológiai, mint bizonyítékokra épülő: egy Isten, aki nem hazudhat, ihlette a szöveget, tehát a szöveg nem téved. Ahol látszólagos tévedést találnak, a tanítás szerint vagy a kézirat romlott, vagy a szakaszt félreolvasták, vagy a nehézség egyelőre megoldatlan.\n\nKét gyengébb álláspontot alább fejtünk ki. Mindkettőt olyanok vallják, akik a Bibliát tekintélynek tartják, és mindkettő azért létezik, mert szerintük ez az első nem tartható.",
+          "quote": {
+            "text": "A Szentírás, lévén Isten saját Szava, amelyet az ő Lelke által felkészített és felügyelt emberek írtak, csalhatatlan isteni tekintéllyel bír minden ügyben, amelyet érint.",
+            "author": "The Chicago Statement on Biblical Inerrancy",
+            "work": "a Rövid Nyilatkozat, 2. cikkely",
+            "year": "1978",
+            "locator": "több mint kétszáz evangéliumi vezető fogalmazta meg a Bibliai Tévedhetetlenség Nemzetközi Tanácsán",
+            "sourceUrl": "http://www.bible-researcher.com/chicago1.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Holy Scripture, being God's own Word, written by men prepared and superintended by His Spirit, is of infallible divine authority in all matters upon which it touches.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "infallible-not-inerrant",
+              "label": "Csalhatatlan a hitben és az életgyakorlatban",
+              "heldBy": "a katolikus egyház a Dei Verbum óta; a legtöbb anglikán és történelmi protestáns hitvallás; sok brit evangéliumi keresztény",
+              "oneLine": "A Szentírás nem mond csődöt abban, amit az üdvösségre tanít, és soha nem is állított semmit időrendről, világképről vagy hadseregek létszámáról.",
+              "summary": "Ez a világ kereszténységének többségi álláspontja, és azt szokták leginkább a tévedhetetlenségtől való visszavonulásnak nézni, holott valójában régebbi nála. A II. Vatikáni Zsinat megfogalmazása szerint a Szentírás „tévedés nélkül tanítja azt az igazságot, amelyet Isten a mi üdvösségünkre a szent iratokban rögzíttetni akart\" — ez az állítás hatókörének szándékos szűkítése, nem pedig gyengítése.\n\nE nézet szerint a Krónikák könyvének számai, az evangéliumi események sorrendje és a Teremtés könyvének világképe az üzenet berendezési tárgyai, nem pedig a része, és bármelyikük ellentmondása nem a Szentírás hibája, hanem annak félreértése, mire való a Szentírás.",
+              "quote": {
+                "text": "a Szentírás könyveiről azt kell vallani, hogy szilárdan, hűségesen és tévedés nélkül tanítják azt az igazságot, amelyet Isten a mi üdvösségünkre a szent iratokban rögzíttetni akart",
+                "author": "Second Vatican Council",
+                "work": "Dei Verbum, 11",
+                "year": "1965",
+                "sourceUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into the sacred writings for the sake of salvation",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés ellentmondások felsorolása — Jézus két nemzetségtáblája, Júdás halálának két elbeszélése, a Királyok és a Krónikák egymásnak ellentmondó számai. Ezzel az állásponttal szemben a felsorolás egyáltalán nem ellenvetés, mert egyik tételét sem állítja. A történeti és számbeli tévedésre épített érv a történeti és számbeli pontosság állítására irányul, ez az álláspont pedig ilyet nem állít.",
+              "objection": {
+                "text": "Azt a határvonalat, amely az üdvösségre tanított és a berendezési tárgy közé esik, valahol meg kell húzni, és a gyakorlatban utólag húzzák meg, mindig ott, ahol éppen a nehézség van. A konzervatív bírálók feszegetik ezt a legerősebben: az a tanítás, amely bármely kínos állítást át tud helyezni a berendezés közé, nem tesz ellenőrizhető vállalást. Van egy nehéz eset is, amellyel a formula küszködik — a feltámadás egyszerre történeti állítás és az üdvösségre tanított állítás, úgyhogy a két kategória éppen ott nem tartható szét, ahol a legtöbb múlik rajta.",
+                "from": "within",
+                "sharedPremise": "olyan előfeltevésekből érvel, amelyeket ez az álláspont vall — hogy a Szentírás ihletett, hogy az üdvösségre igazságot tanít, és hogy a feltámadás e tanítás középpontja —, arra a következtetésre, hogy az üdvözítő igazság és a mellékes részlet közötti határ nem húzható meg ott, ahol az álláspontnak szüksége volna rá.",
+                "response": "A határt az húzza meg, hogy mit csinál a szöveg, ami műfaji kérdés, és esetről esetre megválaszolható, nem önkényesen. A feltámadás éppen azért nehéz eset, mert egyszerre tanítják történelemként és evangéliumként, és az álláspont mindkettőt állítja."
+              }
+            },
+            {
+              "id": "human-authorship",
+              "label": "Ihletett, valóban emberi szerzőkön keresztül",
+              "heldBy": "Peter Enns, Kenton Sparks, más hangnemben N.T. Wright; a történelmi protestáns és progresszív tudományosság jelentős része",
+              "oneLine": "Isten olyan írókon keresztül munkálkodott, akik teljesen a maguk korához tartoztak, így a szövegek hordozzák a koruk feltevéseit, korlátait és olykor tévedéseit is — és az ihletettség épp így néz ki.",
+              "summary": "A három közül ez állítja a legkevesebbet a pontosságról, és képviselői szerint a legtöbbet a megtestesülésről. A minta Krisztus, nem a diktálás: ahogyan Isten teljesen emberi természetet vett magára anélkül, hogy megszűnt volna Istennek lenni, úgy a Szentírás teljesen emberi termék anélkül, hogy megszűnne Isten szava lenni.\n\nEbből az következik, hogy az írók világképe ókori világkép, történetírásuk ókori történetírás, erkölcsi látóhatáruk pedig olykor a szomszédaiké. E nézet szerint mindez nem magyarázkodásra szoruló kínos teher, mert soha nem is ez volt az állítás.",
+              "quote": {
+                "text": "Isten soha nem mondta az izraelitáknak, hogy öljék meg a kánaánitákat. Az izraeliták hitték azt, hogy Isten azt mondta nekik, öljék meg a kánaánitákat.",
+                "author": "Peter Enns",
+                "work": "The Bible Tells Me So",
+                "year": "2014",
+                "locator": "Enns a modellt a legnehezebb esetre alkalmazza; lásd a 11. témát",
+                "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "God never told the Israelites to kill the Canaanites. The Israelites believed that God told them to kill the Canaanites.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Az ellentmondások listáját itt nemcsak elviseli az álláspont, hanem várja is. Ez a nézet azt jósolja, hogy ókori írók ókori írásművet fognak létrehozni, tehát a tévedések katalógusa megerősíti, nem cáfolja. Az ellenvetésnek ehelyett azt kellene megmutatnia, hogy a szövegek olyasmiben tévednek, amit ez az álláspont állít — ami sokkal szűkebb célpont.",
+              "objection": {
+                "text": "Ha a szövegek tévedhetnek abban, hogy mit parancsolt Isten, akkor annak a kritériuma, hogy mely részek megbízhatóak, csak rajtuk kívülről jöhet — és akkor a külső kritérium végzi azt a munkát, amelyet a Szentírásnak kellett volna. A konzervatív bírálók szerint ez az olvasót teszi tekintéllyé; a másik irányból érkező bírálók megjegyzik, hogy az álláspontban semmi nem zárja ki, hogy addig alkalmazzák, amíg semmi nem marad. A két ellenvetés ugyanaz a kérdés: mit mondhatna eszerint a Szentírás, amit el kellene fogadnod?",
+                "from": "both",
+                "response": "A kritériumot kimondják, nem becsempészik: Krisztus a mérték, és az Ószövetséget rajta keresztül olvasni az a módszer, amelyet már az Újszövetség is alkalmaz rá."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A szövegek ellentmondanak egymásnak olyan dolgokban, amelyekről nyilvánvalóan be akarnak számolni. Máté és Lukács két különböző nemzetségtáblát ad Jézusnak. Júdás az egyik elbeszélésben felakasztja magát, a másikban egy mezőn kettéhasad. A Királyok és a Krónikák számai eltérnek, olykor nagyságrenddel. Mindegyikre van javasolt összeegyeztetés, és éppen az összeegyeztetések a probléma: az a tanítás, amely minden nehézséget úgy él túl, hogy megoldást javasol rá, nem a bizonyítékok próbájának van kitéve, és az a szöveg, amelyet ennyit kell menteni, nem úgy viselkedik, mint egy tévedés nélküli szöveg.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Az ókori iratok látszólagos ellentmondásai az ókori iratok szokásos állapotai, és az összeegyeztetés az, amit a történészek minden más forrással is elvégeznek, mielőtt arra jutnának, hogy az egyik téved."
+          }
+        },
+        {
+          "id": "manuscript-wealth",
+          "claim": "Az Újszövetség jobban adatolt, mint az ókori világ bármely más műve, méghozzá nagy különbséggel",
+          "explanation": "Ez az érv a hagyományozásról szól, nem az igazságról, és érdemes szétválasztani, mert a kettőt folyton összemossák.\n\nA kérdés az, hogy amit olvasunk, az-e, amit leírtak. A legtöbb ókori szerzőnél a válasz néhány olyan másolaton nyugszik, amely ezer évvel az eredeti után készült. Az Újszövetségnél több mint ötezer görög kézirat van, néhány a keletkezéstől számított bő évszázadon belül, mellettük korai fordítások, és annyi idézet a korai keresztény szerzőknél, hogy a szöveg nagy része kézirat nélkül is rekonstruálható volna. Ahol a másolatok eltérnek, éppen a puszta mennyiség teszi lehetővé annak kiderítését, melyik olvasat a korábbi.",
+          "quote": {
+            "text": "Több mint ezerszer annyi kéziratos adatunk van az Újszövetségre, mint egy átlagos görög-római szerzőre.",
+            "author": "Daniel B. Wallace",
+            "work": "interjú, The Gospel Coalition",
+            "year": "2012",
+            "sourceUrl": "https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "We have more than 1,000 times the manuscript data for the NT than we do for the average Greco-Roman author.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A számokat senki nem vitatja, és a számok egy fel nem tett kérdésre válaszolnak. Az, hogy a második századi szöveget jól tudjuk rekonstruálni, összefér azzal, hogy a második századi szöveg már eleve távol állt az eseményektől, és azzal, hogy a legkorábbi másolataink évtizedekig tartó, ellenőrizetlen, nem hivatásos másolás után készültek. A bőség ráadásul maga hozza létre az eltéréseket: több másolat több egyet nem értést jelent, és az érv csendben ugyanazt a tényt erősségként kezeli, amikor kéziratokat számol, és jelentéktelenként, amikor különbségeket.",
+            "objectionFrom": "atheist",
+            "response": "Az eltéréseket megszámolják és osztályozzák, nem elintézik, és az osztályozást ugyanazok a kutatók végzik, akiket mindkét oldal idéz. Amit a bőség megvásárol, az a képesség, hogy lássuk, hol vannak az egyet nem értések — és épp ezt tagadja meg egy szűk kézirati hagyomány."
+          }
+        }
+      ]
+    },
+    {
+      "label": "A szövegek azok, amik az ókori szövegek, és nem az, amit állítanak róluk",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "changed-in-the-copying",
+          "claim": "A szöveg a hagyományozás során megváltozott, olykor éppen a legfontosabb helyeken",
+          "explanation": "Ennek az érvnek a legerősebb formája nem az, hogy a Biblia a felismerhetetlenségig megromlott; ezt komolyan senki nem állítja. Szűkebb, és nehezebb rá válaszolni.\n\nAzok az írnokok, akik az Újszövetséget első két évszázadában másolták, nem voltak hivatásosak, és megváltoztatták, amit másoltak — többnyire véletlenül, olykor szándékosan, és olykor pontosan ott, ahol egy tanítás vitatott volt. A házasságtörő asszony története nincs benne a legkorábbi kéziratokban. Márk befejezése sem. Az Újszövetség legvilágosabb szentháromságtani mondata későbbi latin betoldás. Az állítás az, hogy egy ilyen történetű szövegre nem építhető a szó szerinti tévedhetetlenség tanítása, bármilyen stabil is egészében.",
+          "quote": {
+            "text": "Több eltérés van a kézirataink között, mint ahány szó az Újszövetségben.",
+            "author": "Bart D. Ehrman",
+            "work": "Misquoting Jesus: The Story Behind Who Changed the Bible and Why",
+            "year": "2005",
+            "sourceUrl": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There are more variations among our manuscripts than there are words in the New Testament.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "minimalism",
+              "label": "Minimalizmus, a Héber Bibliáról",
+              "heldBy": "Niels Peter Lemche, Thomas L. Thompson, Philip Davies, Keith Whitelam",
+              "oneLine": "A gond nem a másolás, hanem a megszerkesztés: a Héber Biblia késői irodalmi mű, és egyáltalán nem használható az ókori Izráel történetének rekonstruálására.",
+              "summary": "A [[bibliai minimalizmus]] kisebbségi és vitatott álláspont, és sokkal erősebbet állít, mint a fenti érv.\n\nAz érvelés szerint az elbeszélő könyvek évszázadokkal az általuk leírt események után nyerték el mai formájukat — a legerősebb változat szerint a hellenisztikus korban —, és annak a közösségnek a céljaira írt irodalom, amelyik létrehozta őket, nem pedig a múlt feljegyzése. Ahol a régészet és a szöveg összevethető, a minimalisták szerint a szöveg veszít; ahol nem vethető össze, ott a szövegnek nincs önálló súlya. Eszerint azt kérdezni, hogy a honfoglalás, az egységes királyság vagy a kivonulás úgy történt-e, ahogyan le van írva, rossz fajta kérdés egy rossz fajta irathoz.",
+              "quote": {
+                "text": "Az ókori Izráel elbeszélései összetett irodalmi alkotások, nem a múlt feljegyzései; a Bibliát irodalomként érdemes olvasni, az ókori Izráel történetét pedig a régészetből és a feliratokból kell megírni, nem belőle.",
+                "author": "Thomas L. Thompson",
+                "work": "The Mythic Past: Biblical Archaeology and the Myth of Israel",
+                "year": "1999",
+                "locator": "a könyv tézisének saját összefoglalásunk, ahogyan kiadója és bírálói leírják; nem Thompson megfogalmazása",
+                "sourceUrl": "https://www.hachettebookgroup.com/titles/thomas-l-thompson/the-mythic-past-biblical-archaeology-and-the-myth-of-israel/9780786725175/",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The narratives of ancient Israel are a composite literary creation, not a record of the past; the Bible is best read as literature, and a history of ancient Israel has to be written from archaeology and inscriptions rather than from it.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti válasz a kézirati hagyományról szól — hogy az eltéréseket megszámolják, osztályozzák, és többségük jelentéktelen. Az a válasz a másolásról szól, ez az álláspont pedig nem a másolásról szól. Elismeri, hogy a Héber Biblia lényegében úgy maradt ránk, ahogyan megírták, és azt mondja, a kérdés az, hogy mit írtak meg, mikor és miért.",
+              "objection": {
+                "text": "Az álláspont az 1990-es évek óta teret vesztett, méghozzá nagyrészt bizonyítékoknak. A Tel Dán-i sztélé Dávid házára hivatkozik; a Mésa-sztélé és az asszír feljegyzések olyan izraeli királyokat neveznek meg, akiket a Biblia is; Ezékiás alagútja és Szanhérib ostroma egybevág. Ezek egyike sem igazolja a honfoglalást vagy a kivonulást, de igazolja, hogy a szövegek valódi intézményi emlékezetet őriznek, amit az erős változat tagadott. A fősodratú tudományosság ma a két véglet között helyezkedik el, nem valamelyiken.",
+                "from": "within",
+                "sharedPremise": "elfogadja a teljes kritikai apparátust — a végleges szövegek késői keltezését, az összetett szerzőséget, a kivonulásra és a honfoglalásra vonatkozó bizonyítékok hiányát —, és ugyanebből a bizonyítékanyagból érvel amellett, hogy a Bibliától független feliratok elég intézményi részletét támasztják alá ahhoz, hogy az erős állítást kizárják.",
+                "response": "Egy király nevének alátámasztása nem a köré épülő elbeszélés alátámasztása, és az álláspont mindig is arról szólt, mit bírnak el a szövegek, nem arról, hogy a berendezésükből bármi valódi volt-e."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Mindegyik említett példa ott van minden mai Biblia kritikai apparátusában, lábjegyzetben kinyomtatva, bárki olvashatja, és ugyanaz a szövegkritika azonosította, amelyre az érv támaszkodik. Ez nem elhallgatott probléma, hanem megoldott: a szakaszokról azért tudjuk, hogy későiek, mert a módszer működik. Az érv ráadásul kevesebbet bizonyít, mint amennyit a beállítása sugall — az eltérések száma a kéziratok számának függvénye, és a túlnyomó többség helyesírás és szórend.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Hogy a módszer működik, abban egyetértés van, és éppen ez a lényeg: amit megmutat, az egy megváltozott szöveg, és ezt kell a szó szerinti tévedhetetlenség tanításának elhelyeznie."
+          }
+        },
+        {
+          "id": "not-independent-witnesses",
+          "claim": "Az evangéliumok nem négy tanú, hanem egy forrás és annak három átdolgozása",
+          "explanation": "A többszörös tanúsításra hivatkozó apologetika négy, egymástól függetlenül érkező beszámolást feltételez. A köztük lévő szövegszerű viszony a legerősebb bizonyíték ez ellen.\n\nMáté és Lukács Márkot veszi át, gyakran szó szerint, görögül, a szerkesztői közbevetéseivel együtt — és nem így esne egybe egy arámiul beszélő tanító két független emléke. Ahol további anyagot hoznak, annak nagy része kettejük közös anyaga, és hiányzik Márkból. A különbségek gyakran egy fejlődő teológia irányába mutatnak: ugyanazt az epizódot felerősített csodával, feljavított tanítványokkal vagy emeltebb krisztológiával mesélik el.\n\nAmi így marad: egy elbeszélő forrás szerkesztői leszármazottakkal, plusz János, akinek a viszonya a másik háromhoz vitatott. Négy könyv, kevesebb tanú.",
+          "quote": {
+            "text": "Több eltérés van a kézirataink között, mint ahány szó az Újszövetségben.",
+            "author": "Bart D. Ehrman",
+            "work": "Misquoting Jesus",
+            "year": "2005",
+            "locator": "itt kizárólag a hagyományozási ponthoz idézzük; az irodalmi függésről szóló érv ezen az oldalon az újszövetség-kutatás bevett kétforrás-elmélete, és nem idézet senkitől",
+            "sourceUrl": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There are more variations among our manuscripts than there are words in the New Testament.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az irodalmi függést szinte mindenki elfogadja, a konzervatív kutatók is, és nem következik belőle az, amit állítanak. Az ókori történetírók így dolgoztak közös forrásokkal, és egy jó korábbi beszámoló használata inkább gondosság jele, mint kitalálásé. Az érvnek ráadásul számot kell adnia arról az anyagról is, amely Máténál és Lukácsnál nem közös, meg Jánosról, meg Pálról — aki mindegyiküknél korábbi és mindegyiküktől független, és aki az események után néhány évtizeden belül számol be a feltámadási megjelenésekről.",
+            "objectionFrom": "theist",
+            "response": "Pál a legerősebb lap itt, és valóban független, ezért támaszkodik rá a 13. téma feltámadás melletti érvelése az evangéliumok helyett. Amit nem ad meg, az az elbeszélés részletgazdagsága, amelynek a többszörös tanúsítását általában állítani szokták."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Mit dönt el a kéziratok kérdése, és mit nem",
+      "oneLine": "Mindkét oldal egyetért abban, hogy az újszövetségi szöveg stabil és jól adatolt; abban nem értenek egyet, hogy egy stabil szöveg pontos-e.",
+      "text": "Ez a vitának az a része, amely lényegében lezárult, és érdemes kimondani, mert mindkét oldalt kísérti, hogy itt költse el az energiáját.\n\nAz Újszövetség kézirati adatoltsága ókori műhöz képest bármilyen mérce szerint kivételes. A [[szövegváltozatok|szövegváltozat]] azért számlálhatók százezrekben, mert a kéziratok ezrekben számlálhatók, és a túlnyomó többség helyesírás, szórend és nyilvánvaló elírás. Kis részük érdemi, ezek ismertek, és minden mai kiadás lábjegyzetében ki vannak nyomtatva.\n\nMindebből semmi nem szól arról, hogy a jelentett események megtörténtek-e. Egy legenda tökéletesen hagyományozott szövege tökéletesen hagyományozott legenda. A kéziratokról vitatkozni annyi, mint az oldal első megkülönböztetéséről vitatkozni, amelyet itt senki nem vitat."
+    },
+    {
+      "heading": "Hová jutott a régészet",
+      "oneLine": "A régészet a Biblia intézményi berendezéséből sokat igazolt — királyokat, városokat, hadjáratokat —, az alapító elbeszéléseit viszont nem.",
+      "text": "A mintázat elég következetes ahhoz, hogy érdemes legyen nyíltan kimondani, mert mindkét oldal azt a felét idézi, amelyik neki kedvez.\n\nIgazolta a Bibliától független feliratok és feltárások alapján: Dávid házát mint dinasztianevet, izraeli és júdai királyok sorát, Szanhérib hadjáratát, Ezékiás vízvezető alagútját, Jeruzsálem babiloni pusztulását, valamint a késői királyság földrajzának és politikai szerkezetének nagy részét.\n\nNem igazolta, több esetben pedig ellentmond neki: a kivonulás úgy, ahogyan le van írva, Kánaán meghódítása úgy, ahogyan le van írva, és az egységes királyság abban a léptékben, amelyet a szöveg ad neki. Minél későbbi a korszak, annál jobban teljesítenek a szövegek — ez az, amit évszázadokon át lejegyzett iratoktól várni lehet, és ezért közeledett egymáshoz valamelyest a minimalista álláspont és az ellenfelei az 1990-es évek óta."
+    }
+  ],
+  "whereItStands": "A hagyományozás kérdése lezárult, és a két oldal egyetért benne. A történeti kérdés nyitott és mozgásban van, méghozzá mindkét irányban mozdult: el a huszadik század közepének magabiztos összeegyeztetéseitől, és el az 1990-es évek erős minimalizmusától is.\n\nAmi valóban elmozdult, az a kereszténységen belül van, nem a két oldal között. A szigorú tévedhetetlenség kisebb álláspont a keresztény kutatók között, mint ötven éve volt, és nem ateista érvek mozdították el az embereket, hanem maguk a nehézségek, amelyeket olyanok vetettek fel, akik a tanítást próbálták tartani. Az oldal két gyengébb álláspontja emiatt létezik, és éppen ezeken fog a legkevésbé az itteni ateista érvelés.\n\nEzt érdemes észrevenni az érvelés alakjáról. Az oldal ellenvetései többnyire a legerősebb állításra irányulnak, és éppen a legerősebb állítás az, amelytől a kereszténység csendben távolodik.",
+  "commonMistake": "A keresztények leggyakrabban a pontosságról szóló érvre a hagyományozásról szóló bizonyítékkal felelnek. A kéziratszámok lenyűgözőek, pontosak, és egy olyan kérdésről szólnak, amelyet a másik oldal már az elején megadott. Aki észreveszi, annak a felvezetésük témaváltásnak hangzik.\n\nAz ateisták leggyakrabban úgy kezelnek bármilyen tévedést, mintha a keresztény állítás minden változatára halálos volna, holott csak a legerősebbre az. Ha valakinek, aki a Szentírást hitben és életgyakorlatban tartja csalhatatlannak, azt mondod, hogy a Krónikák rosszul számol meg egy hadsereget, olyasmit mondasz neki, amit már eleve hisz, és nem zavarja.\n\nMindkét oldal hajlamos úgy vitatkozni, mintha a Biblia egyetlen fajta irat volna. Nagyjából egy évezred alatt összeállt könyvtár, amelyben törvény, krónika, költészet, példabeszéd, levél és apokaliptika van, és a „megbízható-e\" nem kap egyetlen választ ezen a tartományon át, éppúgy, ahogy a „megbízható-e a könyvtár\" sem.",
+  "sources": [
+    {
+      "title": "The Chicago Statement on Biblical Inerrancy",
+      "year": "1978",
+      "url": "http://www.bible-researcher.com/chicago1.html",
+      "note": "A teljes szöveg magyarázattal."
+    },
+    {
+      "title": "Dei Verbum",
+      "author": "Second Vatican Council",
+      "year": "1965",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+      "note": "A 11. cikkely tartalmazza az idézett megfogalmazást."
+    },
+    {
+      "title": "An Interview with Daniel B. Wallace on the New Testament Manuscripts",
+      "year": "2012",
+      "url": "https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/"
+    },
+    {
+      "title": "Misquoting Jesus: The Story Behind Who Changed the Bible and Why",
+      "author": "Bart D. Ehrman",
+      "year": "2005",
+      "url": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+      "note": "A teljes szöveg az Internet Archive-on, úgyhogy ez szóról szóra ellenőrizhető."
+    },
+    {
+      "title": "Canaanites, Reality Checks, and Letting the Bible Out of the Box",
+      "author": "Peter Enns",
+      "year": "2014",
+      "url": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so"
+    },
+    {
+      "title": "Biblical minimalism",
+      "url": "https://en.wikipedia.org/wiki/Biblical_minimalism",
+      "note": "A koppenhágai álláspont és a bizonyítékok, amelyek azóta elmozdították a mezőnyt. Az oldal megfogalmazása róla parafrázis, és ekként van megjelölve."
+    }
+  ]
+}
