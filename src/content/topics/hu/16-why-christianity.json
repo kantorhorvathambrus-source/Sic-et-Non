@@ -1,0 +1,286 @@
+{
+  "id": "why-christianity",
+  "number": 16,
+  "slug": "miert-a-keresztenyseg-es-miert-nem-valamelyik-masik-vallas",
+  "title": "Miért a kereszténység, és miért nem valamelyik másik vallás?",
+  "category": "faith-and-society",
+  "status": "open",
+  "realQuestion": "Ez az a kérdés, amely a honlap minden más oldalát túléli, és általában rossz ponton teszik fel.\n\nTegyük fel, hogy a teremtő melletti érvek mind működnek. Egyikük sem választ ki hagyományt. Az első ok, a finomhangolt állandó és az objektív erkölcsi törvény ugyanúgy rendelkezésére áll egy muszlimnak vagy egy deistának, mint egy kereszténynek, és az az olvasó, aki az előző tizenöt oldal minden érvét megadná, még mindig több ezer év összeegyeztethetetlen kinyilatkoztatási igénye előtt állna, anélkül hogy bármi megmondaná, melyik ajtót használja.\n\nAz itteni kérdés tehát szűkebb annál, hogy „igaz-e a kereszténység”. Az a kérdés, van-e bármilyen olyan ok — olyan fajta, amely mozgathat valakit, aki nincs már eleve belül —, amiért a kereszténység konkrét állításait egy rivális állításai elé helyezzük. A keresztény oldal azt mondja, igen, és megnevezi. Az ateista oldal azt mondja, a kérdésnek van válasza, és a válasz az, hogy hol születtél.",
+  "distinctions": [
+    {
+      "label": "Van-e egyáltalán Isten?",
+      "gloss": "Nem ez az oldal. Az első tíz vitatja, és logikailag megelőzi ezt — de ha igennel felelünk rá, attól még senki nem jut el egy konkrét valláshoz, és éppen ez itt a nehézség.",
+      "activeHere": false
+    },
+    {
+      "label": "Üdvözülnek-e a nem keresztények?",
+      "gloss": "A kereszténységen belüli kérdés, nem a két oldal közötti, és a legtöbb keresztény egyház mai válasza nem az, amit közkeletűen feltételeznek. Itt csak azért számít, mert a születési hely érve általában a kereszténységnek egy olyan változata ellen irányul, amelyet a legtöbb keresztény már nem vall. Az első jegyzet fejti ki.",
+      "activeHere": false
+    },
+    {
+      "label": "Van-e ok arra, hogy ezeket az állításokat egy rivális állításai elé helyezzük?",
+      "gloss": "Az élő kérdés. Olyan oknak kell lennie, amely nem feltételezi már eleve a következtetést, mert aki kérdezi, az meghatározásánál fogva kívül van.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exkluzivizmus",
+      "definition": "Az a nézet, hogy az üdvösség kizárólag a Krisztusba vetett kifejezett hit által érkezik. Történetileg a többségi keresztény álláspont; ma az egyházak között kisebbségi, a hívők között nem feltétlenül."
+    },
+    {
+      "term": "inkluzivizmus",
+      "definition": "Az a nézet, hogy az üdvösség egyetlen forrása Krisztus, de olyanokhoz is eljuthat, akik soha nem hallottak róla. A katolikus egyház álláspontja a II. Vatikáni Zsinat óta."
+    },
+    {
+      "term": "pluralizmus",
+      "definition": "Az a nézet, hogy a nagy hagyományok mind érvényes emberi válaszok egyetlen transzcendens valóságra, és egyikük sem az egyedül igaz. Mindenekelőtt John Hick nevéhez kötődik."
+    },
+    {
+      "term": "kívülálló-teszt",
+      "definition": "John Loftus javaslata, hogy a hívő azzal a szkepszissel vizsgálja meg a saját hagyományát, amelyet minden elutasított hagyományra amúgy is hozzáértően és magabiztosan alkalmaz."
+    }
+  ],
+  "sides": [
+    {
+      "label": "A kereszténység olyan állítást tesz, amely ellenőrizhető, a többiek többnyire nem",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "staked-on-an-event",
+          "claim": "A kereszténység az egyetlen nagy hagyomány, amely megnevezi azt a tényt, amely megcáfolná.",
+          "explanation": "A legtöbb vallási hagyományt nem cáfolhatja meg egy történeti lelet, és nem is úgy adja elő magát, mintha megcáfolhatná. Buddha tanítása azon áll vagy bukik, hogy működik-e, nem azon, hogy létezett-e az ember. A Korán tekintélye magán a szövegen nyugszik, nem egy datálható, tanúkkal rendelkező nyilvános eseményen.\n\nA kereszténység alapító irata mást tesz, méghozzá a legkorábbi szövegünkben. Pál, aki nagyjából huszonöt évvel a keresztre feszítés után ír Korinthusba, megnevezi azt a feltételt, amely mellett az egész értéktelen — nem kiábrándító, nem újraértelmezésre szoruló, hanem üres. Ez szokatlan dolog egy vallástól önmagáról, és emiatt van ennek a kérdésnek válasza, nem vállrándítása.\n\nAz érv nem az, hogy a feltámadás bizonyítást nyert. Hanem az, hogy a kereszténység megmondta, mi döntené el, és ezzel más ismeretelméleti helyzetbe hozta magát, mint egy olyan hagyomány, amely nem mondta meg.",
+          "quote": {
+            "text": "ha pedig Krisztus nem támadt fel, akkor hiábavaló a mi igehirdetésünk, de hiábavaló a ti hitetek is",
+            "author": "Paul of Tarsus",
+            "work": "1Korinthus 15:14",
+            "year": "c. 54",
+            "locator": "New Revised Standard Version",
+            "sourceUrl": "https://bible.oremus.org/?passage=1+Corinthians+15%3A1%E2%80%9317&version=nrsv",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "and if Christ has not been raised, then our proclamation has been in vain and your faith has been in vain",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "inclusivism",
+              "label": "Az állítás Krisztusról szól, nem a tagságról",
+              "heldBy": "a katolikus egyház a II. Vatikáni Zsinat óta, előtte Karl Rahner",
+              "oneLine": "A kereszténység lehet egyedülállóan igaz anélkül, hogy a rajta kívül állók egyedülállóan elveszettek volnának — és e szerint a legtöbbjük nem az.",
+              "summary": "Az [[inkluzivizmus]] szétválaszt két állítást, amelyeket a születési hely érve egyként kezel: hogy az üdvösség Krisztus által jön, és hogy csak azokhoz jut el, akik hallottak róla.\n\nE szerint a kegyelem nincs azokra korlátozva, akik meg tudják nevezni a forrását. Aki válaszolt arra az igazságra, amely elért hozzá, ugyanarra a valóságra válaszol, és az a hagyomány, amelyen belül ezt tette, nem rivális, hanem részleges és valódi hordozója. Ez a világ legnagyobb keresztény egyházának hivatalos tanítása, és nem újkeletű lágyítás egy pluralista közönség kedvéért — hivatalos zsinati nyilatkozat 1965-ből.\n\nAmit nem mond ki: hogy a hagyományok egyenértékűek. Azt mondja, hogy a többiben van igazság, nem azt, hogy a teljes.",
+              "quote": {
+                "text": "A katolikus egyház semmit sem utasít el abból, ami ezekben a vallásokban igaz és szent. Őszinte tisztelettel szemléli azokat a cselekvési és életmódokat, azokat az előírásokat és tanításokat, amelyek sok mindenben különböznek attól, amit ő maga vall és tanít, mégis nemegyszer annak az Igazságnak sugarát tükrözik, amely megvilágosít minden embert.",
+                "author": "Second Vatican Council",
+                "work": "Nostra Aetate",
+                "year": "1965",
+                "locator": "2. cikkely",
+                "sourceUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The Catholic Church rejects nothing of what is true and holy in these religions. She regards with sincere reverence those ways of conduct and of life, those precepts and teachings which, though differing in many aspects from the ones she holds and sets forth, nonetheless often reflect a ray of that Truth which enlightens all men and women.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés szerint a történeti állítás a gyakorlatban ellenőrizhetetlen — ez bizonyítékról szóló ellenvetés. Ez az álláspont egyáltalán nem bizonyítékra vonatkozó állítás: arról szól, mi következik mindenki másra nézve, ha az állítás igaz. Így a történeti ügy erősségéről szóló ellenvetés pontosan ott hagyja, ahol volt.",
+              "objection": {
+                "text": "Megadja a kérdést, és megtartja a nevet. Ha valakit egy másik hagyományon belül elérhet a kegyelem anélkül, hogy valaha találkozna a keresztény állítással, akkor nem ennek az állításnak a sajátos tartalma végzi a munkát, és a kereszténység előnyben részesítése melletti érv csendben egy leírás előnyben részesítése melletti érvvé vált. A többi hagyomány nem kérte, hogy megmondják neki: a követőit valaki más alapítója üdvözíti.",
+                "from": "both",
+                "response": "Az az állítás, hogy mi teszi lehetővé az üdvösséget, és az, hogy ki részesül belőle, két különböző állítás, és az elsőt a második nélkül vallani nem visszavonulás, hanem olyan megkülönböztetés, amelyet a hagyomány a korai évszázadai óta megtesz. Az az ellenvetés, hogy a többi hagyomány nem fogadja el a leírást, igaz, és nem szól arról, hogy a leírás pontos-e."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Megnevezni egy cáfolót nem ugyanaz, mint cáfolhatónak lenni. Azt a feltételt, amelyet Pál megnevez, ma élő ember nem tudja ellenőrizni, és a hagyomány kétezer év alatt egyszer sem kezelte valódi kockázatként. Az az állítás, amely elvben cáfolható, a gyakorlatban viszont sérthetetlen, a cáfolhatóság retorikai munkáját végzi a költsége nélkül, és az, hogy a kereszténység merészet mond önmagáról, a kereszténység irodalmáról szóló tény, nem a világról szóló bizonyíték.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Valódi kockázatként kezelték, többször is, olyanok, akiknek a pályája ment rá — és a kritikai újszövetség-kutatás egész tudományága, amely nagyrészt keresztény találmány, éppen azért létezik, mert az állítást olyasminek tartották, amiben tévedni lehet. Ez több annál, amit a legtöbb hagyomány kitett magából."
+          }
+        },
+        {
+          "id": "not-the-same-mountain",
+          "claim": "A kérdés valódi, és a rá adott közkeletű válasz hamis.",
+          "explanation": "A leggyakoribb válasz a „miért éppen ez”-re az, hogy a választás nem számít, mert a hagyományok ugyanazt mondják más nyelven. Ez a világ vallásainak tartalmáról szóló állítás, és olyan állítás, amelyet azok, akik hivatásszerűen tanulmányozzák őket, nem fogadnak el.\n\nA hagyományok nem értenek egyet abban, mi a probléma. A kereszténység szerint a probléma a bűn, a megoldás az üdvösség; a buddhizmus szerint a probléma a szenvedés, a megoldás a felébredés; a konfucianizmus szerint a probléma a társadalmi rendetlenség, a megoldás a helyes viszony. Ezek nem különböző utak egyetlen csúcsra. Különböző diagnózisok, és az a diagnózis, amely az egyik dologban helyes, ettől még nem helyes a másikban.\n\nA jelentősége itt szerkezeti. Ha a hagyományok valóban felcserélhetők volnának, akkor zavar volna azt kérdezni, melyiket válasszuk. Nem azok, tehát kérdés — és egy összeegyeztethetetlen válaszokkal rendelkező kérdésnek legfeljebb egy helyes válasza van.",
+          "quote": {
+            "text": "Miért teszünk hát úgy, mintha a világ vallási hagyományai ugyanahhoz az Istenhez vezető különböző utak volnának?",
+            "author": "Stephen Prothero",
+            "work": "God Is Not One: The Eight Rival Religions That Run the World",
+            "year": "2010",
+            "locator": "a bevezetés, ahol a feltevést „Godthink”-nek nevezi",
+            "sourceUrl": "https://www.stephenprothero.com/book/god-is-not-one/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "So why do we pretend that the world's religious traditions are different paths to the same God?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Megadva — és a másik oldalnak segít. Az, hogy a hagyományok összeegyeztethetetlen állításokat tesznek, éppen a sokféleségből vett érv előfeltevése: összeegyeztethetetlen állítások nem lehetnek mind igazak, ugyanolyan folyamatokkal jutottak hozzájuk ugyanolyan emberek, tehát a túlnyomó többségük hamis. Annak megállapítása, hogy ez valódi vita, azt állapítja meg, hogy a résztvevőinek nagy része téved — furcsa eredmény felajánlani valamelyikük mellett.",
+            "objectionFrom": "atheist",
+            "response": "Önmagában semmit nem támaszt alá, és nem is alátámasztásként ajánlottuk fel. Egy lépést hárít el — azt, amely szerint a kérdéssel nem kell szembenézni —, és éppen ezt a lépést szokták a leggyakrabban használni arra, hogy ennek az oldalnak a kérdését teljesen elkerüljék."
+          }
+        }
+      ]
+    },
+    {
+      "label": "A „miért éppen ez” kérdésre a válasz már ismert, és nem bizonyítékokon alapul",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "outsider-test",
+          "claim": "Senki nem alkalmazza a saját hagyományára azt a mércét, amelyet minden másikra alkalmaz.",
+          "explanation": "Egy keresztény, aki az iszlámot, a hinduizmust vagy a mormonizmust mérlegeli, felismerhető és észszerű eljárást használ: megkérdezi, mi a bizonyíték, megjegyzi, hogy az alapító eseményeket csak az a közösség tanúsítja, amely köréjük szerveződött, megjegyzi a tanúkra nehezedő lélektani és kulturális nyomást, és arra jut, hogy az ügy nincs bizonyítva. Az eljárást hozzáértően alkalmazzák, méghozzá több ezer hagyományra.\n\nA [[kívülálló-teszt]] javaslata pusztán annyi, hogy alkalmazzák még egyszer, arra az egy hagyományra, amely alól fel van mentve. Nem az, hogy meg fog bukni — ez nyitva marad —, hanem az, hogy a felmentés kiérdemeletlen, és hogy az oka szinte soha nem olyan ok, amelyet bárki elfogadna, ha valami más hívőjétől hallaná.\n\nAmitől a javaslat erőt kap, az az, hogy mi jelzi előre a vallási hovatartozást. Nem az érvelés, nem a bizonyítékokkal való találkozás, nem az összehasonlító tanulmányozás. Hanem az, hogy hol és kiknek született valaki.",
+          "quote": {
+            "text": "A kulturálisan átvett vallási hitünket csak úgy lehet észszerűen próbára tenni, ha kívülállóként, nem hívőként tekintünk rá, ugyanazzal az észszerű szkepszissel, amelyet a hívők amúgy is alkalmaznak a többi vallásra, amelyet elutasítanak.",
+            "author": "John W. Loftus",
+            "work": "The Outsider Test for Faith: How to Know Which Religion Is True",
+            "year": "2013",
+            "locator": "a teszt szokásos megfogalmazása nála, a könyvben és az azonos című tanulmányában is",
+            "sourceUrl": "https://people.willamette.edu/~ttalbott/Loftus%20OTF2.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The only way to rationally test one's culturally adopted religious faith is from the perspective of an outsider, a nonbeliever, with the same level of reasonable skepticism believers already use when examining the other religious faiths they reject.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "revelations-cancel",
+              "label": "A kinyilatkoztatások kioltják egymást",
+              "heldBy": "David Hume, és utána az összeegyeztethetetlen kinyilatkoztatásokból vett érv",
+              "oneLine": "Minden hagyomány alapító bizonyítéka bizonyíték minden másik ellen, tehát a beszámolók nem összeadódnak, hanem kivonódnak.",
+              "summary": "Ez az érv semmit nem mond arról, ki hogyan jutott a hitéhez — és ez különbözteti meg a fenti teszttől.\n\nA bizonyíték szerkezetéről szól. Egy csodabeszámoló azt a rendszert támasztja alá, amelynek a megalapozására elmondták, a rendszerek pedig összeegyeztethetetlenek, tehát minden beszámoló egyben minden rivális ellen is szól. Minden hagyomány tud tanúkat, gyógyulásokat, vértanúkat és megváltozott életeket felmutatni, méghozzá mennyiségben. Együttvéve a beszámolók nem a természetfölötti melletti ügyet építik fel általában; egymást kioltó ügyek halmazát építik fel, és a kioltás szimmetrikus.\n\nItt alkalmazva azt mondja, hogy a keresztény bizonyíték nem gyenge, hanem pontosan ugyanolyan formájú bizonyíték vitatja, és hogy egyetlen hagyomány sem állt még elő olyan beszámolóval, amely eldöntené a holtversenyt.",
+              "quote": {
+                "text": "Egy rivális rendszer lerombolásával egyben azoknak a csodáknak a hitelét is lerombolja, amelyekre az a rendszer épült; úgyhogy a különböző vallások minden csodáját egymásnak ellentmondó tényeknek kell tekinteni, e csodák bizonyítékait pedig — akár gyengék, akár erősek — egymással szembenállóknak.",
+                "author": "David Hume",
+                "work": "An Enquiry concerning Human Understanding, X. szakasz, „Of Miracles”",
+                "year": "1748",
+                "locator": "II. rész",
+                "sourceUrl": "https://davidhume.org/texts/e/10",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "In destroying a rival system, it likewise destroys the credit of those miracles, on which that system was established; so that all the prodigies of different religions are to be regarded as contrary facts, and the evidences of these prodigies, whether weak or strong, as opposite to each other.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés a genetikus tévkövetkeztetés vádja: hogy abból, ahogyan egy hitet megszereztek, nem következik, igaz-e. Ez az érv semmit nem állít arról, hogyan szerzett bárki bármit. Arról szól, mit tesznek a beszámolók bizonyítékként egymással, így a hit eredetéről szóló válasz érintés nélkül megy el mellette.",
+              "objection": {
+                "text": "A kioltáshoz szimmetria kell, a szimmetriát pedig meg kell mutatni, nem feltételezni. Az állítások különböznek a keltezésükben, a tanúk számában és függetlenségében, abban, hogy a közösségnek volt-e nyernivalója, és abban, hogy milyen korán írták le őket. Minden beszámolót egyetlen, a másikból kivonandó egységként kezelni az a lépés, amelyre az érvnek szüksége van, és amelyet soha nem tesz meg; rendesen elvégezve az összehasonlítás kutatási program, nem patthelyzet.",
+                "from": "theist",
+                "response": "Az összehasonlítást megkísérelték, és mindig a többi hagyomány az, amelyik veszít — annak a hagyománynak a mércéivel mérve, amelyik mér. Éppen ezt a mintázatot jósolja az érv."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Az, hogy egy hit honnan származik, nem érv arról, hogy igaz-e, és a teszt ugyanúgy vág az alkalmazója felé is: a világi meggyőződéseket a földrajz és a neveltetés legalább olyan élesen osztja el, mint a vallásiakat, ami e gondolatmenet szerint őket is ugyanúgy gyanússá tenné. Amit a teszt valójában kér — vizsgáld meg a hiteidet azzal a mércével, amelyet másokéra használsz —, az vagy szokásos szellemi higiénia, amit senki nem vitat, vagy annak követelése, hogy abból indulj ki, hogy a hited hamis, ami nem semlegesség.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "A teszt nem érv amellett, hogy a hit hamis, és nem is állítja magáról; arról szól, melyik vizsgálat a tisztességes, a válasz pedig azzal, hogy higiéniának nevezi, meg is adja. Az, hogy a világi meggyőződésekre is vonatkozik, igaz, és nem védekezés — hanem jóváhagyás más névvel."
+          }
+        },
+        {
+          "id": "symmetry",
+          "claim": "Minden hagyománynak ugyanazok az okai vannak, és nem lehetnek mind jók.",
+          "explanation": "Több ezer vallás létezett. Követőik ugyanolyan élményeket éltek át, ugyanolyan tanúságtételt ajánlottak, ugyanolyan bizonyosságot éreztek, ugyanolyan megváltozott életeket hoztak létre, és ugyanarra a belső megerősítésre mutattak. Bárhogyan is nézzük, e hagyományok túlnyomó többsége hamis.\n\nTehát az a folyamat, amely vallási meggyőződést termel, olyan folyamat, amely azonos bemenetekből egymásnak ellentmondó kimeneteket állít elő, hatalmas léptékben, minden esetben változatlan magabiztossággal. Egy ilyen előéletű folyamat nem megbízható útmutató arra, mi igaz, és az, hogy a saját meggyőződésünk belülről másmilyennek érződik, pontosan az, amit ez az előélet előre jelez.\n\nEz nem érv amellett, hogy egyetlen vallás sem lehet igaz. Amellett érv, hogy azok a szokásos alapok, amelyeket az emberek egy vallás vállalására felhoznak — élmény, tanúságtétel, átalakulás, bizonyosság —, nem lehetnek azok, amik kiválasztják a helyeset, mert teljes mértékben jelen vannak az összes helytelenben is.",
+          "quote": {
+            "text": "Kitcher érvelése szerint a világ hagyományai ugyanúgy keletkeztek, ugyanúgy maradnak fenn, és ugyanolyan belső megerősítéseket kínálnak, és nincsenek köztük semleges eszközök annak eldöntésére, melyiküknek van igaza — tehát teljes szimmetria áll fenn, és a hívő saját hagyománya nem tarthat igényt arra, hogy kivétel legyen.",
+            "author": "Philip Kitcher",
+            "work": "Life After Faith: The Case for Secular Humanism",
+            "year": "2014",
+            "locator": "a szimmetriaérv saját összefoglalásunk, ahogyan a könyv bírálói kifejtik; nem Kitcher megfogalmazása",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Kitcher's case is that the world's traditions arose in the same way, are sustained in the same way, and offer the same kinds of internal confirmation, and that there are no resources neutral between them for deciding which is right — so complete symmetry holds, and the believer's own tradition has no claim to be the exception.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A szimmetriát olyan durva leírási szinten állítják, amely garantálja is. A hagyományok különböznek abban, hogy tesznek-e nyilvános történeti állításokat, hogy ezeket ellenőrizhették-e ellenséges kortársak, hogy az alapító közösségnek volt-e nyernivalója, és hogy a hagyomány felülvizsgálta-e valaha magát bizonyítékok nyomására. Az a felmérés, amely csak annyit rögzít, hogy „az emberek biztosak voltak, és nem értettek egyet”, mindebből semmit nem lát, az érvnek pedig szüksége van erre a felbontásra, hogy működjön.",
+            "objectionFrom": "theist",
+            "response": "A finomabb felbontás rendelkezésre áll, és alkalmazták is, és még soha nem eredményezett olyan kritériumot, amely egyetlen hagyományt választana ki, és amelyet rajta kívül bárki elfogadna. Amíg nem eredményez, a szimmetria állítása nem durva — hanem az eddigi próbálkozások összefoglalása."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Három keresztény válasz, nem egy",
+      "oneLine": "Az, hogy „a kereszténység igaz”, és az, hogy „aki rajta kívül van, elveszett”, két külön állítás, és a legtöbb keresztény egyház ma az elsőt vallja a második nélkül.",
+      "text": "Az [[exkluzivizmus]] szerint az üdvösséghez Krisztusba vetett kifejezett hit kell. Ez volt a történeti többségi álláspont, és az evangéliumi protestantizmus nagy részének álláspontja maradt.\n\nAz [[inkluzivizmus]] szerint Krisztus az üdvösség egyetlen forrása, de olyanokhoz is eljut, akik soha nem hallottak róla. Ez a katolikus egyház hivatalos tanítása, amelyet a II. Vatikáni Zsinat mondott ki, és a legtöbb történelmi protestáns egyházé is. Számszerűen ma jelentős többséggel ez a többségi keresztény álláspont.\n\nA [[pluralizmus]] szerint a nagy hagyományok egyformán érvényes emberi válaszok egyetlen valóságra, amelyet egyikük sem úgy ír le, ahogyan önmagában van. Legismertebb védelmezője John Hick keresztény filozófus volt, és kisebbségi álláspont, amelyet a legtöbb keresztény egyház úgy utasít el, hogy mindent felad.\n\nA megkülönböztetés azért számít ezen az oldalon, mert a születési hely érve szinte mindig az elsőre irányul, és ott fog a legjobban. A másodikon sokkal kevesebb fogódzója van, a harmadikra irányítva pedig már nem is ellenvetés, hanem egyetértés.",
+      "quote": {
+        "text": "arra jutunk, hogy a Valóst önmagában kell feltételeznünk mint a vallási tapasztalat e formatartományának igazságértékét megalapozó előfeltevést",
+        "author": "John Hick",
+        "work": "An Interpretation of Religion: Human Responses to the Transcendent",
+        "year": "1989",
+        "locator": "a pluralista hipotézis kifejtése",
+        "sourceUrl": "https://iep.utm.edu/hick/",
+        "verification": "corroborated",
+        "sawWhat": "snippet",
+        "original": {
+          "text": "we are led to postulate the Real an sich as the presupposition of the veridical character of this range of forms of religious experience",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "heading": "Mi nem a kívülálló-teszt",
+      "oneLine": "Javaslat arról, hogyan vizsgáljunk meg egy hitet, nem érv amellett, hogy a hit hamis — és nagyjából ugyanolyan gyakran olvassa félre ebbe az irányba mindkét oldal.",
+      "text": "A keresztények úgy olvassák a tesztet, hogy „tételezd fel, hogy a hited hamis, és nézd meg, fel tudod-e építeni újra”, ami valóban kicentizett eljárás volna, és ezen az alapon utasítják el. Az ateisták úgy idézik, mintha a teszten való megfelelés vagy elbukás ugyanaz volna, mint az igazság vagy a hamisság — pedig nem az: egy hagyomány túlélheti a tesztet, és mégis tévedhet, vagy elbukhatja, és mégis igaza lehet.\n\nAmit a teszt valójában javasol, az a következetesség mércéje. Amilyen szintű vizsgálatot megfelelőnek tartasz egy olyan vallás mérlegelésére, amelyet nem vallasz — és mindenkinek van ilyen mércéje, és magabiztosan alkalmazza —, olyan szintűt kell alkalmaznod arra, amelyet vallasz.\n\nÍgy megfogalmazva nehéz elutasítani, és ennek megfelelően szerény is. Az ereje teljes egészében abból a megfigyelésből származik, hogy szinte senki nem teszi meg, és hogy az aszimmetriát, ha rámutatnak, általában nem védik meg, hanem egyszerűen nem veszik észre."
+    }
+  ],
+  "whereItStands": "Itt nem sok mozdult, és az ok az, hogy a két oldal különböző dolgokról vitatkozik, és ezt mindketten tudják.\n\nA demográfiai állítás nem vitás. A vallási hovatartozás túlnyomórészt öröklött, ezt mindkét oldal elfogadja, és a vita arról szól, mi következik belőle — ez pedig a hitalkotás ismeretelméletének kérdése, nem az adaté. A keresztény válasz, hogy az eredet nem határozza meg az igazságot, helytálló, és nem válasz az érv élesebb formájára, amely a folyamat megbízhatóságáról szól, nem a kimenet igazságáról. Az ateista válasz, hogy a folyamat egymásnak ellentmondó kimeneteket termel, helytálló, és önmagában nem választ ki egyetlen hagyományt sem.\n\nAmi megváltozott, az a terep, amelyen a kérdést vívják. Egy évszázada a keresztény válasz a „miért éppen ez”-re a beteljesedett prófécia és a Nyugat erkölcsi felsőbbrendűsége lett volna. Ma egyiket sem használják sokat. Az ügy leszűkült a feltámadásról szóló történeti állításra, aminek megvan az az érdeme, hogy éppen ez az az állítás, amelyről a hagyomány maga mondja, hogy minden ezen múlik — és e szűkítés hatása az, hogy ez az oldal és a feltámadásról szóló oldal nagyrészt ugyanazzá a vitává vált.",
+  "commonMistake": "A keresztények leggyakrabban a teizmus melletti érvvel válaszolnak erre a kérdésre, ami nem ér el hozzá. A honlap első tíz oldalának minden érve, teljes egészében megadva, egy teremtővel és hagyomány nélkül hagyja az olvasót. Itt felhozni őket úgy hangzik, mintha a kérdést nem értették volna meg.\n\nAz ateisták leggyakrabban a kereszténységnek egy olyan változata ellen érvelnek, amelyet a legtöbb keresztény nem vall: úgy kezelik a kérdést, mintha az exkluzivizmus volna az egyetlen lehetőség az asztalon. Ez az érv erős a megnevezett álláspont ellen, és gyenge az ellen, amelyet a katolikus egyház 1965 óta tanít, és ha valaki a különbség észrevétele nélkül használja, elpazarolja az erejét.\n\nMindkét oldal érvként kezeli azt, hogy „nem lehet minden vallásnak igaza, tehát egyiknek sincs”. Ez nem érv: az, hogy egy egymásnak ellentmondó állításhalmaz nagy része hamis, a halmazról szóló tény, és pontosan ott hagyja azt a kérdést, hogy melyiknek — ha egyáltalán valamelyiknek — van igaza.",
+  "sources": [
+    {
+      "title": "Nostra Aetate: Declaration on the Relation of the Church to Non-Christian Religions",
+      "author": "Second Vatican Council",
+      "year": "1965",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+      "note": "Rövid, és a 2. cikkely a katolikus inkluzivizmus hivatalos kimondása."
+    },
+    {
+      "title": "The Outsider Test for Faith",
+      "author": "John W. Loftus",
+      "year": "2013",
+      "url": "https://people.willamette.edu/~ttalbott/Loftus%20OTF2.pdf",
+      "note": "Loftus saját tanulmánya, amely kifejti a tesztet, egy filozófus válaszával együtt közölve."
+    },
+    {
+      "title": "An Enquiry concerning Human Understanding, Section X, Part II",
+      "author": "David Hume",
+      "year": "1748",
+      "url": "https://davidhume.org/texts/e/10",
+      "note": "A kölcsönös kioltás érve, a szakasz második felében."
+    },
+    {
+      "title": "God Is Not One: The Eight Rival Religions That Run the World",
+      "author": "Stephen Prothero",
+      "year": "2010",
+      "url": "https://www.stephenprothero.com/book/god-is-not-one/",
+      "note": "Vallástudományi érvelés az „ugyanaz a hegy” feltevés ellen. Prothero a pluralistákkal vitatkozik, nem a kereszténység mellett."
+    },
+    {
+      "title": "John Hick",
+      "author": "Internet Encyclopedia of Philosophy",
+      "year": "2011",
+      "url": "https://iep.utm.edu/hick/",
+      "note": "A pluralista hipotézis és a vele szemben szokásos ellenvetések legvilágosabb rövid kifejtése."
+    },
+    {
+      "title": "Life After Faith: The Case for Secular Humanism",
+      "author": "Philip Kitcher",
+      "year": "2014",
+      "url": "https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/",
+      "note": "Nem a könyvre, hanem egy recenzióra hivatkozunk: a szimmetriaérv ezen az oldalon a leírásaiból van összefoglalva, nem a szövegből."
+    }
+  ]
+}
