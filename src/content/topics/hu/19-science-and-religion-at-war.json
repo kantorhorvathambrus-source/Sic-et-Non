@@ -1,0 +1,263 @@
+{
+  "id": "science-and-religion-at-war",
+  "number": 19,
+  "slug": "haboruban-all-e-a-tudomany-es-a-vallas",
+  "title": "Háborúban áll-e a tudomány és a vallás?",
+  "category": "faith-and-society",
+  "status": "settled-core",
+  "settledCore": "A történeti állítás le van zárva, és a háború ellenében van lezárva.\n\nAz az elképzelés, hogy a tudomány és a vallás örök konfliktusban áll, nem régi megfigyelés, hanem viktoriánus tézis, amelyet John William Draper 1874-ben és Andrew Dickson White 1896-ban fejtett ki, és amelyet a tudománytörténészek fél évszázada elutasítanak. Azok a látványos epizódok, amelyeken nyugszik, nem élik túl a levéltárakat: a középkori Európa nem gondolta laposnak a Földet, az egyház nem tiltotta be az emberi boncolást, Galileit nem kínozták meg és nem zárták tömlöcbe, Brunót pedig nem a kopernikanizmusért végezték ki.\n\nAmi ebből következik, szűkebb annál, amit bármelyik oldal szeretne. Azt állapítja meg, hogy a közkeletű történet hamis. Azt nem állapítja meg, hogy a két vállalkozás ma összefér — márpedig az alábbi két oldal éppen erről vitatkozik.",
+  "realQuestion": "Amit erről a témáról nyilvánosan mondanak, szinte mind a történelemről szól, a történelem pedig lezárult. A használható kérdés tehát az, amely utána talpon marad.\n\nMegadva, hogy nem volt háború — hogy az epizódok mítoszok vagy torzítások, hogy a korai tudomány jelentős részét papok művelték, hogy az intézmények csillagvizsgálókat és egyetemeket finanszíroztak —, fennáll-e mégis összeférhetetlenség ma, a módszer szintjén? Nem az, hogy „harcoltak-e a művelőik”, hanem az, hogy „együtt tartható-e a kérdéseldöntés két módja olyasvalakiben, aki mindkettőt érti”.\n\nEz a kérdés élő, filozófiai és nem történeti, és akik vitatják, nem azok, akik Galileiről vitatkoznak. Az egyik oldal szerint a kettő különböző kérdésekre válaszol különböző eszközökkel, és a konfliktus látszata kategóriatévesztésből fakad. A másik szerint ugyanazokra a kérdésekre válaszolnak összeférhetetlen eszközökkel, és a munkamegosztás olyan fegyverszünet, amelyet azután húztak meg, hogy az egyik fél már elvesztette a vitatott területet.",
+  "distinctions": [
+    {
+      "label": "Volt-e történeti háború?",
+      "gloss": "Nem, és ez a két oldal között nem vitás. Fent kimondjuk, nem alább vitatjuk, mert megvitatása két érvhelyet költene olyan kérdésre, amelyet a történészek lezártak.",
+      "activeHere": false
+    },
+    {
+      "label": "Ütköznek-e konkrét állítások?",
+      "gloss": "Olykor igen, és ahol igen, ott az adott állítás oldalán vitatjuk, nem itt — evolúció, elme, csodák. Az a lépés, hogy ezeket általános ítéletté gyűjtjük össze, ennek az oldalnak a tárgya.",
+      "activeHere": false
+    },
+    {
+      "label": "Összeférnek-e a módszerek?",
+      "gloss": "Az élő kérdés. Arról szól, mi számít indoknak, mitől felülvizsgálható egy hit, és hogy a „különböző kérdések” valódi felosztás-e, vagy utólag húzott határ.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "konfliktustézis",
+      "definition": "A Draper–White-féle állítás, amely szerint a tudomány és a vallás állandó, szerkezeti hadiállapotban van. A tudománytörténészek elutasítják, és különbözik minden olyan állítástól, amely a mai összeférhetőségről szól."
+    },
+    {
+      "term": "módszertani naturalizmus",
+      "definition": "Az a munkaszabály, hogy a tudományos magyarázatok csak természeti okokra hivatkoznak. Eljárási szabály, nem állítás arról, hogy más nem létezik — bár hogy ez így maradhat-e, része az itteni vitának."
+    },
+    {
+      "term": "magisztérium",
+      "definition": "A tanítói tekintély egy tartománya. Gould a katolikus szóhasználatból kölcsönözte, hogy amellett érveljen: a tudomány és a vallás kettőt birtokol belőlük, és ezek nem fedik egymást."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Különböző kérdések, különböző eszközök, és nincs ütközés",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "different-questions",
+          "claim": "Nincs olyan kísérlet, amely arról szólna, mire való bármi, és nincs olyan szentírás, amely bomlási állandót rögzítene.",
+          "explanation": "A tudományok meghatározott fajta kérdésre válaszolnak: mi van, miből áll, hogyan viselkedik, mit fog tenni ezután. A módszerek pontosan erre készültek, és ebben verhetetlenek.\n\nAzok a kérdések, amelyekről a vallás szól, más fajtájúak: számít-e bármi, mivel tartozik az ember, mire való egy élet, hogyan nézzünk szembe a halállal. Ezekhez semmilyen mérés nem szól hozzá, és ezért nem döntött el egyet sem tudományos eredmény, és ezért nem is fog semennyi további kutatás. Fordítva pedig: vallási szöveg soha nem rögzítette egyetlen fizikai állandó értékét sem, és ahol úgy olvasták, mintha rögzítené, ott az olvasat tévedett a szövegről.\n\nAhhoz, hogy ezt háborúnak nevezzük, a kettőnek ugyanazért a területért kellene versengenie. E szerint egyáltalán nem szomszédos állítások, hanem különböző kérdésekre adott válaszok, és a konfliktus látszata abból fakad, hogy az egyik [[magisztérium]] állítását a másikban tett állítás vetélytársának vesszük.",
+          "quote": {
+            "text": "A tudomány hálója a tapasztalati tartományt fedi le: miből áll a világegyetem (tény), és miért működik így (elmélet). A vallás hálója az erkölcsi jelentés és érték kérdéseire terjed ki.",
+            "author": "Stephen Jay Gould",
+            "work": "Rocks of Ages: Science and the Fullness of Life",
+            "year": "1999",
+            "locator": "a nem átfedő magisztériumok kimondása, először 1997-es esszéként megjelenve; Gould agnosztikus volt",
+            "sourceUrl": "https://www.naturalhistorymag.com/picks-from-the-past/13430/nonoverlapping-magisteria",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The net of science covers the empirical realm: what is the universe made of (fact) and why does it work this way (theory). The net of religion extends over questions of moral meaning and value.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "theology-made-it-thinkable",
+              "label": "Nem pusztán összefér — az egyik hozta létre a másikat",
+              "heldBy": "Alfred North Whitehead, és azok a tudománytörténészek, akik azóta továbbfejlesztették a tézist",
+              "oneLine": "Az a meggyőződés, hogy a természet rendezett, esetleges és számunkra megérthető, előbb volt teológiai várakozás, mint tudományos, és a kísérletező tudomány nélküle valószínűtlen.",
+              "summary": "Ez sokkal erősebb állítás a békés együttélésnél, és történeti, nem filozófiai.\n\nAz érv szerint a kora újkori tudomány munkafeltevései nem voltak magától értetődők, és nem voltak egyetemesek. Hogy a természet mindenütt törvények által kormányzott, nem szeszélyes; hogy a törvényei esetlegesek, tehát nézelődéssel kell megtalálni őket, nem első elvekből levezetni; és hogy egy véges elme felfoghatja őket — ezek olyan emberek várakozásai voltak, akik szerint a világot egy észszerű teremtő alkotta, akinek nem kellett volna így alkotnia. A lényegekből való következtetés helyett kísérletezni természetesen adódik a másodikból, és ez az a lépés, amelyet a klasszikus világ soha nem tett meg.\n\nAz állítás nem az, hogy más nem juthatott volna el ide. Hanem az, hogy akik eljutottak, ebből a várakozásból dolgoztak, és ezt ki is mondták.",
+              "quote": {
+                "text": "A magyarázatom az, hogy a tudomány lehetőségébe vetett hit, amely a modern tudományos elmélet kifejlődése előtt keletkezett, a középkori teológia öntudatlan származéka.",
+                "author": "Alfred North Whitehead",
+                "work": "Science and the Modern World",
+                "year": "1925",
+                "locator": "a modern tudomány eredetéről szóló fejezet",
+                "sourceUrl": "https://www.gutenberg.org/files/68611/68611-h/68611-h.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "My explanation is that the faith in the possibility of science, generated antecedently to the development of modern scientific theory, is an unconscious derivative from medieval theology.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés szerint a két tartomány közötti határt nem felfedezték, hanem meghúzták, méghozzá mindig visszavonulásban. Ez az álláspont nem húz határt, és nem állít semmit tartományokról; oksági állítás arról, honnan származik egy munkafeltevés-készlet. Annak az érvnek, hogy ki milyen területet engedett át, nincs mibe kapaszkodnia egy olyan állításban, amely a tizenhetedik század szellemi örökségéről szól.",
+              "objection": {
+                "text": "A tézist a tudománytörténeten belül sokkal inkább vitatják, mint azt a kívüli népszerűsége sejtetné. Kifinomult matematikai csillagászat, optika és orvoslás egészen más teológiájú környezetekben is kifejlődött, néhányban olyanban, amelyre a leírás egyáltalán nem illik, és a konkrét oksági utat — az esetleges teremtés tanításától a kísérletezés gyakorlatáig — sokkal gyakrabban állítják, mint amennyiszer kimutatják. Amit a forrásanyag világosan mutat, az az, hogy a keresztény hit volt a környező közeg — ez pedig nem ugyanaz, mint hogy ő volt az ok.",
+                "from": "within",
+                "sharedPremise": "elfogadja az egész revizionista historiográfiát, amely megölte a konfliktustézist, beleértve a vallási intézmények mély részvételét a korai tudományban, és ugyanebből a szakirodalomból érvel amellett, hogy a további oksági állítás más és gyengébben alátámasztott tétel, mint az a tagadó megállapítás, amelyben ma mindenki egyetért",
+                "response": "Az a környező közeg, amely egy gyakorlat konkrét előfeltevéseit szolgáltatja, és amelyet a művelők maguk idéznek úgy, mint ami szolgáltatja őket, a szellemtörténetben szokásos mércéje egy oksági állításnak. Az ellenvetésnek igaza van abban, hogy ez gyengébb a tagadó megállapításnál — ezért is szerepel variánsként, és nem a fenti lezárt magként."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A határ nem két tárgyterületről tett felfedezés; vonal, amelyet ott húztak meg, ahol a harc abbamaradt. A vallások állításokat tettek a Föld koráról, a fajok eredetéről, a betegségek okairól és az ima hatékonyságáról, és mindegyiket azután adták át a tapasztalati oldalnak, hogy elvesztették, nem előtte. Az egymást követő visszavonulásokkal kialakult munkamegosztás, amelyben az egyik fél folyton újrahúzza a saját határát, vereség leírása, nem elv.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "A keresztény hit központi tanítása nem mozdult, és amit átadtak, az többnyire olyan olvasat volt, amelyet a hagyomány saját tudósai jóval bármely tudományos eredmény érkezése előtt vitattak — Ágoston az ötödik században óvott attól, hogy a Szentírást egy kozmológiához kössék. Egy tanítást megkülönböztetni a róla szóló közkeletű olvasattól nem visszavonulás; ez minden értelmező hagyomány szokásos munkája, és minden tudományág elvégzi. A tudománynak megvan a maga változata ugyanerre a megkülönböztetésre: a [[módszertani naturalizmus]] arról szóló szabály, mi számít tudományos magyarázatnak, nem megállapítás arról, mi létezik, és a másodikként olvasni ugyanaz a kategóriatévesztés, csak a másik irányban."
+          }
+        },
+        {
+          "id": "practitioners",
+          "claim": "A módszerek összeférhetetlensége megmutatkozna azokban, akik a módszereket végrehajtják, és nem mutatkozik meg.",
+          "explanation": "A másik oldal állítása nem hitekről szól, hanem eljárásokról: hogy a kettőt nem tudja együtt tartani senki, aki mindkettőt érti. Ennek az állításnak van megfigyelhető következménye.\n\nA legnagyobb rendszeres felmérés arról, mit gondolnak ténylegesen az élvonalbeli amerikai egyetemek kutatói, azt találta, hogy csaknem felük megnevez egy vallási hagyományt, további egyötödük pedig szellemi beállítottságúnak mondja magát — és a beszédesebb megállapítás az, hogy semmi nem utal arra, hogy a vallásos kutatók rosszabb tudományt művelnének, kerülnék az egyes területeket, vagy átélnék azt a feszültséget, amelyet a konfliktuskép szerint át kellene élniük. Éppen az a népesség számol be belőle a legkevesebbet, amelyik a leginkább ki van téve az állítólagos ellentmondásnak.\n\nA következtetés szerény. Nem mutatja meg, hogy a kettő filozófiailag összefér; az emberek folyton tartanak összeférhetetlen dolgokat. Azt mutatja meg, hogy az összeférhetetlenség, ha valódi, láthatatlan azon a ponton, ahol kárt okozna — márpedig ezt a tényt minden róla szóló elképzelésnek magyaráznia kell.",
+          "quote": {
+            "text": "Ecklund megállapítása — csaknem 1700 élvonalbeli amerikai egyetemi kutató felméréséből és 275 utánkövető interjúból — az, hogy éppen kevesebb mint felük nevez meg vallási hagyományt, további egyötödük pedig szellemi beállítottságúnak mondja magát, és hogy a vallással konfliktusban álló kutatók közkeletű képe félreírja azt, amiről ők beszámolnak.",
+            "author": "Elaine Howard Ecklund",
+            "work": "Science vs. Religion: What Scientists Really Think",
+            "year": "2010",
+            "locator": "a vizsgálat fő megállapításainak saját összefoglalásunk, ahogyan a kiadó oldala és a bírálói megfogalmazzák; nem Ecklund szövege",
+            "sourceUrl": "https://global.oup.com/academic/product/science-vs-religion-9780195392982",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Ecklund's finding, from a survey of nearly 1,700 scientists at elite American universities with 275 follow-up interviews, is that just under half identify with a religious tradition and a further fifth describe themselves as spiritual, and that the popular picture of scientists in conflict with religion misdescribes what they report.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A rekeszekre osztás jól dokumentált emberi képesség, és nem bizonyítéka a következetességnek. Az emberek minden területen kényelmesen tartanak egymásnak ellentmondó hiteket, és a felmérés azt mutatja, hogy a kutatók is — vagyis éppen azt, amit az érv előre jelez, nem azt, amit tagad. A megállapítás ráadásul olyan népességről szól, amelyet szakmai sikerre szelektáltak olyan intézményekben, ahol erős normák szabályozzák, miről beszél az ember a munkahelyén, és a jelentett vallásosság erősen a liberális hagyományok felé billen, amelyek a feszültségben álló állításokat már eleve feladták.",
+            "objectionFrom": "atheist",
+            "response": "A rekeszekre osztás valódi jelenség, és egyben az a válasz, amely ellenőrizhetetlenné teszi az állítást: minden vallásos kutató rekeszekre oszt, tehát semmilyen megfigyelés nem szólhat ellene. Ha az összeférhetetlenség soha nem bukkan fel azoknak a gyakorlatában, akik mindkettőt végzik, akkor tételek közötti logikai viszonyokról szóló állítás — ez pedig kisebb állítás annál, hogy „háborúban állnak”."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ugyanazok a kérdések, összeférhetetlen eszközök, és határ, amely mindig csak egy irányba mozdult",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "different-methods",
+          "claim": "A kettő olyan eljárásokkal dönt el kérdéseket, amelyek ellentétes választ adnak arra, mit tegyünk, ha tévedünk.",
+          "explanation": "Az összeférhetetlenség nem a tárgyról szól, és éppen az teszi hihetővé a fegyverszünetet, hogy így keretezik. Arról szól, mi számít indoknak.\n\nA tudománynak van eljárása a tévedésre. Az állításokat ideiglenesen tartja, megfigyeléssel veti össze, és elveti, ha a megfigyelés máshová mutat; a kontrollok, a megismétlés és a lektorálás egész apparátusa azért van, hogy az elvetés az állítást tevő akarata ellenére is lehetséges legyen. A kinyilatkoztatás szerkezete fordított: a központi állítások előre rögzítettek, az értelmezés igazodik, és nincs olyan megfigyelés, amelynek bekövetkezését cáfolatként fogadnák el.\n\nKét vállalkozás megoszthat egy szobát, és ebben az értelemben mégis összeférhetetlen lehet, mert az összeférhetetlenség a normákban van, nem a témákban. A normák pedig valóban különböző válaszokat adnak a fajok eredetéről, a világegyetem kezdetéről és egy nép történetéről — és innen tudjuk, hogy nem szorítkoznak külön kérdésekre.",
+          "quote": {
+            "text": "Az állításom ez: a tudomány és a vallás összeférhetetlen, mert más módszerekkel jutnak a valóságról szóló tudáshoz, másképp mérik fel e tudás megbízhatóságát, és végül egymásnak ellentmondó következtetésekre jutnak a világegyetemről.",
+            "author": "Jerry A. Coyne",
+            "work": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+            "year": "2015",
+            "locator": "pp. 83-84",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "My claim is this: science and religion are incompatible because they have different methods for getting knowledge about reality, have different ways of assessing the reliability of that knowledge, and, in the end, arrive at conflicting conclusions about the universe.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "god-is-a-hypothesis",
+              "label": "A központi állítás maga is empirikus",
+              "heldBy": "Richard Dawkins",
+              "oneLine": "Hogy létezik-e teremtő értelem, arról szóló kérdés, mi van a világegyetemben — és ez a tudomány dolgává teszi, bármiben egyezett is meg bárki.",
+              "summary": "Ez az álláspont nem amellett érvel, hogy két módszer ütközik. Azt tagadja, hogy két kérdés volna.\n\nEgy értelem által alkotott és felügyelt világegyetem más világegyetem, mint amelyik nem az, és az ilyen különbségeknek valahol van következményük: az élet szövetében, az imákra adott válaszokban, azoknak a csodatörténeteknek a történetiségében, amelyeken a hagyományok nyugszanak. E szerint a fegyverszünet csak azért marad fenn, mert a vallási állítást előbb csendben kiürítették tartalmától — és a hívők nem úgy gondolják, hogy kiürítenék, amikor imádkoznak.\n\nAz érv érdeme, hogy névértéken veszi a vallás állításait, és maguk a hívők is rendszeresen megteszik, amikor a bizonyíték kedvezőnek látszik.",
+              "quote": {
+                "text": "Egy teremtő szuperértelem jelenléte vagy hiánya egyértelműen tudományos kérdés, még ha a gyakorlatban — vagy legalábbis egyelőre — nincs is eldöntve. És ugyanígy tudományos kérdés minden egyes olyan csodatörténet igaz vagy hamis volta, amelyre a vallások támaszkodnak, hogy lenyűgözzék a hívők sokaságát.",
+                "author": "Richard Dawkins",
+                "work": "The God Delusion",
+                "year": "2006",
+                "locator": "a nem átfedő magisztériumok ellen érvelő fejezet",
+                "sourceUrl": "https://www.goodreads.com/work/quotes/3044365-the-god-delusion",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The presence or absence of a creative super-intelligence is unequivocally a scientific question, even if it is not in practice — or not yet — a decided one. So also is the truth or falsehood of every one of the miracle stories that religions rely upon to impress multitudes of the faithful.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti válasz szerint a két vállalkozás különböző kérdésekre válaszol, tehát mindegyikhez más normák illenek. Ez az álláspont nem a következtetést tagadja, hanem az előzményt: egyetlen kérdés van, arról, mi létezik. A kérdések felosztására épített ellenvetés nem irányítható olyan álláspont ellen, amely a felosztást elutasítja.",
+              "objection": {
+                "text": "Egy föltevés attól érdemli ki a nevet, hogy különbségtévő előrejelzéseket tesz, ez pedig egyet sem tesz, amelyet a képviselője előállított volna. Milyen kísérlet különbözteti meg azt a világegyetemet, amelyet egy Isten alkotott, aki úgy döntött, másodlagos okokon keresztül munkálkodik, attól, amelyikben nincs Isten? Válasz híján az az állítás, hogy tudományos kérdés, jelszó, és az álláspont oda jut, hogy a tudománynak illetékessége van egy olyan ügyben, amelyre nincs eljárása.",
+                "from": "theist",
+                "response": "Születtek előrejelzések, és megbuktak — ez egy föltevés szokásos sorsa: a közbenjáró imáról szóló vizsgálatok, a bakteriális ostorra és a szemre vonatkozó konkrét tervezettségi állítások, a világméretű özönvíz történetisége. Az, hogy a föltevés fennmaradt változata nem tesz előrejelzéseket, arról szóló megfigyelés, mennyit vontak már vissza belőle."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Az ellentétet a tudomány legjobb és a vallás legrosszabb formája között vonják meg, és fordítva megvonva nem marad meg. A tudományterületek évtizedekig rögzítve tartják központi elkötelezettségeiket, és a perifériát igazítják; így működnek a kutatási programok, és a tudományfilozófia hatvan éve leírta ezt. A teológia is felülvizsgál, és bizonyítékok és érvek nyomására elvetett álláspontokat — geocentrizmus, monogenizmus, fiatal Föld —, aminek a kimondott kritérium szerint lehetetlennek kellene lennie.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Az a kutatási program, amely abbahagyja az előrehaladást, elhagyatik, és a művelői előre megegyeznek abban, hogyan nézne ki az előrehaladás. A teológiában semmi nem tölti be ezt a szerepet: az idézett felülvizsgálatokat mind kívülről kényszerítették ki, nemzedékek alatt, és egyik sem olyan próba eredménye volt, amelyet a hagyomány maga javasolt."
+          }
+        },
+        {
+          "id": "one-way-ratchet",
+          "claim": "A területet négy évszázada egy irányban osztják újra, és mindig a vereség után.",
+          "explanation": "Olyan állítások, amelyeket egykor a világról szóló egyszerű kijelentésként vallottak, egymás után más fajta kijelentéssé váltak. A hat nap, az özönvíz, az első emberpár, a fajok állandósága, a betegség mint csapás, a Nap mozgása: mindegyiket szó szerint tanították, szó szerint védték, majd képesként értelmezték újra — minden esetben azután, hogy a tapasztalati kérdés az ellenkező irányban eldőlt, és soha nem előtte.\n\nAz ilyen alakú folyamat nem munkamegosztás. Ha a tartományok közötti határ valódi volna, előre látszott volna, és az újraértelmezések mindkét irányban megtörténnének; olykor egy ma metaforaként olvasott állítást új bizonyíték visszaléptetne szó szerinti ténnyé. Ez egyszer sem fordult elő.\n\nA mintázat azt jelzi előre, hogy a fennmaradó vallási állítások éppen azok, amelyekre nincs próba — és egyben ezért látszik onnan, ahol most áll, olyan kényelmesnek az összeférhetőség.",
+          "quote": {
+            "text": "a teológiában visszatérő mintázat a következő: ahogyan a tudomány ágai — az evolúcióbiológia, a geológia, a történettudomány és a régészet — egymás után megcáfolták a szentírási állításokat, ezek az állítások szó szerinti igazságokból allegóriákká alakultak át",
+            "author": "Jerry A. Coyne",
+            "work": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+            "year": "2015",
+            "locator": "a szentírási állítások újraértelmezéséről",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "a recurrent pattern in theology is this: as branches of science — evolutionary biology, geology, history, and archaeology — have disproved scriptural claims one by one, those claims have morphed from literal truths into allegories",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A felsorolás közkeletű olvasatokról szól, nem tanításokról, és a Teremtés könyvének képes olvasatai régebbiek minden olyan tudománynál, amely állítólag kikényszerítette őket. Órigenész a harmadik században és Ágoston az ötödikben szövegszerű alapon érvelt a szó szerinti hatnapos teremtés ellen, úgy, hogy egyiküknek sem állt rendelkezésére geológia. A racsni valós a néphitet és a tizenkilencedik századi literalizmust illetően, amely maga is a modernitásra adott válasz volt; nem a hagyomány saját teológiájának története, amely soha nem volt annyira szó szerinti, amennyire az érvnek szüksége volna rá.",
+            "objectionFrom": "theist",
+            "response": "A korai képes olvasatok valóságosak, és kisebbségi álláspontok voltak, amelyek veszítettek; a hagyomány a története nagy részében a szó szerinti olvasatokat tanította és érvényesítette, és megfegyelmezte azokat, akik nem. Az, hogy létezett forrás az újraértelmezésre, nem változtat azon, mikor használták — és azután használták."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Honnan jöttek a mítoszok",
+      "oneLine": "A legismertebb konfliktustörténeteket a tizenkilencedik században gyártotta két amerikai szerző, akiknek intézményi vitát kellett megnyerniük, a lapos Föld történetét pedig egy regényíró találta ki.",
+      "text": "Draper History of the Conflict between Religion and Science című könyve (1874) és White A History of the Warfare of Science with Theology in Christendom című munkája (1896) annak a harcnak a kellős közepén született, hogy ki fogja irányítani az új amerikai kutatóegyetemeket. Mindkettő óriási sikert aratott, mindkettőt ma is idézik, és mindkettőt másodlagos vitairatokból állították össze, nem dokumentumokból.\n\nA lapos Föld története még különösebb eredetű. Az a kép, amelyben Kolumbusz egyházi emberekkel száll szembe, akik szerint lezuhanna a peremen, Washington Irving 1828-as életrajzából származik, amely bevallottan részben kitaláció volt. A korszakban egyetlen művelt európai sem gondolta laposnak a Földet; a tényleges vita Kolumbusszal a Föld kerületéről szólt, és az ellenfeleinek volt igazuk, nem neki.\n\nAmit ebből érdemes elvinni, nem az, hogy a vallást igazságtalanul kezelték. Hanem az, hogy egy tankönyvekben egy évszázadon át ismételt történet lehet hamis, és hogy a helyesbítés szokásos levéltári munkából jött, olyan történészektől, akiknek nem fűződött érdekük az eredményhez.\n\nEz nem vitatott megállapítás, és nem is apologetikus. A helyesbítő, bevett kézikönyvet olyan történész szerkesztette, aki hetednapi adventistaként nevelkedett, majd elhagyta a hitét, és a szerzői között hívők és nem hívők egyaránt ugyanazokból a dokumentumokból érvelnek ugyanarra a következtetésre."
+    },
+    {
+      "heading": "Galilei, röviden",
+      "oneLine": "Nem kínozták meg, nem zárták tömlöcbe, és nem ölték meg, az ügy pedig valódi ütközés volt — csak nem az, amit a mítosz leír.",
+      "text": "Galilei az elítélése utáni időt házi őrizetben, egy villában töltötte, és tovább írt; a legfontosabb könyve ott készült el. A kínvallatás fenyegetését a kor eljárása szerint formálisan ismertették vele, de nem hajtották végre. Barátja volt annak a pápának, aki elítélte.\n\nAz ütközés valódi volt, és egyszerre több dolog: vita arról, hogy a kopernikuszi modell megállapított tény-e vagy csak számítási eszköz; vita arról, kinek van tekintélye a Szentírás értelmezésére egy olyan korban, amikor ez a kérdés a reformáció sarokpontja volt; és személyes viszály, amelyet Galilei sokban maga idézett elő. Az 1633-ban rendelkezésre álló tudományos bizonyíték valójában nem döntötte el a kérdést, és azt a csillagparallaxist, amely eldöntötte volna, csak 1838-ban figyelték meg.\n\nÍgy nem alkalmas annak szemléltetésére, hogy a tudomány szembeszáll a hittel, és annak szemléltetésére sem, hogy az egyház észszerű volt. Egy intézmény volt, amely hatalommal bírt a hallgatás kikényszerítésére, és élt is vele, olyan ügyben, ahol a tudomány eldöntetlen volt, a hivatkozott tekintély gyakorlása pedig nem az intézményre tartozott."
+    }
+  ],
+  "whereItStands": "A történeti kérdés évtizedekkel ezelőtt lezárult, és a közbeszéd ezt nem vette észre — ezért zajlik a témáról szóló nyilvános vita nagy része olyan szinten, amelyet egyik oldal szakértői sem foglalnak el.\n\nAz élő kérdés is elmozdult, méghozzá szokatlan módon: világosabb lett anélkül, hogy közelebb került volna a megoldáshoz. Mindkét oldal egyetért abban, miben nem értenek egyet — a hit mint hitalkotási mód státusában —, és mindkettő felhagyott azokkal az érvekkel, amelyek valójában másról szóltak. Az összeférhetőség hívei már nem Newton kegyességéből érvelnek; az összeférhetetlenség hívei már nem az inkvizícióból.\n\nAmit egyik oldal sem állított elő, az a döntő érvelés. Arra az állításra, hogy a tartományok elkülönülnek, soha nem született elvi megfogalmazása annak, hol fut a határ, amely ne lett volna kitéve a racsni-ellenvetésnek, és Gould saját változatát mindkét irányból pontosan ezen az alapon bírálták. Arra az állításra, hogy a módszerek összeférhetetlenek, soha nem született olyan leírás arról, mit kellene tennie egy vallási állításnak ahhoz, hogy felülvizsgálhatónak számítson, amelyet a teológusok méltányosnak ismernének el.\n\nAz állás tehát stabil nézeteltérés, alatta lezárt történelemmel — szokatlan alakzat, és érdemes nevén nevezni.",
+  "commonMistake": "A keresztények leggyakrabban úgy kezelik a [[konfliktustézis]] összeomlását, mintha eldöntené a jelenbeli kérdést. Nem dönti el. Abban, hogy a viktoriánus történetírás propaganda volt, ezen az oldalon mindenki egyetért, és pontosan ott hagyja a módszerről szóló vitát, ahol volt.\n\nAz ateisták leggyakrabban Galileit, Brunót vagy a lapos Földet idézik, és minden ilyen idézet többe kerül, mint amennyit hoz: a tények részleteikben ellenük szólnak, a helyesbítés könnyen megtalálható, és az az érvelés, amely egy megcáfolt történettel nyit, felkínálja a hallgatóságnak, hogy a többit is leértékelje.\n\nMindkét oldal visszaél Goulddal. Az összeférhetőség hívei úgy idézik a nem átfedő magisztériumokat, mintha megállapítás volna, nem javaslat, méghozzá olyan javaslat, amelyet sok vallási gondolkodó elutasít, mert feladja azt az állítást, hogy Isten tett bármit. Az összeférhetetlenség hívei úgy idézik, mint a cáfolandó álláspontot, holott kisebbségi nézet, amelyet azok közül is a legtöbben, akikkel vitáznak, szintén nem vallanak.",
+  "sources": [
+    {
+      "title": "Galileo Goes to Jail and Other Myths about Science and Religion",
+      "author": "Ronald L. Numbers (editor)",
+      "year": "2009",
+      "url": "https://books.google.com/books/about/Galileo_Goes_to_Jail_and_Other_Myths_abo.html?id=_Wj-ruvGFvgC",
+      "note": "Huszonöt mítosz, mindegyiket egy-egy szakértő szedi szét. A fenti lezárt mag bevett hivatkozása."
+    },
+    {
+      "title": "Nonoverlapping Magisteria",
+      "author": "Stephen Jay Gould",
+      "year": "1997",
+      "url": "https://www.naturalhistorymag.com/picks-from-the-past/13430/nonoverlapping-magisteria",
+      "note": "Az eredeti esszé, ingyen és röviden. A könyvnyi változat 1999-ben követte."
+    },
+    {
+      "title": "Science and the Modern World",
+      "author": "Alfred North Whitehead",
+      "year": "1925",
+      "url": "https://www.gutenberg.org/files/68611/68611-h/68611-h.htm",
+      "note": "Ingyenes és teljes. A középkori teológiáról szóló érvelés a modern tudomány eredetéről szóló fejezetben van."
+    },
+    {
+      "title": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+      "author": "Jerry A. Coyne",
+      "year": "2015",
+      "url": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+      "note": "Nem a szövegre, hanem idézetgyűjtő oldalra hivatkozunk: az oldal mindkét idézete másodkézből származik."
+    },
+    {
+      "title": "Science vs. Religion: What Scientists Really Think",
+      "author": "Elaine Howard Ecklund",
+      "year": "2010",
+      "url": "https://global.oup.com/academic/product/science-vs-religion-9780195392982",
+      "note": "A második érv mögötti felmérés. Ecklund saját következtetése az, hogy a közkeletű konfliktuskép mindkét oldalt félreírja."
+    }
+  ]
+}
