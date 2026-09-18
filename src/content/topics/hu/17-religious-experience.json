@@ -1,0 +1,261 @@
+{
+  "id": "religious-experience",
+  "number": 17,
+  "slug": "bizonyitek-e-a-vallasi-elmeny",
+  "title": "Bizonyíték-e a vallási élmény?",
+  "category": "faith-and-society",
+  "status": "open",
+  "realQuestion": "Egyik oldalon sem vitatja senki, hogy az élmények megtörténnek, és azt sem, hogy fontosak azoknak, akik átélik őket. Nem ott van a nézeteltérés.\n\nA nézeteltérés egyetlen lépésről szól. Történik valami — jelenlét érzése, elsöprő bizonyosság arról, hogy szeretve vagyunk, az én és minden más közötti határ feloldódása —, és ezt utána Istennel való találkozásként írják le. A történés és a leírás két dolog, és az egész kérdés az, hogy a másodikat megalapozza-e az első.\n\nA kérdés használható formája tehát nem az, hogy „vannak-e az embereknek vallási élményeik”, hanem az, hogy „ad-e bárkinek okot bármit hinni a világról az, hogy volt ilyen élménye”. És ez tovább hasad: okot annak, akinek az élménye volt, vagy okot mindannyiunknak. A kettő sokkal messzebb esik egymástól, mint azt bármelyik oldal be szokta ismerni, és a tárgy legpontosabb írója az egyiket vallotta, a másikat tagadta.",
+  "distinctions": [
+    {
+      "label": "Megtörténnek-e az élmények?",
+      "gloss": "Egyik irányban sem vitatott. Mindkét oldal elfogadja, hogy a beszámolók őszinték, széles körűek és gyakran átalakítóak. Az az érv, amely ennek kétségbevonásával kezd, senkivel sem vitatkozik.",
+      "activeHere": false
+    },
+    {
+      "label": "Bizonyíték-e az élmény annak, aki átélte?",
+      "gloss": "Élő kérdés, és a kettő közül a sokkal könnyebb. Mindkét oldalon vannak, akik igennel felelnek rá, köztük olyanok is, akik a következő kérdésre nemmel.",
+      "activeHere": true
+    },
+    {
+      "label": "Bizonyíték-e bárki másnak?",
+      "gloss": "Élő kérdés, és a nehezebb. Itt zajlik valójában a vita a keresztellenőrzésről, az ellentmondó tartalomról és a reprodukálható okokról.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hiszékenységi elv",
+      "definition": "Swinburne szabálya, amely szerint különös kétely híján a dolgok valószínűleg olyanok, amilyennek látszanak. Általános szabály az észlelésről, nem a vallás kedvéért kitalált szabály."
+    },
+    {
+      "term": "hitalkotó gyakorlat",
+      "definition": "Alston kifejezése a hitek kialakításának társadalmilag bevett módjaira — érzékelés, emlékezet, észbeli belátás —, amelyek mindegyikének megvan a maga bemenete, kimenete és belső ellenőrzése."
+    },
+    {
+      "term": "noetikus",
+      "definition": "William James szava arra a tulajdonságra, amellyel a misztikus állapotok mintha tudást adnának, nem pusztán érzést: az alany azzal a meggyőződéssel jön ki belőlük, hogy megtudott valamit, nem csak érzett valamit."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Bizonyíték, és külön szabály kellene hozzá, hogy kivételt tegyünk vele",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "seemings-count",
+          "claim": "Mindaz, amit bárki hisz, azon nyugszik, hogy a látszatokat névértéken vesszük; a vallás nem kap saját kivételt.",
+          "explanation": "Az a hit, hogy szék van a szobában, azon nyugszik, hogy annak látszik. Ugyanígy a más elmékbe, a múltba és egy kísérlet eredményébe vetett hit is. A szabály, amely mindezt engedélyezi, az, hogy különös kétely híján ami úgy látszik, az valószínűleg úgy is van.\n\nA [[hiszékenységi elv]] nem a vallási állítások védelmére kitalált szabály. Ez az a szabály, amelyet minden ismeretelméletnek el kell fogadnia, hogy egyáltalán elinduljon, és nincs benne kikötés arról, milyen fajta dolog észlelhető. Egy Istennel való találkozásról szóló beszámolásra alkalmazva első látásra vett igazolást ad — megdönthetőt, gyengét és valódit.\n\nAz érv tehát a következetességről szól, nem Istenről. Aki az elvet mindenütt elfogadja, és pontosan itt függeszti fel, annak olyan okot kell adnia a felfüggesztésre, amely nem merül ki abban, hogy már eleve tudja: nincs ott semmi.",
+          "quote": {
+            "text": "az észszerűség elve, hogy (különös megfontolások híján) ha egy alany számára (ismeretelméletileg) úgy tűnik, hogy x jelen van, akkor x valószínűleg jelen is van; amit valaki észlelni vél, az valószínűleg így is van",
+            "author": "Richard Swinburne",
+            "work": "The Existence of God",
+            "year": "1979, revised 2004",
+            "locator": "a hiszékenységi elv kimondása; a megfogalmazás az, amelyet a szakirodalom idéz, és amely az átdolgozott kiadásra hivatkozik",
+            "sourceUrl": "https://global.oup.com/academic/product/the-existence-of-god-9780199271672",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "it is a principle of rationality that (in the absence of special considerations) if it seems (epistemically) to a subject that x is present, then probably x is present; what one seems to perceive is probably so",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "authoritative-for-the-subject",
+              "label": "Mérvadó annak, aki átélte, és senki másnak",
+              "heldBy": "William James",
+              "oneLine": "Az élmény észszerűen kényszerítheti azt, akivel megtörténik, anélkül hogy a legcsekélyebb kötelezettséget teremtené annak, aki csak hall róla.",
+              "summary": "Jamesre általában az hivatkozik, aki éppen idézi, ő pedig mindkét felet ugyanabban a bekezdésben mondta ki.\n\nAz első fele: egy jól kifejlett misztikus állapot [[noetikus]], és aki átélt egyet, azt nem lehet kibeszélni belőle olyasvalakinek, aki nem élt át — és nem is kellene, éppúgy, ahogy egy látó embernek sem kellene a színekről a vakokra hallgatnia. Számára az élmény alapvető és észszerűen mérvadó.\n\nA második fele: semmilyen tekintély nem terjed kifelé. Mi többiek jogosultak vagyunk beszámolóként kezelni a beszámolót, mérlegelni mindazzal szemben, amit tudunk, és nemet mondani. E szerint a vallási élményből vett érv nyilvános értelemben nem is érv; annak leírása, mi történik valakinek a saját hitszerkezetével.",
+              "quote": {
+                "text": "A misztikus állapotok, ha jól kifejlettek, rendszerint teljes mértékben mérvadók azok számára, akikhez érkeznek, és joguk is van ahhoz, hogy azok legyenek. Semmilyen olyan tekintély nem árad belőlük, amely kötelességévé tenné a rajtuk kívül állóknak, hogy kritikátlanul elfogadják a kinyilatkoztatásaikat.",
+                "author": "William James",
+                "work": "The Varieties of Religious Experience",
+                "year": "1902",
+                "locator": "XVI–XVII. előadás, „Mysticism”, a következtetései összefoglalásában",
+                "sourceUrl": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Mystical states, when well developed, usually are, and have the right to be, absolutely authoritative over the individuals to whom they come. No authority emanates from them which should make it a duty for those who stand outside of them to accept their revelations uncritically.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés szerint a látszatok hagyományonként ellentmondanak egymásnak, tehát az az elv, amely mindet engedélyezi, ellentmondásokat engedélyez. Ez az álláspont elismeri, hogy ellentmondanak, és a nyilvános következtetést teljesen elhárítja: tekintélyt csak egyetlen életen belül állít. Két ember élményének ütközése nem gond egy olyan nézetnek, amely szerint egyikük sem köteles meggyőzni a másikat.",
+              "objection": {
+                "text": "Akkor viszont ennek az oldalnak a kérdésére a válasz: nem. A „bizonyíték” olyasmit jelent, ami másoknak okot ad a véleményük megváltoztatására; az az állapot, amely csak az alanya számára mérvadó, és senki másra nem ró kötelezettséget, az alanyról szóló lélektani tény, bármilyen fontos is. Az álláspont csodálatra méltóan őszinte, és megadja azt a vitát, amely alá besorolják.",
+                "from": "atheist",
+                "response": "A bizonyíték az, ami megnöveli egy állítás valószínűségét annak számára, aki birtokolja, a birtoklás pedig nem egyenlően oszlik el — a tanúnak olyan bizonyítéka van, amelyhez az esküdtszék csak a vallomásán keresztül fér hozzá. Hogy az álláspont szerényen nyilatkozik arról, meddig ér el, az a pontos beszámolás jellemzője, nem engedmény."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A látszatok ellentmondanak egymásnak, és az ellentmondás pontosan az a különös megfontolás, amelyre az elv kivételt tesz. A karmeliták Krisztussal találkoznak; a hinduk Krisnával; a buddhisták egyáltalán semmilyen személyes istenséggel, és ezt tartják a legmélyebb felismerésnek. A hétköznapi észlelésben az ellentmondó beszámolókat úgy rendezzük, hogy visszamegyünk megnézni, műszereket használunk, megkérdezünk egy harmadikat. Itt nincs ilyen eljárás, tehát az elv az egész összeegyeztethetetlen halmazt egyszerre engedélyezi, és semmit nem von vissza.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Egy részben megértett tárgyról szóló ellentmondó beszámolók minden nehéz kutatás szokásos állapotai, és ebből általában nem arra jutunk, hogy a tárgy nincs. Az átfedés ráadásul nagyobb, mint amennyit az ellenvetés megenged: a beszámolók feltűnően egyetértenek a találkozás jellegében, és abban nem értenek egyet, hogy kivel volt — márpedig ez az a mintázat, amelyet valami valóságoshoz való korlátozott hozzáféréstől várnánk, nem a semmitől."
+          }
+        },
+        {
+          "id": "no-practice-validates-itself",
+          "claim": "Semmilyen hitalkotó mód nem igazolható anélkül, hogy használnánk, és ez nincs rosszabb helyzetben a többinél.",
+          "explanation": "Kérdezd meg, mi igazolja az érzékelésbe vetett bizalmat, és minden elérhető válasz érzékelést használ. Kérdezd meg, mi igazolja az emlékezetbe vetett bizalmat, és a bizonyíték emlékezetből származik. Kérdezd meg, mi igazolja a logikát, és az érv logikai. Ez nem szkepticizmus; ez minden alapvető [[hitalkotó gyakorlat]] szokásos helyzete.\n\nMégis folytatjuk őket, méghozzá észszerűen. A folytatás mércéje gyakorlati: a gyakorlat társadalmilag bevett, belsőleg nem kaotikus, és a kimenetei nem ütköznek a jobban bevett gyakorlatok kimeneteivel. Ennek a mércének megfelel az a keresztény gyakorlat, amely az Istennel való találkozás látszatára épít hiteket — olyan gyakorlat, amelynek hosszú története, belső megkülönböztetési szabályai és azok alkalmazására kiképzett emberek egész csoportja van.\n\nAz a követelés, hogy éppen ez az egy gyakorlat igazolja magát kívülről, amikor a többi egyik sem tudja, nem magasabb mérce. Hanem más mérce, egyetlen esetre alkalmazva.",
+          "quote": {
+            "text": "Alston érve szerint a misztikus észlelésről nem mutatható meg körkörösség nélkül, hogy megbízható, az érzékelés és az emlékezet pontosan ugyanebben a helyzetben van, és mivel ezekre észszerűen továbbra is támaszkodunk, az a gyakorlat, amely az Istennel való találkozás látszatára épít Istenről szóló hiteket, ugyanolyan feltételek mellett észszerű.",
+            "author": "William P. Alston",
+            "work": "Perceiving God: The Epistemology of Religious Experience",
+            "year": "1991",
+            "locator": "a könyv központi érvének saját összefoglalásunk, ahogyan bírálói és kommentátorai megfogalmazzák; nem Alston szövege",
+            "sourceUrl": "https://www.jstor.org/stable/10.7591/j.ctt5hh24c",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Alston's argument is that mystical perception cannot be shown to be reliable in any non-circular way, that sense perception and memory are in exactly the same position, and that since we rationally continue to rely on those, the practice of forming beliefs about God on the basis of apparent experience of God is rational on the same terms.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A párhuzam ott bukik el, ahol számít. Az érzékelés nem pusztán körkörös-de-bevett; sűrűn át van szőve belső ellenőrzésekkel — újranézel, körbejárod a tárgyat, megkérdezel valakit, műszert építesz, megjósolod, mit fogsz látni, és kideríted. Ezek az ellenőrzések teszik gyakorlattá a puszta szokás helyett, és pontosan ezek hiányoznak a misztikus észlelésből. Két gyakorlat nem attól ül egy csónakban, hogy az alapjuknál mindkettő körkörös, éppúgy, ahogy két állítás sem attól egyenértékű, hogy egyik sem bizonyítható.",
+            "objectionFrom": "atheist",
+            "response": "Vannak ellenőrzések: megkülönböztetési szabályokkal rendelkező hagyomány, az önámításról szóló, a lélektannál régebbi irodalom, közösségek, amelyek rendszeresen elutasítanak bejelentett élményeket, és az a próba, hogy mit tesz az élmény egy élettel évtizedek alatt. Gyengébbek és lassúbbak az újranézésnél, ezt megadjuk. A gyengébb ellenőrzés nem az ellenőrzés hiánya."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Az élményt átélőről szóló bizonyíték, nem arról, amit átélt",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "not-public",
+          "claim": "Az észlelést az teszi bizonyítékká, hogy ellenőrizhető, ez pedig nem az.",
+          "explanation": "Az észlelés nehéz úton szerzi meg a rangját. Ha valaki gémet jelent a folyón, vannak eljárások: menj oda és nézd meg, küldj ki valaki mást, fényképezd le, jegyezd meg, hogy márciusban ott szoktak lenni gémek, jósold meg, hogy elrepül, ha közelítenek hozzá. Az eljárások csődöt is mondhatnak, és éppen a rendelkezésre állásuk teszi az észlelési beszámolót bizonyítékká anekdota helyett.\n\nItt egyik sem áll rendelkezésre. Az élmény nem ismételhető meg kérésre, nem figyelheti meg egy második személy, nem függ össze az állítólagos okának semmilyen önállóan észlelhető állapotával, és semmi ellenőrizhetőt nem jelez előre. A tartalma nem háromszögelhető ugyanannak a forrásnak egy másik hatásával szemben, mert nincs azonosítva másik hatás.\n\nA következtetés nem az, hogy az illető hazudik, vagy hogy semmi nem történt. Hanem az, hogy egy olyan beszámoló, amelyre semmilyen keresztellenőrzés nem lehetséges, nem az a fajta dolog, amely másra átruházhatná az igazolást — márpedig ezt jelenti a „bizonyíték” abban a kérdésben, amelyet ez az oldal feltesz.",
+          "quote": {
+            "text": "a misztikus élmények nem nyilvánosak",
+            "author": "Evan Fales",
+            "work": "válasza Alstonnak, in Contemporary Debates in Philosophy of Religion",
+            "year": "2004",
+            "locator": "a keresztellenőrzésre épülő érv a misztikus észlelés ellen",
+            "sourceUrl": "https://andrewmbailey.com/wpa/AlstonFales.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "mystical experiences are not public",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "reproducible-on-demand",
+              "label": "Csakhogy megismételhető, vegyi úton",
+              "heldBy": "Roland R. Griffiths és a Johns Hopkins pszilocibin-kutatócsoportja",
+              "oneLine": "Olyan élmények, amelyeket az alanyok maguk életük legjelentősebb szellemi eseményei közé sorolnak, megbízhatóan előállíthatók kettős vak körülmények között, kimért adaggal.",
+              "summary": "Egy 2006-ban közölt kettős vak vizsgálatban pszichedelikus előzmény nélküli önkéntesek kaptak pszilocibint vagy egy hatóanyagot tartalmazó összehasonlító szert, kiegyenlített sorrendben. A pszilocibinnel töltött alkalmak a bevett mérőeszközökön teljes értékű misztikus típusú élményeket hoztak létre, és a kéthónapos utánkövetéskor az önkéntesek jelentős személyes jelentőséget és szellemi jelentőséget tulajdonítottak nekik, olyan viselkedésbeli változásokkal, amelyeket az őket ismerő emberek is megerősítettek.\n\nA megállapítás nem az, hogy az élmények hamisak. A kutatók gondosan ügyeltek rá, hogy soha ne ezt mondják, a vezető kutató pedig semmilyen vallásellenes következtetést nem vont le belőle. A megállapítás szűkebb és keményebb: a jelenség nem hitelesíti önmagát, mert menetrend szerint kiváltható olyanokban is, akik nem keresték.\n\nEz azt veszi el az érvtől, ami utoljára bizonyító munkát végzett benne — az élmény puszta minőségét, belülről való összetéveszthetetlenségét.",
+              "quote": {
+                "text": "Támogató körülmények között beadva a pszilocibin a spontán módon fellépő misztikus élményekhez hasonló élményeket váltott ki.",
+                "author": "R. R. Griffiths, W. A. Richards, U. McCann and R. Jesse",
+                "work": "Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance, Psychopharmacology 187",
+                "year": "2006",
+                "locator": "az összefoglaló következtetései",
+                "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16826400/",
+                "verification": "corroborated",
+                "sawWhat": "abstract",
+                "original": {
+                  "text": "When administered under supportive conditions, psilocybin occasioned experiences similar to spontaneously occurring mystical experiences.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti válasz szerint a hagyomány saját ellenőrzéseket kínál — megkülönböztetést, közösséget, az utána következő élet alakját. Ezek mind arra vonatkozó ellenőrzések, hogy mit jelent egy élmény, és hogyan élik meg. Ez a megállapítás arról szól, honnan jön az élmény, és semennyi utólagos megkülönböztetés nem mondja meg senkinek, hogy a kiváltó ok Isten volt-e vagy egy szerotoninreceptor — így a válasz nem ér el hozzá.",
+              "objection": {
+                "text": "Valamit ugyanazzal a leírással előállítani nem ugyanannak a dolognak az előállítása, és az a következtetés, hogy „ki tudjuk váltani”, tehát „semmi más nem váltja ki”, nyilvánvalóan érvénytelen. Egy gyógyszer, amely megbízhatóan előállítaná a saját kezünk látásának élményét, nem mutatná meg, hogy a kezek illúziók. Ha Isten létezik, és az Istennel való találkozás így valósul meg egy agyban, akkor éppen ez az, amit várnánk: hogy van olyan vegyület, amely ugyanazt a csatornát nyitja meg.",
+                "from": "theist",
+                "response": "A kéz esetében van független ellenőrzés — ránézhetsz a kézre —, és itt éppen az az érv, hogy nincs. Ahol a tárgyhoz az egyetlen hozzáférés az élmény, és az élmény a tárgy nélkül is előállítható, ott az élmény többé nem tudja megmondani, melyik eset áll fenn."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A nyilvános ellenőrzés követelése olyan mércét csempész be, amelynek a természettudományokon kívül semmi nem felel meg — és a tudományok sem mindenütt. Egy erkölcsi meggyőződést, egy esztétikai ítéletet vagy egy másik ember gyászának felismerését senki nem ellenőrzi keresztbe, és nem jutunk arra, hogy ezek semmiről nem számolnak be. Az a kritérium, amely a vallási élménnyel együtt kizárja azt is, amit az emberek nagyrészt tudnak, túl erős ahhoz, hogy a helyes kritérium legyen.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Az erkölcsi és esztétikai ítéleteket általában nem egy tárgy létezése melletti bizonyítékként ajánlják fel — itt pedig ez a feladat. Ahol mégis — amikor azt állítjuk, hogy egy bizonyos tett megtörtént —, ott igenis ellenőrzést követelünk, és kapunk is."
+          }
+        },
+        {
+          "id": "no-unmediated-experience",
+          "claim": "A tartalom már a hagyomány által formálva érkezik, tehát nem lehet a hagyomány független megerősítése.",
+          "explanation": "A beszámolók nem nyersen érkeznek, hogy azután értelmezzék őket. A misztika tudományos kutatásának legerősebb álláspontja szerint nincs is nyers réteg: azok a fogalmak, várakozások és gyakorlatok, amelyeket valaki magával hoz, nem utólag díszítik az élményt, hanem menet közben alkotják meg. Egy húsz éven át egy bizonyos gyakorlatra kiképzett karmelitának az az élménye van, amelyet az a gyakorlat termel.\n\nA bizonyító következmény súlyos. Ha az élmény tartalma abból épül fel, amit az alany már eleve hitt, akkor az élmény nem idézhető annak megerősítéseként, amit az alany már eleve hitt. Ugyanaz az állítás jön vissza, több érzelmi erővel felszerelve — és ezért nem szokták az élmények kijavítani a hagyományt, és szinte mindig megerősítik.\n\nA lényeg nem az, hogy az élmények értéktelenek. Hanem az, hogy a tartalmuk az őket formáló hagyományokról szóló adat — ezt kutatták azok, akik ezt megállapították —, nem pedig egy mögöttük álló közös tárgyról.",
+          "quote": {
+            "text": "NINCSENEK tiszta (vagyis közvetítetlen) élmények",
+            "author": "Steven T. Katz",
+            "work": "Language, Epistemology and Mysticism, in Mysticism and Philosophical Analysis",
+            "year": "1978",
+            "locator": "a tanulmány központi tétele; Katz a zsidó misztika kutatója, aki az élményről érvel, és nem vonja le azt a következtetést, amelyet ez az oldal levon belőle",
+            "sourceUrl": "https://philosophyofreligion.org/?page_id=5769",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There are NO pure (i.e. unmediated) experiences",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A közvetítettség egyetemes, és önmagában semmit nem bizonyít. Egy fizikus ködkamra-észlelése át van itatva elmélettel, a madarász pedig fajt lát ott, ahol a gyakorlatlan szem alakot; mindkét esetben a képzés az, ami pontossá teszi az észlelést, nem az, ami kitaláltá. A fogalmak révén észlelünk egyáltalán bármit, tehát abból, hogy „az élményt fogalmak formálták”, önmagában nem következik, hogy nem volt ott semmi.",
+            "objectionFrom": "theist",
+            "response": "A fizikus képzése eredményekkel szemben ellenőrizhető, a madarásznak pedig megmutatható a madár. Ezeket nem az különbözteti meg a jelen esettől, hogy az észlelés elmélettel terhelt volt, hanem az, hogy az elmélet önállóan próbára tehető. Itt a képzés termeli az élményt, és az élmény az egyetlen bizonyíték a képzés tárgyára."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Az Isten-sisak nem volt megismételhető",
+      "oneLine": "A legismertebb idegtudományi demonstráció arról, hogy a vallási élmény laboratóriumban bekapcsolható, elbukott a független megismétlésen, és annak az oldalnak, amelyik folyton idézi, el kellene ejtenie.",
+      "text": "Az 1990-es években Michael Persinger arról számolt be, hogy a halántéklebeny gyenge mágneses ingerlése az alanyok nagy többségében érzékelt jelenlétet váltott ki. Az eredmény messze túljutott a szakirodalmon, és a népszerű vitákban ma is felhozzák annak bizonyítékaként, hogy az agy gyártja Istent.\n\nEgy Pehr Granqvist vezette független csoport megkísérelte a megismétlést, méghozzá Persinger saját laboratóriumából kölcsönzött berendezéssel, és nem kapta meg a hatást. Azt, hogy egy alany beszámol-e szokatlan élményről, a mért szuggesztibilitása jelezte előre, nem az, hogy be volt-e kapcsolva a tér — ami felvetette a további kérdést, mennyire volt jól vakosítva az eredeti kutatás.\n\nEzt érdemes különtartani a fenti érvben szereplő Johns Hopkins-i pszilocibineredményektől, amelyek egészen más természetűek: előzetesen bejelentett, kettős vak, megismételt megállapítás egy lektorált gyógyszertani folyóiratban. Az egyik eredmény kiállta a vizsgálatot, a másik nem, és ha együtt idézik őket, azzal a túlélőnek tesznek rossz szolgálatot."
+    },
+    {
+      "heading": "A vita egyetlen lépésről szól, nem az élményekről",
+      "oneLine": "Mindkét oldal elfogadja, hogy az élmények megtörténnek, és hogy átformálhatnak egy életet; a teljes vita arról szól, hogyan jutunk el onnan, hogy „ez történt velem”, odáig, hogy „és Isten volt az oka”.",
+      "text": "Ezt érdemes kimondani, mert a vita nyilvános formája szinte soha nem így néz ki. A hívők úgy védik az élmények valóságát és jelentőségét, mintha támadás alatt állnának — pedig nincsenek. A bírálók bizonyítékokat sorakoztatnak fel arról, hogy az élményeknek idegi megfelelőik vannak, mintha egy idegi megfelelő eldöntené a tulajdonítást — pedig nem dönti el: mindenkinek minden élményéhez tartozik idegi megfelelő, a valódi tárgyak pontos észleléséhez is.\n\nA két oldalt egyetlen következtetés választja el: egy történéstől egy okig. Minden más ezen az oldalon — a keresztellenőrzés, az ellentmondó tartalom, a vegyi reprodukció, minden alapvető gyakorlat körkörössége — arról szól, hogy megengedett-e ez az egyetlen lépés.\n\nHa ezt szem előtt tartjuk, az is világosabb lesz, mi számítana előrelépésnek. Sem élénkebb beszámolók, sem több agyi felvétel nem mozdítja el. Amit elmozdítana, az egy ellenőrzés: valami, amit a tulajdonítás előre jelez, az alternatíva pedig nem."
+    }
+  ],
+  "whereItStands": "A filozófiai álláspont negyven év alatt mindkét oldalon körültekintőbb lett, és szűk nézeteltérésre futott ki.\n\nMa szinte senki nem védi a nyers változatot — hogy egy élénk élmény eldönti a kérdést —, és szinte senki nem védi a nyers tagadást, hogy az élmények kórosak vagy kitaláltak. A komoly védelmezők első látásra vett igazolást állítanak, megdönthetőt és esetleg megdöntöttet, a komoly bírálók pedig azt, hogy a megdöntő tényezők valóban jelen vannak: az ellentmondó tartalom, a keresztellenőrzés hiánya, a jelenség reprodukálhatósága.\n\nAmi valóban elmozdult, az empirikus volt, nem filozófiai, és mindkét irányba mozdult. Az idegtudományi történet, amely az 1990-es években a legerősebbnek látszott, nem állta ki a próbát. A pszichedelikus kutatás, amely ugyanabban az időszakban mellékesnek látszott, kiállta, és ez a vita legjelentősebb új ténye egy nemzedék óta — nem azért, mert megmagyarázná a vallási élményt, mert nem magyarázza, hanem mert elvette az élmények egyetlen olyan vonását, amely önmagában bizonyító munkát végzett: belülről való összetéveszthetetlenségüket.\n\nAz alanyra vonatkozó kérdés sokkal közelebb van a lezáráshoz, mint a nyilvános. Ma egyik oldalon is nagyon kevés filozófus mondja, hogy aki átélt ilyen élményt, észszerűtlen, ha megrendül tőle.",
+  "commonMistake": "A keresztények leggyakrabban az élmény valósága mellett érvelnek, amikor az élmény valósága nem kérdéses, és úgy kezelik a másik oldal érvét, mintha a becsületesség kétségbevonása volna. Nem az. Ezen az oldalon minden komoly bíráló megadja, hogy az élmények valódiak, és hogy számítanak.\n\nAz ateisták leggyakrabban cáfolatként kezelnek egy felfedezett mechanizmust. Egy élmény idegi megfelelőjének megtalálása semmit nem mond arról, létezik-e a tárgya, mert a pontos észleléseknek is vannak idegi megfelelőik; az érvnek azt kellene állítania, hogy a mechanizmus a tárgy hiányában is működik — ez pedig további állítás, amely további bizonyítékot kíván.\n\nMindkét oldal William Jamesre hivatkozik, és mindkettő félúton áll meg a következtetésében. Ő azt mondta, hogy a misztikus állapotok joggal mérvadók annak, aki átéli őket, és semmilyen tekintéllyel nem bírnak bárki más számára. Bármelyik felét önmagában idézni félrevezetően ábrázolja őt, a két fele együtt pedig jobb összefoglalása annak, hol tart ez a vita, mint bármi, amit azóta bármelyik oldal mondott.",
+  "sources": [
+    {
+      "title": "The Varieties of Religious Experience",
+      "author": "William James",
+      "year": "1902",
+      "url": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+      "note": "Ingyenes és teljes. A XVI–XVII. előadás a misztikáról szóló fejezet, a következtetés pedig a XVII. végén."
+    },
+    {
+      "title": "Mysticism",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "year": "2022",
+      "url": "https://plato.stanford.edu/entries/mysticism/",
+      "note": "Egy helyen tárgyalja a konstruktivizmusvitát és az ismeretelméleti érveket."
+    },
+    {
+      "title": "Does Religious Experience Justify Religious Belief?",
+      "author": "William P. Alston and Evan Fales",
+      "year": "2004",
+      "url": "https://andrewmbailey.com/wpa/AlstonFales.pdf",
+      "note": "A két álláspont egymással vitázva, egyetlen fejezetben, azoktól, akik vallják őket."
+    },
+    {
+      "title": "Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance",
+      "author": "R. R. Griffiths and others",
+      "year": "2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16826400/",
+      "note": "A Johns Hopkins-i vizsgálat. A dózis-hatás összefüggésről szóló folytatás 2011-ben jelent meg."
+    },
+    {
+      "title": "God helmet",
+      "author": "Wikipedia",
+      "year": "2025",
+      "url": "https://en.wikipedia.org/wiki/God_helmet",
+      "note": "A megismétlés történetéhez hivatkozunk rá, amely ott az elsődleges hivatkozásokkal együtt dokumentált."
+    }
+  ]
+}
