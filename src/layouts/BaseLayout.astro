@@ -152,8 +152,22 @@ const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.nam
     </footer>
 
     <script>
-      // Touch devices have no hover, so a tap opens the definition instead.
+      // A definition is anchored to its term, so a term near the right edge
+      // opens a box that runs off the page. Measure on open and flip it to
+      // hang from the right instead. Pure CSS cannot do this yet without
+      // anchor positioning, which only one engine ships.
+      const placeDefinition = (term: HTMLElement) => {
+        if (window.matchMedia('(max-width: 40rem)').matches) return; // pinned sheet
+        term.removeAttribute('data-flip');
+        const box = term.querySelector<HTMLElement>('.dfn-def');
+        if (!box) return;
+        const room = document.documentElement.clientWidth - 20;
+        if (box.getBoundingClientRect().right > room) term.dataset.flip = 'left';
+      };
+
       for (const term of document.querySelectorAll<HTMLElement>('dfn')) {
+        term.addEventListener('mouseenter', () => placeDefinition(term));
+        term.addEventListener('focus', () => placeDefinition(term));
         term.addEventListener('click', (event) => {
           if (!window.matchMedia('(hover: none)').matches) return;
           event.preventDefault();
@@ -161,7 +175,10 @@ const pageTitle = title === t('site.name') ? title : `${title} — ${t('site.nam
           for (const other of document.querySelectorAll<HTMLElement>('dfn[data-open]')) {
             delete other.dataset.open;
           }
-          if (!open) term.dataset.open = 'true';
+          if (!open) {
+            term.dataset.open = 'true';
+            placeDefinition(term);
+          }
         });
       }
 

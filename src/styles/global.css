@@ -122,12 +122,23 @@ dfn {
   position: relative;
 }
 
+/*
+  The closed definition is display:none rather than visibility:hidden. Hidden
+  elements still take part in layout, and this one is absolutely positioned at
+  the dfn's left edge with a viewport-relative width, so on a 375px screen every
+  topic page scrolled sideways before anyone had touched a term.
+
+  It is also clamped so the open state cannot leave the viewport: capped to the
+  window on wide screens, and a pinned sheet on narrow ones, where there is no
+  room beside a term for a readable box anyway.
+*/
 dfn > .dfn-def {
   position: absolute;
   left: 0;
   top: calc(100% + 0.4em);
   z-index: 20;
-  width: min(22rem, 78vw);
+  width: max-content;
+  max-width: min(22rem, calc(100vw - 2.5rem));
   padding: var(--space-s) var(--space-m);
   background: var(--bg-raised);
   border: var(--hairline) solid var(--rule-strong);
@@ -137,16 +148,35 @@ dfn > .dfn-def {
   font-family: var(--font-body);
   line-height: 1.5;
   color: var(--ink-muted);
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 120ms ease;
+  display: none;
 }
 
 dfn:hover > .dfn-def,
 dfn:focus-within > .dfn-def,
 dfn[data-open='true'] > .dfn-def {
-  opacity: 1;
-  visibility: visible;
+  display: block;
+}
+
+/*
+  A term near the right edge would open a box that runs off the page: the
+  definition is anchored to the term, and the term can be most of the way
+  across. The script measures on open and sets this; without JavaScript the
+  max-width above still keeps the box inside the window's width, so the worst
+  case is a short sideways scroll rather than unreachable text.
+*/
+dfn[data-flip='left'] > .dfn-def {
+  left: auto;
+  right: 0;
+}
+
+@media (max-width: 40rem) {
+  dfn > .dfn-def {
+    position: fixed;
+    inset: auto 1.25rem 1rem;
+    top: auto;
+    width: auto;
+    max-width: none;
+  }
 }
 
 /* ---- Utilities --------------------------------------------------------- */
