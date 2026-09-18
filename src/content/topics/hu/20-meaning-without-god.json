@@ -1,0 +1,262 @@
+{
+  "id": "meaning-without-god",
+  "number": 20,
+  "slug": "lehet-e-ertelme-az-eletnek-isten-nelkul",
+  "title": "Lehet-e értelme az életnek Isten nélkül?",
+  "category": "faith-and-society",
+  "status": "interpretive",
+  "realQuestion": "A szó három munkát végez, és a vita nagyrészt abból áll, hogy különbözőkre felelnek.\n\nJelentheti azt, hogy egy élet belülről jelentősnek érződik. Jelentheti azt, hogy egy életnek van célja, amelyre rendeltetett, és amelyet beteljesíthet vagy elvéthet. És jelentheti azt, hogy egy élet számít valahogy úgy, hogy ez nem ér véget, amikor ő véget ér. Az elsőt senki nem vitatja. A harmadik az, amiről a vita általában valójában szól, és a második alatt csempészik be.\n\nAz itteni kérdés tehát nem az, hogy az ateisták élhető életnek találják-e a sajátjukat — nagyjából ugyanolyan arányban találják annak, mint bárki más —, és nem is az, hogy jogosultak-e így érezni, ami különös dolog volna bárkitől engedélyhez kötni. Hanem az, hogy amit az emberek keresnek, amikor ezt kérdezik — valamit, ami akkor is áll, ha nem döntenek mellette —, elérhető-e Isten nélkül.\n\nA címke azért értelmező, mert a nézeteltérés minden tényt túlél. Mindkét oldal ugyanazt tudja a halálról, az értékről és arról, amiről az emberek beszámolnak. Abban nem értenek egyet, hogy elég-e, ami marad — az „elég” pedig nem mérés.",
+  "distinctions": [
+    {
+      "label": "Értelmesnek élik-e meg az életüket a nem hívők?",
+      "gloss": "Nem vitás. Így élik meg, ezt mondják, és ezen az oldalon egyik érv sem tagadja. Az a keresztény, aki mást állít, valami megfigyelhetővel vitatkozik.",
+      "activeHere": false
+    },
+    {
+      "label": "Van-e egyáltalán objektív érték?",
+      "gloss": "A saját oldalán vitatjuk, nem itt, és ez az oldal erősen támaszkodik rá: az alábbi legerősebb ateista válasznak szüksége van arra, hogy legyen objektív érték, tehát aki ezt elutasítja, annak a kettőt együtt kell olvasnia.",
+      "activeHere": false
+    },
+    {
+      "label": "Elérhető-e Isten nélkül az, amit kérnek?",
+      "gloss": "Az élő kérdés, és a nehezét az adja, hogy a két oldal nem ért teljesen egyet abban, mit is kérnek. Mindkét alábbi álláspont tartalmaz erről egy leírást, és ez a leghasznosabb, amit kínálnak.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "abszurd",
+      "definition": "Camus neve arra a szakadékra, amely az ember követelése — hogy a világ legyen értelmes — és a világ hallgatása között tátong. Nem azt állítja, hogy az élet rossz, hanem az összeférhetetlenség alakjáról állít valamit."
+    },
+    {
+      "term": "teleológia",
+      "definition": "Magyarázat azzal, mire való valami. Arisztotelésznél és a középkori gondolkodásban bevett, a fizikai tudományokban elhagyott, az élőlényekről és az emberi életekről viszont ma is vitatott."
+    },
+    {
+      "term": "nihilizmus",
+      "definition": "Az a nézet, hogy semmi nem értékes. E vitában szinte senki nem vallja egyik oldalon sem — érdemes kimondani, mert mindkét oldal rendszeresen ezzel vádolja a másikat."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Ami marad, az nem értelem, hanem a hiányának kezelése",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "death-erases-it",
+          "claim": "A kérdés az, hogy túlél-e bármi a kérdező megsemmisülését, és a magunknak adott értelem nem éli túl.",
+          "explanation": "Az a válság, amelyet ez a kérdés megnevez, nem szellemi fejtörő, és akik a legjobban leírták, akkor éppen nem apologéták voltak. Annak felismeréseként érkezik, hogy mindaz, amit az ember épít, szeret és amivé lesz, törlésre van ütemezve, azzal együtt, aki értékelte, és végül mindenkivel együtt, aki emlékezhetne rá.\n\nA magunknak választott cél ezen a határon belül van. Addig tart, ameddig az, aki választotta, és tovább nem — vagyis arra, hogy „túléli-e ez a halálomat”, a válasz szerkezeténél fogva nem. Az a felelet, hogy hagyjuk abba a jövőről való kérdezősködést, nem válasz a kérdésre; tanács arról, mely kérdéseket engedjük magunkhoz.\n\nAz érv nem az, hogy a nem hívők boldogtalanok. Hanem az, hogy amit a kérdés eldöntene — valami, ami attól függetlenül áll, hogy bárki továbbra is tartja-e —, pontosan az, ami egy véges, önmagunknak adott cél nem lehet.",
+          "quote": {
+            "text": "Van-e az életemnek olyan értelme, amelyet a rám váró elkerülhetetlen halál nem semmisít meg?",
+            "author": "Leo Tolstoy",
+            "work": "A Confession (Gyónás)",
+            "year": "1882",
+            "locator": "5. fejezet, ahol kimondja a kérdést, amely csaknem megölte",
+            "sourceUrl": "https://www.marxists.org/archive/tolstoy/1882/a-confession/part-5.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Is there any meaning in my life that the inevitable death awaiting me does not destroy?",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "meaning-is-telos",
+              "label": "Az értelem az, amire egy természet való, nem az, amit bárki eldönt",
+              "heldBy": "Alasdair MacIntyre, és az arisztotelészi hagyomány, amelyet helyreállítani igyekszik",
+              "oneLine": "Az emberi életnek jellegzetes célja van, ahogyan a makknak, az értelem pedig a távolság aközött, ami valaki, és aközött, ami akkor volna, ha ezt megvalósítaná.",
+              "summary": "Ez az álláspont semmit nem mond az időtartamról, és éppen ez választja el a fenti érvtől.\n\nA régebbi elgondolás szerint egy dolog javát az rögzíti, hogy milyen fajta dolog. Egy kés attól jó kés, hogy jól vág; egy ember attól virágzik, hogy az emberre jellemző képességeit gyakorolja, azokban a gyakorlatokban és kapcsolatokban, ahol ezeknek a képességeknek értelme van. Az etika e szerint nem szabálykönyv, hanem egy átmenet leírása — attól a személytől, aki éppen valaki, addig a személyig, aki akkor volna, ha azzá lett volna, amire való.\n\nAz ilyen [[teleológia]] nem kívánja meg, hogy bárki utasítást adjon ki, és ezért nincs mibe kapaszkodnia annak az ellenvetésnek, hogy a megparancsolt cél csak valaki más előnyben részesítése. Azt kívánja meg, hogy a természeteknek legyen céljuk — és éppen ezt tagadta a modern kép, és éppen ezt akarja visszaállítani ez az álláspont.",
+              "quote": {
+                "text": "alapvető ellentét áll fenn az ember-ahogy-éppen-van és az ember-ahogy-lehetne-ha-megvalósítaná-lényegi-természetét között. Az etika az a tudomány, amely képessé teszi az embereket annak megértésére, hogyan jutnak el az előbbi állapotból az utóbbiba.",
+                "author": "Alasdair MacIntyre",
+                "work": "After Virtue",
+                "year": "1981",
+                "locator": "a klasszikus teleologikus séma ismertetése, 5. fejezet",
+                "sourceUrl": "https://www.bu.edu/cpt/?p=74",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "there is a fundamental contrast between man-as-he-happens-to-be and man-as-he-could-be-if-he-realized-his-essential-nature. Ethics is the science which is to enable men to understand how they make the transition from the former state to the latter.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés szerint az állandóság követelése téves, mert nem az időtartam tesz bármit értékessé. Ez az álláspont soha nem kér állandóságot. Az értelmet abban helyezi el, hogy egy természetnek célja van — ezt pedig egy nyolcvanéves élet teljesen megvalósíthatja —, így az az érv, hogy meddig tartanak a dolgok, elmegy mellette.",
+              "objection": {
+                "text": "A lényegi természeteket keresték, és nincsenek ott. A biológia leszármazási vonalakat, változatosságot és olyan funkciókat talált, amelyek történeti véletlenek, nem célok — a szív abban az értelemben való a vér pumpálására, hogy a vér pumpálása miatt szelektálódtak a szívek, ami a múltról szóló tény, és semmilyen utasítást nem ad arra, hogyan éljünk. A leírásnak azok a részei pedig, amelyek működnek — a belső javakkal bíró gyakorlatokról és az elbeszélés alakú életekről —, egy naturalista számára is elérhetők a metafizika nélkül, ahogyan azóta a naturalisták át is vették őket.",
+                "from": "atheist",
+                "response": "A szelekcióval kialakult funkciók nem az a fajta cél, amelyről szó van, és az ellenvetés biológiai kérdésre biológiai választ ad. Az, hogy a naturalisták kölcsönvették a gyakorlatokról szóló leírást, igaz, és éppen ez az érdekes: a kölcsönzések működnek, és arra vonatkoznak, amire az emberi lény való — amiről a naturalizmus szerint nincs tény."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A követelés az állandóságra irányul, és soha nem az állandóság tett bármit értékessé. Egy zenemű nem lesz jobb attól, hogy hosszabb, egy barátság nem lesz értéktelen attól, hogy az egyik barát meg fog halni, és egy mentés nem válik értelmetlenné attól, hogy a megmentett később valami másban hal meg. Ha az időtartam értéket adna, akkor minden értékes dolog rövidebb fele volna a rosszabbik fele — ezt senki nem hiszi. Az érv a befejezések érzetéről szóló tényt az értékről szóló felfedezésnek veszi.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "A hasonlatok mind véges dolgokról szólnak egy tovább működő világon belül, olyan emberek ítélete szerint, akik maradnak. Az állítás arról az esetről szól, ahol semmi nem folytatódik, és senki nem marad — ahol végül nincs olyan nézőpont, amelyből a mentés valaha is megérte volna. Ez nem egy szimfónia befejezésének hosszabb változata; ez az előadás és a nem-előadás közötti különbség."
+          }
+        },
+        {
+          "id": "conferred-is-not-found",
+          "claim": "Az a cél, amelyet magadnak adsz, pontosan akkora tekintéllyel bír, amekkorát adtál neki — vagyis semmivel.",
+          "explanation": "Vegyük komolyan a szokásos választ: az értelmet nem felfedezik, hanem létrehozzák, és mindenki a magáét hozza létre. Akkor az, hogy „az életemnek értelme van”, arról számol be, hogy valaki felvett vele szemben egy beállítódást. Ez felvehető, módosítható vagy elhagyható, és a felvételen kívül semmi nem teszi egyik változatát sem helyessé.\n\nNem ezt kérdezte a kérdés. Aki azon tűnődik, jelent-e bármit az élete, nem azt kérdezi, eldöntötte-e, hogy jelent; jellemzően tudja, hogy eldöntötte, és azt kérdezi, felel-e a döntés bárminek. Az a válasz, amely arra egyszerűsödik, hogy „választottál, és a választás maga az értelem”, udvariasan témát váltott.\n\nA nehézség a széleken élesedik ki. Ha az értelmet ráruházzuk, akkor az, aki a kegyetlenségre ruházza, az egyetlen elérhető mérce szerint értelmessé tette az életét — és minden kísérlet ennek kizárására olyan kritérium után nyúl, amelyről az elmélet azt mondta, nincs.",
+          "quote": {
+            "text": "Ha nincs Isten, akkor az ember és a világegyetem pusztulásra van ítélve.",
+            "author": "William Lane Craig",
+            "work": "The Absurdity of Life without God, in Reasonable Faith",
+            "year": "1994",
+            "locator": "a tanulmány kimondja a következményt, a körülötte lévő oldalakon hosszan kifejtve",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If there is no God, then man and the universe are doomed.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ugyanez a kérdés feltehető egy szinttel feljebb, és ott sem kap jobb választ. Ha egy cél attól értelmes, hogy Isten rendelte hozzá, akkor az, hogy „Isten úgy döntött, ez számít”, szintén egy döntésről szóló beszámoló, és attól, hogy valaki nagyon nagy, a döntés még nem lesz felfedezés. Vagy van a döntőtől független mérce, és akkor egy teremtmény elvben rendelet nélkül is megfelelhetne neki, vagy nincs, és akkor a teista értelmét is ráruházzák — méghozzá valaki más —, ami rosszabb, mert egy emberi életet olyan cél eszközévé tesz, amelyet nem ő választott.",
+            "objectionFrom": "within",
+            "sharedPremise": "teljes egészében elfogadja az érv saját előfeltevését — hogy egy célt nem tesz tekintélyessé az, hogy valaki döntött róla, bármilyen fontos is a döntő —, és ezt az előfeltevést fordítja rá a teista válaszra; ezt az alakot öltötte az Euthüphrón-kérdés a teológián belül a középkori, isteni akaratról szóló vita óta",
+            "response": "A dilemma azt feltételezi, hogy Isten úgy hoz döntéseket, ahogyan egy ember. A klasszikus állítás az, hogy Isten nem célt rendel hozzá, hanem ő maga az a jó, amelyre az emberi természet rendeltetett — így a mérce sem önkényes rendelet, sem Istentől független: ő maga az. Ezzel az eszközzé tétel vádja is elesik: valamire rendeltetni egy kapcsolat kedvéért nem ugyanaz, mint szerszámmá tenni."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Lehet, és ami a másik oldal kér, az nem segítene, ha megérkezne",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "subjective-meets-objective",
+          "claim": "Az értelem akkor keletkezik, amikor valakit megragad valami, ami valóban érdemes rá.",
+          "explanation": "Az értelem legjobb leírása a filozófiai szakirodalomban nem az, hogy „amit eldöntesz”, és nem is az, hogy „amit Isten mond”. Együttes feltétel, és mindkét irányban megbukhat.\n\nAz az élet, amely nagy szenvedéllyel tölt valami értéktelennel, nem értelmes; ezért szomorú eset, nem pedig példakép az, aki negyven évet szentel televíziós műsorújságok memorizálásának. Az az élet sem értelmes, amely értékes dolgot végez mindenféle bevonódás nélkül; ez a kiégett hivatalnok, aki olyan mozdulatokat ismétel, amelyek történetesen jók. Az értelem ott jelenik meg, ahol a kettő találkozik — ahol valakit valóban magával ragad valami, aminek az értéke nem függ attól, hogy őt magával ragadta-e.\n\nEz közvetlenül megválaszolja a kérdést. Egy gyermek jó felnevelésének értéke, egy segítő munkáé, azoké a dolgoké, amelyek köré az emberek ténylegesen szervezik az életüket, nem függ semmilyen rendelettől, és nem az ruházza rá, aki belefog. Ő találja meg — és a másik oldal éppen ezt mondja elérhetetlennek.",
+          "quote": {
+            "text": "az értelem akkor keletkezik, amikor a szubjektív vonzódás objektív vonzerővel találkozik",
+            "author": "Susan Wolf",
+            "work": "Meaning in Life and Why It Matters",
+            "year": "2010",
+            "locator": "saját összefoglalása az illő beteljesedés nézetéről",
+            "sourceUrl": "https://press.princeton.edu/books/paperback/9780691154503/meaning-in-life-and-why-it-matters",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "meaning arises when subjective attraction meets objective attractiveness",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "absurd-and-liveable",
+              "label": "Nincs objektív érték, és az élet mégis teljesen élhető",
+              "heldBy": "Albert Camus",
+              "oneLine": "Add meg a másik oldalnak mindent — a hallgatást, a kitörlést, minden válasz hiányát —, és a következtetés nem a kétségbeesés, hanem a fellebbezés nélkül élt élet.",
+              "summary": "Ez az álláspont többet ad meg, mint bármelyik másik ezen az oldalon, és éppen ezért nehezebb ellene érvelni.\n\nAz [[abszurd]] nem az az állítás, hogy az élet rossz. Az összeférhetetlenség egy indokokat követelő teremtmény és egy indokokat nem szolgáltató világegyetem között. Camus érve szerint a két szokásos menekülőút egyaránt kitérés: az öngyilkosság, amely az egyik tagot szünteti meg, és a hitbe vetett ugrás, amely a másikat szünteti meg azzal, hogy választ talál ki. Ami marad: mindkettőt megtartani — fenntartani a követelést és elutasítani a vigaszt —, és a belőle következő tisztánlátással élni.\n\nAttól más álláspont, nem pedig a fentinek komorabb változata, hogy egyáltalán semmilyen objektív értéket nem állít. Azt mondja, hogy egy ember egyszerre lehet teljesen elmerült, teljesen éber és teljesen illúziótlan, és hogy ez nem vigaszdíj.",
+              "quote": {
+                "text": "Maga a küzdelem a csúcsok felé elég ahhoz, hogy betöltsön egy emberi szívet. Sziszüphoszt boldognak kell elképzelnünk.",
+                "author": "Albert Camus",
+                "work": "The Myth of Sisyphus (Sziszüphosz mítosza)",
+                "year": "1942",
+                "locator": "az esszé záró sorai",
+                "sourceUrl": "https://history.hanover.edu/courses/excerpts/111camus.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés szerint az objektív érték pontosan az, amit a naturalizmus nem tud szolgáltatni, tehát a leírás a másik oldal előfeltevését kölcsönzi. Ez az álláspont semmilyen objektív értéket nem állít, és nincs is rá szüksége. Az az ellenvetés, hogy honnan jön az objektív érték, nem irányítható olyan nézet ellen, amelynek az első lépése az, hogy nincs ilyen.",
+              "objection": {
+                "text": "Akkor viszont az oldal kérdésére a válasz: nem, csak bátrabb nevet kapott. Ha semmi nem érdemes rá, és valaki mégis megteszi, az kitartás — csodálatra méltó, és nem értelem. Az álláspont a gyakorlatban instabil is: a „Sziszüphoszt boldognak kell elképzelnünk” ajánlás, az ajánlásoknak pedig alapra van szükségük — ha nincs, akkor a tisztánlátásban élés tanácsa nem áll szilárdabban, mint a kétségbeesésé.",
+                "from": "theist",
+                "response": "Az ajánlás abban gyökerezik, ami az ember, nem a világba írt értékben: tekintve az indokok iránti igényt, amely az emberekben ténylegesen megvan, a tisztánlátás az, amihez nem kell hazudni magunknak. Ez gyengébb alap egy kozmikusnál, és ez az az alap, amelyet az álláspont állít."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A leírás működik, és kölcsöntőkén működik. Az „objektív vonzerő” viseli az egész terhet — ez választja el a gyermeknevelést a kupakgyűjtéstől —, és a naturalizmusban nincs leírás arról, honnan jön ez az objektivitás. Vagy valódi világbeli vonások ezek az értékek, ami nagy metafizikai állítás, amelyet a naturalizmus nem fizetett ki, vagy széles körben osztott előnyben részesítések, és akkor az elmélet visszaomlott a szubjektív felébe, a kupakgyűjtő pedig visszatért.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Hogy az objektív érték túléli-e a naturalizmust, az e honlap másik oldalának tárgya, és itt nem adjuk meg. De az ellenvetés még akkor is kevesebbet bizonyít a kelleténél, ha nyer: ha az objektív értékhez teizmus kell, akkor abból az következik, hogy a naturalista a metafizikában téved, nem az, hogy a naturalista életének nincs értelme — e leírás szerint az érték ott volt, és válaszoltak rá, bármi legyen is végül a megalapozása."
+          }
+        },
+        {
+          "id": "permanence-is-a-red-herring",
+          "claim": "Abból, hogy később semmi nem fog számítani, nem következik, hogy most bármi kevesebbet számít.",
+          "explanation": "A hőhalálból vett érv így szól: egy elég távoli jövőben semmi, amit bárki tesz, nem fog különbséget jelenteni, tehát semmi, amit bárki tesz, nem számít. Következtetésként érvénytelen, és az érvénytelenség könnyen látható, ha egyszer kimondjuk.\n\nAmi számít, az egy időponthoz és egy lényhalmazhoz van indexelve. Az, hogy valakinek a munkáját egymillió év múlva elfelejtik, egymillió év múlvára vonatkozó tény; nem nyúl vissza, és nem változtatja meg, hogy a munka ma érdemes-e — éppúgy, ahogy attól sem lesz egy étel nem érdemes megenni, hogy meg fog emésztődni. Az érvet visszafelé futtatva látszik igazán: ha semmi nem számít most, mert akkor nem fog, akkor ugyanúgy nem számít akkor sem, hogy semmi, amit most teszünk, nem fog számítani.\n\nA mélyebb pont az, hogy a követelés elvben sem teljesíthető. Egy örökkévalóság hozzáadása nem alakít értelmetlen dolgot értelmessé; egy végtelen életnek is abból kellene vennie az értelmét, ami kitölti — vagyis ugyanaz a kérdés, csak többel.",
+          "quote": {
+            "text": "Most nem számít az, hogy egymillió év múlva semmi nem fog számítani abból, amit most teszünk.",
+            "author": "Thomas Nagel",
+            "work": "The Absurd, in The Journal of Philosophy 68",
+            "year": "1971",
+            "locator": "p. 716",
+            "sourceUrl": "https://www.jstor.org/stable/2024942",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "It does not matter now that in a million years nothing we do now will matter.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A válasz az érv rossz változatára felel. Komolyan senki nem állítja, hogy az időtartam adna értéket; az állítás a nézőpontról szól. Azt az ítéletet, hogy valami számít, valahonnan hozzák meg, és az aggály az, hogy amikor minden nézőpont eltűnt, nincs olyan perspektíva, amelyből valaha is igaz volt, hogy számított — nem az, hogy a számítás elkopott, hanem hogy soha nem volt fedezete. Nagel maga sem gondolta, hogy az abszurd feloldódna, és ezért arról írt, hogyan éljünk vele, nem arról, hogyan érveljük el.",
+            "objectionFrom": "theist",
+            "response": "A „semmilyen nézőpontból nem igaz” nem összefüggő aggály, hacsak az igazsághoz nem kell megfigyelő — márpedig ezt egyik oldalon sem hiszi senki bármi másról: attól, hogy az utolsó tanú is meghal, egy múltbeli esemény nem lesz meg nem történtté. Nagel álláspontját pedig helyesen írjuk le: szerinte az abszurd valóságos, nem katasztrófa, és a felkínált gyógymód rosszabb a betegségnél."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Három különböző kérdés egyetlen szó alatt",
+      "oneLine": "E vita nagy része abból áll, hogy az egyik oldal arra felel, „jelentősnek érződik-e az életed”, miközben a másik azt kérdezi, „áll-e bármi, amikor már nem vagy” — és egyikük sem veszi észre.",
+      "text": "Az első jelentés lélektani: belülről élhetőnek megélt élet. Mérhető, hívők és nem hívők között egyaránt magas, és ezen az oldalon egyetlen érv sem fordul rajta.\n\nA második funkcionális: cél, amely egy dolognak van, és amelyet beteljesíthet vagy elvéthet. Itt kapcsolódik össze valóban a két oldal, mert vitatott, hogy van-e ilyen egyáltalán egy emberi életnek, és ha igen, mi rögzíti.\n\nA harmadik a helyzetről szól: hogy egy élet számít-e úgy, hogy az nem függ attól, van-e a közelben bárki, aki így gondolja. Ezt keresi a legtöbb ember, amikor a kérdés hajnali háromkor érkezik, és ez az, amelyet semmilyen felderítés nem dönthet el.\n\nAz a beszélgetés, amelyben az egyik az elsőt érti, a másik a harmadikat, órákig futhat úgy, hogy egyikük sem mond semmi hamisat."
+    },
+    {
+      "heading": "Ez az oldal egy másikra támaszkodik",
+      "oneLine": "Az itteni legerősebb ateista válasz megköveteli, hogy bizonyos dolgok bárki előnyben részesítésétől függetlenül valóban érdemesek legyenek — márpedig pontosan ezt vitatja az objektív erkölcsről szóló oldal.",
+      "text": "Wolf leírásának, és minden hozzá hasonló vegyes leírásnak, két fele van. A szubjektív fele vitán felüli. Az objektív fele azt állítja, hogy bizonyos vállalkozásoknak van olyan értékük, amely nem abból ered, hogy választották őket — és ez az állítás a naturalizmusban nem ingyenes.\n\nEbből az következik, hogy az olvasó nem döntheti el ezt az oldalt önmagában. Aki úgy gondolja, hogy az objektív érték Isten nélkül is megmarad, annak az itteni ateista érvelés erősnek fog tűnni, a keresztény érvek pedig olyan kérdésre felelnek, amelyet már elintéztek. Aki úgy gondolja, hogy nem marad meg, annak a keresztény ellenvetés lesz döntő, az ateista érvelés pedig körkörös.\n\nCamus álláspontja a kivétel, és ezért van az oldalon: ez az egyetlen itteni válasz, amely semmivel nem tartozik a másik vitának. Egyben a legkevésbé vigasztaló is — lehet, hogy ez ugyanaz a tény."
+    }
+  ],
+  "whereItStands": "Itt semmi nem dőlt el, a vita mégis javult, méghozzá szokatlan módon, amelyet érdemes nevén nevezni.\n\nAz változott, hogy az értelem filozófiája önálló tárggyá vált, nem pedig hellyé, ahová az emberek azért mentek, hogy máshol levont következtetéseket megismételjenek. Nagyjából 1980 előtt a kérdést többnyire teológusok kezelték, akik állították, hogy az értelemhez Isten kell, és egzisztencialisták, akik állították, hogy nem. Azóta a munka analitikus és összehasonlító: mit állítanak, mi elégítené ki, mely leírások belsőleg következetesek. Wolf vegyes nézete ebből született, és ebből született annak sokkal világosabb megfogalmazása is, hogy mire van valójában szüksége a teista állításnak.\n\nAz eredmény az, hogy mindkét oldal kisebb és jobb állításokat tesz. Szinte senki nem érvel amellett, hogy az ateisták ne élhetnének át értelmet — pedig ez élő emlékezeten belül az apologetika alapdarabja volt. És szinte senki nem érvel amellett, hogy a kérdés álkérdés — pedig ez ugyanennyi ideig a másik oldal alapdarabja volt.\n\nAmi marad, az az elégségességről szóló nézeteltérés, és ez nem mozdul. Mindkét oldal egyetért a halál tényeiben, abban, amiről az emberek beszámolnak, és nagyrészt abban is, mik a szóba jövő leírások. Abban nem értenek egyet, hogy az az értelem, amely véget ér, az-e, amit kértek — és erre nézve nem találtak további érvet.",
+  "commonMistake": "A keresztények leggyakrabban amellett érvelnek, hogy az Isten nélküli élet elviselhetetlen volna — ez egyszerre a gyengébb és a cáfolható állítás. Az emberek elviselik, láthatóan és nagy számban, és az érv minden olyan változatát, amely azon múlik, hogy ne viselnék el, megcáfolja az, akihez intézik. A komoly érv arról szól, mit jelent a szó, nem arról, hogyan érzi magát bárki.\n\nAz ateisták leggyakrabban feloldandó zavarként kezelik a kérdést. Nem az: amit kérnek, érthető, a legtöbb ember akarja, és a tisztességes válasz az, hogy a naturalizmusban nem elérhető — nem az, hogy senkinek nem kellett volna akarnia. Annak, aki Tolsztoj állapotában van, azt felelni, hogy „rossz kérdést teszel fel”, elutasítás, nem válasz.\n\nMindkét oldal [[nihilizmussal|nihilizmus]] vádolja a másikat, és szinte senki nem vallja egyik oldalon sem. Az a keresztény, aki szerint az ateista a nihilizmus mellett kötelezte el magát, olyan következménnyel vitatkozik, amelyet az ateista tagad; az az ateista, aki szerint a keresztény értelme kölcsönzött, ugyanezt a lépést teszi fordítva. Ezen az oldalon egyikük sem visz előre szinte semmit.",
+  "sources": [
+    {
+      "title": "A Confession (Gyónás)",
+      "author": "Leo Tolstoy",
+      "year": "1882",
+      "url": "https://www.marxists.org/archive/tolstoy/1882/a-confession/part-5.html",
+      "note": "Ingyenes és rövid. Az 5. rész teszi fel a kérdést; az egész megér egy órát."
+    },
+    {
+      "title": "The Meaning of Life",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "year": "2021",
+      "url": "https://plato.stanford.edu/entries/life-meaning/",
+      "note": "Feltérképezi a szupernaturalista, az objektív naturalista és a szubjektív naturalista álláspontot — ezt a felosztást használja ez az oldal is."
+    },
+    {
+      "title": "Meaning in Life and Why It Matters",
+      "author": "Susan Wolf",
+      "year": "2010",
+      "url": "https://press.princeton.edu/books/paperback/9780691154503/meaning-in-life-and-why-it-matters",
+      "note": "Rövid, és négy bírálói válasszal együtt jelent meg. Az illő beteljesedés nézetét az első előadás fejti ki."
+    },
+    {
+      "title": "The Absurdity of Life without God",
+      "author": "William Lane Craig",
+      "year": "1994",
+      "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god",
+      "note": "A teljes tanulmány, ingyen, a saját honlapján. Ennek az oldalnak a legerősebb népszerű megfogalmazása."
+    },
+    {
+      "title": "The Absurd",
+      "author": "Thomas Nagel",
+      "year": "1971",
+      "url": "https://www.jstor.org/stable/2024942",
+      "note": "Tizenkét oldal, és azóta szinte minden, amit mindkét oldalon mondtak, innen ered."
+    }
+  ]
+}
