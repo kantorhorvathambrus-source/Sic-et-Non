@@ -52,12 +52,24 @@ runtime.
 ### Environment variables
 
 The site reads none at runtime: it is static files, and there is no key,
-token, or endpoint anywhere in it. Set exactly one, and only to keep the build
-fast:
+token, or endpoint anywhere in it. Two matter at build time:
 
 | Variable | Value | Why |
 |---|---|---|
 | `PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD` | `1` | `playwright` is a devDependency used by the checks, not by the build. Cloudflare installs devDependencies, and Playwright's postinstall otherwise downloads a Chromium build the deploy will never open. |
+| `SITE_URL` | the origin the site is served from, e.g. `https://sic-et-non.pages.dev` | Optional. Canonical URLs, hreflang, `og:url`, the sitemap and `robots.txt` all derive from it. |
+
+**You usually do not need to set `SITE_URL`.** Cloudflare Pages sets
+`CF_PAGES_URL` during its own builds and the config falls back to it, so the
+first deploy describes itself correctly before anyone knows what domain it was
+given. Set `SITE_URL` when you attach a custom domain, or when you want the
+production origin pinned rather than taken from the deployment.
+
+Getting this wrong is the one mistake that is invisible locally and poisonous
+in production — every canonical URL and the whole sitemap would point at a host
+that is not serving the page. `scripts/seo-check.mjs` fails the build if
+`robots.txt` and the sitemap end up naming different origins, which is the
+shape that mistake takes.
 
 That one is an optimisation, not a requirement — the build was verified to
 complete with no browser available at all. `pagefind` **is** a devDependency the
@@ -66,34 +78,49 @@ dependencies.
 
 ### After the first deploy
 
-Cloudflare prints the subdomain. If it is not `sic-et-non.pages.dev`, change
-`site` in `astro.config.mjs` and the `Sitemap:` line in `public/robots.txt` to
-match and push — see the warning below about why `check:seo` will not catch a
-wrong origin.
+Cloudflare prints the subdomain. Nothing needs changing: the build already took
+its origin from `CF_PAGES_URL`, so canonicals, hreflang, the sitemap and
+`robots.txt` all name the domain it was actually given. Confirm it by opening
+`/robots.txt` on the live site — the `Sitemap:` line is the origin the build
+used. Pin it with `SITE_URL` if you want it fixed rather than derived.
 
 ## Cloudflare Pages, from the command line
 
 ```
-npx wrangler pages project create sic-et-non --production-branch main
+npx wrangler pages project create sic-et-non \
+  --production-branch claude/sic-et-non-debates-fbfmxa
+SITE_URL=https://sic-et-non.pages.dev npm run build
 npx wrangler pages deploy dist --project-name sic-et-non
 ```
+
+`npx wrangler deploy` — the unified command — does **not** work here: it looks
+for a Worker entry point and fails on a Pages project that only has
+`pages_build_output_dir`. Use `wrangler pages deploy`.
+
+Building from the command line means `CF_PAGES_URL` is not set, so pass
+`SITE_URL` yourself or the build falls back to the literal in
+`astro.config.mjs`.
 
 `wrangler.toml` names the project and the output directory. Authentication is
 `wrangler login`, or `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` in the
 environment — never in the repository.
 
 The first deploy prints the subdomain, `https://sic-et-non.pages.dev` unless the
-name is taken. **If Cloudflare assigns a different subdomain, change `site` in
-`astro.config.mjs` and the `Sitemap:` line in `public/robots.txt` to match, then
-rebuild.** Both are absolute-URL sources: canonicals, hreflang, the sitemap and
-the Open Graph tags are all built from `site`, and a wrong origin there is worse
-than no deploy — `npm run check:seo` will not catch it, because every URL will
-be internally consistent and uniformly wrong.
+name is taken. **If Cloudflare assigns a different subdomain, rebuild with
+`SITE_URL` set to it and deploy again.** Canonicals, hreflang, the sitemap and
+the Open Graph tags are all built from that one value.
+
+`npm run check:seo` catches the case where `robots.txt` and the sitemap name
+different origins, which is what a half-finished domain change looks like. It
+cannot catch an origin that is wrong but consistent — if every URL says
+`example.com` and the site is served from `pages.dev`, the check sees nothing
+amiss. That one is on you to confirm against the live site.
 
 ### Connecting the real domain
 
-Add it under Pages → the project → Custom domains, then change `site` and
-`robots.txt` as above and redeploy. Keep one origin canonical: serving the same
+Add it under Pages → the project → Custom domains, then set `SITE_URL` to it as
+a build variable and redeploy — `robots.txt` is generated from the same value,
+so there is no second place to edit. Keep one origin canonical: serving the same
 pages on both `pages.dev` and the real domain without updating `site` splits the
 crawl between two hostnames.
 
