@@ -1,0 +1,33 @@
+{
+  // Cloudflare Workers with static assets. Deployed from the built output:
+  //
+  //   npm run milestone     build and check
+  //   npx wrangler deploy   upload dist/
+  //
+  // Migrated from the older Pages config (pages_build_output_dir) because the
+  // dashboard's Git-integration flow runs `wrangler deploy`, which only works
+  // with this format. There is no Worker script: this is an assets-only
+  // project, so there is deliberately no "main" field and no binding.
+  //
+  // Nothing here needs an account id: wrangler takes it from
+  // CLOUDFLARE_ACCOUNT_ID or from `wrangler login`. No secrets belong in this
+  // repository — the site has no backend and no keys.
+  "name": "sic-et-non",
+  "compatibility_date": "2026-09-18",
+  "assets": {
+    "directory": "./dist",
+
+    // Without this, an unmatched URL gets a bare 404 with no page: the default
+    // for static assets is to return 404 Not Found, not to serve 404.html.
+    // "404-page" serves the *nearest* 404.html, which is what makes the
+    // per-locale pages work — /es/nope gets dist/es/404.html, not the English
+    // one. The site builds five of these, so leaving it out would have thrown
+    // them all away in the migration.
+    "not_found_handling": "404-page",
+
+    // The default, stated rather than assumed because every canonical URL and
+    // the whole sitemap depend on which form of a path is the real one:
+    // foo.html serves at /foo, foo/index.html at /foo/.
+    "html_handling": "auto-trailing-slash"
+  }
+}

@@ -37,10 +37,27 @@ function localised404s() {
   sitemap and robots.txt all derive from it and a wrong one poisons all four.
 
   SITE_URL wins, so a custom domain is a dashboard setting rather than a commit.
-  Cloudflare Pages sets CF_PAGES_URL during its own builds, which means the very
-  first deploy is self-describing even before anyone knows what domain it got.
-  The literal is only the local-development fallback.
+  CF_PAGES_URL is kept for a build on Cloudflare Pages, which sets it. The
+  literal is the local-development fallback and nothing else.
+
+  Workers Builds injects no URL at all -- only CI, WORKERS_CI,
+  WORKERS_CI_BUILD_UUID, WORKERS_CI_COMMIT_SHA and WORKERS_CI_BRANCH -- and a
+  worker's own hostname is <name>.<account subdomain>.workers.dev, which this
+  repository cannot know. So on Workers CI the origin has to be supplied, and a
+  build that does not supply it fails here rather than shipping a site whose
+  every canonical URL points at a host that is not serving it. That mistake is
+  invisible in the output: every URL would be consistent, and uniformly wrong.
 */
+const buildingOnWorkersCI = process.env.WORKERS_CI === '1';
+if (buildingOnWorkersCI && !process.env.SITE_URL) {
+  throw new Error(
+    'SITE_URL is required when building on Workers Builds: Cloudflare injects no ' +
+      'URL variable, so the origin cannot be derived. Set SITE_URL to the origin ' +
+      'this Worker is served from (its workers.dev hostname, or your custom ' +
+      'domain) under the Worker > Settings > Variables and Secrets.',
+  );
+}
+
 const siteUrl = (
   process.env.SITE_URL ??
   process.env.CF_PAGES_URL ??
