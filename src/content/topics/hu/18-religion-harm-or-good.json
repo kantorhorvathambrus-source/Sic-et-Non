@@ -1,0 +1,265 @@
+{
+  "id": "religion-harm-or-good",
+  "number": 18,
+  "slug": "tobb-kart-okozott-e-a-vallas-mint-hasznot",
+  "title": "Több kárt okozott-e a vallás, mint hasznot?",
+  "category": "faith-and-society",
+  "status": "interpretive",
+  "realQuestion": "Ez az a téma, ahol mindkét oldal a legmagabiztosabb, és ahol a kérdés a legkevésbé van jól megfogalmazva.\n\nHárom dolgot kell rögzíteni, mielőtt bármit jelentene. Mit mérlegelünk — hiteket, intézményeket, közösségeket, vagy az emberi történelem egészét egyetlen szó alá sorolva. Mihez képest mérlegeljük — vallás nélküli világ sosem létezett, tehát az összehasonlítás egy kitalált alternatívával történik, és mindkét oldal magának hízelgőt talál ki. És hogy mi a mérce: a javak és a károk más fajtájúak, és nincs olyan eljárás, amely egy évszázadnyi kórházat olyan egységgé alakítana, amely egy pogrommal szembeállítható.\n\nMindettől még nem üres a kérdés. Az emberek valamit valóban kérdeznek, és ennek tisztességes formája szűkebb: annak alapján, amit mérni és dokumentálni tudunk, erősebb-e az az érvelés, hogy a vallás összességében romboló volt, mint az, hogy összességében építő? Mindkét oldal azt állítja itt, hogy az övé az erősebb, és mindkettő elfogadja a másik tényeinek nagy részét.",
+  "distinctions": [
+    {
+      "label": "Megtörténtek-e ezek a konkrét dolgok, és milyen léptékben?",
+      "gloss": "Nagyrészt lezárt, és nem e vita valamelyik oldala zárta le, hanem levéltári történészek. Ahol a közkeletű állítások tévesek, ott általában a túlzás irányában tévesek, mindkét irányban. Az első jegyzet fejti ki.",
+      "activeHere": false
+    },
+    {
+      "label": "Jobb vagy rosszabb szomszédok-e ma a vallásos emberek?",
+      "gloss": "Mérhető kérdés, viszonylag világos válasszal, és bizonyítékként meg is jelenik ezen az oldalon. Nem dönti el a témát, mert a téma egy évezredek óta futó főkönyvről szól, ez pedig egyetlen ország egyetlen évszázadáról szóló megállapítás.",
+      "activeHere": false
+    },
+    {
+      "label": "Pozitív vagy negatív egyenleggel zárul-e a főkönyv?",
+      "gloss": "Az élő kérdés, és az, amelyet több tény nem dönthet el, mert összemérhetetlen dolgok súlyozását kívánja, és összehasonlítást egy világgal, amely soha nem létezett.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "kontrafaktuális",
+      "definition": "Állítás arról, mi történt volna, ha a dolgok másképp alakulnak. Minden „több kárt, mint hasznot” ítélet tartalmaz egyet, és szinte soha nem mondják ki."
+    },
+    {
+      "term": "szekularizációs tézis",
+      "definition": "A huszadik század közepi társadalomtudományban bevett várakozás, hogy a modernizáció mindenütt visszaszorítja a vallást. Nyugat-Európában beigazolódott, szinte mindenütt máshol megbukott — ezért öregedtek rosszul a rá épülő érvek."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Az elszámolás meg van bundázva, és a mércét, amellyel elszámolnak, itt gyártották",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "the-standard-is-borrowed",
+          "claim": "Az az erkölcsi szókincs, amelyben a vádirat íródott, annak a terméke, amit vádolnak vele.",
+          "explanation": "A vádak: hogy a vallás elnyomta a gyengéket, lealacsonyította a nőket, védte a rabszolgaságot, kínozta a másként gondolkodókat, és eldobhatónak tekintette az embereket. Mindegyik vád, és csak azért vád, mert megelőzi egy meggyőződés arról, hogy a gyengék számítanak, hogy a személyek egyenlő értékűek, és hogy a kegyetlenség nem törvényes szórakozás.\n\nEz a meggyőződés nem emberi egyetemesség, és nem magától értetődő. Az a klasszikus világ, amelynek a helyére lépett, nem vallotta: a csecsemők kitételét nem tartotta említésre méltónak, a rabszolgaságot természetesnek, a nyilvános ölést pedig polgári szórakozásnak. Azok a történészek, akik ezt a legerősebben kifejtették, nem apologéták — a legismertebb újabb megfogalmazása olyan szerzőtől származik, aki nem hívőnek mondja magát, és a saját várakozásai ellenében jutott erre a következtetésre.\n\nAz érv nem az, hogy csak keresztények lehetnek jók. Hanem az, hogy a főkönyv mérlegeléséhez használt mércét az egyik fél gyártotta, és hogy az az ellenőrzés, amely a vádlott saját mértékegységeiben folyik, nem az a semleges eljárás, aminek mutatja magát.",
+          "quote": {
+            "text": "Erkölcsömben és etikámban megtanultam elfogadni, hogy egyáltalán nem vagyok görög vagy római, hanem alaposan és büszkén keresztény.",
+            "author": "Tom Holland",
+            "work": "Dominion: How the Christian Revolution Remade the World",
+            "year": "2019",
+            "locator": "a bevezetés, ahol leírja, hogyan gondolta meg magát; Holland nem hívőként ír",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/68279026-dominion-how-the-christian-revolution-remade-the-world",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "In my morals and ethics, I have learned to accept that I am not Greek or Roman at all, but thoroughly and proudly Christian.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "measured-not-inferred",
+              "label": "Most mérve, nem a történelemből következtetve",
+              "heldBy": "Robert D. Putnam és David E. Campbell",
+              "oneLine": "Tegyük félre a származástörténetet: a jó szomszédság szokásos mérőszámain a vallási részvétel ma is többet jelez előre belőle, és a különbség nagy.",
+              "summary": "Ez az érvelés felmérési adatokon nyugszik, nem azon, honnan erednek a mai erkölcsök.\n\nA megállapítás — az amerikai vallásosság legjelentősebb újabb vizsgálatából — az, hogy a vallásos amerikaiak többet adományoznak, világi célokra is, többet önkénteskednek, jobban részt vesznek civil szerveződésekben, és több mérőszámon jobb szomszédnak minősítik őket, méghozzá úgy, hogy a különbségek túlélik az iskolázottságra és a jövedelemre való kontrollálást.\n\nItt attól használható, hogy ellenőrizhető és mai. Nem függ attól, hogy ítéletet mondunk a keresztes hadjáratokról, nem függ semmilyen történeti származtatástól, és nem függ attól, hogy bárki hite igaz-e. Élő mérés arról, mit tesz ma a vallási részvétel a viselkedéssel egy nagy társadalomban, és egy irányba mutat.",
+              "quote": {
+                "text": "a vallásos amerikaiak valóban nagylelkűbb szomszédok és lelkiismeretesebb polgárok, mint világi társaik",
+                "author": "Robert D. Putnam and David E. Campbell",
+                "work": "American Grace: How Religion Divides and Unites Us",
+                "year": "2010",
+                "locator": "a könyv központi megállapítása a vallásról és a civil viselkedésről",
+                "sourceUrl": "http://robertdputnam.com/american-grace/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "religious Americans are, in fact, more generous neighbors and more conscientious citizens than their secular counterparts",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés történeti: hogy más hagyományok kereszténység nélkül is hasonló erkölcsi következtetésekre jutottak, tehát a származástörténet kevesebbet bizonyít, mint állítja. Az az érv az eredetről szól. Ez az álláspont az eredetről egyáltalán nem állít semmit, így az az érv, hogy honnan jöttek az értékek, pontosan ott hagyja a mérést, ahol volt.",
+              "objection": {
+                "text": "A vizsgálat saját szerzői azonosítják, mi hozza létre a hatást, és az nem a hit. Az előrejelző a gyülekezeti részvétel — hogy vannak ott barátaid, hogy megkérnek, hogy megjelensz —, és nagyjából ugyanúgy működik, bármit higgyen is a gyülekezet. Egy ugyanilyen kapcsolatsűrűségű világi egyesülettől ugyanezt az eredményt várnánk, és ahol ilyen egyesületek vannak, nagyjából így is van. A megállapítás a közösségről szól, és a vallásról szóló megállapításként vetették be.",
+                "from": "within",
+                "sharedPremise": "teljes egészében elfogadja a felmérési adatokat, elfogadja, hogy a mért különbség valódi és nagy, és ugyanezen a vizsgálaton belülről érvel amellett, hogy a szerzők által azonosított mechanizmus a hatást a gyülekezeti kötelékekbe helyezi, nem bármibe, amit hisznek",
+                "response": "Az, hogy a vallás közösségeken keresztül működik, nem annak felfedezése, hogy valami máson keresztül működik. Az ilyen sűrűségű gyülekezetek, amelyek osztályokon és nemzedékeken ívelnek át, és egy életen keresztül hetente találkoznak, nem olyan társulási forma, amelyet a világi társadalom tömegesen elő tudott volna állítani — és az a mechanizmus, amelyet senki más nem tud reprodukálni, nem levonandó a javakból."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A származástörténet nem igazolás, és a történelem zsúfoltabb annál, mint amennyit az érv megenged. A sztoikusok a rabszolgák közös emberi mivolta mellett érveltek, Asóka ediktumai évszázadokkal megelőzik a kereszténységet, az abolicionista és jogvédő mozgalmak pedig legalább annyira támaszkodtak felvilágosodás kori érvekre, mint a Szentírásra — gyakran a másik oldalt védő egyházakkal szemben. Még ha a teljes oksági történetet megadjuk is, az azt állapítja meg, honnan jött egy eszme, nem azt, hogy a mai vallói tartoznak-e bármivel annak az intézménynek, amely hordozta.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Az elszigetelt előfutárok nem ugyanaz, mint az az erkölcsi forradalom, amely megváltoztatta, mit talált említésre méltónak egy egész civilizáció — és az ellenvetés azzal, hogy keresnie kell őket, meg is adja a lényeget. Az egyházak mindkét oldalon jelenlétéről szóló megjegyzés igaz, és ennek az oldalnak a másik felén a második érv tárgya."
+          }
+        },
+        {
+          "id": "the-category-is-doing-the-work",
+          "claim": "A kérdés egyetlen, vallásnak nevezett dolgot feltételez, amelynek saját hajlamai vannak, és ez a dolog újkori találmány.",
+          "explanation": "A „több kárt okozott-e a vallás, mint hasznot” azt előfeltételezi, hogy az istenekről szóló hitek természetes fajtát alkotnak, amely elkülöníthető a politikától, a gazdaságtól és az identitástól, és amelynek saját jellegzetes viselkedése van. Ez a feltevés fiatalabb a könyvnyomtatásnál. A tizenhetedik század előtt senki nem így szabdalta a világot, és sok kultúra ma sem így.\n\nA következmény nem szóhasználati. A hagyományosan vallásinak nevezett háborúkat katolikus államok vívták protestánsokkal szövetségben hittestvéreik ellen, területért, örökösödésért és adóért, ahol a felekezet egy változó volt a több közül. Az egész korszakot a vallásháborúk korának nevezni, majd annak bizonyítékaként idézni, hogy mit tesz a vallás, azt jelenti, hogy az érv már az elnevezésben előfeltételezi a következtetését.\n\nA további állítás arról szól, mire való ez a kategória. Az emberi indítékokat veszélyes, észszerűtlen fajtára és észszerű, világi fajtára osztani nem semleges leírás; olyan lépés, amely az egyik fajta erőszakot engedélyezi, a másikat elítéli, és pontosan akkor érkezett, amikor a modern államnak szüksége volt rá.",
+          "quote": {
+            "text": "az az elképzelés, hogy a vallás az emberi élet történelmen és kultúrákon átívelő vonása, amely lényegileg különbözik az olyan „világi” vonásoktól, mint a politika és a gazdaság, és amelynek sajátosan veszélyes hajlama van az erőszak előmozdítására",
+            "author": "William T. Cavanaugh",
+            "work": "The Myth of Religious Violence: Secular Ideology and the Roots of Modern Conflict",
+            "year": "2009",
+            "locator": "a mítosz meghatározása, amelyről a könyv szól",
+            "sourceUrl": "https://global.oup.com/academic/product/the-myth-of-religious-violence-9780195385045",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "the idea that religion is a transhistorical and transcultural feature of human life, essentially distinct from 'secular' features such as politics and economics, which has a peculiarly dangerous inclination to promote violence",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A feloldás túl sokat bizonyít, és minden irányban nyugdíjazná a kérdést. Ha a „vallás” túl összefüggéstelen ahhoz, hogy mérlegeljük, akkor ahhoz is túl összefüggéstelen, hogy jóváírjuk — a kórházak, az egyetemek és az abolicionisták ugyanabba az iratmegsemmisítőbe kerülnek, mint az inkvizíciók, és velük megy az érv saját első fele is. Az a megjegyzés pedig, hogy a vallásháborúknak politikai okaik voltak, minden valaha vívott háborúra igaz; annak megállapítása, hogy az indítékok kevertek, nem mutatja meg, hogy az egyik indíték tétlen volt.",
+            "objectionFrom": "atheist",
+            "response": "Az, hogy mindkét fél megy, a helyes eredmény, és éppen ezt mondja az oldal címkéje. Az érv nem az, hogy a vallás ártatlan; hanem az, hogy a főkönyv nem összegezhető abban a formában, amelyet a kérdés megkövetel, és hogy ezt a követelést történetileg csak az egyik oldal szokta megfogalmazni."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Olyan indokot kínál, amellyel nem lehet vitatkozni, és minden álláspontról, amelyben tévedett, kívülről kellett lefeszíteni",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "beyond-correction",
+          "claim": "A jellegzetes kár nem a gonoszság, hanem a bizonyítéktól elszigetelt meggyőződés.",
+          "explanation": "Az emberek folyamatosan tesznek szörnyű dolgokat hétköznapi okokból, és a kapzsiság, a félelem vagy a törzsi gondolkodás magyarázatához semmilyen vallásleírásra nincs szükség. A sajátos hozzájárulás más és szűkebb: olyan felhatalmazás, amely nem felel az érvelésnek.\n\nEgy hétköznapi rossz indok megdönthető azzal, hogy megmutatjuk: nem működik, a költségei meghaladják a hasznát, a tények másképp állnak. A kinyilatkoztatásként tartott indokot nem így döntik meg, mert a hétköznapi regiszterből semmi nem szól hozzá. Ez nem azt állítja, hogy a hívők észszerűtlen emberek — a legtöbbjük észszerűbb a legtöbbeknél. Arról állít valamit, mi történik egy döntési eljárással, ha az egyik bemenete mentesül a felülvizsgálat alól.\n\nA hatás ott látszik, ahol egy nyilvánvalóan tisztességes ember olyasmit tesz, ami semmilyen más alapon nem volna elgondolható, és tiszta lelkiismerettel teszi, mert a felhatalmazás onnan jött, ahol nem fogadnak kérdéseket.",
+          "quote": {
+            "text": "Vallással vagy vallás nélkül a jó emberek jól viselkedhetnek, a rossz emberek pedig gonoszat tehetnek; de hogy jó emberek tegyenek gonoszat — ahhoz vallás kell.",
+            "author": "Steven Weinberg",
+            "work": "előadás a Conference on Cosmic Design konferencián, American Association for the Advancement of Science",
+            "year": "1999",
+            "locator": "az előadás zárása, a rabszolgaság vallási védelmeiről szóló rész után",
+            "sourceUrl": "https://en.wikiquote.org/wiki/Steven_Weinberg",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "With or without religion, good people can behave well and bad people can do evil; but for good people to do evil — that takes religion.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "moderation-is-not-a-firebreak",
+              "label": "A mérsékeltek a mechanizmus részei",
+              "heldBy": "Sam Harris",
+              "oneLine": "A mérsékelt vallás nem fék a szélsőségen, hanem az, ami lehetővé teszi, mert társadalmilag tiszteletre méltóan tartja a cáfolhatatlan meggyőződést.",
+              "summary": "A fenti érvre a szokásos válasz az, hogy a károkozók szélsőség, és a fősodor elhatárolódik tőlük. Ez az álláspont tagadja, hogy a megkülönböztetés segítene.\n\nE szerint a szélsőséges nem olyasmit tesz, amit a mérsékelt elvben elutasít; azt teszi következetesen, amit a mérsékelt válogatva. A mérsékelt azt a környező kultúrát adja hozzá, amelyben a hit tiszteletre méltó alap egy hitre, és amelyben valakinek a kinyilatkoztatását megkérdőjelezni társadalmi sértés. Vedd el ezt, és a szélsőségesnek nincs fedezéke; hagyd meg, és nincs belső érv azzal szemben, aki komolyabban veszi a szöveget, mint te.\n\nEz az érvelés legélesebb formája, mert egyáltalán nem szörnyűségekről szól. Arról szól, mely állításokat egyezik meg egy társadalom abban, hogy nem vizsgál meg.",
+              "quote": {
+                "text": "Bár a vallási mérséklet észszerű álláspontnak tűnhet, mindannak fényében, amit a világegyetemről megtudtunk (és nem tudtunk meg), semmilyen védőgátat nem nyújt a vallási szélsőséggel és a vallási erőszakkal szemben.",
+                "author": "Sam Harris",
+                "work": "The End of Faith: Religion, Terror, and the Future of Reason",
+                "year": "2004",
+                "locator": "a vallási mérséklet problémájáról szóló fejezet",
+                "sourceUrl": "https://www.goodreads.com/work/quotes/2399497-the-end-of-faith-religion-terror-and-the-future-of-reason",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "While moderation in religion may seem a reasonable position to stake out, in light of all that we have (and have not) learned about the universe, it offers no bulwark against religious extremism and religious violence.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés szerint világi meggyőződések nagyobb léptékben termelték ugyanezt a viselkedést — ez arról szól, mit tesznek az ideológiák általában. Ez az álláspont nem az ideológiákról szól általában. Egy meghatározott társadalmi mechanizmusról állít valamit — a megvizsgálhatatlan hit védett státusáról —, így egy világi szörnyűségre mutatni nem ér el hozzá, hacsak nem mutatható ki, hogy ugyanaz a mechanizmus működik.",
+              "objection": {
+                "text": "Jóslatot tesz, és a jóslat megbukik. Ha a mérséklet adná a fedezéket, akkor több vallási mérséklet több szélsőséget jelentene, kevesebb pedig kevesebbet. Az összehasonlítás fordítva jön ki: Európa vallásilag legmérsékeltebb társadalmaiban van a legkevesebb vallási erőszak, a mérsékelt történelmi egyházak összeomlását pedig a keményebb mozgalmak növekedése követte, nem a hanyatlásuk. A mechanizmust állítják, az általa megkívánt összefüggés pedig hiányzik.",
+                "from": "theist",
+                "response": "A jóslat arról szól, milyen érv áll rendelkezésre egy hagyományon belül, nem az országos gyilkossági rátákról, és az említett társadalmak éppen azok, ahol a vallási állítások megszűntek társadalmilag megvizsgálhatatlanok lenni — vagyis ez az a változás, amelyet az érv kér, nem ellenpélda rá."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A cáfolhatatlan meggyőződés az ideológiák tulajdonsága, nem a vallásoké, és a huszadik század olyan léptékben mutatta meg ezt, amelyet előtte semmi nem közelített meg. A marxizmus-leninizmus és a faji állam egyaránt bizonyítéktól mentes felhatalmazásokat adott, mindkettő nyilvánvalóan tisztességes embereket vitt rá arra, hogy tiszta lelkiismerettel tegyenek elgondolhatatlan dolgokat, és egyikhez sem kellett isten. Ha a mechanizmus egy hit felülvizsgálat alóli elszigetelése, akkor a vádirat egy olyan gondolkodási szokás ellen szól, amelyre a vallásnak nincs monopóliuma, és amelyet nem is ő talált fel.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Hogy a mechanizmus más üzemanyaggal is fut, azt megadjuk, és ez nem menti fel ezt az üzemanyagot. A releváns kérdés az, mely meggyőződésforrások termelik a legmegbízhatóbban az elszigetelést — és az az állítás, amelyről kifejezetten azt tartják, hogy emberi javítás fölött áll, jobban is van erre tervezve, mint az, amelyik csak véletlenül köt ki ott."
+          }
+        },
+        {
+          "id": "it-had-to-be-forced",
+          "claim": "Azokban az erkölcsi kérdésekben, amelyek ténylegesen eldőltek, általában a vesztes oldalon állt, és kívülről kellett elmozdítani.",
+          "explanation": "Vegyük azokat az erkölcsi előrelépéseket, amelyeket ma szinte mindenki előrelépésnek tart: a rabszolgaság eltörlését, a bírói kínvallatás megszüntetését, a vallási türelmet, a nők jogi egyenlőségét, a homoszexualitás dekriminalizálását, a kasztjogfosztások felszámolását. A kor nagy vallási intézményei minden egyes esetben lényegében a másik oldalon álltak, későn mozdultak, és nyomás alatt mozdultak.\n\nA szokásos válasz az, hogy a reformerek maguk is hívők voltak, és sokan azok is. Ez igaz, és ezért nem az az érv, hogy a vallásban nincsenek reformforrások. Az érv az intézményi viselkedésről szól: a források mindegyik vita mindkét oldalán rendelkezésre álltak, az intézmények választottak, és a választások mintázata nem véletlenszerű.\n\nA legvilágosabb újkori példa nem tanítás, hanem gyakorlat. Olyan intézmények, amelyek évszázadokon át tanítottak a gyermekek védelméről, a bántalmazásukról szóló bizonyítékokra úgy válaszoltak, hogy önmagukat védték — országokon és felekezeteken át, évtizedeken keresztül —, és akkor hagyták abba, amikor világi hatóságok rákényszerítették őket.",
+          "quote": {
+            "text": "Erőszakos, észszerűtlen, türelmetlen, szövetségben a rasszizmussal, a törzsi gondolkodással és a bigottsággal, a tudatlanságban érdekelt és a szabad kutatással ellenséges, a nőket megvető és a gyermekekkel szemben kényszerítő: a szervezett vallásnak sok mindent kellene a lelkiismeretén viselnie.",
+            "author": "Christopher Hitchens",
+            "work": "God Is Not Great",
+            "year": "2007",
+            "locator": "a nyitófejezet vádmegfogalmazása",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/3442838-god-is-not-great",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Violent, irrational, intolerant, allied to racism and tribalism and bigotry, invested in ignorance and hostile to free inquiry, contemptuous of women and coercive toward children: organized religion ought to have a great deal on its conscience.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A felsorolás válogatás, és a válogatás maga az érv. Ugyanezek az intézmények működtették a kórházakat, találták fel az egyetemet, őrizték meg az irodalmat, hozták létre a brit abolicionista mozgalmat és az amerikai polgárjogi mozgalmat, és adták két totalitarizmus ellenállóinak jelentős részét. Az a testület, amely minden álláspont védelmezőit és rombolóit egyaránt kiállítja, úgy viselkedik, mint az emberiség nagy léptékben megszervezett keresztmetszete — mert az is —, és az, hogy „későn és nyomás alatt változott”, minden valaha megváltozott intézményre igaz, az egyetemekre, a parlamentekre és a sajtóra is.",
+            "objectionFrom": "theist",
+            "response": "A keresztmetszetre hivatkozás bármely intézmény számára rendelkezésre álló védekezés, és összeegyeztethetetlen azzal az erkölcsi tekintélyigénnyel, amelyet ezek támasztanak. Az érv nem az, hogy a vallásos emberek rosszabbak voltak másoknál; hanem az, hogy egy olyan intézmény, amely kiváltságos hozzáférést állít az erkölcsi igazsághoz, azokban a kérdésekben, amelyeket ma osztályozni tudunk, nem teljesített az átlagnál jobban, gyakran pedig rosszabbul."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "A számok, ahol vannak számok",
+      "oneLine": "A népszerű vitákban idézett halálos áldozatszámok általában nagyságrenddel túl magasak, és a helyesbítések világi levéltári történészektől érkeztek, nem apologétáktól.",
+      "text": "A spanyol inkvizíció a legvilágosabb eset, mert a törvényszék megszállottan vezetett nyilvántartást, és ezt a nyilvántartást feldolgozták. Henry Kamen ma már bevett revíziója a maximumot mintegy háromezer kivégzésben állapítja meg három és fél évszázad alatt. A milliós számok, amelyek a népszerű vitákban ma is gyakoriak, tizenkilencedik századi vitairatokból erednek, és nincs levéltári alapjuk.\n\nA helyesbítés mindkét irányban fut, és a másik irány ugyanannyira számít. Az atlanti rabszolga-kereskedelem vallási igazolásának, a bentlakásos és ipari iskolarendszereknek, valamint a papi szexuális bántalmazásnak a léptékét évtizedeken át rendszeresen alábecsülték azok az intézmények, amelyek a nyilvántartásokat őrizték, és a valódi számok csak akkor kerültek elő, amikor külső testületek megszerezték őket.\n\nA mintázat nem azt sugallja, hogy az egyik oldal túloz, a másik nem. Hanem azt, hogy a téma számai szinte mindig attól a féltől származtak, akinek érdeke fűződött hozzájuk, és hogy ahol független levéltári munka folyt, ott jelentősen elmozdultak — olykor három nagyságrenddel lefelé, olykor fölfelé."
+    },
+    {
+      "heading": "Az összehasonlítás, amely senkinek nincs meg",
+      "oneLine": "Minden „több kárt, mint hasznot” ítélet olyan világgal hasonlít össze, amely soha nem létezett, és mindkét oldal csendben olyan változatot szállít hozzá, amely megnyeri neki.",
+      "text": "Az ateista [[kontrafaktuális]] általában olyan társadalom, amely úgy fejlődött, mint a miénk — a tudomány, a kórházak, a jogok —, csak a háborúk és az elnyomás nélkül. A keresztény általában a huszadik század ateista államai, azt véve annak, ami betölti a helyet, ha a vallást eltávolítják.\n\nMindkettő konstrukció, és egyikre sincs jogosultság. Egy olyan intézmény eltávolítása, amely két évezreden át szervezte az oktatást, a jólétet, a jogot, a művészetet és az identitást, nem hagy mindent a helyén; olyasmit hagy hátra, amit senki nem tud leírni. A szovjet és a kínai eset valódi bizonyíték arra, mit tesznek az államok, ha elnyomják a vallást — ez pedig nem ugyanaz, mint bizonyíték egy olyan társadalomról, amelynek soha nem is volt.\n\nEz az oka az oldal címkéjének. Nem az, hogy a tények nem állnak rendelkezésre — nagyon sok közülük jól megalapozott, és itt mindkét oldal elfogadja a másik tényeinek nagy részét. Hanem az, hogy az ítéletté alakításukhoz olyan súlyozás és olyan összehasonlítás kell, amelyet semmilyen bizonyíték nem szolgáltat, és az átalakítást végzők megbízhatóan arra a válaszra jutnak, amellyel indultak."
+    }
+  ],
+  "whereItStands": "Ebben a kérdésben szinte semmi nincs lezárva, és a leghasznosabb fejlemény az volt, hogy mindkét oldalon csökkent a magabiztosság azzal kapcsolatban, megválaszolható-e a feltett formájában.\n\nAz empirikus részkérdésekben volt valódi elmozdulás, méghozzá többnyire egy irányban: azok a történeti állítások, amelyeket levéltárakkal vetettek össze, kisebbnek bizonyultak a vitairat-változatnál, a vallási részvételről szóló mai társadalomtudományi megállapítások pedig a részvételre nézve pozitívnak, a hitre nézve pedig kétértelműnek. Egyik eredmény sem dönti el az oldal kérdését, és mindkettőt elfogadják a körültekintő emberek mindkét oldalon.\n\nA keretező érvek is elmozdultak. Az a [[szekularizációs tézis]], amely a huszadik században sürgetővé tette ezt a kérdést — hogy a vallás kifelé tartó maradvány, tehát az egyetlen hátralévő feladat összegezni, mibe került —, nem élte túl a világ többi részével való találkozást. A vallás kategóriájáról szóló történeti munka pedig megnehezítette, hogy a kérdés magabiztos változatát nyomtatásban feltegyék, bármit tesz is a vitákban.\n\nAmi nem mozdult, az az ítélet. Mindkét oldalnak ugyanazok a tényei vannak, jó ideje megvannak, és ellentétes következtetésre jutnak — pontosan ezt jelzi előre egy értelmező címke.",
+  "commonMistake": "A keresztények leggyakrabban az intézményeket védik, amikor a vád az intézmények ellen szól. Az a válasz, hogy a kereszténység kórházakat és abolicionistákat hozott létre, igaz, és nem válasz arra az érvre, hogy mit tett az egyház a gyermekbántalmazás bizonyítékaival az 1980-as években; egy történeti jóváírást válaszként kezelni egy dokumentált mulasztásra kitérésnek hangzik, és az is.\n\nAz ateisták leggyakrabban olyan érvet futtatnak, amely minden nagy emberi intézményt elítélne, majd az ítéletet erre az egyre jellemzőként adják elő. Az egyetemek, az államok, a hadseregek, a vállalatok és a politikai mozgalmak mind későn változtak, nyomás alatt, és előbb önmagukat védték. Ha a vád az, hogy a vallás szokatlanul rossz, akkor az összehasonlítást el kell végezni, nem feltételezni.\n\nMindkét oldal adunak használja a huszadik századot, és egyik sem jogosult rá. Az, hogy Sztálin ateista volt, azt állapítja meg, hogy az ateizmus nem akadályozza meg a tömeggyilkosságot — ezt senki nem tagadja; az, hogy az egyház megáldotta a hadseregeket, azt állapítja meg, hogy a vallás sem akadályozza meg — ezt sem tagadja senki. Egyik megfigyelés sem érv, és egy oldalnyi belőlük egy oldalnyi semmi.",
+  "sources": [
+    {
+      "title": "Dominion: How the Christian Revolution Remade the World",
+      "author": "Tom Holland",
+      "year": "2019",
+      "url": "https://www.goodreads.com/work/quotes/68279026-dominion-how-the-christian-revolution-remade-the-world",
+      "note": "Nem szövegre, hanem idézetgyűjtő oldalra hivatkozunk: az itteni érv másodkézből idézett részletekből van összefoglalva."
+    },
+    {
+      "title": "American Grace: How Religion Divides and Unites Us",
+      "author": "Robert D. Putnam and David E. Campbell",
+      "year": "2010",
+      "url": "http://robertdputnam.com/american-grace/",
+      "note": "A szerzők saját oldala. A gyülekezeti kötelékekről és nem a hitről szóló megállapítás az övék, nem egy bírálóé."
+    },
+    {
+      "title": "The Myth of Religious Violence: Secular Ideology and the Roots of Modern Conflict",
+      "author": "William T. Cavanaugh",
+      "year": "2009",
+      "url": "https://global.oup.com/academic/product/the-myth-of-religious-violence-9780195385045",
+      "note": "Az az érvelés, hogy a kategória újkori konstrukció, hosszan kifejtve és a historiográfiával együtt."
+    },
+    {
+      "title": "The End of Faith: Religion, Terror, and the Future of Reason",
+      "author": "Sam Harris",
+      "year": "2004",
+      "url": "https://www.goodreads.com/work/quotes/2399497-the-end-of-faith-religion-terror-and-the-future-of-reason",
+      "note": "Idézetgyűjtő oldalra hivatkozunk. A variáns érvét a mérsékletről szóló fejezet fejti ki."
+    },
+    {
+      "title": "The Spanish Inquisition: A Historical Revision",
+      "author": "Henry Kamen",
+      "year": "1997",
+      "url": "https://books.google.com/books/about/The_Spanish_Inquisition.html?id=G-F1y0P5DvkC",
+      "note": "A halálos áldozatszámok levéltári revíziója, olyan történésztől, akinek nincs érdekeltsége a teológiában."
+    },
+    {
+      "title": "Steven Weinberg",
+      "author": "Wikiquote",
+      "year": "1999",
+      "url": "https://en.wikiquote.org/wiki/Steven_Weinberg",
+      "note": "Az 1999-es AAAS-megjegyzés forrásolásához hivatkozunk rá; széles körben idézik, és gyakran rosszul datálják."
+    }
+  ]
+}
