@@ -363,7 +363,25 @@ const topics = defineCollection({
       // files, and two paraphrases shipped without one. Requiring it is cheap
       // and it forces the author to write the disclaimer out rather than assume
       // the level carries it.
-      const DISCLAIMER = /\bnot\b[^.]*\b(wording|words)\b|\bour\b[^.]*\b(summary|words|wording|statement|paraphrase)\b/i;
+      //
+      // The rule has to read the sentence, so it is a pattern per language, and
+      // a paraphrase must match one of them. That is deliberate: a locale whose
+      // pattern has not been registered fails the build the first time it ships
+      // a paraphrase, rather than passing because no rule could see it. The
+      // Hungarian translations arrived with the disclaimer written correctly in
+      // every one of their ten paraphrases and the English-only regex rejected
+      // all of them, which is the failure this shape prevents from recurring.
+      const DISCLAIMER_BY_LANGUAGE = {
+        en: /\bnot\b[^.]*\b(wording|words)\b|\bour\b[^.]*\b(summary|words|wording|statement|paraphrase)\b/i,
+        // "nem az ő szövege", "nem Boyd megfogalmazása", "saját összefoglalásunk",
+        // "az érv összefoglalása tőlünk", "általunk készített összefoglalása".
+        hu: /\bnem\b[^.]*\b(szövege|szavai|szava|megfogalmazása|szóhasználata)\b|\b(saját|általunk|tőlünk)\b[^.]*\b(összefoglal\p{L}*|megfogalmaz\p{L}*)\b|\bösszefoglal\p{L}*\b[^.]*\b(tőlünk|saját|általunk)\b/iu,
+        // es, fr and de carry no paraphrase yet. Adding one there fails the
+        // build until a pattern is registered here, which is the point.
+      } as const;
+      const DISCLAIMER_PATTERNS = Object.values(DISCLAIMER_BY_LANGUAGE);
+      const hasDisclaimer = (locator: string) =>
+        DISCLAIMER_PATTERNS.some((pattern) => pattern.test(locator));
       const everyQuote: {
         path: (string | number)[];
         quote: { verification: string; sawWhat: string; locator?: string; author: string };
@@ -406,10 +424,10 @@ const topics = defineCollection({
           );
         }
         if (q.verification !== 'paraphrase') continue;
-        if (!q.locator || !DISCLAIMER.test(q.locator)) {
+        if (!q.locator || !hasDisclaimer(q.locator)) {
           fail(
             path,
-            `this is a paraphrase attributed to ${q.author}, so its locator must say in words that the wording is ours and not theirs. A reader may miss the label; the source file should not be able to.`,
+            `this is a paraphrase attributed to ${q.author}, so its locator must say in words that the wording is ours and not theirs. A reader may miss the label; the source file should not be able to. If the locator says so in a language this check does not yet know, register its pattern in DISCLAIMER_BY_LANGUAGE rather than rewording the locator.`,
           );
         }
       }
