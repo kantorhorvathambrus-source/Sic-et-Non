@@ -1,0 +1,276 @@
+{
+  "id": "miracles-and-evidence",
+  "number": 15,
+  "slug": "bizonyithato-e-valaha-egy-csoda",
+  "title": "Bizonyítható-e valaha egy csoda?",
+  "category": "history-and-text",
+  "status": "open",
+  "realQuestion": "Szinte minden érv, amelyet e cím alá sorolnak, valójában három érv egyike, és más-más a válaszuk.\n\nAz első az, hogy történnek-e csodák. A második az, hogy egy adott beszámoló — a feltámadás, egy lourdes-i gyógyulás — kiállja-e a vizsgálatot. A harmadik az, hogy az a fajta bizonyíték, amellyel emberek ténylegesen rendelkezhetnek, észszerűvé tehetné-e valaha egy csoda elhitelét.\n\nEz az oldal a harmadikról szól. Itt szól a nézeteltérés valóban a módszerről, nem arról, ki milyen eseteket olvasott, és ezt kell először eldönteni: ha a válasz nem, akkor semennyi esetrészlet nem számít, ha pedig igen, akkor a vita átkerül az esetekre, és megszűnik filozófiai vitának lenni.\n\nA két oldal itt nem az, hogy „történnek csodák” és „nem történnek csodák”. Hanem az, hogy „a tanúságtétel elvben elbírja ezt a terhet”, illetve hogy „nem bírja el, és az ok szerkezeti”.",
+  "distinctions": [
+    {
+      "label": "Történnek-e valóban csodák?",
+      "gloss": "Nem ez az oldal. Ez az a következtetés, amelyet mindenki szeretne, és addig nem érhető el, amíg nincs megválaszolva, mit mutathat meg a bizonyíték. Kifejezetten a feltámadásról a saját oldala szól.",
+      "activeHere": false
+    },
+    {
+      "label": "Metafizikailag lehetséges-e egy csoda?",
+      "gloss": "Ez sem ez az oldal, és a maga terminusaiban nem is igazán vitatott. Ha van olyan Isten, amilyet a kereszténység leír, akkor a csodák lehetségesek; ha nincs, akkor nem. Ez a vita a honlap többi része.",
+      "activeHere": false
+    },
+    {
+      "label": "Megállapíthatna-e valaha egyet az emberek számára elérhető bizonyíték?",
+      "gloss": "Az élő kérdés, és az, amelyről a két oldal itt valóban vitatkozik. Tanúságtételről, valószínűségről és arról szól, mit tud nyújtani a történeti módszer — nem Istenről.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "előzetes valószínűség",
+      "definition": "Mennyire tartottad valószínűnek egy állítást, mielőtt megláttad az előtted fekvő bizonyítékot. A bayesiánus gondolkodásban az előzetes valószínűséget és a bizonyítékot együtt számolva kapunk módosított valószínűséget."
+    },
+    {
+      "term": "független tanúságtétel",
+      "definition": "Olyan beszámolók, amelyek egyezését nem magyarázza, hogy közös a forrásuk, a közösségük vagy az érdekük. A függetlenség az, amitől több tanú többet ér egynél, és sokkal nehezebb igazolni, mint feltételezni."
+    },
+    {
+      "term": "következtetés a legjobb magyarázatra",
+      "definition": "Annak a föltevésnek az elfogadása, amely — ha igaz — a legjobban számot ad a bizonyítékról, feltéve, hogy legyőzi a vetélytársait, és feltéve, hogy a vetélytársakat valóban számba vették."
+    }
+  ],
+  "sides": [
+    {
+      "label": "A tanúságtétel elbírja, és a küszöb nem végtelen",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "enough-independent-witnesses",
+          "claim": "Hume maximája számtan, és a számtan nem neki kedvez.",
+          "explanation": "Hume szabálya szerint csak akkor higgyünk egy csodáról szóló beszámolónak, ha a tanúságtétel hamissága meglepőbb volna, mint maga a csoda. Így megfogalmazva ez nem tilalom, hanem összehasonlítás, az összehasonlítás pedig bármelyik irányba kijöhet.\n\nAz ellenvetést egy évszázadon belül megtették vele szemben, egy gépekről szóló könyvben. Bármilyen kicsire veszed az esemény [[előzetes valószínűségét|előzetes valószínűség]], az véges szám, annak a valószínűsége pedig, hogy valahány valóban [[független|független tanúságtétel]] tanú mind ugyanabba az irányba téved, gyorsabban zsugorodik bármely rögzített előzetes valószínűségnél. Tehát mindig van olyan tanúszám, amely átlépi a küszöböt. Hume érve, ha általános tilalomként olvassuk, megköveteli, hogy az előzetes valószínűség nulla legyen — a nulla előzetes valószínűség pedig nem ítélet a világról, hanem annak megtagadása, hogy bármilyen bizonyíték mozdítson.\n\nEbből nem következik, hogy bármelyik tényleges csodabeszámoló átlépi a küszöböt. Az következik, hogy a küszöb küszöb, és nem plafon — és éppen ezt tagadta Hume általános olvasata.",
+          "quote": {
+            "text": "meg lehet adni olyan számú független tanút, akiknek egybehangzó tanúságtétele esetében a hamisság valószínűtlensége nagyobb, mint magának a csodának a valószínűtlensége",
+            "author": "Charles Babbage",
+            "work": "The Ninth Bridgewater Treatise, E függelékjegyzet, „On Hume's Argument against Miracles”",
+            "year": "1838",
+            "locator": "második kiadás, E függelékjegyzet",
+            "sourceUrl": "https://victorianweb.org/science/science_texts/bridgewater/appendixe.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "it is possible to assign a number of independent witnesses, the improbability of the falsehood of whose concurring testimony shall be greater than that of the improbability of the miracle itself",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "non-repeatable-counter-instance",
+              "label": "Az előzetes valószínűség kisebb, mint amekkorának látszik",
+              "heldBy": "Richard Swinburne",
+              "oneLine": "A csoda egyszeri kivétel, nem megdöntött törvény, tehát a törvény melletti óriási bizonyítéktömeg nem az esemény ellen szóló bizonyíték.",
+              "summary": "Ez más lépés, mint a tanúk számolása, és Hume összehasonlításának a másik tagját támadja.\n\nE szerint a természeti törvényt alátámasztó hatalmas bizonyítéktömeg azt támasztja alá, hogy a törvény általában érvényes. A csodaállítás ennek nem mond ellent. Egyetlen olyan kivételt állít, amely nem ismétlődik meg, és amelyet semmilyen javított törvény nem jósolna meg — tehát nem verseng a törvénnyel ugyanazért a bizonyítékért, és a törvény alátámasztása nem fordul át az esemény elleni alátámasztássá. Az az előzetes valószínűség tehát, amelyet a tanúságtételnek le kell győznie, sokkal kisebb, mint amekkorát Hume beállítása feltételez.\n\nRáadásul így a védő mindent megadhat a természet szabályosságáról, amit a másik oldal meg akar kapni — amit a tanúszámoló érv nem tesz meg.",
+              "quote": {
+                "text": "egy természeti törvény meg nem ismételhető ellenpéldájának előfordulása",
+                "author": "Richard Swinburne",
+                "work": "The Concept of Miracle",
+                "year": "1970",
+                "locator": "Swinburne meghatározása a természeti törvény megsértéséről, ahogyan a Stanford Encyclopedia of Philosophy csodákról szóló szócikke idézi",
+                "sourceUrl": "https://plato.stanford.edu/entries/miracles/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "an occurrence of a non-repeatable counter-instance to a law of nature",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés arról szól, elég függetlenek-e valaha a tanúk ahhoz, hogy a szorzás működjön. Ez az álláspont nem szoroz tanúkat. Megadja, hogy a tanúságtétel gyenge, és amellett érvel, hogy amit le kell győznie, sokkal könnyebb, mint Hume feltette — így a tanúk függetlenségéről szóló ellenvetés egyszerűen elmegy mellette.",
+              "objection": {
+                "text": "A kategória belülről van védve. A „meg nem ismételhető ellenpéldát” úgy határozzák meg, hogy semmilyen jövőbeli megfigyelés ne szólhasson bele: ha az esemény megismétlődik, akkor sosem volt csoda, csak a törvény hézaga, ha pedig nem ismétlődik meg, nem marad mit megvizsgálni. Ez nem szerény állítás egyetlen kivételről, hanem cáfolhatatlan állítás, és rendelettel teszi kicsivé az előzetes valószínűséget, nem bizonyítékkal.",
+                "from": "atheist",
+                "response": "Minden egyedi múltbeli eseményről szóló állítás ilyen alakú — egy adott csata, egy adott bűntett —, és nem jutunk arra, hogy a történelem cáfolhatatlan. A nyomok, a tanúságtétel és az időzítés mind vizsgálhatók maradnak; ami nem ismételhető meg, az az esemény, nem a mellette szóló bizonyíték."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A tanúk soha nem függetlenek abban az értelemben, amelyet a számtan megkövetel. Egy csodáról szóló beszámolók olyanoktól jönnek, akik együtt voltak, ugyanahhoz a közösséghez tartoztak, elmondták egymásnak, mit láttak, mielőtt bárki leírta volna, és erősen érdekeltek voltak a következtetésben. A korrelált tévedések nem úgy zsugorodnak, ahogy a függetlenek — és Earman, aki szerint Hume érve megbukik, pontosan ezt mondja arról, mennyire igényes a valódi függetlenség.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Ez jó ellenvetés az egyes esetekkel szemben, az elvvel szemben nem — márpedig az elv volt a tét. Ráadásul kétélű: azt mondja, hogy a csodáról szóló tanúságtétel lehet bizonyíték, és hogy a mérlegelése empirikus munka arról, ki kivel beszélt — vagyis pontosan az az álláspont, amelyet Hume általános olvasatának feleslegessé kellett volna tennie."
+          }
+        },
+        {
+          "id": "contemporary-and-investigated",
+          "claim": "Az állítások nem szorítkoznak ókori szövegekre, és néhányukat orvosi körülmények között vizsgálták meg.",
+          "explanation": "A vitát általában úgy folytatják, mintha a csodabeszámolók mind első századiak és mind irodalmiak volnának. Nem azok. Tíz országra kiterjedő felmérések szerint azoknak az élő embereknek a száma, akik azt mondják, isteni gyógyulás tanúi voltak, több százmillió, és a beszámolók kultúrákon átívelők, nem egyetlen hagyományra vagy egyetlen iskolázottsági szintre korlátozódnak.\n\nA puszta mennyiség önmagában semmit nem bizonyít, és ezt komolyan senki nem állítja. Az érv szűkebb: az a bevett kép, amely szerint a csodaállítások a modernitás előtti világ maradványai, és elpárolognak, ahol megjelenik az orvoslás, tényszerűen hamis, és aki erre támaszkodik, olyasmire támaszkodik, ami nem áll.\n\nNéhány esetet előretekintően is megvizsgáltak, orvosi leletekkel előtte és utána — a leghosszabb ideje működő példa a lourdes-i iroda. Ez az eljárás szinte mindig oda jut, hogy „nem igazolt”, és éppen ez a lényeg: olyan eljárás, amely tud nemet mondani.",
+          "quote": {
+            "text": "ma több százmillió ember állítja, hogy csodát tapasztalt",
+            "author": "Craig S. Keener",
+            "work": "Miracles: The Credibility of the New Testament Accounts",
+            "year": "2011",
+            "locator": "a felméréses fejezetek; az adat a pünkösdi és karizmatikus tapasztalatról szóló 2006-os, tízországos Pew-felmérésre épül",
+            "sourceUrl": "https://books.google.com/books/about/Miracles_2_volumes.html?id=oCrSpYJvGakC",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "hundreds of millions of people today claim to have experienced miracles",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Sok állítás az sok állítás. Minden hagyomány termeli őket, azok is, amelyek tanításai ellentmondanak a kereszténységnek, tehát vagy összeegyeztethetetlen következtetéseket támasztanak alá a beszámolók, vagy azt támasztják alá, hogy az emberek bizonyos körülmények között készségesen számolnak be ilyen élményről. A második magyarázat lefedi a teljes adatsort, és semmi természetfölöttire nincs szüksége. Ahol az eseteket megvizsgálták, ott a tisztességes megállapítás az, hogy „nincs rendelkezésre álló orvosi magyarázat” — ez pedig az orvostudomány állapotáról szóló állítás.",
+            "objectionFrom": "atheist",
+            "response": "Az, hogy a beszámolók hagyományokon átívelően fordulnak elő, az ellen szól, hogy bármelyik hagyomány kisajátítsa a jelenséget — ezt érdemes elmondani, de nem ez az itteni érv. Az asztalon lévő állítás az, hogy a bizonyítékbázis mai és megvizsgálható, és a „vizsgálat után sincs magyarázat” más ismeretelméleti helyzet, mint a „meg nem vizsgált anekdota”, ahová ezeket az eseteket sorolni szokták."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Az ügy szerkezete legyőzi, még mielőtt a bizonyíték megérkezne",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "testimony-is-the-weaker-side",
+          "claim": "Ami a tanúságtételt megbízhatatlanná teszi, az hétköznapi; amit egy csodabeszámoló elfogadtatni akar, az nem.",
+          "explanation": "Hume maximáját általában tilalomként idézik. Jobb mérlegelési utasításként olvasni, amelyhez empirikus állítás tartozik: hogy az egyik oldalon olyan eseményosztály áll, amelyre nincs igazolt példa, a másikon pedig az emberi tanúságtétel, amelynek a hibamódjai — tévedés, túlzás, tekintélytisztelet, kegyesség, hibás emlékezet, továbbmesélés — bőségesen példázottak és jól ismertek.\n\nAz összehasonlítás nem szoros, és nem olyan okból nem szoros, amelynek bármi köze volna a vallásellenességhez. A hamis tanúságtételhez semmi újra nincs szükség a világban. A csodához van. Ha magyarázatok között kell választani, a súly ott van, amelyiknek nincs szüksége új létezőkre — még mielőtt az eset egyetlen részletét megvizsgálnánk.\n\nEz megdönthető álláspont, és Hume ezt ki is mondja. Azt tagadja, hogy bármely tényleges eset részletei valaha elég erősek lettek volna az elmozdításához.",
+          "quote": {
+            "text": "Hogy semmilyen tanúságtétel nem elegendő egy csoda megállapításához, hacsak a tanúságtétel nem olyan fajta, hogy a hamissága csodásabb volna, mint az a tény, amelyet megállapítani igyekszik",
+            "author": "David Hume",
+            "work": "An Enquiry concerning Human Understanding, X. szakasz, „Of Miracles”",
+            "year": "1748",
+            "locator": "I. rész; Hume figyelemre méltó általános maximának nevezi",
+            "sourceUrl": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "the-historian-s-version",
+              "label": "A módszertani változat",
+              "heldBy": "Bart D. Ehrman",
+              "oneLine": "A történettudomány azt állapítja meg, mi történt valószínűleg, a csoda pedig felépítésénél fogva a legvalószínűtlenebb tétel minden listán.",
+              "summary": "Ez a változat semmit nem állít arról, mi történt vagy nem történt, és éppen ez különbözteti meg.\n\nA történeti módszer összehasonlító ítéleteket hoz: a források alapján melyik rekonstrukció a legvalószínűbb? A csodát úgy határozzuk meg, mint azt az eseményt, amely eltér mindattól, amit a módszer alapvonalként használ. Így soha nem lehet a legvalószínűbb rekonstrukció — nem azért, mert a történészek előre kizárták, hanem mert az eszköz valószínűséget mér, ez pedig a skála alján álló tétel.\n\nA következtetés ennek megfelelően szerény: nem az, hogy semmilyen csoda nem történt, hanem az, hogy ha történt, a történettudomány rossz műszer a kiderítésére. Egy hívő ellentmondás nélkül vallhatja ezt az álláspontot, és néhányan vallják is.",
+              "quote": {
+                "text": "A történészek csak azt tudják megállapítani, mi történt valószínűleg a múltban, a csoda pedig meghatározásánál fogva a legvalószínűtlenebb esemény",
+                "author": "Bart D. Ehrman",
+                "work": "a történész csodával kapcsolatos problémájának szokásos megfogalmazása nála, nyomtatásban és vitákban egyaránt",
+                "year": "2006",
+                "locator": "a megfogalmazás visszatér a vitáiban és a blogján; nincs egyetlen kanonikus helye",
+                "sourceUrl": "https://ehrmanblog.org/historians-and-the-problem-of-miracle/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Historians can only establish what probably happened in the past, and by definition a miracle is the least probable occurrence",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés szerint Hume mérlegelése valójában álcázott nulla előzetes valószínűség. Ez a vád itt nem emelhető, mert ez a változat semmilyen előzetes valószínűséget nem rendel hozzá. Megadja, hogy csoda történhetett, és csak annyit mond, hogy nem egy valószínűségi módszer az, ami ezt megmutathatja — így a becsempészett előzetes valószínűségről szóló ellenvetésnek nincs mibe kapaszkodnia.",
+              "objection": {
+                "text": "Akkor viszont kikötés folytán igaz, és semmit nem mond. Ha a „történeti” azt jelenti, hogy „valószínűség szerint rangsoroló módszerrel rekonstruálható”, akkor az a következtetés, hogy a történettudomány nem érhet el csodát, a meghatározásról szóló tény, nem a múltról szóló megállapítás. Sőt, elzárja a terület legsúlyosabb állítását attól a tudományágtól, amely a tárgyát kutatja, úgyhogy az a történész, aki szerint egyetlen konkrét esemény bizonyítéka elsöprő, szakmai hangján nem tudná ezt kimondani.",
+                "from": "within",
+                "sharedPremise": "elfogadja a teljes kritikai apparátust és a történeti ítélet valószínűségi jellegét, és ezen az apparátuson belülről érvel amellett, hogy az a módszer, amely elvileg nem adhat pozitív eredményt egy kérdésosztályra, túl szűkre van szabva ahhoz, hogy módszer munkáját végezze",
+                "response": "Egy tudományágnak joga van a műszereihez, és minden műszernek van hatóköre. Hogy egy történész történészként nem hitelesíthet csodát, nem különösebb annál, mint hogy egy vegyész vegyészként nem hitelesítheti, hogy egy festmény szép."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A maxima csak akkor zárja ki a csodákat, ha az előzetes valószínűséget nullára állítjuk, és Hume erre nem ad érvet. Állítsd bármilyen véges értékre, és elég független tanúságtétel átlépi; ezt Babbage óta megtették, Earman könyvnyi terjedelmű tárgyalása pedig arra jut, hogy Hume érve valószínűségként megbukik. Ami megmarad, az nem elv, hanem esetről esetre hozott ítélet — sokkal kevesebb annál, mint amit Hume állított.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Az előzetes valószínűség nem nulla, és nem is kell annak lennie. Kisebbnek kell lennie annál a valószínűségnél, hogy egy korrelált embercsoport, olyan közösségben, amely pontosan ezt várta, mind tévesen számolt be róla — és ez a második szám nem kicsi. Minden ellenőrizhető eset úgy jött ki, hogy a tanúságtétel mondott csődöt."
+          }
+        },
+        {
+          "id": "the-double-burden",
+          "claim": "Két dolgot kell megmutatni, és a bizonyíték, amely az elsőt megalapozza, a másodikat aláássa.",
+          "explanation": "Ahhoz, hogy csodád legyen, azt is meg kell mutatnod, hogy az esemény megtörtént, és azt is, hogy egy valódi természeti törvény megsértése volt — nem pusztán annak, amit jelenleg a törvényeknek tartunk. Ez a két feladat nem ugyanabba az irányba mutat; egymás ellen húznak.\n\nAttól lesz egy esemény jól adatolt, hogy illeszkedik a bizonyítás szokásos gépezetébe: feljegyzések, tanúk, nyomok, összhang azzal, ahogyan a világ működik. Attól lesz csoda, hogy nem illeszkedik. Minél jobban teljesíted az első követelményt, annál inkább éppen azokra a szabályosságokra támaszkodsz, amelyeket a második követelmény szerint megtörtnek kell nyilvánítanod.\n\nA második követelmény pedig nehezebb, mint amilyennek hangzik. Egy valódi törvény megsértésének megállapításához tudni kell, mik a törvények — nem hozzávetőleg, hanem elég jól ahhoz, hogy kizárjuk: az esemény olyan törvény alá esik, amelyet még nem írtunk le. A fizika soha nem volt ilyen helyzetben, és nem is állítja. Egy megmagyarázatlan esemény tisztességes leírása tehát az, hogy „megmagyarázatlan”, és az „Isten tette” felé vezető lépés külön [[következtetés a legjobb magyarázatra]], amelyet az esemény bizonyítéka nem ad meg.",
+          "quote": {
+            "text": "Ahol van valamilyen hihető tanúságtétel arról, hogy megtörtént valami, ami csodának látszik, ott azoknak, akik ezt csodaként fogadják el, kettős terhük van: meg kell mutatniuk, hogy az esemény megtörtént, és hogy megsértette a természet törvényeit. Ám ezt a kettős terhet nagyon nehéz lesz elbírni.",
+            "author": "J. L. Mackie",
+            "work": "The Miracle of Theism",
+            "year": "1982",
+            "locator": "a csodákról és a tanúságtételről szóló fejezet",
+            "sourceUrl": "https://global.oup.com/academic/product/the-miracle-of-theism-9780198246824",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Where there is some plausible testimony about the occurrence of what would appear to be a miracle, those who accept this as a miracle have the double burden of showing both that the event took place and that it violated the laws of nature. But it will be very hard to sustain this double burden.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A második teher abból a meghatározásból ered, amely a csodát megsértésként fogja fel — és a legtöbb teológus nem így fogja fel. A régebbi felfogás szerint a csoda Isten olyan tette, amely a természeten keresztül működik, nem ellene, tehát semmiről nem kell megmutatni, hogy megtört; ami kiemeli, az az időzítése, a helyzete és az, amit jelent. Eszerint a két teher egybeolvad — megtörtént-e ez, és a vallási helyzet magyarázza-e legjobban, hogy éppen akkor történt —, a következtetés pedig az a szokásos fajta, amelyet mindenütt máshol is használunk.",
+            "objectionFrom": "theist",
+            "response": "Akkor viszont a szó nem végez munkát. Ha a csoda összefér mindazzal, amit a természet amúgy is tesz, akkor az egyetlen dolog, ami megkülönbözteti a szerencsés véletlentől, a megfigyelő által hozott értelmezés — és éppen az értelmezés a vita tárgya. A megsértéses felfogás legalább mondott olyat, ami tévedhetett."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Mit hitelesít valójában Lourdes",
+      "oneLine": "Az orvosi iroda azt hitelesíti, hogy egy gyógyulásra nincs rendelkezésre álló orvosi magyarázat; azt az ítéletet, hogy csoda volt, utána hozza meg az egyház, és ez külön aktus.",
+      "text": "A Bureau des Constatations Médicales 1883-ban jött létre, és több mint hétezer gyógyulási dossziét vett nyilvántartásba. Hetvenkét gyógyulást ismertek el csodásnak, a legutóbbit 2025-ben — nagyjából az akták egy százalékát, több mint egy évszázad alatt.\n\nEz az arány az érdekes szám, és mindkét oldal hajlamos visszaélni vele. Nem az isteni beavatkozás találati aránya, mert a nevező önkiválasztott emberekből áll, akik elutaztak Lourdes-ba, és jobban lettek. De nem is annak bizonyítéka, hogy az eljárás formaság: az az eljárás, amely százból kilencvenkilenc esetet elutasít, csinál valamit, és az iroda belső bírálói szerint még mindig inkább túl megengedő, mint túl szigorú.\n\nA két lépést érdemes szétválasztani, mert mindkét oldal érvei összemossák őket. Az orvosi megállapítás az, hogy „számunkra nincs magyarázat”. Az egyházi megállapítás az, hogy „ez csoda volt”. Az elsőből nem következik a második, és az iroda nem is állítja, hogy következne."
+    },
+    {
+      "heading": "Hume két érvet írt, nem egyet",
+      "oneLine": "Az I. rész amellett érvel, hogy a tanúságtétel elvben soha nem állapíthat meg csodát; a II. rész amellett, hogy egyetlen tényleges beszámoló sem került a közelébe — és amit „Hume érveként” idézni szoktak, az szinte mind a II. részből való.",
+      "text": "Az Enquiry X. szakasza a felénél kettéválik. Az I. rész a maxima és a mérlegelés: érv arról, mire képes elvben a bizonyíték. A II. rész négy empirikus állítás — hogy egyetlen csodát sem tanúsított elég sok, kifogástalan feddhetetlenségű, művelt tanú, hogy az embereket vonzza a csodás, hogy az ilyen beszámolók ott sűrűsödnek, amit Hume tudatlan és barbár nemzeteknek nevez, és hogy a rivális vallások csodái kioltják egymást.\n\nA két rész egymástól függetlenül bukik meg vagy áll meg, és ezért beszél el a vita olyan gyakran egymás mellett. Earman bírálata szinte teljes egészében az I. részre irányul, és arra jut, hogy az elv nem működik. Keeneré szinte teljes egészében a II. részre, és amellett érvel, hogy az empirikus állítások hamisak, különösen a harmadik. Valaki mindkettővel egyetérthet, és mégis azt tarthatja, hogy egyetlen konkrét csodabeszámoló sem nyert megállapítást.\n\nA negyedik állítás — hogy a rivális vallások beszámolói kioltják egymást — az, amelyik a legjobban öregedett, és valójában nem is a tanúságtételről szól. Ez az az érv, amely ezen a honlapon annál a kérdésnél szerepel, hogy miért a kereszténység, és miért nem valamelyik másik vallás."
+    }
+  ],
+  "whereItStands": "Az elvi kérdés elmozdult, méghozzá Hume ellenében. A szakirodalom az 1990-es évek óta nagyrészt egyetért abban, hogy az I. rész érve a megfogalmazott formájában nem működik: a véges előzetes valószínűség legyőzhető elég sok független bizonyítékkal, és Hume-nak nem volt érve amellett, hogy az előzetes valószínűség nulla. Ez nem teológiai eredmény — Earman, akinek a könyve ennek bevett kifejtése, nem a csodák mellett érvel —, és a filozófusok mindkét oldalon elfogadják.\n\nAmi nem mozdult el, az az alkalmazott kérdés, és az ok a függetlenségi követelmény. Az a számtan, amely az I. részt legyőzi, olyan tanúkat kíván, akiknek a tévedései nem korrelálnak — a vallásilag fontos esetek pedig éppen azok, ahol a tanúk közös közösségen, közös várakozásokon és rengeteg beszélgetésen osztoztak, mielőtt bármit leírtak volna. Senki nem állt elő olyan esettel, amelyről mindkét oldal elismerné, hogy átlépte a küszöböt.\n\nAz állás tehát két évszázad után szokatlan: a híres érvet széles körben megbukottnak tartják, és az a következtetés, amelyet alátámasztania kellett volna, nagyjából ott van, ahol volt. Mindkét oldal pontosan idézheti a szakirodalom állását, és ellentétes helyre juthat, mert más-más felét idézik.",
+  "commonMistake": "A keresztények leggyakrabban úgy kezelik Hume I. részének összeomlását, mintha az egy csoda melletti bizonyíték volna. Nem az. Elhárít egy akadályt, és pontosan ott hagyja az ügyet, ahová az ügy saját bizonyítéka teszi — vagyis ott, ahonnan az érvnek el kellett volna mozdítania.\n\nAz ateisták leggyakrabban úgy idézik a maximát, mintha az eldöntené a kérdést, és nem veszik észre, hogy kétoldalú összehasonlítás, és hogy a szerzője a munka nagy részét a II. rész empirikus érveinek szánta. Az I. részt tilalomként idézni erősebb állítást tulajdonít Hume-nak, mint amit tett, ráadásul olyat, amelyet ma általában sikertelennek tartanak.\n\nMindkét oldal úgy használja azt, hogy „a rendkívüli állítás rendkívüli bizonyítékot kíván”, mintha érv volna. Hume maximájának újrafogalmazása, ugyanazzal a nyitva hagyott kérdéssel: mennyi a rendkívüli, és mi szolgáltathatná.",
+  "sources": [
+    {
+      "title": "An Enquiry concerning Human Understanding, Section X: Of Miracles",
+      "author": "David Hume",
+      "year": "1748",
+      "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+      "note": "Az elsődleges szöveg, teljesen és ingyen. Az I. és a II. rész világosan el van különítve."
+    },
+    {
+      "title": "Miracles",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "year": "2019",
+      "url": "https://plato.stanford.edu/entries/miracles/",
+      "note": "A meghatározási vita és a tanúságtételről szóló bayesiánus szakirodalom legjobb áttekintése."
+    },
+    {
+      "title": "Hume's Abject Failure: The Argument Against Miracles",
+      "author": "John Earman",
+      "year": "2000",
+      "url": "https://academic.oup.com/book/26135",
+      "note": "Annak bevett kifejtése, hogy az I. rész valószínűségként megbukik. Earman nem a csodák mellett érvel."
+    },
+    {
+      "title": "The Ninth Bridgewater Treatise, Appendix Note E",
+      "author": "Charles Babbage",
+      "year": "1838",
+      "url": "https://victorianweb.org/science/science_texts/bridgewater/appendixe.html",
+      "note": "A független tanúkra épülő válasz Hume-nak, másfél évszázaddal azelőtt, hogy a bayesiánus szakirodalom újrafogalmazta volna."
+    },
+    {
+      "title": "Miracles: The Credibility of the New Testament Accounts",
+      "author": "Craig S. Keener",
+      "year": "2011",
+      "url": "https://books.google.com/books/about/Miracles_2_volumes.html?id=oCrSpYJvGakC",
+      "note": "Két kötet, nagyrészt a mai beszámolók áttekintése. Az érv Hume II. része ellen szól, nem az I. ellen."
+    },
+    {
+      "title": "The Miracle of Theism",
+      "author": "J. L. Mackie",
+      "year": "1982",
+      "url": "https://global.oup.com/academic/product/the-miracle-of-theism-9780198246824",
+      "note": "Az 1. fejezet a csodákról és a tanúságtételről fejti ki a kettős teher érvét."
+    },
+    {
+      "title": "The recognised cures",
+      "author": "Sanctuaire Notre-Dame de Lourdes",
+      "year": "2025",
+      "url": "https://www.lourdes-france.com/en/day-pilgrims/the-miracles/",
+      "note": "A kegyhely saját listája, a számmal és az eljárással együtt."
+    }
+  ]
+}
