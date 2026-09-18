@@ -32,9 +32,24 @@ function localised404s() {
   };
 }
 
+/*
+  One source of truth for the origin, because canonical URLs, hreflang, the
+  sitemap and robots.txt all derive from it and a wrong one poisons all four.
+
+  SITE_URL wins, so a custom domain is a dashboard setting rather than a commit.
+  Cloudflare Pages sets CF_PAGES_URL during its own builds, which means the very
+  first deploy is self-describing even before anyone knows what domain it got.
+  The literal is only the local-development fallback.
+*/
+const siteUrl = (
+  process.env.SITE_URL ??
+  process.env.CF_PAGES_URL ??
+  'https://sic-et-non.pages.dev'
+).replace(/\/+$/, '');
+
 export default defineConfig({
   integrations: [localised404s()],
-  site: 'https://sic-et-non.pages.dev',
+  site: siteUrl,
   trailingSlash: 'ignore',
   i18n: {
     defaultLocale: 'en',

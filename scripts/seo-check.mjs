@@ -146,6 +146,40 @@ try {
   /* the missing-file problem above already covers this */
 }
 
+/*
+  robots.txt and the sitemap each name the site's origin, and a deploy to a
+  domain nobody updated is exactly how they come to disagree: every canonical
+  URL then points at a host that is not serving the page. Both are generated
+  from astro.config's `site` now, so this only has to prove they still agree.
+*/
+try {
+  const [robots, xml] = await Promise.all([
+    readFile(join(DIST, 'robots.txt'), 'utf8'),
+    readFile(join(DIST, 'sitemap.xml'), 'utf8'),
+  ]);
+  const declared = robots.match(/^Sitemap:\s*(\S+)$/m)?.[1];
+  const firstLoc = xml.match(/<loc>([^<]+)<\/loc>/)?.[1];
+  if (!declared) {
+    problems.push('robots.txt does not declare a Sitemap: line.');
+  } else if (!firstLoc) {
+    problems.push('sitemap.xml has no <loc> to compare the origin against.');
+  } else {
+    const a = new URL(declared).origin;
+    const b = new URL(firstLoc).origin;
+    if (a !== b) {
+      problems.push(
+        `robots.txt points at ${a} but the sitemap is written for ${b}. ` +
+          'Set SITE_URL to the origin the site is actually served from.',
+      );
+    }
+    if (declared !== `${b}/sitemap.xml`) {
+      problems.push(`robots.txt Sitemap: is ${declared}, expected ${b}/sitemap.xml.`);
+    }
+  }
+} catch {
+  /* the missing-file problem above already covers this */
+}
+
 if (problems.length > 0) {
   console.error(`\nSEO check failed (${problems.length} problem(s)):\n`);
   for (const p of problems.slice(0, 40)) console.error(`  - ${p}`);
