@@ -160,7 +160,7 @@
           "explanation": "L'idée que la foi chrétienne exige six jours de vingt-quatre heures est souvent présentée comme la vieille lecture littérale que la modernité aurait abandonnée. Historiquement, c'est presque l'inverse. Augustin a soutenu vers l'an 415 qu'il ne fallait pas lire la Genèse comme de la physique, redoutant précisément ce qui est arrivé ensuite : des chrétiens affirmant avec assurance des choses sur la nature, pris en défaut, et discréditant la foi en même temps qu'eux-mêmes.\n\nThomas d'Aquin en a fait une règle. Tenez une lecture de l'Écriture, écrit-il dans les années 1260, mais assez lâchement pour la lâcher s'il est prouvé qu'elle est fausse, afin que l'Écriture ne soit pas rendue ridicule en étant liée à une affirmation qui échoue.",
           "quote": {
             "text": "puisque l'Écriture sainte peut s'expliquer en une multiplicité de sens, on ne doit adhérer à une explication particulière que dans la mesure où l'on est prêt à l'abandonner s'il est prouvé avec certitude qu'elle est fausse",
-            "author": "Thomas Aquinas",
+            "author": "Thomas d'Aquin",
             "work": "Summa Theologiae I, q. 68, a. 1, trad. anglaise des Fathers of the English Dominican Province",
             "year": "c. 1268",
             "sourceUrl": "https://www.newadvent.org/summa/1068.htm",
@@ -212,7 +212,7 @@
       "text": "La géologie du déluge, sous sa forme moderne, est plus récente que les deux camps ne le supposent. Elle vient largement de The Genesis Flood, publié par John Whitcomb et Henry Morris en 1961 à partir des travaux de l'auteur adventiste du septième jour George McCready Price. Avant cela, les lectures de la Terre ancienne n'avaient rien de remarquable chez les protestants conservateurs : Charles Hodge et B. B. Warfield, deux des plus redoutables défenseurs de l'inerrance biblique au dix-neuvième siècle, acceptaient tous deux une Terre ancienne.\n\nCe n'est donc pas la science contre le christianisme. C'est un mouvement largement du vingtième siècle dressé à la fois contre la science établie et contre la plus grande part de l'histoire chrétienne — ce qu'Augustin avait relevé de l'intérieur de la tradition quinze cents ans plus tôt.",
       "quote": {
         "text": "Or, il est honteux et dangereux qu'un infidèle entende un chrétien, censé donner le sens de l'Écriture sainte, dire des sottises sur ces sujets ; et nous devrions tout faire pour éviter une situation aussi embarrassante, où l'on découvre chez un chrétien une ignorance immense et où l'on s'en moque.",
-        "author": "Augustine of Hippo",
+        "author": "Augustin d'Hippone",
         "work": "De Genesi ad litteram (La Genèse au sens littéral), trad. anglaise de J. H. Taylor",
         "year": "c. 415",
         "locator": "Book I, ch. 19",
@@ -437,7 +437,7 @@
     },
     {
       "title": "Statement of Faith",
-      "author": "John C. Whitcomb et Henry M. Morris",
+      "author": "Answers in Genesis",
       "url": "https://answersingenesis.org/about/faith/",
       "note": "The young-earth position stated by its largest advocacy organisation, in its own words."
     },

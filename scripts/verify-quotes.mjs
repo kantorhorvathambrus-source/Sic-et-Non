@@ -23,6 +23,7 @@ const LEVELS = ['primary', 'corroborated', 'paraphrase'];
 const errors = [];
 // topic basename -> argument id -> { locale: declared source of the objection }
 const objectionSources = new Map();
+const sourceAuthors = new Map();
 const warnings = [];
 const tally = new Map();
 
@@ -333,6 +334,23 @@ for (const full of files) {
     }
   }
 
+  // A bibliography row names a real person as the author of a real document, so
+  // a translation may render the name differently but must not name someone
+  // else. All four non-English copies of topic 6 credited the Answers in Genesis
+  // Statement of Faith to Whitcomb and Morris, who did not write it: the author
+  // values had been shifted by one row during translation and nothing noticed,
+  // because a bibliography is the one place on this site where a name was not
+  // being checked.
+  {
+    const [loc, base] = relative(CONTENT, full).split('/');
+    if (!sourceAuthors.has(base)) sourceAuthors.set(base, new Map());
+    const perLocale = sourceAuthors.get(base);
+    if (!perLocale.has(loc)) perLocale.set(loc, []);
+    for (const source of topic.sources ?? []) {
+      perLocale.get(loc).push({ url: source.url, title: source.title, author: source.author ?? null });
+    }
+  }
+
   // Non-English files should carry the original wording under each translation.
   const locale = relative(CONTENT, full).split('/')[0];
   if (locale !== 'en') {
@@ -411,6 +429,58 @@ for (const full of files) {
     const clash = seen.get(topic.id);
     if (clash) fail(file, 'id', `duplicate topic id, also used by ${clash}.`);
     seen.set(topic.id, file);
+  }
+}
+
+// A translated bibliography author must be either the English name or a
+// registered rendering of it. Registering is a deliberate act: an unregistered
+// difference fails, so a name that drifts onto the wrong row cannot pass as a
+// translation choice. Add real localisations here; never add a different person.
+const LOCALISED_NAMES = new Map(
+  Object.entries({
+    'Augustine of Hippo': ['Hippói Ágoston', 'Agustín de Hipona', "Augustin d'Hippone", 'Augustinus von Hippo'],
+    'Thomas Aquinas': ['Aquinói Tamás', 'Tomás de Aquino', "Thomas d'Aquin", 'Thomas von Aquin'],
+    'John Paul II': ['II. János Pál', 'Juan Pablo II', 'Jean-Paul II', 'Johannes Paul II.'],
+    'Fyodor Dostoevsky': ['Fjodor Dosztojevszkij'],
+    'Second Vatican Council': ['II. Vatikáni Zsinat'],
+    'Bertrand Russell and Frederick Copleston': ['Bertrand Russell és Frederick Copleston'],
+    'David L. Edwards and John Stott': ['David L. Edwards és John Stott'],
+  }),
+);
+
+for (const [base, perLocale] of sourceAuthors) {
+  const english = perLocale.get('en');
+  if (!english) continue;
+  // Keep every English row for a URL: topic 7 cites one page twice, once for the
+  // book it discusses and once for the discussion, and collapsing them would
+  // make a faithful translation look like a mismatch.
+  const byUrl = new Map();
+  for (const row of english) {
+    if (!byUrl.has(row.url)) byUrl.set(row.url, []);
+    byUrl.get(row.url).push(row.author);
+  }
+  for (const [loc, rows] of perLocale) {
+    if (loc === 'en') continue;
+    for (const row of rows) {
+      const candidates = byUrl.get(row.url);
+      if (!candidates) {
+        fail(`${loc}/${base}`, `sources "${row.title}"`, `cites a URL that the English file does not: ${row.url}`);
+        continue;
+      }
+      if (candidates.includes(row.author)) continue;
+      const registered = candidates.some((name) =>
+        name && (LOCALISED_NAMES.get(name) ?? []).includes(row.author),
+      );
+      if (!registered) {
+        fail(
+          `${loc}/${base}`,
+          `sources "${row.title}"`,
+          `is credited to ${JSON.stringify(row.author)} but the English file credits ${candidates
+            .map((c) => JSON.stringify(c))
+            .join(' or ')}. If this is the same person under a local name, register it in LOCALISED_NAMES; if it is a different person, it is a misattribution.`,
+        );
+      }
+    }
   }
 }
 

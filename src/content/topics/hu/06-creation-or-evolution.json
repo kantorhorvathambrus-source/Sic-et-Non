@@ -160,7 +160,7 @@
           "explanation": "Azt a gondolatot, hogy a keresztény hit hat huszonnégy órás napot követel, gyakran úgy állítják be, mint a régi, egyszerű olvasatot, amelyet a modernitás feladott. Történetileg majdnem az ellenkezője igaz. Ágoston 415 körül amellett érvelt, hogy a Teremtés könyvét nem szabad fizikaként olvasni, és pontosan attól tartott, ami később bekövetkezett: hogy keresztények magabiztos állításokat tesznek a természetről, kiderül róluk, hogy tévedtek, és magukkal együtt a hitet is lejáratják.\n\nAquinói Tamás szabályt csinált az aggodalomból. Tartsd a Szentírás egy olvasatát, írta az 1260-as években, de olyan lazán, hogy el tudd engedni, ha hamisnak bizonyul, nehogy a Szentírás nevetségessé váljék egy megbukó állításhoz kötve.",
           "quote": {
             "text": "mivel a Szentírás sokféle értelemben magyarázható, egy adott magyarázathoz csak olyan mértékben szabad ragaszkodni, hogy készen álljunk elhagyni, ha bizonyossággal hamisnak bizonyul",
-            "author": "Thomas Aquinas",
+            "author": "Aquinói Tamás",
             "work": "Summa Theologiae I, q. 68, a. 1, a Fathers of the English Dominican Province angol fordítása",
             "year": "c. 1268",
             "sourceUrl": "https://www.newadvent.org/summa/1068.htm",
@@ -212,7 +212,7 @@
       "text": "Az özönvízgeológia mai formájában fiatalabb, mint azt mindkét oldalon gondolni szokták. Nagyrészt a The Genesis Floodból ered, amelyet John Whitcomb és Henry Morris adott ki 1961-ben, a hetednapi adventista George McCready Price munkájára építve. Azelőtt az idős Föld-olvasatok nem számítottak feltűnőnek a konzervatív protestánsok között: Charles Hodge és B. B. Warfield, a bibliai tévedhetetlenség két legtekintélyesebb tizenkilencedik századi védelmezője, egyaránt elfogadta az idős Földet.\n\nEz tehát nem a tudomány a kereszténység ellen. Ez egy jórészt huszadik századi mozgalom, amely szembehelyezkedik a fősodratú tudománnyal és a keresztény történelem nagyobb részével is — amire Ágoston ezerötszáz évvel korábban, a hagyományon belülről mutatott rá.",
       "quote": {
         "text": "Márpedig szégyenletes és veszedelmes dolog, ha egy hitetlen olyan keresztényt hall, aki állítólag a Szentírás értelmét adja vissza, és közben ezekről a tárgyakról képtelenségeket beszél; és mindent meg kellene tennünk, hogy elkerüljük ezt a kínos helyzetet, amelyben egy keresztényről óriási tudatlanság derül ki, és kinevetik érte.",
-        "author": "Augustine of Hippo",
+        "author": "Hippói Ágoston",
         "work": "De Genesi ad litteram (A Teremtés könyvének szó szerinti értelméről), J. H. Taylor angol fordítása",
         "year": "c. 415",
         "locator": "Book I, ch. 19",
@@ -437,7 +437,7 @@
     },
     {
       "title": "Statement of Faith",
-      "author": "John C. Whitcomb és Henry M. Morris",
+      "author": "Answers in Genesis",
       "url": "https://answersingenesis.org/about/faith/",
       "note": "The young-earth position stated by its largest advocacy organisation, in its own words."
     },
