@@ -1,0 +1,312 @@
+{
+  "id": "origin-of-life",
+  "number": 7,
+  "slug": "honnan-szarmazik-az-elso-elo-sejt",
+  "title": "Honnan származik az első élő sejt?",
+  "category": "natural-science",
+  "status": "open",
+  "realQuestion": "Minden élő valami élőtől származik. Menj ezen elég messzire visszafelé, és eljutsz egy elsőhöz, amelyik nem — és senki nem tudja, hogyan indult.\n\nEddig egyetértés van. Az a vitás, hogy mit jelent a hézag. Az egyik oldal szerint a nehézség nem hétköznapi: a sejt kódolt szekvenciával működik, márpedig egyetlenegyszer sem láttunk olyan kódot, amelyet ne elme írt volna. A másik oldal szerint a hézag egy fiatal tudományterület megoldatlan problémájának hétköznapi alakja, hetven éve egyenletesen szűkül, és abból, hogy „még nem tudjuk megcsinálni”, soha nem következett az, hogy „nem is lehet megcsinálni”.\n\nEz nem az evolúcióról szóló vita. Az evolúció akkor indul, amikor valami tökéletlenül másolni tudja önmagát; az, hogy az első másoló hogyan jött létre, külön kérdés ([[abiogenezis]]), és Darwin elmélete nem válaszol rá, és soha nem is akart.",
+  "distinctions": [
+    {
+      "label": "Az evolúció függ-e ennek a megoldásától?",
+      "gloss": "Nem, és ebben a két oldal egyetért. A természetes szelekcióhoz olyan populáció kell, amely már szaporodik. A közös leszármazás olyan bizonyítékokon nyugszik, amelyek állnak, bármi legyen is ennek az oldalnak a válasza. Félretéve; a 6. téma tárgyalja.",
+      "activeHere": false
+    },
+    {
+      "label": "Van-e kimutatott út a kémiától az élő sejtig?",
+      "gloss": "Egyelőre nincs, és ezt mindenki kimondja. A nézeteltérés arról szól, mi következik ebből — olyan hézag-e ez, amilyet be szoktak zárni, vagy olyan, amilyet nem. Ez ennek az oldalnak a vitája.",
+      "activeHere": true
+    },
+    {
+      "label": "Kellene-e, hogy a tervező Isten legyen?",
+      "gloss": "További lépés, amelyet a tervezettségi következtetés magától nem tesz meg. Egy „elmétől” eljutni bármiig, ami imádatra méltó, a 2. és az 5. téma érveit igényli. Itt meg sem kíséreljük.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "abiogenezis",
+      "definition": "Az élet keletkezése élettelen kémiából. Külön kérdés az evolúciótól, amely azt magyarázza, mi történik azután, hogy valami már szaporodni tud."
+    },
+    {
+      "term": "RNS-világ",
+      "definition": "Az a felvetés, hogy az RNS megelőzte mind a DNS-t, mind a fehérjéket, mert az RNS egyszerre képes információt hordozni és katalizátorként működni. Széles körben vallott, de nem bizonyított, és nem az egyetlen jelölt."
+    },
+    {
+      "term": "specifikált információ",
+      "definition": "Ebben az érvben olyan szekvencia, amely egyszerre valószínűtlen és elvégez egy meghatározott feladatot — ahogyan egy mondat igen, egy ugyanolyan hosszú véletlen karaktersor pedig nem. Hogy a kifejezés egy dolgot nevez-e meg vagy kettőt, maga is a vita része."
+    },
+    {
+      "term": "protongradiens",
+      "definition": "Savasságbeli különbség egy membrán két oldala között. Minden élő sejt ilyet használ energiatermelésre, ezért számít ebben az érvben, hogy találunk-e természetes eredetűt a megfelelő helyen."
+    },
+    {
+      "term": "protosejt",
+      "definition": "Membránnal határolt csepp, amely növekszik és osztódik anélkül, hogy élne. Laboratóriumban előállítják; az ilyen és egy sejt közötti hézagról szól ez az oldal."
+    }
+  ],
+  "sides": [
+    {
+      "label": "A kód olyasfajta dolog, amelynek szerzőre van szüksége",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "information-from-minds",
+          "claim": "Minden kódot, amelynek ismerjük a történetét, valaki írta — a sejt pedig kóddal működik",
+          "explanation": "Az érv nem az, hogy az élet keletkezése nehéz kérdés. Hanem az, hogy amit meg kell magyarázni, sajátos fajta dolog. A DNS-nek nem pusztán szerkezete van, mint egy kristálynak; olyan szekvenciát hordoz, amely valami mást határoz meg, méghozzá olyan megfeleltetés szerint, amely ugyanúgy önkényes, ahogyan egy ábécé önkényes — a CAG hárombetűs csoport kémiájában semmi nem teszi, hogy glutamint jelentsen.\n\nStephen Meyer érvelése tapasztalatból való következtetés, nem tudatlanságból való: bárhol, ahol egy [[specifikált információt|specifikált információ]] hordozó szekvenciát vissza tudunk vezetni a forrásáig, a forrás elmének bizonyul. Ezt alkalmazni arra az egyetlen esetre, amelyet nem tudunk megfigyelni, szerinte a történeti tudományok szokásos gondolkodásmódja, nem pedig eltérés tőle.",
+          "quote": {
+            "text": "Egyöntetű tapasztalatunk azt igazolja, hogy a specifikált vagy funkcionális információ — akár hieroglifákba vésve, akár könyvbe írva, akár rádiójelbe kódolva, akár egy RNS-világbeli »ribozimtervezési« kísérletben előállítva — mindig értelmes forrásból, elméből származik, nem pedig szigorúan anyagi folyamatból.",
+            "author": "Stephen C. Meyer",
+            "work": "Return of the God Hypothesis",
+            "year": "2021",
+            "locator": "a tervezettségi következtetés Meyer megfogalmazásában; ugyanez az érv fut végig a Signature in the Cell (2009) című könyvön is",
+            "sourceUrl": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Our uniform experience affirms that specified or functional information—whether inscribed in hieroglyphics, written in a book, encoded in a radio signal, or produced in an RNA-world 'ribozyme-engineering' experiment—always arises from an intelligent source, from a mind, not a strictly material process.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az egész munkát az előfeltevés végzi, és éppen az a vitatott. A kódolt információról szerzett „egyöntetű tapasztalat” emberi mesterséges tárgyakról szerzett egyöntetű tapasztalat, és semmi másról — a minta egyetlen faj néhány ezer éve. Ezt kiterjeszteni egy négymilliárd éves esetre, olyan körülmények között, amelyeket senki nem figyelt meg, nem indukció, hanem feltevés. A genetikai kód önkényessége pedig maga is vizsgálat alatt áll: több hozzárendelése követi az általa megnevezett aminosavak kémiáját, ami éppen az, amit akkor várnánk, ha a megfeleltetés kinőtte magát, nem pedig kiosztották.",
+            "objectionFrom": "atheist",
+            "response": "Az, hogy egy minta korlátozott, óvatosságra ok, nem pedig arra, hogy az alternatívát részesítsük előnyben, amelynek egyetlen pozitív esete sincs. Azt sem látta senki, hogy irányítatlan kémia kódot írna.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "evolutionary-creation",
+              "label": "Evolúciós teremtés",
+              "heldBy": "Francis Collins és a BioLogos; Denis Alexander; a katolikus és az anglikán teológia fősodratú álláspontja",
+              "oneLine": "Isten az egész folyamat szerzője, beleértve azt a kémiát is, amely az első sejtet létrehozta — az élet keletkezése tehát tudományos probléma, nem pedig bizonyíték mellette.",
+              "summary": "Ez az álláspont mindent vall Istenről, amit a tervezettségi következtetés vall, és szinte semmit abból, amit a módszerről. A teremtés nem beavatkozások sorozata, hanem az egész rendszer léte és törvényszerűsége, így a kémiától az életig vezető természetes út nem volna vereség a teizmus számára; annak leírása volna, hogyan tette Isten.\n\nCollins nyíltan kimondja, hogy az ellenkező stratégia veszélyes, és a figyelmeztetést név szerint az intelligens tervezésre alkalmazza. Az a hit, amely egy éppen megoldatlan problémához kötődik, örökli annak a problémának a sorsát.",
+              "quote": {
+                "text": "Az a hit, amely Istent a természeti világról szóló jelenlegi tudásunk hézagaiba helyezi, válság felé tarthat, ha a tudomány előrehaladása utóbb betölti ezeket a hézagokat.",
+                "author": "Francis S. Collins",
+                "work": "The Language of God: A Scientist Presents Evidence for Belief",
+                "year": "2006",
+                "sourceUrl": "https://en.wikipedia.org/wiki/Francis_Collins",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Faith that places God in the gaps of current understanding about the natural world may be headed for crisis if advances in science subsequently fill those gaps.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés el sem tud indulni, mert ez az álláspont nem következtet az információtól egy tervezőig. Elmondani neki, hogy a kódokról szerzett egyöntetű tapasztalatunk emberi mesterséges tárgyakról szerzett egyöntetű tapasztalat, olyasmit mond neki, amit már elismer, és amivel nem tud mit kezdeni: egyáltalán nem a kódból érvel.",
+              "objection": {
+                "text": "Ha Isten az élet keletkezésénél teljes egészében természeti okokon keresztül cselekszik, akkor az élet keletkezésében semmi nem bizonyíték mellette, és az álláspont tapasztalatilag megkülönböztethetetlen attól a naturalizmustól, amellyel szembeállítják. Az intelligens tervezés hívei ezt lemondásként vetik a szemére; az ateisták engedményként. Mindkettő ugyanazt kérdezi — milyen munkát végez itt Isten, amit valaha is észre lehetne venni?",
+                "from": "both",
+                "response": "A kémián belül megkülönböztethetetlen, és az összehasonlítás egyedül ott zajlik. Az állítás soha nem az volt, hogy Isten egy ok a kémiai okok között, és az a teremtéstan, amely ezt megkövetelné tőle, a gyengébb volna."
+              }
+            },
+            {
+              "id": "young-earth-creation",
+              "label": "Közvetlen teremtés, nemrég",
+              "heldBy": "Answers in Genesis; Ken Ham; az Institute for Creation Research",
+              "oneLine": "Az élet egyáltalán nem kémiából keletkezett: az élő alapfajtákat közvetlenül teremtették, az elmúlt tízezer éven belül, és a biogenezis törvénye ezt mondja ki.",
+              "summary": "A teista oldal legerősebb formája, és az, amelyik a legkevesebbet engedi meg. Nem azzal érvel, hogy egy tervező a legjobb magyarázata egy kémiai nehézségnek; azt tagadja, hogy volt egyáltalán magyarázandó kémiai epizód. A felkínált tudományos érv a biogenezis törvénye — hogy élettelenből keletkező életet soha nem figyeltek meg —, amelyet nem a jelenlegi tapasztalat összefoglalásaként, hanem megnevezett szerzőjű, fennálló törvényként kezel.\n\nItt a saját erejében áll, nem egy bírálón keresztül, és a tábora nagy: ezt tanítják az amerikai keresztények jelentős kisebbségének.",
+              "quote": {
+                "text": "Élet csakis életből származik. Ezt a törvényt az Élet Szerzője állította fel, aki az Út, az Igazság és az Élet — Jézus Krisztus.",
+                "author": "Answers in Genesis",
+                "work": "Life from Life… or Not?",
+                "year": "2018",
+                "sourceUrl": "https://answersingenesis.org/origin-of-life/life-from-life-or-not/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Life only comes from life. This was the law established by the Author of Life, Who is the Way, the Truth, and the Life—Jesus Christ.",
+                  "language": "en"
+                }
+              },
+              "againstSettledCore": "Ez ütközik a 6. téma lezárt magjával, amely a biológusok és a geológusok között nem vitatott: az élő fajok módosulással származnak közös ősöktől, és a Föld nagyjából 4,5 milliárd éves. A kort egymástól függetlenül állapítják meg a radiometrikus módszerek, a jégfuratminták, a szalagos agyagok, a korallok növekedési sávjai és a csillagfény terjedési ideje, és e területek egyikén sem támogat eredmény egy nemrégi teremtést. Az álláspontot teljes erejében közöljük, mert valóban vallják, és mert a bírálóin keresztül átfogalmazni éppen az a hiba volna, amelynek elkerülésére ez a honlap épült — és megjelöljük, mert jelöletlenül közölni a másik hiba volna.",
+              "changesTheObjection": "A fenti ellenvetés olyan következtetést céloz, amelyet ez az álláspont nem tesz meg. Nem egy szekvencia valószínűtlenségétől következtet egy elmére; azt tagadja, egy szöveg tekintélyére hivatkozva, hogy bármiféle prebiotikus szekvencia létrejött volna. Az emberi mesterséges tárgyakból vett indukció korlátairól szóló érvnek nincs mibe belekapaszkodnia.",
+              "objection": {
+                "text": "A biogenezis törvénye megfigyelésekből vont általánosítás, nem modális erejű törvény, és olyan munkát várnak tőle, amelyet tapasztalati általánosítás nem tud elvégezni: hogy kizárjon egy eseményt, amelynél senki nem volt jelen. Az idős Föld-kreacionisták és az evolúciós teremtés hívei ugyanazon az alapon emelnek kifogást, mint a geológusok — hogy az álláspont megköveteli, hogy az egymástól független kormeghatározási módszerek összehangolt módon tévedjenek, amit senki nem magyarázott meg —, és hozzátesznek egy teológiai ellenvetést is: a hitet olyan állításra akasztani, amelynek a bizonyítékok ellentmondanak, arra ítéli a fiatal hívőt, hogy egyszerre veszítse el mindkettőt.",
+                "from": "both",
+                "response": "A kormeghatározási módszerek a kezdeti feltételekre és az állandó ütemekre vonatkozó olyan feltevéseken nyugszanak, amelyeket magukat nem lehet megfigyelni, a Szentírás pedig jobban tanúsított tanú az eredetekről, mint egy extrapoláció."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-size-of-the-search",
+          "claim": "A lehetséges szekvenciák tere messze túl nagy ahhoz, hogy egy irányítatlan keresés működőt talált volna benne",
+          "explanation": "Ez az a tapasztalati állítás, amelyen a következtetés nyugszik, és szám, nem megérzés. Douglas Axe egy β-laktamáz enzim egyik darabján dolgozva megbecsülte, hogy a szekvenciatér mekkora hányada ad olyan láncot, amely egyáltalán működő aktív hellyé tekeredik össze.\n\nHa a funkcionális szekvenciák ennyire ritkák, akkor a kérdés nem az, hogy lassú-e egy vak keresés, hanem hogy lehetséges-e: nem volt elég másodperc, elég molekula vagy elég bolygó. Az érv arra a következtetésre jut, hogy a keresésnek irányítottnak kellett lennie, mert semmi más nem találhatta volna meg a célt.",
+          "quote": {
+            "text": "a 153 aminosav hosszúságú fehérjeláncokat kódoló lehetséges gének közül várhatóan csak nagyjából egy a százbillió billió billió billió billió billióból kódol olyan láncot, amely elég jól feltekeredik ahhoz, hogy biológiai funkciót lásson el!",
+            "author": "Douglas Axe",
+            "work": "Undeniable: How Biology Confirms Our Intuition That Life Is Designed",
+            "year": "2016",
+            "locator": "a Journal of Molecular Biologyban 2004-ben közölt becslés népszerű megfogalmazása",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/15321723/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "of the possible genes encoding protein chains 153 amino acids in length, only about one in a hundred trillion trillion trillion trillion trillion trillion is expected to encode a chain that folds well enough to perform a biological function!",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A becslés egyetlen fehérje egyetlen feltekeredését méri, majd a funkcionális szekvenciákat elszigetelt szigetekként kezeli egy olyan térben, amelyet vakon kell átkutatni. Mindkét feltevést vitatják a fehérjeevolúció kutatói: a funkcionális tartományok lehetnek összefüggőek is, nem csak elszigeteltek; a keresés nem vak, mert a szelekció megőrzi a részleges sikert; és az egy meghatározott feltekeredést adó szekvenciák száma nem azonos azoknak a szekvenciáknak a számával, amelyek elvégeztek volna valamilyen feladatot. Egy másik ellenvetés, amelyet a BioLogosnál és máshol keresztények szorgalmaznak, nem technikai, hanem stratégiai: Isten melletti érvet egy éppen megoldatlan problémára alapozni annyi, mint oda tenni őt, ahol a tudatlanság van, így a prebiotikus kémia minden előrelépése a hit kis vereségévé válik.",
+            "objectionFrom": "atheist",
+            "response": "A következtetés nem tudatlanságból indul, hanem egy pozitív állításból arról, hogy mit tesznek az elmék és mit nem tesz a kémia. Az az érv pedig, amelyet egy felfedezés gyengítene, ebben a tekintetben hétköznapi tudományos érv, nem pedig rossz hírű."
+          }
+        }
+      ]
+    },
+    {
+      "label": "A kémiát lépésről lépésre kidolgozzák",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "vents-supply-the-energy",
+          "claim": "A lúgos kürtők ingyen szolgáltatják azt az egyetlen dolgot, amivel minden élő sejt működik",
+          "explanation": "Ennek az oldalnak a legerősebb változata nem ígérvény a jövőre. Minden élő sejt egy membránon átívelő [[protongradienssel|protongradiens]] működteti magát — olyan általános tény ez, hogy szinte biztosan megelőzi a baktériumok és az archeák szétválását, és olyan különös, hogy magyarázatra szorul.\n\nA lúgos hidrotermális kürtők pontosan ezt a gradienst hozzák létre, bármiféle biológia nélkül, vékony ásványi falak labirintusában, amelyeken katalitikus vas-kén felületek ülnek. E felfogás szerint a rejtvény megfordul: az életnek nem kellett feltalálnia az energiarendszerét, hanem egy már működő rendszeren belül nőtt fel.",
+          "quote": {
+            "text": "a vékony válaszfalak két oldala közötti pH-különbség olyan természetes protongradienseket hozott létre, amelyek nagysága és polaritása megegyezik a ma élő baktériumokban és archeákban a szénmegkötéshez szükséges protonmotoros erőével",
+            "author": "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí and Nick Lane",
+            "work": "The Origin of Life in Alkaline Hydrothermal Vents, Astrobiology 16(2)",
+            "year": "2016",
+            "sourceUrl": "https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf",
+            "verification": "corroborated",
+            "sawWhat": "abstract",
+            "original": {
+              "text": "the difference in pH across thin barriers produced natural proton gradients with equivalent magnitude and polarity to the proton-motive force required for carbon fixation in extant bacteria and archaea",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A gradiens energia, az energia pedig nem a probléma. A domboldalon fekvő jégnek is van gradiense. Azt kell megmagyarázni, hogyan lesz olyan rendszer, amely egy gradienst arra fog be, hogy felépítse és lemásolja önmagát, és a kémiát végző ásványi pórus meg az anyagcserét működtető sejt közötti távolság pontosan a kérdéses távolság. Egy elfogadható helyszín megnevezése nem ugyanaz, mint egy út kimutatása.",
+            "objectionFrom": "theist",
+            "response": "Nem csupán helyszínről van szó. Az állítás az, hogy pontosan az a mechanizmus, amelyet a mai sejtek használnak, már azelőtt jelen van a környezetben, hogy bármilyen sejt létezne — ez tesztelhető előrejelzés, nem remény —, és az ennek vizsgálatára épített reaktorok szén-dioxidból és hidrogénből szerves molekulákat állítottak elő.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "replication-first",
+              "label": "Először a replikáció",
+              "heldBy": "John Sutherland, Matthew Powner; Jack Szostak; Gerald Joyce",
+              "oneLine": "Elsőként egy önmagát másoló molekulának kellett megjelennie, az alkatrészei előállításához szükséges kémiát pedig lépésről lépésre építik fel a laboratóriumban.",
+              "summary": "A tudományterület másik fele, és a kürtőhipotézissel abban nem ért egyet, hogy mi volt az első. E felfogás szerint az élet akkor kezdődik, amikor valami hibákkal kezdi másolni önmagát, mert ez az a pont, ahol a szelekció elindulhat; az anyagcsere ezután következik.\n\nA program szintetikus, nem geológiai: ahelyett, hogy olyan helyet keresne, ahol a kémia megtörténhetett, azokat az utakat dolgozza ki, amelyeken a molekulák elkészülhettek — és évtizedekig álló ellenvetéseket oldott fel. Az [[RNS-világ]] elleni szokásos kifogás az volt, hogy az építőkövei nem állíthatók elő: a ribózt nehéz szelektíven létrehozni, a bázis és a cukor összekapcsolása pedig nem működik az RNS által használt pirimidinekre. Sutherland csoportja úgy válaszolt rá, hogy talált egy utat, amely soha nem ad szabad ribózt vagy szabad bázist.",
+              "quote": {
+                "text": "az aktivált pirimidin-ribonukleotidok létrehozhatók egy rövid lépéssoron, amely megkerüli a szabad ribózt és a nukleobázisokat, és helyettük arabinóz-amino-oxazolin és anhidronukleozid köztitermékeken halad keresztül",
+                "author": "Matthew Powner, Béatrice Gerland and John Sutherland",
+                "work": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions, Nature 459",
+                "year": "2009",
+                "sourceUrl": "https://www.nature.com/articles/nature08013",
+                "verification": "corroborated",
+                "sawWhat": "abstract",
+                "original": {
+                  "text": "activated pyrimidine ribonucleotides can be formed in a short sequence that bypasses free ribose and the nucleobases, and instead proceeds through arabinose amino-oxazoline and anhydronucleoside intermediates",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés az, hogy a gradiens csak energia, és hogy egy elfogadható helyszín megnevezése nem egy út kimutatása. Ez a program nem helyszínt nevez meg. Utakat épít, reagensekben és lépésekben, és a kémia, nem a geológia felől lehet vele vitatkozni — ez pedig más beszélgetés, más bizonyítékokkal.",
+              "objection": {
+                "text": "Egy vegyész, aki megválasztott sorrendben választ reagenseket, éppen azt teszi, amit egy magára hagyott bolygó nem. Minden egyes szintézis valóságos, és minden egyes szintézis egyben annak kimutatása is, hogy a lépés valaki által kiválasztott körülmények között lehetséges — ezért nevezi a tudományterület maga a nehézséget vízproblémának és koncentrációproblémának, nem pedig lehetetlenségproblémának.",
+                "from": "theist",
+                "response": "Az e szintézisekben használt körülményeket úgy választják meg, hogy a korai Föld hihetően szolgáltathatta őket — nedves-száraz ciklusok, ultraibolya fény, becsapódásokból származó cianidkémia —, és arról vitatkozni, hogy rendelkezésre álltak-e, geológiáról vitatkozás, ami előrelépés."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-field-names-its-own-paradoxes",
+          "claim": "A legnehezebb problémákat a tudományterület saját szakirodalma mondja ki, a saját szavaival — és dolgozik rajtuk",
+          "explanation": "Egy tagadásban lévő tudományterület nem közli a nehézségeit „paradoxonok” cím alatt. Steven Benner tanulmánya pontosan ezt teszi, és a legélesebb közülük nem olyan, amelyet kívülálló vetett fel.\n\nHagyd a szerves kémiát energiával működni, és nem az élet felé tart. A kátrány felé tart: heterogén, kezelhetetlen elegyek felé, amelyek nem vezetnek sehová. Ez általános eredmény hatalmas mennyiségű kísérleti munka alapján, és minden útnak problémája, beleértve a fentebb védetteket is. Benner érve módszertani — hogy az eredetkutatásban úgy lehet előrejutni, ha a paradoxonokat elég pontosan nevezzük meg ahhoz, hogy kísérleteket tervezhessünk ellenük —, a tudományterület állapota pedig az, hogy ez nyomtatásban zajlik, nem pedig a nyilvánosság előtt menedzselik.",
+          "quote": {
+            "text": "Hatalmas mennyiségű tapasztalati adat állapította meg szabályként, hogy a szerves rendszerek, ha energiát kapnak és magukra hagyják őket, haszontalanul összetett elegyekké, »aszfaltokká« csúsznak vissza",
+            "author": "Steven A. Benner",
+            "work": "Paradoxes in the Origin of Life, Origins of Life and Evolution of Biospheres 44",
+            "year": "2014",
+            "locator": "az aszfaltparadoxon, a tanulmányban kifejtett több paradoxon egyike",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25608919/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "An enormous amount of empirical data have established, as a rule, that organic systems, given energy and left to themselves, devolve to give uselessly complex mixtures, 'asphalts'",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Egy probléma megnevezése nem a megoldása, az őszinteséget pedig úgy kínálják, mintha előrehaladás volna. Az aszfaltparadoxon pontosan az, amit a tervezettségi érv előre jelez: az irányítatlan kémia, ha energia van benne, rendetlenséget hoz létre, a kivételek pedig azok az esetek, ahol egy vegyész adta az irányt. Az, hogy egy tudományterület egy évtizede nyíltan beszél erről, és nem oldotta meg, arra bizonyíték, hogy a nehézség szerkezeti, nem pedig átmeneti.",
+            "objectionFrom": "theist",
+            "response": "A szerkezeti nehézségeket is meg szokták oldani, és az aszfaltparadoxonra máris vannak jelölt válaszok — ásványi felületek, nedves-száraz ciklusok, olyan rendszerkémia, amely válogat, nem pedig felhalmoz. Hogy működnek-e, kísérleti kérdés — és ebben a helyzetben van egy probléma akkor, amikor dolgoznak rajta, nem pedig lezártnak nyilvánítják."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Mit mutatott ki valójában Miller és Urey, és mit nem",
+      "oneLine": "Miller és Urey azt mutatta ki, hogy az élet építőkövei könnyen létrejönnek egyszerű kémiából — nem azt, hogy az élet majdnem létrejött, és nem azt, hogy a probléma majdnem meg van oldva.",
+      "text": "Az 1953-as szikrakisüléses kísérlet a tudományterület legtöbbet idézett és legtöbbször félreolvasott eredménye. Egyszerű gázelegyből aminosavakat állított elő, ami valóban meglepő volt, és valódi eredmény ma is: az építőkövek könnyen adódnak, és meteoritokban is felbukkannak.\n\nÉletet nem hozott létre, ezt nem is állították róla, és olyan légkört használt, amely hidrogénben gazdagabb volt annál, amilyennek ma a korai Földét gondolják. Mindkét oldal túlfeszíti itt a húrt. Nem bizonyíték arra, hogy a probléma majdnem meg van oldva, és nem is kudarcba fulladt kísérlet: eldöntötte, hogy a monomerek olcsók, és a nehézséget arra tolta át, hogyan állnak sorrendbe — és a nehézség azóta is ott van."
+    },
+    {
+      "heading": "Milyen kevés idő volt",
+      "oneLine": "A lehűlt Föld és az élet első nyomai közötti ablak néhány százmillió év, ami minden itt szereplő magyarázatot korlátoz, és nehézséget jelent a kémia számára.",
+      "text": "Ez mindkét oldalt korlátozza, és egyiknek sem tetszik. A Föld nagyjából 4,4 milliárd évvel ezelőttig lakhatatlanul forró volt, és körülbelül 3,7 milliárd évre már ésszerű bizonyíték van életre. Ez néhány százmillió éves ablakot hagy, ami rövid egy irányítatlan kereséshez, és valódi nehézség a kémia számára.\n\nA közös leszármazásnak nem nehézsége, mert azt teljesen más bizonyítékok keltezik, és önmagában nem érv a tervezettség mellett — a „kevesebb idő a vártnál” arra tartozik, hogyan történt a dolog, nem arra, hogy kellett-e hozzá elme."
+    }
+  ],
+  "whereItStands": "Senki nem készített sejtet, és a kémiától odáig vezető utat senki nem mutatta ki elejétől a végéig. Aki bármelyik irányban mást mond, az a bizonyítékok előtt jár.\n\nA terület azért mozdult, méghozzá sajátos módon: azok a problémák, amelyek kívülről a leginkább lehetetlennek látszottak — a monomerek előállítása, a nukleotidok előállítása, olyan membránok előállítása, amelyek nőnek és [[protosejtekké|protosejt]] osztódnak —, éppen a kezelhetőknek bizonyultak. Ami nem mozdult, az a szekvencia. Olyan meghatározott elrendezéshez jutni, amely csinál valamit, nem pedig mindenből álló elegyhez: itt ül a nehézség az 1960-as évek óta, és itt ül ma is.\n\nAmi valóban eldöntetlen, az az, hogy mit jelent ez a mintázat. Összefér azzal, hogy egy nehéz problémát a szokásos módon dolgoznak végig, és összefér azzal is, hogy a nehézség más fajta, mint a már megoldottak. Jelenleg egyetlen eredmény sem tesz különbséget e két olvasat között — ezért vita ez, és nem megállapítás.",
+  "commonMistake": "A keresztények többnyire úgy kezelik a jelenlegi hézagot, mintha az volna az érv alapja, és ezzel a következő tanulmány túszává teszik az ügyet. Ha a tervezettségi következtetés helytálló, akkor arról szóló állításként kell megfogalmazhatónak lennie, hogy mik a kódok, nem pedig arról szóló állításként, hogy mit nem csináltak meg még a vegyészek; a második módon megfogalmazva évről évre zsugorodik, akár igaz, akár nem.\n\nAz ateisták többnyire olyan kérdésre válaszolnak, amelyet nem tettek fel. Az, hogy „az evolúciónak nincs szüksége az abiogenezisre”, igaz, és egy másik érvre adott válasz. Ugyanez áll arra, ha felsoroljuk, mit sikerült szintetizálni, amikor az ellenvetés a szekvenciáról szólt, nem az alkatrészekről. Mindkét lépés érintetlenül átengedi a tényleges állítást.\n\nÉs mindkét oldal csendben ugyanazt a rossz következtetést használja, ellenkező irányban: hogy egy probléma nehézsége elárul valamit a megoldásáról. Nem árul el. Egy probléma lehet nehéz azért, mert a válasz szokatlan, és lehet nehéz azért, mert régi, és a nyomok elvesztek.",
+  "sources": [
+    {
+      "title": "Return of the God Hypothesis",
+      "author": "Stephen C. Meyer",
+      "year": "2021",
+      "url": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+      "note": "A biológiai információból levont tervezettségi következtetés. Egy olyan kritikai tárgyalásra mutat a hivatkozás, amely idézi, mert a BioLogos ugyanazon az oldalon fogalmazza meg a keresztény ellenvetést."
+    },
+    {
+      "title": "Estimating the prevalence of protein sequences adopting functional enzyme folds",
+      "author": "Douglas D. Axe",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15321723/",
+      "note": "A ritkasági becslés lektorált forrása, amelyet Axe az Undeniable (2016) című könyvben fogalmaz újra a nagyközönségnek."
+    },
+    {
+      "title": "The Language of God: A Scientist Presents Evidence for Belief",
+      "author": "Francis S. Collins",
+      "year": "2006",
+      "url": "https://en.wikipedia.org/wiki/Francis_Collins",
+      "note": "Az evolúciós teremtés álláspontja, benne a hézagokból való érvelés elleni figyelmeztetéssel."
+    },
+    {
+      "title": "Life from Life… or Not?",
+      "author": "Answers in Genesis",
+      "year": "2018",
+      "url": "https://answersingenesis.org/origin-of-life/life-from-life-or-not/",
+      "note": "A fiatal Föld-álláspont az élet keletkezéséről, a saját szavaival."
+    },
+    {
+      "title": "The Origin of Life in Alkaline Hydrothermal Vents",
+      "author": "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí and Nick Lane",
+      "year": "2016",
+      "url": "https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf",
+      "note": "Az anyagcsere-elsőség melletti érvelés, attól a kutatócsoporttól, amely képviseli."
+    },
+    {
+      "title": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions",
+      "author": "Matthew W. Powner, Béatrice Gerland and John D. Sutherland",
+      "year": "2009",
+      "url": "https://www.nature.com/articles/nature08013",
+      "note": "A tanulmány, amely feloldotta az RNS-világ elleni szokásos ellenvetést azzal, hogy megkerülte a feltételezett útvonalát."
+    },
+    {
+      "title": "Paradoxes in the Origin of Life",
+      "author": "Steven A. Benner",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25608919/",
+      "note": "A tudományterület kimondja a saját legnehezebb problémáit, köztük az aszfaltparadoxont."
+    },
+    {
+      "title": "Evolution and the Origin of Biological Information",
+      "url": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+      "note": "A kereszténységen belülről érkező ellenvetés az ellen, hogy egy megoldatlan problémából érveljünk Isten mellett."
+    }
+  ]
+}

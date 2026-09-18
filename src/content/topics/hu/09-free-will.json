@@ -1,0 +1,289 @@
+{
+  "id": "free-will",
+  "number": 9,
+  "slug": "van-e-szabad-akaratunk",
+  "title": "Van-e szabad akaratunk?",
+  "category": "mind-and-will",
+  "status": "open",
+  "realQuestion": "Úgy döntöttél, hogy elolvasod ezt. Valami az előtörténetedben — a gének, a neveltetés, a vércukorszinted, az, amit utoljára olvastál — azzá tette ezt a döntést, ami lett. Mindkettő igaznak látszik, és a vita arról szól, lehet-e mindkettő igaz.\n\nA nézeteltérés valójában nem a fizikáról szól. Egy szóról szól. Az egyik oldal szerint szabadnak lenni azt jelenti, hogy pontosan abban a helyzetben, amelyben voltál, mást is tehettél volna; ha a múlt és a törvények rögzítik, mit teszel, akkor nem voltál szabad, a dicséret és a feddés pedig rossz helyre kerül. A másik szerint ez oda teszi a lécet, ahol semmi nem tudná átugrani, és szabadnak lenni annyit tesz, hogy a saját indokaidból cselekszel, anélkül hogy kényszerítenének vagy kényszer hajtana — márpedig pontosan ezt tetted, és soha senki nem akart többet.\n\nAz teszi nehézzé, hogy egyik sem nyilvánvalóan átdefiniálás. Mindkét oldal úgy gondolja, hogy a másik témát váltott.",
+  "distinctions": [
+    {
+      "label": "Igaz-e a determinizmus?",
+      "gloss": "A fizikára tartozó kérdés, és eldöntetlen — a kvantummechanikának vannak determinisztikus és nem determinisztikus értelmezései is. Itt kevésbé számít, mint amilyennek látszik: egy véletlen kvantumesemény által meghozott döntés semmivel sem inkább a tiéd, mint egy oksági lánc által meghozott. Félretéve.",
+      "activeHere": false
+    },
+    {
+      "label": "Megköveteli-e a felelősség, hogy máshogy is cselekedhettél volna?",
+      "gloss": "Ez ennek az oldalnak a vitája. Arról szól, mire való a szabadság — minek kell igaznak lennie rólad ahhoz, hogy a dicséretnek, a feddésnek és az érdemnek értelme legyen.",
+      "activeHere": true
+    },
+    {
+      "label": "Elveszi-e Isten előretudása a szabadságodat?",
+      "gloss": "Külön és jóval régebbi probléma, a teizmuson belül, saját szakirodalommal az örökkévalóságról, a közbülső tudásról és a nyitott teizmusról. Nem az itteni érveken múlik. Ezen az oldalon nem foglalkozunk vele.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "kompatibilizmus",
+      "definition": "Az a nézet, hogy a szabad akarat és a determinizmus egyszerre lehet igaz, mert a szabadság azt jelenti, hogy a saját indokaidból cselekszel, nem pedig azt, hogy kivétel vagy az okság alól."
+    },
+    {
+      "term": "libertariánus szabad akarat",
+      "definition": "Olyan szabadság, amely valóban nyitott alternatívákat követel meg: pontosan azok között a körülmények között máshogy is cselekedhettél volna. Semmi köze a politikai kifejezéshez."
+    },
+    {
+      "term": "ágensi okozás",
+      "definition": "Az a javaslat, hogy egy személy úgy lehet valaminek az oka, hogy közben semmi nem okozta, hogy okozzon — kezdeményező, nem pedig láncszem egy láncban. A libertariánus szabadság fő pozitív kifejtése."
+    },
+    {
+      "term": "érdem",
+      "definition": "Megérdemelni valamit — dicséretet, feddést, büntetést — igazságossági, nem pedig hasznossági alapon. Ennek a vitának a gyakorlati tétje jórészt itt van."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Kezdeményező vagy, nem csupán láncszem egy láncban",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "agents-originate",
+          "claim": "Egy személy úgy lehet egy cselekedet oka, hogy közben semmi más nem okozta, hogy ő legyen az oka",
+          "explanation": "Ez a pozitív javaslat, és azért áll elöl, mert a [[libertariánus szabad akarat]] melletti érvelést gyakran tisztán tagadónak nézik. Az állítás az, hogy a világ okai között van egy olyan fajta, amely nem esemény: egy szubsztancia, egy személy, aki egy képességét gyakorolja.\n\nTimothy O'Connor kifejtésében az indokaid valóban okok — alakítják, mennyire valószínű, hogy az egyik szándékot alakítod ki a másik helyett —, de nem döntik el. Te döntöd el. Ez volna az, hogy egy cselekedet tőled ered, nem pedig rajtad keresztülhalad, és ez az okság metafizikájáról szóló állítás, nem pedig könyörgés a tudomány alóli felmentésért.",
+          "quote": {
+            "text": "Szabad cselekedet az, amelyben maga az ágens okozza a cselekvésre irányuló szándékát. Az indokok alakítják, mennyire valószínű, hogy az ágens az egyik szándékot alakítja ki a másik helyett, de előzetes feltételeknek semmilyen együttese nem okozza, hogy kialakítsa: az ágens olyan oksági képességet gyakorol, amely az övé.",
+            "author": "Timothy O'Connor",
+            "work": "Persons and Causes: The Metaphysics of Free Will",
+            "year": "2000",
+            "locator": "a könyv által védett ágensi-oksági elképzelés saját összefoglalásunk; nem O'Connor szavai",
+            "sourceUrl": "https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "A free action is one in which the agent herself causes her intention to act. Reasons shape how likely the agent is to form one intention rather than another, but no set of prior conditions causes her to form it: the agent exercises a causal power that is hers.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ez elnevezi a rejtélyt, nem pedig megoldja. Ha az ágens okozását magát nem okozza semmi, ami az ágenshez tartozik — a jelleme, az indokai, a hangulata —, akkor nem világos, milyen értelemben fejezi ki őt, ahelyett hogy egyszerűen megtörténne. Tedd függővé ezektől, és mégiscsak determinált; tedd tőlük függetlenné, és úgy néz ki, mint egy véletlen esemény, amelyre rá van írva egy személy neve. Ez a dilemma régi, és egyetlen ágensi-oksági elmélet sem szabadult ki belőle a bírálói megelégedésére.",
+            "objectionFrom": "atheist",
+            "response": "A dilemma feltételezi, hogy minden oknak eseménynek kell lennie, márpedig éppen ezt tagadja az [[ágensi okozás]]. Hogy az álláspontot nehéz az esemény-oksági szókészletben megfogalmazni, várható, hiszen egy másik kategóriát javasol, nem pedig egy furcsa eseményt.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "theological-compatibilism",
+              "label": "Református kompatibilizmus",
+              "heldBy": "Jonathan Edwards; Paul Helm, John Feinberg; tágabban a református hagyomány",
+              "oneLine": "Az akaratot mindig az határozza meg, ami a legkívánatosabbnak látszik, és ez nem fenyegeti a felelősséget — azért vagy felelős, hogy a saját vágyaid szerint cselekszel, nem azért, hogy létrehoztad őket.",
+              "summary": "Teista álláspont, amely a metafizikát illetően egyetért ennek az oldalnak az ateista oldalával, és nem a fizika, hanem a teológia felől jut el oda. Edwards 1754-ben amellett érvelt, hogy az akarat nem önmagát mozgató képesség, amely nyitott lehetőségek között választ, hanem az elme hajlása afelé, ami számára a legjobbnak látszik — és hogy pontosan ez a szabadság, mert egy akarat, amely minden indíték ellenében cselekedhetne, önkényes volna, nem szabad.\n\nA teológiai indíték Isten szuverenitása: egy Isten, aki mindent elrendel, nem várhatja ki, mit tesznek a teremtmények. A következmény, amelyet Edwards nyíltan vállalt, az, hogy a libertariánus szabadság nem pusztán szükségtelen, hanem inkoherens.",
+              "quote": {
+                "text": "az akarat mindig olyan, amilyen a legnagyobb látszólagos jó, vagyis amilyen az, ami a legkívánatosabbnak látszik",
+                "author": "Jonathan Edwards",
+                "work": "Freedom of the Will",
+                "year": "1754",
+                "sourceUrl": "http://onthewing.org/user/Edwards%20-%20Freedom%20of%20the%20Will%20-%20Modern.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "the will always is as the greatest apparent good, or as what appears most agreeable",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés a szerencse-dilemma: ha az ágens okozását nem dönti el a jelleme és az indokai, akkor véletlenszerűnek látszik, ha pedig eldönti, akkor determinált. Ez az álláspont szándékosan a második ágat választja, és tagadja, hogy egyáltalán ág volna. Egy érv, amely szerint az ágensi okozás nem menekülhet a meghatározottság elől, nem ellenvetés egy olyan nézettel szemben, amelynek éppen az a lényege, hogy ne is próbáljon.",
+              "objection": {
+                "text": "Istent teszi a bűn szerzőjévé, és a hagyomány soha nem talált rá kényelmes választ. Ha minden hajlandóság el van rendelve, és az akarat egyszerűen a legerősebbet követi, akkor egy gyilkos legerősebb hajlandósága is el volt rendelve, a szokásos válasz pedig — hogy Isten elrendel anélkül, hogy közvetlen ok volna — ugyanaz a megengedés és a cselekvés közötti megkülönböztetés, amelyet a honlap 3. témája nehezen tarthatónak talál. Az arminiánus és a wesleyánus keresztények ezt hozzák fel okként, amiért az egész elképzelést el kell vetni.",
+                "from": "within",
+                "sharedPremise": "olyan előfeltevésekből érvel, amelyeket az álláspont vall — hogy Isten jó, hogy ő rendeli el, ami bekövetkezik, és hogy az emberek valóban bűnösök —, arra a következtetésre, hogy ez a három nem lehet mind igaz, ha az akaratot az Isten által elrendelt hajlandóságok határozzák meg.",
+                "response": "Az elrendelés és a szerzőség közötti megkülönböztetés valódi munkát végez, nem kitérés: egy regény szerzője nem bűnös a benne szereplő gyilkosságokban, az ellenvetés pedig az okság egyjelentésű fogalmát feltételezi, amelyet a tanítás tagad."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-consequence-argument",
+          "claim": "Ha a múlt és a törvények rögzítik, mit teszel, akkor az, amit teszel, nem rajtad múlik",
+          "explanation": "Peter van Inwagen érve rövid, és negyven éve ez szabja meg a vita feltételeit. Nem hivatkozik a befelé figyelésre, sem a választás megélt érzésére, amelyeket a másik oldal egyaránt meg tud magyarázni. Csak egy átviteli elvre hivatkozik: ha nincs választásod A dolgában, és nincs választásod abban sem, hogy A-ból B következik, akkor nincs választásod B dolgában.\n\nNem volt választásod a világ születésed előtti állapotát illetően, és a természeti törvényeket illetően sem. Ha ez a kettő együtt maga után von minden lépést, amit teszel, akkor ezen elv szerint egyikben sincs választásod.",
+          "quote": {
+            "text": "Ha a determinizmus igaz, akkor a cselekedeteink a természeti törvények és a távoli múlt eseményeinek következményei. De nem rajtunk múlik, mi történt a születésünk előtt; és az sem rajtunk múlik, mik a természeti törvények. Tehát e dolgok következményei (beleértve jelenlegi cselekedeteinket) nem rajtunk múlnak.",
+            "author": "Peter van Inwagen",
+            "work": "An Essay on Free Will",
+            "year": "1983",
+            "locator": "p. 16",
+            "sourceUrl": "https://andrewmbailey.com/pvi/Consequence_Argument.doc",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If determinism is true, then our acts are the consequences of the laws of nature and events in the remote past. But it is not up to us what went on before we were born; and neither is it up to us what the laws of nature are. Therefore the consequences of these things (including our present acts) are not up to us.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A „rajtunk múlik” pontosan az a kifejezés, amely vitatott, így egy belőle épített elv örökli a nézeteltérést, nem pedig feloldja. A kompatibilista olvasatban az, hogy valami rajtad múlik-e, arról szól, átment-e a mérlegelésen, és máshogy alakult volna-e, ha mások az indokaid — és ebben az olvasatban az előfeltevések hamisak, mert rajtad múlt, az egyetlen olyan értelemben, amely szerint bárki cselekszik. Az érv érvényes; hogy helytálló-e, éppen attól a kérdéstől függ, amelyet el kellett volna döntenie.",
+            "objectionFrom": "atheist",
+            "response": "Ez a válasz elismeri az érvet, és témát vált a szabadság egy gyengébb fogalmára. A kérdés az, elbírja-e ez a gyengébb fogalom az [[érdem]] súlyát, és ha azt mondjuk, hogy ez az egyetlen értelem, amely szerint bárki cselekszik, azzal nem válaszoltunk arra, hogy így kellene-e lennie."
+          }
+        }
+      ]
+    },
+    {
+      "label": "A birtoklásra érdemes szabadság sosem a lehetetlen fajta volt",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "freedom-worth-wanting",
+          "claim": "Az a szabadság, amely valóban számít, összefér mindennel, amit a tudomány talált",
+          "explanation": "Daniel Dennett érvelése szerint a libertariánus olyan szabadságot ír le, amely senkinek nem lehetne meg, és amelyet senki nem akarna. Egy döntés, amelyet nem okoz a jellemed, az előtörténeted és az indokaid, nem inkább a tiéd volna, hanem kevésbé.\n\nAmire valójában figyelünk, amikor felelősnek tartunk valakit, az az, hogy olyan ágens volt-e, aki képes indokokat befogadni és válaszolni rájuk; hogy kényszerítették, megtévesztették vagy rákényszerítették-e; és hogy változtatna-e valamin legközelebb, ha beszélnénk vele. Mindez valóságos, mindez emberenként és helyzetenként változik, és egyikhez sem kell kivétel az okság alól. A [[kompatibilizmus]] nem vigaszdíj; e kifejtés szerint ez maga a dolog.",
+          "quote": {
+            "text": "megmenteni mindent, ami a szabad akarat hétköznapi fogalmában számított, miközben kidobjuk az akadályokat",
+            "author": "Daniel C. Dennett",
+            "work": "Elbow Room: The Varieties of Free Will Worth Wanting",
+            "year": "1984",
+            "locator": "Dennett a könyv célját írja le, az átdolgozott kiadás előszavában",
+            "sourceUrl": "https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "saving everything that mattered about the everyday concept of free will, while jettisoning the impediments",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ezen a listán minden valóságos, és egyik sem az, amiről a kérdés szólt — az ellenvetést pedig nem a vallás fogalmazza meg a leghatározottabban, hanem a naturalisták. Galen Strawson és Derk Pereboom Dennett minden előfeltevését elfogadja a fizikáról és az emberi lényekről, és amellett érvelnek, hogy az indokokra való válaszkészség nem azonos a forrás voltával: egy kifinomult gép is befogad indokokat és válaszol rájuk, és senki nem gondolja, hogy bármit is megérdemelne. A kérdés soha nem az volt, hogy az emberek válaszkészségükben különböznek-e a kövektől, hanem az, hogy bárki valaha is végső forrása-e annak, amit tesz.",
+            "objectionFrom": "within",
+            "response": "Nincs olyan összefüggő fogalma a „végső forrásnak”, amelyet el lehetne utasítani. Ahhoz, hogy a cselekedeted végső forrása légy, meg kellett volna teremtened a saját jellemedet, ahhoz pedig kellene egy korábbi én, aki a teremtést végzi, és így tovább, vég nélkül.",
+            "sharedPremise": "elfogadja a naturalizmust, a determinizmust vagy indeterminizmust úgy, ahogyan a fizika hagyja, és a mérlegelés teljes funkcionális leírását, és pusztán ezekből az előfeltevésekből érvel amellett, hogy az indokokra való válaszkészség nem ugyanaz, mint annak forrásának lenni, amit az ember tesz.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "hard-incompatibilism",
+              "label": "Kemény inkompatibilizmus",
+              "heldBy": "Derk Pereboom; Neil Levy; Bruce Waller",
+              "oneLine": "Hiányzik belőlünk az a szabadság, amelyet az erkölcsi felelősség megkövetel, és ez így van akár igaz a determinizmus, akár nem — de szinte minden, amit érdemes megtartani, túléli ezt.",
+              "summary": "Pereboom álláspontja nem kétségbeesés és nem kompatibilizmus. Amellett érvel, hogy egy determinálatlan cselekedet semmivel sincs inkább az irányításod alatt, mint egy determinált, tehát az indeterminizmus nem segít, és arra jut, hogy alapvető értelemben senki nem érdemel feddést vagy elismerést.\n\nAz az érdekes, amit ezután kezd vele. A megtorló büntetés megy; a karantén, az elrettentés és a rehabilitáció marad. A hála és a szeretet nagyrészt fennmarad, hiszen nem követelik meg azt a gondolatot, hogy a másik ember máshogy is cselekedhetett volna. Az állítás az, hogy azok a gyakorlatok, amelyek fontosak nekünk, eleve soha nem az érdemen nyugodtak.",
+              "quote": {
+                "text": "hiányzik belőlünk az a fajta szabad akarat, amelyet az erkölcsi felelősség megkövetel, és … ez így van akár igaz a determinizmus, akár nem",
+                "author": "Derk Pereboom",
+                "work": "Living Without Free Will",
+                "year": "2001",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/living-without-free-will/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "we lack the kind of free will required for moral responsibility, and … this is so whether or not determinism is true",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés az, hogy a kompatibilizmus megtartja a szókészletet, miközben elejti azt, amit az emberek értettek rajta. Ez az álláspont egyetért, és a szókészletet is elejti. Egy érvet, amely szerint egy átdefiniálás témát váltott, nem lehet felhozni olyasvalaki ellen, aki semmit nem hajlandó átdefiniálni.",
+              "objection": {
+                "text": "A gyakorlati állítás nagyon sok munkát végez, és állítva van, nem pedig kimutatva. Hogy a hála, a szeretet, a lelkiismeret-furdalás és a büntetőjog túléli-e az érdem eltávolítását, az emberi lényekről szóló tapasztalati kérdés, nem filozófiai, és a válasz könnyen lehet, hogy nem. Van egy önalkalmazási probléma is: ha senki nem érdemel elismerést semmiért, akkor ez arra az érvelésre is áll, amely idáig elvezetett.",
+                "from": "both",
+                "response": "Az önalkalmazás nem paradoxon: egy érv lehet helytálló függetlenül attól, hogy a szerzője megérdemli-e az elismerést a létrehozásáért. Hogy a gyakorlatok fennmaradnak-e, tapasztalati kérdés, és Pereboom hosszasan érvel mellette, nem pedig feltételezi."
+              }
+            },
+            {
+              "id": "the-basic-argument",
+              "label": "Az alapérv",
+              "heldBy": "Galen Strawson",
+              "oneLine": "Ahhoz, hogy felelős légy azért, amit teszel, felelősnek kellene lenned azért, amilyen vagy, ahhoz pedig meg kellett volna teremtened magadat — márpedig semmi nem teremti meg önmagát.",
+              "summary": "Az oldal legtömörebb érve, és mindenkinek szól. Ahhoz, hogy úgy cselekedj, ahogy cselekszel, mert olyan vagy, amilyen, és felelős is légy azért, hogy így cselekszel, felelősnek kellene lenned azért, amilyen vagy. De ahhoz, hogy felelős légy azért, amilyen vagy, választanod kellett volna, hogy ilyen legyél — olyan indokok alapján, amelyek abból eredtek, amilyen már voltál. A regresszus nem ér véget.\n\nStrawson szerint ez azt mutatja, hogy a végső erkölcsi felelősség elvileg lehetetlen, nem pusztán tényszerűen hiányzik, és hogy ez fennáll, bármit mondjon is végül a fizika.",
+              "quote": {
+                "text": "semmi nem lehet önmaga oka, és ahhoz, hogy valaki valóban vagy végső soron erkölcsileg felelős legyen a tetteiért, causa suinak kellene lennie, legalábbis bizonyos döntő mentális tekintetben",
+                "author": "Galen Strawson",
+                "work": "The Impossibility of Moral Responsibility, Philosophical Studies 75",
+                "year": "1994",
+                "sourceUrl": "https://plato.stanford.edu/entries/skepticism-moral-responsibility/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "nothing can be the cause of itself, and in order to be truly or ultimately morally responsible for one's actions one would have to be causa sui, at least in certain crucial mental respects",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés azt mondja, hogy a kínált szabadság nem az a szabadság, amelyet az emberek értettek. Ez az érv semmilyen szabadságot nem kínál, így nincs mit elégtelennek nevezni. Kiiktatja a teista szokásos válaszát is — hogy az indeterminizmus helyet csinál —, hiszen a regresszus ugyanúgy fut, akár determináltak a lépések, akár nem.",
+              "objection": {
+                "text": "Az érv azt bizonyítja, hogy a végső önteremtés egy bizonyos fogalma inkoherens, amit szinte senki nem állított. A kompatibilisták szerint a felelősség soha nem követelte meg, hogy valaki causa sui legyen; a libertariánusok szerint a kezdeményezés nem önteremtés, hanem egy olyan képesség gyakorlása, amellyel egy személy rendelkezik, és amelyet nem kellett választani. Mindkét olvasatban olyan feltételt cáfol az érv, amelyet egyik oldal sem fogadott el, és a „végső” szó viszi az egészet.",
+                "from": "both",
+                "response": "A szó szándékosan viszi. Az állítás az, hogy bármi, ami elmarad a végső felelősségtől, nem bírja el az érdemet, és hogy mindig is az érdem volt az, amit a dicséret, a feddés és a büntetés megkövetel."
+              }
+            }
+          ]
+        },
+        {
+          "id": "no-author-of-your-thoughts",
+          "claim": "A szándékaid készen érkeznek, olyan okokból, amelyeket nem választottál és nem látsz",
+          "explanation": "Sam Harris keményebb vonalat képvisel, és ez inkább a tapasztalatról szóló állítás, mint a metafizikáról. Figyeld meg alaposan a következő gondolatodat. Nem étlapról választod ki; megjelenik. A szándék, hogy megmozdítsd a kezed, készen bukkan fel a tudatodban, olyan folyamatok termékeként, amelyekhez nem fértél hozzá, és amelyeknek nem vagy a szerzője.\n\nE kifejtés szerint a kompatibilizmus úgy tartja meg a szót, hogy csendben elejti azt, amit az emberek értettek rajta. Senki, amikor azt hallja, hogy szabad, nem úgy érti, hogy „a vágyaid okozzák a tetteidet”. Úgy érti, hogy „máshogy is cselekedhettél volna”, és Harris szerint éppen ez hamis.",
+          "quote": {
+            "text": "A szabad akarat illúzió. Az akaratunk egyszerűen nem a mi művünk.",
+            "author": "Sam Harris",
+            "work": "Free Will",
+            "year": "2012",
+            "locator": "a könyv tézise, a nyitó oldalakon kimondva",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Free_Will_(book)",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Free will is an illusion. Our wills are simply not of our own making.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A legélesebb ellenvetés itt ugyanabból a táborból érkezik, nem a vallástól: Dennett hosszan érvelt Harris ellen amellett, hogy ez összekever egy népi elméletet magával a jelenséggel. Az, hogy a gondolatok hívatlanul érkeznek, igaz és lényegtelen, mert a mérlegelés nem az első gondolat kiválasztása, hanem az, ami utána történik vele — a reflexió, a mérlegre tétel, a vétó. Azt mondani az embereknek, hogy a felelősség illúzió, ráadásul Dennett szerint a következményekről szóló tapasztalati állítás, amelyet Harris nem véd meg, és amely könnyen lehet hamis.",
+            "objectionFrom": "within",
+            "sharedPremise": "elfogadja, hogy nincs lélek és nincs kivétel a fizikai okság alól, és ezekből az előfeltevésekből érvel amellett, hogy a mérlegelés az, ami egy gondolattal a megérkezése után történik, nem pedig maga a megérkezés.",
+            "response": "A reflexió és a vétó ugyanazon az úton érkezik, mint az első gondolat, és semmivel sincs több szerzőjük. Ha a leírást egy lépéssel későbbre toljuk a folyamatban, nem szerzőt találunk, hanem több gépezetet."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "A keresztények mindkét oldalon ott vannak, és mindig is ott voltak",
+      "oneLine": "A libertariánus szabad akarat nem a keresztény álláspont: a hagyomány jelentős része, különösen Edwards és a református vonal, teológiai alapon tagadja.",
+      "text": "Az oldal azért teszi a libertariánus szabadságot a teista oldalra, mert jelenleg ott hangzik el a mellette szóló érv, de ez nem a keresztény nézet, és így bemutatni a hagyomány jelentős részét ábrázolná félre.\n\nA református hagyomány nagyjából kompatibilista. Jonathan Edwards 1754-ben amellett érvelt, hogy az akaratot mindig a legerősebb indíték határozza meg, és hogy ez nem fenyegeti a felelősséget — olyan álláspont, amely közelebb áll Dennettéhez, mint van Inwagenéhez, két évszázaddal korábbról és teológiai okokból. Ágostont és Aquinói Tamást egyaránt többféleképpen olvassák. Az az olvasó, aki azt viszi el erről az oldalról, hogy a keresztények hisznek a libertariánus szabad akaratban, az ateisták pedig nem, rosszat vitt el: az oldal azt mutatja meg, mely érvek élők jelenleg, nem azt, ki jogosult felhozni őket."
+    },
+    {
+      "heading": "A Libet-kísérletek, és miért nem szerepelnek érvhelyen",
+      "oneLine": "A Libet-kísérleteket még mindig úgy idézik, mint amelyek megmutatják, hogy a szabad akarat illúzió, az értelmezésüktől viszont a szakterület jelentős részben visszalépett.",
+      "text": "Az 1980-as években Benjamin Libet olyan agyi aktivitást talált, amely néhány száz ezredmásodperccel megelőzte azt a pillanatot, amikor a kísérleti személy beszámolója szerint eldöntötte, hogy megmozdítja az ujját, és harminc éven át ezt idézték mindenütt a szabad akarat elleni kísérleti bizonyítékként.\n\nAzért nem szerepel a fenti helyek egyikén sem, mert az értelmezéstől mindkét oldalon jelentős részben visszaléptek. A „készenléti potenciál” ma részben úgy fest, mint a mozgásra illesztett kísérleti próbák átlagolásának műterméke, és akkor is megjelenhet, amikor semmilyen döntés nem születik; a feladat — mozgasd meg az ujjad egy tetszőleges pillanatban, minden ok nélkül — nagyjából a legkevésbé mérlegelő dolog, amit ember tehet; Libet maga pedig úgy gondolta, hogy az eredményei helyet hagynak egy tudatos vétónak. A megfigyelés valóságos, a belőle levont következtetést viszont ebben a formában jelenleg nem védi senki, és éppen ezért van itt."
+    }
+  ],
+  "whereItStands": "A kompatibilizmus a többségi álláspont azok között a filozófusok között, akik ezzel foglalkoznak, és évtizedek óta az; a libertarianizmus jelentős kisebbség, a kemény inkompatibilizmus kisebb. Ez a szakterületre vonatkozó tény, nem érv, és a kisebbségben ott van a terület néhány legismertebb alakja.\n\nA következményérv továbbra is a sarokpont. Senki nem cáfolta meg általános megelégedésre, és senki nem tette döntővé, mert mindkét kimenetelhez el kellene dönteni, mit jelent az, hogy „rajtunk múlik”, márpedig éppen ez a nézeteltérés, nem pedig egy lépés benne. Elmozdulás máshol történt: a Frankfurt-típusú esetek sokakat rávettek annak elfogadására, hogy a felelősség talán mégsem követel alternatívákat, ami mindkét oldal alatt elmozdította a talajt, az idegtudomány pedig, amelytől azt várták, hogy mindent eldönt, semmit nem döntött el.\n\nAz őszinte összefoglalás az, hogy ez azon kevés viták egyike, amelyekben mindkét oldal pontosan meg tudja fogalmazni a másik álláspontját, minden tényben egyetért, és mégis nézeteltérésben marad — és mégsem értelmezési kérdés, mert konkrét érvek folyamatosan konkrét embereket győznek meg.",
+  "commonMistake": "A keresztények többnyire úgy érvelnek, mintha a libertariánus szabadságot megkövetelné a hitük, és ezért nyugodtan fel lehetne tételezni, ami rossz filozófia és rossz történelem is: a saját hagyományuk jelentős része tagadja. A feltételezése ráadásul körben forgónak mutatja a 3. téma szabad akaratra épülő védelmét, hiszen annak az érvnek előfeltevésként van szüksége a libertariánus szabadságra, és nem lehet egyben bizonyíték is mellette.\n\nAz ateisták többnyire Libethez nyúlnak, vagy egy történethez arról, hogy a neuronok tüzelnek, mielőtt megéreznéd a döntést, mintha a kísérlet eldöntött volna egy filozófiai kérdést. Nem döntötte el, és a szokásosan idézett változatát a szakterület lényegében visszavonta. Hozzányúlni ráadásul elfogadja a keretet: ha a kérdés tapasztalati volna, egy jobb kísérlet eldöntené, márpedig a valódi vitában mindenki tudja, hogy nem döntené el.\n\nA mindkettő alatt húzódó hiba az, hogy úgy kezelik a nézeteltérést, mintha az egyik oldal nem venne észre valamit. Van Inwagen tudja, hogyan működik az agy. Dennett tudja, milyen érzés választani. Abban nem értenek egyet, milyennek kellene lennie a szabadságnak ahhoz, hogy megérdemelje a nevét.",
+  "sources": [
+    {
+      "title": "Persons and Causes: The Metaphysics of Free Will",
+      "author": "Timothy O'Connor",
+      "year": "2000",
+      "url": "https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf",
+      "note": "A bevezető, a szerző saját honlapján. Az álláspontjának az oldalon szereplő megfogalmazása parafrázis, és így is van jelölve."
+    },
+    {
+      "title": "The Consequence Argument",
+      "author": "Peter van Inwagen",
+      "year": "1983",
+      "url": "https://andrewmbailey.com/pvi/Consequence_Argument.doc",
+      "note": "Van Inwagen saját szövege az érvről, ahogyan először megjelent az An Essay on Free Will című könyvben."
+    },
+    {
+      "title": "Elbow Room: The Varieties of Free Will Worth Wanting",
+      "author": "Daniel C. Dennett",
+      "year": "1984",
+      "url": "https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting",
+      "note": "Az MIT Press kiadása, amely tartalmazza Dennett előszavát a könyv céljáról."
+    },
+    {
+      "title": "Free Will",
+      "author": "Sam Harris",
+      "year": "2012",
+      "url": "https://en.wikipedia.org/wiki/Free_Will_(book)"
+    },
+    {
+      "title": "Consequence argument",
+      "url": "https://en.wikipedia.org/wiki/Consequence_argument",
+      "note": "Tartalmazza a szokásos válaszokat és a Frankfurt-esetekről szóló szakirodalmat, amelyre az oldal hivatkozik."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "beginning-and-cause",
+  "number": 1,
+  "slug": "volt-e-kezdete-a-vilagegyetemnek-es-kell-e-a-kezdethez-ok",
+  "title": "Volt-e kezdete a világegyetemnek, és kell-e a kezdethez ok?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "Ez az érv régi, iszlám eredetű, és elég rövid ahhoz, hogy elférjen egy szalvétán. Aminek létezni kezd, annak van oka. A világegyetem létezni kezdett. Tehát a világegyetemnek van oka.\n\nÉppen a rövidsége a baj: szinte mindenki, aki elismétli, a három mozgó alkatrésze közül egy másikról vitatkozik. Hogy volt-e kezdete a világegyetemnek, kozmológusokra tartozó kérdés, és a válaszuk óvatosabb annál, mint ahogy azt bármelyik oldal be szokta vallani. Hogy a létezni kezdéshez kell-e ok, filozófiai kérdés, és nem az a magától értetődő igazság, aminek hangzik. Hogy ez az ok bármiben is hasonlítana-e Istenre, harmadik kérdés, amelyhez az érv önmagában hozzá sem nyúl.\n\nEz az oldal a középsőről szól, mert ott van az eleven nézeteltérés.",
+  "distinctions": [
+    {
+      "label": "Volt-e kezdete a világegyetemnek?",
+      "gloss": "Fizikai kérdés. Az őszinte válasz az, hogy a bizonyítékok arrafelé mutatnak, és a kezdetet elkerülő modellek sincsenek kizárva. A lenti jegyzetben fejtjük ki, nem itt vitatjuk meg.",
+      "activeHere": false
+    },
+    {
+      "label": "Kell-e ok a létezni kezdéshez?",
+      "gloss": "Filozófiai kérdés, amelyet semennyi kozmológia nem dönt el. Ez ennek az oldalnak a vitája.",
+      "activeHere": true
+    },
+    {
+      "label": "Isten volna-e ez az ok?",
+      "gloss": "További lépés, amelyet az érv önmagában nem tesz meg. Ahhoz, hogy „egy októl” eljussunk bármihez, amit érdemes imádni, a 2. és az 5. téma érvei kellenek, és itt meg sem próbáljuk.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ok",
+      "definition": "Ebben az érvben az, ami megmagyarázza, miért létezik valami ahelyett, hogy nem létezne. Nem feltétlenül lökés vagy robbanás: a kérdés a függésről szól, nem a mechanikáról."
+    },
+    {
+      "term": "létezni kezd",
+      "definition": "Egy első pillanatban jön létre, úgy, hogy előtte nincs semmi. A világegyetemre ezt alkalmazni különös, mert nincs olyan „előtte”, ami után létrejöhetne."
+    },
+    {
+      "term": "kvantumvákuum",
+      "definition": "Nem a semmi. Fizikai rendszer, energiával és törvényekkel, amelyben részecskék jelennek meg és tűnnek el. Amikor a fizikusok azt mondják, hogy részecskék a semmiből keletkeznek, rendszerint erre gondolnak."
+    },
+    {
+      "term": "szingularitás",
+      "definition": "Olyan pont, ahol egy elmélet számai a végtelenbe futnak, és az elmélet nem ad többé választ. Jelölheti az idő valódi peremét, de lehet, hogy csak annak a peremét, amit az általános relativitáselmélet le tud írni."
+    }
+  ],
+  "sides": [
+    {
+      "label": "A kezdet olyasmi, ami magyarázatra szorul",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "out-of-nothing",
+          "claim": "A semmiből nem lesz semmi, és ez nem tudományos felfedezés, hanem az a feltevés, amelyen a tudomány működik",
+          "explanation": "Az oksági premissza nem abból vont általánosítás, hogy sok dolog elkezdődését néztük végig. Inkább olyan szabály, amely nélkül nem tudunk gondolkodni. Ha a dolgok egyszerűen ok nélkül kezdődhetnének, semmi nem indokolná, hogy éppen most miért nem bukkan fel akármi — és semmi nem indokolná, hogy a tudósok egyáltalán okokat keressenek, márpedig az életüket ezzel töltik.\n\nWilliam Lane Craig, aki az 1970-es években újraélesztette az érvet, ide helyezi a súlyt, nem a fizikára. Ha a [[létezni kezd]] kifejezés egyáltalán érvényes a világegyetemre, akkor azt kérdezni, mi ad számot róla, nem különös kérdés, hanem a hétköznapi.",
+          "quote": {
+            "text": "Aminek létezni kezd, annak van oka a létezésének. A világegyetem létezni kezdett. Tehát a világegyetem létezésének van oka.",
+            "author": "William Lane Craig",
+            "work": "The Kalām Cosmological Argument",
+            "year": "1979",
+            "locator": "az érv Craig megfogalmazásában, amelyet későbbi írásaiban hosszan véd",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Whatever begins to exist has a cause of its existence. The universe began to exist. Therefore, the universe has a cause of its existence.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Minden [[ok]], amelyet valaha bárki megfigyelt, az időn belül történt, olyasmivel, ami már létező anyagból áll, egy törvényekkel bíró világegyetemben. A premissza kiváló szabály a világegyetemen belüli eseményekre, és semmi nem szól amellett, hogy magára a világegyetemre is vonatkozna. Odáig kiterjeszteni nem magától értetődő; éppen ez az, amit bizonyítani kellene.",
+            "response": "Ez az ellenvetés túl sokat bizonyít. Ha a világegyetemen belül tanult szabályokat nem lehet rá magára alkalmazni, akkor a másik oldal által használt kozmológiát sem, sem a logikát, sem a valószínűséget. Valaminek át kell érnie, és egy ennyire alapvető elvet különös éppen ott feladni, ahol kényelmetlenné válik.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "essentially-ordered",
+              "label": "Ok itt és most, nem a kezdetnél",
+              "heldBy": "Aquinói Tamás; Edward Feser, David Oderberg, Gaven Kerr",
+              "oneLine": "A lényeges érv egyáltalán nem egy első pillanatról szól: arról szól, hogy bárminek, aminek a létezése származtatott, szüksége van valamire, ami minden pillanatban fenntartja.",
+              "summary": "A tomista hagyomány megadja azt, amit a kalám vitat — egy időbeli kezdet nélküli világegyetem semmiféle zavart nem okozna neki —, és azzal érvel, hogy ez semmin nem változtat.\n\nA különbség az időben elnyúló sorozat, amelyben minden ok elvégezte a dolgát és eltűnt, és az olyan sorozat között áll fenn, amelyben minden tag éppen most tartatik a helyén. A macska a padlón, a padló a gerendákon, a gerendák az alapon: ez a második fajta. Vedd el a talajt, és az egész elrendezés ebben a pillanatban omlik össze, nem valamikor később. E felfogás szerint a világ végig ilyen fajta sorozat, és nem az első eseményben végződik, hanem abban az egyetlen dologban, amelynek a létezése nem származik semmi másból.",
+              "quote": {
+                "text": "Az arisztotelészi bizonyítás nem egymást követő események sorának elején álló első okra mutat, hanem fenntartó okra, amely minden pillanatban létben tartja a véges és változékony dolgokat.",
+                "author": "Edward Feser",
+                "work": "Five Proofs of the Existence of God",
+                "year": "2017",
+                "locator": "a lényegileg rendezett érv összefoglalása, ahogyan Feser előadja; nem az ő szövege",
+                "sourceUrl": "http://edwardfeser.blogspot.com/2016/06/four-causes-and-five-ways.html",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The Aristotelian proof does not point to a first cause at the start of a sequence of consecutive events, but to a sustaining cause that at every instant holds finite and changeable things in existence.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés az, hogy minden megfigyelt ok az időn belül, már létező anyagon működött, ezért a premissza nem terjeszthető ki a világegyetem egészére. Ez a változat soha nem terjeszti ki így. Nem azt állítja, hogy a világegyetem elkezdődött, és ezért volt oka; azt állítja, hogy ami származtatottan létezik, azt most tartják fenn — és ez az érv ugyanígy futna egy olyan világegyetemben is, amelynek egyáltalán nincs első pillanata.",
+              "objection": {
+                "text": "Az érvhez kell egy megkülönböztetés azok között a dolgok között, amelyek létezése származtatott, és amelyeké nem, és ez a megkülönböztetés végzi az egész munkát, még mielőtt bármilyen oksági állítás elhangzana. A bírálók szerint lehet, hogy a sorozatnak egyszerűen nincs végpontja, vagy hogy maga a világegyetem a nem származtatott tag — az a válasz pedig, hogy a világegyetem összetett, és ezért nem lehet nem származtatott, feltételezi az aktus és a potencia arisztotelészi metafizikáját, amelyet a hagyományon kívül szinte senki nem fogad el. Egy bizonyítás, amelynek a premisszái csak egyetlen iskolán belül állnak rendelkezésre, nem nyilvánvalóan bizonyítás.",
+                "from": "atheist",
+                "response": "Minden érvnek vannak premisszái, amelyeket valaki elutasít. Az aktus-potencia elemzést a maga jogán védik, nem pusztán feltételezik, az alternatíva pedig — származtatott létezések sora úgy, hogy sehol nincs nem származtatott — éppen az, amit tagadnak, nem pedig érintetlenül hagyott lehetőség."
+              }
+            }
+          ]
+        },
+        {
+          "id": "an-actual-beginning",
+          "claim": "A bizonyítékok valódi kezdetre mutatnak, nem csak az elméleteink határára",
+          "explanation": "A 2003-as Borde–Guth–Vilenkin-tétel megmutatta, hogy semmilyen világegyetem, amely átlagosan tágult, nem terjeszthető ki végtelenül a múltba — beleértve azokat az inflációs és ciklikus modelleket is, amelyeket éppen a kezdet elkerülésére építettek. A geometriáról szóló eredmény, és nem függ attól, melyik modell bizonyul helyesnek.\n\nAlexander Vilenkin, a tétel egyik szerzője, egy 2012-es konferencián nyersen fogalmazott. Nem teista, és semmilyen teológiai következtetést nem von le belőle — éppen ezért érdemes őt idézni, nem pedig valakit, aki levon.",
+          "quote": {
+            "text": "Minden bizonyíték, amellyel rendelkezünk, azt mondja, hogy a világegyetemnek volt kezdete.",
+            "author": "Alexander Vilenkin",
+            "work": "Did the Universe Have a Beginning?, előadás a State of the Universe konferencián, Cambridge",
+            "year": "2012",
+            "sourceUrl": "https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "All the evidence we have says that the universe had a beginning.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A tétel klasszikus téridőkre szab korlátot, és senki nem gondolja, hogy a legkorábbi világegyetem klasszikus lett volna. Amit megmutat, az az, hogy a jelenlegi leírásunk összeomlik — és mindig ezt mutatja egy [[szingularitás]]. Vilenkin maga azóta olyan kvantumgravitációs modelleken dolgozott, amelyekben a határ nem abszolút kezdet, és nincs olyan elmélet, amelyben megbíznánk, és amely ilyen messzire visszanyúlna.",
+            "response": "Elfogadva, és éppen ezért nem itt nyugszik az érv. A pont szűkebb: azok a modellek, amelyeket kifejezetten a kezdet elkerülésére terveztek, nem jártak sikerrel, és jelenleg a múltban örök világegyetem a nehezebben tartható álláspont, nem a biztonságos alapeset.",
+            "objectionFrom": "within",
+            "sharedPremise": "maradéktalanul elfogadja a Borde-Guth-Vilenkin-tételt és a megfigyelési kozmológiát, és pusztán ezekből az eredményekből érvel amellett, hogy egy klasszikus téridőkről szóló tétel nem dönti el, mi történt ott, ahol a klasszikus leírás felmondja a szolgálatot — márpedig az érvnek éppen erre a tartományra van szüksége."
+          }
+        }
+      ]
+    },
+    {
+      "label": "A premissza nem éli túl a világegyetemmel való találkozást",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "the-premise-eats-itself",
+          "claim": "Ha mindennek kell ok, akkor Istennek is; ha valaminek nem kell, az akár a világegyetem is lehet",
+          "explanation": "Ez a legrégebbi ellenvetés, és rendszerint túl gyorsan intézik el. A védők azt felelik, hogy a premissza nem az, hogy „mindennek van oka”, hanem az, hogy „mindennek, ami létezni kezd, van oka”, Isten pedig nem kezdett létezni — így az ellenvetés célt téveszt.\n\nEz a válasz működik, de nézzük meg, mibe kerül. A premissza így már semmilyen önálló munkát nem végez: azt mondja ki, hogy aminek kezdete van, ahhoz ok kell, márpedig az egyetlen dolog, amelyről bárki azt állítja, hogy elkezdődött, a világegyetem. Az érv csendben azzá az állítássá vált, amelyet bizonyítania kellett volna. Russell változata nyersebb a mai szakirodalomnál, de ugyanazt a puha pontot találja el.",
+          "quote": {
+            "text": "Ha mindennek szükségképpen van oka, akkor Istennek is kell hogy legyen oka. Ha lehet bármi ok nélkül, akkor az éppúgy lehet a világ, mint Isten, úgyhogy annak az érvnek nem lehet semmi érvénye.",
+            "author": "Bertrand Russell",
+            "work": "Why I Am Not a Christian (Miért nem vagyok keresztény)",
+            "year": "1927",
+            "sourceUrl": "https://russell-j.com/0399WINC.HTM",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A megkülönböztetés nem az érv megmentésére kitalált kibúvó. Sokkal régebbi, mint maga az ellenvetés, és valódi különbségen nyugszik: ami mindig is létezett, annak nem kell számot adnia arról, hogyan kezdődött, mert nem kezdődött. Russell olyan premisszát támad, amelyet az érv védelmezői közül nyolcszáz éve senki nem vall.",
+            "response": "Akkor az érvnek független okra van szüksége ahhoz, hogy a világegyetemet olyasminek tekintse, ami elkezdődött, Istent pedig ne — és ez az ok nem lehet maga az érv. Enélkül a „szükségszerű létező” csak címke arra, amiről már előre eldöntötted, hogy nem magyarázod meg."
+          }
+        },
+        {
+          "id": "causation-inside-time",
+          "claim": "Az okozáshoz kell egy előtte és egy utána, az első pillanatban pedig nincs előtte",
+          "explanation": "Minden ok, amelyet értünk, időt vesz igénybe: az egyik állapot a másikhoz vezet. Ha az idő első pillanata az első pillanat, akkor nincs korábbi pillanat, amelyben egy ok elhelyezkedhetne, és az „okozott” szót olyan értelemben használjuk, amellyel soha senki nem találkozott.\n\nSean Carroll változata szerint az ok követelése inkább gondolkodási szokás, mint fizikai törvény. Az alapvető fizika nem okok láncolataként írja le a világot; mintázatokat ír le, amelyek fennállnak. Egy első pillanattal bíró, ok nélküli világegyetem nem inkoherens, csak szokatlan — a szokatlanság pedig nem érv.",
+          "quote": {
+            "text": "Carroll álláspontja szerint a modern fizika egyáltalán nem okok, hanem mintázatok fogalmaiban írja le a világegyetemet; egy önmagában álló, legkorábbi pillanattal bíró világegyetem semmilyen törvényt nem sért, és nincs szüksége külső okra; az az intuíció pedig, amely mégis okot követel, a hétköznapi életből hozott szokás, nem pedig a világról tett felfedezés.",
+            "author": "Sean Carroll",
+            "work": "Does the Universe Need God?",
+            "year": "2012",
+            "locator": "az ebben az esszében védett álláspont összefoglalása tőlünk; nem Carroll szövege",
+            "sourceUrl": "https://preposterousuniverse.com/writings/dtung/",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Carroll's position is that modern physics does not describe the universe in terms of causes at all, but in terms of patterns; that a self-contained universe with an earliest moment breaks no law and needs no external cause; and that the intuition demanding one is a habit from everyday life rather than a finding about the world.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az, hogy „az egyenletek nem említenek okokat”, a jelölésről szóló tény, nem a valóságról. A fizika személyeket és ígéreteket sem említ. Az oknak ráadásul nem kell időben korábbinak lennie: a hagyomány mindig megengedte az olyan okot, amely egyidejű azzal, amit okoz, vagy kívül áll rajta — a lényeg a függés, nem a sorrend.",
+            "response": "Ha egyszer az oknak nem kell korábbinak lennie, nem kell fizikainak lennie, és nem kell semmilyen leírható módon hatnia, jogos megkérdezni, mi marad a szóból. Az érv ereje az ok hétköznapi értelméből jött, és éppen ezt az értelmet adták fel azért, hogy működjön.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "quantum-nothing",
+              "label": "Az üres tér nem stabil",
+              "heldBy": "Lawrence Krauss; Alexander Vilenkin és Alan Guth a kvantumkozmológiáról",
+              "oneLine": "Egy világegyetem ok nélkül is létrejöhet az üres térből, mert az üres tér kvantumrendszer, a kvantumrendszerek pedig nem maradnak nyugton.",
+              "summary": "Ezzel a változattal találkozott a legtöbb olvasó, és erősebb állítás, mint a fölötte lévő. Nem azt mondja, hogy az oksági elv nem terjeszthető ki az időn túlra; azt mondja, hogy az elv már a világon belül is hamis, és látjuk, ahogyan megbukik.\n\nA kvantumkozmológiai leírás szerint egy nulla összenergiájú világegyetem megjelenhet olyan állapotból, amelyben nincs anyag, nincs sugárzás és nincs téridő — ugyanaz a fizika hozza létre, amelytől a vákuum részecskéktől pezseg. Hogy ez az állapot megérdemli-e a „semmi” nevet, pontosan ez az, amiről a vita szól.",
+              "quote": {
+                "text": "A semmi instabil. Mindig létre fog hozni valamit.",
+                "author": "Lawrence M. Krauss",
+                "work": "A Universe from Nothing, interjúban",
+                "year": "2012",
+                "sourceUrl": "https://www.npr.org/2012/01/13/145175263/lawrence-krauss-on-a-universe-from-nothing",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Nothing is unstable. It will always produce something.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés az, hogy „az egyenletek nem említenek okokat” a jelölésről szóló tény, nem pedig a világról. Ez a válasz olyan állásponthoz szól, amely szerint az oksági kérdés fel sem merül; ez a változat viszont azt mondja, hogy az oksági kérdés felmerül, és választ is kap — a fizikától, mechanizmussal együtt. Sokkal kitettebb állítás, és sokkal inkább tesztelhető.",
+              "objection": {
+                "text": "A [[kvantumvákuum]] nem semmi. Fizikai rendszer, energiával, szerkezettel és törvényekkel, és az a világegyetem, amely belőle bukkan elő, valami nagyon is meghatározottból bukkan elő. Sean Carroll, ennek az oldalnak ugyanarról a feléről, olyan nyíltan fogalmazta meg a bírálatot, mint bármelyik teista: a könyv összemossa a filozófus semmijét a fizikus vákuumával, és a cím olyan kérdésre ígér választ, amellyel a tartalom nem foglalkozik. Hogy maguk a törvények honnan származnak, ekkor ugyanaz a kérdés egy lépéssel hátrébb.",
+                "from": "within",
+                "sharedPremise": "maradéktalanul elfogadja a kvantumtérelméletet és a kozmológiai modelleket, és kizárólag ezekből a premisszákból érvel amellett, hogy az az állapot, amelyből kiindulnak, tulajdonságokkal bíró fizikai rendszer, így semminek nevezni nem a kérdésre adott válasz, hanem témaváltás.",
+                "response": "Lehet, hogy a „semminek” nincs is más, koherens értelme. Egy tér, idő és anyag nélküli állapot annyira közel van a semmihez, amennyire bármi lehet, és olyan semmit követelni, amelynek egyáltalán nincsenek tulajdonságai, talán annyi, mint olyasminek a magyarázatát követelni, ami nem is létezhetne."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Mit mond valójában a kozmológia",
+      "oneLine": "Az ősrobbanás-modell azt írja le, ahogyan a világegyetem egy forró, sűrű korai állapotból tágul; hogy ez az állapot volt-e az idő kezdete, nincs eldöntve, és mindkét oldal rendszeresen azt állítja, hogy az volt.",
+      "text": "Mindkét oldal túlállítja itt a dolgot, ezért érdemes külön kifejteni.\n\nAz ősrobbanás-modell azt írja le, ahogyan a világegyetem egy rendkívül forró és sűrű korai állapotból tágul, nagyjából 13,8 milliárd évvel ezelőttről. Eddig nincs kétség. Amit viszont nem mond ki egyenesen, az az, hogy ez volt mindennek a kezdete: ha elég messzire visszafuttatjuk az egyenleteket, az általános relativitáselmélet [[szingularitást|szingularitás]] ad, amelyet általában úgy olvasnak, hogy az elmélet mondja fel a szolgálatot, nem pedig úgy, hogy egy valóságos első pillanat leírása. Ahhoz, hogy megmondjuk, mi történt ott, a gravitáció kvantumelméletére volna szükség, és ilyen még nincs kiforrott formában.\n\nA Borde–Guth–Vilenkin-tétel valódi megszorítás, és a múltban örök modellek nagy osztályát valóban kizárja. Nem bizonyítéka annak, hogy az idő elkezdődött. Aki azt mondja neked, hogy a kozmológia megállapította a kezdetet, vagy hogy kizárta, az előreszaladt a bizonyítékokhoz képest.\n\nEgy félreértést érdemes elhárítani. A fizikusok néha azt mondják, hogy részecskék a semmiből keletkeznek, a népszerűsítő beszámolók pedig ezt úgy veszik, hogy a tudomány a nemlétezésből hoz létre valamit. Amire gondolnak, az a [[kvantumvákuum]], amely energiával, szerkezettel és törvényekkel bíró fizikai rendszer. Akármi is egyébként, nem az a semmi, amelyről ez az érv szól."
+    }
+  ],
+  "whereItStands": "A fizika valóban eldöntetlen, és valószínűleg egy ideig az is marad, így az az érv, amely erősen a kozmológiára támaszkodik, olyan talajra épít, amely elmozdulhat.\n\nA filozófiai fele az, ahol a valódi nézeteltérés van, és szűkebb, mint amilyennek látszik. Szinte senki nem gondolja, hogy a hétköznapi életben ok nélkül pattannak elő dolgok a létezésbe. A kérdés az, hogy ez a bizonyosság átvihető-e a világegyetem egészére — olyan esetre, amelyben minden vonás hiányzik, amitől az elv magától értetődő volt. Mindkét oldal extrapolál; abban nem értenek egyet, melyik extrapoláció a biztonságosabb.\n\nÉrdemes észrevenni, hogy még a teljes siker is kevesebbet ad, mint amennyinek látszik. Az érv a világegyetem okát adja, annak kimutatása pedig, hogy ez az ok személyes, jó, vagy érdeklődik bárki iránt, teljesen külön munka. Az érv védelmezői ezzel egyetértenek, és ki is mondják.",
+  "commonMistake": "Az ateisták leggyakrabban a „hát Istent ki csinálta?” kérdéshez nyúlnak, amelyre az érv régen megfelelt. Van mögötte egy sokkal jobb ellenvetés — hogy a megkülönböztetés a kezdődő és a nem kezdődő dolgok között végzi az egész munkát, és senki nem érdemelte ki függetlenül —, és a gyengébbhez nyúlva ezt elpazarolják.\n\nA keresztények leggyakrabban lezártként adják elő a kozmológiát, amikor nem az, majd egy fizikus óvatos mondatát jóváhagyásként kezelik. Az eredmény az, hogy az érv hitele a legfrissebb cikkel együtt emelkedik és süllyed, márpedig ez rossz hely annak az ügynek, amely fontos neked.\n\nMindkét oldal elbeszél a másik mellett arról, hogy a három kérdés közül melyikről is van szó. Rengeteg eszmecsere abból áll, hogy az egyik fél az oksági premisszát védi, miközben a másik a kozmológiát támadja, és egyikük sem veszi észre.",
+  "sources": [
+    {
+      "title": "In Defense of the Kalam Cosmological Argument",
+      "author": "William Lane Craig",
+      "url": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument",
+      "note": "Craig saját megfogalmazása és védelme az érvről. Az azonos című könyv 1979-es."
+    },
+    {
+      "title": "Did the Universe Have a Beginning?",
+      "author": "Alexander Vilenkin",
+      "year": "2012",
+      "url": "https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf",
+      "note": "Vilenkin saját előadása, azon a konferencián, ahol az idézett megjegyzés elhangzott."
+    },
+    {
+      "title": "Why I Am Not a Christian (Miért nem vagyok keresztény)",
+      "author": "Bertrand Russell",
+      "year": "1927",
+      "url": "https://russell-j.com/0399WINC.HTM"
+    },
+    {
+      "title": "Does the Universe Need God?",
+      "author": "Sean Carroll",
+      "year": "2012",
+      "url": "https://preposterousuniverse.com/writings/dtung/",
+      "note": "A Blackwell Companion to Science and Christianity számára íródott. Az ezen az oldalon szereplő összefoglaló parafrázis, nem idézet."
+    },
+    {
+      "title": "Cosmological Argument",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+    }
+  ]
+}

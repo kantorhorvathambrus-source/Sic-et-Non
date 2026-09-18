@@ -1,0 +1,251 @@
+{
+  "id": "divine-hiddenness",
+  "number": 4,
+  "slug": "ha-isten-ismertte-akar-valni-miert-rejtozik",
+  "title": "Ha Isten ismertté akar válni, miért rejtőzik?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "A kereszténység azt állítja, hogy Isten kapcsolatot akar minden emberrel. Nehéz kapcsolatban lenni valakivel, akinek a létezésében nem vagy biztos.\n\nVan tehát egy rejtély a világ alakjában. Ha létezik egy szerető Isten, és ismertté akar válni, a létezésére utaló bizonyítéknak legalább annyira világosnak kellene lennie, hogy bárki, aki őszintén keresi, megtalálja. Ehelyett őszinte emberek keresik, és üres kézzel maradnak, egész kultúrák pedig végigélték a történelmüket anélkül, hogy bármit hallottak volna róla.\n\nAz érv modern változata gondosan megválogatja, kikről beszél. Nem azokról, akik nem akarják, hogy Isten létezzen, és nem is azokról, akik sosem kérdeztek rá. Azokról szól, akik nyitottak, akik kerestek, és akik mégsem hisznek. Hogy vannak ilyen emberek, azt komolyan senki nem vitatja. Azt viszont igen, hogy mit bizonyít ez a tény.",
+  "distinctions": [
+    {
+      "label": "Miért nem bizonyítja be magát Isten a szkeptikusoknak?",
+      "gloss": "Rendszerint olyan emberekről kérdezik, akik ellenszegülnek, és mindkét oldal egyetért abban, hogy egy Isten, aki letörné az ellenállást, nem kapcsolatot keresne, hanem valami mást tenne. Nem ez az itteni érv.",
+      "activeHere": false
+    },
+    {
+      "label": "Miért van, aki őszintén keres, és mégsem talál?",
+      "gloss": "Ez az erős változat: nem a vonakodókról, hanem az Istenre nyitott emberekről, akik keresnek, és üres kézzel maradnak. Ez ennek az oldalnak az érve.",
+      "activeHere": true
+    },
+    {
+      "label": "Miért van szenvedés?",
+      "gloss": "Másik érv, hasonló alakkal, és a kettőt gyakran összemossák. 3. téma.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "nem ellenszegülő hitetlenség",
+      "definition": "Úgy nem hinni Istenben, hogy közben nem is utasítottuk el: nyitottnak lenni, vagy tevékenyen keresni, és mégsem találni semmit. Az érv azon fordul meg, hogy előfordul-e ez, és nyilvánvalóan előfordul."
+    },
+    {
+      "term": "episztemikus távolság",
+      "definition": "John Hick kifejezése a bizonyítékokban szándékosan nyitva hagyott résre, hogy az embereket ne kényszerítse semmi hitre, és szabadon jöhessenek, vagy egyáltalán ne jöjjenek."
+    },
+    {
+      "term": "Isten rejtőzködése",
+      "definition": "Jóval azelőtt bibliai téma, hogy a Biblia elleni érv lett volna. A zsoltárok azt kérdezik, hová lett Isten; Izajás önmagát elrejtő Istennek nevezi."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Egy Istent, aki ismertté akar válni, könnyebb volna megtalálni",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "gods-honesty",
+          "claim": "Egy ilyen hatalmas lény világossá tehetné a szándékait, és nem tette",
+          "explanation": "Tegyük félre egy pillanatra a bizonyítást, és kérdezzünk rá a hétköznapi közlésre. Aki valóban azt akarja, hogy megértsék, és megvannak hozzá az eszközei, az gondoskodik róla, hogy megértsék. Az a szülő, aki olyan utasítást hagy hátra, amelyet a gyerek nem tud elolvasni, nem hagyott hátra utasítást.\n\nNietzsche változata nem a bizonyítékokról, hanem a becsületességről szól, és ez az élesebb forma. A panasz nem az, hogy Isten elmulasztott szolgáltatni egy szillogizmust. Hanem az, hogy egy korlátlan hatalmú és korlátlan tudású lény, aki azt akarta, hogy teremtményei tudják, mi a szándéka, nem bízta volna a dolgot vitatott szövegekre, versengő hagyományokra és következtetésre.",
+          "quote": {
+            "text": "Egy isten, aki mindentudó és mindenható, és aki még arról sem gondoskodik, hogy teremtményei megértsék a szándékát — lehetne-e ez a jóság istene?",
+            "author": "Friedrich Nietzsche",
+            "work": "Daybreak: Thoughts on the Prejudices of Morality (Virradat: Gondolatok az erkölcsi előítéletekről)",
+            "year": "1881",
+            "locator": "§91, „Isten becsületessége”",
+            "sourceUrl": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "A god who is all-knowing and all-powerful and who does not even make sure that his creatures understand his intention — could that be a god of goodness?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Feltételezi, hogy Isten csakis azt akarhatja, hogy megértsék, és hogy a világosságnak nincs ára. Ha az a cél, hogy a kapcsolatba szabadon lépjenek be, akkor valakit elárasztani bizonyítékkal nem ugyanannak a jobb változata; megváltoztatja, mi az, amit felkínálnak. Egy bizonyítás beleegyezést váltana ki, a beleegyezés pedig nem bizalom.",
+            "response": "Ez jó válasz volna, ha a bizonyítás és a hallgatás között kellene választani. De nem kell. Óriási tartomány van egy kényszerítő erejű demonstráció és a tényleges helyzetünk között, és a szabad kapcsolatra hivatkozó válaszban semmi nem magyarázza meg, miért éppen ennek a tartománynak ezen a végén áll a bizonyíték."
+          }
+        },
+        {
+          "id": "nonresistant-nonbelief",
+          "claim": "Akik nyitottak és keresnek, mégsem találnak semmit",
+          "explanation": "Ez az a változat, amely visszahelyezte a rejtőzködést a komoly filozófiába. Nem függ semmilyen állítástól a bizonyítékok erejéről. Egyetlen tényen múlik az emberekről: némelyikük egyáltalán nem szegül ellen Istennek — örömmel fogadnák, néhányan évekig imádkoztak azért, hogy mutasson valamit —, és mégsem hisznek.\n\nJ. L. Schellenberg érve az, hogy [[nem ellenszegülő hitetlenségnek|nem ellenszegülő hitetlenség]] nem volna szabad léteznie, ha létezik egy tökéletesen szerető Isten. A szeretet legalábbis azt jelenti, hogy elérhető vagy annak, aki feléd nyúl. Bármilyen okai lehetnek is Istennek arra, hogy egy ellenséges ember elől rejtve maradjon, ezek nyilvánvalóan nem érvényesek arra, aki nyitott kézzel áll.",
+          "quote": {
+            "text": "Schellenberg érve úgy szól, hogy egy tökéletesen szerető Isten mindig nyitott volna a személyes kapcsolatra minden véges személlyel, aki képes rá; hogy ez a nyitottság összeegyeztethetetlen azzal, hogy az illető önhibáján kívül képtelen hinni Isten létezésében; hogy ilyen emberek nyilvánvalóan léteznek; és hogy ezért tökéletesen szerető Isten nem létezik.",
+            "author": "J. L. Schellenberg",
+            "work": "Divine Hiddenness and Human Reason",
+            "year": "1993",
+            "locator": "a rejtőzködési érv saját összefoglalásunk, ahogyan Schellenberg kifejti; nem az ő szövege",
+            "sourceUrl": "https://philpapers.org/rec/SCHDHA",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Schellenberg's argument runs that a perfectly loving God would always be open to a personal relationship with any finite person who is capable of one; that being so open is incompatible with that person's being unable to believe God exists through no fault of their own; that such people plainly do exist; and that therefore no perfectly loving God does.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az érvnek arra van szüksége, hogy a „nyitott a kapcsolatra” azt jelentse: „most hozza létre a hitet”, márpedig ez a kettő nem ugyanaz. Egy kapcsolat valóban felkínálható úgy is, hogy az időzítés nem a miénk: aki harmincévesen nincs készen, ötvenévesen készen lehet, és egy időn kívüli Isten nem köteles a mi menetrendünk szerint dolgozni. A hit ráadásul nem az egyetlen forma, amelyet a nyitottság felvehet.",
+            "response": "Ezek közül az emberek közül néhányan harmincévesen meghalnak. És egy ajánlat, amelyet az, aki nyúl érte, nem tud észlelni, semmit nem végez el abból a munkából, amit az „ajánlat” szó általában elvégez. A válasz lehet igaz, de azt állítja, hogy Isten szeretete egy emberi életen belülről nézve nem szeretetnek látszik — és ezt nehéz dolog megadni.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "demographics",
+              "label": "A hit földrajza",
+              "heldBy": "Stephen Maitzen",
+              "oneLine": "A teista hit egyes országokban csaknem általános, másokban nagyon ritka, és ez az eloszlás az, amit a kultúrától várnánk, nem pedig egy mindenkit kereső Istentől.",
+              "summary": "Ez a változat nem azon fordul meg, hogy egy-egy ember ellenszegül-e. Egy mintázaton fordul meg.\n\nHa az Istenben való hit egy Istenre válaszoló képességből fakadna, vagy egy Istenből, aki elérhetővé teszi magát mindenkinek, aki nyitott, akkor az eloszlása nem követné ennyire pontosan az országhatárokat. A demográfiai adatok ehelyett azt mutatják, hogy annak legjobb előrejelzője, hisz-e valaki, az, hogy hol született. Erre a mintázatra a naturalista magyarázatok kézenfekvők; a teista magyarázatoknak meg kell indokolniuk, miért hozna létre egy mindenkivel kapcsolatot kereső Isten olyan eredményt, amelynek térkép alakja van.",
+              "quote": {
+                "text": "A teista hit rendkívül egyenetlenül oszlik el a világban: egyes országokban csaknem általános, másokban nagyon ritka, és ezt a mintázatot sokkal jobban magyarázza a kulturális átadás, mint bármely olyan elképzelés, amely szerint Isten minden emberrel kapcsolatot keres.",
+                "author": "Stephen Maitzen",
+                "work": "Divine Hiddenness and the Demographics of Theism, Religious Studies 42",
+                "year": "2006",
+                "locator": "az érv saját összefoglalásunk, ahogyan Maitzen kifejti; nem az ő szövege",
+                "sourceUrl": "https://philosophy.acadiau.ca/tl_files/sites/philosophy/resources/documents/Maitzen_Hiddenness.pdf",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Theistic belief is distributed extremely unevenly across the world, being near-universal in some countries and very rare in others, and this pattern is far better explained by cultural transmission than by any account on which God seeks a relationship with every person.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés az, hogy a „nyitott a kapcsolatra” nem feltétlenül jelenti azt, hogy „most hozza létre a hitet”, és hogy egy kapcsolat valóban felkínálható akkor is, ha valaki még nincs készen. Ez a válasz egyénekről és a készenlétükről szól. Semmit nem mond arról, miért függene össze a készenlét ilyen erősen az útlevéllel — pedig ez az a tény, amelyre ez a változat épül.",
+              "objection": {
+                "text": "A kulturális átadás csaknem minden vélekedés eloszlását megmagyarázza, az igazakét is: az, hogy hol születtél, azt is előrejelzi, elfogadod-e az evolúciót vagy a kórokozó-elméletet, és ebből senki nem következtet arra, hogy a baktériumok kulturálisak. Az érv ráadásul olyan Istent feltételez, aki most akar egyöntetű hitet, nem pedig olyan történelmet, amely meghatározott népeken és korokon keresztül munkálkodik — márpedig ez az ellenkezője annak, amit a hagyomány állít arról, hogyan cselekedett valójában.",
+                "from": "theist",
+                "response": "A párhuzam éppen ott bukik el, ahol számít: ahol a bizonyíték nyilvános, ott a kulturális eltérés a bizonyíték terjedésével zsugorodik, a teista állítás pedig éppen az, hogy az ide vágó bizonyíték már most mindenki számára elérhető."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Egy Isten, aki hitre kényszerítene, valami mást kínálna",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "enough-light",
+          "claim": "A bizonyíték ahhoz van mérve, amit az ember hajlandó meglátni",
+          "explanation": "Pascal válasza az, hogy a helyzet nem mulasztás, hanem terv, és illik ahhoz a fajta dologhoz, amit keresnek. Az elsöprő bizonyíték eldöntené Isten létezésének kérdését, miközben érintetlenül hagyná azt a kérdést, amelyről a keresztény hagyomány szerint valójában szó van: hogy mit akar az ember igaznak, és mit kezdene vele.\n\nA világ tehát úgy van berendezve, hogy legyen elég fogódzó annak, aki nézni akar, és elég homály annak, aki inkább nem. Ez nem azt állítja, hogy a keresők mindig gyorsan találnak. Azt állítja, hogy a kétértelműség csinál valamit, nem pedig hiba a tervben.",
+          "quote": {
+            "text": "Elég fény van azoknak, akik csak látni vágynak, és elég homály azoknak, akik ellenkező hajlamúak.",
+            "author": "Blaise Pascal",
+            "work": "Pensées (Gondolatok), W. F. Trotter angol fordítása",
+            "year": "1670",
+            "sourceUrl": "https://www.ccel.org/ccel/pascal/pensees.viii.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There is enough light for those who only desire to see, and enough obscurity for those who have a contrary disposition.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ez tesztelhetetlen állítást tesz mindazok belső állapotáról, akiknek nem sikerül megtalálniuk Istent, méghozzá nagyon kényelmes irányban. Azt mondja, hogy aki még mindig keres, az valójában nem akar látni — amit nem lehet ellenőrizni, nem lehet megcáfolni, és csendben megsért rengeteg becsületes embert.",
+            "response": "Így olvasva rá is szolgál az ellenvetésre, és gyakran így olvassák. Az erősebb olvasat egyáltalán nem egyénekről szól: azt mondja, hogy a bizonyíték soha nem hat úgy az emberre, hogy közben független volna attól, mit hajlandó kezdeni vele — ez pedig arról szóló állítás, hogyan működik a hit általában, nem pedig vád bármely konkrét hitetlennel szemben.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "properly-basic",
+              "label": "A bizonyíték követelése rosszul írja le a hitet",
+              "heldBy": "Alvin Plantinga, Nicholas Wolterstorff, William Alston; tágabban a református episztemológia",
+              "oneLine": "Az Istenben való hit nem olyan következtetés, amelyre az emberek bizonyítékokból jutnak, ezért az a panasz, hogy a bizonyíték nem elegendő, olyasmit céloz, amit senki nem csinált.",
+              "summary": "Ez az álláspont nem azt mondja, hogy a bizonyíték elegendő. Azt mondja, hogy a kérdés eleve rosszul van feltéve.\n\nPlantinga leírása szerint van egy képességünk — Kálvin sensus divinitatisa —, amely bizonyos körülmények között közvetlenül létrehozza az Istenben való hitet: hálában, bűntudatban, egy hegy látványára. Az így keletkező vélekedések alapvetők, mint a más elmékben vagy a múlt valóságosságában való hit, és ezek egyikét sem valamilyen érv ereje tartja. Ha a képesség létezik és működik, a hit bizonyíték nélkül is igazolt; ha a bűn megrongálta, az olyan magyarázat arra, miért nem hisznek egyesek, amely nem kívánja meg, hogy vétkesen ellenszegüljenek bárminek.",
+              "quote": {
+                "text": "Isten úgy teremtett minket, embereket, hogy van bennünk egy vélekedést létrehozó folyamat, a hit egyik forrása, a sensus divinitatis; ez a forrás különféle körülmények között Istenre vonatkozó vélekedéseket hoz létre, köztük olyanokat, amelyekből közvetlenül következik a létezése. Az így létrejött hit könnyen megfelelhet az igazoltság feltételeinek.",
+                "author": "Alvin Plantinga",
+                "work": "Warranted Christian Belief",
+                "year": "2000",
+                "sourceUrl": "https://www.ccel.org/ccel/plantinga/warrant3.vi.ii.i.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "God has created us human beings with a belief-producing process or source of belief, the sensus divinitatis; this source works under various conditions to produce beliefs about God, including beliefs that immediately entail his existence. Belief produced in this way can easily meet the conditions for warrant.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés az, hogy az álláspont tesztelhetetlen állítást tesz mindazok belső állapotáról, akiknek nem sikerül megtalálniuk Istent, méghozzá kényelmes irányban. Ez a változat semmilyen állítást nem tesz az ellenszegülésről. Egy képesség úgy is felmondhatja a szolgálatot, hogy a gazdája nem hibás benne, ahogyan a színvakság sem erkölcsi fogyatékosság — így annak a vádnak, hogy a hitetlent hibáztatja, nincs mibe kapaszkodnia.",
+              "objection": {
+                "text": "Egy képességről, amely egyes népességekben létrehozza az Istenben való hitet, másokban nem, és amelynek a kimenetei nem értenek egyet abban, melyik Istenről van szó, nem nyilvánvaló, hogy képesség, és nem kulturális örökség. A leírás ráadásul kétélű: ha az alapvető vélekedések érv nélkül is igazoltak lehetnek, ugyanez a szabadság minden vallásnak rendelkezésére áll, és olyan álláspontoknak is, amelyeket a leírás hívei elutasítanak; Plantinga válasza pedig — hogy valójában csak az igaz vélekedés igazolt — használhatatlan annak, aki éppen azt próbálja kitalálni, melyik az igaz.",
+                "from": "atheist",
+                "response": "A paritásra hivatkozó ellenvetést nem figyelmen kívül hagyják, hanem megválaszolják: az igazoltság azon múlik, hogy a képesség megfelelően működik-e alkalmas környezetben, ez pedig külső tény, nem olyasmi, amit a hívőnek előbb meg kellene állapítania."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-distance-is-the-point",
+          "claim": "A rés az, ami lehetővé teszi a szabad választ",
+          "explanation": "E felfogás szerint az, hogy Isten nem nyilvánvaló, nem közlési kudarc, hanem a kapcsolat feltétele. Egy korlátlan hatalmú lény, aki összetéveszthetetlenné tenné magát, nem volna egy lehetőség a többi között; minden döntés, amelyet a jelenlétében hoznak, a kényszerhez közeli állapotban születne. Az [[episztemikus távolság]] az, ami helyet hagy olyan válasznak, amely valóban az illetőé.\n\nC. S. Lewis egy démon szájába adta a gondolatot, és éppen ezért talál célba. Csűrcsavar nem a jó bizonyítékokkal rendelkező hívőtől fél. Hanem attól, aki Isten minden nyomát elvesztette, és mégis megy tovább — mert a keresztény felfogás szerint így néz ki a szeretet, amikor nem fizetnek érte.",
+          "quote": {
+            "text": "Ügyünk soha nincs nagyobb veszélyben, mint amikor egy ember, aki már nem vágyik rá, hanem szándékozik megtenni Ellenségünk akaratát, körülnéz egy világegyetemben, amelyből mintha minden nyoma eltűnt volna, és megkérdezi, miért hagyták el — és mégis engedelmeskedik.",
+            "author": "C. S. Lewis",
+            "work": "The Screwtape Letters (Csűrcsavar levelei)",
+            "year": "1942",
+            "locator": "Letter VIII",
+            "sourceUrl": "https://en.wikipedia.org/wiki/The_Screwtape_Letters",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Our cause is never more in danger, than when a human, no longer desiring, but intending, to do our Enemy's will, looks round upon a universe from which every trace of Him seems to have vanished, and asks why he has been forsaken, and still obeys.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ez megmagyarázza, miért nem kényszerítene Isten hitre. A tényleges eloszlást nem magyarázza meg. Milliók éltek és haltak meg úgy, hogy soha nem találkoztak az állítással, ez pedig nem szabadság, hanem a lehetőség hiánya. A kereszténységen belül ráadásul úgy írják le Istent, mint aki egyes embereknek összetéveszthetetlenné teszi magát — Pálnak a damaszkuszi úton nem hagytak episztemikus távolságot. Bármi legyen is a rés értéke, egyenetlenül alkalmazzák.",
+            "response": "Az egyenetlen eloszlás az ellenvetés legerősebb formája, és nincs rá rendes válasz. A hagyomány annyit mond, hogy a számadás nem zárul le a halállal, és hogy senkit nem ítélnek meg olyan bizonyíték alapján, amelyet soha nem kapott meg. Ez valódi válasz, csak éppen innen nem ellenőrizhető."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "A Biblia járt itt előbb",
+      "oneLine": "Isten rejtőzködése nem a kritikusok által kitalált ellenvetés: a panasz ott van a Zsoltárokban és a prófétáknál, élesebb nyelven, mint a legtöbb modern változatban.",
+      "text": "Mindkét oldalon érdemes tudni, hogy [[Isten rejtőzködése]] nem a kritikusok által kitalált ellenvetés. A szövegeken belüli téma.\n\nA zsoltárok azt kérdezik, meddig rejti el Isten az arcát. Izajás egyenesen úgy szólítja meg, mint önmagát elrejtő Istent. Jób panasza nem az, hogy Isten elvontan igazságtalan, hanem hogy nem jelenik meg és nem felel. A mondat pedig, amelyet az evangéliumok a keresztre feszítéskor Jézus szájába adnak, idézet a 22. zsoltárból: Istenem, miért hagytál el engem.\n\nEz semmit nem dönt el. Azt viszont jelenti, hogy az a keresztény, aki Istent távollévőnek találja, olyan helyzetben van, amelyre a hagyománynak van szava, és hogy az az ateista, aki a rejtőzködést olyan tényként mutatja fel, amelyet a kereszténység elmulasztott észrevenni, olyan embereknek mutatja fel, akik háromezer éve írnak róla."
+    }
+  ],
+  "whereItStands": "Ez az az érv, amely az elmúlt harminc évben a legtöbbet mozdult. Schellenberg előtt hangulat volt; ma formális érv a szakirodalomban, és általában a szenvedés problémája után a legerősebb teizmusellenes érvnek tartják.\n\nA két oldal valódi nézeteltérésre szűkült, nem félreértésre. Ma már senki nem állítja, hogy Istennek be kellene bizonyítania magát azoknak, akik elutasítják. A vita arról szól, lehetnek-e egy szerető Istennek okai arra, hogy rejtve maradjon olyasvalaki elől, aki nem utasítja el — és arról, hogy a felkínált okok, amelyek többnyire a szabadságról és a kapcsolat időzítéséről szólnak, elegendők-e a ténylegesen előforduló esetek lefedésére.\n\nHogy hová fut ki, olyasmin múlik, ami itt maga nem dönthető el: mennyire vagy biztos abban, hogy meg tudod mondani, mit tenne egy szerető Isten. Az ateista érvnek szüksége van erre a biztonságra, a fő teista válasz pedig az, hogy nincs meg nekünk — ez ugyanaz a lépés, amelyet a szenvedés problémájával szemben is megtesznek, és ugyanannyiba kerül. Ha nem tudjuk megítélni, hogyan nézne ki a szeretet, akkor nagyrészt elveszítjük a fogást azon, amiről vitatkoztunk.",
+  "commonMistake": "Az ateisták leggyakrabban a bizonyításról szóló változat mellett érvelnek — miért nem írja ki Isten az égre —, ami magára vonja a szabad válaszra hivatkozó feleletet, és elveszíti azt az érvet, amely valóban működik. Az erős forma egyáltalán nem a bizonyításról szól, hanem azokról, akik már nyúlnak felé.\n\nA keresztények leggyakrabban a szabad akaratra hivatkozó válasszal felelnek, és ott meg is állnak, anélkül hogy észrevennék: ez a kényszerről szól, nem az eloszlásról. Semmit nem mond arról, aki egy évtizeden át imádkozott azért, hogy mutassanak neki valamit, és egyáltalán semmit a milliókról, akik soha nem hallották az állítást.\n\nÉs mindkét oldal hajlamos egy általános keresőről vitatkozni, miközben a téma valódi ereje a konkrét esetekben van. Amit itt mondunk, azt el kell tudni mondani annak is, aki évekig imádkozott, és semmit nem kapott — mert éppen róla szól az érv.",
+  "sources": [
+    {
+      "title": "Daybreak: Thoughts on the Prejudices of Morality (Virradat: Gondolatok az erkölcsi előítéletekről)",
+      "author": "Friedrich Nietzsche",
+      "year": "1881",
+      "url": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
+      "note": "A §91 címe: „Isten becsületessége”."
+    },
+    {
+      "title": "Divine Hiddenness and Human Reason",
+      "author": "J. L. Schellenberg",
+      "year": "1993",
+      "url": "https://philpapers.org/rec/SCHDHA",
+      "note": "Az ezen az oldalon szereplő érvet összefoglaljuk, nem idézzük; az összefoglalás parafrázisként van megjelölve."
+    },
+    {
+      "title": "Pensées (Gondolatok), W. F. Trotter angol fordítása",
+      "author": "Blaise Pascal",
+      "year": "1670",
+      "url": "https://www.ccel.org/ccel/pascal/pensees.viii.html"
+    },
+    {
+      "title": "The Screwtape Letters (Csűrcsavar levelei)",
+      "author": "C. S. Lewis",
+      "year": "1942",
+      "url": "https://en.wikipedia.org/wiki/The_Screwtape_Letters"
+    },
+    {
+      "title": "The Hiddenness of God",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/divine-hiddenness/"
+    },
+    {
+      "title": "Divine Hiddenness Argument against God's Existence",
+      "author": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/"
+    }
+  ]
+}

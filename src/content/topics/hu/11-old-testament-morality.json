@@ -1,0 +1,313 @@
+{
+  "id": "old-testament-morality",
+  "number": 11,
+  "slug": "mit-kezdjunk-az-oszovetsegi-eroszakkal",
+  "title": "Mit kezdjünk az ószövetségi erőszakkal?",
+  "category": "history-and-text",
+  "status": "interpretive",
+  "realQuestion": "A Deuteronomiumban és Józsué könyvében Isten úgy jelenik meg, mint aki megparancsolja Izraelnek, hogy Kánaán városaiban ne hagyjon életben semmit. Sámuel első könyvében Saul azért veszíti el a királyságát, mert megkímélte az amálekita királyt és az állatállományt. Ezek nem eldugott szakaszok.\n\nA vita arról szól, mit kellene egy olvasónak következtetnie belőlük, és azért kapta az értelmezési címkét, mert mindkét oldal elismerheti az összes tényt — hogy mit mondanak a szavak, mikor írták őket, mi történt a földben —, és mégis vitatkozhat azon, hogy ezek a tények mi mellett szólnak.\n\nA keresztény válasz nem egyetlen válasz. Lentebb négy egymással összeegyeztethetetlen olvasat szerepel, olyan emberek képviseletében, akik mind mérvadónak tekintik a szöveget, és mindegyik ellen más keresztények éppolyan élesen tiltakoznak, mint bárki kívülről. Aki egyházban nőtt fel, az többnyire találkozott már valamelyikkel.",
+  "distinctions": [
+    {
+      "label": "Megtörtént-e a hódítás úgy, ahogyan a leírás mondja?",
+      "gloss": "Jórészt nem, és ezt semmilyen meggyőződésű régész nem vitatja: nem volt kívülről érkező tömeges invázió, nincsenek megfelelő pusztulási rétegek, Jerikó falai már egy évszázaddal minden szóba jöhető időpont előtt romokban álltak. Ez kevesebbet számít, mint amennyinek látszik, mert az erkölcsi ellenvetés egy olyan szöveg ellen irányul, amely Istent a parancs kiadójaként mutatja be, és ez akkor is áll, ha soha nem hajtották végre. A lenti jegyzetben kifejtve.",
+      "activeHere": false
+    },
+    {
+      "label": "Jó okot adnak-e ezek a szakaszok arra, hogy elutasítsuk a Biblia által leírt Istent?",
+      "gloss": "Ez ennek az oldalnak a vitája. Mindkét oldal egyetért abban, mit mond a szöveg; abban nem értenek egyet, hogy miféle írásmű ez, és mi következik belőle.",
+      "activeHere": true
+    },
+    {
+      "label": "Több erőszakot okozott-e a vallás, mint amennyit megelőzött?",
+      "gloss": "Más kérdés, jórészt tapasztalati, és intézményekről meg történelemről szól, nem egy szövegről. 18. téma.",
+      "activeHere": false
+    },
+    {
+      "label": "Megbízható-e a Biblia?",
+      "gloss": "Az általános kérdés a szöveg pontosságáról és tekintélyéről. Több lenti olvasat ezen fordul meg — kettő közülük nyíltan feladja a tévedhetetlenséget —, de az itteni erkölcsi érv bármi legyen is a válasz, működik. 14. téma.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "herem",
+      "definition": "Az ezekben a szakaszokban álló héber kifejezés, amelyet általában „pusztulásra szánni” vagy „teljesen kiirtani” alakban adnak vissza. Hogy mekkora a jelentéstartománya és az ereje, éppen az egyik olyan dolog, amelyben a szakemberek nem értenek egyet."
+    },
+    {
+      "term": "akkomodáció",
+      "definition": "Az a gondolat, amely régebbi a mai vitánál, hogy Isten annak a kultúrának a keretein belül munkálkodik, amelyhez szól, ahelyett hogy mindent egyszerre helyesbítene. Kálvin is használta; a lenti olvasat messzebb viszi, mint Kálvin tette."
+    },
+    {
+      "term": "tévedhetetlenség",
+      "definition": "Az a tanítás, hogy a Szentírás semmiféle tévedést nem tartalmaz. A lenti olvasatok közül kettő csak olyan keresztények számára elérhető, akik ezt nem vallják, és ezért ér célba az ellenvetés másképp a különböző egyházakban."
+    }
+  ],
+  "sides": [
+    {
+      "label": "A parancsok nem azok, aminek egy mai olvasó veszi őket",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "conquest-rhetoric",
+          "claim": "A „ne hagyj életben semmit” az ókori háborús írásbeliség szokásos túlzása volt, és ugyanezek a könyvek túlélőkről számolnak be",
+          "explanation": "A legismertebb tudományos védelem a műfajról szól, és bizonyítékokra vonatkozó állítás, nem mentegetőzés. Az egyiptomi, moábi és asszír hódítási beszámolók rendszeresen mondják egy népről, hogy megsemmisítették, és magja sem maradt, olyan esetekben, amelyekben más forrásokból tudjuk, hogy a nép tovább élt.\n\nA bibliai szöveg ugyanezt teszi önmagával. Józsué könyve teljes pusztítást jelent; a Bírák könyve, amely folytatja a történetet, mindenütt kánaániakat szerepeltet. Paul Copan érve az, hogy aki a „[[herem]] alá kell vetni mindent, ami lélegzik” fordulatot halottak számbavételeként olvassa, az egy csatajelentést olyan műfajban olvas, amely akkor még nem létezett, és hogy a belső ellentmondás jelzés arról, miféle írásmű ez.",
+          "quote": {
+            "text": "Józsué konvencionális háborús retorikája sok más ókori közel-keleti hadi beszámolóban is elterjedt volt a Kr. e. második és első évezredben.",
+            "author": "Paul Copan",
+            "work": "Is God a Moral Monster? Making Sense of the Old Testament God",
+            "year": "2011",
+            "sourceUrl": "https://www.str.org/w/the-canaanites-genocide-or-judgment-",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Joshua's conventional warfare rhetoric was common in many other ancient Near Eastern military accounts in the second and first millennia B.C.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "accommodation",
+              "label": "Az izraeliták félreértették Istent, és a szöveg ezt rögzíti",
+              "heldBy": "Peter Enns, Kenton Sparks; a fősodratú és progresszív bibliatudomány jelentős része",
+              "oneLine": "Egy ókori törzsi nép úgy értette a saját Istenét, ahogyan az ókori törzsi népek szokták, és a Szentírás ezt őszintén rögzíti ahelyett, hogy helyesbítené.",
+              "summary": "Ezen olvasat szerint a Biblia nem diktált tételek gyűjteménye, hanem annak a feljegyzése, hogyan alakult egy nép Istenről alkotott értése, beleértve azt is, amiben tévedtek. Izrael szomszédainak mind voltak hadistenei, akik győzelmet adtak, és kérték a zsákmányt; Izrael azért írt ebben a nyelvezetben, mert Izrael ebben a világban élt.\n\nA teológiai állítás az [[akkomodáció]]: Isten ott találkozik az emberekkel, ahol vannak, nem pedig előadással kezdi. Amit a szöveg ad, az hű beszámoló arról, hogyan látta Izrael Istent abban a szakaszban, nem pedig hű beszámoló Istenről.",
+              "quote": {
+                "text": "Isten soha nem mondta az izraelitáknak, hogy öljék meg a kánaániakat. Az izraeliták hitték azt, hogy Isten azt mondta nekik, öljék meg a kánaániakat.",
+                "author": "Peter Enns",
+                "work": "The Bible Tells Me So",
+                "year": "2014",
+                "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "God never told the Israelites to kill the Canaanites. The Israelites believed that God told them to kill the Canaanites.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A műfaji ellenvetés nem érhet célba, mert ez az olvasat soha nem állította, hogy a parancsok túlzások lettek volna. Elismeri, hogy valódi parancsokként olvashatók, és azt mondja, hogy a róluk szóló beszámoló téves — így az az érv, hogy a szöveget megerőszakolták, csak hogy elkerüljék a kézenfekvő értelmét, azzal kap választ, hogy a kézenfekvő értelmet teljes egészében elismerik.",
+              "objection": {
+                "text": "Ha a szöveg ebben tévedhet, mi dönti el, mely részei tévesek? Az olvasatnak kritériumra van szüksége, és amit rendszerint kínálnak — hogy az Ószövetséget Jézus felől kell olvasni —, éppen az, ami vitatott, hiszen a hódítás Istene és az evangéliumok Istene állítólag ugyanaz. Kritérium nélkül a módszer felhatalmazást ad arra, hogy bármit eltávolítsunk, amit egy adott évszázad kényelmetlennek talál, és az a vád, hogy az olvasatok abban a sorrendben érkeznek, ahogyan az erkölcsi nyomás nehezedik rájuk, pontosan ide céloz.",
+                "from": "both",
+                "response": "A kritérium ki van mondva, és nem új: a hagyomány a második század óta Krisztus felől olvassa az Ószövetséget, és ezt nyíltan tenni becsületesebb, mint úgy tenni, hogy közben azt állítjuk, betű szerint olvasunk."
+              }
+            },
+            {
+              "id": "cruciform",
+              "label": "Az erőszakos istenképek valódiak, és a kereszt felől kell olvasni őket",
+              "heldBy": "Gregory Boyd; az anabaptista és erőszakmentes teológia egyik irányzata",
+              "oneLine": "Isten jelleme teljességgel egy megfeszített emberben mutatkozik meg; ahol az Ószövetség mást mutat, ott azt mutatja, hogy Isten lehajol, és elhordozza népe félreértését.",
+              "summary": "Ez az olvasat mindkét szokásos kijáratot elutasítja. Nem enyhíti a szövegeket — Boyd kitart amellett, hogy pontosan olyan erőszakosak, amilyennek látszanak —, és nem is egyszerűen tévesnek nevezi őket.\n\nA kereszten Isten olyan külsőt ölt magára, amely félrevezet róla: bűnöző, átkozott, legyőzött. Boyd amellett érvel, hogy az erőszakos istenképek ugyanígy működnek. Isten megengedte, hogy úgy ábrázolják, ahogyan népe akkor el tudta gondolni őt, és inkább elhordozta a torzítást, semhogy magukra hagyta volna őket — és a kereszt az, ami elárulja nekünk, hogy torzítás.",
+              "quote": {
+                "text": "Az Ószövetség erőszakos istenképeit nem enyhítjük és nem tesszük félre, hanem úgy olvassuk, mint Isten lehajlását, amellyel elhordozza azt a torz módot, ahogyan népe elgondolta őt, ugyanabban az önkiüresítésben, amely a kereszten éri el teljes kifejeződését, ahol Isten ismét olyan külsőt ölt magára, amely félrevezet valódi jelleméről.",
+                "author": "Gregory A. Boyd",
+                "work": "The Crucifixion of the Warrior God",
+                "year": "2017",
+                "locator": "a kruciform tézis saját összefoglalásunk; nem Boyd megfogalmazása",
+                "sourceUrl": "https://reknew.org/book/crucifixion-warrior-god/",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The Old Testament's violent portraits of God are not softened or set aside but read as God stooping to bear the distorted way his people conceived him, in the same self-emptying that reaches its full expression at the cross, where God again takes on an appearance that misrepresents his true character.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A műfaji ellenvetésnek nincs mibe kapaszkodnia. Boyd egyetért azzal, hogy a parancsok parancsokként olvasandók, és hogy semmilyen filológiai eredmény nem enyhíti őket; teljes erejükben megtartja a szövegeket, és a kérdést arra helyezi át, hogy mit is csinál egy ilyen fajta kinyilatkoztatás. Az az érv, hogy a hiperbola-olvasat erőszakot tesz a héber szövegen, nem érv egy olyan olvasat ellen, amely soha nem hivatkozott rá.",
+              "objection": {
+                "text": "A módszernek nincs megállási szabálya. Ha egy szakasz, amely félrevezet Istenről, éppen azzal nyilatkoztatja ki őt, hogy elhordozza a félrevezetést, akkor a szövegben semmi nem szólhat a tézis ellen, és konzervatív bírálók kifogásolják, hogy az olvasó bármelyik szakaszt torzításnak minősítheti. A másik irányból a panasz épp az ellenkezője: az olvasat elismeri az egész erkölcsi ellenvetést — ezek az istenképek hamisak és szörnyűek —, majd vonakodik levonni a következtetést.",
+                "from": "both",
+                "response": "A megállási szabály a kereszt, amely rögzített pont, nem pedig ízlés kérdése, és mindkét ellenvetés a szándékolt ár: a módszer éppen azért létezik, hogy egyszerre tartsa meg a szövegeket és az erkölcsi ítéletet."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Thom Stark könyvnyi terjedelmű válasza amellett érvel, hogy a hiperbola-olvasat nem éli túl azokat a szövegeket, amelyekre alkalmazzák. Egy dolog a megszokott túlzás arról, milyen alaposan esett el egy város; és más dolog a konkrét utasítás, hogy asszonyokat, gyermekeket és csecsemőket kell megölni, amelynek a felsorolását Sámuel első könyvének 15. fejezete részletesen megadja. Az olvasat ráadásul a másik irányba vág: ha a nyelvezet konvencionális, akkor Izrael Istenét a környező hadistenek nyelvezetében beszéltetik, ami közelebb áll a bíráló, mint a védelmező leírásához. Eric Seibert keresztényként írva ugyanezt hangsúlyozza arról, hogy mibe kerül ez a védelem.",
+            "objectionFrom": "within",
+            "sharedPremise": "magából a szövegből érvel, és abból, amire a Szentírás magas becsülése kötelezi azt, aki vallja — hogy a szavak azt jelentik, aminek egy hozzáértő ókori olvasó vette volna őket, és hogy a konkrét, részletes parancsokat nem oldhatja fel egy konvenció, amely az általánosakra illik.",
+            "landsOn": [],
+            "response": "A felsorolások maguk is részei a formulának, ugyanabban a sztereotip sorrendben bukkannak fel nem bibliai szövegekben is, és a konvenció melletti összehasonlító érvelést az apologetika körein jóval túl is elfogadják."
+          }
+        },
+        {
+          "id": "judgement-and-prerogative",
+          "claim": "Ítélet volt, és az ellenvetés feltételezi, hogy Istent kötik azok a kötelességek, amelyekkel egymásnak tartozunk",
+          "explanation": "Ez az olvasat szó szerint veszi a szöveget, és az ellene alkalmazott mércét vitatja. A kánaáni kultúrákról a Leviticus azt írja, hogy gyermekáldozatot mutattak be; a Teremtés könyvében Isten azt mondja Ábrahámnak, hogy leszármazottai négy nemzedéken át nem térnek vissza, mert az amoriták gonoszsága még nem telt be. A hódítás régóta halogatott ítéletként jelenik meg.\n\nA második fele viszonyokról szóló állítás. Te nem olthatsz ki egy életet; egy orvos felvághat; egy állam bebörtönözhet. Hogy mi megengedett, az a viszonyon múlik, és William Lane Craig szerint Istennek nincs kötelessége bárki életét meghosszabbítani, és a kötelezettségeket kibocsátja, nem pedig követi. Azt is hangsúlyozzák, hogy ez megismételhetetlen helyzet volt, nem pedig állandó engedély — mert az olvasat nyilvánvaló veszélye az, hogy valaki majd újra alkalmazza.",
+          "quote": {
+            "text": "Kánaán meghódítása Isten igazságos ítéletét jelentette azokon a népeken",
+            "author": "William Lane Craig",
+            "work": "Slaughter of the Canaanites (Question of the Week rovat)",
+            "year": "2007",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "the conquest of Canaan represented God's just judgement upon those peoples",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ha az „amit Isten parancsol, az igazságos” képes magába fogadni csecsemők megölését, akkor az „igazságos” szó megszűnt olyasmit jelenteni, amit egy hívő felismerhetne — és a 10. téma erkölcsi érve összeomlik vele együtt, mert az az érv azon múlik, hogy fel tudjuk ismerni, ha valami szörnyűség. Egy védelem, amely úgy menti meg Isten jóságát, hogy felismerhetetlenné teszi, feladta azt, amit megvédeni indult. Randal Rauser, Eleonore Stump és Eric Seibert egyaránt ezt hangsúlyozza, és a történeti előfeltevés is gyenge: a kánaáni gyakorlat leírásai a hódító oldalról származnak, a régészet pedig nem támasztja alá a kivételes romlottság képét.",
+            "objectionFrom": "within",
+            "sharedPremise": "olyan előfeltevésekből érvel, amelyeket az álláspont vall — hogy Isten létezik, hogy a Szentírás mérvadó, és hogy felismerünk egy szörnyűséget, ha látjuk —, arra a következtetésre, hogy egy védelem, amely felismerhetetlenné teszi Isten jóságát, feladta azt, amit megvédeni indult.",
+            "response": "Felismerni, hogy valami szörnyűség volna, ha mi tennénk, összefér azzal, hogy nem szörnyűség attól, aki az életet adja és elveszi. A megkülönböztetést nem erre az esetre találták ki; ez az erkölcsi megengedettség hétköznapi szerkezete."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Egy jó Isten nem parancsolta volna, tehát a szöveg téved róla",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "the-inerrantist-challenge",
+          "claim": "Vagy jók voltak ezek a parancsok, vagy a könyv, amely beszámol róluk, félreértette Istent",
+          "explanation": "Wes Morriston változata gondos, és keresztényekhez szól, nem róluk. Nem abból az állításból indul ki, hogy a Biblia értéktelen, hanem abból, amit a legtöbb keresztény már eleve elfogad: hogy gyermekeket ölni rossz, és hogy ezt olyan biztosan tudjuk, ahogyan erkölcsi téren bármit tudunk.\n\nAz érv dilemmaként fut. Isten, jó lévén, csak erkölcsileg elégséges okból parancsolna ilyesmit; nagyon nehéz belátni, mik lehetnének ezek, tekintve, hogy egy mindenható lénynek minden más lehetőség is a rendelkezésére állt; tehát az ésszerűbb következtetés az, hogy a szöveg téved abban, mit parancsolt Isten. Ez a következtetés egy keresztény számára elérhető — és nem elérhető annak, aki a [[tévedhetetlenséget|tévedhetetlenség]] vallja, és éppen ezért harap az érv ott a legmélyebbre, ahol a tanítás a legerősebb.",
+          "quote": {
+            "text": "a gondolkodó keresztényeknek, akik nagyra becsülik az Ószövetséget, szembe kell nézniük olyan szakaszokkal, amelyekben Isten állítólag erkölcsi szörnyűségeknek látszó dolgokat parancsol",
+            "author": "Wes Morriston",
+            "work": "Did God Command Genocide? A Challenge to the Biblical Inerrantist, Philosophia Christi 11",
+            "year": "2009",
+            "locator": "pp. 7-26",
+            "sourceUrl": "https://spot.colorado.edu/~morristo/DidGodCommandGenocide.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "thoughtful Christians who hold the Old Testament in high regard must come to terms with passages in which God is said to command what appear to be moral atrocities",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "irredeemable",
+              "label": "A szövegek azok, amik, és a tudományágnak abba kellene hagynia a mentésüket",
+              "heldBy": "Hector Avalos",
+              "oneLine": "Az érv nem az, hogy egy jó Isten nem parancsolta volna, hanem az, hogy a tudomány két évszázadon át okokat talált ki arra, miért szól hozzánk még mindig egy ókori szöveg, és ezt abba kellene hagynia.",
+              "summary": "Avalos álláspontja a bibliatudományra irányul, nem a keresztényekre, és komolyan veszi a szakterület saját eredményeit. A kritikai tudomány megállapította, hogy a Biblia olyan kultúrákból származik, amelyeknek a világ eredetéről, természetéről és céljáról alkotott nézeteit ma már senki nem vallja — a hívők többsége sem. Ő azt a következtetést vonja le ebből, hogy a relevanciáját fenntartó különféle technikák nem tudományt jelentenek, hanem annak az ellenkezőjét.\n\nEszerint a teista oldalon fentebb kifejtett olvasatok nem az igazságra tett négy kísérlet, hanem ugyanannak a fogásnak a négy esete, és az az érdekes kérdés, miért végzi el egy szakma újra meg újra.",
+              "quote": {
+                "text": "A Biblia így jórészt irreleváns a mai emberek szükségletei és gondjai szempontjából.",
+                "author": "Hector Avalos",
+                "work": "The End of Biblical Studies",
+                "year": "2007",
+                "locator": "a könyv tézise, a szerző saját összefoglalásában",
+                "sourceUrl": "https://bibleandcriticaltheory.com/wp-content/uploads/2018/05/vol4-no2-2008-the-end-of-biblical-studies-miscall-207-808-1-PB-u7y34v.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The Bible is thus largely irrelevant to the needs and concerns of contemporary human beings.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti válasz el sem tud indulni. Azt mondja, hogy nem vagyunk abban a helyzetben, hogy áttekintsük, milyen okai lehetnek egy mindentudó lénynek — ez a változat viszont semmit nem állít Isten okairól, és nem is kérdezi, hogy indokolt volt-e a parancs. Arról szól, mit csinál egy tudományág, és egy isteni ismeretelméleti hozzáférésről szóló érv egyszerűen nem neki szól.",
+              "objection": {
+                "text": "Az érv a szakterület eredményeit használja fel egy olyan következtetéshez, amelyre a szakterület nem jogosít fel. Az, hogy egy szöveg a miénktől eltérő kultúrából származik, távolságot állapít meg, nem irrelevanciát, és ezzel a mércével Homérosz, Thuküdidész és a római jog is mehetne. Ugyanannak a kritikai hagyománynak a recenzensei — akik osztják a szerzőségről, a datálásról és a történetiségről szóló következtetéseket — amellett érveltek, hogy a „releváns” eredményként becsempészett értékítélet, és hogy egy szakirodalom nem szűnik meg értékes lenni attól, hogy a tárgya nem mérvadó.",
+                "from": "within",
+                "sharedPremise": "maradéktalanul elfogadja a kritikai eredményeket — a datálást, a szerzőséget, a történetiséget, a kulturális távolságot —, és ugyanezekből az eredményekből érvel amellett, hogy a távolság nem irrelevancia, és hogy a szakterület egyetlen eredményéből sem következik, hogy a szakterületnek meg kellene szűnnie.",
+                "response": "Az összehasonlítás a pénzen és az intézményeken bukik el. Senki nem finanszíroz ezer homéroszi tanszéket azon az alapon, hogy Homérosz mérvadó, és az érv éppen erre az alapra irányul, nem a szövegekre."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "A dilemma feltételezi, hogy abban a helyzetben vagyunk, hogy áttekintsük, milyen okai lehetnek egy mindentudó lénynek, és ugyanezt a lépést a legtöbb ateista elutasítja, amikor a szenvedés problémájában „noseeum”-következtetésként bukkan fel. Ha ott nem dönti el az ügyet, hogy nem látunk okot, akkor itt sem dönti el. Az érv ráadásul kevesebbet bizonyít, mint amennyinek látszik: a következtetése az, hogy a tévedhetetlenség tanítása hamis, amit a világ keresztényeinek többsége soha nem is vallott.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Az összehasonlítás a megengedés és a parancsolás különbségén bukik el. Egy dolog nem megakadályozni egy rosszat olyan okokból, amelyeket nem látunk; és más dolog utasítani valakit, hogy okozza. A szövegben pedig az utasítás áll."
+          }
+        },
+        {
+          "id": "the-readings-are-incompatible",
+          "claim": "A négy olvasat nem lehet mind helyes, és mindegyiket elutasítják a többi védelmezői",
+          "explanation": "Ez az érv itt megjelölt szerző nélkül szerepel, és érdemes kimondani, miért: ez a szokásos ellenvetés, folyamatosan hangoztatják, és nem találtunk olyan változatát, amelyet idézni tudtunk volna. Ahelyett, hogy a saját megfogalmazásunkat egy megnevezett filozófus szájába adnánk, a magunk szavaival mondjuk el.\n\nA megfigyelést az olvasó ellenőrizheti ezen az oldalon. Fentebb a hódítási szövegek négy olvasata szerepel. Nem ugyanannak a nézetnek az árnyalatai: a hiperbola-olvasat szerint a parancsok valódiak voltak, és a szokásnak megfelelően túloztak; az akkomodációs olvasat szerint nem is voltak parancsok; a kruciform olvasat szerint valódiak voltak, és annak kinyilatkoztatásai, hogy Isten elhordozza a félrevezetést; az ítélet-olvasat szerint pedig valódiak, komolyan gondoltak és igazságosak voltak. Ezek közül legfeljebb egy igaz, és mindegyiket nyomtatásban elutasítják a többi védelmezői.\n\nAmi ebből következik, szűkebb annál, amit rendszerint hangoztatnak. Nem állítás bárki indítékairól. Hanem az, hogy aki az egyik ellenvetésre hiperbolával, a következőre akkomodációval válaszol, az nem két összeférhető védelem között mozgott; álláspontot váltott, és az olvasó megérdemli, hogy megmondják neki, melyiket vallja.",
+          "counter": {
+            "objection": "Egy nehéz kérdésre adott összeegyeztethetetlen válaszok: így néz ki egy élő szakterület, nem pedig bizonyíték bármelyikük ellen. A fizikusok a kvantummechanika összeegyeztethetetlen értelmezéseit vallják; hogy az egyik védelmezője elutasítja a többit, így működik a nézeteltérés, és semmit nem mond arról, melyiknek van igaza. Az érv ráadásul olyat kér, amit egyetlen értelmezési hagyomány sem nyújt: az olvasók valóban mozognak az olvasatok között, amíg eldöntik, mit gondoljanak, és az a követelés, hogy mindenki rögzített álláspontot jelentsen be, mielőtt megszólal, furcsa szabály volna itt, és sehol máshol.",
+            "objectionFrom": "theist",
+            "response": "A párhuzam akkor állna, ha az olvasatokat vetélkedő, próbára teendő hipotézisekként kínálnák. Egy ellenvetésre adott válaszként kínálják őket, egyesével, ugyanazok az emberek — és éppen erről a gyakorlatról szól az érv, nem a nézeteltérés létezéséről."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Mit mond a föld",
+      "oneLine": "Nincs régészeti bizonyíték a hódításra úgy, ahogyan Józsué könyve leírja — ez kiveszi a történelmi szörnyűséget, a szöveget pedig pontosan ott hagyja, ahol volt.",
+      "text": "A régészet a fenti olvasatok között nem vitatott, és mindegyiküknek számot kell vetnie vele. Nincs bizonyíték Kánaán kívülről érkező tömeges inváziójára, és nincs olyan pusztulásirétegminta, amely megfelelne a Józsué könyvében álló beszámolónak. Jerikó falai a jelek szerint már egy évszázaddal vagy többel a hódítás bármely szóba jöhető időpontja előtt romokban álltak. A jelenlegi fősodratú rekonstrukció szerint a korai Izrael nagyrészt magán a kánaáni társadalmon belül alakult ki, nem pedig kívülről érkezett, hogy elpusztítsa.\n\nEz több irányba vág. Kiveszi a történelmi szörnyűséget, ami számít. Nem veszi ki a szöveget, az erkölcsi ellenvetés pedig egy olyan könyv ellen irányul, amely Istent a parancs kiadójaként mutatja be — egy könyv ellen, amelyet háromezer éven át olvastak és amely szerint cselekedtek, azt követően, hogy megtörtént vagy nem történt meg bármi is.",
+      "quote": {
+        "text": "annyira biztos, amennyire ilyesmiben biztos lehet az ember, hogy Kánaán meghódítása úgy, ahogyan a Biblia leírja, nem történt meg: nem volt kívülről érkező tömeges invázió izraelita hadsereg részéről, és nem volt a kánaániak kiirtása Isten parancsa szerint",
+        "author": "Peter Enns",
+        "work": "The Bible Tells Me So",
+        "year": "2014",
+        "locator": "Enns a bibliai régészek konszenzusáról számol be",
+        "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+        "verification": "corroborated",
+        "sawWhat": "snippet",
+        "original": {
+          "text": "about as certain as you can be about these things that the conquest of Canaan as the Bible describes did not happen: no mass invasion from the outside by an Israelite army, and no extermination of Canaanites as God commanded",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "heading": "A szövegek, amelyek vitatkoznak a szövegekkel",
+      "oneLine": "Az Ószövetség tartalmazza a saját ellentanúságát ezekkel a szakaszokkal szemben, mellettük megőrizve olyan szerkesztők által, akik láthatóan egyiket sem látták szükségesnek eltávolítani.",
+      "text": "Az Ószövetség ebben nem egyhangú, és úgy olvasni, mintha az volna, mindkét oldal hibája. Jónás könyve egy prófétáról szóló történet, aki dühöng, amiért Isten megkímél egy idegen várost. Ruth könyvének hősnője moábita, olyan népből való, amelyet a Deuteronomium kizár a gyülekezetből. Ámósznál Isten azt mondja, hogy a filiszteusokat Kaftórból hozta fel, ahogyan Izraelt Egyiptomból, ami elveszi azt a különleges igényt, amelyen a hódítás nyugszik.\n\nEz nem válaszol az ellenvetésre, és nem is válaszként kínáljuk. Egy szűkebb kérdésre vonatkozik: arra, hogy a hódítási szövegek a hagyomány letisztult álláspontját képviselik-e, amely továbbadta őket. A saját ellentmondásuk mellett őrizték meg őket olyan szerkesztők, akik láthatóan egyiket sem látták szükségesnek eltávolítani."
+    }
+  ],
+  "whereItStands": "Semmi a bizonyítékok terén nem fogja ezt elmozdítani, és a címke ezért az, ami. A régészet eléggé le van zárva ahhoz, hogy minden fenti olvasat már számot vetett vele, a hódítási formuláról szóló filológiai kérdés pedig csak az egyiküket érinti.\n\nAmi vitatott, az ítélet kérdése: hogy egy szöveget, amely Istent a parancs kiadójaként mutatja be, legjobban úgy magyarázzuk-e, mint a modernek által félreolvasott szokásos retorikát, mint valódi és szörnyű ítéletet, mint őszintén rögzített félreértést, vagy mint olyan torzítást, amelyet Isten elhordozott. Mindegyik ugyanazokról a tényekről ad számot. Mindegyiknek megvan az ára, amelyet a képviselői elfogadnak, a bírálói pedig elviselhetetlennek találnak.\n\nEgy dolog elmozdult. Az egyenes ítélet-olvasat érezhetően kevésbé uralkodó a keresztény tudósok között, mint ötven éve volt, az akkomodáció pedig érezhetően inkább az, és ez az elmozdulás erkölcsi nyomás alatt történt, nem új bizonyítékok hatására. Mindkét oldal rámutat erre a tényre: az egyik mint önmagát helyesbítő hagyományra, a másik mint visszavonuló hagyományra.",
+  "commonMistake": "A keresztények leggyakrabban azért az olvasatért nyúlnak, amelyik az éppen előttük álló ellenvetésre válaszol, anélkül hogy észrevennék: három összeegyeztethetetlent használtak egyetlen beszélgetésen belül — a parancsok túlzások voltak, és megérdemelt ítélet, és az izraeliták félreértése. Mindegyik komoly álláspont. Együtt tartva egyáltalán nem álláspont, és a beszélgetőtárs, aki ezt észreveszi, joggal jut arra, hogy a következtetés már azelőtt megvolt, hogy az olvasatokat kiválasztották volna. Erre való a fenti négy panel: válassz egyet, és viseld, amibe kerül.\n\nAz ateisták leggyakrabban idézik a szakaszokat, és megállnak, mintha semmi továbbira nem volna szükség. Szükség van továbbira, mert a kérdés nem az, hogy megdöbbentőek-e a mondatok — ebben mindenki egyetért —, hanem az, hogy az az olvasat, amely megdöbbentővé teszi őket, a helyes-e. A műfaji érv elutasítása a párbeszédnek éppen azt a részét utasítja el, amely el tudna jutni valahová.\n\nMindkét oldal úgy is kezeli a régészetet, mintha eldöntene valamit. Kivesz egy szörnyűséget a történelemből, a szöveget pedig pontosan ott hagyja, ahol volt.",
+  "sources": [
+    {
+      "title": "The Canaanites: Genocide or Judgment?",
+      "author": "Paul Copan",
+      "url": "https://www.str.org/w/the-canaanites-genocide-or-judgment-",
+      "note": "A hiperbola-olvasat Copan saját megfogalmazásában."
+    },
+    {
+      "title": "Is God a Moral Compromiser? A Critical Review of Paul Copan's Is God a Moral Monster?",
+      "author": "Thom Stark",
+      "year": "2011",
+      "url": "http://thomstark.net/copan/stark_copan-review.pdf",
+      "note": "A könyvnyi terjedelmű válasz, ingyenesen a szerző saját honlapján. Az oldal az érvét ismerteti, és semmit nem állít a szerző saját meggyőződéséről."
+    },
+    {
+      "title": "Slaughter of the Canaanites",
+      "author": "William Lane Craig",
+      "year": "2007",
+      "url": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
+      "note": "Az ítélet és az előjog olvasata, legismertebb védelmezőjének megfogalmazásában."
+    },
+    {
+      "title": "Canaanites, Reality Checks, and Letting the Bible Out of the Box",
+      "author": "Peter Enns",
+      "year": "2014",
+      "url": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+      "note": "Enns az akkomodációs olvasatról és arról, mit mutat a régészet."
+    },
+    {
+      "title": "Crucifixion of the Warrior God",
+      "author": "Gregory A. Boyd",
+      "year": "2017",
+      "url": "https://reknew.org/book/crucifixion-warrior-god/",
+      "note": "A kruciform olvasat, a szerző saját honlapján. Ezen az oldalon parafrázisban szerepel, és ez jelölve is van."
+    },
+    {
+      "title": "Did God Command Genocide? A Challenge to the Biblical Inerrantist",
+      "author": "Wes Morriston",
+      "year": "2009",
+      "url": "https://spot.colorado.edu/~morristo/DidGodCommandGenocide.pdf",
+      "note": "Az ellenvetés filozófiai formája, a szerző saját egyetemi oldalán."
+    },
+    {
+      "title": "The End of Biblical Studies",
+      "author": "Hector Avalos",
+      "year": "2007",
+      "url": "https://bibleandcriticaltheory.com/wp-content/uploads/2018/05/vol4-no2-2008-the-end-of-biblical-studies-miscall-207-808-1-PB-u7y34v.pdf",
+      "note": "A The Bible and Critical Theory folyóiratban megjelent recenzió, amely ismerteti a tézist és az ellene szóló kifogásokat."
+    },
+    {
+      "title": "Jesus Loves the Canaanites: Biblical Genocide in the Light of Moral Intuition",
+      "author": "Randal Rauser",
+      "year": "2021",
+      "url": "https://randalrauser.com/2022/10/debating-the-canaanite-genocide-with-paul-copan/",
+      "note": "Könyvnyi terjedelmű keresztény bírálat a hiperbola- és az igazságos háború-olvasatról. Azért szerepel, mert a fenti második érv idézhető változata leginkább itt található meg; lásd a VERIFICATION.md fájlt."
+    }
+  ]
+}

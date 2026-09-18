@@ -1,0 +1,334 @@
+{
+  "id": "eternal-damnation",
+  "number": 12,
+  "slug": "igazsagos-lehet-e-az-orok-karhozat",
+  "title": "Igazságos lehet-e az örök kárhozat?",
+  "category": "morality",
+  "status": "interpretive",
+  "realQuestion": "Valaki leél hetven évet, és Istennel kiengesztelődés nélkül hal meg. A hagyományos tanítás szerint a következménynek nincs vége. Az ellenvetés mindenekelőtt számtani: véges élet, határtalan büntetés.\n\nKét érv van itt egymásra rakva, és másképp viselkednek. Az egyik arról szól, mit tanítanak valójában a keresztény szövegek — örök tudatos gyötrelmet, megsemmisülést, vagy mindenki végső kiengesztelődését. Ez a vita elvben eldönthető, és az álláspontok kimutathatóan mozognak benne; lentebb ismertetjük, nem pedig megvitatjuk, mert nem ez az oldal vitája.\n\nA másik az erkölcsi kérdés, és ez van ezen az oldalon. Fogadd el igaz tanításként bármelyik olvasatot. A bíráló akkor is azt mondja, hogy egy jó Isten nem tenné; a védelmező akkor is azt, hogy az a szeretet, amelyet nem lehet visszautasítani, nem szeretet, és hogy egy megrögzült elutasítás nem olyan bűn, amelynek időtartama van. Add meg mindkettőnek az összes exegetikai tényt, és egyik sem mozdul. Ezért van ez az oldal „értelmezési” címkével megjelölve.",
+  "distinctions": [
+    {
+      "label": "Mit tanítanak valójában a keresztény szövegek?",
+      "gloss": "A kereszténységen belül valóban vitatott, és valóban eleven: Robin Parry álnéven adta ki az univerzalizmus védelmét, mert megváltoztatta a véleményét, John Stott élete végén tért át az annihilacionizmusra, a feltételes halhatatlanság pedig a peremről a fősodratú evangelikál lehetőségek közé került, konkrét állítások alapján az aiōnios szóról. A négy álláspont a lenti első érv alatt szerepel változatként, mindegyik a saját képviselői szavaival, nem pedig itt megvitatva.",
+      "activeHere": false
+    },
+    {
+      "label": "Igazságos lehet-e az örök büntetés?",
+      "gloss": "Ez ennek az oldalnak a vitája. Erkölcsi kérdés, amely minden exegetikai választ túlél: a lenti négy álláspont közül bármelyiknek van igaza, akkor is meg lehet kérdezni, jó-e az az Isten, akit leír.",
+      "activeHere": true
+    },
+    {
+      "label": "Mi van azokkal, akik soha nem hallottak róla?",
+      "gloss": "Külön kérdés, az ítélet hatóköréről, nem a természetéről, és Krisztus egyedülállóságán múlik, nem az igazságosságon. 16. téma. A lenti inkluzivista változat az a pont, ahol a két kérdés érintkezik.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "aiōnios",
+      "definition": "A görög melléknév, amelyet a vonatkozó újszövetségi helyeken „örök”-nek vagy „örökkévaló”-nak fordítanak. Az, hogy véget nem érő időtartamot jelent-e, vagy azt, hogy „az eljövendő korhoz tartozó”, a szövegvita fordulópontja."
+    },
+    {
+      "term": "annihilacionizmus",
+      "definition": "Más néven feltételes halhatatlanság: az a nézet, hogy az üdvösségre nem jutók megszűnnek létezni, nem pedig vég nélkül szenvednek. Azt tartja, hogy a halhatatlanság ajándék, nem pedig minden lélek tulajdonsága."
+    },
+    {
+      "term": "apokatasztaszisz",
+      "definition": "A mindenek helyreállítása, a keresztény univerzalizmus szakkifejezése. Néhány korai görög egyházatya vallotta, egyes későbbi zsinatok elítélték, és ma újra érvelnek mellette."
+    },
+    {
+      "term": "optimális kegyelem",
+      "definition": "Jerry Walls kifejezése arra az állításra, hogy Isten minden embernek a lehető legjobb alkalmat adja meg az elfogadására, így aki végül elvész, az a rendelkezésre álló legkedvezőbb feltételek mellett utasította el."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Senkit nem küldenek oda; egyesek elutasítanak, és az elutasítást nem írják felül",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "locked-on-the-inside",
+          "claim": "A pokol nem kívülről kiszabott ítélet, hanem állapot, amelyben valaki önmagát tartja",
+          "explanation": "Az a kép, amelyet az ellenvetés támad — egy bíró, aki kínzási időtartamot szab ki —, nem az, amelyet a tanítás legtöbb mai védelmezője vall, és nem az, amit C.S. Lewis vallott. Az ő leírásában a kárhozottak nem egy ítélet áldozatai, hanem emberek, akik megkapták, amihez ragaszkodtak: egy teljesen befelé fordult ént, amelyből Isten ki van zárva, mert kizárták.\n\nA következménynek azért nincs vége, mert az elutasításnak nincs vége, nem azért, mert az ítéletet ilyen hosszúra szabták. Ebben az olvasatban a „miért ilyen sokat ilyen kevésért?” kérdés rosszul írja le az esetet. Itt senki nem tölt le semmit.",
+          "quote": {
+            "text": "Készséggel elhiszem, hogy a kárhozottak bizonyos értelemben sikeres lázadók mindvégig; hogy a pokol ajtajai belülről vannak bezárva.",
+            "author": "C.S. Lewis",
+            "work": "The Problem of Pain (A fájdalom)",
+            "year": "1940",
+            "sourceUrl": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "I willingly believe that the damned are, in one sense, successful, rebels to the end; that the doors of hell are locked on the inside.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ennek az ellenvetésnek a legkeményebb változata keresztény. Az univerzalisták, Nüsszai Gergelytől David Bentley Hartig, amellett érvelnek, hogy egy örökké fenntartott szabad elutasítás nem koherens: a döntés okokon fut, és egyetlen értelmes teremtmény sem részesíthetné örökké előnyben a nyomorúságot, ha tisztán látja Istent. Vagy meg van tévesztve az elutasító — ez esetben a választás nem tájékozott és nem szabad —, vagy nincs, ez esetben viszont érthetetlen, amit választ. Egy belülről bezárt ajtó attól még olyan ajtó, amelyet valaki épített, egy házban, amelynek csak egy kijárata van.",
+            "objectionFrom": "within",
+            "sharedPremise": "olyan előfeltevésekből érvel, amelyeket maga a tanítás is vall — hogy Isten mindenki üdvösségét akarja, és hogy a döntés okokból születik —, arra a következtetésre, hogy egy tisztán látott jó örökké fenntartott elutasítása nem koherens szabad választás.",
+            "response": "Az állítás nem az, hogy bárki e leírás szerint választaná a nyomorúságot, hanem az, hogy valaki olyan mélyen megkívánhat valamit, ami Istennel összeegyeztethetetlen, hogy már nem képes mást akarni. Ez nem egzotikus; ez a függőség hétköznapi alakja, a határesetben.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "annihilationism",
+              "label": "Annihilacionizmus, vagy feltételes halhatatlanság",
+              "heldBy": "John Stott, Edward Fudge, John Wenham; az evangelikálok jelentős kisebbsége",
+              "oneLine": "Az elveszettek megszűnnek létezni. A pusztulás, amelyet a szövegek leírnak, pusztulás, nem pedig vég nélküli továbbélés a romlásban.",
+              "summary": "Az [[annihilacionista|annihilacionizmus]] érv az, hogy a halhatatlanság az üdvözülteknek adott ajándék, nem pedig minden lélek tulajdonsága, és hogy a bibliai szókincs — elveszni, elpusztítani, megemészteni, a második halál — azt jelenti, amit mond. Ebben az olvasatban a hagyományos tanítás egy görög feltevést hoz be az elpusztíthatatlan lélekről, amelyet maguk a szövegek nem tesznek meg.\n\nA büntetés abban az értelemben örök, hogy az eredménye végleges, ahogyan az örök ítélet olyan ítélet, amelyet nem vizsgálnak felül. Ami nem örök, az a szenvedés.",
+              "quote": {
+                "text": "friss szemmel tekintse át a bibliai anyagot",
+                "author": "John Stott",
+                "work": "Essentials: A Liberal-Evangelical Dialogue, David L. Edwards társszerzőségével",
+                "year": "1988",
+                "locator": "Stott felhívása az evangelikálokhoz, hogy gondolják újra, nem illik-e jobban a bibliai bizonyítékokhoz a feltételes halhatatlanság",
+                "sourceUrl": "https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "survey the biblical material afresh",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés az, hogy egy örökké fenntartott elutasítás nem koherens szabad választás. E nézet szerint semmi nem marad fenn örökké: az elutasítás akkor ér véget, amikor az elutasító. Egy érvnek arról, hogy inkoherens örökre a nyomorúságot választani, itt nincs tárgya, és ezzel egyidejűleg a másik oldal arányossági ellenvetése is elveszíti az erejének nagy részét.",
+              "objection": {
+                "text": "A lexikai érvnek aszimmetrikusan kell olvasnia Máté 25:46-ot, ugyanabban a mondatban az egyik aiōniost véget nem érőnek, a másikat végződőnek véve, ami pontosan az a lépés, amellyel máshol a hagyományos olvasatot vádolja. Kérdés az is, hogy egy végleges megszűnés egyáltalán büntetés-e, és nem inkább szabadulás, és ha nem az, akkor a szövegek ítéletről szóló nyelvét nem lefordították, hanem megpuhították.",
+                "from": "within",
+                "sharedPremise": "ugyanazoknak a szövegeknek a tekintélyét és ugyanazt a lexikai módszert fogadja el, és ezekből érvel amellett, hogy egyetlen mondaton belül egyetlen szó nem hordozhat két különböző, az olvasó kedve szerint választott jelentést.",
+                "response": "Az aszimmetria a főnevekben van, nem a melléknévben: az örök élet olyan élet, amely tovább tart, az örök pusztulás olyan pusztulás, amelyet nem fordítanak vissza. A melléknév mindkettőben ugyanazt a munkát végzi."
+              }
+            },
+            {
+              "id": "universalism",
+              "label": "Egyetemes kiengesztelődés",
+              "heldBy": "David Bentley Hart, Robin Parry, Thomas Talbott; Nüsszai Gergely és vitathatóan Órigenész",
+              "oneLine": "Végül mindenki üdvözül. Az ítélet valóságos és tisztító, és véget ér.",
+              "summary": "Az állítás nem az, hogy az ítélet fikció, hanem az, hogy van végpontja, mert a célja a helyreállítás, nem a megtorlás. Az [[apokatasztasziszt|apokatasztaszisz]] megnevezett egyházatyák vallották, mai védelmezői pedig amellett érvelnek, hogy az Újszövetség egyetemes kijelentései nyíltan ezt mondják — hogy Isten lesz minden mindenben, hogy mindenki életre kel.\n\nHart változata a legengesztelhetetlenebb: nem azt tartja, hogy az univerzalizmus megengedhető lehetőség, hanem azt, hogy a koherens egészként vett kereszténység maga után vonja, és hogy az alternatíva Istent olyan teremtés szerzőjévé teszi, amelyről tudta, hogy némelyek számára véget nem érő nyomorúsággal végződik — amit a jóság semmilyen leírása nem él túl.",
+              "quote": {
+                "text": "ha a kereszténység bármilyen értelemben igaz, a keresztények nem merészelhetnek kételkedni mindenki üdvösségében … annak bármely értelmezése, amit Isten Krisztusban véghezvitt, ha nem foglalja magában egy végső apokatasztaszisz bizonyosságát, amelyben minden teremtett dolog megváltást nyer és Istennel egyesül, végső soron teljességgel inkoherens és méltatlan az ésszerű hithez.",
+                "author": "David Bentley Hart",
+                "work": "That All Shall Be Saved: Heaven, Hell, and the Universal Salvation",
+                "year": "2019",
+                "sourceUrl": "https://yalebooks.yale.edu/book/9780300258486/that-all-shall-be-saved/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "if Christianity is any way true, Christians dare not doubt the salvation of all … any understanding of what God accomplished in Christ that does not include the assurance of a final apokatastasis in which all things created are redeemed and joined to God is ultimately entirely incoherent and unworthy of rational faith.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Innen származik a fenti ellenvetés, nem pedig ide érkezik meg. Az univerzalista az, aki amellett érvel, hogy az örökké fenntartott elutasítás inkoherens, tehát ezt az ellenvetést e változat fölé kiírni annyi volna, mint a saját szerzője fölé kiírni.",
+              "objection": {
+                "text": "Az Újszövetség ítéletről szóló nyelve terjedelmes és konkrét, és annak az olvasatnak, amely mindezt tisztítónak veszi, minden egyes helyet vinnie kell. Az álláspontot Jusztinianosz alatt el is ítélték, és bár védelmezői vitatják, hogy pontosan mit ítéltek el és kinek a tekintélyével, a hagyomány súlya ellene szól. Az élesebb ellenvetés a szabadságról szól: ha a kiengesztelődés garantált, akkor senki elutasítása nem volt soha valódi lehetőség, és az erkölcsi élet előre eldöntött végű főpróbává válik.",
+                "from": "theist",
+                "response": "Egy elutasítás lehet valódi, és mégis végül kudarcot vallhat, ahogyan a gyermek elutasítása a szülővel szemben. Nem az van tagadva, hogy az elutasítás lehetséges, hanem az, hogy tartósan fenntartható annak a jónak a jelenlétében, amelyet elutasít."
+              }
+            },
+            {
+              "id": "inclusivism",
+              "label": "Inkluzivizmus",
+              "heldBy": "a II. Vatikáni Zsinat; Karl Rahner, Clark Pinnock",
+              "oneLine": "A pokol lehet olyan, amilyennek a hagyomány leírja, de sokkal kevesebben vannak benne: a kegyelem eléri azokat is, akik soha nem hallottak róla.",
+              "summary": "Ez az az álláspont, amely a kimenetel hatókörét változtatja meg, nem a természetét, és ezért érkezik meg az erkölcsi ellenvetés különböző egyházaknál különbözőképpen. A II. Vatikáni Zsinat azt tanítja, hogy akik soha nem találkoztak az evangéliummal, de őszintén keresik Istent és a lelkiismeretüket követik, üdvözülhetnek Krisztus által anélkül, hogy tudnának róla.\n\nÖsszefér az első állásponttal, és eltávolítja az ellenvetésnek azt a változatát, amelyet a legtöbb ember valójában érez — hogy az emberiség többsége a születése véletlene miatt van elítélve. Nem érinti azt a kérdést, amelyről ez az oldal vitázik, vagyis hogy a kimenetel bárki esetében igazságos lehet-e.",
+              "quote": {
+                "text": "Akik ugyanis Krisztus evangéliumát és egyházát önhibájukon kívül nem ismerik, de őszinte szívvel keresik Istent, és a kegyelem hatása alatt igyekeznek teljesíteni akaratát, melyet lelkiismeretük szavában ismernek föl, azok elnyerhetik az örök üdvösséget.",
+                "author": "Second Vatican Council",
+                "work": "Lumen Gentium, 16",
+                "year": "1964",
+                "sourceUrl": "https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Those who, through no fault of their own, do not know the Gospel of Christ or his Church, but who nevertheless seek God with a sincere heart, and, moved by grace, try in their actions to do his will as they know it through the dictates of their conscience—those too may attain eternal salvation.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Nem változtat rajta, és éppen ezért szerepel itt: összefér a fő formával, és nem azt változtatja meg, amit az érv mond, hanem azt, hogy kikről szól. Amit megváltoztat, az az ellenvetésnek az a változata, amelyet a legtöbb ember valójában érez — hogy az emberiség többsége a születése véletlene miatt van elítélve —, ami nem ennek az oldalnak a vitája, és itt választ kap.",
+              "objection": {
+                "text": "Opcionálissá teszi a kifejezett hitet egy olyan vallásban, amely mindig is hirdette azt, az exkluzivisták pedig azt kifogásolják, hogy indíték nélkül hagyja az igehirdetést: ha az őszinte keresés elég, akkor a misszionárius a legjobb esetben fölösleges, a legrosszabban pedig emeli a tétet olyanok számára, akik biztonságosabb helyzetben voltak, mielőtt hallottak volna róla. Van egy koherenciakérdés is arról, mit jelent Krisztus által üdvözülni olyasvalakinek, aki elutasítaná őt, ha megkérdeznék.",
+                "from": "within",
+                "sharedPremise": "elfogadja, hogy az üdvösség egyedül Krisztus által van, és hogy az egyház megbízatása az igehirdetés, és ezekből a vállalásokból érvel amellett, hogy egy kegyelem, amely az igehirdetés nélkül is elér embereket, indoklás nélkül hagyja a megbízatást.",
+                "response": "A megbízatás az, hogy tanítvánnyá tegyenek, nem az, hogy javítsanak a statisztikai esélyeken, és egy kegyelem, amely messzebbre ér, mint az igehirdetés, inkább ok a bizalomra, mint érv az ellen, hogy bárkit is elküldjenek."
+              }
+            }
+          ]
+        },
+        {
+          "id": "freedom-that-can-be-refused",
+          "claim": "Az az Isten, aki felülírna egy megrögzült elutasítást, az egész erkölcsi életet főpróbaként kezelné",
+          "explanation": "Ez az érv az univerzalistával néz szembe, nem az ateistával, és ez az, amelyik a legtöbb munkát végezte a legutóbbi vallásfilozófiában. Jerry Walls megadja, amire az ellenvetésnek szüksége van: hogy Isten mindenki üdvösségét akarja, és hogy aki elveszett, annak a lehető legjobb alkalma volt rá. Ezt nevezi [[optimális kegyelemnek|optimális kegyelem]].\n\nAmit tagad, az az, hogy Isten a választás kiüresítése nélkül garantálhatná az eredményt. Ha minden döntő elutasítást végül isteni beavatkozás fordít vissza, akkor Istennel kapcsolatban soha senki döntése nem az volt, aminek látszott, és a komolyság, amellyel az erkölcsi élet látszólag bír, színpadi hatás volt.",
+          "quote": {
+            "text": "csorbítaná az erkölcsi szabadság komolyságát. Az ilyen szabadság a legjelentősebb formájában megköveteli, hogy együtt éljünk a döntéseink következményeivel, legalábbis a döntő döntéseinkével.",
+            "author": "Jerry L. Walls",
+            "work": "Hell: The Logic of Damnation",
+            "year": "1992",
+            "locator": "arról, hogy Isten felülírna egy döntő elutasítást",
+            "sourceUrl": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "would detract from the seriousness of moral freedom. Such freedom, in its most significant form, requires that we live with the consequences of our choices, at least our decisive choices.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Egy döntés következményeivel együtt élni: ez az arányról szóló elv, itt pedig arra használják, hogy engedélyt adjon az egyetlen olyan esetre, ahol az arányt feladják. Hagyjuk, hogy a gyermek együtt éljen egy rossz döntés következményeivel; azt nem hagyjuk, hogy vég nélküliekkel éljen együtt, és azt a szülőt, aki beavatkozhatott volna, de nem tette, a gyermek szabadságának komolyságára hivatkozva, nem csodálnánk. Az érvnek arra is szüksége van, hogy a döntés elég jó feltételek között született legyen ahhoz, hogy végtelen súlyt bírjon el, és emberi döntés nem születik ilyen feltételek között.",
+            "objectionFrom": "atheist",
+            "response": "A szülői hasonlat feltételezi, hogy a gyermek jobb belátásra bírható, és éppen ez az az eset, amikor senki nem kifogásolja a beavatkozást. Az érv arról szól, akit már annyira jobb belátásra bírtak, amennyire csak lehet, és mégis elutasít."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Véges élet nem érdemelhet ki határtalan kimenetelt",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "proportion",
+          "claim": "A véget nem érő büntetés egy határok közé zárt életért nem szigorúság, hanem kategóriahiba az igazságosságról",
+          "explanation": "Minden igazságszolgáltatási rendszer, amelyet bárki ténylegesen működtet, a vétséghez méri a büntetést. Az ellenvetés nem az, hogy a pokol kemény, hanem hogy semmilyen felismerhető értelemben nem büntetés, mert leválasztották arról, aminek meg kellene felelnie.\n\nBertrand Russell a jellemről szóló állításként fogalmazta meg a dolgot, nem számtani állításként, és ez az élesebb változat. Nemcsak arról van szó, hogy a tanítás igazságtalan; hanem arról, hogy fenntartani, és tovább imádni azt, aki kiszabja, olyan megkeményedést kíván, amelyre tisztességes ember nem képes. Az érv a hívő saját erkölcsi érzékét célozza, és ezért mozgatott meg több keresztényt, mint ateistát.",
+          "quote": {
+            "text": "A magam részéről nem érzem úgy, hogy bárki, aki valóban mélységesen emberséges, hihetne az örökké tartó büntetésben.",
+            "author": "Bertrand Russell",
+            "work": "Why I Am Not a Christian (Miért nem vagyok keresztény)",
+            "year": "1927",
+            "locator": "1927. március 6-án a Battersea Town Hallban tartott előadás",
+            "sourceUrl": "https://russell-j.com/0399WINC.HTM",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "I do not myself feel that any person who is really profoundly humane can believe in everlasting punishment.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az arányossági érv feltételezi, hogy a büntetés a múltbeli rosszcselekedetek mennyiségének felel meg, ez pedig az a kép, amelyet a fenti első érv elutasít. Ha az állapot folyamatos elutasítás, nem pedig letöltött ítélet, akkor az, hogy nincs vége, az elutasításról szóló tény. Russell változata is kevesebbet bizonyít, mint amennyit állít: a lenti négy álláspontból kettőt olyan emberek vallanak, akik az erkölcsi ítéletét maradéktalanul elfogadják, és keresztények maradnak, tehát az emberségesség és a hit közötti összeegyeztethetetlenség, amelyet állít, nem az, aminek gondolta.",
+            "objectionFrom": "theist",
+            "response": "Ez a válasz csak azokra a változatokra működik, amelyek feladják a megtorlást, és az a hagyomány, amelyhez Russell szólt, nem adta fel. El is ismeri az érv erejét, hiszen úgy marad fenn, hogy elejti azt, ami ellen a kifogás szólt.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "no-basic-desert",
+              "label": "Senki nem érdemel semmit, tehát a kérdés fel sem merül",
+              "heldBy": "Derk Pereboom; Galen Strawson; Sam Harris",
+              "oneLine": "Ha senkinek nincs olyan kontrollja, amely az érdemet lehetővé teszi, akkor az ellenvetés nem az, hogy a büntetés túl nagy, hanem az, hogy az érdemen alapuló büntetés bármekkora méretben igazságtalan.",
+              "summary": "Ez a változat nem alkudozik az arányról. Azt az előfeltevést tagadja, amelyen az arányossági érv mindkét oldala osztozik: hogy létezik olyasmi, hogy pusztán annak alapján megérdemelsz egy kimenetelt, amit tettél.\n\nPereboom kemény inkompatibilizmusa azt tartja, hogy hiányzik belőlünk az a kontroll, amelyet az erkölcsi felelősség megkíván, függetlenül attól, igaz-e a determinizmus, hiszen egy determinálatlan cselekedet sincs jobban a kontrollod alatt, mint egy determinált. Itt alkalmazva nem megválaszolja a kérdést, hanem eltünteti: örök kimenetelt nem lehet kiérdemelni, mert semmit nem lehet, és ami egy igazságos Isten számára hátramarad, az az, amit a védelem és a helyreállítás megkíván — ami nem büntetés.",
+              "quote": {
+                "text": "egy cselekvő akkor és csak akkor erkölcsileg felelős egy cselekedetért, ha pusztán annak alapján megérdemelné érte a feddést vagy az elismerést, hogy végrehajtotta",
+                "author": "Derk Pereboom",
+                "work": "Living Without Free Will",
+                "year": "2001",
+                "locator": "az alapvető érdem fogalma, amelynek Pereboom érvelése szerint senki nem felel meg",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/living-without-free-will/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "an agent is morally responsible for an action if and only if she would deserve blame or credit for it just by virtue of having performed it",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fent kiírt válasz az, hogy az állapot folyamatos elutasítás, nem letöltött ítélet, tehát az, hogy nincs vége, az elutasításról szóló tény. Ehhez a válaszhoz az kell, hogy az elutasítás abban az értelemben az elutasítóé legyen, amely számonkérhetővé teszi érte, és ez a változat pontosan ezt tagadja. A kimenetelt az ítélet helyett a választáshoz áthelyezni nem segít, ha egyetlen választásnak sincs szerzője.",
+              "objection": {
+                "text": "Az álláspont messze túl sokat bizonyít ahhoz, hogy itt használható legyen. Ha senki nem felelős semmiért, akkor sehol semmilyen büntetés nem igazságos, és az érv megszűnik a pokolról szólni, és a büntetőjogról szóló érvvé válik egy szokatlan példával a végén. Ezenfelül átengedi a teistának a terepet a szabadság kérdésében: egy oldal, amely azzal érvel, hogy egy jó Isten nem büntetne szabadon választott elutasítást, nem érvelhet egyszersmind azzal, hogy szabad választás nem is létezik.",
+                "from": "both",
+                "response": "A túl sok bizonyítása csak akkor hiba, ha a következtetés hamis, márpedig Pereboom vállalja a következményt, és ki is dolgozza a büntetőjogra, ahelyett hogy kitérne előle. Hogy az itteni két ateista érv a szabadság összeegyeztethetetlen felfogásain nyugszik, az az oldalra vonatkozó tény, és éppen ezért van ez a szakasz."
+              }
+            }
+          ]
+        },
+        {
+          "id": "where-is-the-line",
+          "claim": "A jóság fokozatokban létezik, a kimenetel nem, és egyetlen igazságos eljárás sem működik így",
+          "explanation": "Ted Sider érve nem függ attól, hogy a büntetés végtelen-e, és sértetlenül túléli az első választ. Vegyünk két embert, akiknek az erkölcsi és lelki állapota tetszőlegesen kis mértékben tér el — egy hajszálnyi bűnbánat, egy további pillanatnyi habozás. Egyikük üdvözül, a másikuk nem, a kimenetelük pedig határtalanul különbözik.\n\nMinden igazságos kiválasztásnak vannak határesetei, és a majdnem azonos eseteket majdnem azonosan kezeli. Egy bináris kimenetel egy folytonos bemeneten ezt nem tudja megtenni, és a nehézség nem az, hogy nem látjuk, hol a határvonal; hanem az, hogy bárhol húzódik a vonal, ez a következménye. Mivel Isten az, aki az eljárást működteti, az önkényesség az övé.",
+          "quote": {
+            "text": "Isten irányítja a kiválasztási eljárást, tehát annak igazságosnak kell lennie; minden igazságos eljárásnak vannak határesetei, és a majdnem azonos eseteket majdnem azonosan kezeli; a hagyományos túlvilág viszont bináris, és nem ismer határeseteket, tehát két ember, aki egy hajszálnyit különbözik, határtalanul különböző kimenetelt kap.",
+            "author": "Theodore Sider",
+            "work": "Hell and Vagueness, Faith and Philosophy 19",
+            "year": "2002",
+            "locator": "pp. 58-68; az érv általunk készített összefoglalása, nem Sider szavai",
+            "sourceUrl": "https://tedsider.org/papers/hell.pdf",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "God is in charge of the selection procedure, so it must be just; any just procedure has borderline cases and treats near-identical cases near-identically; but the traditional afterlife is binary and admits no borderline cases, so two people differing by a hair receive outcomes differing without limit.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az érv feltételezi, hogy a kritérium a jóság mennyisége, márpedig a tanítás egyetlen változata sem mondja ezt. A választásmodellben a kritérium egy megrögzült beállítottság, ami a lényeges értelemben nem fokozat kérdése: két ember viselkedésében megkülönböztethetetlen lehet, és mégis abszolút mértékben különbözhet abban, hogy véglegesen elfogadott vagy elutasított-e. Hasonlítsd egy házassági ajánlathoz, ahol a válaszok abszolút mértékben különböznek, a kérdezők pedig minden mérhető szempontból azonosak lehetnek.",
+            "objectionFrom": "theist",
+            "response": "Az elfogadás és az elutasítás maga is olyan folyamatok eredménye, amelyek igenis fokozatokban léteznek — mennyit értett meg valaki, mennyit kértek tőle, mennyire volt fáradt. A binárist egy lépéssel hátrébb tolni nem talál éles határvonalat, hanem ugyanazt a folytonos átmenetet találja meg más néven."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "A szó, amelyen az érv fordul",
+      "oneLine": "Az exegetikai vita nagy része egyetlen melléknéven, az aiōnioson fut keresztül, és azon, hogy véget nem érő időtartamot jelent-e, vagy az eljövendő korhoz tartozást.",
+      "text": "Az exegetikai vita nagy része egyetlen melléknéven fut keresztül. Az [[aiōnios]] szó Máté 25:46-ban a büntetésre és az ugyanabban a mondatban felkínált életre egyaránt vonatkozik, ezért fordítják a fordítók mindkettőt „örök”-nek, és ezért tekinti a hagyományos olvasat döntőnek a párhuzamot.\n\nAz ellenérv az, hogy a szó az aiōnból, azaz korszakból származik, és hogy a zsidó görögben jelentheti azt, hogy „az eljövendő korhoz tartozó”, nem pedig azt, hogy „véget nem érő” — ez minőségi állítás, nem időbeli. Ha ez így van, a párhuzam az időtartam nélkül is megmarad: az élet és a büntetés egyaránt az eljövendő korhoz tartozik, hogy melyik meddig tart, az külön kérdés, amelyre a szó nem ad választ. Ez valódi vita a lexikográfusok között, nem fogás, és ezért nyitott, nem pedig értelmezési az exegetikai kérdés."
+    },
+    {
+      "heading": "Miért nyitott az exegetikai vita, és miért nem az ez az oldal",
+      "oneLine": "A téma két kérdése más címkét kap — hogy mit tanítanak a szövegek, az nyitott; hogy igazságos lehet-e, az értelmezési —, és az oldal a másodikról vitázik.",
+      "text": "A téma két kérdése más címkét kap, és érdemes kimondani, miért, mert az oldal saját címkézése ezen múlik.\n\nAz, hogy mit tanítanak a szövegek, nyitott: meg lehet nevezni az érveket, amelyek elmozdították a területet, és az embereket, akiket elmozdítottak. A feltételes halhatatlanság negyven év alatt a peremről a fősodratú evangelikál lehetőségek közé került, konkrét lexikai állítások alapján az aiōniosról és a pusztulás szókincséről. Robin Parry megváltoztatta a véleményét, és álnéven publikált. John Stott is megváltoztatta a magáét, későn és nem kis árat fizetve érte. Ez olyan vita, amelyben az érvelés szűkíti a nézeteltérést.\n\nAz, hogy igazságos lehet-e az örök büntetés, nem ilyen. Fogadd el a hagyományos olvasatot, és a bíráló akkor is azt mondja, hogy egy jó Isten nem tenné; fogadd el az univerzalista olvasatot, és a hagyománypárti akkor is azt mondja, hogy az a szeretet, amelyet nem lehet visszautasítani, nem szeretet. Mindkét félnek megvan minden ténye, ami a másiknak. A további érvelés élesíti a nézeteltérést anélkül, hogy szűkítené, és ez a harmadik próba."
+    }
+  ],
+  "whereItStands": "Az erkölcsi érv ott tart, ahol tartott, és nincs okunk azt várni, hogy elmozdul. Mindkét oldal elég világosan kimondta az álláspontját ahhoz, hogy a nézeteltérés most már a teljes alakjában látható legyen: hogy egy megrögzült elutasítás olyasmi-e, ami elbír egy határtalan következményt, és hogy megéri-e az árát az a szabadság, amely az elutasítást lehetővé teszi. Senki nem hozott elő olyan megfontolást, amely a másik oldalnak ne volna meg.\n\nAmi elmozdult, és még mindig mozog, az az alatta fekvő kérdés. A hagyományos olvasat kevésbé uralkodó a keresztény tudósok között, mint ötven éve volt; az annihilacionizmus tekintélyessé vált; az univerzalizmus a szóba sem hozhatótól a széles körben képviseltig jutott, és Hart 2019-es könyve jelöli azt a pontot, ahol megszűnt peremérdeklődés lenni. Ez az elmozdulás exegetikai és filozófiai érvelésből fakadt, nem új bizonyítékokból, és így néz ki egy nyitott vita, amikor halad valamerre.\n\nA kettő őszinte együttes olvasata: az erkölcsi ellenvetés nem győzött, de az a nyomás volt, amely alatt a szövegkérdés újranyílt.",
+  "commonMistake": "A keresztények leggyakrabban úgy adják elő a hagyományos tanítást, mintha az volna az egyetlen keresztény lehetőség, és így fordulhat elő, hogy valaki egyházban felnőve negyvenéves koráig nem tudja meg, hogy Stott kételkedett benne, vagy hogy Nüsszai Gergely tagadta. Ez nem tapintat, hanem hamis kép a saját hagyományukról, és bármely későbbi találkozást az alternatívákkal olyanná tesz, mintha egy eltitkolás derülne ki.\n\nAz ateisták leggyakrabban a tizennyolcadik századi változat ellen érvelnek — kínzókamra bíróval —, aztán kiderül, hogy a beszélgetőtársuk soha nem vallotta ezt. A legerősebb formát támadni annyit tesz, mint a választásmodellel foglalkozni, a választásmodellre pedig nem válasz a lángok még élénkebb leírása.\n\nMindkét oldal hajlamos ezenfelül egybemosni az oldal két kérdését. „A Biblia valójában nem ezt tanítja” az exegetikai vitára válasz, nem az erkölcsire; „egy jó Isten nem tenné” az erkölcsire válasz, nem az exegetikaira. Az itteni eszmecserék többsége két ember, aki arra a kérdésre válaszol, amelyet a másik nem tett fel.",
+  "sources": [
+    {
+      "title": "The Problem of Pain (A fájdalom)",
+      "author": "C.S. Lewis",
+      "year": "1940",
+      "url": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/",
+      "note": "Az önkizárásról szóló leírás, abban a szakaszban, amely a szokásos megfogalmazását adta."
+    },
+    {
+      "title": "Hell: The Logic of Damnation",
+      "author": "Jerry L. Walls",
+      "year": "1992",
+      "url": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy",
+      "note": "A szabadságon alapuló védelem és az optimális kegyelem tana, a Faith and Philosophy egyik recenziójából idézve."
+    },
+    {
+      "title": "Why I Am Not a Christian (Miért nem vagyok keresztény)",
+      "author": "Bertrand Russell",
+      "year": "1927",
+      "url": "https://russell-j.com/0399WINC.HTM"
+    },
+    {
+      "title": "Hell and Vagueness",
+      "author": "Theodore Sider",
+      "year": "2002",
+      "url": "https://tedsider.org/papers/hell.pdf",
+      "note": "A szerző saját példánya. Az érv itteni megfogalmazása parafrázis, és így is van megjelölve."
+    },
+    {
+      "title": "Catechism of the Catholic Church, 1033-1037 (A Katolikus Egyház Katekizmusa)",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html"
+    },
+    {
+      "title": "Essentials: A Liberal-Evangelical Dialogue",
+      "author": "David L. Edwards és John Stott",
+      "year": "1988",
+      "url": "https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf",
+      "note": "Az a szakasz, amelyben Stott kifejti áttérését a feltételes halhatatlanságra."
+    },
+    {
+      "title": "That All Shall Be Saved: Heaven, Hell, and the Universal Salvation",
+      "author": "David Bentley Hart",
+      "year": "2019",
+      "url": "https://yalebooks.yale.edu/book/9780300258486/that-all-shall-be-saved/"
+    },
+    {
+      "title": "Lumen Gentium",
+      "author": "II. Vatikáni Zsinat",
+      "year": "1964",
+      "url": "https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm"
+    }
+  ]
+}

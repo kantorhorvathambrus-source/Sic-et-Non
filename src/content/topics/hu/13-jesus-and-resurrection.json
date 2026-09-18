@@ -1,0 +1,251 @@
+{
+  "id": "jesus-and-resurrection",
+  "number": 13,
+  "slug": "letezett-e-jezus-es-feltamadt-e",
+  "title": "Létezett-e Jézus, és feltámadt-e?",
+  "category": "history-and-text",
+  "status": "settled-core",
+  "settledCore": "Egy Názáreti Jézus nevű zsidó tanító élt az első századi Galileában, követőket gyűjtött, és Poncius Pilátus alatt keresztre feszítéssel kivégezték. Ez a korszak történészei között nem vita tárgya, és nem olyan keresztény állítás, amelyet a nem keresztények elutasítanak: a szakterület zsidó, agnosztikus és ateista kutatói is megerősítik, azon a hétköznapi bizonyítékanyagon, amelyet a történészek bárkinél használnak, aki abban a korban és társadalmi helyzetben élt. Az a nézet, hogy ilyen személy soha nem létezett — a [[mítoszelmélet]] —, a tudományágban nem élvez tekintélyt, és ezen az oldalon nem szerepel önálló félként.\n\nAmi nincs lezárva, az az, hogy mi történt utána, pontosabban hogy mi ad a legjobb számot arról a tényről, hogy a követői elkezdték azt mondani: él. Erről szól a lenti vita.",
+  "realQuestion": "Két kérdés csúszik itt egymásba, és csak az egyik nyitott.\n\nAz, hogy Jézus létezett-e, nem az. Tanúsítja Pál, aki azt mondja, találkozott a testvérével; négy evangélium, még élő emlékezeten belül; és a mozgalmon kívülről Tacitus és Josephus Flavius. A bizonyítékanyag a korszak egy provinciai alakjához képest szokványos, és a történészek eldöntöttnek tekintik vele a kérdést.\n\nAz is nagyrészt elfogadott, hogy a követői ezután mit állítottak: nagyon rövid időn belül azt mondták, vállalva ennek árát, hogy élve látták. A vita arról szól, mi hozta ezt létre. Az egyik oldal szerint egyetlen rendelkezésre álló természetes magyarázat sem ad számot arról, ahogyan a történtek kinéznek, a feltámadás viszont igen. A másik szerint a gyász, a bűntudat és a látomás jól dokumentált emberi jelenségek, és az a történész, aki túlnyúl rajtuk egy csodáért, kilépett a tudományágából.",
+  "distinctions": [
+    {
+      "label": "Létezett-e a Názáreti Jézus?",
+      "gloss": "Lezárt kérdés, és fentebb kimondjuk, nem pedig megvitatjuk. Nem azért tesszük félre, mert lényegtelen, hanem mert vitatottként bemutatni annyi volna, mint vitát gyártani ott, ahol a szakembereknek nincs.",
+      "activeHere": false
+    },
+    {
+      "label": "Őszintén hitték-e a követői, hogy élve látták?",
+      "gloss": "Nagyrészt elfogadott, és inkább közös előfeltevés, mint vitapont: ezen az oldalon mindkét fél elfogadja, a vita pedig arról szól, mi okozta. Félretéve.",
+      "activeHere": false
+    },
+    {
+      "label": "Mi magyarázza a legjobban ezt a hitet?",
+      "gloss": "Ez ennek az oldalnak a vitája. Történeti magyarázatról szóló vita, és arról is, hogy a történeti módszer egyáltalán eljuthat-e ilyesfajta következtetésig.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mítoszelmélet",
+      "definition": "Az az állítás, hogy Jézus történeti személyként soha nem létezett. Álláspont, amelynek hosszú népszerű élete van, és gyakorlatilag semmilyen jelenléte az érintett tudományos szakterületen."
+    },
+    {
+      "term": "minimális tények",
+      "definition": "Gary Habermas módszere: csak olyan adatokra építs, amelyeket a szakterület kutatóinak nagy többsége elismer, a szkeptikusokat is beleértve, és kérdezd meg, mi magyarázza ezeket a legjobban."
+    },
+    {
+      "term": "második templom kori judaizmus",
+      "definition": "A zsidó hit és gyakorlat a Kr. u. 70-nel záruló korszakban. A feltámadásra vonatkozó várakozásai központi szerepet játszanak ennek az oldalnak az első érvében."
+    },
+    {
+      "term": "az üres sír",
+      "definition": "Hogy a sírt üresen találták-e, a keresztre feszítéssel és a megjelenésekkel ellentétben valóban vitatott a történészek között. Több itteni érv úgy épül fel, hogy nélküle is működjön."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Semmi más nem ad számot arról, ahogyan a történtek kinéznek",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "nobody-expected-this",
+          "claim": "Az első századi judaizmusnak nem volt kategóriája arra, hogy egyetlen ember a történelem közepén feltámadjon, így a hit nem olvasható ki a várakozásaikból",
+          "explanation": "A szokásos naturalista beszámolóban a gyászoló követők olyan reményhez nyúlnak, amelyet a hagyományuk már megadott nekik. N.T. Wright érve az, hogy a hagyomány éppen ezt nem adta meg nekik.\n\nA [[második templom kori judaizmusnak|második templom kori judaizmus]] csakugyan volt feltámadásreménye: valamennyi hívő általános feltámadása, a végén, együtt. Nem volt olyan várakozása, hogy bárki egyénileg, ezt megelőzve támadna fel, és egyáltalán nem volt olyan várakozása, hogy a Messiás tenné ezt — mert egy kivégzett messiásról ez a tény éppen azt mutatta meg, hogy nem ő a Messiás, és az ilyen kudarcokra feljegyzett válasz az volt, hogy hazamentek, vagy másik jelöltet kerestek. Amit az első keresztények mondtak, nem egy meglévő remény felfokozása volt, hanem annak mutációja, és az ennyire sajátos mutációknak okra van szükségük.",
+          "quote": {
+            "text": "senkinek nem jutott volna eszébe azt mondani: „hiszem, hogy ez és ez valóban a Messiás volt; tehát fel kellett támadnia a halálból”",
+            "author": "N.T. Wright",
+            "work": "The Resurrection of the Son of God",
+            "year": "2003",
+            "locator": "arról, hogy a második templom korában semmilyen várakozás nem élt egyéni messiási feltámadásra",
+            "sourceUrl": "https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "nobody would have thought to say 'I believe that so-and-so really was the Messiah; therefore he must have been raised from the dead'",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az újdonság a hitre vonatkozó tény, nem pedig az igazsága melletti bizonyíték, és új vallási állítások nem ritkák. Azok a mozgalmak, amelyeknek a vezetője váratlanul meghal, olykor valóban újraértelmeznek ahelyett, hogy feloszlanának — a sabbatiánus mozgalom túlélte, hogy a messiása áttért az iszlámra, és több lubavicsi csoport is túlélte a rebbéjük halálát, róla szóló állításokkal. Az érv ráadásul feltételezi, hogy az első századi zsidó várakozás elég egyöntetű volt ahhoz, hogy kizárja az újítást, a források pedig ennél gyérebbek és sokszínűbbek.",
+            "objectionFrom": "atheist",
+            "response": "Az idézett párhuzamok későbbiek, és olyan kategóriák formálták őket, amelyeket maga a kereszténység szolgáltatott — ez a nehézség a használatukkal. Az állítás pedig nem az, hogy az újdonság bizonyítja az igazságot, hanem hogy egy konkrét, példa nélküli hitnek konkrét okra van szüksége, és ezt a „szomorúak voltak” nem adja meg.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "spiritual-body",
+              "label": "Valódi feltámadás, de nem a holttesté",
+              "heldBy": "Marcus Borg, John Dominic Crossan; a fősodratú és progresszív kereszténység jelentős vonulata",
+              "oneLine": "A húsvét igaz, és a sír mellékes: amit Pál az 1Kor 15-ben leír, az lelki test, és a keresztény állításnak soha nem volt szüksége a holttestre.",
+              "summary": "Ez keresztény álláspont, keresztények képviselik, és azért áll az oldal ezen a felén, mert a következtetése az, hogy a feltámadás megtörtént — nem pedig a képviselői hitével kapcsolatos bármi miatt.\n\nAz exegetikai érv az, hogy Pál, a legkorábbi tanúnk, nem újraélesztett testet ír le. *Sōma pneumatikont*, lelki testet ír le, és kifejezetten kimondja, hogy test és vér nem örökölheti a királyságot. Ezen olvasat szerint az evangéliumok beszámolói a halevésről és a sebek megérintéséről későbbiek, az üres sírról szóló elbeszélések pedig teológiai kompozíciók, nem tudósítások. A húsvét azt nevezi meg, hogy a tanítványok élő valóságként találkoztak Jézussal, és hogy ez nem tévedés volt.",
+              "quote": {
+                "text": "Pál kifejezetten kimondja, hogy a feltámadás „teste” nem „fizikai” test, hanem „lelki” test, „megdicsőült” test. Ahogy Pál mondja, nem test és vér szerinti test.",
+                "author": "Marcus J. Borg",
+                "work": "The Resurrection of Jesus: Physical/Bodily or Spiritual/Mystical?",
+                "year": "2013",
+                "sourceUrl": "https://marcusjborg.org/posts-by-marcus/the-resurrection-of-jesus/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Paul explicitly states that the resurrection \"body\" is not a \"physical\" body but a \"spiritual\" body, a \"glorified\" body. As Paul says, it is not a flesh and blood body.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés szerint az újdonság a hitre vonatkozó tény, nem pedig bizonyíték mellette, és a mozgalmak valóban újraértelmeznek, amikor a vezetőjük meghal. Ez az ellenvetés egy példa nélküli *testi* feltámadásról szóló állítást céloz. Ez az olvasat nem teszi ezt az állítást, így a párhuzamok, amelyeket az ellenvetés felkínál — mozgalmak, amelyek újraértelmeztek ahelyett, hogy feloszlottak volna —, nem ellenpéldák vele szemben, hanem nagyjából azt írják le, amit szerinte történt.",
+              "objection": {
+                "text": "Wright saját érve fut ennek neki a legkeményebben, és filológiai. A korszak görögjében az *anasztaszisz* és rokon szavai kifejezetten testi feltámadást jelentettek, és éppen arra használták őket, hogy ezt megkülönböztessék a lélek továbbélésétől vagy a halott látomásától — ezért találták a pogányok az állítást képtelennek, nem pedig ismerősnek. Egy első századi zsidó, aki azt mondja, „feltámadt”, miközben azt érti, „lelkileg találkoztunk vele”, épp azt az egyetlen szót használná, amely ezt kizárja. Az olvasatnak arra is magyarázatot kell adnia, miért hozott létre egy mozgalom, amely beérhette volna egy igazolt szellemmel, olyan üres sír-hagyományt, amelyre nem volt szüksége.",
+                "from": "within",
+                "sharedPremise": "olyan előfeltevésekből érvel, amelyeket ez az olvasat elfogad — hogy Pál a legkorábbi tanú, hogy a szóhasználat első századi zsidó, és hogy az első keresztények szándékolt értelme visszanyerhető abból, ahogyan írtak —, arra a következtetésre, hogy az általuk választott szavak kizárják a nem testi olvasatot.",
+                "response": "Pál a legkorábbi tanú, és ő az, aki a leghatározottabban tagadja a testet és vért, így a szóhasználati érvnek először őt kell megmagyaráznia; az üres sír pedig éppen az a hagyomány, amelynek a történetisége a legkevésbé biztos."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-facts-both-sides-grant",
+          "claim": "Vedd csak azt, amit a szkeptikus kutatók már eleve elfogadnak, és egyetlen természetes magyarázat sem fedi le mindet",
+          "explanation": "A [[minimális tények]] módszerét úgy alakították ki, hogy ne kelljen az evangéliumok megbízhatóságából érvelni, ami a másik oldallal szemben a kérdés előzetes eldöntése volna. Gary Habermas az 1970-es évek óta összegyűjtött, a feltámadásról szóló tudományos munkák bibliográfiájából építette fel, csak azokat az adatokat tartva meg, amelyeket a szakterület kutatóinak nagy többsége elismer.\n\nA szokásos lista: Jézus keresztre feszítés által halt meg; a követőinek olyan élményeik voltak, amelyeket az élő Jézus megjelenéseinek tartottak; Pált, a tevékeny üldözőt egy ilyennek tartott élmény térítette meg; és ugyanígy Jakabot, a szkeptikus testvért. Az érv nem az, hogy ezek bármelyike külön-külön megmagyarázhatatlan volna, hanem hogy a természetes hipotézisek mindegyike kezel némelyiket, és egyik sem kezeli az összeset — a csoportos hallucináció nem elismert jelenség, a gyász pedig nem térít meg ellenségeket.",
+          "quote": {
+            "text": "történetileg annyira erősen igazoltak, hogy szinte minden kutató elismeri őket, aki a témával foglalkozik, még a meglehetősen szkeptikusak is",
+            "author": "Gary Habermas",
+            "work": "The Minimal Facts Approach to the Resurrection of Jesus",
+            "year": "2012",
+            "locator": "Habermas arról a kritériumról, amely alapján egy adat felkerülhet a listára",
+            "sourceUrl": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "so strongly attested historically that they are granted by nearly every scholar who studies the subject, even the rather skeptical ones",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az érv legélesebb bírálója keresztény. Dale Allison elfogadja a tényeket, és tagadja, hogy a következtetés átmenne: amit a kutatók elismernek, az az, hogy a követőknek élményeik voltak, ami a lélektanukról szóló állítás, és az innen a testi feltámadásig vezető lépést nem támasztja alá a konszenzus — épp ez az, ahol a konszenzus megáll. Allison arra is felhívja a figyelmet, hogy a gyászlátomásokról szóló összehasonlító szakirodalom sokkal terjedelmesebb és különösebb annál, mint amit az apologetikai felhasználása elismer, és kollektív eseteket is tartalmaz. Megszámolni azokat a kutatókat, akik elfogadnak egy előfeltevést, nem ugyanaz, mint megszámolni azokat, akik elfogadják a következtetést.",
+            "objectionFrom": "within",
+            "sharedPremise": "elfogadja a minimális tények mindegyikét és a megállapításukhoz használt módszert is, és kizárólag azt vitatja, hogy egy konszenzus, amely megadja ezeket az előfeltevéseket, alátámasztja-e a belőlük levont következtetést is.",
+            "response": "Az érv nem azt állítja, hogy a konszenzus a következtetést támasztja alá; azt állítja, hogy a következtetés a legjobb magyarázata annak, amit a konszenzus alátámaszt — és ezt a következtetést a módszer nyíltan megteszi, nem pedig kölcsönveszi."
+          }
+        }
+      ]
+    },
+    {
+      "label": "A gyász, a bűntudat és a látomás dokumentált; a feltámadás nem",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "visions-after-a-death",
+          "claim": "A gyászlátomások gyakoriak, és a mozgalom alapító élményei ilyennek látszanak",
+          "explanation": "Ez pozitív rekonstrukció, nem elzárkózás. Gerd Lüdemann, újszövetségi kutató, aki évtizedekig dolgozott a kérdésen, és közben elveszítette a hitét, amellett érvelt, hogy a sorrend visszanyerhető.\n\nPéter megtagadta Jézust, majd végignézte a halálát; a bűntudat és a gyász együttese pontosan az az állapot, amelyben az emberek látják a halottakat, ami jól dokumentált, és lelkileg egészséges gyászolóknál is előfordul. Péter élménye, azzal a tekintéllyel közölve, amelyet ő hordozott, ezután végigterjedt egy olyan csoporton, amely már eleve igazolásra volt hangolva. Pál élménye ugyanilyen fajta, és ez az egyetlen, amelyet az ír le, akivel megtörtént — ő pedig valami látomásszerűt ír le, fényt és hangot, nem testet.",
+          "quote": {
+            "text": "Pétert elborította a gyász és a bűntudat amiatt, hogy megtagadta Jézust, és látomása támadt, amelyet a feltámadt Jézusnak tartott; ez az élmény, az ő tekintélyét hordozva, végigterjedt a csoporton, Pál későbbi élménye pedig ugyanilyen látomásos fajta volt.",
+            "author": "Gerd Lüdemann",
+            "work": "The Resurrection of Jesus: History, Experience, Theology",
+            "year": "1994",
+            "locator": "a látomáshipotézis összefoglalása tőlünk, ahogyan Lüdemann kifejti; nem az ő szavai",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Peter, overwhelmed by grief and by guilt at having denied Jesus, experienced a vision he took to be the risen Jesus; that experience, carrying his authority, propagated through the group, and Paul's later experience was of the same visionary kind.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A gyászlátomások valóságosak, és nem azok, amiket a források leírnak. Azok a gyászolók, akik látják a halottat, nem arra a következtetésre jutnak, hogy az illető testileg feltámadt, és hogy elkezdődött az eljövendő világkorszak; arra jutnak, helyesen, hogy láttak valamit, és hogy az illető halott. A hipotézisnek ráadásul el kell bírnia Jakabot, aki nem egy vezetőt gyászolt, akit követett, és Pált, aki egyáltalán nem gyászolt, hanem a mozgalomra vadászott. Az a mechanizmus, amely a tanítványokat megmagyarázza, éppen a két legnehezebb esetet magyarázza a legrosszabbul.",
+            "objectionFrom": "theist",
+            "response": "Jakab szkepticizmusa gyengén és későn van tanúsítva, Pál megtérésének pedig jól ismert alakja van — az üldöző, akinek az intenzitása átfordul —, ami nem kívánja meg, hogy bármi szokatlan történt volna vele."
+          }
+        },
+        {
+          "id": "what-history-can-reach",
+          "claim": "A történeti módszer valószínűségeket szállít, és a csoda a legkevésbé valószínű dolog, ami rendelkezésre áll",
+          "explanation": "Bart Ehrman ellenvetése a tudományágról szól, nem a bizonyítékokról, és attól függetlenül érvényes, hogy a bizonyítékok mennyire jók. A történészek nem azt állapítják meg, mi történt; azt állapítják meg, mi történt a legnagyobb valószínűséggel, ismert megbízhatatlanságú források alapján és az eseményekhez való hozzáférés nélkül.\n\nA csoda konstrukciójánál fogva a legkevésbé valószínű eseményfajta: éppen ettől csoda. Így bármely történeti bizonyítékanyaghoz lesz olyan természetes magyarázat, amely valószínűbb a csodásnál — nem azért, mert a természetes magyarázat jó, hanem mert a léc, amelyet meg kell ugrania, sokkal alacsonyabban van. Ehrman kifejezetten kimondja, hogy ez nem mutatja meg, hogy a feltámadás nem történt meg. Azt mutatja meg, hogy a történettudomány nem az az eszköz, amely ezt megmondhatná.",
+          "quote": {
+            "text": "A történészek csak azt tudják megállapítani, mi történt valószínűleg a múltban, a csodák viszont természetüknél fogva mindig a legkevésbé valószínű magyarázatai annak, ami történt.",
+            "author": "Bart D. Ehrman",
+            "work": "Vita William Lane Craiggel, College of the Holy Cross",
+            "year": "2006",
+            "sourceUrl": "https://en.wikiquote.org/wiki/Bart_D._Ehrman",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Historians can establish only what probably happened in the past, but miracles, by their very nature, are always the least probable explanation for what happened.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Az elv azelőtt zárja ki a következtetést, hogy bármilyen bizonyítékot megvizsgálnánk, ami nem módszer, hanem kikötés. Az előzetes valószínűtlenséget legyőzheti bizonyíték — ezt írja le Bayes tétele, és így jutunk arra, hogy valószínűtlen dolgok folyton megtörténnek. A lottónyeremény csillagászatian valószínűtlen, mi mégis hiszünk egyben egy újság tanúsága alapján. Ha a szabály az, hogy semmilyen bizonyíték nem igazolhat soha csodát, akkor az érv nem történeti megállapítás, hanem az a feltevés, hogy csodák nem történnek, történészekre vonatkozó szabály formájában kimondva.",
+            "objectionFrom": "theist",
+            "response": "A lottós összehasonlítás azért nem áll meg, mert minden héten nyer valaki, így egy adott nyertes valószínűtlensége nem azonos a nyerés valószínűtlenségével. A feltámadásokra nincs összehasonlítható alapráta."
+          }
+        }
+      ],
+      "singleVoice": "Ez az oldal nem oszlik meg ebben a kérdésben, és ezt kimondani őszintébb, mint megosztottságot gyártani. A kínálkozó természetes magyarázatok — gyászlátomás, bűntudat, kognitív disszonancia, egy élmény köré növő elbeszélés — nem összeegyeztethetetlen álláspontok, hanem egyetlen hipotézis részei, képviselőik pedig egymásra hivatkoznak, nem egymással vitáznak. Az egyetlen valóban összeegyeztethetetlen alternatíva az, hogy Jézus soha nem létezett, és ezt a bizonyítékok zárják ki, nem az ízlés: az alábbi jegyzetben szerepel, nem pedig itt, változatként."
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Miért nem szerepel a mítoszelmélet ezen az oldalon",
+      "oneLine": "Azt, hogy Jézus létezett, a korszak agnosztikus és ateista kutatói éppolyan határozottan állítják, mint a keresztények; a mítoszelméletnek lényegében nincs jelenléte a szakterületen.",
+      "text": "Az az állítás, hogy Jézus soha nem létezett, széles körben terjed az interneten, és lényegében nincs jelenléte a szakterületen. Nem arról van szó, hogy egy vallásilag elkötelezett tudományág védené a tárgyát: azok között, akik ezt a legnyersebben kimondják, agnosztikusok és ateisták vannak, akik a pályájukat azzal töltötték, hogy az evangéliumok megbízhatatlansága és a kereszténység központi állításainak hamissága mellett érveltek.\n\nA bizonyítékanyag nem rendkívüli, és nem is kell annak lennie. Pál, aki a keresztre feszítés után nagyjából huszonöt éven belül ír, azt mondja, hogy Jeruzsálemben találkozott Jézus testvérével, Jakabbal, és Péterrel — nehéz mondat olyasvalakiről leírni, aki nem létezett, olyan közönségnek, amely utánakérdezhet. Tacitus és Josephus Flavius a mozgalmon kívülről hivatkozik rá. Egy jelentéktelen tartományban kivégzett provinciai tanítóhoz képest ez több annál, mint ami általában fennmarad.",
+      "quote": {
+        "text": "Bizonyosan létezett, ahogyan az ókor gyakorlatilag minden hozzáértő kutatója egyetért ebben, keresztény és nem keresztény egyaránt",
+        "author": "Bart D. Ehrman",
+        "work": "Forged: Writing in the Name of God",
+        "year": "2011",
+        "locator": "Ehrman agnosztikus, és az evangéliumok megbízhatóságának bírálója",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Did_Jesus_Exist%3F_(Ehrman_book)",
+        "verification": "corroborated",
+        "sawWhat": "snippet",
+        "original": {
+          "text": "He certainly existed, as virtually every competent scholar of antiquity, Christian or non-Christian, agrees",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "heading": "Az üres sír, amely valóban vitatott",
+      "oneLine": "Hogy a sírt üresen találták-e, a keresztre feszítéssel és a megjelenésekkel ellentétben valóban vitatott a történészek között, és az itteni legerősebb érvek nélküle épülnek fel.",
+      "text": "Érdemes ezt elválasztani a lezárt magtól, mert gyakran úgy adják elő, mintha hozzá tartozna, pedig nem.\n\nAz, hogy Jézust keresztre feszítették, elfogadott. Az, hogy a követői megjelenésekről számoltak be, elfogadott. Hogy megtalálták-e [[az üres sírt|az üres sír]], vitatott a történészek között: a kérdésről író kutatók többsége elfogadja, de ez a többség kisebb és kevésbé széles merítésű, mint a másik kettőben mutatkozó egyetértés, és komoly szakemberek tagadják — némelyikük azzal érvelve, hogy egy keresztre feszített bűnöző aligha kapott volna egyáltalán magánsírt.\n\nEzért épül fel a teista érv legerősebb formája ezen az oldalon nélküle, és ezért gyengébb az az érv, amely rátámaszkodik, annál, amelyik nem."
+    }
+  ],
+  "whereItStands": "A létezés kérdése le van zárva, és nem fog újranyílni. Aki még mindig erről vitatkozik, egy olyan szakterülettel vitatkozik, amely eldöntötte, és a mítoszelmélet mögötti népszerű energiának nincs megfelelője a szakirodalomban.\n\nA feltámadás kérdése valóban nyitott, és szokatlan a szerkezete: a két oldal olyan mértékben egyetért az adatokban, ami ebben a gyűjteményben ritka. Mindkettő elfogadja a keresztre feszítést, mindkettő elfogadja, hogy a követőknek olyan élményeik voltak, amelyeket megjelenéseknek tartottak, mindkettő elfogadja, hogy a mozgalom nagyon korán és valódi áron indult. A nézeteltérés teljes egészében a magyarázat szintjén van, és a legmélyebb része nem is arról szól, melyik magyarázat jobb, hanem arról, hogy a történeti módszer olyasfajta dolog-e, amely ilyen következtetést szállíthat. Ez a második nézeteltérés az, ami az elsőt mozdulatlanul tartja.\n\nAmiben történt elmozdulás, az a keretezés őszintesége. Habermas módszere valódi módszertani előrelépés ahhoz képest, hogy az evangéliumok megbízhatóságából érveljünk, Allison kritikája pedig — a kereszténységen belülről — a legjobb, ami húsz éve a témában született. Mindkét oldal jobban érvel, mint korábban.",
+  "commonMistake": "A keresztények leggyakrabban úgy kezelik a szkeptikus kutatók egyetértését, mintha többre terjedne ki, mint amennyire valójában. Az, hogy a szakemberek többsége elismeri: a tanítványoknak élményeik voltak, igaz, és arról szóló állítás, hogy a tanítványok min mentek keresztül; nem a feltámadás részleges elismerése, és ilyenként előadni egy olyan közönségnek, amely később utánanéz, rossz üzlet. Dale Allison, aki keresztény, ezt a bírálatot határozottabban fogalmazza meg, mint bármelyik ateista.\n\nAz ateisták leggyakrabban a mítoszelmélethez nyúlnak, ami ebben a témában az egyetlen lépés, amely a bizonyítékok alapján egyszerűen téves, és amely puszta társítás révén az egész vitát elveszi tőlük. Aki azzal kezdi, hogy „Jézus soha nem létezett”, könnyű és megérdemelt győzelmet adott a másik oldalnak, és átugrotta azt a kérdést, ahol a kereszténység valódi nehézsége van.\n\nMindkét oldal hajlamos úgy érvelni, mintha az üres sír el volna döntve — így vagy úgy. Ez az ügy legkevésbé biztos eleme, és mindkettő jobban tenné, ha nélküle érvelne.",
+  "sources": [
+    {
+      "title": "The Resurrection of the Son of God",
+      "author": "N.T. Wright",
+      "year": "2003",
+      "url": "https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/",
+      "note": "A Themeliosban megjelent recenzió, amely kifejti azt a második templom korára vonatkozó érvet, amelyet az oldal idéz."
+    },
+    {
+      "title": "The Minimal Facts Approach to the Resurrection of Jesus",
+      "author": "Gary Habermas",
+      "year": "2012",
+      "url": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs",
+      "note": "Habermas saját ismertetése a módszerről és annak kritériumáról."
+    },
+    {
+      "title": "Vision theory of Jesus' appearances",
+      "url": "https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
+      "note": "Lüdemann rekonstrukciója és bírálói. Az oldal megfogalmazása parafrázis, és ekként van megjelölve."
+    },
+    {
+      "title": "Bart D. Ehrman",
+      "url": "https://en.wikiquote.org/wiki/Bart_D._Ehrman",
+      "note": "Forrásolt idézetek, köztük a történeti módszerről és a csodákról szóló érv a 2006-os Craig-vitából."
+    },
+    {
+      "title": "Is There Historical Evidence for the Resurrection of Jesus? The Craig-Ehrman Debate",
+      "year": "2006",
+      "url": "https://www.reasonablefaith.org/media/debates/is-there-historical-evidence-for-the-resurrection-of-jesus-the-craig-ehrman",
+      "note": "A teljes eszmecsere, Craig saját honlapján."
+    },
+    {
+      "title": "Did Jesus Exist? (Ehrman)",
+      "url": "https://en.wikipedia.org/wiki/Did_Jesus_Exist%3F_(Ehrman_book)",
+      "note": "Ehrman könyv terjedelmű tárgyalása a mítoszelméletről, agnosztikusként írva."
+    }
+  ]
+}

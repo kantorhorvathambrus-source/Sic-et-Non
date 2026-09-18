@@ -1,0 +1,316 @@
+{
+  "id": "mind-and-brain",
+  "number": 8,
+  "slug": "tobb-e-az-elme-az-agynal",
+  "title": "Több-e az elme az agynál?",
+  "category": "mind-and-will",
+  "status": "open",
+  "realQuestion": "Egy idegtudós megmondja, melyik agyterület világít ki, amikor pirosat látsz, melyik sérülés viszi el a beszédedet, melyik gyógyszer lapítja el a hangulatodat. Ebből ebben a vitában senki nem vitat semmit, és nem is erről szól ez az oldal.\n\nAz a vitás, hogy ez a történet, befejezve, a teljes történet volna-e. Amikor pirosat látsz, van valami, amilyen abban a pillanatban neked lenni — az élmény [[kváliája|kvália]]. A kérdés az, hogy az agyad teljes fizikai leírása leírta volna-e ezt, vagy kihagyta volna — és ha kihagyta, mi következik ebből.\n\nA két oldal nem az idegtudomány a vallás ellen. Két válasz egy kérdésre, amelyet az idegtudomány nem tesz fel.",
+  "distinctions": [
+    {
+      "label": "Függ-e az elme az agytól?",
+      "gloss": "Igen, és itt ezt senki nem tagadja, aki érvel. Ha az agy sérül, sérül az elme is, megbízhatóan és célzottan. Ezen az oldalon minden álláspontnak be kell fogadnia ezt, és mindegyik meg is mondja, hogyan. Félretéve; a lenti jegyzet foglalkozik vele.",
+      "activeHere": false
+    },
+    {
+      "label": "Az agy teljes fizikai leírása az elme teljes leírása volna-e?",
+      "gloss": "Ez ennek az oldalnak a vitája. Kérdés a magyarázatról és arról, mi létezik, nem arról, melyik agyterület mit csinál.",
+      "activeHere": true
+    },
+    {
+      "label": "Túlél-e bármi a halált?",
+      "gloss": "További lépés. Még egy lélek is, ha van, lehet, hogy nem olyasfajta dolog, amely segítség nélkül túléli a testet. A dualizmustól a továbbélésig vezető lépés teológiai érv, nem ez, és itt nem kíséreljük meg.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "kvália",
+      "definition": "Egy élmény átélt minősége — hogy milyen a piros belülről nézve, nem pedig az, hogy melyik hullámhossz. Hogy ez megnevez-e egy valóságos további dolgot, jórészt maga a vita."
+    },
+    {
+      "term": "szubsztanciadualizmus",
+      "definition": "Az a nézet, hogy a személy két dologból áll, egy testből és egy lélekből, amelyek kölcsönhatásban állnak. Különbözik attól a gyengébb állítástól, hogy a mentális tulajdonságok nem fizikai tulajdonságok."
+    },
+    {
+      "term": "kauzális zártság",
+      "definition": "Az az elv, hogy minden fizikai eseménynek van elégséges fizikai oka. Nem annyira felfedezés, mint inkább a fizika munkafeltevése, és részben ezért vitatható."
+    },
+    {
+      "term": "nehéz probléma",
+      "definition": "David Chalmers elnevezése arra a kérdésre, hogy a fizikai feldolgozást miért kíséri egyáltalán élmény, szemben azokkal a kezelhető kérdésekkel, hogy az agy hogyan különböztet meg, integrál és számol be."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Az élmény alanya nem még egy dolog az agyban",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "the-further-fact",
+          "claim": "A tested teljes leltára még nem mondta volna meg, melyik személy vagy",
+          "explanation": "Richard Swinburne érve egy olyan kérdésen fordul meg, amelyet a fizikai leírás láthatóan nem tud eldönteni. Vegyünk egy test és egy agy teljes leírását — minden atomot, minden kapcsolatot. Most kérdezzük meg, hogy a benne lévő személy te vagy-e. Swinburne szerint ez a kérdés azután is nyitva marad, hogy minden fizikai tény megvan, és egy kérdés, amely minden fizikai tény eldőlte után is nyitva marad, szükségképpen valami továbbiról szól.\n\nNem tagadja, hogy a lélek függ az agytól, sőt kifejezetten állítja, hogy függ. Az állítás arról szól, mi egy személy, nem arról, hogy az elmék elszakadhatnak-e a testtől.",
+          "quote": {
+            "text": "a személy két részből áll — egy fizikai testből és egy nem fizikai lélekből",
+            "author": "Richard Swinburne",
+            "work": "Substance Dualism, Faith and Philosophy 26(5)",
+            "year": "2009",
+            "locator": "a The Evolution of the Soul (1986) című könyvben hosszan védelmezett tézis",
+            "sourceUrl": "https://users.ox.ac.uk/~orie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "a person consists of two parts — a physical body and a non-physical soul",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Lehet, hogy a nyitott kérdés a fogalmainkról szól, nem a világról. Az, hogy feltehetjük a kérdést, „de én lennék-e?”, a személyes azonosságról szóló beszéd rugalmasságáról mond valamit, nem arról, hogy volna egy külön összetevő, amelyet a kérdés követ. Egy újjáépített hajóról is megkérdezhetjük, hogy „de ugyanaz a hajó volna-e?”, anélkül hogy bárki arra következtetne, hogy a hajóknak lelkük van. És egy olyan [[szubsztanciadualizmusnak|szubsztanciadualizmus]], amely elismeri az agytól való teljes függést, meg kell mondania, mivel járul hozzá a lélek, amit az agy ne tenne meg már amúgy is.",
+            "objectionFrom": "atheist",
+            "response": "A hajós eset nem párhuzamos: nincs olyan tény, amelyre nézve a hajó saját válasza helyes vagy téves lehetne, magadra nézve viszont van. Vagy te ébredsz fel holnap, vagy valaki más, és ez nem azon múlik, hogyan döntünk a beszédmódról.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "hylomorphism",
+              "label": "Hülomorfizmus",
+              "heldBy": "Aquinói Tamás és a tomista hagyomány; Edward Feser, Eleonore Stump, David Oderberg",
+              "oneLine": "A lélek nem egy második dolog, amely a testhez kapcsolódik, hanem a test formája — az, amitől ez az anyag egyáltalán élő ember.",
+              "summary": "A régebbi keresztény felfogás, és az, amelyet Aquinói Tamás valójában vallott. Nem Descartes más szavakkal: e nézet szerint az ember egy szubsztancia, nem kettő, és a lélek az, ami egy élő test szerveződése *maga*, nem pedig utas benne.\n\nEzért nem merül fel a kölcsönhatás problémája a szokásos formájában — nincs két dolog, amely kölcsönhatásba léphetne. Amit a hagyomány hozzátesz, és amitől egyáltalán dualista, az az, hogy ez a bizonyos forma szubzisztens: a fa formájával ellentétben fennmaradhat, amikor az általa szervezett anyag már nincs meg.",
+              "quote": {
+                "text": "a lélek az élő emberi test szubsztanciális formája … és az anyagi dolgok formái között egyedülálló abban, hogy szubzisztens, vagyis képes fennmaradni a test halálán túl",
+                "author": "Edward Feser",
+                "work": "Vallicella on hylemorphic dualism",
+                "year": "2011",
+                "sourceUrl": "http://edwardfeser.blogspot.com/2011/08/vallicella-on-hylemorphic-dualism.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "the soul is the substantial form of the living human body … and it is unique among the forms of material things in being subsistent, that is, capable of surviving beyond the death of the body",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés az, hogy a nyitott kérdés — „de én lennék-e?” — a fogalmaink rugalmasságáról mond valamit, nem a világról. Ez az álláspont soha nem futtatta ezt az érvet. A lélekhez egy általános elméletből jut el arról, mi bármely szubsztancia, nem pedig a személyes azonosságra vonatkozó intuícióból, így annak az intuíciónak a diagnózisa érintetlenül hagyja.",
+              "objection": {
+                "text": "Egy forma, amely túléli azt az anyagot, amelynek a formája, nem nyilvánvalóan koherens: a forma állítólag valaminek a szerveződése, és egy szerveződést, amely semmit nem szervez, nehéz megkülönböztetni attól a második szubsztanciától, amelyről a nézet azt mondja, hogy nem az. Ezt a hagyományon belüli és a kívüli bírálók egyaránt feszegetik, a szokásos válasz pedig — hogy az értelem műveletei immateriálisak, és így az azokat végző forma szubzisztálhat — egy elvonatkoztatásról szóló érven múlik, amelyet a tomizmuson kívül kevés filozófus fogad el.",
+                "from": "both",
+                "response": "A különvált szubzisztens forma elismerten természetellenes állapotban van, és a hagyomány éppen ezért ragaszkodik a test feltámadásához ahelyett, hogy a testetlen lelket tekintené a személynek."
+              }
+            },
+            {
+              "id": "christian-materialism",
+              "label": "Keresztény materializmus",
+              "heldBy": "Kevin Corcoran, Nancey Murphy, Peter van Inwagen, Trenton Merricks",
+              "oneLine": "Nincs lélek. Az emberi személy anyagi dolog, a keresztény remény pedig a test feltámadása, ahogyan mindig is mondta.",
+              "summary": "Ez az álláspont az oldal teista felén áll, a metafizikában viszont egyetért az ateista oldallal. Érvelése részben exegetikai — hogy a Biblia embertana egységes, nem platonikus, és hogy reménye a feltámadás, nem a lélek halhatatlansága —, részben filozófiai: a lélek a görög filozófiából került be, és azóta kárt okoz.\n\nCorcoran változatában a személyeket a testük konstituálja anélkül, hogy azonosak volnának velük, a szobor és a bronz mintájára: ugyanaz a viszony, nem ugyanaz a dolog.",
+              "quote": {
+                "text": "mi, emberi személyek, a testünk által konstituálódunk anélkül, hogy azonosak volnánk a minket konstituáló testekkel",
+                "author": "Kevin J. Corcoran",
+                "work": "Rethinking Human Nature: A Christian Materialist Alternative to the Soul",
+                "year": "2006",
+                "sourceUrl": "https://philpapers.org/rec/CORRHN",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "we human persons are constituted by our bodies without being identical with the bodies that constitute us",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetésből semmi nem irányul arra, amit ez az álláspont vall. Egyetért azzal, hogy a nyitott kérdés a fogalmakról szóló tény, egyetért azzal, hogy nincs további összetevő, és ennek az oldalnak az ateista feléből is a legtöbbel egyetértene — épp ezért szerepel itt, mert az az olvasó, aki a dualizmust tekinti a keresztény álláspontnak, téved a keresztény elmefilozófusok növekvő kisebbségét illetően.",
+              "objection": {
+                "text": "Ha a személy anyagi dolog, akkor a feltámadásnak olyan azonossági problémája van, amelynek megoldására a lelket kitalálták: az atomok szétszóródnak, és egy később, más anyagból összeállított lény inkább nagyon jó másolatnak látszik, mint neked. A konstitúciós viszony ráadásul egy megkülönböztetés munkáját végzi anélkül, hogy megvolna hozzá a megkülönböztetés metafizikája — ha azt mondjuk, a tested konstituál téged, de nem vagy azonos vele, az vagy azt jelenti, hogy mégiscsak két dolog van, vagy nem jelent semmit, ami kibírja a faggatást.",
+                "from": "within",
+                "sharedPremise": "olyan előfeltevésekből érvel, amelyeket ez az álláspont vall — hogy Isten létezik, hogy a feltámadás testi, és hogy a személynek utána numerikusan ugyanannak a személynek kell lennie —, arra a következtetésre, hogy egy tisztán anyagi felfogás semmit nem hagy, ami ezt az azonosságot átvinné a szakadékon.",
+                "response": "A szakadékon átívelő numerikus azonosság minden olyan felfogásnak gondja, amely testinek tartja a feltámadást, a dualistáknak is, hiszen a dualistának is szüksége van arra, hogy a feltámasztott test a tiéd legyen. Van Inwagen és Merricks kínált válaszokat; egyik sem kényelmes, és egyik sem rosszabb egy olyan léleknél, amelyet senki nem tud elhelyezni."
+              }
+            }
+          ]
+        },
+        {
+          "id": "consciousness-needs-explaining",
+          "claim": "Ha a tudat nem redukálható, akkor egy világegyetem, amely elmével kezdődik, jobban megmagyarázza, mint az, amelyik nem",
+          "explanation": "Ez az érv nem a lélekkel kezd. Azzal kezdi, hogy megadja a másik oldalnak a probléma legnehezebb változatát, és megkérdezi, melyik világkép fogadja be.\n\nNaturalista felfogásban az elme későn jelenik meg, olyan anyagi elrendeződésekből, amelyek soha nem voltak mentálisak, olyan úton, amelyet senki nem tud megadni — és a megjelenése vagy nyers tény, vagy nagyon hosszú lejáratú váltó. A teizmusban az elme az, ahol a világegyetem kezdődik, és a véges elmék olyasfajta dolgok, amilyeneket egy ilyen világegyetemtől el is várnánk. J.P. Moreland érve összehasonlító és feltételes: nem állítja, hogy bizonyítja a tudat redukálhatatlanságát, csak azt, hogy ha az, akkor ez számít.",
+          "quote": {
+            "text": "Ha létezik redukálhatatlan tudat (vagy az szabályszerűen korrelál fizikai állapotokkal), akkor ez bizonyítékot szolgáltat (a második fejezetben meghatározott mértékben) Isten létezése mellett.",
+            "author": "J.P. Moreland",
+            "work": "Consciousness and the Existence of God: A Theistic Argument",
+            "year": "2008",
+            "locator": "a feltételes állítás, amelynek védelmére a könyv vállalkozik",
+            "sourceUrl": "https://www.jpmoreland.com/books/god-and-consciousness/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If irreducible consciousness exists (or is regularly correlated with physical states), then this provides evidence (to a degree specified in chapter two) for God's existence.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "A feltételes állítás kevesebbet tesz, mint amennyinek látszik, mert az előtagja maga az egész vita, az utótagja pedig becsempész egy soha el nem végzett összehasonlítást. „Az elme fundamentális” úgy magyarázza a tudatot, ahogyan „az ópium természetéhez tartozik, hogy álmot okoz” magyarázza az álmot: magasabb áron újraírja ugyanazt. Egy isteni elme maga is redukálhatatlan tudat, megmagyarázatlanul, így a felfogás ott ér véget, ahol kezdődött, eggyel több létezővel benne.",
+            "objectionFrom": "atheist",
+            "response": "Minden magyarázat megáll valahol, és az elménél megállni nem nyilvánvalóan rosszabb, mint az anyagnál megállni. Az állítás csak annyi, hogy ha a tudat nem redukálható, akkor egy olyan világegyetemet, amelynek az alján elme van, kevésbé lepi meg."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Az elme az, amit az agy csinál, és semmi nem maradt ki",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "nothing-but-the-cells",
+          "claim": "Minden mentális képesség, amelyet sikerült elhelyeznünk, agyműködésnek bizonyult",
+          "explanation": "A pozitív érv kétszáz év ellenpélda nélküli mérlege. Minden képesség, amelyet valaha túl bensőségesnek tartottak ahhoz, hogy fizikai legyen — az emlékezet, a nyelv, egy arc felismerése, az erkölcsi ítélet, az énség érzése —, vizsgálat alá véve olyasminek bizonyult, amit meghatározott idegszövet csinál, és amely meghatározott módokon mondja fel a szolgálatot, amikor az a szövet felmondja.\n\nPatricia Churchland lényege az, hogy ez nem korrelációk sora, amely mélyebb magyarázatra vár. Így néz ki az, amikor kiderítjük, hogy mi valami. Ma senki nem mondja, hogy a víz korrelál a H₂O-val.",
+          "quote": {
+            "text": "Amikor azt mondom, hogy az elme az agy, amikor azt mondom, hogy a látás egyszerűen az agy működése, ezt értem rajta … hogy nincs semmi más, csak a sejtek és az, ahogyan össze vannak rakva.",
+            "author": "Patricia Churchland",
+            "work": "interjú Bill Moyersszel",
+            "year": "2011",
+            "locator": "élőszó; egy félbehagyott mondatkezdet kihagyva",
+            "sourceUrl": "https://billmoyers.com/content/patricia-churchland/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "When I say that the mind is the brain, when I say that vision just is a function of the brain, that's what I mean … that there is nothing other than the cells and the way they're put together.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Ennek az ellenvetésnek a legerősebb formája a naturalizmuson belülről jön, nem a vallás felől. David Chalmers elfogad minden eredményt, amelyre Churchland hivatkozik, tagadja a lelket, és mégis amellett érvel, hogy a lista funkciók listája — megkülönböztetés, integrálás, beszámolás —, és hogy egy funkció megmagyarázása nem magyarázza meg, miért kíséri élmény a végrehajtását. A víz és a H₂O rossz párhuzam, mert nincs olyan, amilyen víznek lenni: ott az azonossághoz nem kell további tény, itt pedig éppen egy ilyen a vita tárgya.",
+            "objectionFrom": "within",
+            "sharedPremise": "elfogadja a naturalizmust és minden idézett idegtudományi eredményt, és ezekből az előfeltevésekből érvel amellett, hogy megmagyarázni, mit csinál egy rendszer, még nem annyi, mint megmagyarázni, miért kíséri élmény azt, hogy csinálja.",
+            "response": "A „további tény” lehet, hogy az első személyű nézőpont mellékterméke, nem pedig további dolog a világban. Egy rendszer, amely modellezi önmagát, egyszerűként és közvetlenként fogja ábrázolni a saját állapotait, és nem fogja kielégítőnek találni a funkcionális fogalmakkal adott magyarázatukat, akár kimaradt valami, akár nem.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "illusionism",
+              "label": "Illuzionizmus",
+              "heldBy": "Keith Frankish; Daniel Dennett; Jay Garfield",
+              "oneLine": "Nincs nehéz probléma, mert nincs olyasmi, amiről szólna: az introspekció félreábrázolja az élményeinket, mintha volnának fenomenális tulajdonságaik, amelyek nincsenek.",
+              "summary": "A legradikálisabb álláspont ezen az oldalon, és az, amelyik a legkomolyabban veszi a nehéz problémát azzal, hogy elutasítja a kiindulópontját. Az illuzionisták nem tagadják, hogy tudatosak vagyunk; azt tagadják, hogy a tudat olyan privát minőségekben állna, amilyeneket a vita feltételez.\n\nE felfogás szerint nem azt kell megmagyarázni, miért kíséri élmény a fizikai feldolgozást, hanem azt, miért vagyunk annyira biztosak benne, hogy kíséri — és ez arra vonatkozó kérdés, hogy egy önmagát modellező rendszer hogyan ábrázolja a saját állapotait, ami nehéz, de nem más fajtájú, mint a kognitív tudomány többi problémája.",
+              "quote": {
+                "text": "a fenomenális tudat … introspektív illúzió — az introspekció úgy ábrázolja az élményeket, mintha fenomenális tulajdonságaik volnának",
+                "author": "Keith Frankish",
+                "work": "Illusionism as a Theory of Consciousness, Journal of Consciousness Studies 23",
+                "year": "2016",
+                "sourceUrl": "https://www.keithfrankish.com/illusionism-as-a-theory-of-consciousness/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "phenomenal consciousness … is an introspective illusion — introspection misrepresents experiences as having phenomenal properties",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés azt mondja, hogy egy funkció megmagyarázása nem magyarázza meg, miért kíséri élmény a végrehajtását. Ez az álláspont tagadja azt, amiről a „miért” kérdez: nincs kísérés, csak egy rendszer, amely úgy ábrázolja magát, mintha volna. Az ellenvetést nem lehet feszegetni anélkül, hogy pontosan azt feltételeznénk, ami a vita tárgya.",
+              "objection": {
+                "text": "Az illúzió az, ahogyan a dolgok tűnnek, a tűnés pedig épp a kérdéses dolog — így az álláspont láthatóan előfeltételezi azt, amit tagad. Chalmers a nehéz esetek legnehezebbjének nevezi ezt, és a védelmezői elismerik a probléma alakját: azt mondani, hogy az élmény illúzió, annyi, mint azt mondani, hogy úgy tűnik, van élmény, és nem világos, mi lehetne ez, ha nem élmény. A válasz, hogy a tűnések tisztán információs fogalmakkal kifejthetők, éppen az, amiről a bírálók azt mondják, hogy soha nem történt meg.",
+                "from": "within",
+                "sharedPremise": "elfogadja a naturalizmust és az agy működéséről szóló teljes funkcionális történetet, és kizárólag ezekből az előfeltevésekből érvel amellett, hogy egy felfogás, amely a tűnést azzal magyarázza, hogy félreábrázolásnak nevezi, még mindig adós a tűnés magyarázatával.",
+                "response": "Megkísérelték, nem pedig feltételezték: egy információs állapot, amely a rendszer valamely állapotát egyszerűként és intrinzikusként ábrázolja, tűnés, és ilyet építeni mérnöki feladat, nem metafizikai."
+              }
+            },
+            {
+              "id": "panpsychism",
+              "label": "Panpszichizmus",
+              "heldBy": "Philip Goff, Galen Strawson, Luke Roelofs; növekvő kisebbség az elmefilozófiában",
+              "oneLine": "A tudatot egyáltalán nem az agy hozza létre: az anyag alapvető jellemzője, és az agy szervezi, nem pedig teremti.",
+              "summary": "Ez az álláspont teljes egészében elfogadja a nehéz problémát, és arra jut, hogy a hibát mindjárt az elején követték el. A fizika azt írja le, mit csinál az anyag, nem azt, hogy mi; az anyag intrinzikus természete üresen marad, és a tudat esélyes a kitöltésére. E felfogás szerint az élményt nem kell kihozni a nem élményszerűből, mert nincs nem élményszerű, amiből ki kellene hozni.\n\nHangsúlyosan nem vallásos nézet — Goff, Strawson és Roelofs nem teisták —, és ezért szerepel az oldalnak ezen a felén. És nem is az a peremálláspont, aminek hangzik: az érv szerint ez az egyetlen nézet, amely egyszerre realista a tudatról és mentes az emergencia problémájától.",
+              "quote": {
+                "text": "a tudat a fizikai világ fundamentális és mindenütt jelen lévő jellemzője",
+                "author": "Philip Goff",
+                "work": "Galileo’s Error: Foundations for a New Science of Consciousness",
+                "year": "2019",
+                "sourceUrl": "https://en.wikipedia.org/wiki/Galileo%27s_Error",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "consciousness is a fundamental and ubiquitous feature of the physical world",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "A fenti ellenvetés azt kérdezi, miért kísérné élmény a fizikai feldolgozást. E nézet szerint a kérdésnek van egy előfeltevése, amelyet elutasít — hogy a fizikai valaha is élménymentes lett volna —, így nincs kísérés, amit meg kellene magyarázni. Az ellenvetést ehelyett az összetevődésről szóló kérdésként kell újrafogalmazni, ami más és sokkal konkrétabb nehézség.",
+              "objection": {
+                "text": "Az összetevődés problémája, és súlyos. Még ha megengedjük is, hogy az elektronoknak van valamilyen minimális élményük, semmi nem magyarázza meg, hogyan adódik össze több milliárd apró alany egyetlen alannyá, aki ezt a mondatot olvassa — és élmények összege nem nyilvánvalóan élmény egyáltalán, ahogyan egy embertömeg sem személy. A bírálók szerint a nézet áthelyezte a nehéz problémát, nem pedig megoldotta: elcserélte azt, hogy „hogyan keletkezik élmény a nem élményszerűből”, arra, hogy „hogyan tevődnek össze a mikroélmények”, anélkül hogy a másodikon nagyobb fogása volna.",
+                "from": "both",
+                "response": "Az összetevődés problémája legalább arról szól, hogyan tesznek ki egyfajta dolgok egy ugyanolyan fajta dolgot, ami a tudomány hétköznapi dolga. Az élmény felbukkanása a teljesen nem élményszerűből kategóriaváltás, és ez a nehezebb kérés."
+              }
+            }
+          ]
+        },
+        {
+          "id": "no-room-for-a-second-cause",
+          "claim": "Egy léleknek, amely testet mozgat, ki kellene szorítania egy már eleve elégséges fizikai okot",
+          "explanation": "Ez az az érv, amely az elmúlt negyven évben a legtöbb munkát végezte, és nem a dualizmus hihetőségére irányul, hanem a működésére. A fizika láthatóan engedelmeskedik a [[kauzális zártságnak|kauzális zártság]]: bármely fizikai eseménynek van elégséges fizikai oka. A karod izomrostok, mozgatóneuronok és egy visszafelé az agyba futó lánc miatt emelkedik fel, hézag nélkül.\n\nEkkor harap Jaegwon Kim kizárási elve. Ha a kar felemelkedését a lélek is okozta, akkor az eseménynek két elégséges oka van, ami vagy túldetermináltság — minden egyes emberi mozdulatnál megismétlődő egybeesés —, vagy a két ok egyike nem csinál semmit. Kim ezt először a fizikalista társaira szegezte, és részben ezért nehéz előítéletként elhessegetni.",
+          "quote": {
+            "text": "Egyetlen eseménynek sem lehet egy adott időpontban egynél több elégséges oka — hacsak nem a kauzális túldetermináltság valódi esetéről van szó.",
+            "author": "Jaegwon Kim",
+            "work": "Physicalism, or Something Near Enough",
+            "year": "2005",
+            "locator": "a kauzális kizárás elve, ahogyan a szuperveniencia-érvben megfogalmazódik",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/physicalism-or-something-near-enough/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "No single event can have more than one sufficient cause occurring at any given time — unless it is a genuine case of causal overdetermination.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Kim előbb szegezte az érvet a fizikalista társainak, mint bárki másnak, és a legélesebb bírálói is fizikalisták. Stephen Yablo, Karen Bennett és a kauzális kompatibilista irodalom szerint a kizárási elv tévesen írja le a szintek közötti okozást: egy determinábilis és a determinátuma nem két versengő elégséges ok, és egy mentális állapot meg a fizikai megvalósítója sem az, tehát semmi nem túldeterminált, és semminek nem kell tétlennek lennie. Kim maga úgy veszi, hogy az érv azt mutatja meg, hogy a redukálhatatlan mentális tulajdonságok kauzálisan tehetetlenek — olyan következtetés, amelyet sok naturalista éppolyan elfogadhatatlannak talál, mint bármelyik dualista. A kauzális zártság ráadásul a fizikai gyakorlat feltevése, nem pedig eredménye: egyetlen kísérlet sem vette számba egy esemény összes okát, hogy aztán mindet fizikainak találja.",
+            "objectionFrom": "within",
+            "response": "Hogy a zártsági elv nem tétel, azt elismerjük. Mindazonáltal a tudományok legjobban alátámasztott munkafeltevése, és soha nem találtak semmit, ami megsértené — miközben az alternatívához olyan kölcsönhatás kell, amelynek nincs mechanizmusa, nincs helye és nincs energiamérlege.",
+            "sharedPremise": "elfogadja a fizikalizmust és a fizikai világ kauzális zártságát, és kizárólag ezekből az előfeltevésekből érvel amellett, hogy a kizárási elv tévesen írja le a különböző szintű okok viszonyát, így egy mentális ok és a fizikai megvalósítója nem két jelölt, amely egyetlen állásért verseng."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Az érv, amelyet a megalkotója visszavont",
+      "oneLine": "Az elmúlt évszázad legélesebb antifizikalista érvét, Frank Jackson Maryjét, maga Jackson adta fel — ezért szerepel itt, és nem érvhelyen.",
+      "text": "Húsz éven át a legélesebb antifizikalista érv Frank Jacksoné volt: Mary minden fizikai tényt ismer a színlátásról, de soha nem látott színt; amikor kiengedik a fekete-fehér szobájából, megtud valamit; tehát nem minden tény fizikai tény.\n\nJackson azután meggondolta magát, és fizikalista lett, arra jutva, hogy Mary meglepetése nem azt mutatja, aminek korábban vette. Ezért van az érv itt, és nem a fenti helyek egyikén: híres érv, amelyet a saját szerzője feladott, és egy oldal, amely helyet szánna rá, olyan érvet mutatna be, amelyet a jelenlegi vitában ebben a formában senki nem feszeget. Mégis számít — ritka dolog, hogy egy filozófus nyilvánosan visszavonjon egy pályáját meghatározó álláspontot, és megéri tudni róla; a fordulatra ma mindkét oldal hivatkozik, ellentétes okokból."
+    },
+    {
+      "heading": "Amiben mindkét oldal egyetért az agyról",
+      "oneLine": "Az ezen az oldalon szereplő dualisták semmilyen idegtudományt nem vitatnak, a vitáról mégis rendre úgy számolnak be, mintha vitatnák.",
+      "text": "Az ezen az oldalon szereplő dualisták nem vitatják az idegtudományt, és érdemes pontosnak lenni ebben, mert a vitáról rendszerint úgy számolnak be, mintha vitatnák.\n\nSwinburne szerint a lélek minden tudatos állapota ebben az életben az agytól függ, így az altatás, a sérülés és a demencia pontosan azt teszi, aminek látszik. Moreland érvének egyáltalán nincs szüksége dualizmusra, csak arra, hogy a tudat ellenálljon a redukciónak. Egyik álláspont sem jósolja, hogy egy sérülés érintetlenül hagy egy képességet, és egyiket sem hozza zavarba egy felvétel. A nézeteltérés arról szól, mit tartalmazott volna és mit nem egy teljes fizikai történet, és ezt egyetlen felvétel sem dönti el."
+    }
+  ],
+  "whereItStands": "A tapasztalati trend egy irányba mutat, és régóta. A képességekről rendre kiderül, hogy agyműködések, és mentális jelenséget soha nem sikerült a koponyán kívül elhelyezni. Aki azt állítja, hogy az elme több az agynál, az ezzel az árral szemben érvel, és az őszintéi ki is mondják.\n\nA filozófiai vita nem mozdult vele. [[A nehéz probléma|nehéz probléma]] nagyjából ott tart, ahol Chalmers 1995-ben hagyta: senki nem állította elő az élmény levezetését a fizikai leírásból, és senki nem állított elő olyan érvet amellett, hogy ilyen levezetés nem lehetséges, amelyet a másik oldal elfogadna. Ami megváltozott, az a terep alakja — az élő lehetőségek ma többnyire a fizikalizmus formái és a naturalista nem-fizikalizmus formái, a teista dualizmus pedig kisebbségi álláspont, amelyet kevés filozófus képvisel, de azok jól.\n\nEz az utolsó tény kevesebbet vág, mint amennyinek látszik. Egy álláspontnak, amelyet kevesen vallanak, igaza lehet, és Swinburne-re azért érdemes odafigyelni, mert jó az érve, nem azért, mert sokan osztják a következtetését.",
+  "commonMistake": "A keresztények többnyire úgy érvelnek, mintha az idegtudomány volna az ellenfél, és olyan esetekhez nyúlnak — halálközeli beszámolókhoz, terminális luciditáshoz —, amelyek megrendítők volnának, ha megállnák a helyüket, és amelyekre az érv egyetlen komoly változatának sincs szüksége. Az erős változat teljes egészében elismeri a függést, és olyan kérdést tesz fel, amelyre a függés nem válaszol. A rendellenességekhez nyúlástól egy filozófiai állítás tényekre tett fogadásnak látszik, és éppen az elveszített fogadások miatt hangzik a dualizmus rossz hírűnek.\n\nAz ateisták többnyire következtetésként kezelnek egy korrelációt. Az, hogy egy agyterület kivilágít, amikor félelmet érzel, megmondja, hol történik a félelem; a vitatott állítás az, hogy a kivilágítás az, ami a félelem — ez további állítás, és Chalmers, aki ateista, egy egész könyvet tölt a tagadásával. Több felvétel előállítása nem válaszol rá.\n\nA közös hiba az a gondolat, hogy a másik oldal bizonyosan figyelmen kívül hagy bizonyítékokat. Egyikük sem teszi. Arról vitatkoznak, mi számítana annak, hogy megmagyaráztunk valamit.",
+  "sources": [
+    {
+      "title": "Substance Dualism",
+      "author": "Richard Swinburne",
+      "year": "2009",
+      "url": "https://users.ox.ac.uk/~orie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf",
+      "note": "Swinburne saját megfogalmazása az álláspontról, az oxfordi oldaláról."
+    },
+    {
+      "title": "Consciousness and the Existence of God: A Theistic Argument",
+      "author": "J.P. Moreland",
+      "year": "2008",
+      "url": "https://www.jpmoreland.com/books/god-and-consciousness/",
+      "note": "A tudatból vett érv, a szerző saját honlapján."
+    },
+    {
+      "title": "Patricia Churchland: A Conversation With the Philosopher and Writer",
+      "author": "Bill Moyers",
+      "year": "2011",
+      "url": "https://billmoyers.com/content/patricia-churchland/"
+    },
+    {
+      "title": "Physicalism, or Something Near Enough",
+      "author": "Jaegwon Kim",
+      "year": "2005",
+      "url": "https://ndpr.nd.edu/reviews/physicalism-or-something-near-enough/",
+      "note": "A Notre Dame Philosophical Reviews ismertetése, amely kimondja a kizárási érvet és annak előfeltevéseit."
+    },
+    {
+      "title": "Knowledge Argument Against Physicalism",
+      "url": "https://iep.utm.edu/know-arg/",
+      "note": "Az Internet Encyclopedia of Philosophy szócikke Mary szobájáról, Jackson későbbi fordulatával együtt."
+    }
+  ]
+}
