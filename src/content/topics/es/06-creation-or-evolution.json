@@ -5,7 +5,7 @@
   "title": "¿Creación o evolución?",
   "category": "natural-science",
   "status": "settled-core",
-  "realQuestion": "La «o» del título hace mucho daño. Convierte esto en una elección entre dos teorías sobre cómo llegaron aquí los animales. No lo es.\n\nSi los seres vivos comparten [[antepasados comunes]] y han cambiado con el tiempo es una pregunta científica, y los biólogos la respondieron hace más de un siglo. Lo que está realmente abierto es otra pregunta: si así llegó a ser la vida lo que es, ¿queda algo que un creador haya hecho?\n\nEsa es la discusión de esta página. La otra, sobre las cuatro maneras en que los cristianos han intentado encajar el Génesis con la geología, también es real, y aparece más abajo. Pero ocurre dentro del cristianismo, no entre el cristianismo y el ateísmo.",
+  "realQuestion": "La «o» del título hace mucho daño. Convierte esto en una elección entre dos teorías sobre cómo llegaron aquí los animales. No lo es.\n\nQue los seres vivos compartan [[antepasados comunes]] y hayan cambiado con el tiempo es una cuestión científica, y los biólogos la respondieron hace más de un siglo. Lo que está realmente abierto es otra pregunta: si así llegó la vida a ser lo que es, ¿queda algo que un creador pudiera haber hecho?\n\nEs lo que se discute en esta página. La otra discusión, sobre las cuatro maneras en que los cristianos han intentado encajar el Génesis con la geología, también es real, y aparece más abajo. Pero ocurre dentro del cristianismo, no entre el cristianismo y el ateísmo.",
   "distinctions": [
     {
       "label": "¿Comparten las especies vivas antepasados comunes?",
@@ -13,17 +13,17 @@
       "activeHere": false
     },
     {
-      "label": "¿Deja la evolución algo que un creador haya hecho?",
-      "gloss": "Una pregunta filosófica que la biología no resuelve en ningún sentido. Esta es la discusión de esta página.",
+      "label": "¿Deja la evolución algo por hacer a un creador?",
+      "gloss": "Una pregunta filosófica que la biología no resuelve en ningún sentido. Es lo que se discute en esta página.",
       "activeHere": true
     },
     {
       "label": "¿Cómo deben los cristianos leer el Génesis junto a la geología?",
-      "gloss": "Una disputa real, pero dentro del cristianismo y no entre el cristianismo y el ateísmo. Aparece más abajo, en las cuatro posturas.",
+      "gloss": "Una disputa real, pero dentro del cristianismo, no entre el cristianismo y el ateísmo. Aparece más abajo, en las cuatro posturas.",
       "activeHere": false
     }
   ],
-  "settledCore": "Los biólogos y los geólogos no están divididos sobre esto. Las especies vivas descienden, con modificaciones, de antepasados compartidos; la [[selección natural]] actuando sobre la variación heredada es una causa principal de su adaptación; y la Tierra tiene unos 4500 millones de años. Lo respaldan el registro fósil, la anatomía comparada, la distribución geográfica de las especies y la evolución observada directamente en bacterias, y sobre todo la secuenciación de genomas, que podría haber refutado el antepasado común y en cambio lo confirmó con enorme detalle.\n\nEso dice lo que han encontrado esos campos, no quién tiene derecho a una opinión. Muchos cristianos sinceros lo rechazan. Gallup situó en el 40 por ciento la proporción de adultos estadounidenses que sostienen la visión de la Tierra joven sobre el origen humano en 2024, frente a un máximo del 47 por ciento, y esa cifra es específica de Estados Unidos. La Iglesia católica, las iglesias ortodoxas, la Comunión anglicana y las denominaciones protestantes históricas, juntas bastante más de la mitad de los cristianos del mundo, no enseñan una Tierra joven.\n\nSi creciste con una Tierra joven, nada de esto pretende decirte que estás fuera de esta conversación. Las cuatro posturas cristianas de más abajo son donde vive realmente el desacuerdo, y cada una la enuncia alguien que la sostiene.",
+  "settledCore": "Los biólogos y los geólogos no están divididos sobre esto. Las especies vivas descienden, con modificaciones, de antepasados compartidos; la [[selección natural]] actuando sobre la variación heredada es una causa principal de su adaptación; y la Tierra tiene unos 4500 millones de años. Lo respaldan el registro fósil, la anatomía comparada, la distribución geográfica de las especies y la evolución observada directamente en bacterias, y sobre todo la secuenciación de genomas, que podría haber refutado el antepasado común y que en cambio lo confirmó con enorme detalle.\n\nEso es una afirmación sobre lo que han encontrado esas disciplinas, no sobre quién tiene derecho a opinar. Muchos cristianos sinceros lo rechazan. En 2024 Gallup situó en el 40 por ciento la proporción de adultos estadounidenses que sostienen la visión de la Tierra joven sobre el origen del ser humano, frente a un máximo anterior del 47 por ciento, y esa cifra corresponde solo a Estados Unidos. La Iglesia católica, las iglesias ortodoxas, la Comunión anglicana y las denominaciones protestantes históricas —juntas, bastante más de la mitad de los cristianos del mundo— no enseñan una Tierra joven.\n\nSi creciste con una Tierra joven, nada de esto pretende decirte que estás fuera de esta conversación. El desacuerdo vive en realidad en las cuatro posturas cristianas de más abajo, y cada una la enuncia alguien que la sostiene.",
   "glossary": [
     {
       "term": "antepasados comunes",
@@ -148,7 +148,7 @@
             }
           },
           "counter": {
-            "objection": "Convertir un método exitoso en una afirmación sobre todo lo que existe es una apuesta filosófica, no un resultado científico, y quienes más presionan con esta objeción son ateos que aceptan íntegramente la biología evolutiva y rechazan la extensión metafísica. Dennett llama a su propia idea un ácido universal que corroe todos los conceptos tradicionales, y un ácido que disuelve todo, incluida la fiabilidad de la mente que disuelve, conviene manejarlo con cuidado.",
+            "objection": "Convertir un método exitoso en una afirmación sobre todo lo que existe es una apuesta filosófica, no un resultado científico, y quienes más aprietan con esta objeción son ateos que aceptan íntegramente la biología evolutiva y rechazan la extensión metafísica. Dennett llama a su propia idea un ácido universal que corroe todos los conceptos tradicionales — y a un ácido que lo disuelve todo, incluida la fiabilidad de la mente que disuelve, conviene manejarlo con cuidado.",
             "objectionFrom": "within",
             "sharedPremise": "se hace en los propios términos de la biología evolutiva: acepta por completo la descendencia común y la selección natural, y discute únicamente el paso ulterior de un método exitoso a una afirmación sobre todo lo que existe.",
             "response": "Es una apuesta, pero con un historial de dos siglos de pagar. La apuesta contraria lleva todo ese tiempo perdiendo terreno."
@@ -205,7 +205,7 @@
                 "from": "both",
                 "response": "Expuesto con detalle en la literatura propia de la posición; esta página formula la objeción, no la dirime."
               },
-              "againstSettledCore": "Esto contradice el núcleo asentado que se enuncia al principio de esta página, que no es objeto de disputa entre biólogos ni geólogos. Se imprime aquí con las palabras de sus propios defensores porque una posición que sostiene una minoría amplia de cristianos no debería encontrarse solo a través de sus críticos, y se marca porque imprimirla sin marcar sería el error contrario.",
+              "againstSettledCore": "Esto contradice el núcleo asentado que se enuncia al principio de esta página, que no es objeto de disputa entre biólogos ni geólogos. Se imprime aquí con las palabras de sus propios defensores porque una postura que sostiene una minoría considerable de cristianos no debería encontrarse solo a través de sus críticos, y se marca porque imprimirla sin marcar sería el error contrario.",
               "status": "settled-core"
             },
             {
@@ -229,7 +229,7 @@
               },
               "changesTheObjection": "Acepta por completo la edad de la Tierra y la geología, y niega la descendencia común, de modo que la objeción sobre una acción divina indetectable también le pasa de largo: esta posición espera precisamente que la acción sea detectable, en el registro fósil, en los puntos donde aparecen nuevos tipos.",
               "objection": {
-                "text": "Aceptar la geología y rechazar la biología separa la evidencia por una articulación que no tiene. La misma datación radiométrica que da su edad a las rocas se la da a los fósiles, y el patrón anidado de errores genéticos compartidos —genes de la vitamina C rotos, retrovirus endógenos en posiciones coincidentes— es el tipo de prueba que condena a una persona en un tribunal. La posición además tiene que moverse continuamente: cada «tipo» que se ha dado por creado por separado ha tendido a adquirir parientes de transición.",
+                "text": "Aceptar la geología y rechazar la biología separa la evidencia por una juntura que no tiene. La misma datación radiométrica que da su edad a las rocas se la da a los fósiles, y el patrón anidado de errores genéticos compartidos —genes de la vitamina C rotos, retrovirus endógenos en posiciones coincidentes— es el tipo de prueba que condena a una persona en un tribunal. La postura además tiene que moverse continuamente: cada «tipo» que se ha dado por creado por separado ha acabado adquiriendo parientes de transición.",
                 "from": "both",
                 "response": "Expuesto con detalle en la literatura propia de la posición; esta página formula la objeción, no la dirime."
               }
@@ -264,7 +264,7 @@
           ],
           "counter": {
             "objection": "Si las causas naturales hacen todo el trabajo, Dios no hace nada que pueda detectarse, comprobarse o notarse. Una causa sin efectos que puedas medir jamás es indistinguible de que no haya causa, y añadirla no explica nada.",
-            "response": "Indistinguible dentro de la física, sí, que es lo que la doctrina ha dicho siempre. Nunca se afirmó que Dios fuera una fuerza más entre las fuerzas. Ser ocioso para explicar dentro de una ciencia concreta no es lo mismo que estar ausente, o la misma objeción descartaría las matemáticas, los hechos morales y las otras mentes.",
+            "response": "Indistinguible dentro de la física, sí, que es lo que la doctrina ha dicho siempre. Nunca se afirmó que Dios fuera una fuerza más entre las fuerzas. Ser explicativamente ocioso dentro de una ciencia concreta no es lo mismo que estar ausente; si lo fuera, la misma objeción descartaría las matemáticas, los hechos morales y las otras mentes.",
             "landsOn": []
           }
         },
@@ -311,7 +311,7 @@
           },
           "counter": {
             "objection": "La evolución no tiene ninguna dificultad para explicar la creencia fiable: un animal que calcula mal dónde está el borde del acantilado no deja descendientes. Y el supuesto de que la naturaleza es regular no es una premisa religiosa prestada, es una regla de trabajo confirmada todos los días durante cuatrocientos años.",
-            "response": "La selección sigue la pista de la conducta útil, y la conducta útil no exige creencias verdaderas, solo creencias que produzcan las acciones adecuadas. Si esas dos cosas se separan es justo lo que está en discusión, y cuatrocientos años de éxito no pueden resolverlo, porque ese éxito es lo que ambos lados intentan explicar."
+            "response": "La selección sigue la pista de la conducta útil, y la conducta útil no exige creencias verdaderas, solo creencias que produzcan las acciones adecuadas. Que esas dos cosas se separen es justamente lo que está en discusión, y cuatrocientos años de éxito no pueden resolverlo, porque ese éxito es precisamente lo que ambos lados intentan explicar."
           }
         }
       ]
@@ -412,21 +412,21 @@
       "title": "Statement of Faith",
       "author": "Answers in Genesis",
       "url": "https://answersingenesis.org/about/faith/",
-      "note": "The young-earth position stated by its largest advocacy organisation, in its own words."
+      "note": "La postura de la Tierra joven, enunciada por su mayor organización, con sus propias palabras."
     },
     {
       "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
       "author": "John C. Whitcomb and Henry M. Morris",
       "year": "1961",
       "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
-      "note": "The book that made young-earth creationism mainstream among American fundamentalists."
+      "note": "El libro que convirtió el creacionismo de la Tierra joven en corriente principal entre los fundamentalistas estadounidenses."
     },
     {
       "title": "Majority Still Credits God for Humankind, but Not Creationism",
       "author": "Gallup",
       "year": "2024",
       "url": "https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx",
-      "note": "The 40 percent figure, and the trend since 1982, are from Gallup and cover United States adults only."
+      "note": "La cifra del 40 por ciento, y la tendencia desde 1982, proceden de Gallup y se refieren solo a adultos de Estados Unidos."
     },
     {
       "title": "Learning Paleontology from a Biblical Perspective",

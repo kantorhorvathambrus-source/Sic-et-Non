@@ -13,17 +13,17 @@
       "activeHere": false
     },
     {
-      "label": "L'évolution laisse-t-elle quelque chose qu'un créateur ait fait ?",
-      "gloss": "Une question philosophique que la biologie ne tranche dans aucun sens. C'est le débat de cette page.",
+      "label": "L'évolution laisse-t-elle quelque chose à faire à un créateur ?",
+      "gloss": "Une question philosophique que la biologie ne tranche dans aucun sens. C'est ce dont débat cette page.",
       "activeHere": true
     },
     {
       "label": "Comment les chrétiens doivent-ils lire la Genèse à côté de la géologie ?",
-      "gloss": "Un vrai désaccord, mais interne au christianisme et non entre le christianisme et l'athéisme. Il est exposé plus bas, dans les quatre positions.",
+      "gloss": "Un vrai désaccord, mais interne au christianisme, et non entre le christianisme et l'athéisme. Il est exposé plus bas, dans les quatre positions.",
       "activeHere": false
     }
   ],
-  "settledCore": "Les biologistes et les géologues ne sont pas divisés là-dessus. Les espèces vivantes descendent, avec modification, d'ancêtres communs ; la [[sélection naturelle]] agissant sur la variation héritée est une cause principale de leur adaptation ; et la Terre a environ 4,5 milliards d'années. Le registre fossile, l'anatomie comparée, la répartition géographique des espèces et l'évolution observée directement chez les bactéries l'appuient, et le séquençage des génomes plus encore, lui qui aurait pu réfuter l'ascendance commune et l'a au contraire confirmée dans un détail considérable.\n\nCela dit ce que ces disciplines ont trouvé, non qui a le droit d'avoir une opinion. Beaucoup de chrétiens sincères le rejettent. Gallup situait en 2024 à 40 pour cent la part des adultes américains tenant la vision de la Terre jeune sur l'origine de l'homme, contre un maximum de 47 pour cent, et ce chiffre concerne les seuls États-Unis. L'Église catholique, les Églises orthodoxes, la Communion anglicane et les dénominations protestantes historiques, ensemble bien plus de la moitié des chrétiens du monde, n'enseignent pas une Terre jeune.\n\nSi vous avez grandi avec une Terre jeune, rien ici ne cherche à vous dire que vous êtes hors de cette conversation. Les quatre positions chrétiennes plus bas sont l'endroit où le désaccord se joue réellement, et chacune est énoncée par quelqu'un qui la défend.",
+  "settledCore": "Les biologistes et les géologues ne sont pas divisés là-dessus. Les espèces vivantes descendent, avec modification, d'ancêtres communs ; la [[sélection naturelle]] agissant sur la variation héritée est une cause principale de leur adaptation ; et la Terre a environ 4,5 milliards d'années. Le registre fossile, l'anatomie comparée, la répartition géographique des espèces et l'évolution observée directement chez les bactéries l'appuient — et le séquençage des génomes plus encore, lui qui aurait pu réfuter l'ascendance commune et l'a au contraire confirmée dans un détail considérable.\n\nC'est une affirmation sur ce que ces disciplines ont trouvé, non sur qui a le droit d'avoir une opinion. Beaucoup de chrétiens sincères la rejettent. En 2024, Gallup situait à 40 pour cent la part des adultes américains tenant la vision de la Terre jeune sur l'origine de l'homme, contre un maximum antérieur de 47 pour cent — et ce chiffre ne concerne que les États-Unis. L'Église catholique, les Églises orthodoxes, la Communion anglicane et les dénominations protestantes historiques, soit ensemble bien plus de la moitié des chrétiens du monde, n'enseignent pas une Terre jeune.\n\nSi vous avez grandi avec une Terre jeune, rien ici ne cherche à vous dire que vous êtes hors de cette conversation. Le désaccord se joue réellement dans les quatre positions chrétiennes exposées plus bas, et chacune est énoncée par quelqu'un qui la défend.",
   "glossary": [
     {
       "term": "ancêtres communs",
@@ -205,7 +205,7 @@
                 "from": "both",
                 "response": "Exposé en détail dans la littérature propre à cette position ; la page énonce l'objection, elle ne la tranche pas."
               },
-              "againstSettledCore": "Cela contredit le noyau établi énoncé en haut de cette page, qui ne fait l'objet d'aucune dispute chez les biologistes ni chez les géologues. La position est imprimée ici dans les mots de ses propres défenseurs, parce qu'une position tenue par une large minorité de chrétiens ne devrait pas être rencontrée seulement à travers ses critiques ; et elle est signalée, parce que l'imprimer sans la signaler serait l'erreur inverse.",
+              "againstSettledCore": "Cela contredit le noyau établi énoncé en haut de cette page, qui ne fait l'objet d'aucune dispute chez les biologistes ni chez les géologues. La position est imprimée ici dans les mots de ses propres défenseurs, parce qu'une position tenue par une minorité considérable de chrétiens ne devrait pas être rencontrée seulement à travers ses critiques ; et elle est signalée, parce que l'imprimer sans la signaler serait l'erreur inverse.",
               "status": "settled-core"
             },
             {
@@ -270,7 +270,7 @@
         },
         {
           "id": "genesis-and-the-fathers",
-          "claim": "Lire la Genèse comme un manuel de sciences est une habitude moderne, pas la tradition",
+          "claim": "Lire la Genèse comme un manuel de sciences est une habitude moderne, pas l'habitude traditionnelle",
           "explanation": "L'idée que la foi chrétienne exige six jours de vingt-quatre heures est souvent présentée comme la vieille lecture littérale que la modernité aurait abandonnée. Historiquement, c'est presque l'inverse. Augustin a soutenu vers l'an 415 qu'il ne fallait pas lire la Genèse comme de la physique, redoutant précisément ce qui est arrivé ensuite : des chrétiens affirmant avec assurance des choses sur la nature, pris en défaut, et discréditant la foi en même temps qu'eux-mêmes.\n\nThomas d'Aquin en a fait une règle. Tenez une lecture de l'Écriture, écrit-il dans les années 1260, mais assez lâchement pour la lâcher s'il est prouvé qu'elle est fausse, afin que l'Écriture ne soit pas rendue ridicule en étant liée à une affirmation qui échoue.",
           "quote": {
             "text": "puisque l'Écriture sainte peut s'expliquer en une multiplicité de sens, on ne doit adhérer à une explication particulière que dans la mesure où l'on est prêt à l'abandonner s'il est prouvé avec certitude qu'elle est fausse",
@@ -412,21 +412,21 @@
       "title": "Statement of Faith",
       "author": "Answers in Genesis",
       "url": "https://answersingenesis.org/about/faith/",
-      "note": "The young-earth position stated by its largest advocacy organisation, in its own words."
+      "note": "La position de la Terre jeune, énoncée par sa plus grande organisation, dans ses propres mots."
     },
     {
       "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
       "author": "John C. Whitcomb and Henry M. Morris",
       "year": "1961",
       "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
-      "note": "The book that made young-earth creationism mainstream among American fundamentalists."
+      "note": "Le livre qui a installé le créationnisme de la Terre jeune au centre du fondamentalisme américain."
     },
     {
       "title": "Majority Still Credits God for Humankind, but Not Creationism",
       "author": "Gallup",
       "year": "2024",
       "url": "https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx",
-      "note": "The 40 percent figure, and the trend since 1982, are from Gallup and cover United States adults only."
+      "note": "Le chiffre de 40 pour cent, et la tendance depuis 1982, viennent de Gallup et ne portent que sur les adultes des États-Unis."
     },
     {
       "title": "Learning Paleontology from a Biblical Perspective",

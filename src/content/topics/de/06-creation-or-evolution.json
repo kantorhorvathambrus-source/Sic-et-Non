@@ -5,7 +5,7 @@
   "title": "Schöpfung oder Evolution?",
   "category": "natural-science",
   "status": "settled-core",
-  "realQuestion": "Das «oder» im Titel richtet viel Schaden an. Es lässt die Frage klingen wie eine Wahl zwischen zwei Theorien darüber, wie die Tiere hierhergekommen sind. Das ist sie nicht.\n\nOb Lebewesen [[gemeinsame Vorfahren]] haben und sich im Lauf der Zeit verändert haben, ist eine naturwissenschaftliche Frage, und die Biologie hat sie vor über hundert Jahren beantwortet. Wirklich offen ist eine andere: Wenn das Leben so geworden ist, was es ist, bleibt dann noch etwas übrig, das ein Schöpfer getan hätte?\n\nDarum geht es auf dieser Seite. Der andere Streit, um die vier Arten, wie Christen Genesis und Geologie zusammenzubringen versucht haben, ist ebenfalls echt, und er steht weiter unten. Aber er wird innerhalb des Christentums geführt, nicht zwischen Christentum und Atheismus.",
+  "realQuestion": "Das „oder“ im Titel richtet viel Schaden an. Es lässt die Frage klingen wie eine Wahl zwischen zwei Theorien darüber, wie die Tiere hierhergekommen sind. Das ist sie nicht.\n\nOb Lebewesen [[gemeinsame Vorfahren]] haben und sich im Lauf der Zeit verändert haben, ist eine naturwissenschaftliche Frage, und die Biologie hat sie vor über hundert Jahren beantwortet. Wirklich offen ist eine andere: Wenn das Leben auf diesem Weg geworden ist, was es ist, bleibt dann noch etwas übrig, das ein Schöpfer getan hätte?\n\nDarum geht es auf dieser Seite. Der andere Streit — um die vier Arten, wie Christen Genesis und Geologie zusammenzubringen versucht haben — ist ebenfalls echt und steht weiter unten. Aber er wird innerhalb des Christentums geführt, nicht zwischen Christentum und Atheismus.",
   "distinctions": [
     {
       "label": "Haben die heutigen Arten gemeinsame Vorfahren?",
@@ -19,7 +19,7 @@
     },
     {
       "label": "Wie sollen Christen die Genesis neben der Geologie lesen?",
-      "gloss": "Ein echter Streit, aber innerhalb des Christentums und nicht zwischen Christentum und Atheismus. Er steht weiter unten, in den vier Positionen.",
+      "gloss": "Ein echter Streit, aber innerhalb des Christentums, nicht zwischen Christentum und Atheismus. Er steht weiter unten, in den vier Positionen.",
       "activeHere": false
     }
   ],
@@ -43,7 +43,7 @@
     },
     {
       "term": "Lückenbüßergott",
-      "definition": "Gott gerade dort ins Spiel zu bringen, wo die Wissenschaft noch keine Erklärung hat. Das Problem ist nicht, dass es fromm gemeint wäre, sondern dass es schrumpft: Jede neue Erklärung nimmt Boden weg."
+      "definition": "Gott gerade dort ins Spiel zu bringen, wo die Wissenschaft noch keine Erklärung hat. Das Problem ist nicht, dass es gottlos wäre, sondern dass es schrumpft: Jede neue Erklärung nimmt ihm Boden weg."
     },
     {
       "term": "methodologischer Naturalismus",
@@ -79,7 +79,7 @@
               "label": "Die Frage stellt sich nicht",
               "heldBy": "Stephen Jay Gould; und ein Großteil der offiziellen Haltung der etablierten Wissenschaft, darunter die National Academy of Sciences",
               "oneLine": "Die Evolution spricht weder für noch gegen Gott, denn die beiden Unternehmungen beantworten verschiedene Arten von Fragen, und ihre Bereiche überschneiden sich nicht.",
-              "summary": "Goulds Position steht auf dieser Seite der Seite, weil er selbst kein Theist war, und sie ist diejenige, die die meisten wissenschaftlichen Institutionen öffentlich übernommen haben. Sie ist kein diplomatisches Schweigen, sondern eine Behauptung darüber, wozu die beiden Unternehmungen jeweils da sind.\n\nDie Wissenschaft behandelt, woraus das Universum besteht und warum es so funktioniert, wie es funktioniert. Die Religion behandelt Fragen nach Sinn und Wert. Bei dieser Aufteilung ist die Frage, ob die Evolution gegen Gott spricht, ein Kategorienfehler in demselben Sinne wie die Frage, ob sie gegen die Gerechtigkeit spricht — und die Auseinandersetzung auf dieser Seite sollte niemand führen.",
+              "summary": "Goulds Position steht auf dieser Hälfte der Seite, weil er selbst kein Theist war, und sie ist diejenige, die die meisten wissenschaftlichen Institutionen öffentlich übernommen haben. Sie ist kein diplomatisches Schweigen, sondern eine Behauptung darüber, wozu die beiden Unternehmungen jeweils da sind.\n\nDie Wissenschaft deckt ab, woraus das Universum besteht und warum es so funktioniert, wie es funktioniert. Die Religion deckt Fragen nach Sinn und Wert ab. Nach dieser Aufteilung ist die Frage, ob die Evolution gegen Gott spricht, genau so ein Kategorienfehler wie die Frage, ob sie gegen die Gerechtigkeit spricht — und den Streit, der auf dieser Seite geführt wird, sollte dann niemand führen.",
               "quote": {
                 "text": "uns gehört das Alter der Felsen, der Religion bleibt der Fels der Ewigkeit; wir erforschen, wie der Himmel läuft, sie bestimmen, wie man in den Himmel kommt",
                 "author": "Stephen Jay Gould",
@@ -148,22 +148,22 @@
             }
           },
           "counter": {
-            "objection": "Eine erfolgreiche Methode in eine Aussage über alles Bestehende zu verwandeln, ist eine philosophische Wette, kein wissenschaftliches Ergebnis — und am schärfsten erhoben wird der Einwand von Atheisten, die die Evolutionsbiologie vollständig annehmen und die metaphysische Ausweitung ablehnen. Dennett nennt seine eigene Idee eine universelle Säure, die jeden überlieferten Begriff zerfrisst, und eine Säure, die alles auflöst, auch die Verlässlichkeit des auflösenden Verstandes, will vorsichtig gehandhabt werden.",
+            "objection": "Eine erfolgreiche Methode in eine Aussage über alles Bestehende zu verwandeln, ist eine philosophische Wette, kein wissenschaftliches Ergebnis — und am schärfsten erhoben wird der Einwand von Atheisten, die die Evolutionsbiologie vollständig annehmen und die metaphysische Ausweitung ablehnen. Dennett nennt seine eigene Idee eine universelle Säure, die jeden überlieferten Begriff zerfrisst — und eine Säure, die alles auflöst, auch die Verlässlichkeit des auflösenden Verstandes, will vorsichtig gehandhabt sein.",
             "objectionFrom": "within",
             "sharedPremise": "er wird auf dem eigenen Boden der Evolutionsbiologie erhoben: er akzeptiert gemeinsame Abstammung und natürliche Selektion vollständig und bestreitet allein den weiteren Schritt von einer erfolgreichen Methode zu einer Aussage über alles Bestehende.",
-            "response": "Es ist eine Wette, aber eine, die seit zwei Jahrhunderten auszahlt. Die Gegenwette verliert seit derselben Zeit Boden."
+            "response": "Es ist eine Wette, aber eine, die seit zwei Jahrhunderten auszahlt. Die Gegenwette verliert in derselben Zeit ununterbrochen Boden."
           }
         }
       ]
     },
     {
-      "label": "Die Evolution ist die Art, wie geschaffen wurde",
+      "label": "Die Evolution ist die Art, wie die Schöpfung geschah",
       "position": "theist",
       "arguments": [
         {
           "id": "mechanism-not-author",
           "claim": "Schöpfung war nie ein Konkurrenzmechanismus zur natürlichen Selektion",
-          "explanation": "«Schöpfung» ist in der klassischen christlichen Theologie keine Aussage über ein Ereignis am Anfang eines Vorgangs, die mit anderen Beschreibungen dieses Vorgangs konkurriert. Sie ist eine Aussage darüber, warum es überhaupt einen Vorgang gibt und wer, wenn überhaupt, sein Urheber ist. Man hält daran fest, dass Gott durch [[Zweitursachen]] wirkt, die gewöhnlichen Ursachen innerhalb der Natur, und nicht neben ihnen.\n\nAus dieser Sicht ist die Frage, ob eine Art durch Evolution oder durch Schöpfung entstand, wie die Frage, ob ein Roman von einem Autor oder von einem Stift geschrieben wurde. Theodosius Dobzhansky, der die moderne Evolutionsbiologie mit aufgebaut hat und zugleich orthodoxer Christ war, hat es so direkt gesagt, wie es sich sagen lässt.",
+          "explanation": "„Schöpfung“ ist in der klassischen christlichen Theologie keine Aussage über ein Ereignis am Anfang eines Vorgangs, die mit anderen Beschreibungen dieses Vorgangs konkurriert. Sie ist eine Aussage darüber, warum es überhaupt einen Vorgang gibt und wer, wenn überhaupt, sein Urheber ist. Man hält daran fest, dass Gott durch [[Zweitursachen]] wirkt — durch die gewöhnlichen Ursachen innerhalb der Natur und nicht neben ihnen.\n\nSo gesehen ist die Frage, ob eine Art durch Evolution oder durch Schöpfung entstanden ist, wie die Frage, ob ein Roman vom Autor oder von der Feder geschrieben wurde. Theodosius Dobzhansky, einer der Begründer der modernen Evolutionsbiologie und zugleich orthodoxer Christ, hat es so direkt gesagt, wie es sich sagen lässt.",
           "quote": {
             "text": "Ich bin Kreationist und Evolutionist. Die Evolution ist Gottes oder der Natur Methode der Schöpfung.",
             "author": "Theodosius Dobzhansky",
@@ -201,11 +201,11 @@
               },
               "changesTheObjection": "Der Einwand oben lautet, ein Gott, der nur durch natürliche Ursachen wirkt, tue nichts Feststellbares. Diese Position behauptet das nicht: Sie behauptet eine direkte, junge Schöpfung und bestreitet die Datierung, nicht die Feststellbarkeit. Ein Argument über unfeststellbares Handeln hat hier kein Ziel.",
               "objection": {
-                "text": "Die Datierung wird unabhängig voneinander durch radiometrische Verfahren, Eisbohrkerne, Warven, Korallenbänder, Baumringe und die Laufzeit des Sternenlichts gestützt, und diese Position verlangt, dass sie alle auf abgestimmte Weise falsch sind, auf eine Weise, die niemand erklärt hat. Alte-Erde-Kreationisten und Vertreter der evolutionären Schöpfung fügen einen theologischen Einwand hinzu: Den Glauben an eine Behauptung zu hängen, der die Belege widersprechen, richtet den Gläubigen darauf ein, beides auf einmal zu verlieren.",
+                "text": "Die Datierung wird unabhängig voneinander durch radiometrische Verfahren, Eisbohrkerne, Warven, Korallenbänder, Baumringe und die Laufzeit des Sternenlichts gestützt — und diese Position verlangt, dass sie alle auf abgestimmte Weise falsch sind, auf eine Weise, die niemand erklärt hat. Alte-Erde-Kreationisten und Vertreter der evolutionären Schöpfung fügen einen theologischen Einwand hinzu: Wer den Glauben an eine Behauptung hängt, der die Belege widersprechen, bringt den Gläubigen in die Lage, beides auf einmal zu verlieren.",
                 "from": "both",
                 "response": "Ausführlich in der eigenen Literatur der Position dargelegt; diese Seite formuliert den Einwand, sie entscheidet ihn nicht."
               },
-              "againstSettledCore": "Das widerspricht dem oben auf dieser Seite genannten gesicherten Kern, der unter Biologen und Geologen nicht strittig ist. Die Position steht hier in den Worten ihrer eigenen Vertreter, weil einer Position, die eine große Minderheit der Christen vertritt, nicht nur über ihre Kritiker begegnet werden sollte — und sie ist gekennzeichnet, weil sie ungekennzeichnet zu drucken der entgegengesetzte Fehler wäre.",
+              "againstSettledCore": "Das widerspricht dem oben auf dieser Seite genannten gesicherten Kern, der unter Biologen und Geologen nicht strittig ist. Die Position steht hier in den Worten ihrer eigenen Vertreter, weil einer Position, die eine beträchtliche Minderheit der Christen vertritt, nicht nur über ihre Kritiker begegnet werden sollte — und sie ist gekennzeichnet, weil sie ungekennzeichnet zu drucken der entgegengesetzte Fehler wäre.",
               "status": "settled-core"
             },
             {
@@ -229,7 +229,7 @@
               },
               "changesTheObjection": "Sie akzeptiert das Alter der Erde und die Geologie vollständig und bestreitet die gemeinsame Abstammung; der Einwand über unfeststellbares göttliches Handeln geht daher auf dieselbe Weise an ihr vorbei: Diese Position erwartet gerade, dass das Handeln feststellbar ist, im Fossilbericht, an den Stellen, an denen neue Grundtypen auftreten.",
               "objection": {
-                "text": "Die Geologie anzunehmen und die Biologie abzulehnen zerlegt die Belege an einem Gelenk, das sie nicht haben. Dieselbe radiometrische Datierung, die den Gesteinen ihr Alter gibt, gibt es auch den Fossilien, und das verschachtelte Muster gemeinsamer genetischer Fehler — kaputte Vitamin-C-Gene, endogene Retroviren an übereinstimmenden Stellen — ist die Art von Beleg, die vor Gericht zu Verurteilungen führt. Die Position muss zudem immer wieder zurückweichen: Jede „Grundart“, die als getrennt erschaffen galt, hat mit der Zeit Übergangsverwandte bekommen.",
+                "text": "Die Geologie anzunehmen und die Biologie abzulehnen zerlegt die Belege an einer Fuge, die sie nicht haben. Dieselbe radiometrische Datierung, die den Gesteinen ihr Alter gibt, gibt es auch den Fossilien, und das verschachtelte Muster gemeinsamer genetischer Fehler — kaputte Vitamin-C-Gene, endogene Retroviren an übereinstimmenden Stellen — ist die Art von Beleg, die vor Gericht zu Verurteilungen führt. Die Position muss zudem immer wieder zurückweichen: Jede „Grundart“, die als getrennt erschaffen galt, hat mit der Zeit Übergangsverwandte bekommen.",
                 "from": "both",
                 "response": "Ausführlich in der eigenen Literatur der Position dargelegt; diese Seite formuliert den Einwand, sie entscheidet ihn nicht."
               }
@@ -264,7 +264,7 @@
           ],
           "counter": {
             "objection": "Wenn die natürlichen Ursachen die ganze Arbeit tun, tut Gott nichts, was sich feststellen, prüfen oder bemerken ließe. Eine Ursache ohne je messbare Wirkungen ist von gar keiner Ursache nicht zu unterscheiden, und sie hinzuzufügen erklärt nichts.",
-            "response": "Innerhalb der Physik nicht zu unterscheiden, ja, und genau das hat die Lehre immer gesagt. Es wurde nie behauptet, Gott sei eine Kraft unter den Kräften. Für eine bestimmte Wissenschaft erklärungslos zu sein, ist nicht dasselbe wie abwesend zu sein, sonst würde derselbe Einwand die Mathematik, moralische Tatsachen und fremde Geister ausschließen.",
+            "response": "Innerhalb der Physik nicht zu unterscheiden, ja — und genau das hat die Lehre immer gesagt. Es wurde nie behauptet, Gott sei eine Kraft unter den Kräften. Für eine bestimmte Wissenschaft nichts zu erklären, ist nicht dasselbe wie abwesend zu sein; sonst würde derselbe Einwand die Mathematik, moralische Tatsachen und fremde Geister ausschließen.",
             "landsOn": []
           }
         },
@@ -318,7 +318,7 @@
     }
   ],
   "whereItStands": "Die naturwissenschaftliche Hälfte dieser Frage ist geschlossen, und zwar seit langem. Die offene Hälfte ist philosophisch und wirklich offen: Lässt eine vollständige natürliche Darstellung der Entwicklung des Lebens die Behauptung unberührt, die Welt habe einen Urheber, oder nimmt sie ihr nach und nach jeden Gegenstand?\n\nBeide Antworten werden von sorgfältigen Leuten vertreten, die sich über die Biologie vollkommen einig sind. Dobzhansky und Dawkins wären sich über keine einzige Tatsache in einem genetischen Aufsatz uneins. Sie sind sich uneins darüber, was die Tatsachen bedeuten, und das wird nicht durch mehr Genetik entschieden.\n\nEines hat sich im letzten Jahrhundert geändert und gehört ohne Beschönigung gesagt. Die vier christlichen Positionen sind nicht gleich gut gestützt. Der Junge-Erde-Kreationismus macht empirische Aussagen, die falsch sind. Das intelligente Design hat seine zentrale These nicht belegt und verlor deutlich, als es vor Gericht geprüft wurde. Der Alte-Erde-Kreationismus hat über die Erde recht und über die Abstammung unrecht. Die evolutionäre Schöpfung ist die einzige der vier, die mit nichts Feststehendem in Konflikt steht, und sie ist zugleich weltweit die christliche Mehrheitsposition.",
-  "commonMistake": "Atheisten behandeln den Junge-Erde-Kreationismus meist so, als wäre er die Position des Christentums. Er ist eine Minderheitsauffassung, weitgehend nordamerikanisch, in seiner heutigen Form rund sechzig Jahre alt, und er wird von der katholischen Kirche, den meisten protestantischen Kirchen und den orthodoxen Kirchen abgelehnt. Ihn zu widerlegen ist leicht und beweist fast nichts über den eigentlichen Streit, der mit Leuten geführt wird, die jede Tatsache annehmen, die man gleich anführen will.\n\nChristen meinen meist, die Annahme der Evolution koste sie etwas, und verteidigen deshalb eine naturwissenschaftliche Position, die zu halten sie keinen Grund haben. Die Regel ihrer eigenen Tradition, die von Augustinus und Thomas von Aquin, lautete, die Schrift nicht auf eine Aussage über die Natur zu setzen, die umgestoßen werden könnte.\n\nUnd beide Seiten machen gemeinsam einen Fehler: «Schöpfung» und «Evolution» als Antworten auf dieselbe Frage zu behandeln, sodass mehr von dem einen weniger von dem anderen heißen müsste. Fast niemand, der sorgfältig darüber nachgedacht hat, glaubt das auf einer der beiden Seiten.",
+  "commonMistake": "Atheisten behandeln den Junge-Erde-Kreationismus meist so, als wäre er die Position des Christentums. Er ist eine Minderheitsauffassung, weitgehend nordamerikanisch, in seiner heutigen Form rund sechzig Jahre alt, und er wird von der katholischen Kirche, den meisten protestantischen Kirchen und den orthodoxen Kirchen abgelehnt. Ihn zu widerlegen ist leicht und beweist fast nichts über den eigentlichen Streit, der mit Leuten geführt wird, die jede Tatsache annehmen, die man gleich anführen will.\n\nChristen meinen meist, die Annahme der Evolution koste sie etwas, und verteidigen deshalb eine naturwissenschaftliche Position, die zu halten sie keinen Grund haben. Die Regel ihrer eigenen Tradition, die von Augustinus und Thomas von Aquin, lautete, die Schrift nicht auf eine Aussage über die Natur zu setzen, die umgestoßen werden könnte.\n\nUnd beide Seiten machen gemeinsam einen Fehler: „Schöpfung“ und „Evolution“ als Antworten auf dieselbe Frage zu behandeln, sodass mehr von dem einen weniger von dem anderen heißen müsste. Fast niemand, der sorgfältig darüber nachgedacht hat, glaubt das — auf keiner der beiden Seiten.",
   "sources": [
     {
       "title": "On the Origin of Species, Erstausgabe",
@@ -331,7 +331,7 @@
       "author": "Charles Darwin",
       "year": "1860",
       "url": "https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
-      "note": "Darwin Correspondence Project, University of Cambridge."
+      "note": "Darwin Correspondence Project, Universität Cambridge."
     },
     {
       "title": "Nothing in Biology Makes Sense except in the Light of Evolution",
@@ -412,21 +412,21 @@
       "title": "Statement of Faith",
       "author": "Answers in Genesis",
       "url": "https://answersingenesis.org/about/faith/",
-      "note": "The young-earth position stated by its largest advocacy organisation, in its own words."
+      "note": "Die Junge-Erde-Position, formuliert von ihrer größten Organisation, in ihren eigenen Worten."
     },
     {
       "title": "The Genesis Flood: The Biblical Record and Its Scientific Implications",
       "author": "John C. Whitcomb and Henry M. Morris",
       "year": "1961",
       "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
-      "note": "The book that made young-earth creationism mainstream among American fundamentalists."
+      "note": "Das Buch, das den Junge-Erde-Kreationismus unter amerikanischen Fundamentalisten zur verbreiteten Auffassung machte."
     },
     {
       "title": "Majority Still Credits God for Humankind, but Not Creationism",
       "author": "Gallup",
       "year": "2024",
       "url": "https://news.gallup.com/poll/647594/majority-credits-god-humankind-not-creationism.aspx",
-      "note": "The 40 percent figure, and the trend since 1982, are from Gallup and cover United States adults only."
+      "note": "Die 40 Prozent und der Trend seit 1982 stammen von Gallup und beziehen sich nur auf Erwachsene in den Vereinigten Staaten."
     },
     {
       "title": "Learning Paleontology from a Biblical Perspective",
