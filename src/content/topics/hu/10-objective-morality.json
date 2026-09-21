@@ -5,28 +5,28 @@
   "title": "Lehet-e objektív erkölcs Isten nélkül?",
   "category": "morality",
   "status": "open",
-  "realQuestion": "Szórakozásból megkínozni egy gyereket helytelen. Nem rosszallott, nem célszerűtlen — helytelen, és akkor is helytelen lett volna, ha minden élő ember helyeselte volna.\n\nA kérdés az, mitől igaz ez, és azért fut zátonyra olyan gyakran ez a vita, mert egyik oldalnak sincs egyetlen válasza. A keresztények egymás közt vitatkoznak arról, hogy az erkölcs Isten parancsaiban gyökerezik-e ([[isteni parancs elmélete]]), az általa alkotott természetekben ([[természetjog]]), vagy egyikben sem; az ateisták egymás közt vitatkoznak arról, hogy egyáltalán igaz-e az [[erkölcsi realizmus]]. Így aztán az egyik változatot célzó ellenvetés rendre elsüvít a megcélzott személy mellett, aki éppen egy másikat vall.\n\nMindkét oldal a belső megosztottságával együtt látható itt, mert éppen ezek a megosztottságok döntik el, hogy egy adott ellenvetés eltalált-e bármit.",
+  "realQuestion": "Szórakozásból megkínozni egy gyereket helytelen. Nem csak rosszalljuk, és nem csak célszerűtlen — helytelen, és akkor is helytelen lett volna, ha minden élő ember helyesli.\n\nA kérdés az, mitől igaz ez, és azért fut olyan gyakran zátonyra ez a vita, mert egyik oldalnak sincs egyetlen válasza. A keresztények egymás közt vitatkoznak arról, hogy az erkölcs Isten parancsaiban gyökerezik-e ([[isteni parancs elmélete]]), az általa alkotott természetekben ([[természetjog]]), vagy egyikben sem; az ateisták egymás közt vitatkoznak arról, igaz-e egyáltalán az [[erkölcsi realizmus]]. Így aztán az egyik változatot célzó ellenvetés rendre elsüvít a megcélzott személy mellett, aki éppen egy másikat vall.\n\nMindkét oldal a belső megosztottságával együtt látható itt, mert éppen ezek a törésvonalak döntik el, hogy egy adott ellenvetés eltalált-e bármit.",
   "distinctions": [
     {
       "label": "Lehet-e valaki jó anélkül, hogy hinne Istenben?",
-      "gloss": "Igen, és komoly résztvevő ezt nem tagadja. Lélektani kérdés, nem a megalapozásról szól, és a kettő összekeverése ennek a vitának a leggyakoribb kudarca. Félretéve.",
+      "gloss": "Igen, és ezt komoly résztvevő nem tagadja. Lélektani kérdés, nem a megalapozásról szól — a kettő összekeverése ennek a vitának a leggyakoribb kudarca. Félretéve.",
       "activeHere": false
     },
     {
       "label": "Szükség van-e Istenre az objektív erkölcshöz?",
-      "gloss": "Ez ennek az oldalnak a vitája: kell-e a teizmus az erkölcsi tények számbavételéhez, és mi lesz az érvvel, ha kiderül, hogy nincsenek ilyen tények.",
+      "gloss": "Ezen az oldalon erről folyik a vita: kell-e a teizmus ahhoz, hogy számot adjunk az erkölcsi tényekről, és mi lesz az érvvel, ha kiderül, hogy nincsenek ilyen tények.",
       "activeHere": true
     },
     {
       "label": "Melyik metaetikai elmélet igaz valójában?",
-      "gloss": "Sokkal nagyobb kérdés, és nem ez. A lenti álláspontok közül több is lehet helyes anélkül, hogy eldőlne, kell-e hozzá Isten — ez az oldal csak erről a függésről kérdez, a többiben pedig mindegyik álláspontot a saját szavánál fogja. Félretéve.",
+      "gloss": "Sokkal nagyobb kérdés, és nem ez. A lenti álláspontok közül több is lehet helyes anélkül, hogy eldőlne, kell-e hozzá Isten — ez az oldal csak erről a függésről kérdez, a többit illetően pedig mindegyik álláspontot a saját szavára veszi. Félretéve.",
       "activeHere": false
     }
   ],
   "glossary": [
     {
       "term": "erkölcsi realizmus",
-      "definition": "Az a nézet, hogy egyes erkölcsi állítások függetlenül igazak attól, amit bárki gondol vagy érez. Az ezen az oldalon szereplő álláspontok többsége, de nem mindegyike vallja."
+      "definition": "Az a nézet, hogy egyes erkölcsi állítások attól függetlenül igazak, amit bárki gondol vagy érez. Az ezen az oldalon szereplő álláspontok többsége vallja, de nem mindegyike."
     },
     {
       "term": "isteni parancs elmélete",
@@ -38,11 +38,11 @@
     },
     {
       "term": "tévedéselmélet",
-      "definition": "Mackie nézete, amely szerint a hétköznapi erkölcsi állítások objektív értékeket állítanak, ilyenek viszont nincsenek, és ezért az erkölcsi beszédünk nem pusztán szubjektív, hanem rendszeresen hamis."
+      "definition": "Mackie nézete, amely szerint a hétköznapi erkölcsi állítások objektív értékeket állítanak, ilyenek viszont nincsenek — és ezért az erkölcsi beszédünk nem pusztán szubjektív, hanem rendszeresen hamis."
     },
     {
       "term": "evolúciós aláásás",
-      "definition": "Az az érv, hogy ha az értékelő beállítódásainkat a rátermettségre és nem az igazságra irányuló szelekció alakította, akkor nincs magyarázatunk arra, miért követnék az erkölcsi tényeket, bármik legyenek is azok."
+      "definition": "Az az érv, hogy ha az értékelő beállítódásainkat a rátermettségre és nem az igazságra irányuló szelekció alakította, akkor nincs magyarázatunk arra, miért követnék az erkölcsi tényeket — bármik legyenek is azok."
     }
   ],
   "sides": [
@@ -52,8 +52,8 @@
       "arguments": [
         {
           "id": "duties-need-a-commander",
-          "claim": "A kötelesség tartozás, a tartozás pedig személyek közti viszony",
-          "explanation": "A legismertebb keresztény felfogás két dolgot választ szét, amelyeket rendszerint összemosnak. Az értékek arról szólnak, mi jó; a kötelességek arról, mit kell tenned. Robert Adams változata, amely a komoly forma, az elsőt Isten természetében alapozza meg — Isten az a mérce, amelyre a véges javak hasonlítanak —, a másodikat pedig a parancsaiban.\n\nAz erő a második felében van. Mondhatják neked, hogy a kegyetlenség rossz, és ésszerűen kérdezheted, ez miért kötelez téged. Az erkölcsi követelménynek a követelés szerkezete van, követelést pedig valaki támaszt. Ezzel a változattal találkozik szinte mindenki, és nem ez az egyetlen, amelyet a keresztények vallanak: lentebb két alternatíva szerepel, és ezek nem parancsban alapozzák meg a kötelezettséget.",
+          "claim": "A kötelesség tartozás, a tartozás pedig személyek közötti viszony",
+          "explanation": "A legismertebb keresztény felfogás két dolgot választ szét, amelyeket rendszerint összemosnak. Az értékek arról szólnak, mi jó; a kötelességek arról, mit kell tenned. Robert Adams változata — ez a komoly forma — az elsőt Isten természetében alapozza meg, mert Isten az a mérce, amelyre a véges javak hasonlítanak, a másodikat pedig a parancsaiban.\n\nAz erő a második felében van. Mondhatják neked, hogy a kegyetlenség rossz, és ésszerű megkérdezned, ez miért kötelez téged. Az erkölcsi követelménynek a követelés szerkezete van, követelést pedig valaki támaszt. Ezzel a változattal találkozik szinte mindenki — és nem ez az egyetlen, amelyet a keresztények vallanak: lentebb két alternatíva szerepel, és azok nem parancsban alapozzák meg a kötelezettséget.",
           "quote": {
             "text": "Ha Isten nem létezik, objektív erkölcsi értékek sem léteznek.",
             "author": "William Lane Craig",
@@ -74,7 +74,7 @@
               "label": "Isteni parancs",
               "heldBy": "Robert Adams, Philip Quinn, C. Stephen Evans, William Lane Craig",
               "oneLine": "A kötelezettségeket Isten parancsai alkotják; a természete korlátozza, mit parancsolhat, ezért nem önkényesek.",
-              "summary": "A fenti fő érv kidolgozott modern formájában. Ockhami Vilmos változatát — a helyes azért helyes, mert parancsolt, és Isten a kegyetlenséget is parancsolhatta volna — kevés modern szerző védi. Adams módosított elmélete megosztja a munkát: a jó Isten természetében gyökerezik, amelyet nem ő választ, a kötelezettség pedig egy természeténél fogva szerető Isten parancsaiban. Ez hivatott megválaszolni az Euthüphrón-dilemmát anélkül, hogy Isten fölött álló mércét engedne meg.",
+              "summary": "A fenti fő érv kidolgozott, mai formájában. Ockhami Vilmos változatát — a helyes azért helyes, mert parancsolt, és Isten a kegyetlenséget is parancsolhatta volna — kevés mai szerző védi. Adams módosított elmélete megosztja a munkát: a jó Isten természetében gyökerezik, amelyet nem ő választ, a kötelezettség pedig egy természeténél fogva szerető Isten parancsaiban. Ez hivatott megválaszolni az Euthüphrón-dilemmát anélkül, hogy Isten fölött álló mércét engedne meg.",
               "quote": {
                 "text": "mivel erkölcsi kötelességeinket Isten parancsai alkotják, amit ő parancsol, az igazságos és helyes",
                 "author": "William Lane Craig",
@@ -88,14 +88,14 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "Nem változtat rajta. Ez az a változat, amely ellen a fenti ellenvetés épült, és amelyet el is ér: ha a kötelezettséget parancs alkotja, akkor arra a kérdésre, miért vagy köteles engedelmeskedni, egy újabb parancsra hivatkozás nélkül kell válaszolni. Minden, ami lentebb következik, egy-egy mód arra, hogy ne kelljen ebbe a helyzetbe kerülni."
+              "changesTheObjection": "Nem változtat rajta. Ez az a változat, amely ellen a fenti ellenvetés épült, és amelyet el is ér: ha a kötelezettséget parancs alkotja, akkor arra a kérdésre, miért vagy köteles engedelmeskedni, újabb parancsra hivatkozás nélkül kell válaszolni. Minden, ami lentebb következik, egy-egy mód arra, hogy ne kerüljünk ebbe a helyzetbe."
             },
             {
               "id": "natural-law",
               "label": "Természetjog",
               "heldBy": "Aquinói Tamás; John Finnis, Edward Feser; a katolikus erkölcstan",
-              "oneLine": "Az, hogy mi jó egy teremtménynek, abból következik, milyen fajta teremtmény, így az erkölcs a természetekben gyökerezik, és kinyilatkoztatás nélkül, ésszel elérhető.",
-              "summary": "A régebbi és a keresztény történelem egészét nézve szélesebb körben vallott felfogás. A kötelezettséget nem rendelet szabja ki, hanem abból következik, mire való egy dolog: az ész felfogja, hogy bizonyos célok jók egy ilyen fajta lény számára, és a gyakorlati ész első parancsa ebből a felfogásból következik, nem pedig utasításból.\n\nEgy következménye számít ezen az oldalon. A természetjog szerint egy ateista tökéletesen ismerheti az erkölcs tartalmát, mert az a természetekről olvasható le, nem a kinyilatkoztatásból — ezért nem okozott soha gondot a hagyománynak kimondani, hogy a hitetlenek tudják, mi a jó és mi a rossz.",
+              "oneLine": "Az, hogy mi jó egy teremtménynek, abból következik, milyen fajta teremtmény — így az erkölcs a természetekben gyökerezik, és kinyilatkoztatás nélkül, ésszel is elérhető.",
+              "summary": "A régebbi, és a keresztény történelem egészét nézve szélesebb körben vallott felfogás. A kötelezettséget nem rendelet szabja ki, hanem abból következik, mire való egy dolog: az ész felfogja, hogy bizonyos célok jók egy ilyen fajta lény számára, és a gyakorlati ész első parancsa ebből a felfogásból következik, nem utasításból.\n\nEgy következménye számít ezen az oldalon: a természetjog szerint egy ateista tökéletesen ismerheti az erkölcs tartalmát, mert az a természetekről olvasható le, nem a kinyilatkoztatásból. Ezért nem okozott soha gondot a hagyománynak kimondani, hogy a hitetlenek tudják, mi a jó és mi a rossz.",
               "quote": {
                 "text": "a jót tenni és keresni kell, a rosszat pedig kerülni. A természetjog minden más parancsa ezen alapul",
                 "author": "Aquinói Tamás",
@@ -110,20 +110,20 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A regresszus el sem indulhat. Nincs olyan parancs, amelynek tekintélyéhez előzetes engedelmességi kötelezettség kellene, mert a kötelezettség abból következik, ami egy teremtmény, nem abból, amit mondtak neki. Az Euthüphrón-dilemma is elveszíti itt a fogását: Isten nem külső mércét tanulmányoz, és nem is választ egyet, hiszen ő a szerzője azoknak a természeteknek, amelyekről a mérce leolvasható.",
+              "changesTheObjection": "A regresszus el sem indulhat. Nincs olyan parancs, amelynek tekintélyéhez előzetes engedelmességi kötelezettség kellene, mert a kötelezettség abból következik, ami egy teremtmény, nem abból, amit mondtak neki. Az Euthüphrón-dilemma is elveszíti itt a fogását: Isten nem külső mércét tanulmányoz, de nem is választ egyet, hiszen ő a szerzője azoknak a természeteknek, amelyekről a mérce leolvasható.",
               "objection": {
-                "text": "Ha az, hogy mi jó egy teremtménynek, abból következik, milyen fajta teremtmény, akkor a felfogás Isten nélkül is működik — és a legkidolgozottabb modern formája ateista. Philippa Foot pontosan ezt a szerkezetet építette fel a Natural Goodnessben, Aquinói Tamás erényekről szóló felfogását a hitetlenekre is alkalmazhatónak véve, Rosalind Hursthouse pedig tovább fejlesztette; mindkettőnél az erkölcsi fogyatékosság természeti fogyatékosság, és teizmus sehol nem lép be. Ez nem cáfolja a természetjogot. Azt a használatot ássa alá, amelyet itt kap, mert egy oldal, amely azt állítja, hogy az erkölcshöz Isten kell, nem támaszkodhat arra az egyetlen teista felfogásra, amelynek a gépezete bizonyíthatóan leválasztható a teizmusról.",
+                "text": "Ha az, hogy mi jó egy teremtménynek, abból következik, milyen fajta teremtmény, akkor a felfogás Isten nélkül is működik — a legkidolgozottabb mai formája pedig ateista. Philippa Foot pontosan ezt a szerkezetet építette fel a Natural Goodnessben, Aquinói Tamás erényekről szóló felfogását a hitetlenekre is alkalmazhatónak véve, Rosalind Hursthouse pedig továbbfejlesztette; mindkettőnél az erkölcsi fogyatékosság természeti fogyatékosság, és teizmus sehol nem lép be. Ez nem cáfolja a természetjogot, csak azt a használatot ássa alá, amelyet itt kap: aki azt állítja, hogy az erkölcshöz Isten kell, nem támaszkodhat arra az egyetlen teista felfogásra, amelynek a gépezete bizonyíthatóan leválasztható a teizmusról.",
                 "from": "within",
                 "sharedPremise": "maradéktalanul elfogadja a természetjog premisszáját — hogy az, ami jó egy teremtménynek, abból következik, milyen fajta teremtmény, és hogy az ész le tudja olvasni —, és kizárólag ebből a premisszából érvel amellett, hogy az így adódó etika Isten hozzáadása nélkül is teljes.",
-                "response": "A természetek nem magyarázzák meg önmagukat. A felfogás megmondja, mi jó egy embernek, de nem mondja meg, miért vannak ilyen természetű teremtmények, vagy hogy miért olyasmi a virágzásuk, amire a világegyetem tekintettel van — és éppen ezekre a kérdésekre válaszol a teista."
+                "response": "A természetek nem magyarázzák meg önmagukat. A felfogás megmondja, mi jó egy embernek, de nem mondja meg, miért vannak ilyen természetű teremtmények, és azt sem, miért olyasmi a virágzásuk, amire a világegyetem tekintettel van — márpedig éppen ezekre a kérdésekre válaszol a teista."
               }
             },
             {
               "id": "concurrentism",
               "label": "Erkölcsi konkurrentizmus",
               "heldBy": "Mark C. Murphy",
-              "oneLine": "Sem a parancsok, sem a természetek önmagukban: az Istenre és a teremtményekre vonatkozó tények együttműködnek, az erkölcsi szükségszerűség pedig az isteni jóság vonzása, ahogyan azt közelebbről meghatározza, hogy mi vagy.",
-              "summary": "A három közül a legújabb, és azért létezik, mert szerzője szerint a másik kettő magyarázatként egyaránt csődöt mond. Murphy szerint az isteni parancs elmélete nem tud számot adni arról, miért kötelezőek Isten parancsai, a természetjog pedig egyáltalán nem tartja benn Istent a magyarázatban — az az elmélet, amely szerint az erkölcsi törvény pontosan ugyanaz volna, akár létezik Isten, akár nem, nem az erkölcs teista magyarázata, bármit szándékozzanak is a képviselői.\n\nAz ő alternatívájában a kettő egyszerre végez különböző munkát: Isten jósága adja a vonzást, a teremtmény természete pedig meghatározza, mit követel tőle ez a vonzás.",
+              "oneLine": "Sem a parancsok, sem a természetek önmagukban: az Istenre és a teremtményekre vonatkozó tények együtt dolgoznak, az erkölcsi szükségszerűség pedig az isteni jóság vonzása, ahogyan azt közelebbről meghatározza, hogy mi vagy.",
+              "summary": "A három közül a legújabb, és azért létezik, mert szerzője szerint a másik kettő magyarázatként egyaránt csődöt mond. Murphy szerint az isteni parancs elmélete nem tud számot adni arról, miért kötelezőek Isten parancsai, a természetjog pedig egyáltalán nem tartja benn Istent a magyarázatban: az az elmélet, amely szerint az erkölcsi törvény pontosan ugyanaz volna, akár létezik Isten, akár nem, nem az erkölcs teista magyarázata, bármit szándékozzanak is a képviselői.\n\nAz ő alternatívájában a kettő egyszerre végez kétféle munkát: Isten jósága adja a vonzást, a teremtmény természete pedig meghatározza, mit követel tőle ez a vonzás.",
               "quote": {
                 "text": "minden erkölcsi szükségszerűség az isteni jóság vonzása, amelyet az érintett teremtmények természete határoz meg közelebbről",
                 "author": "Mark C. Murphy",
@@ -138,28 +138,28 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "Az ellenvetésnek találnia kellene egy parancsot, amelyen elindulhat a regresszus, és nincs ilyen: ami szükségszerűvé tesz, az vonzás, nem utasítás, úgyhogy azt kérdezni, miért kell engedelmeskedned neki, olyan, mint azt kérdezni, miért kell jónak találnod a jót. Amit az ellenvetés helyette tehet, az a másik irányból szorítás — hogy vajon egy „vonzás”, amely semmilyen elismerést nem igényel, végez-e bármi olyan munkát, amit a természetek amúgy is ne végeztek volna el.",
+              "changesTheObjection": "Az ellenvetésnek találnia kellene egy parancsot, amelyen elindulhat a regresszus, és nincs ilyen: ami szükségszerűvé tesz, az vonzás, nem utasítás — azt kérdezni, miért kell engedelmeskedned neki, olyan, mint azt kérdezni, miért kell jónak találnod a jót. Amit az ellenvetés helyette tehet, az az, hogy a másik irányból szorít: vajon egy „vonzás”, amely semmilyen elismerést nem igényel, végez-e bármi olyan munkát, amit a természetek amúgy is ne végeztek volna el.",
               "objection": {
-                "text": "Murphy saját próbája az, hogy az erkölcs teista magyarázatának Isten szerepét magyarázóvá kell tennie, nem díszítővé, az ellenvetés pedig az, hogy az övé nem megy át ezen a próbán. Ha a természetek végzik a meghatározás egészét — ha az, hogy mit kell tenned, teljes egészében abból adódik, ami vagy —, akkor „az isteni jóság vonzása” semmilyen tartalommal nem járul hozzá, és egy nélküle való világegyetem ugyanazokat a kötelezettségeket tartalmazná. Az a magyarázat, amely semmit nem változtat a magyarázandón, hozzátoldás, nem magyarázat.",
+                "text": "Murphy saját próbája az, hogy az erkölcs teista magyarázatának Isten szerepét magyarázóvá kell tennie, nem díszítővé — az ellenvetés pedig az, hogy az övé nem megy át ezen a próbán. Ha a természetek végzik a meghatározás egészét, ha tehát teljes egészében abból adódik, mit kell tenned, hogy mi vagy, akkor „az isteni jóság vonzása” semmilyen tartalommal nem járul hozzá, és egy nélküle való világegyetem ugyanazokat a kötelezettségeket tartalmazná. Az a magyarázat, amely semmit nem változtat a magyarázandón, hozzátoldás, nem magyarázat.",
                 "from": "atheist",
                 "response": "A vonzás a szükségszerűséget adja, nem a tartalmat: a természetek határozzák meg, mi a követelmény, a jóság pedig az, amiért egyáltalán van bármilyen követelmény. Ez két különböző munka, és az ellenvetés összemossa őket."
               }
             }
           ],
           "counter": {
-            "objection": "Ha egy kötelezettséget parancs alkot, akkor attól, hogy megparancsolnak valamit, az csak akkor lesz kötelező, ha már eleve köteles vagy megtenni, amit parancsolnak. Ez az előzetes kötelezettség maga nem állhat parancsból anélkül, hogy a regresszus újra el ne induljon, tehát máshonnan kell jönnie — és mihelyt valami más is képes kötelezettséget létrehozni, a felfogás feladta azt, amit éppen állított. Ez nem az ateista ellenvetése; ez az az állandó ellenvetés, amelyet a teizmuson belül fogalmaznak meg azok, akik máshol alapozzák meg az erkölcsöt.",
+            "objection": "Ha egy kötelezettséget parancs alkot, akkor attól, hogy megparancsolnak valamit, az csak akkor lesz kötelező, ha már eleve köteles vagy megtenni, amit parancsolnak. Ez az előzetes kötelezettség maga nem állhat parancsból anélkül, hogy a regresszus újra elindulna, tehát máshonnan kell jönnie — mihelyt viszont valami más is képes kötelezettséget létrehozni, a felfogás feladta azt, amit éppen állított. Ez nem az ateista ellenvetése: ezt a teizmuson belül fogalmazzák meg azok, akik máshol alapozzák meg az erkölcsöt.",
             "objectionFrom": "within",
             "sharedPremise": "elfogadja, hogy Isten létezik, hogy jó, és hogy az erkölcsi tények valóságosak, és kizárólag ezekből a premisszákból érvel amellett, hogy a kötelezettségeket nem alkothatják parancsok, hiszen egy parancsnak engedelmeskedni csak egy előzetes engedelmességi kötelezettség mellett kötelező — ezt a premisszát az isteni parancs elméletének híve megadja.",
             "landsOn": [
               "divine-command"
             ],
-            "response": "Az előzetes kötelezettség nem egy újabb parancs, hanem a viszony egyik jellemzője: a teremtmény úgy áll a teremtőjéhez, ahogyan a gyermek a szülőjéhez, és a ráhallgatás kötelezettsége része annak, ami ez a viszony, nem pedig egy azon belüli szabály."
+            "response": "Az előzetes kötelezettség nem egy újabb parancs, hanem magának a viszonynak a jellemzője: a teremtmény úgy áll a teremtőjéhez, ahogyan a gyermek a szülőjéhez, és a ráhallgatás kötelezettsége része annak, ami ez a viszony — nem pedig egy azon belüli szabály."
           }
         },
         {
           "id": "why-would-we-track-them",
-          "claim": "A naturalizmus szerint az erkölcsi érzékünk a túlélésre épült, ami semmi okot nem ad arra, hogy erkölcsi igazságot követne",
-          "explanation": "Ez az ismeretelméleti fele, és a másik oldal legerősebb álláspontját célozza, nem egy gyengét. Tegyük fel, hogy vannak önmagukban álló objektív erkölcsi tények. Most kérdezzük meg, hogyan jutottak a hozzánk hasonló lények bármelyikük ismeretére.\n\nAz erkölcsi válaszainkat a szelekció alakította, a szelekció pedig azt jutalmazza, ami működik, nem azt, ami igaz. A gyermekeid védelmére való hajlam akkor is előnyben részesül, ha nincs elmefüggetlen tény arról, hogy ezt kellene tenned. Ez az [[evolúciós aláásás]] érve teista célra fordítva: a naturalista realistának olyan vélekedései vannak, amelyek megbízhatóságáról nem tud számot adni, a teista viszont tud, hiszen egy erkölcsi lény által készített képességektől elvárható, hogy kövessék az erkölcsi valóságot.",
+          "claim": "A naturalizmus szerint az erkölcsi érzékünk a túlélésre épült, ami semmi okot nem ad annak feltételezésére, hogy erkölcsi igazságot követ",
+          "explanation": "Ez az ismeretelméleti fele, és a másik oldal legerősebb álláspontját célozza, nem egy gyengét. Tegyük fel, hogy vannak önmagukban álló objektív erkölcsi tények. Most kérdezzük meg, hogyan jutottak a hozzánk hasonló lények akár egynek is az ismeretére.\n\nAz erkölcsi válaszainkat a szelekció alakította, a szelekció pedig azt jutalmazza, ami működik, nem azt, ami igaz. A gyermekeid védelmére való hajlam akkor is előnyben van, ha nincs elmefüggetlen tény arról, hogy ezt kellene tenned. Ez az [[evolúciós aláásás]] érve teista célra fordítva: a naturalista realistának olyan vélekedései vannak, amelyek megbízhatóságáról nem tud számot adni, a teista viszont tud — hiszen egy erkölcsi lény által készített képességektől elvárható, hogy kövessék az erkölcsi valóságot.",
           "quote": {
             "text": "A naturalistának azt kell vallania, hogy az emberi erkölcsi képességeket a szaporodási rátermettségre, nem pedig az elmefüggetlen erkölcsi igazság követésére irányuló szelekció alakította, és így nincs magyarázata a megbízhatóságukra; a teistának, aki e képességeket egy jó Isten teremtményének tartja, van.",
             "author": "Mark D. Linville",
@@ -175,7 +175,7 @@
             }
           },
           "counter": {
-            "objection": "Az érv a használója ellen vág. Ha a szelekció alakította az erkölcsi képességeinket, akkor akár létezik Isten, akár nem, ő alakította őket — Istennek ugyanezen a folyamaton keresztül kellett volna dolgoznia, tehát a teista ugyanazt a történetet örökli arról, hogyan érkeztek meg a vélekedések, és csak egy reményt tett hozzá arról, merre tartott. A megbízhatóság kihívására pedig van kész válasz: ha egyes erkölcsi igazságok szükségszerűek, akkor bármely folyamat, amely az együttműködésről, az ártalomról és a méltányosságról vélekedéseket hoz létre, igaz vélekedéseket fog létrehozni — nem szerencséből, hanem mert ezek az igazságok nem lehettek volna másképp.",
+            "objection": "Az érv a használója ellen vág. Ha a szelekció alakította az erkölcsi képességeinket, akkor akár létezik Isten, akár nem, ő alakította őket: Istennek ugyanezen a folyamaton keresztül kellett volna dolgoznia, tehát a teista ugyanazt a történetet örökli arról, hogyan érkeztek meg a vélekedések, és csak egy reményt tett hozzá arról, merre tartott. A megbízhatóság kihívására pedig van kész felelet: ha egyes erkölcsi igazságok szükségszerűek, akkor bármely folyamat, amely az együttműködésről, az ártalomról és a méltányosságról vélekedéseket hoz létre, igaz vélekedéseket fog létrehozni — nem szerencséből, hanem mert ezek az igazságok nem is lehettek volna másképp.",
             "objectionFrom": "atheist",
             "response": "Ehhez a válaszhoz az kell, hogy a szükségszerű igazságok egybeessenek azzal, ami adaptív volt — márpedig éppen erre az egybeesésre mutatott rá az érv, nem pedig ez a magyarázata."
           }
@@ -183,13 +183,13 @@
       ]
     },
     {
-      "label": "Semmi nem lesz több attól, ha egy személyt teszünk alá",
+      "label": "Nem lesz több attól, hogy egy személyt teszünk alá",
       "position": "atheist",
       "arguments": [
         {
           "id": "no-maker-needed",
-          "claim": "Az erkölcsi igazságoknak, ha vannak, nem kell több alkotó, mint a matematikaiaknak",
-          "explanation": "A legismertebb ateista válasz nem az, hogy az erkölcs kitalált vagy érzés dolga. Az, hogy vannak objektív normatív igazságok, hogy ezek nem vezethetők vissza természeti tényekre, és hogy fennállnak anélkül, hogy bármi ilyenné tette volna őket — ugyanaz a státusz, amelyet a teista mindig is kész volt megadni Istennek.\n\nAz érv az egyenrangúságra épül. A teista egy olyan létezőnél áll meg, akinek a jóságát semmi további nem magyarázza; a realista egy lépéssel korábban áll meg, magánál az igazságoknál. Egyikük sem tudja megmondani, miért éppen ott van a megállója, és mégis csak az egyiküket vádolják azzal, hogy kihagyott valamit. Derek Parfit változata olyan csavart tesz hozzá, amitől az egyenrangúság élesebb lesz: az igazságok valóságosak és objektívek, miközben semmiféle ontológiai súlyt nem hordoznak, tehát nincs a világegyetemben semmi többlet, amelyről a teista számadást követelhetne.\n\nAz ateisták itt megoszlanak, és a megosztottság többet számít az egyetértésnél — a lenti változatok egyike [[tévedéselmélet]], amely tagadja, hogy volnának erkölcsi tények, és egyetért a teista első premisszájával.",
+          "claim": "Az erkölcsi igazságoknak, ha vannak, nincs nagyobb szükségük alkotóra, mint a matematikaiaknak",
+          "explanation": "A legismertebb ateista válasz nem az, hogy az erkölcs kitalált vagy érzés dolga, hanem az, hogy vannak objektív normatív igazságok, hogy ezek nem vezethetők vissza természeti tényekre, és hogy fennállnak anélkül, hogy bármi ilyenné tette volna őket — ugyanaz a státusz, amelyet a teista mindig is kész volt megadni Istennek.\n\nAz érv az egyenrangúságra épül. A teista olyan létezőnél áll meg, akinek a jóságát semmi további nem magyarázza; a realista egy lépéssel korábban, magánál az igazságoknál. Egyikük sem tudja megmondani, miért éppen ott van a megállója, és mégis csak az egyiküket vádolják azzal, hogy kihagyott valamit. Derek Parfit változata olyan csavart tesz hozzá, amitől az egyenrangúság élesebb lesz: az igazságok valóságosak és objektívek, miközben semmiféle ontológiai súlyt nem hordoznak — nincs tehát a világegyetemben olyan többlet, amelyről a teista számadást követelhetne.\n\nAz ateisták itt megoszlanak, és a törésvonalak többet számítanak az egyetértésnél: a lenti változatok egyike [[tévedéselmélet]], amely tagadja, hogy volnának erkölcsi tények, és egyetért a teista első premisszájával.",
           "quote": {
             "text": "vannak olyan állítások, amelyek az észt érintő értelemben visszavezethetetlenül normatívak, és erős értelemben igazak. Ezeknek az igazságoknak nincsenek ontológiai következményeik.",
             "author": "Derek Parfit",
@@ -209,8 +209,8 @@
               "id": "robust-realism",
               "label": "Robusztus nem természeti realizmus",
               "heldBy": "David Enoch, Erik Wielenberg, Russ Shafer-Landau",
-              "oneLine": "Vannak visszavezethetetlenül normatív tények, függetlenül bárki akaratától, és éppoly valóságosak, mint a teista Istene.",
-              "summary": "A fő érv teljes erejű változata, és az, amelyik a legtöbb metafizikai elkötelezettséget vállalja, nem a legkevesebbet. Ahol Parfit az ontológia nélküli objektivitást próbálja megtartani, ott Enoch és Wielenberg vállalja az ontológiát, és meg is védi: valóban léteznek nem természeti erkölcsi tulajdonságok, és ennek kellemetlensége az ára annak, hogy komolyan vesszük az erkölcsöt.\n\nWielenberg feszíti legerősebben az egyenrangúság pontját: aki teistaként elfogad Isten természetére vonatkozó nyers szükségszerű tényeket, annak nincs alapja kifogásolni a jóságra vonatkozó nyers szükségszerű tényeket.",
+              "oneLine": "Vannak visszavezethetetlenül normatív tények, bárki akaratától függetlenül, és éppolyan valóságosak, mint a teista Istene.",
+              "summary": "A fő érv teljes erejű változata — és az, amelyik a legtöbb metafizikai elkötelezettséget vállalja, nem a legkevesebbet. Ahol Parfit ontológia nélkül próbálja megtartani az objektivitást, ott Enoch és Wielenberg vállalja az ontológiát, és meg is védi: valóban léteznek nem természeti erkölcsi tulajdonságok, és ennek kellemetlensége az ára annak, hogy komolyan vesszük az erkölcsöt.\n\nWielenberg feszíti legerősebben az egyenrangúságot: aki teistaként elfogad Isten természetére vonatkozó nyers szükségszerű tényeket, annak nincs alapja kifogásolni a jóságra vonatkozó nyers szükségszerű tényeket.",
               "quote": {
                 "text": "vannak visszavezethetetlenül normatív igazságok és tények … [ezek] függetlenek tőlünk, a vágyainktól és a mi (vagy bárki más) akaratunktól",
                 "author": "David Enoch",
@@ -224,14 +224,14 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "Nem változtat rajta. Ez az a változat, amely ellen az aláásó ellenvetés épült, és amelyet a legközvetlenebbül el is ér: éppen az oksági szempontból tétlen és tőlünk független tények azok, amelyek követését a legnehezebb megmagyarázni. A lenti két álláspont egy-egy mód arra, hogy ne kelljen ilyen tényeket birtokolni."
+              "changesTheObjection": "Nem változtat rajta. Ez az a változat, amely ellen az aláásó ellenvetés épült, és amelyet a legközvetlenebbül el is ér: éppen az oksági szempontból tétlen, tőlünk független tények azok, amelyeknél a legnehezebb megmagyarázni, hogyan követhetjük őket. A lenti két álláspont egy-egy mód arra, hogy ne kelljen ilyen tényeket vállalni."
             },
             {
               "id": "naturalist-realism",
               "label": "Naturalista realizmus",
               "heldBy": "Sam Harris; a cornelli realisták — Richard Boyd, Peter Railton, Nicholas Sturgeon",
-              "oneLine": "Az erkölcsi tények természeti tények — a jóllétről, a virágzásról, arról, amit a tudatos lények elszenvednek —, tehát objektívek és a szokásos módon felfedezhetők.",
-              "summary": "Ez a változat elutasítja a nem természeti ontológiát és a vele járó rejtélyt. Ha az erkölcsi állítások végső soron a tudatos lények jóllétéről szóló állítások, akkor ugyanúgy igazak vagy hamisak, ahogyan az egészségről szóló állítások, és nem kell hozzájuk az erkölcsi észlelés semmilyen külön képessége.\n\nA filozófián kívül ez a legnépszerűbb álláspont, a filozófián belül pedig a vitatottabbak közé tartozik: a szokásos ellenvetés, Moore óta, az, hogy a jóság bármely természeti tulajdonsággal való azonosítása után is nyitva marad a kérdés, vajon jó-e az a tulajdonság — márpedig egy valódi azonosságról ezt nem lehet kérdezni.",
+              "oneLine": "Az erkölcsi tények természeti tények — a jóllétről, a virágzásról, arról, amit a tudatos lények elszenvednek —, tehát objektívek, és a szokásos módon felfedezhetők.",
+              "summary": "Ez a változat elutasítja a nem természeti ontológiát és a vele járó rejtélyt. Ha az erkölcsi állítások végső soron a tudatos lények jóllétéről szólnak, akkor ugyanúgy igazak vagy hamisak, ahogyan az egészségről szóló állítások, és nem kell hozzájuk az erkölcsi észlelés semmilyen külön képessége.\n\nA filozófián kívül ez a legnépszerűbb álláspont, a filozófián belül pedig a vitatottabbak közé tartozik: a szokásos ellenvetés Moore óta az, hogy a jóság bármely természeti tulajdonsággal való azonosítása után is nyitva marad a kérdés, vajon jó-e az a tulajdonság — márpedig egy valódi azonosságról ezt nem lehet kérdezni.",
               "quote": {
                 "text": "Az értékekre vonatkozó kérdések … valójában a tudatos lények jóllétére vonatkozó kérdések.",
                 "author": "Sam Harris",
@@ -245,14 +245,14 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "Az aláásó érvet át kell fogalmazni, és sokat veszít az erejéből. Ha az erkölcsi tények természeti tények arról, mi árt és mi használ a hozzánk hasonló lényeknek, akkor egy olyan képesség, amelyet a hozzánk hasonló lényeket érő ártalom és haszon észlelésére válogatott ki a szelekció, már a felépítésénél fogva követi őket, és nincs magyarázandó egybeesés. Amit az ellenvetés még szorgalmazhat, az az, hogy helyes-e az azonosítás — de ez Moore nyitott kérdése, nem aláásó érv."
+              "changesTheObjection": "Az aláásó érvet át kell fogalmazni, és sokat veszít az erejéből. Ha az erkölcsi tények természeti tények arról, mi árt és mi használ a hozzánk hasonló lényeknek, akkor egy olyan képesség, amelyet éppen ennek észlelésére válogatott ki a szelekció, már a felépítésénél fogva követi őket, és nincs magyarázandó egybeesés. Amit az ellenvetés még feszegethet, az az, hogy helyes-e az azonosítás — de ez Moore nyitott kérdése, nem aláásó érv."
             },
             {
               "id": "error-theory",
               "label": "Tévedéselmélet",
               "heldBy": "J.L. Mackie; Richard Joyce",
               "oneLine": "A hétköznapi erkölcsi állítások csakugyan objektív értékeket állítanak, ilyenek viszont nincsenek, tehát az erkölcsi beszéd rendszeresen hamis — nem szubjektív, hanem hamis.",
-              "summary": "Ez az az álláspont, amelyet a leggyakrabban hagynak ki ebből a vitából, és amely a legtöbbet változtat rajta. Mackie egyetért a teistával abban, mit jelent az erkölcsi nyelv, és mi kellene ahhoz, hogy igaz legyen: valóban léteznie kellene objektív értékeknek, és ezek nagyon különös entitások volnának, semmi máshoz nem hasonlóak, amit ismerünk. Ezután tagadja, hogy volnának ilyenek.\n\nÉrdemes nyíltan kimondani, mit tesz ez az erkölcsi érvvel. A szokásos formája így fut: ha Isten nem létezik, objektív erkölcsi értékek sem léteznek; objektív erkölcsi értékek márpedig léteznek; tehát Isten létezik. Mackie elfogadja az első premisszát, és tagadja a másodikat. Ő az az ateista, aki egyetért a teista feltételes állításával, és ezért megy el mellette teljesen az az ellenvetés, amely a második premissza védelmére épült.",
+              "summary": "Ez az az álláspont, amelyet a leggyakrabban hagynak ki ebből a vitából, és amely a legtöbbet változtat rajta. Mackie egyetért a teistával abban, mit jelent az erkölcsi nyelv, és abban is, mi kellene ahhoz, hogy igaz legyen: valóban léteznie kellene objektív értékeknek, és ezek nagyon különös létezők volnának, semmi máshoz nem hasonlóak, amit ismerünk. Ezután tagadja, hogy volnának ilyenek.\n\nÉrdemes nyíltan kimondani, mit tesz ez az erkölcsi érvvel. A szokásos alakja így fut: ha Isten nem létezik, objektív erkölcsi értékek sem léteznek; objektív erkölcsi értékek márpedig léteznek; tehát Isten létezik. Mackie elfogadja az első premisszát, és tagadja a másodikat. Ő az az ateista, aki egyetért a teista feltételes állításával — ezért megy el mellette teljesen az az ellenvetés, amely a második premissza védelmére épült.",
               "quote": {
                 "text": "Nincsenek objektív értékek.",
                 "author": "J.L. Mackie",
@@ -267,16 +267,16 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "Nem marad számára tennivaló. Egy aláásó érv azt mutatja meg, hogy az erkölcsi vélekedéseinket nem erkölcsi tények magyarázzák; a tévedéselmélet híve egyetért, és 1977 óta mondja ezt. Ide irányozva az ellenvetés nem cáfolat, hanem az álláspont újramondása — és annak a teistának, aki bevetette, teljesen más érvre kell váltania, olyanra, amely azoknak az erkölcsi tényeknek a létezése mellett szól, amelyeket Mackie tagad.",
+              "changesTheObjection": "Nem marad számára tennivaló. Egy aláásó érv azt mutatja meg, hogy az erkölcsi vélekedéseinket nem erkölcsi tények magyarázzák; a tévedéselmélet híve egyetért, és 1977 óta mondja ezt. Ide irányozva az ellenvetés nem cáfolat, hanem az álláspont újramondása — és aki bevetette, annak teljesen más érvre kell váltania: olyanra, amely azoknak az erkölcsi tényeknek a létezése mellett szól, amelyeket Mackie tagad.",
               "objection": {
-                "text": "A különösségből vett érv többet bizonyít, mint amennyit a szerzője akart. Ha azért nem szabad hinnünk objektív értékekben, mert metafizikailag furcsák volnának, és az észlelésükhöz különös képesség kellene, akkor ugyanez áll az episztemikus okokra is — azokra a tényekre, hogy mit kellene vélned a bizonyítékaid alapján. Terence Cuneo bűntársak-érve pontosan ezt szorgalmazza: az erkölcsre vonatkozó tévedéselmélet elkötelez az okokra vonatkozó tévedéselmélet mellett, és akkor magára a tévedéselméletre sincs semmi okod. Ott van továbbá az a gyakorlati kérdés, mit csinál a tévedéselmélet híve, amikor továbbra is erkölcsi ítéleteket hoz, amire Richard Joyce egy olyan fikcionalizmussal válaszol, amelyet bírálóinak többsége engedménynek tekint.",
+                "text": "A különösségből vett érv többet bizonyít, mint amennyit a szerzője akart. Ha azért nem szabad hinnünk objektív értékekben, mert metafizikailag furcsák volnának, és az észlelésükhöz különös képesség kellene, akkor ugyanez áll az episztemikus okokra is — azokra a tényekre, hogy mit kellene vélned a bizonyítékaid alapján. Terence Cuneo bűntársak-érve pontosan ezt feszegeti: az erkölcsre vonatkozó tévedéselmélet elkötelez az okokra vonatkozó tévedéselmélet mellett is, és akkor magára a tévedéselméletre sincs semmi okod. Ott van továbbá az a gyakorlati kérdés, mit csinál a tévedéselmélet híve, amikor mégis erkölcsi ítéleteket hoz — amire Richard Joyce olyan fikcionalizmussal válaszol, amelyet a bírálói többsége engedménynek tekint.",
                 "from": "both",
-                "response": "A párhuzam elfogadható. Joyce és más tévedéselmélet-hívők magukévá tették az episztemikus esetet, és végigérvelték az álláspontot, ami több annál, mint amennyit a bűntársak-érvek általában elvárnak a célpontjuktól."
+                "response": "A párhuzam elfogadható. Joyce és más tévedéselmélet-hívők magukévá tették az episztemikus esetet is, és végigérvelték az álláspontot — ez pedig több annál, mint amennyit a bűntársak-érvek általában elvárnak a célpontjuktól."
               }
             }
           ],
           "counter": {
-            "objection": "Ha az értékelő beállítódásainkat a szelekció alakította, a szelekció pedig közömbös a normatív igazság iránt, akkor a realista dilemmával néz szembe: vagy nincs kapcsolat ezek között a beállítódások és a független igazságok között, és akkor semmi okunk azt hinni, hogy éppen a mieink a pontosak, vagy a realista tartozik egy követési magyarázattal, amelyet az igazságok függetlensége nagyon nehézzé tesz. Ez nem teista ellenvetés — a naturalizmus felől fogalmazzák meg, más naturalisták ellen, és ez az elmúlt húsz év legtöbbet idézett kihívása az ateista realizmussal szemben.",
+            "objection": "Ha az értékelő beállítódásainkat a szelekció alakította, a szelekció pedig közömbös a normatív igazság iránt, akkor a realista dilemmával néz szembe: vagy nincs kapcsolat ezek között a beállítódások és a független igazságok között, és akkor semmi okunk azt hinni, hogy éppen a mieink a pontosak, vagy a realista tartozik egy követési magyarázattal, amelyet az igazságok függetlensége nagyon nehézzé tesz. Ez nem teista ellenvetés: a naturalizmus felől fogalmazzák meg, más naturalisták ellen, és ez az elmúlt húsz év legtöbbet idézett kihívása az ateista realizmussal szemben.",
             "objectionFrom": "within",
             "sharedPremise": "elfogadja a naturalizmust és azt az evolúciós magyarázatot, ahonnan az értékelő beállítódásaink származnak, és kizárólag ezekből a premisszákból érvel amellett, hogy az a realista, aki az erkölcsi igazságokat tőlünk függetlennek tartja, továbbra is tartozik annak magyarázatával, miért követnék őket a beállítódásaink.",
             "landsOn": [
@@ -288,8 +288,8 @@
         },
         {
           "id": "euthyphro",
-          "claim": "Vagy Isten parancsai valami eleve jót követnek, vagy a jóság az, amit történetesen parancsol",
-          "explanation": "Szókratész két és fél ezer évvel ezelőtt tette fel a kérdést, és azóta sem vonult nyugdíjba. Vegyünk bármit, amit Isten parancsol. Vagy azért parancsolja, mert jó, és akkor a jósága független tőle; vagy azért jó, mert ő parancsolja, és akkor bármi lehetett volna jó.\n\nA szokásos válasz az, hogy maga Isten természete a mérce, tehát a választás hamis. A viszontválasz az, hogy ez csak áthelyezi a dilemmát: vagy Isten természete valamilyen mérce szerint jó, vagy a „jó” pusztán annyit tesz, hogy „Istenhez hasonló”, és akkor az, hogy „Isten jó”, semmit nem mond.",
+          "claim": "Vagy Isten parancsai valami eleve jót követnek, vagy a jóság az, amit éppen parancsol",
+          "explanation": "Szókratész két és fél ezer évvel ezelőtt tette fel a kérdést, és azóta sem sikerült lezárni. Vegyünk bármit, amit Isten parancsol. Vagy azért parancsolja, mert jó — és akkor a jósága független tőle —, vagy azért jó, mert ő parancsolja, és akkor bármi lehetett volna jó.\n\nA szokásos felelet az, hogy maga Isten természete a mérce, tehát a választás hamis. A viszontválasz az, hogy ez csak áthelyezi a dilemmát: vagy Isten természete valamilyen mérce szerint jó, vagy a „jó” pusztán annyit tesz, hogy „Istenhez hasonló” — és akkor az, hogy „Isten jó”, semmit nem mond.",
           "quote": {
             "text": "Vajon azért szeretik-e az istenek a jámbort, mert jámbor, vagy azért jámbor, mert az istenek szeretik?",
             "author": "Plato",
@@ -305,9 +305,9 @@
             }
           },
           "counter": {
-            "objection": "A harmadik lehetőség nem kibúvó, és régebbi, mint a rá vonatkozó ellenvetés. A jóságot Isten természetével azonosítjuk, ami sem nem önkényes választás, sem nem olyan külső mérce, amelyet ő tanulmányoz, mert a természetet nem választja senki. Az, hogy ettől az „Isten jó” valamiféle azonossági állítássá válik, nem hiba: a „víz az H₂O” ugyanígy nem informatív, és ettől még nem üres. A dilemmának pedig semmiféle fogása nincs a fenti természetjogi változaton, ahol a kérdés soha nem arról szólt, mit parancsol Isten.",
+            "objection": "A harmadik lehetőség nem kibúvó, és régebbi, mint a rá vonatkozó ellenvetés. A jóságot Isten természetével azonosítjuk, ami sem nem önkényes választás, sem nem olyan külső mérce, amelyet ő tanulmányoz, mert a természetet nem választja senki. Az, hogy ettől az „Isten jó” valamiféle azonossági állítássá válik, nem hiba: a „víz az H₂O” ugyanígy nem informatív, és ettől még nem üres. A dilemmának pedig semmi fogása nincs a fenti természetjogi változaton, ahol a kérdés soha nem arról szólt, mit parancsol Isten.",
             "objectionFrom": "theist",
-            "response": "Az azonosság csak akkor működik, ha a jóságot függetlenül fel tudjuk ismerni, mert ez az, ami alapján kimondható, hogy az azonosság fennáll, nem pedig kikötés kérdése — és ez a felismerés éppen az a független mérce, amelyről a teista azt mondta, hogy nincs."
+            "response": "Az azonosság csak akkor működik, ha a jóságot függetlenül fel tudjuk ismerni — mert ezen az alapon mondható ki, hogy az azonosság fennáll, nem pedig kikötés kérdése. És éppen ez a felismerés az a független mérce, amelyről a teista azt mondta, hogy nincs."
           }
         }
       ]
@@ -317,16 +317,16 @@
     {
       "heading": "Hume szakadéka, amelyre mindkét oldal hivatkozik",
       "oneLine": "Hume szakadéka a között, ami van, és a között, aminek lennie kellene, ezen az oldalon minden álláspontnak gondot okoz — ezért végzi szinte mindegyik azzal, hogy valami alapvetőt feltesz, ahelyett hogy levezetné.",
-      "text": "Hume megfigyelte, hogy az érvek figyelmeztetés nélkül csúsznak át arról szóló kijelentésekről, ami van, olyanokra, aminek lennie kellene, és hogy ezt a lépést soha nem igazolják. Mindkét oldal idézi ezt a másik ellen, és mindkettőnek joga van hozzá.\n\nA naturalista ellen: a jóllétről vagy a virágzásról szóló tények semmilyen halmaza nem ad ki kötelezettséget olyan premissza nélkül, amely már eleve tartalmaz egyet. A teista ellen: az sem ad ki kötelezettséget, bármennyi tényünk van arról, mi Isten vagy mit parancsol, olyan premissza nélkül, hogy tenned kell, amit Isten parancsol — ez a premissza pedig nem jöhet egy újabb parancsból körbeforgás nélkül, és éppen ez a fentebb szereplő ellenvetés. A szakadék bárkinek gondot okoz, aki bármiből levezeti az erkölcsöt, és ezért végzi ezen az oldalon szinte minden álláspont azzal, hogy valami alapvetőt feltesz, ahelyett hogy levezetné. A kivétel a tévedéselmélet híve, akinek nincs mit feltennie."
+      "text": "Hume megfigyelte, hogy az érvek figyelmeztetés nélkül csúsznak át arról szóló kijelentésekről, ami van, olyanokra, aminek lennie kellene, és hogy ezt a lépést soha nem igazolják. Mindkét oldal idézi ezt a másik ellen, és mindkettőnek joga van hozzá.\n\nA naturalista ellen: a jóllétről vagy a virágzásról szóló tények semmilyen halmazából nem adódik kötelezettség olyan premissza nélkül, amely már eleve tartalmaz egyet. A teista ellen: abból sem adódik kötelezettség, bármennyi tényünk legyen is arról, mi Isten vagy mit parancsol, olyan premissza nélkül, hogy tenned kell, amit Isten parancsol — ez a premissza pedig nem jöhet egy újabb parancsból körkörösség nélkül, és éppen ez a fentebb szereplő ellenvetés. A szakadék bárkinek gondot okoz, aki bármiből levezeti az erkölcsöt, és ezért végzi ezen az oldalon szinte minden álláspont azzal, hogy valami alapvetőt feltesz, ahelyett hogy levezetné. A kivétel a tévedéselmélet híve, akinek nincs mit feltennie."
     },
     {
       "heading": "Három dolog, amit az „objektív” jelenthet",
-      "oneLine": "Az itteni félrebeszélés nagy része abból ered, hogy az „objektív” szó három különböző munkát végez, és érdemes megkérdezni, ki melyikre gondol.",
-      "text": "Ebben a vitában a félrebeszélés nagy része egyetlen szó három munkájából ered. Jelentheti azt, hogy *nem vélemény dolga* — a nácik tévedtek, jóllehet ők másként gondolták. Jelentheti azt, hogy *elmefüggetlen* — igaz, akár léteznek elmék, akár nem. És jelentheti azt, hogy *a természeti világon kívüli valamiben gyökerezik*.\n\nAz elsőben itt mindenki egyetért, a tévedéselmélet hívét kivéve, aki tagadja, és ki is mondja. A második az, ahol a nézeteltérés nagyobb része van. A harmadik teista tétel, és annak csendes feltételezése az, amitől az érv kívülről körbenforgónak látszik: ha az „objektív” annyit tesz, hogy „a természeten kívül gyökerezik”, akkor az, hogy „az objektív erkölcshöz kell valami a természeten kívül”, meghatározás szerint igaz, és semmit nem bizonyít. Ha egy eszmecsere nem jut sehová, rendszerint érdemes megkérdezni, ki melyiket használja a három közül."
+      "oneLine": "Az itteni félrebeszélés nagy része abból ered, hogy az „objektív” szó három különböző munkát végez — érdemes megkérdezni, ki melyikre gondol.",
+      "text": "Ebben a vitában a félrebeszélés nagy része egyetlen szó három munkájából ered. Jelentheti azt, hogy *nem vélemény dolga* — a nácik tévedtek, jóllehet ők másként gondolták. Jelentheti azt, hogy *elmefüggetlen* — igaz, akár léteznek elmék, akár nem. És jelentheti azt, hogy *a természeti világon kívüli valamiben gyökerezik*.\n\nAz elsőben itt mindenki egyetért, a tévedéselmélet hívét kivéve, aki tagadja, és ki is mondja. A második az, ahol a nézeteltérés nagyobb része van. A harmadik teista tétel, és annak csendes feltételezése az, amitől az érv kívülről körkörösnek látszik: ha az „objektív” annyit tesz, hogy „a természeten kívül gyökerezik”, akkor az, hogy „az objektív erkölcshöz kell valami a természeten kívül”, meghatározás szerint igaz, és semmit nem bizonyít. Ha egy eszmecsere nem jut sehová, rendszerint érdemes megkérdezni, ki melyiket használja a három közül."
     }
   ],
-  "whereItStands": "Mindkét álláspontot komoly emberek vallják, és egyik sincs közel az összeomláshoz. A filozófusok egészét nézve az erkölcsi realizmus a többségi nézet, a teizmus pedig nem az, vagyis a legtöbb erkölcsi realista ateista — ez a tény az ellen szól, hogy a kombináció instabil volna, jóllehet fejszámlálás, nem érv.\n\nAhol a vita ténylegesen elmozdult, az az ismeretelméleti fele. A metafizikai nézeteltérés hosszú ideje mozdulatlan: szinte minden álláspont feltesz valami alapvetőt, és egyik sem tudja igazolni, hogy éppen ott áll meg, ahol. Az a kérdés viszont, hogyan jutottak evolúciósan kialakult lények erkölcsi igazságok ismeretére, valódi munkát hozott létre az elmúlt húsz évben, és e kihívás legkárosabb változatát egy ateista fogalmazza meg más ateisták ellen. Wielenberg könyvei lényegében erre adott válaszok.\n\nAmi nem vitatott, és amit folyamatosan félreadnak vissza, az az, hogy lehetnek-e az ateisták erkölcsösek. Ebben a vitában senki nem gondolja az ellenkezőjét, azok sem, akik a teista érv legerősebb változatát képviselik — a természetjogi hagyománynak pedig pozitív magyarázata van arra, miért lehetnek.",
-  "commonMistake": "A keresztények leggyakrabban hagyják, hogy az érv átcsússzon onnan, hogy „az ateizmus nem tudja megalapozni az erkölcsöt”, oda, hogy „az ateistáknak nincs erkölcsük” — ez más állítás, hamis, és megcáfolja minden tisztességes hitetlen, akit a hallgató ismer. A második leggyakoribb az, hogy az isteni parancs elméletét kezelik a keresztény álláspontként, holott a hagyomány régebbi és szélesebb körben vallott válasza a természetjog, amely a természetekben alapozza meg az erkölcsöt, és elvárja, hogy a hitetlenek tökéletesen tudják, mi a jó és mi a rossz.\n\nAz ateisták leggyakrabban azzal válaszolnak, hogy elmondják, honnan erednek az erkölcsi érzéseink — evolúció, kultúra, empátia —, mintha ez választ adna a kérdésre. Nem ad: annak magyarázata, miért hisszük, hogy a kegyetlenség helytelen, összefér azzal is, hogy helytelen, és azzal is, hogy nem. Az ateista álláspont nyilvánosan leggyakrabban védett változata pedig az, amelynek tagadásával Mackie egy egész könyvet töltött, és ezt érdemes tudni, mielőtt megvédjük.\n\nMindkét oldal a saját megállóját ésszerűnek, a másikét önkényesnek kezeli. Isten, aki okozatlan és természeténél fogva jó, és az erkölcsi tények, amelyek okozatlanok és szükségszerűen igazak, ugyanaz a lépés két helyen megtéve.",
+  "whereItStands": "Mindkét álláspontot komoly emberek vallják, és egyik sincs közel az összeomláshoz. A filozófusok egészét nézve az erkölcsi realizmus a többségi nézet, a teizmus pedig nem — vagyis a legtöbb erkölcsi realista ateista. Ez a tény az ellen szól, hogy a kombináció instabil volna, jóllehet fejszámlálás, nem érv.\n\nAhol a vita ténylegesen elmozdult, az az ismeretelméleti fele. A metafizikai nézeteltérés hosszú ideje mozdulatlan: szinte minden álláspont feltesz valami alapvetőt, és egyik sem tudja igazolni, hogy éppen ott áll meg, ahol. Az a kérdés viszont, hogyan jutottak evolúciósan kialakult lények erkölcsi igazságok ismeretére, valódi munkát hozott létre az elmúlt húsz évben — és e kihívás legkárosabb változatát egy ateista fogalmazza meg más ateisták ellen. Wielenberg könyvei lényegében erre adott válaszok.\n\nAmi nem vitatott, és amit folyamatosan félreidéznek, az az, hogy lehetnek-e az ateisták erkölcsösek. Ebben a vitában senki nem gondolja az ellenkezőjét, azok sem, akik a teista érv legerősebb változatát képviselik — a természetjogi hagyománynak pedig pozitív magyarázata is van arra, miért lehetnek.",
+  "commonMistake": "A keresztények leggyakrabban hagyják, hogy az érv átcsússzon onnan, hogy „az ateizmus nem tudja megalapozni az erkölcsöt”, oda, hogy „az ateistáknak nincs erkölcsük”. Ez más állítás, hamis, és megcáfolja minden tisztességes hitetlen, akit a hallgató ismer. A második leggyakoribb az, hogy az isteni parancs elméletét kezelik a keresztény álláspontként, holott a hagyomány régebbi és szélesebb körben vallott felelete a természetjog, amely a természetekben alapozza meg az erkölcsöt, és elvárja, hogy a hitetlenek tökéletesen tudják, mi a jó és mi a rossz.\n\nAz ateisták leggyakrabban azzal válaszolnak, hogy elmondják, honnan erednek az erkölcsi érzéseink — evolúció, kultúra, empátia —, mintha ez válasz volna a kérdésre. Nem az: annak magyarázata, miért hisszük, hogy a kegyetlenség helytelen, összefér azzal is, hogy helytelen, és azzal is, hogy nem. Az ateista álláspont nyilvánosan leggyakrabban védett változata pedig éppen az, amelynek tagadásával Mackie egy egész könyvet töltött — és ezt érdemes tudni, mielőtt megvédjük.\n\nMindkét oldal a saját megállóját ésszerűnek, a másikét önkényesnek tekinti. Isten, aki okozatlan és természeténél fogva jó, és az erkölcsi tények, amelyek okozatlanok és szükségszerűen igazak: ugyanaz a lépés, két helyen megtéve.",
   "sources": [
     {
       "title": "The Moral Argument for God",
