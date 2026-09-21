@@ -2,24 +2,24 @@
   "id": "fine-tuning",
   "number": 5,
   "slug": "finomhangolt-a-vilagegyetem-az-eletre",
-  "title": "Finomhangolt a világegyetem az életre?",
+  "title": "Az életre van finomhangolva a világegyetem?",
   "category": "natural-science",
   "status": "open",
-  "realQuestion": "A fizika néhány száma — a gravitáció erőssége, az elektron tömege, a vákuum energiája — nagyon szűk tartományokban látszik elhelyezkedni. Mozdíts el közülük néhányat egy kicsit, és olyan világegyetemet kapsz, amelyben nincsenek csillagok, vagy nincs kémia, vagy amely összeomlik, mielőtt bármi történhetne benne.\n\nEzt értjük [[finomhangoláson|finomhangolás]], és eddig a pontig ez hétköznapi fizika, nem vallási állítás. A nézeteltérés rögtön ezután kezdődik, azon, hogy milyen fajta tény ez. Az egyik oldal szerint egy ennyire konkrét számsor annak a jele, hogy valami kiválasztotta őket. A másik szerint fogalmunk sincs, mennyire voltak valószínűek ezek a számok, hogy egy megfigyelők számára alkalmatlan világegyetemben senki nem volna benne, aki észrevegye, és hogy a meglepődés nem bizonyíték.\n\nMindkettő tiszteletre méltó álláspont, és a köztük folyó vita szokatlanul tiszta: a valószínűségről szól, és arról, min van jogunk meglepődni.",
+  "realQuestion": "A fizika néhány száma — a gravitáció erőssége, az elektron tömege, a vákuum energiája — nagyon szűk tartományban látszik állni. Mozdítsunk el közülük néhányat egy kicsit, és olyan világegyetemet kapunk, amelyben nincsenek csillagok, vagy nincs kémia, vagy amely összeomlik, mielőtt bármi történhetne benne.\n\nEzt értjük [[finomhangoláson|finomhangolás]], és eddig a pontig ez hétköznapi fizika, nem vallási állítás. A nézeteltérés rögtön utána kezdődik, azon, hogy miféle tény ez. Az egyik oldal szerint egy ennyire konkrét számsor annak a jele, hogy valaki kiválasztotta ezeket az értékeket. A másik szerint fogalmunk sincs, mennyire voltak valószínűek ezek a számok; hogy egy megfigyelőkre alkalmatlan világegyetemben nem volna senki, aki észrevegye; és hogy a meglepődés nem bizonyíték.\n\nMindkettő tiszteletre méltó álláspont, és a köztük folyó vita szokatlanul tiszta: a valószínűségről szól, és arról, min van jogunk meglepődni.",
   "distinctions": [
     {
       "label": "Szűk, életet megengedő tartományokban vannak-e az állandók?",
-      "gloss": "Fizikai kérdés, és nagyrészt egyetértés van benne. A tartományok valóságosak; némelyikük nagysága a széleken vitatott, de az alapvető pont nem.",
+      "gloss": "Fizikai kérdés, és nagyrészt egyetértés van benne. A tartományok valóságosak; némelyiknek a szélessége a széleken vitatott, az alapvető pont nem.",
       "activeHere": false
     },
     {
       "label": "Igényel-e ez a fizikán túli magyarázatot?",
-      "gloss": "Hogy a szűkösség tervezettség mellett szóló bizonyíték-e, multiverzum mellett szóló-e, vagy semmi mellett. Ez ennek az oldalnak a vitája.",
+      "gloss": "Hogy a szűkösség a tervezettség mellett szól-e, a multiverzum mellett-e, vagy semmi mellett. Ezen az oldalon erről folyik a vita.",
       "activeHere": true
     },
     {
       "label": "Mutat-e a biológia tervezettséget?",
-      "gloss": "Külön érv, amely élőlényekről szól, nem fizikai állandókról, és amely egészen máshogy alakult. 6. téma.",
+      "gloss": "Külön érv, amely élőlényekről szól, nem fizikai állandókról, és amely egészen másképp alakult. A 6. téma.",
       "activeHere": false
     }
   ],
@@ -30,26 +30,26 @@
     },
     {
       "term": "antropikus elv",
-      "definition": "Az a megfigyelés, hogy csak olyan világegyetemben találhatnánk magunkat, amely megfigyelőket enged meg. Triviálisan igaz, a vita pedig arról szól, mennyit magyaráz meg."
+      "definition": "Az a megfigyelés, hogy csak olyan világegyetemben találhatnánk magunkat, amely megfigyelőket enged meg. Triviálisan igaz; a vita arról szól, mennyit magyaráz meg."
     },
     {
       "term": "multiverzum",
-      "definition": "Az a felvetés, hogy a világegyetemünk egy a rengeteg közül, amelyekben mások az állandók. Az inflációs kozmológiából és a húrelméletből függetlenül adódik; nem erre az érvre válaszul találták ki."
+      "definition": "Az a felvetés, hogy a mi világegyetemünk egy a rengeteg közül, amelyekben mások az állandók. Az inflációs kozmológiából és a húrelméletből függetlenül adódik; nem erre az érvre válaszul találták ki."
     },
     {
       "term": "szelekciós hatás",
-      "definition": "Amikor az adatgyűjtés módja garantálja az eredményt. Egy moziból kifelé jövők körében végzett felmérés azt fogja találni, hogy a legtöbb ember szereti a filmet."
+      "definition": "Amikor már az adatgyűjtés módja garantálja az eredményt. Ha a moziból kifelé jövőket kérdezzük, azt fogjuk találni, hogy a legtöbb ember szereti a filmet."
     }
   ],
   "sides": [
     {
-      "label": "Az ennyire konkrét számok annak a jele, hogy valami választott",
+      "label": "Ilyen konkrét számok mögött választás áll",
       "position": "theist",
       "arguments": [
         {
           "id": "the-knife-edge",
           "claim": "A tartományok sokkal szűkebbek annál, hogy vállrándítással el lehessen intézni őket",
-          "explanation": "A példák konkrétak. Ha az erős magerő néhány százalékkal más volna, eltűnne az a szén-rezonancia, amely egyáltalán lehetővé teszi, hogy a csillagok szenet állítsanak elő. Változtasd meg a kozmológiai állandót a távoli tizedesjegyekben, és a világegyetem vagy szétrepül, vagy összeomlik, mielőtt galaxisok képződnének.\n\nFred Hoyle megjósolta ezt a szén-rezonanciát, mielőtt megtalálták volna, és annyira megrendítette, amit talált, hogy hangosan kimondta a kézenfekvő dolgot. Nem volt teista, és soha nem is lett azzá — pontosan ezért érdemes idézni a mondatot. A mesterkéltség benyomását nem apologéták gyártották; ennek látszott a fizika annak a fizikusnak, aki elvégezte a munkát.",
+          "explanation": "A példák konkrétak. Ha az erős magerő néhány százalékkal más volna, eltűnne az a szén-rezonancia, amely egyáltalán lehetővé teszi, hogy a csillagok szenet állítsanak elő. Változtassuk meg a kozmológiai állandót a távoli tizedesjegyekben, és a világegyetem vagy szétrepül, vagy összeomlik, mielőtt galaxisok képződnének.\n\nFred Hoyle megjósolta ezt a szén-rezonanciát, mielőtt megtalálták volna, és annyira meglepte, amit talált, hogy hangosan kimondta a kézenfekvő dolgot. Nem volt teista, és soha nem is lett azzá — pontosan ezért érdemes idézni a mondatát. A mesterkéltség benyomását nem apologéták gyártották: ilyennek látta a fizikát az a fizikus, aki a munkát elvégezte.",
           "quote": {
             "text": "A tények józan ész szerinti értelmezése arra utal, hogy egy szuperértelem babrált a fizikával, ahogyan a kémiával és a biológiával is.",
             "author": "Fred Hoyle",
@@ -64,16 +64,16 @@
             }
           },
           "counter": {
-            "objection": "Szűk, de mihez képest? Ahhoz, hogy egy értéket valószínűtlennek nevezz, tudnod kell, milyen tartományt vehetett volna fel, és hogy annak a tartománynak az egyes részei mennyire voltak valószínűek — és senkinek nincs meg egyik sem. Pontosan egy világegyetemünk van, semmilyen elméletünk arról, honnan jönnek az állandók, és semmilyen mintánk. A késélen állás benyomása lehet, hogy a mértékegységek megválasztásának és annak a következménye, hogy egyszerre csak egy számot változtatunk.",
-            "response": "Az ellenvetés valóságos, és éppen ezért fogalmazódik az érv a legjobb magyarázatra való következtetésként, nem pedig számításként. De az, hogy „nem tudunk valószínűséget rendelni hozzá”, nem ugyanaz, mint hogy „nincs mit megmagyarázni”. A fizikusok úgy kezelik ezeket az egybeeséseket, mint amelyek számadást igényelnek, amikor a számadás a multiverzum, és következetlenség azt mondani, hogy a kérdés csak akkor párolog el, amikor a válasz esetleg Isten lehetne."
+            "objection": "Szűk, de mihez képest? Ahhoz, hogy egy értéket valószínűtlennek nevezzünk, tudnunk kellene, milyen tartományt vehetett volna fel, és hogy azon belül mi mennyire volt valószínű — és egyik sincs meg senkinek. Pontosan egy világegyetemünk van, semmilyen elméletünk arról, honnan jönnek az állandók, és semmilyen mintánk. A késélen állás benyomása lehet, hogy csak a mértékegységek megválasztásából adódik, meg abból, hogy egyszerre mindig csak egy számot mozgatunk.",
+            "response": "Az ellenvetés valóságos, és éppen ezért fogalmazódik az érv a legjobb magyarázatra való következtetésként, nem számításként. De az, hogy „nem tudunk valószínűséget rendelni hozzá”, nem ugyanaz, mint hogy „nincs mit megmagyarázni”. A fizikusok számadást igénylőnek tekintik ezeket az egybeeséseket, amikor a számadás a multiverzum — következetlenség tehát azt mondani, hogy a kérdés csak akkor párolog el, amikor a válasz netán Isten volna."
           }
         },
         {
           "id": "the-multiverse-moves-the-problem",
           "claim": "A hangolást multiverzummal magyarázni csak áthelyezi a hangolást",
-          "explanation": "Tegyük fel, hogy létezik egy [[multiverzum]], amely eltérő állandójú világegyetemeket hoz létre. Valaminek elő kell állítania őket, és ez a valami egy mechanizmus, saját törvényekkel és saját beállításokkal — amelyeknek jónak kell lenniük ahhoz, hogy egyáltalán működjön. Azok az inflációs modellek, amelyek eltérő állandójú tartományokat pörgetnek ki, meghatározott mezőket és meghatározott potenciálokat igényelnek ehhez.\n\nA kérdés tehát egy szinttel feljebb kerül, nem pedig eltűnik. William Lane Craig változata szándékosan otthonos, és túléli, hogy otthonos: ami kimenetelek egy tartományát létrehozza, maga is konkrét elrendezés, és ha megkérdezed, miért olyan ez az elrendezés, amilyen, visszakerülsz oda, ahonnan indultál.",
+          "explanation": "Tegyük fel, hogy létezik egy [[multiverzum]], amely eltérő állandójú világegyetemeket hoz létre. Valaminek elő kell állítania őket, és ez a valami mechanizmus, saját törvényekkel és saját beállításokkal — amelyeknek jónak kell lenniük ahhoz, hogy egyáltalán működjön. Azok az inflációs modellek, amelyek eltérő állandójú tartományokat hoznak létre, meghatározott mezőket és meghatározott potenciálokat kívánnak hozzá.\n\nA kérdés tehát egy szinttel feljebb kerül, nem pedig eltűnik. William Lane Craig szándékosan hétköznapi képpel dolgozik, és a kép hétköznapisága nem gyengíti: ami kimenetelek egész tartományát állítja elő, maga is konkrét elrendezés, és ha megkérdezzük, miért olyan, amilyen, visszakerülünk oda, ahonnan indultunk.",
           "quote": {
-            "text": "hiábavaló lesz ez a folyamodás a Világegyütteshez, ha kiderül, hogy magának a Világegyüttest létrehozó mechanizmusnak is finomhangoltnak kell lennie, mert akkor az ember csak egy emelettel feljebb rúgta a problémát. Végtére is még a kenyérsütő gépemet is éppen jól kell megcsinálni ahhoz, hogy rendesen működjön, és az csak kenyereket állít elő, nem világegyetemeket.",
+            "text": "hiábavaló lesz ez a folyamodás a Világegyütteshez, ha kiderül, hogy magának a Világegyüttest létrehozó mechanizmusnak is finomhangoltnak kell lennie, mert akkor az ember csak egy emelettel feljebb tolta a problémát. Végtére is még a kenyérsütő gépemet is pontosan jól kell megépíteni ahhoz, hogy rendesen működjön, pedig az csak kenyeret állít elő, nem világegyetemeket.",
             "author": "William Lane Craig",
             "work": "Reasonable Faith",
             "year": "2008",
@@ -86,8 +86,8 @@
             }
           },
           "counter": {
-            "objection": "Ugyanez a regresszus még nagyobb erővel érvényes a másik válaszra. Egy elme, amely képes kiválasztani a fizika állandóit, nem egyszerű dolog, amely nem igényel számadást; legalább annyira konkrét, mint az a világegyetem, amelynek magyarázatára felhívják, és jóval nehezebben leírható. Ha a „mi hangolta finomra a multiverzum-generátort” jó kérdés, akkor a „mi ad számot egy világegyetem-tervező elméről” jobb kérdés.",
-            "response": "Ez a legerősebb válasz, és a klasszikus felelet az, hogy Istenről nem tartják, hogy egyáltalán részek összetett elrendezése volna, így a regresszus el sem indul. Hogy ez a válasz valódi metafizikai állítás-e, vagy annak a módja, hogy egyetlen magyarázatot mentesítsünk, a 2. téma vitája, és itt nem dől el.",
+            "objection": "Ugyanez a regresszus még nagyobb erővel érvényes a másik válaszra. Egy elme, amely ki tudja választani a fizika állandóit, nem egyszerű dolog, amely ne igényelne számadást: legalább annyira konkrét, mint az a világegyetem, amelynek magyarázatára hivatkoznak rá, és jóval nehezebben leírható. Ha a „mi hangolta finomra a multiverzum-generátort” jó kérdés, akkor a „mi ad számot egy világegyetem-tervező elméről” még jobb.",
+            "response": "Ez a legerősebb felelet, és a klasszikus válasz az, hogy Isten nem részek összetett elrendezése, így a regresszus el sem indul. Hogy ez valódi metafizikai állítás-e, vagy annak a módja, hogy egyetlen magyarázatot mentesítsünk, a 2. téma vitája, és itt nem dől el.",
             "landsOn": []
           },
           "variants": [
@@ -95,8 +95,8 @@
               "id": "theistic-multiverse",
               "label": "Isten alkotta a multiverzumot",
               "heldBy": "Don Page, Robin Collins; a keresztény fizika és vallásfilozófia egyik vonulata",
-              "oneLine": "A multiverzum nem a tervezettség vetélytársa, hanem olyasmi, amit meg lehetett tervezni, és egy Isten, aki ilyen világegyetemet akart, lehet, hogy sokat alkotott.",
-              "summary": "Ez az álláspont elfogadja azt a fizikát, amelyet a fenti érv támad, és tagadja, hogy az elfogadása bármibe kerülne.\n\nHa a tájkép valóságos, akkor a kérdés egyszerűen áthelyeződik: egy multiverzum, amelyben megvan a megfelelő törvénygyártó gépezet, maga is nagyon sajátos dolog, és azok az okok, amelyek miatt egyetlen finomhangolt világegyetem magyarázatot kíván, érvényesek egy olyan együttesre is, amely megbízhatóan finomhangolt tagokat termel. Page hosszan érvelt amellett, hogy egy teremtőtől, aki értékeli a gazdag teremtést, elvárható volna, hogy egy helyett sok világegyetemet alkosson, így a felfedezés inkább megerősítené, mint zavarba hozná a teizmust.",
+              "oneLine": "A multiverzum nem a tervezettség vetélytársa, hanem olyasmi, amit meg lehetett tervezni: egy Isten, aki ilyen világegyetemet akart, akár sokat is alkothatott.",
+              "summary": "Ez az álláspont elfogadja azt a fizikát, amelyet a fenti érv támad, és tagadja, hogy az elfogadása bármibe kerülne.\n\nHa a tájkép valóságos, akkor a kérdés egyszerűen áthelyeződik: egy multiverzum, amelyben megvan a megfelelő törvénygyártó gépezet, maga is nagyon sajátos dolog, és ami miatt egyetlen finomhangolt világegyetem magyarázatot kíván, az érvényes egy olyan együttesre is, amely megbízhatóan finomhangolt tagokat termel. Page hosszan érvelt amellett, hogy egy teremtőtől, aki értékeli a gazdag teremtést, inkább sok világegyetem volna várható, mint egy — így a felfedezés megerősítené a teizmust, nem zavarba hozná.",
               "quote": {
                 "text": "A multiverzum nem a teremtő alternatívája, hanem a teremtés egy lehetséges formája: egy Isten, aki értékeli a gazdag és változatos teremtést, jó okkal hozhat létre egy helyett sok világegyetemet, így egy multiverzum létezése arra nézve volna bizonyíték, hogy mi készült, nem pedig arra, hogy készült-e egyáltalán.",
                 "author": "Don N. Page",
@@ -111,11 +111,11 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A fenti ellenvetés az, hogy ugyanaz a regresszus még nagyobb erővel érvényes egy tervező elmére — hogy egy elme, amely képes kiválasztani az állandókat, nem egyszerű dolog, amely nem igényel magyarázatot. Ez az ellenvetés olyan érvre irányul, amely a multiverzumot vetélytársként kezeli. Itt nem vetélytárs, így az a panasz, hogy két rivális magyarázat közül a teizmus a kevésbé takarékos, csak egyetlen magyarázatot lát maga előtt.",
+              "changesTheObjection": "A fenti ellenvetés szerint ugyanez a regresszus még nagyobb erővel érvényes egy tervező elmére: egy elme, amely ki tudja választani az állandókat, nem egyszerű dolog, amely ne igényelne magyarázatot. Ez az ellenvetés olyan érvre irányul, amely a multiverzumot vetélytársnak tekinti. Itt nem vetélytárs, így az a panasz, hogy két rivális magyarázat közül a teizmus a kevésbé takarékos, csak egyetlen magyarázatot talál maga előtt.",
               "objection": {
-                "text": "Ha a multiverzum összefér Istennel, akkor a finomhangolási érv éppen ott vesztette el a bizonyító erejét, ahol egyáltalán volt neki. Egy érv, amely szerint az állandók a véletlenen valószínűtlenek, a tervezettségen pedig valószínűek, nem éli túl azt az engedményt, hogy egy minden kombinációt előállító fizikán ugyanakkor semmi különösek. Az álláspont koherens, és annak az érvnek az árán koherens, amelyről ez az oldal szól.",
+                "text": "Ha a multiverzum összefér Istennel, akkor a finomhangolási érv éppen ott vesztette el a bizonyító erejét, ahol egyáltalán volt neki. Egy érv, amely szerint az állandók a véletlen mellett valószínűtlenek, a tervezettség mellett viszont valószínűek, nem éli túl azt az engedményt, hogy egy minden kombinációt előállító fizika mellett ugyanakkor semmi különösek. Az álláspont koherens — és éppen annak az érvnek az árán koherens, amelyről ez az oldal szól.",
                 "from": "both",
-                "response": "Ez olyan ár, amelyet az álláspont vállal: az állítás az, hogy a teizmust nem fenyegeti a multiverzum, nem pedig az, hogy a multiverzum érintetlenül hagyja a tervezettségi érvet. Hogy elveszik-e bármi, attól függ, mekkora súlyt vitt az érv."
+                "response": "Ezt az árat az álláspont vállalja: az állítás az, hogy a teizmust nem fenyegeti a multiverzum, nem pedig az, hogy a multiverzum érintetlenül hagyja a tervezettségi érvet. Hogy elveszik-e valami, attól függ, mekkora súlyt vitt az érv."
               }
             }
           ]
@@ -129,9 +129,9 @@
         {
           "id": "botched-and-bungled",
           "claim": "Sok próbálkozás és egy siker régi és elégséges válasz",
-          "explanation": "Jóval az inflációs kozmológia előtt Hume észrevette, hogy egy a tartalmához illesztett világegyetem nem igényel illesztőt, ha volt elég próbálkozás. A próbálgatás elég sok kísérlet után tervezettnek látszó eredményeket hoz, a kudarcok pedig senkit nem hagynak hátra, aki írhatna róluk.\n\nA modern [[multiverzum]] ugyanez a gondolat, fizikával felszerelve. Számít, hogy nem erre a célra találták ki: az örök infláció óriási számú, eltérő alacsony energiás állandókkal bíró tartományt hoz létre, más okokból épített modellek melléktermékeként. Hogy azok a modellek helyesek-e, nyitott kérdés. Az, hogy függetlenül motiváltak, nem az.",
+          "explanation": "Jóval az inflációs kozmológia előtt Hume észrevette, hogy egy a tartalmához illesztett világegyetem nem igényel illesztőt, ha volt elég próbálkozás. Elég sok kísérlet után a próbálgatás tervezettnek látszó eredményeket hoz, a kudarcok pedig senkit nem hagynak hátra, aki írhatna róluk.\n\nA mai [[multiverzum]] ugyanez a gondolat, fizikával felszerelve. Számít, hogy nem erre a célra találták ki: az örök infláció óriási számú, eltérő kisenergiás állandójú tartományt hoz létre, más okokból épített modellek melléktermékeként. Hogy azok a modellek helyesek-e, nyitott kérdés. Az, hogy függetlenül motiváltak, nem az.",
           "quote": {
-            "text": "sok világ elfuserálódhatott és elronthatták őket, örökkévalóságon át, mielőtt ez a rendszer megszületett; sok munka ment veszendőbe; sok hiábavaló kísérlet történt; és lassú, de folytonos tökéletesedés zajlott végtelen korszakokon keresztül a világkészítés mesterségében.",
+            "text": "sok világ fuserálódhatott el és sikerülhetett félre örökkévalóságon át, mielőtt ez a rendszer megszületett; sok munka ment veszendőbe; sok hiábavaló kísérlet történt; és lassú, de folytonos tökéletesedés zajlott végtelen korszakokon át a világkészítés mesterségében.",
             "author": "David Hume",
             "work": "Dialogues Concerning Natural Religion (Beszélgetések a természetes vallásról)",
             "year": "1779",
@@ -145,14 +145,14 @@
             }
           },
           "counter": {
-            "objection": "Semmilyen bizonyíték nincs a többi világegyetemre, és a felépítésénél fogva nem is lehet. Egy hipotézis, amely határtalanul szaporítja a megfigyelhetetlen létezőket azért, hogy egy valószínűtlenség eltűnjön, nem nyilvánvalóan tudományosabb annál, amit leváltani akar; nagyon sok láthatatlan dologra való hivatkozás.",
+            "objection": "A többi világegyetemre semmilyen bizonyíték nincs, és a felépítésénél fogva nem is lehet. Egy hipotézis, amely határtalanul szaporítja a megfigyelhetetlen létezőket azért, hogy egy valószínűtlenség eltűnjön, nem nyilvánvalóan tudományosabb annál, amit le akar váltani: nagyon sok láthatatlan dologra való hivatkozás.",
             "response": "A többi tartományt nem ennek a problémának a megoldására tételezik. Megfigyelt fizikából épített modellekből hullanak ki, és ha azok a modellek helyesek, a tartományok attól függetlenül léteznek, hogy bárki érdekesnek találja-e a finomhangolási érvet. Ez más ismeretelméleti helyzet, mint megrendelésre kitalálni létezőket."
           }
         },
         {
           "id": "the-observer-is-the-sample",
           "claim": "Nem találhattuk volna magunkat olyan világegyetemben, amelyben nem létezhetnénk",
-          "explanation": "Bármely megfigyelő, bármely megfigyelőket megengedő világegyetemben, megfigyelőkkel összeférő állandókat talál. Ez nem magyarázatot igénylő egybeesés; ez a nézés aktusába beépített [[szelekciós hatás]].\n\nA pontot Douglas Adams tócsáján keresztül a legkönnyebb megérezni: a tócsa felébred egy gödörben, észreveszi, milyen bámulatosan jól illik rá a gödör, és arra jut, hogy a gödör neki készült. A tócsa fordítva látja az okságot: ő vette fel a gödör alakját. Hogy mi vagyunk-e a tócsa, pontosan ez az, amiben a két oldal nem ért egyet — de a lehetőség elég annak megmutatásához, hogy a környezetedhez való illeszkedés önmagában nem bizonyítja, hogy a környezetet elrendezték.",
+          "explanation": "Bármelyik megfigyelő, bármelyik olyan világegyetemben, amely megfigyelőket megenged, velük összeférő állandókat talál. Ez nem magyarázatot igénylő egybeesés, hanem magába a nézésbe beépített [[szelekciós hatás]].\n\nA legkönnyebben Douglas Adams tócsáján lehet megérezni: a tócsa felébred egy gödörben, észreveszi, milyen bámulatosan jól illik rá a gödör, és arra jut, hogy a gödör neki készült. Fordítva látja az okságot: ő vette fel a gödör alakját. Hogy mi vagyunk-e a tócsa, pontosan ebben nem ért egyet a két oldal — de már a lehetőség is elég annak megmutatásához, hogy a környezetünkhöz való illeszkedés önmagában nem bizonyítja, hogy a környezetet elrendezték.",
           "quote": {
             "text": "Ez olyasmi, mintha elképzelnél egy tócsát, amely egy reggel felébred, és azt gondolja: „Érdekes világban találom magam — érdekes gödörben találom magam — elég pontosan illik rám, nem igaz?”",
             "author": "Douglas Adams",
@@ -167,8 +167,8 @@
             }
           },
           "counter": {
-            "objection": "Az [[antropikus elv]] megmagyarázza, miért életet megengedő világegyetemet figyelünk meg, feltéve hogy egyáltalán megfigyelünk valamit. Azt nem magyarázza meg, miért van életet megengedő világegyetem, amelyet meg lehet figyelni. Ha kivégzőosztag elé állsz és túléled, levonhatod, hogy persze hogy életben vagy ahhoz, hogy eltűnődj rajta — és attól még jogodban áll megkérdezni, miért hibázott mind a tizenkét mesterlövész.",
-            "response": "A kivégzőosztag csak akkor működik analógiaként, ha tudjuk, hogy a mesterlövészek ritkán hibáznak, márpedig éppen ez az a valószínűség, amely nincs meg nekünk. Anélkül hogy tudnánk, milyen tartományt vehettek volna fel az állandók, nincs tény arról, mennyire meglepő a kimenetel, az analógia pedig behozza pontosan azt a számot, amelyet az érvnek meg kellene alapoznia.",
+            "objection": "Az [[antropikus elv]] megmagyarázza, miért életet megengedő világegyetemet figyelünk meg, feltéve hogy egyáltalán megfigyelünk valamit. Azt nem magyarázza meg, miért van egyáltalán életet megengedő világegyetem, amit megfigyelhetünk. Ha kivégzőosztag elé állítanak, és túléled, gondolhatod, hogy persze hogy élsz, különben nem tűnődhetnél rajta — és attól még jogodban áll megkérdezni, miért hibázott mind a tizenkét mesterlövész.",
+            "response": "A kivégzőosztag csak akkor működik analógiaként, ha tudjuk, hogy a mesterlövészek ritkán hibáznak — márpedig éppen ez az a valószínűség, ami nincs meg nekünk. Ha nem tudjuk, milyen tartományt vehettek volna fel az állandók, akkor nincs tény arról, mennyire meglepő a kimenetel; az analógia pedig éppen azt a számot hozza magával, amelyet az érvnek meg kellene alapoznia.",
             "landsOn": []
           },
           "work": "Is There an Artificial God?, beszéd a Digital Biota 2 konferencián, Cambridge",
@@ -177,8 +177,8 @@
               "id": "the-landscape",
               "label": "A tájkép",
               "heldBy": "Leonard Susskind, Martin Rees, Max Tegmark, Andrei Linde",
-              "oneLine": "A húrelmélet és az örök infláció együtt óriási számú, eltérő állandójú világegyetemet jósol, így egy olyan világegyetem, amelynek a miénkhez hasonlók az állandói, nem meglepő, hanem várható.",
-              "summary": "A multiverzum az a válasz, amelyet ennek az oldalnak a leggyakrabban tulajdonítanak, és mostanáig az egyetlen álláspont ezen az oldalon, amelyet senki nem fogalmazott meg a saját szavaival — úgy jelent meg, mint valami, amit a fenti teista érv támad. Itt a helye, a saját hangján.\n\nAz állítás nem puszta lehetőségre való hivatkozás. Úgy tűnik, a húrelmélet csillagászati számú stabil vákuumot enged meg eltérő fizikai állandókkal, az örök infláció pedig úgy tűnik, meg is valósítja őket. Ha mindkettő igaz, akkor az állandók nem tárcsák, amelyeket valaki beállított: ezek azok, amik tartományról tartományra változnak, a megfigyelők pedig szükségképpen olyan tartományban találják magukat, ahol megfigyelők létezhetnek.",
+              "oneLine": "A húrelmélet és az örök infláció együtt óriási számú, eltérő állandójú világegyetemet jósol, így egy hozzánk hasonló állandójú világegyetem nem meglepő, hanem várható.",
+              "summary": "A multiverzum az a válasz, amelyet ennek az oldalnak a leggyakrabban tulajdonítanak, és mostanáig az egyetlen álláspont ezen az oldalon, amelyet senki nem mondott ki a maga szavaival — csak úgy jelent meg, mint valami, amit a fenti teista érv támad. Itt a helye, a saját hangján.\n\nAz állítás nem puszta lehetőségre hivatkozik. Úgy tűnik, a húrelmélet csillagászati számú stabil vákuumot enged meg eltérő fizikai állandókkal, az örök infláció pedig meg is valósítja őket. Ha mindkettő áll, akkor az állandók nem tárcsák, amelyeket valaki beállított: ezek változnak tartományról tartományra, a megfigyelők pedig szükségképpen olyan tartományban találják magukat, ahol megfigyelők létezhetnek.",
               "quote": {
                 "text": "a kozmológiában és a részecskefizikában látott mintázatok legjobb magyarázata a lehetőségek nagyon sokféle tájképe és egy rendkívül nagy világegyetem – egy multiverzum",
                 "author": "Leonard Susskind",
@@ -192,12 +192,12 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A fenti ellenvetés az, hogy az antropikus elv megmagyarázza, miért figyelünk meg életet megengedő világegyetemet, feltéve hogy egyáltalán megfigyelünk valamit, de azt nem, miért van egyáltalán életet megengedő világegyetem. Ez a válasz döntő egy puszta antropikus megfigyeléssel szemben. Ezzel a változattal szemben nem áll rendelkezésre, mert ez megadja azt, ami a puszta változatból hiányzik: mechanizmust, amely ténylegesen előállítja azt az együttest, amelyen aztán a szelekciós hatás dolgozik.",
+              "changesTheObjection": "A fenti ellenvetés szerint az antropikus elv megmagyarázza, miért figyelünk meg életet megengedő világegyetemet, feltéve hogy egyáltalán megfigyelünk valamit, de azt nem, miért van egyáltalán ilyen világegyetem. Ez a felelet döntő egy puszta antropikus megfigyeléssel szemben. Ezzel a változattal szemben nem áll rendelkezésre, mert ez megadja, ami a puszta változatból hiányzik: mechanizmust, amely ténylegesen előállítja azt az együttest, amelyen aztán a szelekciós hatás dolgozik.",
               "objection": {
-                "text": "A legélesebb ellenvetés a fizikából érkezik, nem a vallásból. Lee Smolin — ateista, aki közvetlenül Susskinddel vitatkozik — azt tartja, hogy egy elmélet, amely minden lehetséges világegyetemet megjósol, semmit nem jósol meg, és hogy az antropikus érvelés ebben a formájában felszámolja azt a fegyelmet, amitől a fizika működött: nincs olyan megfigyelés, amely ellene szólhatna. A húrelmélet tájképe ráadásul nem megállapított eredmény, hanem sejtés egy olyan keretről, amely negyven év alatt egyetlen megerősített jóslatot sem tett.",
+                "text": "A legélesebb ellenvetés a fizikából érkezik, nem a vallásból. Lee Smolin — ateista, aki közvetlenül Susskinddel vitatkozik — azt tartja, hogy amelyik elmélet minden lehetséges világegyetemet megjósol, az semmit nem jósol meg, és hogy az antropikus érvelés ebben az alakjában felszámolja azt a fegyelmet, amitől a fizika működött: nincs olyan megfigyelés, amely ellene szólhatna. A húrelmélet tájképe ráadásul nem megállapított eredmény, hanem sejtés egy olyan keretről, amely negyven év alatt egyetlen megerősített jóslatot sem tett.",
                 "from": "within",
-                "sharedPremise": "elfogadja a naturalizmust és a fizika egészét, és kizárólag ezekből a premisszákból érvel amellett, hogy egy minden kimenetellel összeférő keret nem tesz jóslatokat, és hogy egy elmélet, amelyet nem lehet cáfolni, elhagyta azt a gyakorlatot, amely a fizikának a tekintélyét adta.",
-                "response": "A tájkép tesz jóslatokat — a kozmológiai állandóról, a térbeli görbületről —, és ilyen fajta antropikus érveléssel jósolták meg a kozmológiai állandó megfigyelt értékét, mielőtt megmérték volna."
+                "sharedPremise": "elfogadja a naturalizmust és a fizika egészét, és kizárólag ezekből érvel amellett, hogy egy minden kimenetellel összeférő keret nem tesz jóslatokat, és hogy amelyik elméletet nem lehet cáfolni, az elhagyta azt a gyakorlatot, amely a fizikának a tekintélyét adta.",
+                "response": "A tájkép tesz jóslatokat — a kozmológiai állandóról, a térbeli görbületről —, és éppen ilyen antropikus érveléssel jósolták meg a kozmológiai állandó megfigyelt értékét, mielőtt megmérték volna."
               }
             }
           ]
@@ -208,12 +208,12 @@
   "notes": [
     {
       "heading": "Miben van egyetértés, és miben nincs",
-      "oneLine": "A fizika sokkal kevésbé vitatott, mint a rá épített érv: a tartományok szűkössége elfogadott, az pedig nem, hogy mit jelent a szűkösség.",
-      "text": "A fizika kevésbé vitatott, mint a körülötte folyó érvelés, ezért érdemes külön venni.\n\nElfogadott: több állandó esetében egy szűk sávon kívüli értékek olyan világegyetemet adnának, amelyben nincsenek csillagok, nincs kémia, vagy nincs elég idő ahhoz, hogy bármi kialakuljon. A szén-rezonancia, a kozmológiai állandó, valamint az elektromágneses és a gravitációs erősség aránya a szokásos példák, és ezek valódi eredmények, nem apologetikai találmányok.\n\nNem elfogadott: hogy mennyire szűkek egyes sávok, ha több állandót engedünk együtt változni ahelyett, hogy egyszerre egyet; hogy az állandók egyáltalán felvehettek-e volna más értékeket, ami olyan mélyebb elmélettől függ, amely senkinek nincs meg; és hogy a „hangolás” szó nem végez-e olyan érvelési munkát, amelyet a fizika nem érdemelt ki. Aki azt mondja neked, hogy a finomhangolás bizonyított valószínűtlenség, vagy hogy jól ismert illúzió, túlment azon, ami tudható."
+      "oneLine": "A fizika sokkal kevésbé vitatott, mint a rá épített érv: a tartományok szűkössége elfogadott, az nem, hogy mit jelent.",
+      "text": "A fizika kevésbé vitatott, mint a körülötte folyó érvelés, ezért érdemes külön venni.\n\nElfogadott: több állandó esetében egy szűk sávon kívüli érték olyan világegyetemet adna, amelyben nincsenek csillagok, nincs kémia, vagy nincs elég idő ahhoz, hogy bármi kialakuljon. A szén-rezonancia, a kozmológiai állandó, valamint az elektromágneses és a gravitációs erő aránya a szokásos példák, és ezek valódi eredmények, nem apologetikai találmányok.\n\nNem elfogadott: hogy mennyire szűkek egyes sávok, ha több állandót engedünk együtt mozogni, nem pedig egyszerre csak egyet; hogy az állandók egyáltalán felvehettek-e volna más értéket, ami olyan mélyebb elméleten múlik, amely senkinek nincs meg; és hogy a „hangolás” szó nem végez-e olyan érvelési munkát, amelyre a fizika nem adott fedezetet. Aki azt mondja, hogy a finomhangolás bizonyított valószínűtlenség, vagy hogy jól ismert illúzió, túlment azon, ami tudható."
     }
   ],
-  "whereItStands": "Ez az a tervezettségi érv, amely fennmaradt. A 6. téma megmutatja, mi lett a biológiai változatával; ez jobb állapotban van, és olyan filozófusok is komolyan veszik, akiknek nincs vallási érdekeltségük benne.\n\nA nézeteltérés valódi szaktechnikai kérdésre szűkült: jelent-e bármit valószínűséget rendelni a természet állandóihoz, amikor egy világegyetemünk van, semmilyen elméletünk arról, honnan jönnek az állandók, és semmilyen módunk mintát venni. Ha ezek a valószínűségek értelmesek, akkor a finomhangolás valódi, magyarázatot igénylő adat, és a tervezettség meg a multiverzum a két asztalon lévő jelölt. Ha nem értelmesek, akkor az érv nem annyira megbukik, mint inkább el sem indul.\n\nEzt senki nem oldotta meg, és lehet, hogy a mélyebb fizika nélkül nem is megoldható. Addig pedig mindkét eleven válasz — egy tervező elme vagy világegyetemek óriási együttese — azt kéri tőled, hogy fogadj el valamit, amit nem figyelhetsz meg. Hogy melyik a kisebb falat, arra a kérdésre nem a fizika válaszol.",
-  "commonMistake": "Az ateisták leggyakrabban úgy kezelik a multiverzumot, mintha eltüntetné a kérdést, holott áthelyezi: a generátornak saját beállításai vannak. Némelyikük az egész témát fehér köpenyes kreacionizmusként intézi el, ami másfajta hiba — a finomhangolás valódi eredmény, és Hoyle nem volt apologéta.\n\nA keresztények leggyakrabban lezárt valószínűségszámításként adják elő a kis számokat. Nem azok: nincs valószínűségeloszlás az állandók fölött, és egy olyan szám idézése, mint az egy a tíz a százhuszadikonhoz, úgy, mintha megmérték volna, többet állít annál, mint amennyi tudható. Az érv becsületes változatának nincs rá szüksége.\n\nÉs mindkét oldal hajlamos átcsúszni „a világegyetem megengedi az életet” és „a világegyetem az életért van” között. Az első az adat. A második a következtetés, és éppen ezt kellett volna az érvnek megalapoznia.",
+  "whereItStands": "Ez az a tervezettségi érv, amely fennmaradt. A 6. téma megmutatja, mi lett a biológiai változatával; ez jobb állapotban van, és olyan filozófusok is komolyan veszik, akiknek semmi vallási érdekeltségük nincs benne.\n\nA nézeteltérés valódi szaktechnikai kérdésre szűkült: jelent-e bármit valószínűséget rendelni a természet állandóihoz, amikor egyetlen világegyetemünk van, semmilyen elméletünk arról, honnan jönnek az állandók, és semmilyen módunk mintát venni. Ha ezek a valószínűségek értelmesek, akkor a finomhangolás valódi, magyarázatot igénylő adat, és a tervezettség meg a multiverzum a két jelölt az asztalon. Ha nem értelmesek, akkor az érv nem megbukik, hanem el sem indul.\n\nEzt senki nem oldotta meg, és lehet, hogy a mélyebb fizika nélkül nem is megoldható. Addig pedig mindkét eleven válasz — egy tervező elme vagy világegyetemek óriási együttese — azt kéri tőled, hogy fogadj el valamit, amit nem figyelhetsz meg. Hogy melyik a kisebb falat, arra nem a fizika felel.",
+  "commonMistake": "Az ateisták leggyakrabban úgy kezelik a multiverzumot, mintha eltüntetné a kérdést, holott áthelyezi: a generátornak saját beállításai vannak. Van, aki az egész témát fehér köpenyes kreacionizmusként intézi el, ami másfajta hiba — a finomhangolás valódi eredmény, és Hoyle nem volt apologéta.\n\nA keresztények leggyakrabban lezárt valószínűségszámításként adják elő a kis számokat. Nem azok: nincs valószínűségeloszlás az állandók fölött, és egy olyan számot idézni, mint az egy a tíz a százhuszadikonhoz, mintha megmérték volna, többet állít annál, amennyi tudható. Az érv becsületes változatának nincs is rá szüksége.\n\nMindkét oldal hajlamos átcsúszni „a világegyetem megengedi az életet” és „a világegyetem az életért van” között. Az első az adat. A második a következtetés — éppen ezt kellett volna az érvnek megalapoznia.",
   "sources": [
     {
       "title": "The Universe: Past and Present Reflections",
