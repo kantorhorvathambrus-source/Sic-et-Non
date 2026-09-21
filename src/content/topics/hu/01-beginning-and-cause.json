@@ -5,40 +5,40 @@
   "title": "Volt-e kezdete a világegyetemnek, és kell-e a kezdethez ok?",
   "category": "existence-of-god",
   "status": "open",
-  "realQuestion": "Ez az érv régi, iszlám eredetű, és elég rövid ahhoz, hogy elférjen egy szalvétán. Aminek létezni kezd, annak van oka. A világegyetem létezni kezdett. Tehát a világegyetemnek van oka.\n\nÉppen a rövidsége a baj: szinte mindenki, aki elismétli, a három mozgó alkatrésze közül egy másikról vitatkozik. Hogy volt-e kezdete a világegyetemnek, kozmológusokra tartozó kérdés, és a válaszuk óvatosabb annál, mint ahogy azt bármelyik oldal be szokta vallani. Hogy a létezni kezdéshez kell-e ok, filozófiai kérdés, és nem az a magától értetődő igazság, aminek hangzik. Hogy ez az ok bármiben is hasonlítana-e Istenre, harmadik kérdés, amelyhez az érv önmagában hozzá sem nyúl.\n\nEz az oldal a középsőről szól, mert ott van az eleven nézeteltérés.",
+  "realQuestion": "Ez az érv régi, iszlám eredetű, és elég rövid ahhoz, hogy elférjen egy szalvétán. Aminek van kezdete, annak oka is van. A világegyetemnek van kezdete. Tehát a világegyetemnek oka is van.\n\nÉppen a rövidsége a baj: aki elismétli, szinte mindig a három alkatrésze közül egy másikról vitatkozik. Hogy volt-e kezdete a világegyetemnek, kozmológusokra tartozó kérdés, és óvatosabban felelnek rá, mint ahogy bármelyik oldal beismerni szokta. Hogy ahhoz, hogy valami létezni kezdjen, kell-e ok, filozófiai kérdés, és nem az a magától értetődő igazság, aminek hangzik. Hogy ez az ok hasonlítana-e bármiben Istenre, harmadik kérdés, amelyhez az érv önmagában hozzá sem nyúl.\n\nEz az oldal a középsőről szól, mert ott van az eleven nézeteltérés.",
   "distinctions": [
     {
       "label": "Volt-e kezdete a világegyetemnek?",
-      "gloss": "Fizikai kérdés. Az őszinte válasz az, hogy a bizonyítékok arrafelé mutatnak, és a kezdetet elkerülő modellek sincsenek kizárva. A lenti jegyzetben fejtjük ki, nem itt vitatjuk meg.",
+      "gloss": "Fizikai kérdés. Az őszinte válasz az, hogy a bizonyítékok arrafelé mutatnak, a kezdetet elkerülő modellek viszont nincsenek kizárva. Az alábbi jegyzet kifejti; itt nem vitatjuk.",
       "activeHere": false
     },
     {
-      "label": "Kell-e ok a létezni kezdéshez?",
-      "gloss": "Filozófiai kérdés, amelyet semennyi kozmológia nem dönt el. Ez ennek az oldalnak a vitája.",
+      "label": "Kell-e ok ahhoz, hogy valami létezni kezdjen?",
+      "gloss": "Filozófiai kérdés, amelyet semennyi kozmológia nem dönt el. Ezen az oldalon erről folyik a vita.",
       "activeHere": true
     },
     {
       "label": "Isten volna-e ez az ok?",
-      "gloss": "További lépés, amelyet az érv önmagában nem tesz meg. Ahhoz, hogy „egy októl” eljussunk bármihez, amit érdemes imádni, a 2. és az 5. téma érvei kellenek, és itt meg sem próbáljuk.",
+      "gloss": "További lépés, amelyet az érv önmagában nem tesz meg. Ahhoz, hogy „egy októl” eljussunk bármihez, amit érdemes imádni, a 2. és az 5. téma érvei kellenek, és itt meg sem kíséreljük.",
       "activeHere": false
     }
   ],
   "glossary": [
     {
       "term": "ok",
-      "definition": "Ebben az érvben az, ami megmagyarázza, miért létezik valami ahelyett, hogy nem létezne. Nem feltétlenül lökés vagy robbanás: a kérdés a függésről szól, nem a mechanikáról."
+      "definition": "Ebben az érvben az, ami számot ad róla, miért létezik valami ahelyett, hogy nem létezne. Nem feltétlenül lökés vagy robbanás: a kérdés a függésről szól, nem a mechanikáról."
     },
     {
       "term": "létezni kezd",
-      "definition": "Egy első pillanatban jön létre, úgy, hogy előtte nincs semmi. A világegyetemre ezt alkalmazni különös, mert nincs olyan „előtte”, ami után létrejöhetne."
+      "definition": "Az, hogy valami egy első pillanatban jön létre, és előtte nincs semmi. A világegyetemre alkalmazni különös, mert nincs olyan „előtte”, ami után létrejöhetne."
     },
     {
       "term": "kvantumvákuum",
-      "definition": "Nem a semmi. Fizikai rendszer, energiával és törvényekkel, amelyben részecskék jelennek meg és tűnnek el. Amikor a fizikusok azt mondják, hogy részecskék a semmiből keletkeznek, rendszerint erre gondolnak."
+      "definition": "Nem a semmi. Energiával és törvényekkel bíró fizikai rendszer, amelyben részecskék jelennek meg és tűnnek el. Amikor a fizikusok azt mondják, hogy részecskék a semmiből keletkeznek, rendszerint erre gondolnak."
     },
     {
       "term": "szingularitás",
-      "definition": "Olyan pont, ahol egy elmélet számai a végtelenbe futnak, és az elmélet nem ad többé választ. Jelölheti az idő valódi peremét, de lehet, hogy csak annak a peremét, amit az általános relativitáselmélet le tud írni."
+      "definition": "Olyan pont, ahol egy elmélet számai a végtelenbe futnak, és az elmélet nem ad többé választ. Jelölheti az idő valódi peremét, de lehet, hogy csak annak a peremét, ameddig az általános relativitáselmélet elér."
     }
   ],
   "sides": [
@@ -48,10 +48,10 @@
       "arguments": [
         {
           "id": "out-of-nothing",
-          "claim": "A semmiből nem lesz semmi, és ez nem tudományos felfedezés, hanem az a feltevés, amelyen a tudomány működik",
-          "explanation": "Az oksági premissza nem abból vont általánosítás, hogy sok dolog elkezdődését néztük végig. Inkább olyan szabály, amely nélkül nem tudunk gondolkodni. Ha a dolgok egyszerűen ok nélkül kezdődhetnének, semmi nem indokolná, hogy éppen most miért nem bukkan fel akármi — és semmi nem indokolná, hogy a tudósok egyáltalán okokat keressenek, márpedig az életüket ezzel töltik.\n\nWilliam Lane Craig, aki az 1970-es években újraélesztette az érvet, ide helyezi a súlyt, nem a fizikára. Ha a [[létezni kezd]] kifejezés egyáltalán érvényes a világegyetemre, akkor azt kérdezni, mi ad számot róla, nem különös kérdés, hanem a hétköznapi.",
+          "claim": "A semmiből nem lesz semmi, és ez nem tudományos felfedezés, hanem az a feltevés, amelyre a tudomány épül",
+          "explanation": "Az oksági premisszát nem úgy kaptuk, hogy sok dolog kezdetét végignézve általánosítottunk. Inkább olyan szabály, amely nélkül nem tudunk gondolkodni. Ha a dolgok egyszerűen ok nélkül kezdődhetnének, semmi nem szólna az ellen, hogy éppen most bukkanjon fel akármi — és semmi nem indokolná, hogy a tudósok egyáltalán okokat keressenek, márpedig az életüket ezzel töltik.\n\nWilliam Lane Craig, aki az 1970-es években újraélesztette az érvet, nem a fizikára helyezi a súlyt, hanem ide. Ha a [[létezni kezd]] kifejezés egyáltalán érvényes a világegyetemre, akkor azt kérdezni, mi ad számot róla, nem különös kérdés, hanem a legkézenfekvőbb.",
           "quote": {
-            "text": "Aminek létezni kezd, annak van oka a létezésének. A világegyetem létezni kezdett. Tehát a világegyetem létezésének van oka.",
+            "text": "Mindannak, ami létezni kezd, van oka a létezésének. A világegyetem létezni kezdett. Tehát a világegyetem létezésének van oka.",
             "author": "William Lane Craig",
             "work": "The Kalām Cosmological Argument",
             "year": "1979",
@@ -65,8 +65,8 @@
             }
           },
           "counter": {
-            "objection": "Minden [[ok]], amelyet valaha bárki megfigyelt, az időn belül történt, olyasmivel, ami már létező anyagból áll, egy törvényekkel bíró világegyetemben. A premissza kiváló szabály a világegyetemen belüli eseményekre, és semmi nem szól amellett, hogy magára a világegyetemre is vonatkozna. Odáig kiterjeszteni nem magától értetődő; éppen ez az, amit bizonyítani kellene.",
-            "response": "Ez az ellenvetés túl sokat bizonyít. Ha a világegyetemen belül tanult szabályokat nem lehet rá magára alkalmazni, akkor a másik oldal által használt kozmológiát sem, sem a logikát, sem a valószínűséget. Valaminek át kell érnie, és egy ennyire alapvető elvet különös éppen ott feladni, ahol kényelmetlenné válik.",
+            "objection": "Minden [[ok]], amelyet valaha bárki megfigyelt, az időn belül működött, már létező anyagon, olyan világegyetemben, amelyben törvények vannak. A premissza kiváló szabály a világegyetemen belüli eseményekre, de semmi nem szól amellett, hogy magára a világegyetemre is vonatkozna. Odáig kiterjeszteni nem magától értetődő lépés: éppen ez az, amit bizonyítani kellene.",
+            "response": "Ez az ellenvetés túl sokat bizonyít. Ha a világegyetemen belül tanult szabályokat nem alkalmazhatjuk rá magára, akkor a másik oldal kozmológiáját sem, és a logikát meg a valószínűségszámítást sem. Valaminek mégiscsak érvényben kell maradnia odaát, és egy ennyire alapvető elvet különös éppen ott feladni, ahol kényelmetlenné válik.",
             "landsOn": []
           },
           "variants": [
@@ -74,8 +74,8 @@
               "id": "essentially-ordered",
               "label": "Ok itt és most, nem a kezdetnél",
               "heldBy": "Aquinói Tamás; Edward Feser, David Oderberg, Gaven Kerr",
-              "oneLine": "A lényeges érv egyáltalán nem egy első pillanatról szól: arról szól, hogy bárminek, aminek a létezése származtatott, szüksége van valamire, ami minden pillanatban fenntartja.",
-              "summary": "A tomista hagyomány megadja azt, amit a kalám vitat — egy időbeli kezdet nélküli világegyetem semmiféle zavart nem okozna neki —, és azzal érvel, hogy ez semmin nem változtat.\n\nA különbség az időben elnyúló sorozat, amelyben minden ok elvégezte a dolgát és eltűnt, és az olyan sorozat között áll fenn, amelyben minden tag éppen most tartatik a helyén. A macska a padlón, a padló a gerendákon, a gerendák az alapon: ez a második fajta. Vedd el a talajt, és az egész elrendezés ebben a pillanatban omlik össze, nem valamikor később. E felfogás szerint a világ végig ilyen fajta sorozat, és nem az első eseményben végződik, hanem abban az egyetlen dologban, amelynek a létezése nem származik semmi másból.",
+              "oneLine": "A lényeges érv egyáltalán nem egy első pillanatról szól, hanem arról, hogy aminek a létezése máshonnan származik, azt minden pillanatban fenn is kell tartania valaminek.",
+              "summary": "A tomista hagyomány megadja, amit a kalám vitat — egy időbeli kezdet nélküli világegyetem a legkevésbé sem hozná zavarba —, és azzal érvel, hogy ez semmin nem változtat.\n\nA különbség az időben elnyúló sorozat és a most is állva tartott sorozat között van. Az elsőben minden ok elvégezte a dolgát és eltűnt; a másodikban minden tagot éppen ebben a pillanatban tart a helyén valami. A macska a padlón, a padló a gerendákon, a gerendák az alapon: ez a második fajta. Ha kivesszük alóla a talajt, az egész elrendezés most omlik össze, nem majd valamikor. E felfogás szerint a világ végig ilyen sorozat, és nem az első eseményben végződik, hanem abban az egyetlen dologban, amelynek a létezése nem származik semmi másból.",
               "quote": {
                 "text": "Az arisztotelészi bizonyítás nem egymást követő események sorának elején álló első okra mutat, hanem fenntartó okra, amely minden pillanatban létben tartja a véges és változékony dolgokat.",
                 "author": "Edward Feser",
@@ -90,11 +90,11 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A fenti ellenvetés az, hogy minden megfigyelt ok az időn belül, már létező anyagon működött, ezért a premissza nem terjeszthető ki a világegyetem egészére. Ez a változat soha nem terjeszti ki így. Nem azt állítja, hogy a világegyetem elkezdődött, és ezért volt oka; azt állítja, hogy ami származtatottan létezik, azt most tartják fenn — és ez az érv ugyanígy futna egy olyan világegyetemben is, amelynek egyáltalán nincs első pillanata.",
+              "changesTheObjection": "A fenti ellenvetés szerint minden megfigyelt ok az időn belül, már létező anyagon működött, ezért a premissza nem terjeszthető ki a világegyetem egészére. Ez a változat soha nem is terjeszti ki így. Nem azt állítja, hogy a világegyetem elkezdődött, és ezért volt oka; azt állítja, hogy ami nem önmagától létezik, azt most tartja fenn valami — és ez az érv ugyanígy futna olyan világegyetemben is, amelynek egyáltalán nincs első pillanata.",
               "objection": {
-                "text": "Az érvhez kell egy megkülönböztetés azok között a dolgok között, amelyek létezése származtatott, és amelyeké nem, és ez a megkülönböztetés végzi az egész munkát, még mielőtt bármilyen oksági állítás elhangzana. A bírálók szerint lehet, hogy a sorozatnak egyszerűen nincs végpontja, vagy hogy maga a világegyetem a nem származtatott tag — az a válasz pedig, hogy a világegyetem összetett, és ezért nem lehet nem származtatott, feltételezi az aktus és a potencia arisztotelészi metafizikáját, amelyet a hagyományon kívül szinte senki nem fogad el. Egy bizonyítás, amelynek a premisszái csak egyetlen iskolán belül állnak rendelkezésre, nem nyilvánvalóan bizonyítás.",
+                "text": "Az érvhez kell egy megkülönböztetés aközött, aminek a létezése máshonnan származik, és ami önmagától létezik — és ez a megkülönböztetés végzi el az egész munkát, még mielőtt bármilyen oksági állítás elhangzana. A bírálók szerint lehet, hogy a sorozatnak egyszerűen nincs végpontja, vagy hogy éppen a világegyetem az, ami önmagától létezik. Az a válasz pedig, hogy a világegyetem összetett, és ezért nem lehet önmagától való, az aktus és a potencia arisztotelészi metafizikáját feltételezi, amelyet a hagyományon kívül szinte senki nem fogad el. Amelyik bizonyítás premisszái csak egyetlen iskolán belül állnak rendelkezésre, az nem magától értetődően bizonyítás.",
                 "from": "atheist",
-                "response": "Minden érvnek vannak premisszái, amelyeket valaki elutasít. Az aktus-potencia elemzést a maga jogán védik, nem pusztán feltételezik, az alternatíva pedig — származtatott létezések sora úgy, hogy sehol nincs nem származtatott — éppen az, amit tagadnak, nem pedig érintetlenül hagyott lehetőség."
+                "response": "Minden érvnek vannak premisszái, amelyeket valaki elutasít. Az aktus-potencia elemzést a maga jogán védik, nem pusztán feltételezik; az alternatíva pedig — csupa máshonnan származó létezés úgy, hogy sehol nincs önmagától való — éppen az, amit tagadnak, nem pedig érintetlenül hagyott lehetőség."
               }
             }
           ]
@@ -102,9 +102,9 @@
         {
           "id": "an-actual-beginning",
           "claim": "A bizonyítékok valódi kezdetre mutatnak, nem csak az elméleteink határára",
-          "explanation": "A 2003-as Borde–Guth–Vilenkin-tétel megmutatta, hogy semmilyen világegyetem, amely átlagosan tágult, nem terjeszthető ki végtelenül a múltba — beleértve azokat az inflációs és ciklikus modelleket is, amelyeket éppen a kezdet elkerülésére építettek. A geometriáról szóló eredmény, és nem függ attól, melyik modell bizonyul helyesnek.\n\nAlexander Vilenkin, a tétel egyik szerzője, egy 2012-es konferencián nyersen fogalmazott. Nem teista, és semmilyen teológiai következtetést nem von le belőle — éppen ezért érdemes őt idézni, nem pedig valakit, aki levon.",
+          "explanation": "A 2003-as Borde–Guth–Vilenkin-tétel megmutatta, hogy egyetlen átlagosan táguló világegyetem sem terjeszthető ki végtelenül a múltba — beleértve azokat az inflációs és ciklikus modelleket is, amelyeket éppen a kezdet elkerülésére építettek. Ez a geometriáról szóló eredmény, és nem függ attól, melyik modell bizonyul végül helyesnek.\n\nAlexander Vilenkin, a tétel egyik szerzője, egy 2012-es konferencián nyersen fogalmazott. Nem teista, és semmilyen teológiai következtetést nem von le belőle — éppen ezért érdemes őt idézni, nem pedig valakit, aki levon.",
           "quote": {
-            "text": "Minden bizonyíték, amellyel rendelkezünk, azt mondja, hogy a világegyetemnek volt kezdete.",
+            "text": "Minden bizonyíték, amivel rendelkezünk, azt mondja, hogy a világegyetemnek volt kezdete.",
             "author": "Alexander Vilenkin",
             "work": "Did the Universe Have a Beginning?, előadás a State of the Universe konferencián, Cambridge",
             "year": "2012",
@@ -117,10 +117,10 @@
             }
           },
           "counter": {
-            "objection": "A tétel klasszikus téridőkre szab korlátot, és senki nem gondolja, hogy a legkorábbi világegyetem klasszikus lett volna. Amit megmutat, az az, hogy a jelenlegi leírásunk összeomlik — és mindig ezt mutatja egy [[szingularitás]]. Vilenkin maga azóta olyan kvantumgravitációs modelleken dolgozott, amelyekben a határ nem abszolút kezdet, és nincs olyan elmélet, amelyben megbíznánk, és amely ilyen messzire visszanyúlna.",
-            "response": "Elfogadva, és éppen ezért nem itt nyugszik az érv. A pont szűkebb: azok a modellek, amelyeket kifejezetten a kezdet elkerülésére terveztek, nem jártak sikerrel, és jelenleg a múltban örök világegyetem a nehezebben tartható álláspont, nem a biztonságos alapeset.",
+            "objection": "A tétel klasszikus téridőkre szab korlátot, márpedig senki nem gondolja, hogy a legkorábbi világegyetem klasszikus lett volna. Azt mutatja meg, hogy a jelenlegi leírásunk omlik össze — és egy [[szingularitás]] mindig ezt mutatja. Vilenkin maga azóta olyan kvantumgravitációs modelleken dolgozott, amelyekben a határ nem abszolút kezdet, és nincs olyan elmélet, amelyben megbíznánk, és amely ilyen messzire visszanyúlna.",
+            "response": "Elfogadva, és éppen ezért nem itt nyugszik az érv. Az állítás szűkebb ennél: azok a modellek, amelyeket kifejezetten a kezdet elkerülésére terveztek, nem jártak sikerrel, és ma a múltban örök világegyetem a nehezebben tartható álláspont, nem a biztonságos alapeset.",
             "objectionFrom": "within",
-            "sharedPremise": "maradéktalanul elfogadja a Borde-Guth-Vilenkin-tételt és a megfigyelési kozmológiát, és pusztán ezekből az eredményekből érvel amellett, hogy egy klasszikus téridőkről szóló tétel nem dönti el, mi történt ott, ahol a klasszikus leírás felmondja a szolgálatot — márpedig az érvnek éppen erre a tartományra van szüksége."
+            "sharedPremise": "maradéktalanul elfogadja a Borde-Guth-Vilenkin-tételt és a megfigyelési kozmológiát, és pusztán ezekből érvel amellett, hogy egy klasszikus téridőkről szóló tétel nem dönti el, mi történt ott, ahol a klasszikus leírás felmondja a szolgálatot — márpedig az érvnek éppen erre a tartományra van szüksége."
           }
         }
       ]
@@ -132,9 +132,9 @@
         {
           "id": "the-premise-eats-itself",
           "claim": "Ha mindennek kell ok, akkor Istennek is; ha valaminek nem kell, az akár a világegyetem is lehet",
-          "explanation": "Ez a legrégebbi ellenvetés, és rendszerint túl gyorsan intézik el. A védők azt felelik, hogy a premissza nem az, hogy „mindennek van oka”, hanem az, hogy „mindennek, ami létezni kezd, van oka”, Isten pedig nem kezdett létezni — így az ellenvetés célt téveszt.\n\nEz a válasz működik, de nézzük meg, mibe kerül. A premissza így már semmilyen önálló munkát nem végez: azt mondja ki, hogy aminek kezdete van, ahhoz ok kell, márpedig az egyetlen dolog, amelyről bárki azt állítja, hogy elkezdődött, a világegyetem. Az érv csendben azzá az állítássá vált, amelyet bizonyítania kellett volna. Russell változata nyersebb a mai szakirodalomnál, de ugyanazt a puha pontot találja el.",
+          "explanation": "Ez a legrégebbi ellenvetés, és rendszerint túl gyorsan intézik el. A védők azt felelik, hogy a premissza nem az, hogy „mindennek van oka”, hanem az, hogy „mindennek van oka, ami létezni kezd”, Isten pedig nem kezdett létezni — így az ellenvetés célt téveszt.\n\nA válasz működik; érdemes megnézni, mibe kerül. A premissza ezután már semmilyen önálló munkát nem végez: azt mondja ki, hogy aminek kezdete van, ahhoz ok kell, márpedig az egyetlen dolog, amelyről bárki állítja, hogy elkezdődött, maga a világegyetem. Az érv észrevétlenül azzá az állítássá vált, amelyet bizonyítania kellett volna. Russell változata nyersebb a mai szakirodalomnál, de ugyanoda tapint.",
           "quote": {
-            "text": "Ha mindennek szükségképpen van oka, akkor Istennek is kell hogy legyen oka. Ha lehet bármi ok nélkül, akkor az éppúgy lehet a világ, mint Isten, úgyhogy annak az érvnek nem lehet semmi érvénye.",
+            "text": "Ha mindennek szükségképpen van oka, akkor Istennek is kell hogy legyen oka. Ha lehet bármi ok nélkül, akkor az éppúgy lehet a világ, mint Isten, úgyhogy annak az érvnek semmi érvénye nincs.",
             "author": "Bertrand Russell",
             "work": "Why I Am Not a Christian (Miért nem vagyok keresztény)",
             "year": "1927",
@@ -147,16 +147,16 @@
             }
           },
           "counter": {
-            "objection": "A megkülönböztetés nem az érv megmentésére kitalált kibúvó. Sokkal régebbi, mint maga az ellenvetés, és valódi különbségen nyugszik: ami mindig is létezett, annak nem kell számot adnia arról, hogyan kezdődött, mert nem kezdődött. Russell olyan premisszát támad, amelyet az érv védelmezői közül nyolcszáz éve senki nem vall.",
-            "response": "Akkor az érvnek független okra van szüksége ahhoz, hogy a világegyetemet olyasminek tekintse, ami elkezdődött, Istent pedig ne — és ez az ok nem lehet maga az érv. Enélkül a „szükségszerű létező” csak címke arra, amiről már előre eldöntötted, hogy nem magyarázod meg."
+            "objection": "A megkülönböztetés nem az érv megmentésére kitalált kibúvó. Jóval régebbi, mint maga az ellenvetés, és valódi különbségen nyugszik: ami mindig is létezett, arról nem kell számot adni, hogyan kezdődött, mert nem kezdődött. Russell olyan premisszát támad, amelyet az érv védelmezői közül nyolcszáz éve senki nem vall.",
+            "response": "Akkor viszont az érvnek független oka kell legyen arra, hogy a világegyetemet olyasminek tekintse, ami elkezdődött, Istent pedig ne — és ez az ok nem lehet maga az érv. Enélkül a „szükségszerű létező” csak címke arra, amiről már eleve eldöntötted, hogy nem magyarázod meg."
           }
         },
         {
           "id": "causation-inside-time",
-          "claim": "Az okozáshoz kell egy előtte és egy utána, az első pillanatban pedig nincs előtte",
-          "explanation": "Minden ok, amelyet értünk, időt vesz igénybe: az egyik állapot a másikhoz vezet. Ha az idő első pillanata az első pillanat, akkor nincs korábbi pillanat, amelyben egy ok elhelyezkedhetne, és az „okozott” szót olyan értelemben használjuk, amellyel soha senki nem találkozott.\n\nSean Carroll változata szerint az ok követelése inkább gondolkodási szokás, mint fizikai törvény. Az alapvető fizika nem okok láncolataként írja le a világot; mintázatokat ír le, amelyek fennállnak. Egy első pillanattal bíró, ok nélküli világegyetem nem inkoherens, csak szokatlan — a szokatlanság pedig nem érv.",
+          "claim": "Az okozáshoz kell egy előbb és egy utóbb, az első pillanatban pedig nincs előbb",
+          "explanation": "Minden ok, amelyet ismerünk, időbe telik: az egyik állapot a másikhoz vezet. Ha az idő első pillanata csakugyan az első, akkor nincs korábbi pillanat, amelybe egy ok beleférne, és az „okozott” szót olyan értelemben használjuk, amellyel soha senki nem találkozott.\n\nSean Carroll szerint az ok követelése inkább gondolkodási szokás, mint fizikai törvény. Az alapvető fizika nem okok láncolataként írja le a világot, hanem fennálló mintázatokként. Egy önmagában megálló világegyetem, amelynek van legkorábbi pillanata, nem inkoherens, csak szokatlan — a szokatlanság pedig nem érv.",
           "quote": {
-            "text": "Carroll álláspontja szerint a modern fizika egyáltalán nem okok, hanem mintázatok fogalmaiban írja le a világegyetemet; egy önmagában álló, legkorábbi pillanattal bíró világegyetem semmilyen törvényt nem sért, és nincs szüksége külső okra; az az intuíció pedig, amely mégis okot követel, a hétköznapi életből hozott szokás, nem pedig a világról tett felfedezés.",
+            "text": "Carroll álláspontja szerint a modern fizika egyáltalán nem okokkal, hanem mintázatokkal írja le a világegyetemet; egy önmagában megálló, legkorábbi pillanattal rendelkező világegyetem semmilyen törvényt nem sért, és nincs szüksége külső okra; az az intuíció pedig, amely mégis okot követel, a hétköznapi életből hozott szokás, nem pedig a világról tett felfedezés.",
             "author": "Sean Carroll",
             "work": "Does the Universe Need God?",
             "year": "2012",
@@ -170,8 +170,8 @@
             }
           },
           "counter": {
-            "objection": "Az, hogy „az egyenletek nem említenek okokat”, a jelölésről szóló tény, nem a valóságról. A fizika személyeket és ígéreteket sem említ. Az oknak ráadásul nem kell időben korábbinak lennie: a hagyomány mindig megengedte az olyan okot, amely egyidejű azzal, amit okoz, vagy kívül áll rajta — a lényeg a függés, nem a sorrend.",
-            "response": "Ha egyszer az oknak nem kell korábbinak lennie, nem kell fizikainak lennie, és nem kell semmilyen leírható módon hatnia, jogos megkérdezni, mi marad a szóból. Az érv ereje az ok hétköznapi értelméből jött, és éppen ezt az értelmet adták fel azért, hogy működjön.",
+            "objection": "Az, hogy „az egyenletek nem említenek okokat”, a jelölésről szól, nem a valóságról. A fizika személyeket és ígéreteket sem említ. Az oknak ráadásul nem kell időben korábbinak lennie: a hagyomány mindig megengedte az olyan okot, amely egyidejű azzal, amit okoz, vagy kívül esik rajta — a lényeg a függés, nem a sorrend.",
+            "response": "Ha egyszer az oknak nem kell korábbinak lennie, nem kell fizikainak lennie, és nem kell semmilyen leírható módon hatnia, jogos megkérdezni, mi maradt a szóból. Az érv ereje az ok hétköznapi értelméből jött, és éppen ezt az értelmet adták fel azért, hogy működjön.",
             "landsOn": []
           },
           "variants": [
@@ -179,8 +179,8 @@
               "id": "quantum-nothing",
               "label": "Az üres tér nem stabil",
               "heldBy": "Lawrence Krauss; Alexander Vilenkin és Alan Guth a kvantumkozmológiáról",
-              "oneLine": "Egy világegyetem ok nélkül is létrejöhet az üres térből, mert az üres tér kvantumrendszer, a kvantumrendszerek pedig nem maradnak nyugton.",
-              "summary": "Ezzel a változattal találkozott a legtöbb olvasó, és erősebb állítás, mint a fölötte lévő. Nem azt mondja, hogy az oksági elv nem terjeszthető ki az időn túlra; azt mondja, hogy az elv már a világon belül is hamis, és látjuk, ahogyan megbukik.\n\nA kvantumkozmológiai leírás szerint egy nulla összenergiájú világegyetem megjelenhet olyan állapotból, amelyben nincs anyag, nincs sugárzás és nincs téridő — ugyanaz a fizika hozza létre, amelytől a vákuum részecskéktől pezseg. Hogy ez az állapot megérdemli-e a „semmi” nevet, pontosan ez az, amiről a vita szól.",
+              "oneLine": "Világegyetem ok nélkül is létrejöhet az üres térből, mert az üres tér kvantumrendszer, a kvantumrendszerek pedig nem maradnak nyugton.",
+              "summary": "Ezzel a változattal találkozott a legtöbb olvasó, és erősebbet állít, mint a fölötte lévő. Nem azt mondja, hogy az oksági elvet nem lehet az időn túlra kiterjeszteni; azt mondja, hogy az elv már a világon belül is hamis, és látjuk, ahogyan megbukik.\n\nA kvantumkozmológiai leírás szerint egy nulla összenergiájú világegyetem megjelenhet olyan állapotból, amelyben nincs anyag, nincs sugárzás és nincs téridő — ugyanaz a fizika hozza létre, amelytől a vákuum részecskéktől pezseg. Hogy ez az állapot megérdemli-e a „semmi” nevet, pontosan ez az, amiről a vita szól.",
               "quote": {
                 "text": "A semmi instabil. Mindig létre fog hozni valamit.",
                 "author": "Lawrence M. Krauss",
@@ -194,11 +194,11 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A fenti ellenvetés az, hogy „az egyenletek nem említenek okokat” a jelölésről szóló tény, nem pedig a világról. Ez a válasz olyan állásponthoz szól, amely szerint az oksági kérdés fel sem merül; ez a változat viszont azt mondja, hogy az oksági kérdés felmerül, és választ is kap — a fizikától, mechanizmussal együtt. Sokkal kitettebb állítás, és sokkal inkább tesztelhető.",
+              "changesTheObjection": "A fenti ellenvetés szerint az, hogy „az egyenletek nem említenek okokat”, a jelölésről szól, nem a világról. Ez a válasz olyan állásponthoz szól, amely szerint az oksági kérdés fel sem merül; ez a változat viszont azt mondja, hogy a kérdés felmerül, és választ is kap — a fizikától, mechanizmussal együtt. Sokkal kitettebb állítás, és sokkal inkább tesztelhető.",
               "objection": {
-                "text": "A [[kvantumvákuum]] nem semmi. Fizikai rendszer, energiával, szerkezettel és törvényekkel, és az a világegyetem, amely belőle bukkan elő, valami nagyon is meghatározottból bukkan elő. Sean Carroll, ennek az oldalnak ugyanarról a feléről, olyan nyíltan fogalmazta meg a bírálatot, mint bármelyik teista: a könyv összemossa a filozófus semmijét a fizikus vákuumával, és a cím olyan kérdésre ígér választ, amellyel a tartalom nem foglalkozik. Hogy maguk a törvények honnan származnak, ekkor ugyanaz a kérdés egy lépéssel hátrébb.",
+                "text": "A [[kvantumvákuum]] nem a semmi. Energiával, szerkezettel és törvényekkel bíró fizikai rendszer, és az a világegyetem, amely belőle bukkan elő, valami nagyon is meghatározottból bukkan elő. Sean Carroll, ennek az oldalnak ugyanarról a feléről, olyan nyíltan bírálta, mint bármelyik teista: a könyv összemossa a filozófus semmijét a fizikus vákuumával, és a cím olyan kérdésre ígér választ, amellyel a tartalom nem foglalkozik. Hogy maguk a törvények honnan vannak, ekkor ugyanaz a kérdés egy lépéssel hátrébb.",
                 "from": "within",
-                "sharedPremise": "maradéktalanul elfogadja a kvantumtérelméletet és a kozmológiai modelleket, és kizárólag ezekből a premisszákból érvel amellett, hogy az az állapot, amelyből kiindulnak, tulajdonságokkal bíró fizikai rendszer, így semminek nevezni nem a kérdésre adott válasz, hanem témaváltás.",
+                "sharedPremise": "maradéktalanul elfogadja a kvantumtérelméletet és a kozmológiai modelleket, és kizárólag ezekből érvel amellett, hogy az az állapot, amelyből kiindulnak, tulajdonságokkal bíró fizikai rendszer, így semminek nevezni nem válasz a kérdésre, hanem témaváltás.",
                 "response": "Lehet, hogy a „semminek” nincs is más, koherens értelme. Egy tér, idő és anyag nélküli állapot annyira közel van a semmihez, amennyire bármi lehet, és olyan semmit követelni, amelynek egyáltalán nincsenek tulajdonságai, talán annyi, mint olyasminek a magyarázatát követelni, ami nem is létezhetne."
               }
             }
@@ -210,12 +210,12 @@
   "notes": [
     {
       "heading": "Mit mond valójában a kozmológia",
-      "oneLine": "Az ősrobbanás-modell azt írja le, ahogyan a világegyetem egy forró, sűrű korai állapotból tágul; hogy ez az állapot volt-e az idő kezdete, nincs eldöntve, és mindkét oldal rendszeresen azt állítja, hogy az volt.",
-      "text": "Mindkét oldal túlállítja itt a dolgot, ezért érdemes külön kifejteni.\n\nAz ősrobbanás-modell azt írja le, ahogyan a világegyetem egy rendkívül forró és sűrű korai állapotból tágul, nagyjából 13,8 milliárd évvel ezelőttről. Eddig nincs kétség. Amit viszont nem mond ki egyenesen, az az, hogy ez volt mindennek a kezdete: ha elég messzire visszafuttatjuk az egyenleteket, az általános relativitáselmélet [[szingularitást|szingularitás]] ad, amelyet általában úgy olvasnak, hogy az elmélet mondja fel a szolgálatot, nem pedig úgy, hogy egy valóságos első pillanat leírása. Ahhoz, hogy megmondjuk, mi történt ott, a gravitáció kvantumelméletére volna szükség, és ilyen még nincs kiforrott formában.\n\nA Borde–Guth–Vilenkin-tétel valódi megszorítás, és a múltban örök modellek nagy osztályát valóban kizárja. Nem bizonyítéka annak, hogy az idő elkezdődött. Aki azt mondja neked, hogy a kozmológia megállapította a kezdetet, vagy hogy kizárta, az előreszaladt a bizonyítékokhoz képest.\n\nEgy félreértést érdemes elhárítani. A fizikusok néha azt mondják, hogy részecskék a semmiből keletkeznek, a népszerűsítő beszámolók pedig ezt úgy veszik, hogy a tudomány a nemlétezésből hoz létre valamit. Amire gondolnak, az a [[kvantumvákuum]], amely energiával, szerkezettel és törvényekkel bíró fizikai rendszer. Akármi is egyébként, nem az a semmi, amelyről ez az érv szól."
+      "oneLine": "Az ősrobbanás-modell azt írja le, ahogyan a világegyetem egy forró, sűrű korai állapotból tágul; hogy ez az állapot volt-e az idő kezdete, nincs eldöntve — és mindkét oldal rendszeresen azt állítja, hogy az volt.",
+      "text": "Mindkét oldal többet állít itt, mint amennyit szabadna, ezért érdemes külön kifejteni.\n\nAz ősrobbanás-modell azt írja le, ahogyan a világegyetem egy rendkívül forró, sűrű korai állapotból tágul, nagyjából 13,8 milliárd éve. Eddig nincs vita. Amit viszont nem mond ki egyenesen, az az, hogy ez volt mindennek a kezdete: ha elég messzire visszafuttatjuk az egyenleteket, az általános relativitáselmélet [[szingularitást|szingularitás]] ad, amelyet általában úgy olvasnak, hogy itt az elmélet mondja fel a szolgálatot, nem pedig úgy, hogy egy valóságos első pillanat leírása. Ahhoz, hogy megmondjuk, mi történt ott, a gravitáció kvantumelméletére volna szükség, és ilyen elmélet még nincs kiforrott formában.\n\nA Borde–Guth–Vilenkin-tétel valódi megszorítás, és a múltban örök modellek nagy osztályát csakugyan kizárja. Arra nem bizonyíték, hogy az idő elkezdődött. Aki azt mondja neked, hogy a kozmológia megállapította a kezdetet, vagy hogy kizárta, az többet mond, mint amennyit a bizonyítékok engednek.\n\nEgy félreértést érdemes elhárítani. A fizikusok néha azt mondják, hogy részecskék a semmiből keletkeznek, a népszerűsítő beszámolók pedig ezt úgy veszik, hogy a tudomány a nemlétezésből hoz létre valamit. Amire gondolnak, az a [[kvantumvákuum]], amely energiával, szerkezettel és törvényekkel bíró fizikai rendszer. Akármi is egyébként, nem az a semmi, amelyről ez az érv szól."
     }
   ],
-  "whereItStands": "A fizika valóban eldöntetlen, és valószínűleg egy ideig az is marad, így az az érv, amely erősen a kozmológiára támaszkodik, olyan talajra épít, amely elmozdulhat.\n\nA filozófiai fele az, ahol a valódi nézeteltérés van, és szűkebb, mint amilyennek látszik. Szinte senki nem gondolja, hogy a hétköznapi életben ok nélkül pattannak elő dolgok a létezésbe. A kérdés az, hogy ez a bizonyosság átvihető-e a világegyetem egészére — olyan esetre, amelyben minden vonás hiányzik, amitől az elv magától értetődő volt. Mindkét oldal extrapolál; abban nem értenek egyet, melyik extrapoláció a biztonságosabb.\n\nÉrdemes észrevenni, hogy még a teljes siker is kevesebbet ad, mint amennyinek látszik. Az érv a világegyetem okát adja, annak kimutatása pedig, hogy ez az ok személyes, jó, vagy érdeklődik bárki iránt, teljesen külön munka. Az érv védelmezői ezzel egyetértenek, és ki is mondják.",
-  "commonMistake": "Az ateisták leggyakrabban a „hát Istent ki csinálta?” kérdéshez nyúlnak, amelyre az érv régen megfelelt. Van mögötte egy sokkal jobb ellenvetés — hogy a megkülönböztetés a kezdődő és a nem kezdődő dolgok között végzi az egész munkát, és senki nem érdemelte ki függetlenül —, és a gyengébbhez nyúlva ezt elpazarolják.\n\nA keresztények leggyakrabban lezártként adják elő a kozmológiát, amikor nem az, majd egy fizikus óvatos mondatát jóváhagyásként kezelik. Az eredmény az, hogy az érv hitele a legfrissebb cikkel együtt emelkedik és süllyed, márpedig ez rossz hely annak az ügynek, amely fontos neked.\n\nMindkét oldal elbeszél a másik mellett arról, hogy a három kérdés közül melyikről is van szó. Rengeteg eszmecsere abból áll, hogy az egyik fél az oksági premisszát védi, miközben a másik a kozmológiát támadja, és egyikük sem veszi észre.",
+  "whereItStands": "A fizika valóban eldöntetlen, és valószínűleg egy ideig az is marad, így aki erősen a kozmológiára támaszkodik, mozgó talajra épít.\n\nA valódi nézeteltérés a filozófiai felén van, és szűkebb, mint amilyennek látszik. Szinte senki nem gondolja, hogy a hétköznapi életben ok nélkül keletkeznének dolgok. A kérdés az, hogy ez a bizonyosság átvihető-e a világegyetem egészére — olyan esetre, amelyből hiányzik minden, amitől az elv magától értetődő volt. Mindkét oldal extrapolál; abban nem értenek egyet, melyik extrapoláció a biztonságosabb.\n\nÉrdemes észrevenni, hogy még a teljes siker is kevesebbet hoz, mint amennyinek látszik. Az érv a világegyetem okát adja meg; annak kimutatása, hogy ez az ok személyes, jó, vagy érdeklődik bárki iránt, teljesen külön munka. Az érv védelmezői ezzel egyetértenek, és ki is mondják.",
+  "commonMistake": "Az ateisták leggyakrabban a „hát Istent ki csinálta?” kérdéshez nyúlnak, amelyre az érv régen megfelelt. Van mögötte egy sokkal jobb ellenvetés — hogy a kezdődő és a nem kezdődő dolgok megkülönböztetése végzi el az egész munkát, és független alátámasztást soha nem kapott —, és a gyengébbhez nyúlva ezt elpazarolják.\n\nA keresztények leggyakrabban lezártként adják elő a kozmológiát, holott nem az, majd egy fizikus óvatos mondatát jóváhagyásként kezelik. Az érv hitele így a legfrissebb cikkel együtt emelkedik és süllyed, márpedig egy ügyet, amely fontos neked, rossz ilyen talajra építeni.\n\nMindkét oldal elbeszél a másik mellett arról, hogy a három kérdés közül melyikről is van szó. Rengeteg eszmecsere abból áll, hogy az egyik fél az oksági premisszát védi, miközben a másik a kozmológiát támadja, és egyikük sem veszi észre.",
   "sources": [
     {
       "title": "In Defense of the Kalam Cosmological Argument",

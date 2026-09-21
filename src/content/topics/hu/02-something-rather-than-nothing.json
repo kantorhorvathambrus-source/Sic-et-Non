@@ -5,40 +5,40 @@
   "title": "Miért van inkább valami, mint semmi?",
   "category": "existence-of-god",
   "status": "open",
-  "realQuestion": "A semmi egyszerűbb lett volna. Se csillagok, se atomok, se törvények, se tér, amiben bármi lehetne. Ez az állapot nem szorul magyarázatra, nem kell hozzá eredet és nem kell hozzá fenntartás. Mégis itt van egy világegyetem.\n\nA kérdés nem az ősrobbanásról szól. Ha kiderülne, hogy a világegyetem végtelenül régi, és sosem kezdődött el, akkor is inkább itt volna, mint nem, és a kérdés érintetlen maradna. Valami furcsábbat kérdez: miért van egyáltalán bármi, aminek története lehet?\n\nAz egyik oldal szerint egy ennyire alapvető kérdésre kell hogy legyen válasz, és az egyetlen válaszfajta, amely működne, olyasvalami, ami nem is lehetett volna nemlétező. A másik szerint a válasz követelése olyan szokás, amelyet túlfeszítettünk, és a magyarázatnak egy ponton meg kell állnia.",
+  "realQuestion": "A semmi egyszerűbb lett volna. Se csillagok, se atomok, se törvények, se tér, amiben bármi elférne. Az az állapot nem szorul magyarázatra, nem kell hozzá eredet, és nem kell fenntartani sem. Mégis itt van egy világegyetem.\n\nA kérdés nem az ősrobbanásról szól. Ha kiderülne, hogy a világegyetem végtelenül régi, és sosem kezdődött el, akkor is inkább volna, mint nem volna, és a kérdés érintetlen maradna. Valami furcsábbat kérdez: miért van egyáltalán bármi, aminek története lehet?\n\nAz egyik oldal szerint egy ennyire alapvető kérdésre kell hogy legyen válasz, és egyedül olyasmi volna válasz rá, ami nem is lehetne nemlétező. A másik szerint a válasz követelése olyan szokás, amelyet túlfeszítettünk, és a magyarázatnak egy ponton meg kell állnia.",
   "distinctions": [
     {
       "label": "Miért van egyáltalán bármi?",
-      "gloss": "Miért létezés, és miért nem egyáltalán semmi. Ez ennek az oldalnak a vitája, és a világegyetem tartalmáról szóló semmilyen felfedezés nem válaszolja meg.",
+      "gloss": "Miért létezés, és miért nem egyáltalán semmi. Ezen az oldalon erről folyik a vita, és a világegyetem tartalmáról szóló semmilyen felfedezés nem válaszolja meg.",
       "activeHere": true
     },
     {
       "label": "Miért indult el a világegyetem?",
-      "gloss": "Egy első pillanatról szóló kérdés, és más kérdés: egy örök világegyetem is magyarázatra szorulna ezen az oldalon. 1. téma.",
+      "gloss": "Egy első pillanatról szóló kérdés, és nem ugyanez: egy örök világegyetem is magyarázatra szorulna itt. Az 1. téma.",
       "activeHere": false
     },
     {
       "label": "Miért ilyen a világegyetem, és miért nem másmilyen?",
-      "gloss": "Miért ezek az állandók, ezek a törvények, ez a berendezkedés. Szintén más kérdés, az 5. témában tárgyaljuk.",
+      "gloss": "Miért ezek az állandók, ezek a törvények, ez a berendezkedés. Szintén más kérdés; az 5. téma tárgyalja.",
       "activeHere": false
     }
   ],
   "glossary": [
     {
       "term": "esetleges",
-      "definition": "Valami, ami létezik, de nem is létezhetett volna (filozófiai szakszóval: kontingens). Te esetleges vagy. És láthatólag mindaz is, amit valaha láttál."
+      "definition": "Valami, ami létezik, de nem is létezhetett volna (filozófiai szakszóval: kontingens). Te magad is esetleges vagy. És láthatólag minden más is, amit valaha láttál."
     },
     {
       "term": "szükségszerű létező",
-      "definition": "Valami, ami nem is lehetett volna nemlétező, úgyhogy annak a kérdésnek, miért létezik inkább, mint nem, a válasza bele van építve abba, hogy mi ő. Hogy van-e bármi ilyen, éppen ez a vita."
+      "definition": "Valami, ami nem is lehetne nemlétező: arra a kérdésre, hogy miért van inkább, mint nincs, már az megadja a választ, hogy micsoda. Hogy létezik-e bármi ilyen, éppen ez a vita."
     },
     {
       "term": "elégséges alap elve",
-      "definition": "Az az állítás, hogy mindennek van magyarázata — vagy valami másban, vagy a saját természetében. Erős, nehezen bizonyítható, és nehéz úgy feladni, hogy vele ne adnánk fel a hétköznapi gondolkodást is."
+      "definition": "Az az állítás, hogy mindennek van magyarázata — vagy valami másban, vagy a saját természetében. Erős elv, nehezen bizonyítható, és nehéz úgy feladni, hogy vele ne adnánk fel a hétköznapi gondolkodást is."
     },
     {
       "term": "nyers tény",
-      "definition": "Valami, ami igaz, de egyáltalán nincs rá magyarázat: nem úgy, hogy egyelőre megmagyarázatlan, hanem hogy megmagyarázatlan, pont. Az ateista válasz itt rendszerint az, hogy a világegyetem ilyen."
+      "definition": "Valami, ami igaz, de egyáltalán nincs rá magyarázat: nem úgy, hogy egyelőre nincs meg, hanem hogy nincs, és kész. Az ateista válasz itt rendszerint az, hogy a világegyetem ilyen."
     },
     {
       "term": "kompozíciós hiba",
@@ -47,13 +47,13 @@
   ],
   "sides": [
     {
-      "label": "Valami, ami nem is lehetett volna nemlétező",
+      "label": "Valami, ami nem is lehetne nemlétező",
       "position": "theist",
       "arguments": [
         {
           "id": "nothing-is-simpler",
-          "claim": "A semmi az az állapot, amely nem szorulna magyarázatra, tehát a valami szorul",
-          "explanation": "Leibniz észrevette, hogy a kérdés nem üres. A nemlétezés nem versenytárs tényállás, amely ugyanarra az állásra pályázna; hanem mindenféle állás hiánya. Semminek nem kell történnie ahhoz, hogy semmi legyen. A valami a kilógó eset.\n\nAz elve az, hogy mindennek van magyarázata: vagy valamiben rajta kívül, vagy abban, hogy mi ő. Alkalmazd ezt a világegyetemre, és két eredmény egyikét kapod: vagy valami más magyarázza, vagy a létezése valahogy bele van építve a saját természetébe. A másodikat a fizikai világegyetemről szinte senki nem állítja. Marad az első — vagy [[az elégséges alap elvének|elégséges alap elve]] feladása.",
+          "claim": "A semmi az az állapot, amely nem szorulna magyarázatra — tehát a valami szorul",
+          "explanation": "Leibniz észrevette, hogy a kérdés nem üres. A nemlétezés nem olyan versenytárs tényállás, amely ugyanarra az állásra pályázna: nem is állás, hanem minden állás hiánya. Semminek nem kell történnie ahhoz, hogy semmi legyen. A valami a kilógó eset.\n\nAz elve az, hogy mindennek van magyarázata: vagy valamiben rajta kívül, vagy abban, hogy micsoda. Alkalmazzuk ezt a világegyetemre, és két eredmény egyike adódik: vagy valami más magyarázza, vagy a létezése valahogy bele van írva a saját természetébe. A másodikat a fizikai világegyetemről szinte senki nem állítja. Marad az első — vagy [[az elégséges alap elvének|elégséges alap elve]] feladása.",
           "quote": {
             "text": "Miért van inkább valami, mint semmi? Hiszen a semmi egyszerűbb és könnyebb, mint a valami.",
             "author": "Gottfried Wilhelm Leibniz",
@@ -69,8 +69,8 @@
             }
           },
           "counter": {
-            "objection": "Az elvet kimondják, nem megalapozzák. A világegyetemen belül gyönyörűen működik, ahol a magyarázatokat úgy találjuk meg, hogy megnézzük, de semmilyen független ok nincs azt gondolni, hogy a létezésre mint olyanra is áll. És ha egyetemesen áll, akkor is bajban van: akkor Isten létezése is magyarázatra szorulna, márpedig azt mondani rá, hogy önmagát magyarázza, nem nyilvánvalóan több, mint a megállás egy módja.",
-            "response": "A feladásának ára van, amelyet ritkán számolnak ki. Ha egyes dolgoknak egyszerűen nincs magyarázatuk, akkor az, hogy nem találunk magyarázatot, soha semminek nem számít bizonyítékául, és az a gondolatmenet is elveszti az alapját, amely egyáltalán elvezetett a kérdéshez. A választás nem egy elv és semmilyen elv között van, hanem egy elv és az önkényesség között.",
+            "objection": "Az elvet kimondják, de nem alapozzák meg. A világegyetemen belül gyönyörűen működik, ahol a magyarázatot úgy találjuk meg, hogy utánanézünk; arra viszont semmi független ok nem szól, hogy a létezésre mint olyanra is állna. És ha egyetemesen áll, akkor is bajban van: akkor Isten létezése is magyarázatra szorulna, azt mondani rá, hogy önmagát magyarázza, pedig nem nyilvánvalóan több annál, mint hogy itt megálltunk.",
+            "response": "A feladásának ára van, amelyet ritkán számolnak össze. Ha egyes dolgoknak egyszerűen nincs magyarázatuk, akkor az, hogy nem találunk magyarázatot, soha semmire nem számít bizonyítéknak, és maga a gondolatmenet is elveszti az alapját, amely egyáltalán elvezetett a kérdéshez. A választás nem egy elv és a semmilyen elv között van, hanem egy elv és az önkényesség között.",
             "landsOn": []
           },
           "variants": [
@@ -78,8 +78,8 @@
               "id": "classical-theism",
               "label": "Isten nem létező a létezők között",
               "heldBy": "Aquinói Tamás; Edward Feser, David Bentley Hart, Brian Davies",
-              "oneLine": "A válasz nem az, hogy történetesen létezik még egy dolog szükségszerűen, hanem az, hogy minden, aminek a lényege nem foglalja magában a létezést, attól az egytől függ, amelynek a lényege maga a létezés.",
-              "summary": "A klasszikus teizmus és a fenti érv ugyanarra a következtetésre jut, de olyan utakon, amelyeket a saját védelmezőik lényegesen különbözőnek tartanak — és a köztük lévő vita eleven a keresztény filozófián belül: Feser és Craig nyomtatásban is szemben állnak benne.\n\nItt nem egy magyarázó elvet alkalmazunk a világegyetemre. Itt kétféle dolog megkülönböztetéséről van szó: azokról, amelyeknél az, hogy mi valami, és az, hogy van, szétválik, és arról az egyről, amelynél nem. Az első fajtából bármi a létezését önmagán kívülről kapja. Ami ezt a függést lezárja, az nem egy szokatlanul hatalmas tétel a dolgok leltárában; e felfogás szerint egyáltalán nem tétel a leltárban.",
+              "oneLine": "A válasz nem az, hogy akad még egy dolog, amely történetesen szükségszerűen létezik, hanem az, hogy minden, aminek a lényegéhez nem tartozik hozzá a létezés, attól az egytől függ, amelynek a lényege maga a létezés.",
+              "summary": "A klasszikus teizmus és a fenti érv ugyanarra a következtetésre jut, de olyan utakon, amelyeket a saját védelmezőik lényegesen különbözőnek tartanak — és a köztük lévő vita eleven a keresztény filozófián belül: Feser és Craig nyomtatásban is szemben állnak benne.\n\nItt nem egy magyarázó elvet alkalmazunk a világegyetemre, hanem kétféle dolgot különböztetünk meg: azokat, amelyeknél az, hogy micsoda valami, és az, hogy van, szétválik, és azt az egyet, amelynél nem. Az első fajtából bármi önmagán kívülről kapja a létezését. Ami ezt a függést lezárja, az nem egy szokatlanul hatalmas tétel a dolgok leltárában; e felfogás szerint egyáltalán nem tétel a leltárban.",
               "quote": {
                 "text": "Isten a saját lényege által maga a lét",
                 "author": "Aquinói Tamás",
@@ -94,21 +94,21 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A fenti ellenvetés az, hogy a magyarázó elvet kimondják, nem megalapozzák — hogy semmi nem jogosít fel arra, hogy a világegyetem egészére magyarázatot követeljünk. Ez a változat nem egy magyarázatról szóló általános elven fut. Egy kétféle létezésről szóló konkrét állításon fut, és ott kell támadni: a lényeg és a létezés megkülönböztetésének tagadásával, vagy azzal, hogy maga a világegyetem a második fajtába tartozik. Az az érv, hogy az elv bizonyítatlan, nem talál maga előtt elvet.",
+              "changesTheObjection": "A fenti ellenvetés szerint a magyarázó elvet kimondják, de nem alapozzák meg — semmi nem jogosít fel arra, hogy a világegyetem egészére magyarázatot követeljünk. Ez a változat nem magyarázatról szóló általános elven fut, hanem kétféle létezésről szóló konkrét állításon, és ott is kell támadni: a lényeg és a létezés megkülönböztetésének tagadásával, vagy azzal, hogy maga a világegyetem tartozik a második fajtába. Az az érv, hogy az elv bizonyítatlan, nem talál maga előtt elvet.",
               "objection": {
-                "text": "A megkülönböztetés maga az egész érv, és csak egyetlen metafizikán belül áll rendelkezésre. Az arisztotelészi-tomista filozófián kívül a „lényeg” nem olyasmi, amivel egy létező a megkívánt értelemben rendelkezik, és az az állítás, hogy a létezés hozzáadódik, olyan állítás, amelyet a legtöbb filozófus megfogalmazni sem tud, nemhogy értékelni. Van egy ára is, amelyet a védelmezői vállalnak, a bírálói pedig végzetesnek tartanak: egy Istent, aki nem létező a létezők között, és a szokásos értelemben nincsenek tulajdonságai, a gyakorlatban nagyon nehéz megkülönböztetni attól a nyers szükségszerűségtől, amellyel a másik oldalt vádolják, hogy beérte vele.",
+                "text": "A megkülönböztetés maga az egész érv, és csak egyetlen metafizikán belül áll rendelkezésre. Az arisztotelészi-tomista filozófián kívül a „lényeg” nem olyasmi, amivel egy létező a megkívánt értelemben rendelkeznék, és azt az állítást, hogy a létezés hozzáadódik, a legtöbb filozófus megfogalmazni sem tudja, nemhogy értékelni. Van egy ára is, amelyet a védelmezői vállalnak, a bírálói viszont végzetesnek tartanak: egy Istent, aki nem létező a létezők között, és a szokásos értelemben nincsenek tulajdonságai, a gyakorlatban nagyon nehéz megkülönböztetni attól a nyers szükségszerűségtől, amellyel a másik oldalt vádolják, hogy beérte vele.",
                 "from": "atheist",
-                "response": "Az, hogy egy álláspontnak saját metafizikára van szüksége, nem ellenvetés vele szemben, a megkülönböztetést pedig hosszan végigérvelik, nem pedig feltételezik. A megkülönböztethetetlenség vádja visszafelé is működik: egy Isten, aki csak egy nagyon nagy tétel volna a leltárban, pontosan az a dolog volna, amelyről a másik oldal azt mondja, hogy magyarázatra szorul."
+                "response": "Az, hogy egy álláspontnak saját metafizikára van szüksége, önmagában nem ellenvetés vele szemben, a megkülönböztetést pedig hosszan végigérvelik, nem pusztán feltételezik. A megkülönböztethetetlenség vádja visszafelé is működik: egy Isten, aki csak egy nagyon nagy tétel volna a leltárban, pontosan az volna, amiről a másik oldal azt mondja, hogy magyarázatra szorul."
               }
             }
           ]
         },
         {
           "id": "contingent-all-the-way",
-          "claim": "Olyan dolgok gyűjteménye, amelyek nem is létezhettek volna, nem azzal magyarázza önmagát, hogy nagy",
-          "explanation": "Minden, amivel valaha találkoztunk, [[esetleges]]: létezik, és nem is létezhetett volna. Aquinói Tamás változata szerint ha minden ilyen volna, akkor semmi nem volna ott, ami számot adna arról, miért megy inkább az egész, mint hogy ne menne — bármeddig nyúlik is vissza a lánc, a szemek hozzáadása nem pótolja azt, ami minden egyes szemből hiányzik.\n\nA következtetés nem egy lépésben „tehát Isten”. Hanem az, hogy léteznie kell valaminek, ami nem esetleges — egy [[szükségszerű létezőnek|szükségszerű létező]] —, és az az érv, hogy ez bármennyire is hasonlítana egy vallás Istenére, külön érv, amelyet a klasszikus hagyomány külön is adott elő.",
+          "claim": "Csupa olyasmi, ami nem is létezhetett volna, nem azzal magyarázza meg magát, hogy sok van belőle",
+          "explanation": "Minden, amivel valaha találkoztunk, [[esetleges]]: létezik, de nem is létezhetett volna. Aquinói Tamás változata szerint ha minden ilyen volna, akkor semmi nem adna számot arról, miért megy az egész ahelyett, hogy ne menne — bármeddig nyúlik is vissza a lánc, az újabb szemek nem pótolják azt, ami minden egyes szemből hiányzik.\n\nA következtetés nem egy lépésben „tehát Isten”, hanem az, hogy léteznie kell valaminek, ami nem esetleges — egy [[szükségszerű létezőnek|szükségszerű létező]]. Hogy ez bármennyire is hasonlít-e egy vallás Istenére, külön érv, amelyet a klasszikus hagyomány külön is adott elő.",
           "quote": {
-            "text": "Találunk a természetben olyan dolgokat, amelyek lehetnek és nem lehetnek, mivel úgy találjuk, hogy keletkeznek és elpusztulnak, és következésképpen lehetnek és nem lehetnek.",
+            "text": "Találunk a természetben olyan dolgokat, amelyek lehetnek is, meg nem is, minthogy azt látjuk, hogy keletkeznek és elpusztulnak, és következésképpen lehetnek is, meg nem is.",
             "author": "Aquinói Tamás",
             "work": "Summa Theologiae I, q. 2, a. 3, a harmadik út, a Fathers of the English Dominican Province angol fordítása",
             "year": "c. 1265",
@@ -121,8 +121,8 @@
             }
           },
           "counter": {
-            "objection": "Ez [[kompozíciós hibának|kompozíciós hiba]] látszik. Minden embernek van anyja; az emberi fajnak nincs. Az „egyenként minden dolog esetleges” állításról az „egészében esetleges” állításra lépni pontosan az a lépés, amely máshol elbukik, és az érv semmi okot nem ad arra, miért működne itt.",
-            "response": "A válasz az, hogy az esetlegesség nem olyan, mint a kicsinység vagy az, hogy valakinek van anyja. Ha egy gyűjtemény minden egyes tagja nem is létezhetett volna, akkor a gyűjtemény sem létezhetett volna, hiszen semmi nem maradna belőle. Ez a következtetés nem nyilvánvalóan érvénytelen — hogy nyilvánvalóan érvényes-e, éppen ez a vita."
+            "objection": "Ez [[kompozíciós hibának|kompozíciós hiba]] látszik. Minden embernek van anyja; az emberi fajnak nincs. Attól, hogy „egyenként minden dolog esetleges”, eljutni odáig, hogy „az egész is esetleges”, pontosan az a lépés, amely máshol elbukik, és az érv egyetlen okot sem ad arra, miért működne itt.",
+            "response": "A válasz az, hogy az esetlegesség nem olyan tulajdonság, mint a kicsinység vagy az, hogy valakinek van anyja. Ha egy gyűjtemény minden egyes tagja nem is létezhetett volna, akkor maga a gyűjtemény sem létezhetett volna, hiszen semmi nem maradna belőle. Ez a következtetés nem nyilvánvalóan érvénytelen — hogy nyilvánvalóan érvényes-e, éppen ez a vita."
           }
         }
       ]
@@ -134,7 +134,7 @@
         {
           "id": "just-there",
           "claim": "Minden magyarázat megáll valahol, és a világegyetem ésszerű hely a megállásra",
-          "explanation": "A teista egy olyan létezőnél áll meg, amelynek a létezése nem szorul további számadásra. Az ateista egy lépéssel korábban áll meg, a világegyetemnél. Mindketten megállnak; a nézeteltérés csak arról szól, hol, és egyik álláspont sem nevezheti önkényesnek a másikat anélkül, hogy a saját megállásáért felelne.\n\nRussell ezt mondta Frederick Coplestonnak a rádióban 1948-ban, és ez a szóváltás máig a patthelyzet legvilágosabb megfogalmazása. Ez nem a gondolkodás megtagadása. Az az állítás, hogy valahol be kell lépnie egy [[nyers ténynek|nyers tény]], és hogy egy szükségszerű létező hozzáadása nem annyira megszünteti a nyers tényt, mint inkább átnevezi.",
+          "explanation": "A teista olyan létezőnél áll meg, amelynek a létezése nem szorul további számadásra. Az ateista egy lépéssel korábban áll meg, a világegyetemnél. Mindketten megállnak; a nézeteltérés csak arról szól, hol — és egyik oldal sem nevezheti önkényesnek a másikat anélkül, hogy a saját megállásáért felelne.\n\nRussell ezt mondta Frederick Coplestonnak a rádióban 1948-ban, és ez a szóváltás máig a patthelyzet legvilágosabb megfogalmazása. Nem a gondolkodás megtagadása. Az az állítás, hogy valahol be kell lépnie egy [[nyers ténynek|nyers tény]], és hogy egy szükségszerű létező hozzáadása nem annyira megszünteti a nyers tényt, mint inkább átnevezi.",
           "quote": {
             "text": "Azt mondanám, hogy a világegyetem egyszerűen itt van, és ennyi.",
             "author": "Bertrand Russell",
@@ -149,8 +149,8 @@
             }
           },
           "counter": {
-            "objection": "A két megállási pont nem egyenértékű. Egy szükségszerű létezőnél megállni azt jelenti, hogy olyasminél állunk meg, aminek a természete számot ad a létezéséről; a világegyetemnél megállni azt jelenti, hogy olyasminél állunk meg, ami láthatóan lehetett volna másmilyen is, és egyszerűen nem kérdezünk tovább. Az egyik magyarázat, a másik döntés arról, hogy nem akarunk magyarázatot.",
-            "response": "Ez csak akkor működik, ha a „szükségszerű létező” összefüggő fogalom, amely valódi munkát végez, nem pedig annak a helynek a neve, ahol a kérdéseket leállították. Senki nem mutatott fel megvizsgálható szükségszerű létezőt, és az, hogy „a természete számot ad a létezéséről”, állítás, nem bizonyítás.",
+            "objection": "A két megállási pont nem egyenértékű. Egy szükségszerű létezőnél megállni annyi, mint olyasminél megállni, aminek a természete számot ad a létezéséről; a világegyetemnél megállni annyi, mint olyasminél, amely láthatóan lehetett volna másmilyen is — és egyszerűen nem kérdezünk tovább. Az egyik magyarázat, a másik döntés arról, hogy nem akarunk magyarázatot.",
+            "response": "Ez csak akkor működik, ha a „szükségszerű létező” összefüggő fogalom, amely valódi munkát végez, nem pedig annak a helynek a neve, ahol a kérdezés abbamaradt. Megvizsgálható szükségszerű létezőt még senki nem mutatott fel, és az, hogy „a természete számot ad a létezéséről”, állítás, nem bizonyítás.",
             "landsOn": []
           },
           "variants": [
@@ -158,8 +158,8 @@
               "id": "pseudo-question",
               "label": "A kérdés rosszul van feltéve",
               "heldBy": "Adolf Grünbaum; Sean Carroll",
-              "oneLine": "A létezés magyarázatának követelése azon nyugszik, hogy a semmit tekintjük a természetes alapesetnek, márpedig semmi okunk nincs azt gondolni, hogy az volna.",
-              "summary": "Ez élesebb álláspont a fentinél, és nem is ért vele egyet. Ahol a nyers tényre hivatkozó válasz elfogadja a kérdést, és nem hajlandó megválaszolni, ez itt tagadja, hogy volna jól feltett kérdés.\n\nAz érv olyan előfeltevést támad, amelyet rendszerint senki nem mond ki: hogy a semmi az, amire számítani lehetne, és ezért a valami szorul indokra. Grünbaum ezt a feltevést Leibnizig vezeti vissza, és azt kérdezi, mi jogosíthatna fel rá egyáltalán. Arról, hogy mi spontán vagy természetes, a dolgok világán belülről van érzékünk, és ez semmit nem mond arról, hogy egy világegyetem, amelyben semmi nincs, meglepetésmentes eset lett volna-e.",
+              "oneLine": "A létezés magyarázatának követelése azon nyugszik, hogy a semmit tekintjük a természetes alapesetnek, márpedig semmi okunk nincs így tekinteni rá.",
+              "summary": "Ez élesebb álláspont a fentinél, és nem is ért vele egyet. Ahol a nyers tényre hivatkozó válasz elfogadja a kérdést, és csak megválaszolni nem hajlandó, ez itt tagadja, hogy egyáltalán jól feltett kérdésről volna szó.\n\nAz érv olyan előfeltevést támad, amelyet rendszerint senki nem mond ki: hogy a semmi az, amire számítani lehetne, tehát a valami szorul indokra. Grünbaum ezt a feltevést Leibnizig vezeti vissza, és azt kérdezi, mi jogosíthatna fel rá egyáltalán. Hogy mi spontán és mi természetes, arról a dolgok világán belülről van érzékünk, és ez semmit nem mond arról, meglepetés volna-e egy világegyetem, amelyben semmi nincs.",
               "quote": {
                 "text": "Leibniz magyarázatra vonatkozó követelése rosszul elgondolt, eleve kudarcra ítélt vállalkozás, amely álkérdést vet fel",
                 "author": "Adolf Grünbaum",
@@ -173,19 +173,19 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A fenti ellenvetés az, hogy a két megállási pont nem egyenértékű: egy szükségszerű létezőnél megállni azt jelenti, hogy olyasminél állunk meg, aminek a természete számot ad a létezéséről, egy nyers tényként vett világegyetemnél megállni pedig nem. Ez az összevetés feltételezi, hogy van magyarázati követelés, amelynek jól vagy rosszul meg lehet felelni. Ez a változat tagadja a követelést, így az az érv, hogy az egyik válasz jobb rá, mint a másik, nem őt célozza.",
+              "changesTheObjection": "A fenti ellenvetés szerint a két megállási pont nem egyenértékű: egy szükségszerű létezőnél megállni annyi, mint olyasminél megállni, aminek a természete számot ad a létezéséről, egy nyers tényként vett világegyetemnél megállni pedig nem az. Ez az összevetés feltételezi, hogy van magyarázati követelés, amelynek jól vagy rosszul meg lehet felelni. Ez a változat magát a követelést tagadja, így az az érv, hogy az egyik válasz jobb rá a másiknál, nem őt célozza.",
               "objection": {
-                "text": "Egy kérdést rosszul feltettnek nyilvánítani a lehető legerősebb állítás, és a legnehezebben megalapozható. Ezt a kérdést háromezer éve teszik fel az emberek, látható zavar nélkül, és az, hogy „semmi nem jogosít fel arra, hogy a semmire számíts”, nem ugyanaz, mint az, hogy „nincs mit megmagyarázni” — az, hogy létezik egy világegyetem, tény marad, bármik voltak is az elvárásaink. Az álláspont a saját oldalának többi részéhez is nehezen illik: a fenti, nyers tényre hivatkozó válasz elismeri, hogy a kérdés valódi, és egyszerűen nincs rá válasz, amit nem tehetne, ha a kérdés rosszul volna megfogalmazva.",
+                "text": "Egy kérdést rosszul feltettnek nyilvánítani a lehető legerősebb állítás, és a legnehezebben megalapozható. Ezt a kérdést háromezer éve teszik fel az emberek, minden látható zavar nélkül, és az, hogy „semmi nem jogosít fel arra, hogy a semmire számíts”, nem ugyanaz, mint az, hogy „nincs mit megmagyarázni”: hogy létezik egy világegyetem, tény marad, bármik voltak is az elvárásaink. Az álláspont a saját oldalának többi részéhez is nehezen illik: a fenti, nyers tényre hivatkozó válasz elismeri, hogy a kérdés valódi, csak nincs rá felelet — ezt pedig nem tehetné, ha a kérdés rosszul volna feltéve.",
                 "from": "theist",
-                "response": "Az, hogy egy kérdést régóta feltesznek, nem bizonyítja, hogy jól van feltéve; több régóta fennálló kérdésről kiderült, hogy valami hamisat előfeltételez. A másik válasszal való feszültség valóságos, és éppen ezért van ez a szakasz."
+                "response": "Az, hogy egy kérdést régóta feltesznek, nem bizonyítja, hogy jól van feltéve; nem egy régi kérdésről derült ki, hogy valami hamisat előfeltételez. A másik válasszal való feszültség valóságos, és éppen ezért van ez a szakasz."
               }
             }
           ]
         },
         {
           "id": "the-parts-and-the-whole",
-          "claim": "Ha már minden részről számot adtunk, nem marad további dolog, amiről számot kellene adni",
-          "explanation": "Tegyük fel, hogy a világegyetem történetének minden eseményét megmagyarázza egy korábbi, hézagok nélkül. Mi marad? E nézet szerint semmi: az a követelés, hogy az egész gyűjteményre is legyen magyarázat, az egyes tagok magyarázatán felül, olyasmit követel, ami nem létezik.\n\nHume két évszázaddal a mai vita előtt tette meg ezt a megjegyzést, és a legtöbb ateista filozófus ma is ezt mondja. A „világegyetem” szó arra csábít, hogy a gyűjteményt külön tárgyként kezeljük, amelynek saját számadás jár. Nem külön tárgy. Hanem maguk a dolgok.",
+          "claim": "Ha már minden részről számot adtunk, nem marad semmi, amiről még számot kellene adni",
+          "explanation": "Tegyük fel, hogy a világegyetem történetének minden eseményét megmagyarázza egy korábbi, hézagok nélkül. Mi marad? E nézet szerint semmi: aki az egyes tagok magyarázatán felül az egész gyűjteményre is magyarázatot kér, olyasmit kér, ami nincs.\n\nHume két évszázaddal a mai vita előtt tette meg ezt a megjegyzést, és a legtöbb ateista filozófus ma is ezt mondja. A „világegyetem” szó arra csábít, hogy a gyűjteményt külön tárgynak nézzük, amelynek külön számadás jár. Nem külön tárgy. Maguk a dolgok.",
           "quote": {
             "text": "Ha megmutatnám neked húsz anyagi részecskéből álló gyűjtemény minden egyes darabjának a külön okát, igen ésszerűtlennek tartanám, ha ezután megkérdeznéd tőlem, mi volt az egész húsznak az oka.",
             "author": "David Hume",
@@ -201,15 +201,15 @@
             }
           },
           "counter": {
-            "objection": "Ha minden egyes tagot egy másik taggal magyarázunk, az nem magyarázza meg, miért van egyáltalán sorozat. Ha a fogason minden kabát a mellette lévő kabát akasztóján lóg, akkor megmagyaráztad az egyes kabátokat, de nem azt, miért nincs mind a padlón. A kérdés soha nem az volt, hogy „mi okozta ezt az eseményt”, hanem az, hogy „miért van sorozat, és miért nem inkább semmilyen”.",
-            "response": "A kabátos kép feltételezi azt, amit meg akar mutatni — hogy a gyűjteményt valaminek kívülről kell tartania. Ha a sorozatnak nincs első tagja és nincs külső támasza, akkor semmi nincs megmagyarázatlanul; egyszerűen nincs olyan további tény, amilyet a kérdés keres."
+            "objection": "Ha minden egyes tagot egy másik taggal magyarázunk, az nem magyarázza meg, miért van egyáltalán sorozat. Ha a fogason minden kabát a mellette lógó kabát akasztóján lóg, akkor megmagyaráztad az egyes kabátokat, de nem azt, miért nincs mind a padlón. A kérdés soha nem az volt, hogy „mi okozta ezt az eseményt”, hanem az, hogy „miért van sorozat, és miért nem inkább semmi”.",
+            "response": "A kabátos kép feltételezi azt, amit meg akar mutatni: hogy a gyűjteményt kívülről kell tartania valaminek. Ha a sorozatnak nincs első tagja és nincs külső támasza, akkor semmi nem marad megmagyarázatlanul; egyszerűen nincs olyan további tény, amilyet a kérdés keres."
           }
         }
       ]
     }
   ],
-  "whereItStands": "Erre a kérdésre semmilyen megfigyelés nem vonatkozik. Mindkét oldal elfogadja a világegyetemről szóló összes tényt, és abban tér el, marad-e további kérdés, ha a tények megvannak.\n\nEttől még nem patthelyzet. [[Az elégséges alap elvéről|elégséges alap elve]] magáról is vitatkoznak, alaposan és most is — hogy korlátozható-e az esetleges tényekre anélkül, hogy összeomlana, hogy következik-e belőle, hogy minden szükségszerű, hogy egy gyengébb változata is alátámasztja-e még az érvet. Akik ezen dolgoznak, meggondolják magukat, és ezért van ez nyitottnak jelölve, nem pedig értelmezésinek.\n\nHogy az olvasó hol köt ki, továbbra is nagyban azon múlik, mekkora magyarázati igényt tart jogosnak. Ha azt tartod, hogy mindennek magyarázattal kell bírnia, akkor ebből a kiindulópontból a teizmus természetesebben következik, mint az ateizmus, és a legtöbb ateista filozófus, aki alaposan foglalkozik az érvvel, ezt el is ismeri — ezért támadják inkább az elvet, mint a következtetést. Ha azt tartod, hogy a magyarázatnak valahol el kell érnie az alját, és a világegyetem éppolyan jó hely erre, mint bármi más, akkor az érv el sem indul.",
-  "commonMistake": "Az ateisták leggyakrabban olyan kérdésre válaszolnak, amelyet nem tettek fel: elmagyarázzák, hogyan fejlődött a világegyetem egy korábbi állapotból. Ez jó válasz egy másik kérdésre, ezt pedig pontosan ott hagyja, ahol volt.\n\nA keresztények leggyakrabban túl korán fejezik be: úgy kezelik a „tehát van szükségszerű létező” lépést, mintha az volna, hogy „tehát Isten”. Aquinói Tamás és Leibniz egyaránt tudta, hogy ezek külön lépések, és külön is érveltek mellettük; az összetömörített változat kihagyja a nehezebbik felét.\n\nÉs mindkét oldal azzal vádolja a másikat, hogy önkényesen megáll, anélkül hogy észrevenné: valahol megállni az egyetlen lehetőség, amely bármelyiküknek megvan. Ennek az érvnek az őszinte alakja arról szól, hogy hol álljunk meg, nem arról, hogy megálljunk-e.",
+  "whereItStands": "Erre a kérdésre semmilyen megfigyelés nem vonatkozik. Mindkét oldal elfogadja a világegyetemről szóló összes tényt, és abban tér el, marad-e további kérdés, ha a tények megvannak.\n\nEttől még nem patthelyzet. [[Az elégséges alap elvéről|elégséges alap elve]] magáról is vitatkoznak, alaposan és most is: korlátozható-e az esetleges tényekre anélkül, hogy összeomlana, következik-e belőle, hogy minden szükségszerű, alátámasztja-e még az érvet egy gyengébb változata. Akik ezen dolgoznak, meg is gondolják magukat, és ezért van ez nyitottnak jelölve, nem értelmezésinek.\n\nHogy az olvasó hol köt ki, továbbra is nagyban azon múlik, mekkora magyarázati igényt tart jogosnak. Ha azt tartod, hogy mindennek kell hogy legyen magyarázata, akkor ebből a kiindulópontból a teizmus természetesebben következik, mint az ateizmus, és a legtöbb ateista filozófus, aki alaposan foglalkozik az érvvel, ezt el is ismeri — ezért támadják inkább az elvet, mint a következtetést. Ha azt tartod, hogy a magyarázatnak valahol földet kell érnie, és a világegyetem éppolyan jó hely erre, mint bármi más, akkor az érv el sem indul.",
+  "commonMistake": "Az ateisták leggyakrabban olyan kérdésre válaszolnak, amelyet nem tettek fel: elmagyarázzák, hogyan fejlődött a világegyetem egy korábbi állapotból. Ez jó válasz egy másik kérdésre, ezt pedig pontosan ott hagyja, ahol volt.\n\nA keresztények leggyakrabban túl korán fejezik be: úgy kezelik a „tehát van szükségszerű létező” lépést, mintha az volna, hogy „tehát Isten”. Aquinói Tamás és Leibniz is tudta, hogy ezek külön lépések, és külön is érveltek mellettük; az összetömörített változat a nehezebbik felét hagyja ki.\n\nMindkét oldal azzal vádolja a másikat, hogy önkényesen megáll, anélkül hogy észrevenné: valahol megállni az egyetlen lehetőség, amely bármelyiküknek megvan. Ennek az érvnek az őszinte alakja arról szól, hol álljunk meg, nem arról, hogy megálljunk-e.",
   "sources": [
     {
       "title": "Principles of Nature and Grace, Founded on Reason (A természet és a kegyelem ésszel megalapozott elvei)",
