@@ -103,7 +103,7 @@
           "claim": "A módszerek összeférhetetlensége megmutatkozna azokban, akik a módszereket végrehajtják, és nem mutatkozik meg.",
           "explanation": "A másik oldal állítása nem hitekről szól, hanem eljárásokról: hogy a kettőt nem tudja együtt tartani senki, aki mindkettőt érti. Ennek az állításnak van megfigyelhető következménye.\n\nA legnagyobb rendszeres felmérés arról, mit gondolnak ténylegesen az élvonalbeli amerikai egyetemek kutatói, azt találta, hogy csaknem felük megnevez egy vallási hagyományt, további egyötödük pedig szellemi beállítottságúnak mondja magát — és a beszédesebb megállapítás az, hogy semmi nem utal arra, hogy a vallásos kutatók rosszabb tudományt művelnének, kerülnék az egyes területeket, vagy átélnék azt a feszültséget, amelyet a konfliktuskép szerint át kellene élniük. Éppen az a népesség számol be belőle a legkevesebbet, amelyik a leginkább ki van téve az állítólagos ellentmondásnak.\n\nA következtetés szerény. Nem mutatja meg, hogy a kettő filozófiailag összefér; az emberek folyton tartanak összeférhetetlen dolgokat. Azt mutatja meg, hogy az összeférhetetlenség, ha valódi, láthatatlan azon a ponton, ahol kárt okozna — márpedig ezt a tényt minden róla szóló elképzelésnek magyaráznia kell.",
           "quote": {
-            "text": "Ecklund megállapítása — csaknem 1700 élvonalbeli amerikai egyetemi kutató felméréséből és 275 utánkövető interjúból — az, hogy éppen kevesebb mint felük nevez meg vallási hagyományt, további egyötödük pedig szellemi beállítottságúnak mondja magát, és hogy a vallással konfliktusban álló kutatók közkeletű képe félreírja azt, amiről ők beszámolnak.",
+            "text": "Ecklund megállapítása — csaknem 1700 élvonalbeli amerikai egyetemi kutató felméréséből és 275 utánkövető interjúból — az, hogy éppen kevesebb mint felük nevez meg vallási hagyományt, további egyötödük pedig szellemi beállítottságúnak mondja magát, és hogy a vallással konfliktusban álló kutatók közkeletű képe rosszul írja le azt, amiről ők maguk beszámolnak.",
             "author": "Elaine Howard Ecklund",
             "work": "Science vs. Religion: What Scientists Really Think",
             "year": "2010",
@@ -201,7 +201,7 @@
             }
           },
           "counter": {
-            "objection": "A felsorolás közkeletű olvasatokról szól, nem tanításokról, és a Teremtés könyvének képes olvasatai régebbiek minden olyan tudománynál, amely állítólag kikényszerítette őket. Órigenész a harmadik században és Ágoston az ötödikben szövegszerű alapon érvelt a szó szerinti hatnapos teremtés ellen, úgy, hogy egyiküknek sem állt rendelkezésére geológia. A racsni valós a néphitet és a tizenkilencedik századi literalizmust illetően, amely maga is a modernitásra adott válasz volt; nem a hagyomány saját teológiájának története, amely soha nem volt annyira szó szerinti, amennyire az érvnek szüksége volna rá.",
+            "objection": "A felsorolás közkeletű olvasatokról szól, nem tanításokról, és a Teremtés könyvének képes olvasatai régebbiek minden olyan tudománynál, amely állítólag kikényszerítette őket. Órigenész a harmadik században és Ágoston az ötödikben szövegszerű alapon érvelt a szó szerinti hatnapos teremtés ellen, úgy, hogy egyiküknek sem állt rendelkezésére geológia. A racsni valóságos a néphitet és a tizenkilencedik századi literalizmust illetően — amely maga is a modernitásra adott válasz volt —, de nem a hagyomány saját teológiájának története, amely soha nem volt annyira szó szerinti, amennyire az érvnek szüksége volna rá.",
             "objectionFrom": "theist",
             "response": "A korai képes olvasatok valóságosak, és kisebbségi álláspontok voltak, amelyek veszítettek; a hagyomány a története nagy részében a szó szerinti olvasatokat tanította és érvényesítette, és megfegyelmezte azokat, akik nem. Az, hogy létezett forrás az újraértelmezésre, nem változtat azon, mikor használták — és azután használták."
           }
@@ -257,7 +257,7 @@
       "author": "Elaine Howard Ecklund",
       "year": "2010",
       "url": "https://global.oup.com/academic/product/science-vs-religion-9780195392982",
-      "note": "A második érv mögötti felmérés. Ecklund saját következtetése az, hogy a közkeletű konfliktuskép mindkét oldalt félreírja."
+      "note": "A második érv mögötti felmérés. Ecklund saját következtetése az, hogy a közkeletű konfliktuskép mindkét oldalt rosszul írja le."
     }
   ]
 }
