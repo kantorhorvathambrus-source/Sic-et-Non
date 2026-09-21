@@ -5,49 +5,49 @@
   "title": "Teremtés vagy evolúció?",
   "category": "natural-science",
   "status": "settled-core",
-  "realQuestion": "A címben szereplő „vagy” sok kárt okoz. Úgy hangzik tőle a kérdés, mintha két elmélet között kellene választani arról, hogyan kerültek ide az állatok. Nem erről van szó.\n\nAz, hogy az élőlényeknek vannak-e [[közös őseik]], és változtak-e az idők során, természettudományos kérdés, és a biológusok több mint száz éve megválaszolták. Ami valóban nyitott, az egy másik kérdés: ha így lett az élet azzá, ami, marad-e bármi, amit egy teremtő tett volna?\n\nEz ennek az oldalnak a vitája. A másik, arról a négy módról, ahogyan a keresztények a Teremtés könyvét és a geológiát próbálták összeegyeztetni, szintén valóságos, és lejjebb szerepel. De a kereszténységen belül zajlik, nem a kereszténység és az ateizmus között.",
+  "realQuestion": "A címben szereplő „vagy” sok kárt okoz. Úgy hangzik tőle a kérdés, mintha két elmélet között kellene választani arról, hogyan kerültek ide az állatok. Nem erről van szó.\n\nAz, hogy az élőlények [[közös leszármazásúak-e|közös leszármazás]], és változtak-e az idők folyamán, természettudományos kérdés, amelyet a biológusok több mint száz éve megválaszoltak. Ami valóban nyitott, az egy másik kérdés: ha így lett az élet azzá, ami, marad-e bármi, amit egy teremtő tett volna?\n\nEzen az oldalon erről folyik a vita. A másik vita — arról a négy módról, ahogyan a keresztények a Teremtés könyvét és a geológiát próbálták összeegyeztetni — szintén valóságos, és lejjebb szerepel. Csakhogy az a kereszténységen belül zajlik, nem a kereszténység és az ateizmus között.",
   "distinctions": [
     {
-      "label": "Vannak-e az élő fajoknak közös őseik?",
+      "label": "Közös ősöktől származnak-e az élő fajok?",
       "gloss": "Természettudományos kérdés, több mint száz éve megválaszolva. A biológusok között nem vitatott, és nem erről vitatkozik a lenti két oldal.",
       "activeHere": false
     },
     {
       "label": "Marad-e az evolúció után bármi, amit egy teremtő tett volna?",
-      "gloss": "Filozófiai kérdés, amelyet a biológia egyik irányban sem dönt el. Ez ennek az oldalnak a vitája.",
+      "gloss": "Filozófiai kérdés, amelyet a biológia egyik irányban sem dönt el. Ezen az oldalon erről folyik a vita.",
       "activeHere": true
     },
     {
       "label": "Hogyan olvassák a keresztények a Teremtés könyvét a geológia mellett?",
-      "gloss": "Valódi vita, de a kereszténységen belül, nem a kereszténység és az ateizmus között. Lentebb szerepel, a négy álláspontnál.",
+      "gloss": "Valódi vita, de a kereszténységen belüli, nem a kereszténység és az ateizmus közötti. Lentebb szerepel, a négy álláspontnál.",
       "activeHere": false
     }
   ],
-  "settledCore": "A biológusok és a geológusok nem oszlanak meg ebben. Az élő fajok módosulással származnak közös ősöktől; az örökletes változatosságra ható [[természetes szelekció]] alkalmazkodásuk egyik fő oka; és a Föld nagyjából 4,5 milliárd éves. Alátámasztja a leletanyag, az összehasonlító anatómia, a fajok földrajzi elterjedése és a baktériumokon közvetlenül megfigyelt evolúció, mindenekelőtt pedig a genomszekvenálás, amely megcáfolhatta volna a közös leszármazást, ehelyett rendkívüli részletességgel megerősítette.\n\nEz arról szól, mit találtak ezek a tudományterületek, nem arról, kinek van joga véleményt alkotni. Sok őszinte keresztény elutasítja. A Gallup 2024-ben 40 százalékra tette azoknak az amerikai felnőtteknek az arányát, akik a fiatal Föld szerinti emberi eredetet vallják, a korábbi 47 százalékos csúcshoz képest, és ez a szám kifejezetten az Egyesült Államokra vonatkozik. A katolikus egyház, az ortodox egyházak, az anglikán közösség és a történelmi protestáns felekezetek, együtt a világ keresztényeinek jóval több mint fele, nem tanítanak fiatal Földet.\n\nHa fiatal Földdel nőttél fel, itt semmi nem akarja azt mondani, hogy kívül állsz ezen a beszélgetésen. A lentebbi négy keresztény álláspont az, ahol a nézeteltérés valójában zajlik, és mindegyiket olyasvalaki fogalmazza meg, aki képviseli.",
+  "settledCore": "A biológusok és a geológusok nem oszlanak meg ebben. Az élő fajok módosulással származnak közös ősöktől; az örökletes változatosságra ható [[természetes szelekció]] alkalmazkodásuk egyik fő oka; a Föld pedig nagyjából 4,5 milliárd éves. Alátámasztja a kövületes leletanyag, az összehasonlító anatómia, a fajok földrajzi elterjedése és a baktériumokon közvetlenül megfigyelt evolúció — mindenekelőtt pedig a genomszekvenálás, amely megcáfolhatta volna a közös leszármazást, és ehelyett rendkívüli részletességgel megerősítette.\n\nEz arról szól, mit találtak ezek a tudományterületek, nem arról, kinek van joga véleményt alkotni. Sok őszinte keresztény elutasítja. A Gallup 2024-ben 40 százalékra tette azoknak az amerikai felnőtteknek az arányát, akik a fiatal Föld szerinti emberi eredetet vallják — a korábbi 47 százalékos csúcshoz képest —, és ez a szám kifejezetten az Egyesült Államokra vonatkozik. A katolikus egyház, az ortodox egyházak, az anglikán közösség és a történelmi protestáns felekezetek, együtt a világ keresztényeinek jóval több mint fele, nem tanítanak fiatal Földet.\n\nHa fiatal Földdel nőttél fel, itt semmi nem akarja azt mondani, hogy kívül állsz ezen a beszélgetésen. A nézeteltérés valójában a lentebbi négy keresztény álláspont között zajlik, és mindegyiket olyasvalaki fogalmazza meg, aki vallja is.",
   "glossary": [
     {
-      "term": "közös őseik",
-      "definition": "Az az állítás, hogy bármely két élő fajnak, ha elég messzire visszamegyünk, van közös ősi populációja. Az emberé és a csimpánzé nagyjából 6-7 millió évvel ezelőtt élt; az emberé és a tölgyfáé jóval korábban."
+      "term": "közös leszármazás",
+      "definition": "Az az állítás, hogy bármely két élő fajnak van közös ősi populációja, ha elég messzire megyünk vissza. Az emberé és a csimpánzé nagyjából 6-7 millió évvel ezelőtt élt; az emberé és a tölgyfáé jóval korábban."
     },
     {
       "term": "természetes szelekció",
-      "definition": "Ha örökletes különbségek miatt egyes egyedek több túlélő utódot hagynak hátra másoknál, ezek a különbségek a következő nemzedékben gyakoribbá válnak. Semmi nem választ; egyszerűen fennmaradnak azok a különbségek, amelyek történetesen működnek."
+      "definition": "Ha örökletes különbségek miatt egyes egyedek több túlélő utódot hagynak hátra másoknál, ezek a különbségek a következő nemzedékben gyakoribbá válnak. Semmi nem választ: egyszerűen fennmaradnak azok a különbségek, amelyek történetesen beválnak."
     },
     {
       "term": "másodlagos okok",
-      "definition": "Nagyon régi teológiai kifejezés a természeten belüli hétköznapi okokra, például az időjárásra vagy az öröklődésre. E felfogás szerint Isten az elsődleges ok, aki az egész rendszert fenntartja, a tényleges munkát pedig a természeti okok végzik, ahogyan egy szerző úgy ír történetet, hogy közben nem szereplő benne."
+      "definition": "Nagyon régi teológiai kifejezés a természeten belüli hétköznapi okokra, például az időjárásra vagy az öröklődésre. E felfogás szerint Isten az elsődleges ok, aki az egész rendszert fenntartja, a tényleges munkát pedig a természeti okok végzik — ahogyan egy szerző úgy ír történetet, hogy közben nem szereplője benne."
     },
     {
       "term": "irreducibilis komplexitás",
-      "definition": "Michael Behe kifejezése olyan rendszerre, amelynek minden alkatrészének egyszerre jelen kell lennie ahhoz, hogy egyáltalán működjön, és amely szerinte nem állhatott össze apró, hasznos lépésekből."
+      "definition": "Michael Behe kifejezése olyan rendszerre, amelynek minden alkatrésze egyszerre kell hogy jelen legyen ahhoz, hogy egyáltalán működjön, és amely szerinte nem állhatott össze apró, hasznos lépésekből."
     },
     {
       "term": "hézagok Istene",
-      "definition": "Istent éppen arra hívni segítségül, amit a tudomány még nem magyarázott meg. A baj nem az, hogy ez kegyeletsértő volna, hanem hogy zsugorodik: minden új magyarázat elvesz belőle egy darabot."
+      "definition": "Istent éppen arra hívni segítségül, amit a tudomány még nem magyarázott meg. A baj nem az, hogy kegyeletsértő volna, hanem hogy zsugorodik: minden új magyarázat elvesz belőle egy darabot."
     },
     {
       "term": "módszertani naturalizmus",
-      "definition": "Az a munkaszabály, hogy a tudományos magyarázatok csak természeti okokra hivatkoznak. Ez arról szól, hogy mit csinál a tudomány, és önmagában semmit nem mond arról, létezik-e bármi természetfeletti."
+      "definition": "Az a munkaszabály, hogy a tudományos magyarázatok csak természeti okokra hivatkozhatnak. Arról szól, mit csinál a tudomány, és önmagában semmit nem mond arról, létezik-e bármi természetfeletti."
     }
   ],
   "sides": [
@@ -58,9 +58,9 @@
         {
           "id": "design-without-designer",
           "claim": "A tervezettség látszata az, amit egy iránytalan folyamat létrehoz",
-          "explanation": "A szem gyártottnak látszik. A szárny is, vagy a bojtorján horgas termése. Az emberiség történetének szinte egészében a kézenfekvő magyarázat az volt, hogy valami megcsinálta őket, és ez jó magyarázat volt, mert semmi más nem adott számot ennyire pontosan a feladatukhoz illesztett alkatrészekről.\n\nA [[természetes szelekció]] számot ad róla. Azok az apró örökletes különbségek, amelyek segítik az állat túlélését, gyakrabban öröklődnek tovább, és elég sok nemzedék alatt olyan szerkezetekké állnak össze, amelyek célra készültnek látszanak, de nem azok. Így a legerősebb ok, amit valaha bárki felhozhatott egy tervező mellett, valami másból magyarázódik. Ez nem cáfolja Istent. Elveszi azt az okot, amely a legtöbb embert meggyőzte.",
+          "explanation": "A szem olyan, mintha készítették volna. Ugyanígy a szárny, vagy a bojtorján horgas termése. Az emberiség történetének szinte egészében a kézenfekvő magyarázat az volt, hogy valaki megcsinálta őket — és ez jó magyarázat volt, mert semmi más nem adott számot ennyire pontosan a feladatukhoz illesztett alkatrészekről.\n\nA [[természetes szelekció]] számot ad róla. Azok az apró örökletes különbségek, amelyek segítik az állat túlélését, gyakrabban öröklődnek tovább, és elég sok nemzedék alatt olyan szerkezetekké állnak össze, amelyek célra készültnek látszanak, pedig nem azok. Így a legerősebb ok, amely valaha bárkit tervezőben való hitre bírt, más magyarázatot kapott. Ez nem cáfolja Istent. Azt az okot veszi el, amely a legtöbb embert meggyőzte.",
           "quote": {
-            "text": "Bár az ateizmus Darwin előtt is logikailag tartható lehetett, Darwin tette lehetővé, hogy valaki szellemileg kielégült ateista legyen.",
+            "text": "Bár az ateizmus Darwin előtt is logikailag tartható lehetett, Darwin tette lehetővé, hogy valaki intellektuálisan kiteljesedett ateista legyen.",
             "author": "Richard Dawkins",
             "work": "The Blind Watchmaker (A vak órásmester)",
             "year": "1986",
@@ -78,8 +78,8 @@
               "id": "noma",
               "label": "A kérdés fel sem merül",
               "heldBy": "Stephen Jay Gould; és a fősodratú tudományos intézmények hivatalos álláspontjának jelentős része, köztük a National Academy of Sciences",
-              "oneLine": "Az evolúció sem Isten mellett, sem ellene nem szól, mert a két vállalkozás másfajta kérdésekre válaszol, és a területeik nem fedik egymást.",
-              "summary": "Gould álláspontja azért áll az oldalnak ezen a felén, mert ő maga nem volt teista, és ez az az álláspont, amelyet a legtöbb tudományos intézmény nyilvánosan magáévá tett. Nem diplomatikus hallgatás: állítás arról, hogy mire való a két vállalkozás.\n\nA tudomány arra vonatkozik, miből áll a világegyetem, és miért működik úgy, ahogy. A vallás a jelentés és az érték kérdéseire. Ezen a felosztáson azt kérdezni, hogy az evolúció Isten ellen szól-e, ugyanolyan kategóriatévesztés, mint azt kérdezni, hogy az igazságosság ellen szól-e — és akkor ez a vita, amely ezen az oldalon zajlik, olyasmi, amit senkinek nem kellene folytatnia.",
+              "oneLine": "Az evolúció sem Isten mellett, sem ellene nem szól, mert a két vállalkozás másfajta kérdésekre felel, és a területeik nem fedik egymást.",
+              "summary": "Gould álláspontja azért áll az oldalnak ezen a felén, mert ő maga nem volt teista, és ezt az álláspontot tette magáévá nyilvánosan a legtöbb tudományos intézmény. Nem diplomatikus hallgatás, hanem állítás arról, hogy mire való a két vállalkozás.\n\nA tudomány arra tartozik, miből áll a világegyetem, és miért működik úgy, ahogy. A vallás a jelentés és az érték kérdéseire. Ezen a felosztáson azt kérdezni, hogy az evolúció Isten ellen szól-e, ugyanolyan kategóriatévesztés, mint azt kérdezni, hogy az igazságosság ellen szól-e — és akkor az ezen az oldalon folyó vitát senkinek nem kellene folytatnia.",
               "quote": {
                 "text": "miénk a kőzetek kora, a vallásé az örök kőszikla; mi azt vizsgáljuk, hogyan jár az ég, ők azt, hogyan jutunk a mennybe",
                 "author": "Stephen Jay Gould",
@@ -93,24 +93,24 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A fenti ellenvetés szerint annak megmagyarázása, hogyan épült fel a szem, egyetlen Isten melletti érvet dönt meg, és csak egyet. Ez az álláspont azt mondja, hogy egyet sem dönt meg, mert semmilyen biológiai eredmény nem szólhat bele a kérdésbe egyik irányban sem. Az ellenvetés elismeri, hogy az evolúciónak van valamekkora bizonyító ereje a teizmus ellen, és a hatókörét vitatja; itt magát az erőt tagadják, úgyhogy a hatókörről szóló vitának nincs miről szólnia.",
+              "changesTheObjection": "A fenti ellenvetés szerint annak megmagyarázása, hogyan épült fel a szem, egyetlen Isten melletti érvet dönt meg, és csak egyet. Ez az álláspont azt mondja, hogy egyet sem dönt meg, mert semmilyen biológiai eredmény nem szólhat bele a kérdésbe egyik irányban sem. Az ellenvetés elismeri, hogy az evolúciónak van valamekkora bizonyító ereje a teizmus ellen, és a hatókörét vitatja; itt magát az erőt tagadják, így a hatókörről szóló vitának nincs miről szólnia.",
               "objection": {
-                "text": "A felosztás nem éli túl a találkozást azzal, amit a vallások ténylegesen állítanak. Egy hit, amely szerint egy ember feltámadt a halálból, hogy a világegyetem teremtve lett, vagy hogy az ima megváltoztatja a dolgok kimenetelét, a tapasztalati hálóról tesz állításokat, és ha azt mondjuk neki, hogy valójában csak értékekkel foglalkozik, azzal újradefiniáljuk, nem pedig tiszteletben tartjuk. Dawkins az egyik oldalról feszegeti ezt, konzervatív teológusok a másikról, ami szokatlan egyetértés: mindkét fél szerint a fegyverszünet ára az, hogy a vallást olyasminek írjuk le, amiben a hívei nem ismernek magukra.",
+                "text": "A felosztás nem éli túl a találkozást azzal, amit a vallások ténylegesen állítanak. Az a hit, amely szerint egy ember feltámadt a halálból, hogy a világegyetem teremtve lett, vagy hogy az ima megváltoztatja a dolgok kimenetelét, a tapasztalati hálóról tesz állításokat — és ha azt mondjuk neki, hogy valójában csak értékekkel foglalkozik, azzal újradefiniáljuk, nem pedig tiszteletben tartjuk. Dawkins az egyik oldalról feszegeti ezt, konzervatív teológusok a másikról, ami szokatlan egyetértés: mindkét fél szerint a fegyverszünet ára az, hogy a vallást olyasminek írjuk le, amiben a hívei nem ismernek magukra.",
                 "from": "both",
                 "response": "A felosztás nem leíró, hanem normatív: azt mondja meg, mit állíthat jogosan a két vállalkozás, nem azt, hogy mit állított minden egyes követőjük — és az a vallás, amely tapasztalati előrejelzéseket tesz, kilépett a saját tanítói hatásköréből."
               }
             }
           ],
           "counter": {
-            "objection": "Ez egyetlen Isten melletti érvet dönt meg, és csak egyet. Megmagyarázni, hogyan épült fel a szem, nem magyarázza meg, miért van olyan világegyetem, amelyben egyáltalán lehetséges szelekcióval építeni. A szelekcióhoz örökölhető változatosság kell, stabil kémia és olyan törvények, amelyek négymilliárd éven át nem mozdulnak.",
-            "response": "Ez valódi kérdés, de más kérdés, és ahhoz a vitához tartozik, hogy miért van egyáltalán bármi. Ami itt elveszett, az konkrét és nagy: a biológia volt a legjobb bizonyíték egy tervező mellett, most pedig egyik irányban sem bizonyíték.",
+            "objection": "Ez egyetlen Isten melletti érvet dönt meg, és csak egyet. Megmagyarázni, hogyan épült fel a szem, nem magyarázza meg, miért van olyan világegyetem, amelyben egyáltalán lehetséges szelekcióval építeni. A szelekcióhoz örökölhető változatosság kell, stabil kémia, és olyan törvények, amelyek négymilliárd éven át nem mozdulnak.",
+            "response": "Ez valódi kérdés, de más kérdés, és ahhoz a vitához tartozik, hogy miért van egyáltalán bármi. Ami itt elveszett, az konkrét és nagy: a biológia volt a legjobb bizonyíték egy tervező mellett, ma pedig egyik irányban sem bizonyíték.",
             "landsOn": []
           }
         },
         {
           "id": "process-looks-unplanned",
           "claim": "A folyamat nem úgy néz ki, mint bárki terve",
-          "explanation": "A valaha élt fajok több mint 99 százaléka kihalt. Az emberig nagyjából 3,8 milliárd év, öt tömeges kihalás és egy aszteroida vezetett. Az alkalmazkodás módja a nemzedékről nemzedékre egyenlőtlenül eloszló halál.\n\nAz eredmények között pedig ott vannak azok az élősködők, amelyek egész életmódja abból áll, hogy lassan felfalnak egy élő gazdát belülről. Ha ez terv, akkor a szenvedés nem sajnálatos mellékhatása, hanem maga a működő szerkezet. Darwin ezt találta a legnehezebben összeegyeztethetőnek egy jó Istennel, és magánlevélben jóval azelőtt kimondta, hogy nyilvánosan bármit mondott volna.",
+          "explanation": "A valaha élt fajok több mint 99 százaléka kihalt. Az emberig nagyjából 3,8 milliárd év, öt tömeges kihalás és egy aszteroida vezetett. Az alkalmazkodás gépezete pedig a nemzedékenként egyenlőtlenül kiosztott halál.\n\nAz eredmények között ott vannak azok az élősködők, amelyeknek az egész életmódja abból áll, hogy lassan, belülről felfalnak egy élő gazdát. Ha ez terv, akkor a szenvedés nem sajnálatos mellékhatása, hanem maga a működő szerkezet. Darwin ezt találta a legnehezebben összeegyeztethetőnek egy jó Istennel, és magánlevélben jóval azelőtt ki is mondta, hogy nyilvánosan bármit mondott volna.",
           "quote": {
             "text": "Nem tudom meggyőzni magamat arról, hogy egy jóságos és mindenható Isten szándékosan teremtette volna az Ichneumonidae-t azzal a kifejezett céllal, hogy hernyók élő testében táplálkozzanak, sem arról, hogy a macskának játszania kell az egerekkel.",
             "author": "Charles Darwin",
@@ -126,14 +126,14 @@
             }
           },
           "counter": {
-            "objection": "Ez a szenvedés problémája fehér köpenyben. Komoly ellenvetés egy jó Istennel szemben, és a honlap más helyén így is kezeljük, de nem az evolúcióról szóló ellenvetés. A pazarlás és az idő csak akkor szól egy teremtő ellen, ha feltesszük, hogy gyorsan és takarékosan dolgozna.",
+            "objection": "Ez a szenvedés problémája fehér köpenyben. Komoly ellenvetés egy jó Istennel szemben, és a honlap más helyén így is kezeljük — de nem az evolúcióról szóló ellenvetés. A pazarlás és az idő csak akkor szól egy teremtő ellen, ha feltesszük, hogy gyorsan és takarékosan dolgozna.",
             "response": "A feltevés ennél kisebb. Csak annyi, hogy egy elme, amely bármelyik módszert választhatja, nem éppen olyat választana, amelynek a motorja érző lények szenvedése több százmillió éven át."
           }
         },
         {
           "id": "no-skyhooks",
           "claim": "Ha egyszer megvan ez a fajta magyarázat, soha nincs szükség elmével kezdődő okra",
-          "explanation": "Darwin igazi felfedezése nem a pintyekről szóló tény volt. Egy magyarázási mód volt: a tervezettség létrejöhet alulról, elme nélküli lépésekből, anélkül hogy bárminek már eleve célja lenne. Daniel Dennett ezt a mintát darunak nevezi, az elmével kezdődő okot pedig égi horognak, olyasminek, ami a semmiről lóg.\n\nA minta általánosítható. Alkalmazták az immunrendszerre, a nyelvre, a kultúrára. Valahányszor egy terület engedett neki, egy elmével kezdődő magyarázat feleslegessé vált. Ez nem bizonyítja, hogy nincs ilyen elme. Azt viszont jelenti, hogy az a szokás, hogy ilyenhez nyúlunk, mindenütt megbukott, ahol próbára tették.",
+          "explanation": "Darwin igazi felfedezése nem a pintyekről szóló tény volt, hanem egy magyarázási mód: a tervezettség létrejöhet alulról, elme nélküli lépésekből, anélkül hogy bárminek eleve célja volna. Daniel Dennett ezt a mintát darunak nevezi, az elmével kezdődő okot pedig égi horognak — olyasminek, ami a semmiről lóg.\n\nA minta általánosítható. Alkalmazták az immunrendszerre, a nyelvre, a kultúrára. Valahányszor egy terület engedett neki, egy elmével kezdődő magyarázat vált feleslegessé. Ez nem bizonyítja, hogy nincs ilyen elme. Azt viszont igen, hogy a hozzá nyúlás szokása mindenütt megbukott, ahol próbára tették.",
           "quote": {
             "text": "az égi horog elmével kezdődő erő, hatalom vagy folyamat, kivétel az alól az elv alól, hogy minden tervezettség és látszólagos tervezettség végső soron elme nélküli, indíték nélküli gépiesség eredménye.",
             "author": "Daniel Dennett",
@@ -148,22 +148,22 @@
             }
           },
           "counter": {
-            "objection": "Egy sikeres módszert mindenre kiterjeszteni, ami létezik, filozófiai fogadás, nem tudományos eredmény — és az ellenvetést azok az ateisták fogalmazzák meg a leghatározottabban, akik az evolúcióbiológiát maradéktalanul elfogadják, a metafizikai kiterjesztést pedig elutasítják. Dennett maga nevezi az ötletét egyetemes oldószernek, amely minden hagyományos fogalmat szétmar, és egy oldószert, amely mindent felold, beleértve az oldást végző elme megbízhatóságát is, óvatosan érdemes kezelni.",
+            "objection": "Egy sikeres módszert kiterjeszteni mindenre, ami létezik, filozófiai fogadás, nem tudományos eredmény — és az ellenvetést azok az ateisták fogalmazzák meg a leghatározottabban, akik az evolúcióbiológiát maradéktalanul elfogadják, a metafizikai kiterjesztést viszont elutasítják. Dennett maga nevezi a saját ötletét egyetemes oldószernek, amely minden hagyományos fogalmat szétmar — egy oldószert pedig, amely mindent felold, beleértve az oldást végző elme megbízhatóságát is, óvatosan érdemes kezelni.",
             "objectionFrom": "within",
             "sharedPremise": "az evolúcióbiológia saját feltételei szerint fogalmazódik meg: maradéktalanul elfogadja a közös leszármazást és a természetes szelekciót, és kizárólag azt a további lépést vitatja, amely egy sikeres módszertől egy mindenre kiterjedő állításig visz.",
-            "response": "Fogadás, de olyan, amely két évszázada fizet. Az ellenkező fogadás mindeközben végig veszít a területéből."
+            "response": "Fogadás, de olyan, amely két évszázada fizet. Az ellenkező fogadás ugyanezalatt végig veszített a területéből."
           }
         }
       ]
     },
     {
-      "label": "Az evolúció az a mód, ahogyan a teremtés történt",
+      "label": "Az evolúció a teremtés módja",
       "position": "theist",
       "arguments": [
         {
           "id": "mechanism-not-author",
-          "claim": "A teremtés soha nem volt a természetes szelekció vetélytárs mechanizmusa",
-          "explanation": "A „teremtés” a klasszikus keresztény teológiában nem egy folyamat elején álló eseményről szóló állítás, amely más leírásokkal versenyezne ugyanarról a folyamatról. Arról szól, hogy miért van egyáltalán folyamat, és hogy ki a szerzője, ha van. Az álláspont szerint Isten a [[másodlagos okok]] által működik, vagyis a természeten belüli hétköznapi okok által, nem pedig mellettük.\n\nEbből a nézőpontból azt kérdezni, hogy egy faj evolúcióval vagy teremtéssel jött-e létre, olyan, mintha azt kérdeznénk, hogy egy regényt a szerző írt-e vagy a toll. Theodosius Dobzhansky, aki a modern evolúcióbiológia egyik megalkotója és egyben ortodox keresztény volt, ezt a lehető legegyenesebben mondta ki.",
+          "claim": "A teremtés soha nem volt a természetes szelekció vetélytársa",
+          "explanation": "A „teremtés” a klasszikus keresztény teológiában nem egy folyamat elején álló eseményről szóló állítás, amely ugyanannak a folyamatnak más leírásaival versenyezne. Arról szól, miért van egyáltalán folyamat, és ki a szerzője, ha van. E felfogás szerint Isten a [[másodlagos okokon|másodlagos okok]] keresztül munkálkodik — vagyis a természeten belüli hétköznapi okokon át, nem pedig mellettük.\n\nInnen nézve azt kérdezni, hogy egy faj evolúcióval vagy teremtéssel jött-e létre, olyan, mintha azt kérdeznénk, hogy egy regényt a szerző írt-e vagy a toll. Theodosius Dobzhansky, aki a modern evolúcióbiológia egyik megalkotója és egyben ortodox keresztény volt, a lehető legegyenesebben mondta ki.",
           "quote": {
             "text": "Kreacionista vagyok és evolucionista. Az evolúció Isten, vagy a Természet teremtési módszere.",
             "author": "Theodosius Dobzhansky",
@@ -184,7 +184,7 @@
               "label": "Fiatal Föld-kreacionizmus",
               "heldBy": "A protestáns keresztények kisebbsége, főként az Egyesült Államokban; intézményesen az Answers in Genesis és az Institute for Creation Research.",
               "oneLine": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt, a kövületes kőzetet pedig Noé özönvize rakta le.",
-              "summary": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt. A pozitív érv geológiai: egy világméretű özönvizet kínál az üledékes kőzetrétegek és a bennük lévő kövületek magyarázataként, amelyek e szerint az olvasat szerint gyorsan temetődtek be, nem pedig korszakok alatt halmozódtak fel. Az állítás az, hogy a rétegek azt mutatják, amit egy egyéves katasztrófa hagyna maga után.\n\nEmellett különbséget tesz a megfigyelő tudomány között, amely ma is mérhető dolgokon dolgozik, és a történeti tudomány között, amely olyan múltat rekonstruál, amelyet senki nem látott, és azt állítja, hogy a mélyidő a másodikhoz tartozik.",
+              "summary": "A Teremtés könyvének első fejezete hat közönséges napot ír le néhány ezer évvel ezelőtt. A pozitív érv geológiai: az üledékes kőzetrétegek és a bennük lévő kövületek magyarázatául világméretű özönvizet kínál, a kövületek pedig e szerint az olvasat szerint gyorsan temetődtek be, nem korszakok alatt halmozódtak fel. Az állítás az, hogy a rétegek pontosan azt mutatják, amit egy egyéves katasztrófa hagyna maga után.\n\nEmellett különbséget tesz a megfigyelő tudomány, amely ma is mérhető dolgokon dolgozik, és a történeti tudomány között, amely olyan múltat rekonstruál, amelyet senki nem látott — és azt állítja, hogy a mélyidő a másodikhoz tartozik.",
               "quote": {
                 "text": "Halott dolgok milliárdjai, kőzetrétegekbe temetve, víz által lerakva, szerte a földön.",
                 "author": "Ken Ham",
@@ -199,13 +199,13 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "A fenti ellenvetés szerint az az Isten, aki csak természeti okokon keresztül cselekszik, semmi észlelhetőt nem tesz. Ez az álláspont nem ezt állítja: közvetlen teremtést állít, nem is régen, és a kormeghatározást vitatja, nem az észlelhetőséget. Az észlelhetetlen cselekvésről szóló érvnek itt nincs célpontja.",
+              "changesTheObjection": "A fenti ellenvetés szerint az az Isten, aki csak természeti okokon keresztül cselekszik, semmi észlelhetőt nem tesz. Ez az álláspont nem ezt állítja: közvetlen teremtést állít, nem is régen, és a kormeghatározást vitatja, nem az észlelhetőséget. Az észlelhetetlen cselekvésről szóló érv itt nem talál célpontot.",
               "objection": {
-                "text": "A kormeghatározást egymástól függetlenül támasztja alá a radiometria, a jégfuratminták, a szalagos agyagrétegek, a korallok növekedési sávjai, a fák évgyűrűi és a csillagfény terjedési ideje, és ez az álláspont megköveteli, hogy mindezek összehangoltan tévedjenek, méghozzá úgy, ahogyan azt még senki nem magyarázta meg. Az idős Föld-kreacionisták és az evolúciós teremtés hívei teológiai ellenvetést is hozzátesznek: ha a hitet olyan állításra akasztjuk, amelynek a bizonyítékok ellentmondanak, azzal a hívőt arra állítjuk be, hogy egyszerre veszítse el mindkettőt.",
+                "text": "A kormeghatározást egymástól függetlenül támasztja alá a radiometria, a jégfuratminták, a szalagos agyagrétegek, a korallok növekedési sávjai, a fák évgyűrűi és a csillagfény terjedési ideje — ez az álláspont pedig megköveteli, hogy mindezek összehangoltan tévedjenek, méghozzá úgy, ahogyan még senki nem magyarázta meg. Az idős Föld-kreacionisták és az evolúciós teremtés hívei teológiai ellenvetést is hozzátesznek: aki a hitét olyan állításra akasztja, amelynek a bizonyítékok ellentmondanak, azt kockáztatja, hogy egyszerre veszíti el mindkettőt.",
                 "from": "both",
                 "response": "Az álláspont saját szakirodalma részletesen kifejti; ez az oldal megfogalmazza az ellenvetést, nem dönti el."
               },
-              "againstSettledCore": "Ez ellentmond az oldal tetején kimondott lezárt magnak, amely a biológusok és a geológusok között nem vita tárgya. Azért szerepel itt a saját képviselői szavaival, mert egy olyan állásponttal, amelyet a keresztények jelentős kisebbsége vall, nem csak a bírálóin keresztül szabad találkozni — és azért van megjelölve, mert jelöletlenül közölni az ellenkező hiba volna.",
+              "againstSettledCore": "Ez ellentmond az oldal tetején kimondott lezárt magnak, amely a biológusok és a geológusok között nem vita tárgya. Azért szerepel itt a saját képviselői szavaival, mert egy állásponttal, amelyet a keresztények jelentős kisebbsége vall, nem csak a bírálóin keresztül szabad találkozni — és azért van megjelölve, mert jelöletlenül közölni az ellenkező hiba volna.",
               "status": "settled-core"
             },
             {
@@ -213,7 +213,7 @@
               "label": "Idős Föld-kreacionizmus",
               "heldBy": "Konzervatív protestánsok, akik elfogadják a fősodratú geológiát, de a közös leszármazást nem; történetileg Charles Hodge, ma például a Reasons to Believe.",
               "oneLine": "A Föld valóban több milliárd éves, de Isten a nagy alaptípusokat külön teremtette, nem közös leszármazással.",
-              "summary": "A Föld valóban több milliárd éves, és a földtani rétegoszlop valóságos; a Teremtés könyvének napjai korszakok, vagy irodalmi keret. Nem a mélyidőt tagadják, hanem az iránytalan közös leszármazást.\n\nCharles Hodge, a tizenkilencedik századi Amerika legjelentősebb konzervatív teológusa pontosan ezt a vonalat képviselte. Az idős Földdel semmi baja nem volt. A célszerűség természetből való kizárásával volt baja.",
+              "summary": "A Föld valóban több milliárd éves, és a földtani rétegoszlop valóságos; a Teremtés könyvének napjai korszakok, vagy irodalmi keret. Nem a mélyidőt tagadják, hanem az iránytalan közös leszármazást.\n\nCharles Hodge, a tizenkilencedik századi Amerika legjelentősebb konzervatív teológusa pontosan ezt a vonalat képviselte. Az idős Földdel semmi baja nem volt; azzal volt baja, hogy a célszerűséget kizárják a természetből.",
               "quote": {
                 "text": "Mi a darwinizmus? Ateizmus. Ez nem azt jelenti, ahogyan már mondtuk, hogy maga Darwin úr és mindazok, akik nézeteit átveszik, ateisták volnának; hanem azt jelenti, hogy az elmélete ateista, hogy a tervezettség kizárása a természetből, ahogyan Gray doktor mondja, egyenértékű az ateizmussal.",
                 "author": "Charles Hodge",
@@ -227,9 +227,9 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "Teljes egészében elfogadja a Föld korát és a geológiát, a közös leszármazást pedig tagadja, úgyhogy az észlelhetetlen isteni cselekvésről szóló ellenvetés ugyanúgy mellémegy: ez az álláspont éppen azt várja, hogy a cselekvés észlelhető legyen, a kövületes anyagban, ott, ahol új alaptípusok jelennek meg.",
+              "changesTheObjection": "Teljes egészében elfogadja a Föld korát és a geológiát, a közös leszármazást viszont tagadja, így az észlelhetetlen isteni cselekvésről szóló ellenvetés ugyanúgy mellémegy: ez az álláspont éppen azt várja, hogy a cselekvés észlelhető legyen a kövületes anyagban, ott, ahol új alaptípusok jelennek meg.",
               "objection": {
-                "text": "Ha elfogadjuk a geológiát és elutasítjuk a biológiát, akkor a bizonyítékot olyan ízületnél szedjük szét, amely nincs is rajta. Ugyanaz a radiometrikus kormeghatározás adja a kőzetek korát, amelyik a kövületekét, a közös genetikai hibák egymásba ágyazott mintázata pedig — elromlott C-vitamin-gének, endogén retrovírusok egyező helyeken — az a fajta bizonyíték, amely alapján a bíróságon elítélnek valakit. Az álláspont ráadásul folyton hátrálni kényszerül: minden olyan „alaptípus”, amelyet külön teremtettnek tartottak, előbb-utóbb átmeneti rokonokra tett szert.",
+                "text": "Aki elfogadja a geológiát és elutasítja a biológiát, olyan illesztésnél szedi szét a bizonyítékot, amely nincs is rajta. Ugyanaz a radiometrikus kormeghatározás adja a kőzetek korát, mint a kövületekét, a közös genetikai hibák egymásba ágyazott mintázata pedig — elromlott C-vitamin-gének, endogén retrovírusok egyező helyeken — az a fajta bizonyíték, amilyen alapján a bíróságon el szoktak ítélni valakit. Az álláspont ráadásul folyton hátrálni kényszerül: minden „alaptípus”, amelyet külön teremtettnek tartottak, előbb-utóbb átmeneti rokonokra tett szert.",
                 "from": "both",
                 "response": "Az álláspont saját szakirodalma részletesen kifejti; ez az oldal megfogalmazza az ellenvetést, nem dönti el."
               }
@@ -239,9 +239,9 @@
               "label": "Intelligens tervezés",
               "heldBy": "A Discovery Institute-hoz kötődik; Michael Behe, William Dembski, Stephen Meyer.",
               "oneLine": "Egyes biológiai rendszerekhez minden alkatrész egyszerre kell ahhoz, hogy egyáltalán működjenek, így a tervezettség jobb következtetés, mint a lépésenkénti szelekció.",
-              "summary": "Az intelligens tervezés elfogadja az idős Földet, Behe esetében pedig a közös leszármazást is. Állítása szűkebb: egyes biológiai szerkezetek [[irreducibilisen komplexek|irreducibilis komplexitás]], vagyis minden alkatrészre szükség van ahhoz, hogy a rendszer működjön, így a szelekció nem tudja őket hasznos köztes lépéseken át felépíteni. A tervezettséget a bizonyítékokból levont következtetésként kínálják, nem a Szentírásból.\n\nKépviselői hozzáteszik, hogy a fősodratú tudomány eleve kizárja a tervezettséget, mert a [[módszertani naturalizmust|módszertani naturalizmus]] alapszabályként veszi fel, nem pedig eredményként jut el hozzá.",
+              "summary": "Az intelligens tervezés elfogadja az idős Földet, Behe esetében pedig a közös leszármazást is. Az állítása ennél szűkebb: egyes biológiai szerkezetek [[irreducibilisen komplexek|irreducibilis komplexitás]], vagyis minden alkatrészükre szükség van ahhoz, hogy a rendszer működjön, így a szelekció nem tudja őket hasznos köztes lépéseken át felépíteni. A tervezettséget a bizonyítékokból levont következtetésként kínálják, nem a Szentírásból.\n\nKépviselői hozzáteszik, hogy a fősodratú tudomány eleve kizárja a tervezettséget, mert a [[módszertani naturalizmust|módszertani naturalizmus]] alapszabályként veszi fel, nem pedig eredményként jut el hozzá.",
               "quote": {
-                "text": "Irreducibilisen komplexen olyan egyetlen rendszert értek, amely több, egymáshoz jól illeszkedő, kölcsönhatásban álló alkatrészből áll, amelyek hozzájárulnak az alapfunkcióhoz, és amelyben bármelyik alkatrész eltávolítása gyakorlatilag működésképtelenné teszi a rendszert.",
+                "text": "Irreducibilisen komplexen olyan egységes rendszert értek, amely több, egymáshoz jól illeszkedő, kölcsönhatásban álló alkatrészből áll, és ezek mind hozzájárulnak az alapfunkcióhoz, úgy, hogy bármelyikük eltávolítása gyakorlatilag működésképtelenné teszi a rendszert.",
                 "author": "Michael J. Behe",
                 "work": "Darwin's Black Box: The Biochemical Challenge to Evolution",
                 "year": "1996",
@@ -254,24 +254,24 @@
                   "language": "en"
                 }
               },
-              "changesTheObjection": "Ugyanaz az elmozdulás, más úton. Az egész program azért létezik, hogy kimondja: a tervezettség tapasztalatilag kimutatható a biológiai rendszerekben — így az az ellenvetés, hogy Isten cselekvése nem hagyna mérhető nyomot, éppen azzal az állásponttal szemben áll, amellyel szemben ez az álláspont megfogalmazódott.",
+              "changesTheObjection": "Ugyanaz az elmozdulás, más úton. Az egész program azért létezik, hogy kimondja: a tervezettség tapasztalatilag kimutatható a biológiai rendszerekben — így az az ellenvetés, hogy Isten cselekvése nem hagyna mérhető nyomot, éppen azt az álláspontot támadja, amellyel szemben ez a program megfogalmazódott.",
               "objection": {
-                "text": "Az irreducibilis komplexitás nem élte túl a saját próbaeseteit: a bakteriális ostort, a véralvadási kaszkádot és az immunrendszert egyaránt példaként kínálták, és mindegyikre születtek meggyőző, lépésről lépésre haladó magyarázatok. A mélyebb ellenvetés módszertani, és keresztények éppolyan gyakran hangoztatják, mint ateisták: abból következtetni tervezettségre, amit még nem magyaráztak meg, olyan [[hézagok Istenére|hézagok Istene]] épülő fogadás a jövő biológiája ellen, amely eddig minden fordulót elveszített.",
+                "text": "Az irreducibilis komplexitás nem élte túl a saját próbaeseteit: a bakteriális ostort, a véralvadási kaszkádot és az immunrendszert egyaránt példaként kínálták, és mindegyikre születtek meggyőző, lépésről lépésre haladó magyarázatok. A mélyebb ellenvetés módszertani, és keresztények éppolyan gyakran hangoztatják, mint ateisták: abból következtetni tervezettségre, amit még nem magyaráztak meg, a [[hézagok Istenére|hézagok Istene]] épülő fogadás a jövő biológiája ellen — és ez a fogadás eddig minden fordulót elveszített.",
                 "from": "both",
                 "response": "Az álláspont saját szakirodalma részletesen kifejti; ez az oldal megfogalmazza az ellenvetést, nem dönti el."
               }
             }
           ],
           "counter": {
-            "objection": "Ha a természeti okok végzik az egész munkát, akkor Isten semmi olyat nem tesz, amit észlelni, tesztelni vagy észrevenni lehetne. Egy ok, amelynek soha semmilyen mérhető hatása nincs, megkülönböztethetetlen attól, hogy nincs ok, és hozzátenni nem magyaráz semmit.",
-            "response": "A fizikán belül megkülönböztethetetlen, igen, és a tanítás mindig is ezt mondta. Soha nem az volt az állítás, hogy Isten az erők egyike. Egy adott tudomány szempontjából magyarázatilag tétlennek lenni nem ugyanaz, mint nem létezni, különben ugyanez az ellenvetés kizárná a matematikát, az erkölcsi tényeket és a más elméket is.",
+            "objection": "Ha a természeti okok végzik az egész munkát, akkor Isten semmi olyat nem tesz, amit észlelni, mérni vagy észrevenni lehetne. Egy ok, amelynek soha semmilyen mérhető hatása nincs, megkülönböztethetetlen attól, hogy nincs is ok — és hozzátenni semmit nem magyaráz meg.",
+            "response": "A fizikán belül megkülönböztethetetlen, igen, és a tanítás mindig is ezt mondta. Soha nem az volt az állítás, hogy Isten az erők egyike. Egy adott tudomány szempontjából magyarázatilag tétlennek lenni nem ugyanaz, mint nem létezni — különben ugyanez az ellenvetés kizárná a matematikát, az erkölcsi tényeket és a más elméket is.",
             "landsOn": []
           }
         },
         {
           "id": "genesis-and-the-fathers",
           "claim": "A Teremtés könyvét természettudományos tankönyvként olvasni modern szokás, nem a hagyományos",
-          "explanation": "Azt a gondolatot, hogy a keresztény hit hat huszonnégy órás napot követel, gyakran úgy állítják be, mint a régi, egyszerű olvasatot, amelyet a modernitás feladott. Történetileg majdnem az ellenkezője igaz. Ágoston 415 körül amellett érvelt, hogy a Teremtés könyvét nem szabad fizikaként olvasni, és pontosan attól tartott, ami később bekövetkezett: hogy keresztények magabiztos állításokat tesznek a természetről, kiderül róluk, hogy tévedtek, és magukkal együtt a hitet is lejáratják.\n\nAquinói Tamás szabályt csinált az aggodalomból. Tartsd a Szentírás egy olvasatát, írta az 1260-as években, de olyan lazán, hogy el tudd engedni, ha hamisnak bizonyul, nehogy a Szentírás nevetségessé váljék egy megbukó állításhoz kötve.",
+          "explanation": "Azt a gondolatot, hogy a keresztény hit hat huszonnégy órás napot követel, gyakran úgy állítják be, mint a régi, egyszerű olvasatot, amelyet a modernitás feladott. Történetileg majdnem az ellenkezője igaz. Ágoston 415 körül amellett érvelt, hogy a Teremtés könyvét nem szabad fizikaként olvasni, és pontosan attól tartott, ami később be is következett: hogy keresztények magabiztos állításokat tesznek a természetről, kiderül róluk, hogy tévedtek, és magukkal együtt a hitet is lejáratják.\n\nAquinói Tamás szabályt csinált az aggodalomból. Ragaszkodj a Szentírás egy olvasatához, írta az 1260-as években, de csak annyira, hogy el tudd engedni, ha hamisnak bizonyul — épp azért, hogy a Szentírás ne váljék nevetségessé egy megbukó állításhoz kötve.",
           "quote": {
             "text": "mivel a Szentírás sokféle értelemben magyarázható, egy adott magyarázathoz csak olyan mértékben szabad ragaszkodni, hogy készen álljunk elhagyni, ha bizonyossággal hamisnak bizonyul",
             "author": "Aquinói Tamás",
@@ -286,15 +286,15 @@
             }
           },
           "counter": {
-            "objection": "Ez kényelmes, és a vád legélesebb változata nem az ateistáktól, hanem más keresztényektől érkezik: a fiatal Föld hívei szerint amint a tudomány lezárja a kérdést, kiderül, hogy a szöveg mindvégig valami azzal összeegyeztethetőt jelentett. Egy olvasatot, amely bármilyen eredményt képes magába fogadni, semmi nem tesz próbára.",
+            "objection": "Ez kényelmes, és a vád legélesebb változata nem az ateistáktól, hanem más keresztényektől érkezik: a fiatal Föld hívei szerint amint a tudomány lezárja a kérdést, kiderül, hogy a szöveg mindvégig valami azzal összeegyeztethetőt jelentett. Azt az olvasatot, amely bármilyen eredményt magába tud fogadni, semmi nem teszi próbára.",
             "objectionFrom": "both",
-            "response": "Az évszámok ezt nehezen tartják. Ágoston tizenkét évszázaddal a geológia és tizennéggyel Darwin előtt írt, minden befogadandó tudományos eredmény nélkül. Ha az újraértelmezés alkalmi lenne, nem előzhetné meg a nyomást több mint egy évezreddel."
+            "response": "Az évszámok ezt nehezen engedik meg. Ágoston tizenkét évszázaddal a geológia és tizennéggyel Darwin előtt írt, minden befogadandó tudományos eredmény nélkül. Ha az újraértelmezés csak a nyomásra adott utólagos igazodás volna, nem előzhetné meg a nyomást több mint egy évezreddel."
           }
         },
         {
           "id": "deep-concord",
           "claim": "A tudomány azért működik, mert a világ érthető, és a teizmus éppen ezt állította róla",
-          "explanation": "Tudományt művelni eleve megkíván néhány olyan meggyőződést, amelyet a tudomány nem tud megalapozni: hogy a világegyetem szabályszerűségek szerint működik, hogy ezek ott is érvényesek, ahol senki nem néz oda, és hogy az emberi elme olyasfajta dolog, amely képes felderíteni őket. Ezek nem a fizika következtetései. Az elindulás feltételei.\n\nAlvin Plantinga amellett érvel, hogy egy értelmes elme által alkotott világ és a megértésére alkotott teremtmények természetes otthont adnak ezeknek a feltevéseknek, míg egy tisztán naturalista történetnek az emberi gondolkodás megbízhatóságát egy olyan folyamat szerencsés melléktermékeként kell kezelnie, amely a túlélésre válogatott, nem az igazságra.",
+          "explanation": "Tudományt művelni eleve megkíván néhány olyan meggyőződést, amelyet a tudomány nem tud megalapozni: hogy a világegyetem szabályszerűségek szerint működik, hogy ezek ott is érvényesek, ahol senki nem néz oda, és hogy az emberi elme olyasfajta dolog, amely képes felderíteni őket. Ezek nem a fizika következtetései, hanem az elindulás feltételei.\n\nAlvin Plantinga amellett érvel, hogy egy értelmes elme alkotta világ és a megértésére teremtett lények természetes otthont adnak ezeknek a feltevéseknek, míg egy tisztán naturalista történetnek az emberi gondolkodás megbízhatóságát olyan folyamat szerencsés melléktermékeként kell kezelnie, amely a túlélésre válogatott, nem az igazságra.",
           "quote": {
             "text": "felszínes konfliktus, de mély egyetértés van a tudomány és a teista vallás között, viszont felszínes egyetértés és mély konfliktus a tudomány és a naturalizmus között",
             "author": "Alvin Plantinga",
@@ -310,15 +310,15 @@
             }
           },
           "counter": {
-            "objection": "Az evolúciónak semmi gondja a megbízható vélekedés magyarázatával: az az állat, amely rosszul méri fel, hol van a szikla széle, nem hagy utódokat. Az a feltevés pedig, hogy a természet szabályos, nem kölcsönvett vallási előfeltevés, hanem munkaszabály, amely négyszáz éve minden nap beigazolódik.",
+            "objection": "Az evolúciónak semmi gondja nincs a megbízható vélekedés magyarázatával: az az állat, amely rosszul méri fel, hol van a szikla széle, nem hagy utódokat. Az a feltevés pedig, hogy a természet szabályos, nem kölcsönvett vallási előfeltevés, hanem munkaszabály, amely négyszáz éve nap mint nap beigazolódik.",
             "response": "A szelekció a hasznos viselkedést követi, a hasznos viselkedéshez pedig nem kellenek igaz vélekedések, csak olyanok, amelyek a helyes cselekvést váltják ki. Hogy a kettő szétválik-e, éppen ez a vita tárgya, és négyszáz év sikere nem döntheti el, hiszen éppen ezt a sikert próbálja mindkét fél megmagyarázni."
           }
         }
       ]
     }
   ],
-  "whereItStands": "A kérdés tudományos fele lezárult, és már régóta. Ami nyitva maradt, az filozófiai, és valóban nyitva van: érintetlenül hagyja-e azt az állítást, hogy a világnak van szerzője, egy teljes természeti leírás arról, hogyan fejlődött az élet, vagy lassan kiüresíti?\n\nMindkét választ gondos emberek képviselik, akik a biológiában teljesen egyetértenek. Dobzhansky és Dawkins egyetlen tényben sem vitatkozna egy genetikai cikk kapcsán. Abban vitatkoznak, mit jelentenek a tények, és ezt nem fogja eldönteni több genetika.\n\nEgy dolog megváltozott az elmúlt évszázadban, és érdemes szépítés nélkül kimondani. A négy keresztény álláspont nem egyformán alátámasztott. A fiatal Föld-kreacionizmus hamis tapasztalati állításokat tesz. Az intelligens tervezés nem igazolta a központi állítását, és egyértelműen alulmaradt, amikor bíróság előtt próbára tették. Az idős Föld-kreacionizmusnak igaza van a Földben, és nincs igaza a leszármazásban. Az evolúciós teremtés az egyetlen a négy közül, amely semmi megállapítottal nem ütközik, és világszerte egyben a többségi keresztény álláspont is.",
-  "commonMistake": "Az ateisták többnyire úgy kezelik a fiatal Föld-kreacionizmust, mintha az volna a kereszténység álláspontja. Kisebbségi nézet, jórészt észak-amerikai, mai formájában nagyjából hatvan éves, és elutasítja a katolikus egyház, a legtöbb protestáns felekezet és az ortodox egyházak. Megcáfolni könnyű, és szinte semmit nem bizonyít a valódi vitával kapcsolatban, amely olyan emberekkel folyik, akik minden tényt elfogadnak, amit épp idézni készülsz.\n\nA keresztények többnyire azt hiszik, hogy az evolúció elfogadása kerül valamibe, és ezért olyan tudományos álláspontot védenek, amelyet semmi okuk nincs tartani. A saját hagyományuk szabálya, Ágostoné és Aquinói Tamásé, éppen az volt, hogy ne tegyék fel a Szentírást egy természetre vonatkozó állításra, amely megdőlhet.\n\nÉs mindkét oldal elköveti együtt ugyanazt a hibát: úgy kezelik a „teremtést” és az „evolúciót”, mintha ugyanarra a kérdésre adott válaszok volnának, és ezért többet az egyikből szükségképpen kevesebbet jelentene a másikból. Szinte senki nem hiszi ezt, aki alaposan végiggondolta, egyik oldalon sem.",
+  "whereItStands": "A kérdés tudományos fele lezárult, és régóta az. Ami nyitva maradt, az filozófiai, és valóban nyitva van: érintetlenül hagyja-e azt az állítást, hogy a világnak van szerzője, egy teljes természeti leírás arról, hogyan fejlődött az élet — vagy lassan kiüresíti?\n\nMindkét választ gondos emberek vallják, akik a biológiában maradéktalanul egyetértenek. Dobzhansky és Dawkins egy genetikai cikk egyetlen tényén sem vitatkozna. Abban vitatkoznak, mit jelentenek a tények, és ezt nem fogja eldönteni több genetika.\n\nEgy dolog megváltozott az elmúlt évszázadban, és érdemes szépítés nélkül kimondani: a négy keresztény álláspont nem egyformán alátámasztott. A fiatal Föld-kreacionizmus hamis tapasztalati állításokat tesz. Az intelligens tervezés nem igazolta a központi állítását, és egyértelműen alulmaradt, amikor bíróság előtt próbára tették. Az idős Föld-kreacionizmusnak a Föld korát illetően igaza van, a leszármazást illetően nincs. Az evolúciós teremtés az egyetlen a négy közül, amely semmi megállapítottal nem ütközik — és világszerte egyben a többségi keresztény álláspont is.",
+  "commonMistake": "Az ateisták többnyire úgy kezelik a fiatal Föld-kreacionizmust, mintha az volna a kereszténység álláspontja. Kisebbségi nézet, jórészt észak-amerikai, mai formájában nagyjából hatvan éves, és elutasítja a katolikus egyház, a legtöbb protestáns felekezet és az ortodox egyházak. Megcáfolni könnyű, és szinte semmit nem bizonyít a valódi vitáról, amely olyan emberekkel folyik, akik minden tényt elfogadnak, amit épp idézni készülsz.\n\nA keresztények többnyire azt hiszik, hogy az evolúció elfogadása kerül valamibe, és ezért olyan tudományos álláspontot védenek, amelyet semmi okuk tartani. A saját hagyományuk szabálya, Ágostoné és Aquinói Tamásé, éppen az volt, hogy ne kössék a Szentírást olyan természetre vonatkozó állításhoz, amely megdőlhet.\n\nMindkét oldal elköveti ugyanazt a hibát is: úgy kezelik a „teremtést” és az „evolúciót”, mintha ugyanarra a kérdésre adott válaszok volnának, és ezért amennyivel több az egyik, annyival kevesebb a másik. Szinte senki nem hiszi ezt, aki alaposan végiggondolta — egyik oldalon sem.",
   "sources": [
     {
       "title": "On the Origin of Species, első kiadás",
