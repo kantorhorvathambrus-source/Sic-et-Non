@@ -438,13 +438,25 @@ for (const full of files) {
 // translation choice. Add real localisations here; never add a different person.
 const LOCALISED_NAMES = new Map(
   Object.entries({
-    'Augustine of Hippo': ['Hippói Ágoston', 'Agustín de Hipona', "Augustin d'Hippone", 'Augustinus von Hippo'],
-    'Thomas Aquinas': ['Aquinói Tamás', 'Tomás de Aquino', "Thomas d'Aquin", 'Thomas von Aquin'],
-    'John Paul II': ['II. János Pál', 'Juan Pablo II', 'Jean-Paul II', 'Johannes Paul II.'],
-    'Fyodor Dostoevsky': ['Fjodor Dosztojevszkij'],
-    'Second Vatican Council': ['II. Vatikáni Zsinat'],
-    'Bertrand Russell and Frederick Copleston': ['Bertrand Russell és Frederick Copleston'],
-    'David L. Edwards and John Stott': ['David L. Edwards és John Stott'],
+    "Augustine of Hippo": ["Hippói Ágoston", "Agustín de Hipona", "Augustin d'Hippone", "Augustinus von Hippo"],
+    "Thomas Aquinas": ["Aquinói Tamás", "Tomás de Aquino", "Thomas d'Aquin", "Thomas von Aquin"],
+    "John Paul II": ["II. János Pál", "Juan Pablo II", "Jean-Paul II", "Johannes Paul II."],
+    "Fyodor Dostoevsky": ["Fjodor Dosztojevszkij", "Fiódor Dostoyevski", "Fiodor Dostoïevski", "Fjodor Dostojewski"],
+    "Second Vatican Council": ["II. Vatikáni Zsinat", "Concilio Vaticano II", "Concile Vatican II", "Zweites Vatikanisches Konzil"],
+    "Bertrand Russell and Frederick Copleston": ["Bertrand Russell és Frederick Copleston", "Bertrand Russell y Frederick Copleston", "Bertrand Russell et Frederick Copleston", "Bertrand Russell und Frederick Copleston"],
+    "David L. Edwards and John Stott": ["David L. Edwards és John Stott", "David L. Edwards y John Stott", "David L. Edwards et John Stott", "David L. Edwards und John Stott"],
+    "Plato": ["Platón", "Platon"],
+    "Paul of Tarsus": ["Pablo de Tarso", "Paul de Tarse", "Paulus von Tarsus"],
+    "Ivan Karamazov, in Fyodor Dostoevsky": ["Iván Karamázov, en Fiódor Dostoyevski", "Ivan Karamazov, dans Fiodor Dostoïevski", "Iwan Karamasow, bei Fjodor Dostojewski"],
+    "Leo Tolstoy": ["León Tolstói", "Léon Tolstoï", "Leo Tolstoi"],
+    "Robert D. Putnam and David E. Campbell": ["Robert D. Putnam y David E. Campbell", "Robert D. Putnam et David E. Campbell", "Robert D. Putnam und David E. Campbell"],
+    "William P. Alston and Evan Fales": ["William P. Alston y Evan Fales", "William P. Alston et Evan Fales", "William P. Alston und Evan Fales"],
+    "Matthew Powner, B\u00e9atrice Gerland and John Sutherland": ["Matthew Powner, Béatrice Gerland y John Sutherland", "Matthew Powner, Béatrice Gerland et John Sutherland", "Matthew Powner, Béatrice Gerland und John Sutherland"],
+    "Matthew W. Powner, B\u00e9atrice Gerland and John D. Sutherland": ["Matthew W. Powner, Béatrice Gerland y John D. Sutherland", "Matthew W. Powner, Béatrice Gerland et John D. Sutherland", "Matthew W. Powner, Béatrice Gerland und John D. Sutherland"],
+    "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprub\u00ed and Nick Lane": ["Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí y Nick Lane", "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí et Nick Lane", "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí und Nick Lane"],
+    "R. R. Griffiths, W. A. Richards, U. McCann and R. Jesse": ["R. R. Griffiths, W. A. Richards, U. McCann y R. Jesse", "R. R. Griffiths, W. A. Richards, U. McCann et R. Jesse", "R. R. Griffiths, W. A. Richards, U. McCann und R. Jesse"],
+    "R. R. Griffiths and others": ["R. R. Griffiths y otros", "R. R. Griffiths et al.", "R. R. Griffiths u. a."],
+    "Ronald L. Numbers (editor)": ["Ronald L. Numbers (ed.)", "Ronald L. Numbers (dir.)", "Ronald L. Numbers (Hrsg.)"],
   }),
 );
 

@@ -1,0 +1,248 @@
+{
+  "id": "something-rather-than-nothing",
+  "number": 2,
+  "slug": "algo-en-lugar-de-nada",
+  "title": "¿Por qué hay algo en lugar de nada?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "La nada habría sido más simple. Ni estrellas, ni átomos, ni leyes, ni espacio en el que nada estuviera. Ese estado no necesita explicación, ni origen, ni mantenimiento. Y sin embargo hay un universo.\n\nLa pregunta no es por el Big Bang. Aunque el universo resultara ser infinitamente antiguo y no haber empezado nunca, seguiría estando aquí en lugar de no estar, y la pregunta quedaría intacta. Pregunta algo más extraño: por qué hay algo en absoluto que pueda tener una historia.\n\nUn lado dice que una pregunta tan básica tiene que tener respuesta, y que la única clase de respuesta que serviría es algo que no hubiera podido dejar de existir. El otro dice que la exigencia de una respuesta es un hábito que hemos estirado demasiado, y que en algún punto una explicación tiene que detenerse.",
+  "distinctions": [
+    {
+      "label": "¿Por qué hay algo en absoluto?",
+      "gloss": "Por qué existencia y no absolutamente nada. Es el argumento de esta página, y ningún descubrimiento sobre el contenido del universo puede responderlo.",
+      "activeHere": true
+    },
+    {
+      "label": "¿Por qué empezó el universo?",
+      "gloss": "Una pregunta por un primer instante, y distinta: un universo eterno seguiría pidiendo explicación en esta página. Tema 1.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Por qué es el universo así y no de otro modo?",
+      "gloss": "Por qué estas constantes, estas leyes, esta configuración. También distinta, y se discute en el tema 5.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "contingente",
+      "definition": "Algo que existe pero que podría no haber existido. Usted es contingente. Y, por lo que se ve, también lo es todo lo que ha visto alguna vez."
+    },
+    {
+      "term": "ser necesario",
+      "definition": "Algo que no habría podido dejar de existir, de modo que la pregunta de por qué existe en lugar de no existir tiene la respuesta incorporada en lo que es. Si hay algo así es justamente lo que se discute."
+    },
+    {
+      "term": "principio de razón suficiente",
+      "definition": "La tesis de que todo tiene explicación, sea en otra cosa, sea en su propia naturaleza. Poderoso, difícil de probar y difícil de abandonar sin abandonar también el razonamiento ordinario."
+    },
+    {
+      "term": "hecho bruto",
+      "definition": "Algo verdadero sin explicación alguna: no inexplicado hasta ahora, sino inexplicado y punto. La respuesta atea en este terreno suele ser que el universo es uno de ellos."
+    },
+    {
+      "term": "falacia de composición",
+      "definition": "Concluir que un todo tiene una propiedad porque la tienen sus partes. Cada ladrillo es pequeño, luego el muro es pequeño, lo cual es falso. Si el argumento de esta página la comete es objeto de disputa."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Algo que no habría podido dejar de existir",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "nothing-is-simpler",
+          "claim": "La nada es el estado que no necesitaría explicación, así que algo sí la necesita",
+          "explanation": "Leibniz advirtió que la pregunta no es ociosa. La inexistencia no es un estado de cosas rival que compita por el puesto; es la ausencia de todo puesto. Para que no haya nada no hace falta que ocurra nada. Es algo lo que se sale de la regla.\n\nSu principio dice que todo tiene explicación, bien en algo fuera de ello, bien en lo que es. Aplíquese al universo y se obtiene uno de dos resultados: o está explicado por otra cosa, o su existencia está de algún modo inscrita en su propia naturaleza. Casi nadie afirma lo segundo del universo físico. Queda lo primero, o queda abandonado el [[principio de razón suficiente]].",
+          "quote": {
+            "text": "¿Por qué hay algo en lugar de nada? Pues la nada es más simple y más fácil que algo.",
+            "author": "Gottfried Wilhelm Leibniz",
+            "work": "Principles of Nature and Grace, Founded on Reason",
+            "year": "1714",
+            "locator": "§7",
+            "sourceUrl": "https://philpapers.org/rec/LEIPON",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Why is there something rather than nothing? For nothing is simpler and easier than something.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "El principio se afirma, no se establece. Funciona de maravilla dentro del universo, donde las explicaciones se encuentran mirando, y no hay razón independiente para pensar que valga de la existencia como tal. Y si vale universalmente, se mete en problemas de todos modos: la existencia de Dios necesitaría entonces explicación también, y llamarla autoexplicativa no es evidentemente más que una manera de detenerse.",
+            "response": "Abandonarlo tiene un coste que rara vez se cuenta. Si algunas cosas simplemente no tienen explicación, entonces ningún fracaso al buscarla cuenta nunca como evidencia de nada, y el razonamiento que nos llevó a la pregunta queda minado. La elección no es entre un principio y ningún principio; es entre un principio y la arbitrariedad.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "classical-theism",
+              "label": "Dios no es un ser entre los seres",
+              "heldBy": "Tomás de Aquino; Edward Feser, David Bentley Hart, Brian Davies",
+              "oneLine": "La respuesta no es que haya una entidad más que existe necesariamente, sino que todo aquello cuya esencia no incluye existir depende de lo único cuya esencia es existir.",
+              "summary": "El teísmo clásico y el argumento anterior llegan a la misma conclusión por caminos que sus propios defensores consideran muy distintos, y la disputa entre ambos está viva dentro de la filosofía cristiana, con Feser y Craig en lados opuestos y por escrito.\n\nEl movimiento aquí no es un principio explicativo aplicado al universo. Es una distinción entre dos clases de cosa: aquellas en las que lo que algo es y el que sea se separan, y una en la que no se separan. Todo lo de la primera clase recibe su existencia de fuera de sí. Aquello en lo que termina esa dependencia no es un elemento inusualmente poderoso del inventario de las cosas; según esta lectura, no es un elemento del inventario en absoluto.",
+              "quote": {
+                "text": "Dios es el ser mismo por su propia esencia",
+                "author": "Tomás de Aquino",
+                "work": "Summa Theologiae, I q.3 a.4",
+                "year": "c. 1270",
+                "locator": "on whether essence and existence are the same in God",
+                "sourceUrl": "https://www.newadvent.org/summa/1003.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "God is very being by His own essence",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que el principio explicativo se afirma sin establecerse, que nada autoriza a exigir una explicación del universo entero. Esta versión no funciona con un principio general sobre la explicación. Funciona con una tesis concreta sobre dos clases de ser, y hay que atacarla ahí: negando la distinción entre esencia y existencia, o sosteniendo que el universo mismo es de la segunda clase. Un argumento que dice que el principio no está probado no tiene ningún principio delante.",
+              "objection": {
+                "text": "La distinción es todo el argumento y solo está disponible dentro de una metafísica. Fuera de la filosofía aristotélico-tomista, la «esencia» no es algo que un ser tenga en el sentido requerido, y la tesis de que la existencia se le añade no es una tesis que la mayoría de los filósofos puedan formular, y menos evaluar. Hay además un coste que sus defensores aceptan y sus críticos consideran fatal: un Dios que no es un ser entre los seres y que no tiene propiedades en el sentido corriente resulta muy difícil de distinguir, en la práctica, de la necesidad bruta por la que se acusa al otro lado de haberse conformado.",
+                "from": "atheist",
+                "response": "Que una posición necesite su propia metafísica no es una objeción contra ella, y la distinción se argumenta largamente, no se da por supuesta. El cargo de indistinguibilidad corre también en sentido contrario: un Dios que fuera solo un elemento muy grande del inventario sería exactamente aquello que, según el otro lado, pide explicación."
+              }
+            }
+          ]
+        },
+        {
+          "id": "contingent-all-the-way",
+          "claim": "Un conjunto de cosas que podrían no haber existido no se explica por ser grande",
+          "explanation": "Todo lo que hemos encontrado alguna vez es [[contingente]]: existe y podría no haber existido. La versión de Tomás de Aquino sostiene que si todo fuera así, no habría nada que diera cuenta de por qué el asunto entero está en marcha en lugar de no estarlo; por muy atrás que vaya la cadena, añadir eslabones no aporta lo que a cada eslabón le falta.\n\nLa conclusión no es «por tanto Dios» en un solo paso. Es que tiene que existir algo que no sea contingente, un [[ser necesario]], y el argumento de que eso se parece al Dios de una religión es otro distinto, que la tradición clásica desarrolló por separado.",
+          "quote": {
+            "text": "Encontramos en la naturaleza cosas que pueden ser y no ser, puesto que se las encuentra generarse y corromperse y, por consiguiente, pueden ser y no ser.",
+            "author": "Tomás de Aquino",
+            "work": "Summa Theologiae I, q. 2, a. 3, the Third Way, tr. Fathers of the English Dominican Province",
+            "year": "c. 1265",
+            "sourceUrl": "https://www.newadvent.org/summa/1002.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "We find in nature things that are possible to be and not to be, since they are found to be generated, and to corrupt, and consequently, they are possible to be and not to be.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Esto parece una [[falacia de composición]]. Todo ser humano tiene madre; la especie humana no. Pasar de «cada cosa es contingente» a «el todo es contingente» es exactamente el paso que falla en otros casos, y el argumento no da ninguna razón para que aquí funcione.",
+            "response": "La réplica es que la contingencia no es como ser pequeño o tener madre. Si cada miembro de un conjunto podría no haber existido, el conjunto podría no haber existido, porque no quedaría nada de él. Esa inferencia no es evidentemente inválida, aunque si es evidentemente válida es justo lo que se discute."
+          }
+        }
+      ]
+    },
+    {
+      "label": "La pregunta se agota antes que la respuesta",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "just-there",
+          "claim": "Toda explicación se detiene en algún punto, y el universo es un punto razonable",
+          "explanation": "El teísta se detiene en un ser cuya existencia no pide más cuentas. El ateo se detiene un paso antes, en el universo. Ambos se detienen; el desacuerdo es solo sobre dónde, y ninguna de las dos posiciones puede llamar arbitraria a la otra sin responder por su propio alto.\n\nRussell se lo dijo a Frederick Copleston en la radio en 1948, y el intercambio sigue siendo la formulación más clara del impasse. No es una negativa a pensar. Es la tesis de que un [[hecho bruto]] tiene que entrar en algún punto, y que añadir un ser necesario no elimina el hecho bruto, sino que más bien lo rebautiza.",
+          "quote": {
+            "text": "Yo diría que el universo simplemente está ahí, y eso es todo.",
+            "author": "Bertrand Russell",
+            "work": "Debate with Frederick Copleston, BBC Third Programme",
+            "year": "1948",
+            "sourceUrl": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "I should say that the universe is just there, and that's all.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Los dos puntos de detención no son equivalentes. Detenerse en un ser necesario es detenerse en algo cuya naturaleza da cuenta de que exista; detenerse en el universo es detenerse en algo que visiblemente podría haber sido de otro modo, y simplemente renunciar a preguntar. Lo primero es una explicación; lo segundo, la decisión de no querer ninguna.",
+            "response": "Eso solo funciona si «ser necesario» es una noción coherente que hace trabajo real, y no un nombre para el lugar donde se detuvieron las preguntas. Nadie ha presentado un ser necesario que pueda inspeccionarse, y «su naturaleza da cuenta de que exista» es una afirmación, no una demostración.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "pseudo-question",
+              "label": "La pregunta está mal planteada",
+              "heldBy": "Adolf Grünbaum; Sean Carroll",
+              "oneLine": "La exigencia de una explicación de la existencia se apoya en tratar la nada como el estado natural por defecto, y no hay razón alguna para pensar que lo sea.",
+              "summary": "Es una posición más afilada que la anterior, y discrepa de ella. Donde la respuesta del hecho bruto concede la pregunta y se niega a responderla, esta niega que haya una pregunta bien formada.\n\nEl argumento ataca una premisa que nadie suele enunciar: que la nada es lo que cabría esperar, de modo que algo necesita una razón. Grünbaum rastrea ese supuesto hasta Leibniz y pregunta qué podría autorizarlo. Nuestra idea de lo espontáneo o lo natural proviene de dentro de un mundo de cosas, y no nos dice absolutamente nada sobre si un universo sin nada dentro habría sido el caso nada sorprendente.",
+              "quote": {
+                "text": "La exigencia explicativa de Leibniz es un planteamiento mal concebido que no arranca y que plantea un pseudoproblema",
+                "author": "Adolf Grünbaum",
+                "work": "Why Is There a World AT ALL, Rather Than Just Nothing?",
+                "year": "2009",
+                "sourceUrl": "https://www.stafforini.com/existence/Grunbaum%20-%20Why%20is%20there%20a%20world%20at%20all,%20rather%20than%20just%20nothing.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Leibniz's explanatory demand is an ill-conceived non-starter which poses a pseudo issue",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que los dos puntos de detención no son equivalentes: detenerse en un ser necesario es detenerse en algo cuya naturaleza da cuenta de que exista, y detenerse en un universo bruto no lo es. Esa comparación supone que hay una exigencia explicativa que puede satisfacerse bien o mal. Esta versión niega la exigencia, de modo que un argumento según el cual una respuesta es mejor que otra no va dirigido a ella.",
+              "objection": {
+                "text": "Declarar que una pregunta está mal planteada es la tesis más fuerte posible y la más difícil de establecer. La gente lleva tres mil años haciendo esta pregunta sin confusión manifiesta, y «no tiene usted licencia para esperar la nada» no es lo mismo que «no hay nada que explicar»: el hecho de que exista un universo sigue siendo un hecho, cualesquiera que fueran nuestras expectativas. La posición encaja además con dificultad en el resto de su propio lado: la respuesta del hecho bruto concede que la pregunta es real y que simplemente no tiene respuesta, algo que no podría hacer si la pregunta estuviera malformada.",
+                "from": "theist",
+                "response": "Que una pregunta se haya hecho durante mucho tiempo no prueba que esté bien formada; varias preguntas de larga vida han resultado presuponer algo falso. La fricción con la otra respuesta es real, y es precisamente para eso que existe esta sección."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-parts-and-the-whole",
+          "claim": "Una vez explicada cada parte, no queda ninguna cosa más que explicar",
+          "explanation": "Supongamos que cada suceso de la historia del universo queda explicado por uno anterior, sin huecos. ¿Qué queda? Según esta posición, nada: la exigencia de una explicación del conjunto entero, por encima de la explicación de cada miembro, es la exigencia de algo que no existe.\n\nHume formuló la idea dos siglos antes del debate actual, y sigue siendo lo que dice la mayoría de los filósofos ateos. La palabra «universo» nos tienta a tratar el conjunto como un objeto adicional que pide cuentas propias. No es un objeto adicional. Es las cosas.",
+          "quote": {
+            "text": "Si yo le mostrara las causas particulares de cada individuo en un conjunto de veinte partículas de materia, me parecería muy poco razonable que luego me preguntara cuál fue la causa de las veinte en su conjunto.",
+            "author": "David Hume",
+            "work": "Dialogues Concerning Natural Religion (Diálogos sobre la religión natural)",
+            "year": "1779",
+            "locator": "Part IX, spoken by Cleanthes",
+            "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Did I show you the particular causes of each individual in a collection of twenty particles of matter, I should think it very unreasonable, should you afterwards ask me, what was the cause of the whole twenty.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Explicar cada miembro por otro miembro no explica por qué hay una serie en absoluto. Si cada abrigo de un perchero cuelga del gancho del abrigo de al lado, ha explicado cada abrigo y no por qué hay algo que no esté en el suelo. La pregunta nunca fue «qué causó este suceso», sino «por qué hay una secuencia en lugar de ninguna».",
+            "response": "La imagen de los abrigos supone lo que intenta mostrar: que el conjunto necesita que algo exterior lo sostenga. Si la serie no tiene primer miembro ni apoyo externo, nada queda inexplicado; simplemente no hay ningún hecho adicional de la clase que la pregunta busca."
+          }
+        }
+      ]
+    }
+  ],
+  "whereItStands": "Ninguna observación incide en esto. Ambos lados aceptan todos los hechos sobre el universo y discrepan sobre si queda una pregunta más una vez que los hechos están puestos.\n\nEso no lo convierte en un empate. El [[principio de razón suficiente]] es objeto de discusión propia, minuciosa y actual: si puede restringirse a los hechos contingentes sin derrumbarse, si implica que todo es necesario, si una versión más débil sigue sosteniendo el argumento. Quienes trabajan en ello cambian de opinión, y por eso esto está etiquetado como abierto y no como interpretativo.\n\nDónde aterriza un lector sigue dependiendo mucho de cuánta ambición explicativa considere justificada. Si uno sostiene que todo debe tener explicación, el teísmo se sigue de ese punto de partida con más naturalidad que el ateísmo, y la mayoría de los filósofos ateos que se enfrentan de cerca al argumento lo conceden, y por eso atacan el principio y no la inferencia. Si uno sostiene que la explicación tiene que tocar fondo en algún sitio y que el universo es tan buen sitio como cualquiera, el argumento nunca llega a arrancar.",
+  "commonMistake": "Los ateos responden casi siempre a una pregunta que no se hizo, explicando cómo se desarrolló el universo a partir de un estado anterior. Es una buena respuesta a otra pregunta, y deja esta exactamente donde estaba.\n\nLos cristianos terminan casi siempre demasiado pronto, tratando «por tanto un ser necesario» como si fuera «por tanto Dios». Tomás de Aquino y Leibniz sabían que eran pasos distintos y los argumentaron por separado; la versión comprimida se salta la mitad más difícil.\n\nY ambos lados acusan al otro de detenerse arbitrariamente, sin notar que detenerse en algún sitio es la única opción que tiene cualquiera de los dos. La forma honesta de este argumento es un desacuerdo sobre dónde detenerse, no sobre si hay que hacerlo.",
+  "sources": [
+    {
+      "title": "Principles of Nature and Grace, Founded on Reason",
+      "author": "Gottfried Wilhelm Leibniz",
+      "year": "1714",
+      "url": "https://philpapers.org/rec/LEIPON",
+      "note": "La versión de libre acceso de Early Modern Texts es una reformulación en inglés moderno, no una traducción, y por eso no sirve para comprobar la literalidad."
+    },
+    {
+      "title": "Summa Theologiae I, q. 2, a. 3",
+      "author": "Tomás de Aquino",
+      "year": "c. 1265",
+      "url": "https://www.newadvent.org/summa/1002.htm",
+      "note": "La tercera vía. Tomás de Aquino argumenta por separado, y largamente, que el ser necesario es Dios."
+    },
+    {
+      "title": "Debate sobre la existencia de Dios, BBC Third Programme",
+      "author": "Bertrand Russell y Frederick Copleston",
+      "year": "1948",
+      "url": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm",
+      "note": "Transcripción completa. Copleston argumenta desde la contingencia; las réplicas de Russell son la fuente de la mayoría de las respuestas ateas posteriores."
+    },
+    {
+      "title": "Dialogues Concerning Natural Religion",
+      "author": "David Hume",
+      "year": "1779",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "note": "La parte IX contiene la objeción al argumento de la contingencia."
+    },
+    {
+      "title": "Cosmological Argument",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+    }
+  ]
+}

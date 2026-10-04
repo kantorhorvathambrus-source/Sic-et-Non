@@ -1,0 +1,252 @@
+{
+  "id": "beginning-and-cause",
+  "number": 1,
+  "slug": "comienzo-y-causa",
+  "title": "¿Tuvo el universo un comienzo, y necesita un comienzo una causa?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "El argumento es antiguo, de origen islámico, y lo bastante breve para caber en una servilleta. Todo lo que empieza a existir tiene una causa. El universo empezó a existir. Luego el universo tiene una causa.\n\nSu brevedad es justamente el problema: casi todos los que lo repiten están discutiendo sobre una pieza distinta de las tres que lo componen. Si el universo tuvo un comienzo es asunto de los cosmólogos, y su respuesta es bastante más cautelosa de lo que suelen reconocer ambos bandos. Si empezar a existir exige una causa es asunto de los filósofos, y no es la verdad evidente que parece. Si esa causa se parecería en algo a Dios es una tercera cuestión, que el argumento por sí solo no toca.\n\nEsta página trata de la segunda, porque ahí está el desacuerdo vivo.",
+  "distinctions": [
+    {
+      "label": "¿Tuvo el universo un comienzo?",
+      "gloss": "Una cuestión de física. La respuesta honesta es que la evidencia apunta en esa dirección y que los modelos que lo evitan no están descartados. Se expone en la nota final, no se discute aquí.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Exige empezar a existir una causa?",
+      "gloss": "Una cuestión filosófica que ninguna cantidad de cosmología resuelve. Es el argumento de esta página.",
+      "activeHere": true
+    },
+    {
+      "label": "¿Sería Dios esa causa?",
+      "gloss": "Un paso más que el argumento no da por sí solo. Pasar de «una causa» a algo digno de adoración requiere los argumentos de los temas 2 y 5, y aquí no se intenta.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "causa",
+      "definition": "En este argumento, aquello que explica por qué una cosa existe en lugar de no existir. No necesariamente un empujón ni una explosión: la cuestión es la dependencia, no la mecánica."
+    },
+    {
+      "term": "empezar a existir",
+      "definition": "Llegar a ser en un primer instante, sin nada antes. Aplicárselo al universo resulta extraño, porque no hay ningún «antes» tras el cual pudiera llegar a ser."
+    },
+    {
+      "term": "vacío cuántico",
+      "definition": "No es la nada. Es un sistema físico con energía y leyes, en el que las partículas aparecen y desaparecen. Cuando los físicos dicen que las partículas surgen de la nada, suelen referirse a esto."
+    },
+    {
+      "term": "singularidad",
+      "definition": "Un punto en el que los números de una teoría se van al infinito y deja de dar respuestas. Puede señalar un borde real del tiempo, o solo el borde de lo que la relatividad general es capaz de describir."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Un comienzo es la clase de cosa que pide explicación",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "out-of-nothing",
+          "claim": "De la nada no sale nada, y eso no es un hallazgo científico sino el supuesto sobre el que la ciencia funciona",
+          "explanation": "La premisa causal no es una generalización obtenida de observar cómo empiezan muchas cosas. Se parece más a una regla sin la cual no podemos pensar. Si las cosas pudieran simplemente empezar sin causa, no habría razón alguna para que no apareciera cualquier cosa ahora mismo, ni razón para que los científicos buscaran causas, que es a lo que dedican la vida.\n\nWilliam Lane Craig, que recuperó el argumento en los años setenta, carga el peso aquí y no en la física. Si la expresión [[empezar a existir]] se aplica al universo, preguntar qué lo explica no es una pregunta extraña, sino la pregunta de siempre.",
+          "quote": {
+            "text": "Todo lo que empieza a existir tiene una causa de su existencia. El universo empezó a existir. Por tanto, el universo tiene una causa de su existencia.",
+            "author": "William Lane Craig",
+            "work": "The Kalām Cosmological Argument",
+            "year": "1979",
+            "locator": "the argument as Craig states it, defended at length in his later writings",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Whatever begins to exist has a cause of its existence. The universe began to exist. Therefore, the universe has a cause of its existence.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Toda [[causa]] que alguien haya observado ocurrió dentro del tiempo, sobre algo hecho de material ya existente, en un universo con leyes. La premisa es una regla excelente acerca de los sucesos dentro del universo, y no hay razón para pensar que se aplique al universo mismo. Extenderla hasta ahí no es evidente: es precisamente lo que hay que demostrar.",
+            "response": "La objeción prueba demasiado. Si las reglas aprendidas dentro del universo no pueden aplicarse a él, tampoco puede aplicarse la cosmología en la que se apoya el otro bando, ni la lógica, ni el cálculo de probabilidades. Algo tiene que cruzar la frontera, y un principio tan básico es un raro candidato al abandono justo donde resulta incómodo.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "essentially-ordered",
+              "label": "Una causa aquí y ahora, no al principio",
+              "heldBy": "Tomás de Aquino; Edward Feser, David Oderberg, Gaven Kerr",
+              "oneLine": "El argumento que importa no habla de un primer instante: sostiene que todo lo que existe de forma derivada necesita algo que lo sostenga en cada instante.",
+              "summary": "La tradición tomista concede lo que el kalam discute —un universo sin comienzo temporal no le supondría ningún apuro— y sostiene que eso no cambia nada.\n\nLa distinción se da entre una serie extendida en el tiempo, en la que cada causa ya hizo su trabajo y desapareció, y una serie en la que cada miembro está siendo sostenido ahora mismo. Un gato sobre un suelo sobre unas vigas sobre unos cimientos es del segundo tipo: quítese el terreno y todo el conjunto se viene abajo en este instante, no con el tiempo. Según esta lectura, el mundo es una serie de ese tipo hasta el fondo, y aquello en lo que termina no es el primer suceso, sino lo único cuya existencia no se deriva de nada.",
+              "quote": {
+                "text": "La prueba aristotélica no apunta a una causa primera al comienzo de una secuencia de sucesos consecutivos, sino a una causa sustentadora que en cada instante mantiene en la existencia a las cosas finitas y mudables.",
+                "author": "Edward Feser",
+                "work": "Five Proofs of the Existence of God",
+                "year": "2017",
+                "locator": "our summary of the essentially-ordered argument as Feser states it; not his wording",
+                "sourceUrl": "http://edwardfeser.blogspot.com/2016/06/four-causes-and-five-ways.html",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The Aristotelian proof does not point to a first cause at the start of a sequence of consecutive events, but to a sustaining cause that at every instant holds finite and changeable things in existence.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que toda causa observada operó dentro del tiempo, sobre material ya existente, y que por eso la premisa no puede extenderse al universo entero. Esta versión no la extiende de ese modo. No afirma que el universo empezó y por tanto tuvo una causa; afirma que todo lo que existe de forma derivada está siendo sostenido ahora, y ese argumento funcionaría igual en un universo sin ningún primer instante.",
+              "objection": {
+                "text": "El argumento necesita una distinción entre las cosas cuya existencia es derivada y las que no lo es, y esa distinción hace todo el trabajo antes de que se formule ninguna tesis causal. Los críticos sostienen que la serie podría simplemente no tener término, o que el universo mismo es el miembro no derivado; y la réplica de que el universo es compuesto y por tanto no puede ser no derivado presupone una metafísica aristotélica de acto y potencia que casi nadie acepta fuera de esa tradición. Una prueba cuyas premisas solo están disponibles dentro de una escuela no es obviamente una prueba.",
+                "from": "atheist",
+                "response": "Todo argumento tiene premisas que alguien rechaza. El análisis de acto y potencia se defiende por sus propios motivos y no se da por supuesto, y la alternativa —una serie de existencias derivadas sin nada no derivado en ninguna parte— es precisamente lo que se niega, no una opción intacta."
+              }
+            }
+          ]
+        },
+        {
+          "id": "an-actual-beginning",
+          "claim": "La evidencia apunta a un comienzo real, no solo al límite de nuestras teorías",
+          "explanation": "El teorema de Borde-Guth-Vilenkin, de 2003, mostró que ningún universo que en promedio se haya estado expandiendo puede prolongarse infinitamente hacia el pasado, incluidos los modelos inflacionarios y cíclicos construidos para evitar un comienzo. Es un resultado sobre la geometría y no depende de cuál de los modelos acabe siendo el correcto.\n\nAlexander Vilenkin, uno de sus autores, lo dijo sin rodeos en una reunión celebrada en 2012. No es teísta y no extrae de ello ninguna conclusión teológica, y por eso vale más citarlo a él que a alguien que sí la extrae.",
+          "quote": {
+            "text": "Toda la evidencia que tenemos dice que el universo tuvo un comienzo.",
+            "author": "Alexander Vilenkin",
+            "work": "Did the Universe Have a Beginning?, talk at the State of the Universe meeting, Cambridge",
+            "year": "2012",
+            "sourceUrl": "https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "All the evidence we have says that the universe had a beginning.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "El teorema impone restricciones a los espaciotiempos clásicos, y nadie cree que el universo más temprano fuera clásico. Lo que muestra es que nuestra descripción actual se rompe, que es lo que muestra siempre una [[singularidad]]. Vilenkin mismo ha trabajado después en modelos de gravedad cuántica en los que el límite no es un comienzo absoluto, y ninguna teoría en la que confiemos llega tan atrás.",
+            "response": "Concedido, y por eso el argumento no descansa aquí. La tesis es más estrecha: los modelos diseñados precisamente para evitar un comienzo no han conseguido evitarlo, y un universo eterno en el pasado es hoy la posición más difícil de sostener, no la opción segura.",
+            "objectionFrom": "within",
+            "sharedPremise": "acepta por completo el teorema de Borde-Guth-Vilenkin y la cosmología observacional, y argumenta solo a partir de esos resultados que un teorema sobre espaciotiempos clásicos no decide qué ocurrió allí donde la descripción clásica falla, que es justo el régimen que el argumento necesita."
+          }
+        }
+      ]
+    },
+    {
+      "label": "La premisa no sobrevive al contacto con el universo mismo",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "the-premise-eats-itself",
+          "claim": "Si todo necesita una causa, Dios también; y si algo puede no necesitarla, bien puede ser el universo",
+          "explanation": "Es la objeción más antigua y suele descartarse demasiado rápido. Los defensores responden que la premisa no es «todo tiene una causa», sino «todo lo que empieza a existir tiene una causa», y Dios no empezó: la objeción, por tanto, falla el blanco.\n\nLa respuesta funciona, pero conviene mirar lo que cuesta. La premisa ya no hace ningún trabajo independiente: afirma que lo que empieza necesita causa, y lo único que alguien sostiene que empezó es el universo. El argumento se ha convertido discretamente en la afirmación que debía probar. La versión de Russell es más tosca que la literatura actual, pero localiza el mismo punto blando.",
+          "quote": {
+            "text": "Si todo debe tener una causa, entonces Dios debe tener una causa. Si puede haber algo sin causa, bien puede ser el mundo tanto como Dios, de modo que ese argumento no puede tener ninguna validez.",
+            "author": "Bertrand Russell",
+            "work": "Why I Am Not a Christian (Por qué no soy cristiano)",
+            "year": "1927",
+            "sourceUrl": "https://russell-j.com/0399WINC.HTM",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La distinción no es una escapatoria inventada para salvar el argumento. Es mucho más antigua que la objeción y se apoya en una diferencia real: una cosa que ha existido siempre no necesita que se explique cómo empezó, porque no empezó. Russell ataca una premisa que nadie que defienda el argumento ha sostenido en ochocientos años.",
+            "response": "Entonces el argumento necesita una razón independiente para pensar que el universo es la clase de cosa que empezó y que Dios no lo es, y esa razón no puede ser el argumento mismo. Sin ella, «ser necesario» es una etiqueta para lo que uno ya había decidido no explicar."
+          }
+        },
+        {
+          "id": "causation-inside-time",
+          "claim": "Causar exige un antes y un después, y en el primer instante no hay antes",
+          "explanation": "Toda causa que entendemos lleva tiempo: un estado de cosas conduce a otro. Si el primer instante del tiempo es el primero, no hay ningún instante anterior en el que una causa pueda alojarse, y «causado» se está usando en un sentido con el que nadie se ha encontrado nunca.\n\nLa versión de Sean Carroll es que la exigencia de una causa es un hábito de pensamiento y no una ley de la física. La física fundamental no describe el mundo como una cadena de causas, sino como un conjunto de pautas que se cumplen. Un universo con un primer instante y sin causa no es incoherente, solo es insólito, y lo insólito no es un argumento.",
+          "quote": {
+            "text": "La posición de Carroll es que la física moderna no describe el universo en términos de causas, sino de pautas; que un universo autocontenido con un instante inicial no quebranta ninguna ley y no necesita causa externa; y que la intuición que exige una es un hábito de la vida cotidiana, no un hallazgo sobre el mundo.",
+            "author": "Sean Carroll",
+            "work": "Does the Universe Need God?",
+            "year": "2012",
+            "locator": "our summary of the position Carroll defends in this essay; not his wording",
+            "sourceUrl": "https://preposterousuniverse.com/writings/dtung/",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Carroll's position is that modern physics does not describe the universe in terms of causes at all, but in terms of patterns; that a self-contained universe with an earliest moment breaks no law and needs no external cause; and that the intuition demanding one is a habit from everyday life rather than a finding about the world.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "«Las ecuaciones no mencionan causas» es un hecho sobre la notación, no sobre la realidad. La física tampoco menciona personas ni promesas. Y una causa no tiene por qué ser anterior en el tiempo: la tradición siempre ha admitido una causa simultánea con lo causado, o ajena a ello; lo que importa es la dependencia, no la secuencia.",
+            "response": "Una vez que la causa no tiene que ser anterior, ni física, ni actuar de ninguna manera que podamos describir, es justo preguntar qué queda de la palabra. La fuerza del argumento venía del sentido corriente de «causa», y es exactamente ese sentido el que se ha abandonado para que el argumento funcione.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "quantum-nothing",
+              "label": "El espacio vacío no es estable",
+              "heldBy": "Lawrence Krauss; Alexander Vilenkin y Alan Guth sobre cosmología cuántica",
+              "oneLine": "Un universo puede surgir del espacio vacío sin causa alguna, porque el espacio vacío es un sistema cuántico y los sistemas cuánticos no se están quietos.",
+              "summary": "Es la versión que la mayoría de los lectores conoce, y afirma algo más fuerte que la anterior. No dice que el principio causal no se extienda más allá del tiempo; dice que el principio ya es falso dentro del mundo, y que podemos verlo fallar.\n\nSegún la cosmología cuántica, un universo de energía total nula puede aparecer a partir de un estado sin materia, sin radiación y sin espaciotiempo, por la misma física que hace que el vacío burbujee de partículas. Si ese estado merece el nombre de «nada» es precisamente lo que está en discusión.",
+              "quote": {
+                "text": "La nada es inestable. Siempre producirá algo.",
+                "author": "Lawrence M. Krauss",
+                "work": "A Universe from Nothing, in interview",
+                "year": "2012",
+                "sourceUrl": "https://www.npr.org/2012/01/13/145175263/lawrence-krauss-on-a-universe-from-nothing",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Nothing is unstable. It will always produce something.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que «las ecuaciones no mencionan causas» es un hecho sobre la notación y no sobre el mundo. Esa réplica va dirigida a una posición según la cual la pregunta causal no se plantea; esta versión dice que la pregunta causal se plantea y recibe respuesta: de la física, y con un mecanismo. Es una afirmación mucho más expuesta y mucho más contrastable.",
+              "objection": {
+                "text": "El [[vacío cuántico]] no es la nada. Es un sistema físico con energía, estructura y leyes, y un universo que emerge de él es un universo que emerge de algo muy determinado. Sean Carroll, desde este mismo lado de la página, ha formulado la crítica con la misma claridad que cualquier teísta: el libro juega con la ambigüedad entre la nada del filósofo y el vacío del físico, y el título promete responder a una pregunta que el contenido no aborda. De dónde salieron las leyes mismas es entonces la misma pregunta un paso más atrás.",
+                "from": "within",
+                "sharedPremise": "acepta íntegramente la teoría cuántica de campos y los modelos cosmológicos, y argumenta solo a partir de esas premisas que el estado del que parten es un sistema físico con propiedades, de modo que describirlo como la nada cambia de tema en lugar de responder a la pregunta.",
+                "response": "Puede que no haya otro sentido coherente de «nada». Un estado sin espacio, sin tiempo y sin materia está tan cerca de la nada como algo puede estarlo, y exigir una nada sin propiedad alguna quizá sea exigir algo que no podría existir para ser explicado."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Qué dice realmente la cosmología",
+      "oneLine": "El modelo del Big Bang describe un universo que se expande desde un estado inicial caliente y denso; que ese estado fuera el comienzo del tiempo no está resuelto, y ambos bandos lo afirman de forma rutinaria.",
+      "text": "Ambos bandos exageran aquí, así que conviene exponerlo por separado.\n\nEl modelo del Big Bang describe un universo que se expande desde un estado inicial extremadamente caliente y denso, hace unos 13.800 millones de años. Eso no está en duda. Lo que no dice sin más es que aquello fuera el comienzo de todo: si se hacen retroceder las ecuaciones lo suficiente, la relatividad general produce una [[singularidad]], que suele leerse como el fracaso de la teoría y no como la descripción de un primer instante real. Haría falta una teoría cuántica de la gravedad para decir qué ocurrió allí, y todavía no hay ninguna establecida.\n\nEl teorema de Borde-Guth-Vilenkin es una restricción real y descarta una amplia clase de modelos eternos en el pasado. No es una prueba de que el tiempo haya empezado. Quien le diga que la cosmología ha establecido un comienzo, o que lo ha descartado, va por delante de la evidencia.\n\nConviene atajar una confusión. Los físicos dicen a veces que las partículas surgen de la nada, y las divulgaciones lo entienden como si la ciencia sacara algo de la inexistencia. A lo que se refieren es al [[vacío cuántico]], que es un sistema físico con energía, estructura y leyes. Sea lo que sea, no es la nada de la que trata este argumento."
+    }
+  ],
+  "whereItStands": "La física está realmente sin resolver y es probable que siga así una buena temporada, de modo que un argumento que se apoye con fuerza en la cosmología construye sobre un terreno que puede moverse.\n\nLa mitad filosófica es donde está el desacuerdo real, y es más estrecho de lo que parece. Casi nadie cree que en la vida corriente las cosas aparezcan sin causa. La cuestión es si esa confianza se traslada al universo entero, un caso en el que falta todo lo que hacía evidente el principio. Ambos bandos extrapolan; discrepan sobre qué extrapolación es más segura.\n\nVale la pena notar que incluso un éxito completo aquí rinde menos de lo que parece. El argumento entrega una causa del universo, y mostrar que esa causa es personal, buena o que se interesa por alguien es una tarea aparte por completo. Los defensores del argumento lo admiten y lo dicen.",
+  "commonMistake": "Los ateos recurren casi siempre a «¿y entonces quién hizo a Dios?», algo que el argumento respondió hace mucho. Detrás hay una objeción mucho mejor —que la distinción entre lo que empieza y lo que no hace todo el trabajo y no se ha ganado de forma independiente—, y echar mano de la más débil la desperdicia.\n\nLos cristianos presentan casi siempre la cosmología como resuelta cuando no lo está, y luego tratan la frase cautelosa de un físico como un respaldo. El resultado es que la credibilidad del argumento sube y baja con el último artículo publicado, que es un mal sitio donde apoyar una causa que a uno le importa.\n\nAmbos bandos discuten en paralelo sobre cuál de las tres preguntas está en juego. Muchísimos intercambios consisten en que uno defiende la premisa causal mientras el otro ataca la cosmología, sin que ninguno se dé cuenta.",
+  "sources": [
+    {
+      "title": "In Defense of the Kalam Cosmological Argument",
+      "author": "William Lane Craig",
+      "url": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/in-defense-of-the-kalam-cosmological-argument",
+      "note": "Exposición y defensa del argumento por Craig mismo. El libro del mismo título es de 1979."
+    },
+    {
+      "title": "Did the Universe Have a Beginning?",
+      "author": "Alexander Vilenkin",
+      "year": "2012",
+      "url": "https://www.ctc.cam.ac.uk/stephen70/talks/swh70_vilenkin.pdf",
+      "note": "La conferencia de Vilenkin, pronunciada en la reunión donde se hizo la observación citada."
+    },
+    {
+      "title": "Why I Am Not a Christian",
+      "author": "Bertrand Russell",
+      "year": "1927",
+      "url": "https://russell-j.com/0399WINC.HTM"
+    },
+    {
+      "title": "Does the Universe Need God?",
+      "author": "Sean Carroll",
+      "year": "2012",
+      "url": "https://preposterousuniverse.com/writings/dtung/",
+      "note": "Escrito para el Blackwell Companion to Science and Christianity. El resumen de esta página es una paráfrasis, no una cita."
+    },
+    {
+      "title": "Cosmological Argument",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "something-rather-than-nothing",
+  "number": 2,
+  "slug": "etwas-statt-nichts",
+  "title": "Warum gibt es etwas und nicht nichts?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "Nichts wäre einfacher gewesen. Keine Sterne, keine Atome, keine Gesetze, kein Raum, in dem etwas sein könnte. Dieser Zustand braucht keine Erklärung, keinen Ursprung und keine Erhaltung. Und doch ist hier ein Universum.\n\nDie Frage betrifft nicht den Urknall. Selbst wenn sich das Universum als unendlich alt erwiese und nie begonnen hätte, wäre es immer noch da und nicht nicht da, und die Frage bliebe unberührt. Sie fragt etwas Fremderes: Warum gibt es überhaupt etwas, das eine Geschichte haben könnte?\n\nDie eine Seite sagt, eine so grundlegende Frage müsse eine Antwort haben, und die einzige Art von Antwort, die taugte, sei etwas, das nicht hätte fehlen können. Die andere sagt, die Forderung nach einer Antwort sei eine Gewohnheit, die wir überdehnt haben, und irgendwann müsse eine Erklärung aufhören.",
+  "distinctions": [
+    {
+      "label": "Warum gibt es überhaupt etwas?",
+      "gloss": "Warum Existenz und nicht einfach gar nichts. Das ist das Argument dieser Seite, und keine Entdeckung über den Inhalt des Universums kann es beantworten.",
+      "activeHere": true
+    },
+    {
+      "label": "Warum hat das Universum begonnen?",
+      "gloss": "Eine Frage nach einem ersten Augenblick, und eine andere: Ein ewiges Universum wäre auf dieser Seite noch immer erklärungsbedürftig. Thema 1.",
+      "activeHere": false
+    },
+    {
+      "label": "Warum ist das Universum so und nicht anders?",
+      "gloss": "Warum diese Konstanten, diese Gesetze, diese Einrichtung. Ebenfalls eine andere Frage, verhandelt in Thema 5.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "kontingent",
+      "definition": "Etwas, das existiert, aber hätte fehlen können. Sie sind kontingent. Und offenbar ist alles kontingent, was Sie je gesehen haben."
+    },
+    {
+      "term": "notwendiges Seiendes",
+      "definition": "Etwas, das nicht hätte fehlen können, sodass die Frage, warum es existiert und nicht vielmehr nicht, ihre Antwort in dem hat, was es ist. Ob es so etwas gibt, ist der Streitpunkt."
+    },
+    {
+      "term": "Satz vom zureichenden Grund",
+      "definition": "Die Behauptung, dass alles eine Erklärung hat, entweder in etwas anderem oder in seiner eigenen Natur. Mächtig, schwer zu beweisen und schwer aufzugeben, ohne auch das gewöhnliche Schließen aufzugeben."
+    },
+    {
+      "term": "brute Tatsache",
+      "definition": "Etwas Wahres ohne jede Erklärung: nicht bisher unerklärt, sondern unerklärt, Punkt. Die atheistische Antwort hier lautet meist, das Universum sei eine solche."
+    },
+    {
+      "term": "Kompositionsfehlschluss",
+      "definition": "Aus einer Eigenschaft der Teile auf dieselbe Eigenschaft des Ganzen schließen. Jeder Ziegel ist klein, also ist die Mauer klein, was falsch ist. Ob das Argument dieser Seite ihn begeht, ist umstritten."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Etwas, das nicht hätte fehlen können",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "nothing-is-simpler",
+          "claim": "Nichts ist der Zustand, der keiner Erklärung bedürfte, also bedarf etwas einer",
+          "explanation": "Leibniz bemerkte, dass die Frage nicht müßig ist. Nichtexistenz ist kein rivalisierender Sachverhalt, der sich um die Stelle bewirbt; sie ist die Abwesenheit jeder Stelle. Damit nichts ist, muss nichts geschehen. Etwas ist der Ausreißer.\n\nSein Grundsatz lautet, dass alles eine Erklärung hat, entweder in etwas außer ihm oder in dem, was es ist. Wendet man das auf das Universum an, ergibt sich eines von zwei Ergebnissen: Entweder wird es durch etwas anderes erklärt, oder seine Existenz ist irgendwie in seine eigene Natur eingebaut. Das Zweite behauptet vom physischen Universum fast niemand. Bleibt das Erste — oder bleibt der [[Satz vom zureichenden Grund]] aufgegeben.",
+          "quote": {
+            "text": "Warum gibt es etwas und nicht nichts? Denn das Nichts ist einfacher und leichter als etwas.",
+            "author": "Gottfried Wilhelm Leibniz",
+            "work": "Principles of Nature and Grace, Founded on Reason",
+            "year": "1714",
+            "locator": "§7",
+            "sourceUrl": "https://philpapers.org/rec/LEIPON",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Why is there something rather than nothing? For nothing is simpler and easier than something.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Der Satz wird behauptet, nicht begründet. Innerhalb des Universums funktioniert er glänzend, weil Erklärungen sich durch Hinsehen finden lassen, und es gibt keinen unabhängigen Grund anzunehmen, dass er für die Existenz als solche gilt. Und gilt er universell, steckt er ohnehin in Schwierigkeiten: Dann bräuchte auch Gottes Existenz eine Erklärung, und sie selbsterklärend zu nennen ist erkennbar nicht viel mehr als eine Art aufzuhören.",
+            "response": "Ihn aufzugeben hat einen Preis, den man selten mitrechnet. Haben manche Dinge einfach keine Erklärung, dann zählt kein Misserfolg bei der Suche nach einer je als Hinweis auf irgendetwas, und das Schließen, das uns überhaupt zu der Frage gebracht hat, ist untergraben. Die Wahl steht nicht zwischen einem Grundsatz und keinem; sie steht zwischen einem Grundsatz und Beliebigkeit.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "classical-theism",
+              "label": "Gott ist kein Seiendes unter Seienden",
+              "heldBy": "Thomas von Aquin; Edward Feser, David Bentley Hart, Brian Davies",
+              "oneLine": "Die Antwort lautet nicht, dass ein weiteres Ding notwendig existiert, sondern dass alles, dessen Wesen das Existieren nicht einschließt, von dem Einen abhängt, dessen Wesen das Existieren ist.",
+              "summary": "Der klassische Theismus und das Argument oben erreichen denselben Schluss auf Wegen, die ihre eigenen Verteidiger für wichtig verschieden halten — und der Streit darüber ist innerhalb der christlichen Philosophie lebendig, Feser und Craig stehen gedruckt auf entgegengesetzten Seiten.\n\nDer Schritt hier ist kein Erklärungsgrundsatz, der auf das Universum angewandt wird. Er ist eine Unterscheidung zwischen zwei Arten von Dingen: solchen, bei denen das, was ein Ding ist, und dass es ist, auseinandertreten, und einem, bei dem sie es nicht tun. Alles der ersten Art hat seine Existenz von außerhalb seiner selbst. Was diese Abhängigkeit beendet, ist kein ungewöhnlich mächtiger Posten im Bestandsverzeichnis der Dinge; nach dieser Darstellung ist es überhaupt kein Posten darin.",
+              "quote": {
+                "text": "Gott ist das Sein selbst durch sein eigenes Wesen",
+                "author": "Thomas von Aquin",
+                "work": "Summa Theologiae, I q.3 a.4",
+                "year": "c. 1270",
+                "locator": "on whether essence and existence are the same in God",
+                "sourceUrl": "https://www.newadvent.org/summa/1003.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "God is very being by His own essence",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, der Erklärungsgrundsatz werde behauptet statt begründet — nichts berechtige dazu, für das Universum als Ganzes eine Erklärung zu verlangen. Diese Fassung läuft nicht auf einem allgemeinen Grundsatz über Erklärung. Sie läuft auf einer bestimmten Behauptung über zwei Arten von Sein, und dort muss sie angegriffen werden: indem man die Unterscheidung von Wesen und Existenz bestreitet oder behauptet, das Universum selbst sei von der zweiten Art. Ein Argument, der Grundsatz sei unbewiesen, hat keinen Grundsatz vor sich.",
+              "objection": {
+                "text": "Die Unterscheidung ist das ganze Argument, und sie ist nur innerhalb einer Metaphysik verfügbar. Außerhalb der aristotelisch-thomistischen Philosophie ist „Wesen“ nichts, was ein Seiendes im erforderlichen Sinn hat, und die Behauptung, die Existenz komme dazu, ist eine, die die meisten Philosophen nicht einmal formulieren, geschweige denn prüfen können. Es gibt außerdem einen Preis, den ihre Verteidiger hinnehmen und ihre Kritiker für tödlich halten: Ein Gott, der kein Seiendes unter Seienden ist und keine Eigenschaften im gewöhnlichen Sinn hat, ist praktisch sehr schwer von jener bruten Notwendigkeit zu unterscheiden, mit der sich die andere Seite angeblich zufriedengibt.",
+                "from": "atheist",
+                "response": "Dass eine Position ihre eigene Metaphysik braucht, ist kein Einwand gegen sie, und die Unterscheidung wird ausführlich begründet, nicht unterstellt. Der Vorwurf der Unterscheidungslosigkeit läuft auch umgekehrt: Ein Gott, der bloß ein sehr großer Posten im Bestandsverzeichnis wäre, wäre genau das, was nach der anderen Seite der Erklärung bedarf."
+              }
+            }
+          ]
+        },
+        {
+          "id": "contingent-all-the-way",
+          "claim": "Eine Sammlung von Dingen, die hätten fehlen können, erklärt sich nicht dadurch, dass sie groß ist",
+          "explanation": "Alles, dem wir je begegnet sind, ist [[kontingent]]: Es existiert, und es hätte fehlen können. Die Fassung des Thomas von Aquin lautet, dass, wenn alles so wäre, nichts da wäre, um dafür aufzukommen, dass der ganze Betrieb läuft und nicht vielmehr nicht; wie weit die Kette auch zurückreicht, weitere Glieder liefern nicht, was jedem Glied fehlt.\n\nDer Schluss ist nicht in einem Schritt „also Gott“. Er lautet, dass etwas existieren muss, das nicht kontingent ist — ein [[notwendiges Seiendes]] —, und das Argument, dass dies dem Gott einer Religion gleicht, ist ein eigenes, das die klassische Tradition eigens geführt hat.",
+          "quote": {
+            "text": "Wir finden in der Natur Dinge, die sein und nicht sein können, da sie als entstehend und vergehend angetroffen werden und folglich sein und nicht sein können.",
+            "author": "Thomas von Aquin",
+            "work": "Summa Theologiae I, q. 2, a. 3, the Third Way, tr. Fathers of the English Dominican Province",
+            "year": "c. 1265",
+            "sourceUrl": "https://www.newadvent.org/summa/1002.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "We find in nature things that are possible to be and not to be, since they are found to be generated, and to corrupt, and consequently, they are possible to be and not to be.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Das sieht nach einem [[Kompositionsfehlschluss]] aus. Jeder Mensch hat eine Mutter; die Menschheit hat keine. Der Übergang von „jedes Ding ist kontingent“ zu „das Ganze ist kontingent“ ist genau der Schritt, der anderswo scheitert, und das Argument gibt keinen Grund an, warum er hier gelingen sollte.",
+            "response": "Die Antwort lautet, Kontingenz sei nicht wie Kleinsein oder Einemuttergehaben. Hätte jedes Glied einer Sammlung fehlen können, so hätte die Sammlung fehlen können, denn es wäre nichts von ihr übrig. Dieser Schluss ist nicht offenkundig ungültig — ob er offenkundig gültig ist, ist die Streitfrage."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Die Frage geht früher aus als die Antwort",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "just-there",
+          "claim": "Jede Erklärung hört irgendwo auf, und das Universum ist eine vernünftige Stelle dafür",
+          "explanation": "Der Theist hört bei einem Seienden auf, dessen Existenz keine weitere Auskunft braucht. Der Atheist hört einen Schritt früher auf, beim Universum. Beide hören auf; der Streit geht nur darum, wo, und keine der beiden Positionen darf die andere willkürlich nennen, ohne für ihren eigenen Halt einzustehen.\n\nRussell sagte dies 1948 im Radio zu Frederick Copleston, und der Wortwechsel ist noch heute die klarste Fassung der Patt-Situation. Es ist keine Weigerung zu denken. Es ist die Behauptung, irgendwo müsse eine [[brute Tatsache]] eintreten, und ein notwendiges Seiendes hinzuzufügen beseitige die brute Tatsache nicht, sondern benenne sie um.",
+          "quote": {
+            "text": "Ich würde sagen, das Universum ist einfach da, und das ist alles.",
+            "author": "Bertrand Russell",
+            "work": "Debate with Frederick Copleston, BBC Third Programme",
+            "year": "1948",
+            "sourceUrl": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "I should say that the universe is just there, and that's all.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die beiden Haltestellen sind nicht gleichwertig. Bei einem notwendigen Seienden aufzuhören heißt, bei etwas aufzuhören, dessen Natur für sein Existieren aufkommt; beim Universum aufzuhören heißt, bei etwas aufzuhören, das sichtlich anders hätte sein können, und einfach nicht weiterzufragen. Das eine ist eine Erklärung, das andere der Entschluss, keine zu wollen.",
+            "response": "Das trägt nur, wenn „notwendiges Seiendes“ ein kohärenter Begriff ist, der wirklich arbeitet, und nicht ein Name für die Stelle, an der die Fragen abgebrochen wurden. Niemand hat ein notwendiges Seiendes vorgelegt, das sich prüfen ließe, und „seine Natur kommt für sein Existieren auf“ ist eine Behauptung, kein Beweis.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "pseudo-question",
+              "label": "Die Frage ist schlecht gestellt",
+              "heldBy": "Adolf Grünbaum; Sean Carroll",
+              "oneLine": "Die Forderung nach einer Erklärung der Existenz beruht darauf, das Nichts als Normalfall zu behandeln, und dafür gibt es keinerlei Grund.",
+              "summary": "Dies ist eine schärfere Position als die vorige, und sie widerspricht ihr. Wo die Antwort der bruten Tatsache die Frage zugesteht und sie unbeantwortet lässt, bestreitet diese, dass es eine wohlgeformte Frage gibt.\n\nDas Argument greift eine Prämisse an, die gewöhnlich niemand ausspricht: dass nichts das Erwartbare sei, sodass etwas einen Grund brauche. Grünbaum verfolgt diese Annahme bis Leibniz zurück und fragt, was sie überhaupt berechtigen könnte. Unser Gefühl dafür, was von selbst geschieht oder natürlich ist, stammt aus dem Inneren einer Welt von Dingen und sagt uns gar nichts darüber, ob ein Universum ohne irgendetwas darin der unverwunderliche Fall gewesen wäre.",
+              "quote": {
+                "text": "Die Erklärungsforderung von Leibniz ist ein schlecht konzipierter Fehlstart, der ein Scheinproblem aufwirft",
+                "author": "Adolf Grünbaum",
+                "work": "Why Is There a World AT ALL, Rather Than Just Nothing?",
+                "year": "2009",
+                "sourceUrl": "https://www.stafforini.com/existence/Grunbaum%20-%20Why%20is%20there%20a%20world%20at%20all,%20rather%20than%20just%20nothing.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Leibniz's explanatory demand is an ill-conceived non-starter which poses a pseudo issue",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, die beiden Haltestellen seien nicht gleichwertig: Bei einem notwendigen Seienden aufzuhören heiße, bei etwas aufzuhören, dessen Natur für sein Existieren aufkommt, bei einem bruten Universum nicht. Dieser Vergleich setzt voraus, dass es eine Erklärungsforderung gibt, die gut oder schlecht erfüllt wird. Diese Fassung bestreitet die Forderung, sodass ein Argument, eine Antwort sei besser als die andere, sie nicht trifft.",
+              "objection": {
+                "text": "Eine Frage für schlecht gestellt zu erklären ist die stärkste mögliche Behauptung und die am schwersten zu begründende. Menschen stellen diese seit dreitausend Jahren ohne erkennbare Verwirrung, und „Sie haben keinen Anspruch darauf, nichts zu erwarten“ ist nicht dasselbe wie „es gibt nichts zu erklären“: Dass ein Universum existiert, bleibt eine Tatsache, welche Erwartungen wir auch hatten. Die Position passt zudem schlecht zum Rest ihrer eigenen Seite: Die Antwort der bruten Tatsache gesteht zu, dass die Frage wirklich ist und bloß keine Antwort hat, was sie nicht könnte, wäre die Frage missgebildet.",
+                "from": "theist",
+                "response": "Dass eine Frage lange gestellt wurde, belegt nicht, dass sie wohlgeformt ist; mehrere alte Fragen haben sich als Voraussetzung von etwas Falschem erwiesen. Die Spannung zur anderen Antwort ist echt, und genau dafür ist dieser Abschnitt da."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-parts-and-the-whole",
+          "claim": "Ist jeder Teil erklärt, bleibt kein weiteres Ding zu erklären übrig",
+          "explanation": "Nehmen wir an, jedes Ereignis in der Geschichte des Universums wird durch ein früheres erklärt, lückenlos. Was bleibt übrig? Nach dieser Auffassung nichts: Die Forderung nach einer Erklärung der ganzen Sammlung, über die Erklärung jedes Gliedes hinaus, ist die Forderung nach etwas, das es nicht gibt.\n\nHume hat das zwei Jahrhunderte vor der heutigen Debatte gesagt, und es ist noch immer, was die meisten atheistischen Philosophen sagen. Das Wort „Universum“ verleitet dazu, die Sammlung als zusätzlichen Gegenstand zu behandeln, der eigene Auskunft verlangt. Sie ist kein zusätzlicher Gegenstand. Sie ist die Dinge.",
+          "quote": {
+            "text": "Zeigte ich Ihnen die besonderen Ursachen jedes einzelnen Gliedes in einer Ansammlung von zwanzig Materieteilchen, so hielte ich es für höchst unvernünftig, wenn Sie mich danach fragten, was die Ursache aller zwanzig zusammen gewesen sei.",
+            "author": "David Hume",
+            "work": "Dialogues Concerning Natural Religion (Dialoge über natürliche Religion)",
+            "year": "1779",
+            "locator": "Part IX, spoken by Cleanthes",
+            "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Did I show you the particular causes of each individual in a collection of twenty particles of matter, I should think it very unreasonable, should you afterwards ask me, what was the cause of the whole twenty.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Jedes Glied durch ein anderes Glied zu erklären erklärt nicht, warum es überhaupt eine Reihe gibt. Hängt jeder Mantel an einer Garderobe am Haken des Mantels daneben, haben Sie jeden Mantel erklärt und nicht, warum überhaupt etwas nicht am Boden liegt. Die Frage war nie „was hat dieses Ereignis verursacht“, sondern „warum gibt es eine Folge und nicht keine“.",
+            "response": "Das Mantelbild setzt voraus, was es zeigen will — dass die Sammlung von etwas außerhalb gehalten werden muss. Hat die Reihe kein erstes Glied und keine äußere Stütze, bleibt nichts unerklärt; es gibt einfach keine zusätzliche Tatsache der Art, nach der die Frage sucht."
+          }
+        }
+      ]
+    }
+  ],
+  "whereItStands": "Keine Beobachtung berührt diese Frage. Beide Seiten akzeptieren jede Tatsache über das Universum und sind uneins darüber, ob eine weitere Frage bleibt, wenn die Tatsachen beisammen sind.\n\nDas macht es nicht zum Patt. Der [[Satz vom zureichenden Grund]] wird selbst genau und gegenwärtig verhandelt: ob er sich auf kontingente Tatsachen einschränken lässt, ohne zu kollabieren, ob er zur Folge hat, dass alles notwendig ist, ob eine schwächere Fassung das Argument noch trägt. Wer daran arbeitet, ändert seine Meinung, und darum ist dies als offen und nicht als auslegungsbedürftig gekennzeichnet.\n\nWo ein Leser landet, hängt noch stark davon ab, wie viel Erklärungsanspruch er für berechtigt hält. Hält man daran fest, dass alles eine Erklärung haben muss, folgt aus diesem Ausgangspunkt der Theismus natürlicher als der Atheismus, und die meisten atheistischen Philosophen, die sich näher mit dem Argument befassen, geben das zu — weshalb sie den Grundsatz angreifen und nicht den Schluss. Hält man daran fest, dass Erklärung irgendwo auf Grund stoßen muss und das Universum so gut ist wie jede andere Stelle, kommt das Argument nie in Gang.",
+  "commonMistake": "Atheisten beantworten meist eine Frage, die nicht gestellt war, und erklären, wie sich das Universum aus einem früheren Zustand entwickelt hat. Das ist eine gute Antwort auf eine andere Frage und lässt diese genau dort, wo sie war.\n\nChristen hören meist zu früh auf und behandeln „also ein notwendiges Seiendes“, als wäre es „also Gott“. Thomas von Aquin und Leibniz wussten beide, dass das verschiedene Schritte sind, und haben sie getrennt begründet; die zusammengezogene Fassung überspringt die schwerere Hälfte.\n\nUnd beide Seiten werfen einander willkürliches Aufhören vor, ohne zu bemerken, dass irgendwo aufzuhören die einzige Möglichkeit ist, die beide haben. Die ehrliche Form dieses Arguments ist ein Streit darüber, wo man aufhört, nicht darüber, ob.",
+  "sources": [
+    {
+      "title": "Principles of Nature and Grace, Founded on Reason",
+      "author": "Gottfried Wilhelm Leibniz",
+      "year": "1714",
+      "url": "https://philpapers.org/rec/LEIPON",
+      "note": "Die frei zugängliche Fassung von Early Modern Texts ist eine Umformulierung in modernem Englisch, keine Übersetzung, und taugt daher nicht zur Wortlautprüfung."
+    },
+    {
+      "title": "Summa Theologiae I, q. 2, a. 3",
+      "author": "Thomas von Aquin",
+      "year": "c. 1265",
+      "url": "https://www.newadvent.org/summa/1002.htm",
+      "note": "Der dritte Weg. Thomas von Aquin begründet eigens und ausführlich, dass das notwendige Seiende Gott ist."
+    },
+    {
+      "title": "Debatte über die Existenz Gottes, BBC Third Programme",
+      "author": "Bertrand Russell und Frederick Copleston",
+      "year": "1948",
+      "url": "https://dhspriory.org/kenny/PhilTexts/Russell/Copleston-Russell-Debate.htm",
+      "note": "Vollständiges Transkript. Copleston argumentiert von der Kontingenz her; Russells Antworten sind die Quelle der meisten späteren atheistischen Erwiderungen."
+    },
+    {
+      "title": "Dialogues Concerning Natural Religion",
+      "author": "David Hume",
+      "year": "1779",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "note": "Der neunte Teil enthält den Einwand gegen das Kontingenzargument."
+    },
+    {
+      "title": "Cosmological Argument",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+    }
+  ]
+}
