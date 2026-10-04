@@ -1,0 +1,336 @@
+{
+  "id": "problem-of-suffering",
+  "number": 3,
+  "slug": "problema-del-sufrimiento",
+  "title": "Si Dios es bueno, ¿por qué hay tanto sufrimiento?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "Es el argumento más antiguo contra Dios y sigue siendo el más fuerte, y conviene precisar en qué consiste.\n\nNo es la tesis de que un Dios bueno sea lógicamente imposible dado cualquier sufrimiento. Esa versión se defendió con fuerza en el siglo XX y hoy se considera fallida casi unánimemente, incluso entre filósofos ateos. Lo que la ha sustituido es más estrecho y más duro: la cantidad bruta de sufrimiento, y el modo en que recae sobre quienes no pueden haberlo merecido ni haber aprendido nada de él, es [[evidencia]] contra un Dios que a la vez puede detenerlo y está dispuesto a hacerlo.\n\nAsí que la pregunta no es «¿puede usted contar una historia en la que este sufrimiento tenga sentido?»: casi siempre se puede. Es si el sufrimiento que de hecho observamos es lo que cabría esperar si tal Dios existiera, o lo que cabría esperar si nadie estuviera al mando.\n\nHay además una tercera cosa en la sala que no es un argumento en absoluto: quien acaba de perder a un hijo no quiere una [[teodicea]]. Nada de esta página va dirigido a esa persona, y ambos lados dirían lo mismo.",
+  "distinctions": [
+    {
+      "label": "El problema lógico",
+      "gloss": "Que un Dios bueno y cualquier sufrimiento sean lisa y llanamente contradictorios. Se defendió con fuerza hasta los años setenta; hoy se concede en general que fracasó, también entre filósofos ateos.",
+      "activeHere": false
+    },
+    {
+      "label": "El problema evidencial",
+      "gloss": "Que la cantidad y la distribución del sufrimiento son evidencia fuerte contra ese Dios, aunque no una refutación. Es el argumento vivo, y el que trata esta página.",
+      "activeHere": true
+    },
+    {
+      "label": "El problema existencial",
+      "gloss": "Qué decirle a alguien en medio de una pérdida. No es un argumento, y nada de lo que hay aquí va dirigido a eso. Ambos lados admiten que una respuesta correcta puede ser lo peor que decir.",
+      "activeHere": false
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Por qué ya no se defiende la versión lógica",
+      "oneLine": "El problema lógico del mal —que Dios y el sufrimiento no pueden existir a la vez— ya no lo defienden los filósofos ateos serios, y citarlo como vivo es un error.",
+      "text": "Durante la mayor parte del siglo XX la tesis era que Dios y el sufrimiento son lógicamente incompatibles: que ninguna historia coherente podría contener ambos. La defensa del libre albedrío de Alvin Plantinga acabó con eso. Él no pretendía saber por qué Dios permite el sufrimiento; argumentó solamente que unas criaturas libres que a veces eligen mal son lógicamente posibles junto a un Dios bueno, y eso basta para romper una acusación de contradicción.\n\nFuncionó, y por eso esta página defiende en su lugar la versión evidencial. Se expone aquí y no como uno de los tres argumentos porque resuelve una cuestión que ya nadie sostiene: un hueco de esta página es para un argumento vivo. Tampoco hace nada con el cervatillo, que es para lo que están los argumentos de arriba.",
+      "quote": {
+        "text": "Un mundo que contiene criaturas significativamente libres (y que libremente realizan más acciones buenas que malas) es más valioso, en igualdad de condiciones, que un mundo que no contiene criatura libre alguna.",
+        "author": "Alvin Plantinga",
+        "work": "God, Freedom, and Evil",
+        "year": "1974",
+        "sourceUrl": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/",
+        "verification": "corroborated",
+        "sawWhat": "snippet",
+        "original": {
+          "text": "A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.",
+          "language": "en"
+        }
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "evidencia",
+      "definition": "Aquello que hace una explicación más probable que otra. Es más débil que una prueba: la evidencia contra una tesis puede ser real y la tesis ser verdadera de todos modos."
+    },
+    {
+      "term": "teodicea",
+      "definition": "Un intento de decir qué razón podría tener Dios para permitir el sufrimiento. Del griego «justificar a Dios». Una defensa es más débil y solo sostiene que la razón podría existir."
+    },
+    {
+      "term": "sufrimiento gratuito",
+      "definition": "Sufrimiento que no sirve para nada: que ningún bien mayor necesitaba y ningún mal peor exigía. Si algún sufrimiento es realmente así es toda la disputa."
+    },
+    {
+      "term": "mal natural",
+      "definition": "El sufrimiento que nadie eligió: la enfermedad, los terremotos, el dolor de los animales. El libre albedrío explica el daño que las personas se hacen entre sí, y no toca esto."
+    },
+    {
+      "term": "teísmo escéptico",
+      "definition": "La réplica de que no estamos lo bastante bien situados para saber si un sufrimiento carece de sentido. Si existieran las razones de Dios, bien podríamos no detectarlas, como un niño no sigue el razonamiento de un adulto."
+    },
+    {
+      "term": "formación del alma",
+      "definition": "El término de John Hick, tomado del poeta Keats, para la idea de que el mundo no está hecho para ser cómodo, sino para ser la clase de lugar en el que alguien puede llegar a ser algo."
+    }
+  ],
+  "sides": [
+    {
+      "label": "El sufrimiento que vemos es evidencia contra ese Dios",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "the-old-questions",
+          "claim": "Las tres preguntas nunca han tenido una buena respuesta a la vez",
+          "explanation": "Supongamos que Dios puede detener el sufrimiento, quiere detenerlo y lo conoce. Entonces no debería estar aquí. Suprímase cualquiera de las tres cosas y se tiene una respuesta, pero no un Dios al que nadie adora: un Dios que no puede actuar, o al que no le importa, o que no se dio cuenta.\n\nHume puso esto en boca de un personaje en 1779 y la forma no ha cambiado desde entonces. Su fuerza no está en ser ingenioso. Está en que toda réplica tiene que renunciar a algo que un creyente preferiría conservar.",
+          "quote": {
+            "text": "¿Quiere impedir el mal, pero no puede? Entonces es impotente. ¿Puede, pero no quiere? Entonces es malévolo. ¿Puede y quiere? ¿De dónde viene entonces el mal?",
+            "author": "David Hume",
+            "work": "Dialogues Concerning Natural Religion (Diálogos sobre la religión natural)",
+            "year": "1779",
+            "locator": "Part X, spoken by Philo",
+            "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Is he willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "El trilema solo funciona si un ser bueno impidiera siempre todo mal que pudiera impedir. Eso no es evidente ni siquiera de las personas buenas: un cirujano causa dolor, un padre deja que un hijo fracase. Una vez que se admite que un ser bueno podría permitir un daño en vista de algo, las tres preguntas dejan de ser una contradicción y se convierten en la pregunta de si ese algo vale la pena.",
+            "response": "De acuerdo, y es exactamente ahí donde se ha desplazado el argumento. La versión moderna no alega una contradicción. Alega que la analogía del cirujano se agota mucho antes que la evidencia: un cirujano que pudiera curar sin cortar y cortara igualmente no sería bueno."
+          }
+        },
+        {
+          "id": "the-fawn",
+          "claim": "Hay sufrimiento que a nadie beneficia, y hay demasiado para que sea un error de redondeo",
+          "explanation": "La respuesta del libre albedrío cubre lo que las personas se hacen unas a otras. No toca el [[mal natural]]: el animal que muere de hambre, el niño con cáncer de huesos, los cuatrocientos millones de años de depredación anteriores a que hubiera alguien capaz de aprender algo de ella.\n\nWilliam Rowe formuló el caso con un único ejemplo deliberadamente anodino, elegido porque no es raro. Incendios así ocurren constantemente, y han ocurrido desde que hay bosques. Su argumento no es que podamos probar que aquello fue [[sufrimiento gratuito]]. Es que hemos buscado, no encontramos ningún sentido y, en cierto volumen, eso es lo que parece la evidencia.",
+          "quote": {
+            "text": "En algún bosque remoto un rayo cae sobre un árbol muerto y provoca un incendio forestal. En el incendio, un cervatillo queda atrapado, se quema horriblemente y yace en una agonía terrible durante varios días, hasta que la muerte alivia su sufrimiento.",
+            "author": "William L. Rowe",
+            "work": "The Problem of Evil and Some Varieties of Atheism, American Philosophical Quarterly 16",
+            "year": "1979",
+            "locator": "p. 337",
+            "sourceUrl": "https://philpapers.org/rec/ROWTPO-3",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "In some distant forest lightning strikes a dead tree, resulting in a forest fire. In the fire a fawn is trapped, horribly burned, and lies in terrible agony for several days before death relieves its suffering.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "«No vemos ninguna razón» solo es evidencia de «no hay ninguna razón» si somos la clase de criatura que vería una. Un principiante que mira la jugada de un gran maestro no ve su sentido, y eso no le da derecho a concluir que no lo tiene. Si una mente capaz de hacer un universo tuviera razones, que no diéramos con ellas sería el resultado esperable, no una sorpresa.",
+            "response": "Esa réplica —el [[teísmo escéptico]]— funciona, y cuesta más de lo que parece. Si estamos tan mal situados para juzgar las razones de Dios, estamos igual de mal situados para juzgar que algo es bueno, o que una oración atendida fue atendida, o que alguna de las evidencias a favor de Dios es lo que parece. La ceguera no se puede encender solo cuando hace falta.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "pain-and-pleasure",
+              "label": "Una comparación de verosimilitudes, no una ceguera",
+              "heldBy": "Paul Draper",
+              "oneLine": "Enfréntese el teísmo a la hipótesis de un universo indiferente y pregúntese cuál predice mejor lo que sabemos sobre cómo se distribuyen el dolor y el placer en los seres vivos.",
+              "summary": "La versión de Draper es la forma técnicamente más cuidadosa del argumento desde el sufrimiento, y está construida para esquivar la debilidad que explota la réplica anterior.\n\nNo afirma en ningún momento que hayamos buscado una razón y hayamos fracasado. Compara dos hipótesis sobre un cuerpo de evidencia: lo que sabemos del dolor y del placer, incluido el hecho de que ambos se distribuyen exactamente como predeciría la utilidad biológica —dolor donde hay que evitar un daño, placer donde hay que reforzar una conducta, y mucho de los dos donde no sirven a ningún fin moral aparente—. La tesis es que la indiferencia predice esa pauta mejor que un Dios bueno, de modo que la evidencia cuenta contra el teísmo se nos ocurra o no una razón.",
+              "quote": {
+                "text": "las observaciones y los testimonios sobre el dolor y el placer guardan una relación evidencial negativa significativa con el teísmo",
+                "author": "Paul Draper",
+                "work": "Pain and Pleasure: An Evidential Problem for Theists, Noûs 23(3)",
+                "year": "1989",
+                "sourceUrl": "https://infidels.org/library/modern/nontheism-atheism-pain-and-pleasure/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "observations and testimony about pain and pleasure bear a significant negative evidential relation to theism",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que «no vemos ninguna razón» es evidencia de «no hay ninguna razón» solo si somos la clase de criatura que vería una. Esa réplica apunta a una inferencia a partir del fracaso en la búsqueda. Este argumento no hace tal inferencia: es una comparación de lo bien que dos hipótesis predicen una evidencia que ya tenemos, y quien quiera responderle tiene que discutir las verosimilitudes y no los límites de la penetración humana.",
+              "objection": {
+                "text": "La comparación necesita una probabilidad previa para cada hipótesis y un modo de fijar qué predice el teísmo sobre la biología, y ninguna de las dos cosas está disponible en una forma que acepten ambos lados. Un teísta que sostenga que Dios tenía razones para crear un mundo regido por leyes y poblado de organismos que funcionan dirá que el teísmo predice bastante bien un dolor biológicamente útil. La precisión del argumento es real, pero los números que compara son estimaciones de estimaciones, y la réplica del teísta escéptico reaparece en otro sitio: nuestra idea de lo que probablemente haría un Dios bueno es justo lo que está en cuestión.",
+                "from": "theist",
+                "response": "Fijar las verosimilitudes es difícil y el argumento lo dice con claridad; lo que no exige es que pasemos revista a las razones de Dios, que es de lo que se acusaba a la versión más antigua."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-price-of-a-reason",
+          "claim": "Cualquier razón lo bastante buena para justificar esto sería una razón que deberíamos rechazar",
+          "explanation": "Supongamos que una teodicea tiene éxito y que el sufrimiento de cada niño resulta haber sido necesario para algún bien mayor. Nótese qué se ha comprado. El sufrimiento ya no es una tragedia, sino un componente: un coste que valía la pena pagar, dentro de un plan que lo necesitaba.\n\nDostoyevski puso la objeción en boca de Iván Karamázov, quien dice que no niega que Dios exista, ni siquiera que la armonía final sea hermosa. Dice que si su precio es un niño torturado, se niega a ser beneficiario. Es un argumento moral, no lógico, y apunta precisamente a las respuestas que funcionan.",
+          "quote": {
+            "text": "No es a Dios a quien no acepto, Aliosha; solo que le devuelvo la entrada con el mayor respeto.",
+            "author": "Iván Karamázov, en Fiódor Dostoyevski",
+            "work": "The Brothers Karamazov (Los hermanos Karamázov), trad. Constance Garnett",
+            "year": "1880",
+            "locator": "Book V, ch. 4, 'Rebellion'",
+            "sourceUrl": "https://www.gutenberg.org/ebooks/28054",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "It's not God that I don't accept, Alyosha, only I most respectfully return Him the ticket.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Esto supone que la única respuesta cristiana disponible es que el sufrimiento sea un componente necesario de un plan. Buena parte de la tradición niega exactamente eso: el mal es un enemigo y no un instrumento, algo que Dios derrota y no algo que despliega. Iván rechaza una entrada que muchos cristianos también rechazarían.",
+            "response": "Entonces la pregunta pasa a ser qué queda. Si el sufrimiento no cumple ninguna función en el plan de Dios y Dios pudo impedirlo, el problema original queda intacto: solo ha perdido su respuesta más popular."
+          }
+        }
+      ]
+    },
+    {
+      "label": "El sufrimiento es real, y no resuelve la cuestión",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "beyond-our-ken",
+          "claim": "No estamos lo bastante bien situados para saber que un sufrimiento carece de sentido",
+          "explanation": "Esta es la respuesta directa al cervatillo, y es donde se concentra la mayor parte del trabajo filosófico actual. Concedamos que no vemos para qué bien sirve la muerte del cervatillo. El argumento depende de un paso más: que si hubiera un bien, probablemente lo veríamos. Solo entonces el no verlo cuenta como evidencia.\n\nEl [[teísmo escéptico]] niega ese paso. La versión de Stephen Wykstra pregunta qué cabría esperar si existiera el Dios del teísmo, y responde que un ser tan por encima de nosotros tendría razones que rutinariamente no alcanzaríamos a captar, igual que un lactante no alcanza a captar por qué un padre permite una inyección dolorosa. Visto así, el vacío que encontramos al buscar una razón es exactamente lo que el teísmo predice, de modo que no puede ser además evidencia contra él.",
+          "quote": {
+            "text": "si pensamos con cuidado en la clase de ser que el teísmo propone a nuestra creencia, es enteramente esperable —dado lo que sabemos de nuestros límites cognitivos— que los bienes en virtud de los cuales este Ser permite un sufrimiento conocido queden muy a menudo fuera de nuestro alcance",
+            "author": "Stephen J. Wykstra",
+            "work": "The Humean Obstacle to Evidential Arguments from Suffering, International Journal for Philosophy of Religion 16",
+            "year": "1984",
+            "locator": "p. 91",
+            "sourceUrl": "https://link.springer.com/article/10.1007/BF00136567",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "if we think carefully about the sort of being theism proposes for our belief, it is entirely expectable — given what we know of our cognitive limits — that the goods by virtue of which this Being allows known suffering should very often be beyond our ken",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La ceguera no se puede encender solo cuando hace falta. Si somos demasiado pequeños para juzgar si un horror fue permitido por una razón, somos demasiado pequeños para juzgar que algo es bueno, que una oración fue atendida o que una experiencia religiosa fue lo que parecía. También corta en la ética ordinaria: si bienes desconocidos pueden justificar un sufrimiento atroz, nunca puedo estar seguro de que impedir un daño sea lo correcto, porque el daño podría estar sirviendo a uno. El precio de la defensa se paga en los temas 10 y 17 tanto como aquí.",
+            "response": "La réplica es que el límite es específico y no general: estamos mal situados para pasar revista a todo el espacio de bienes posibles a lo largo de la historia, y perfectamente bien situados para saber que el niño que tenemos delante sufre y que debemos ayudarlo. Si esa línea puede trazarse donde hace falta y en ningún otro sitio es la cuestión abierta, y es una cuestión real.",
+            "landsOn": [],
+            "objectionFrom": "both"
+          },
+          "variants": [
+            {
+              "id": "open-theism",
+              "label": "Dios no sabía por dónde iba a salir",
+              "heldBy": "John Sanders, Gregory Boyd, Clark Pinnock, Richard Rice",
+              "oneLine": "Si las criaturas son realmente libres, el futuro está en parte abierto, y Dios no es culpable de no haber impedido lo que no estaba ahí para ser previsto.",
+              "summary": "El teísmo abierto es una posición minoritaria y discutida dentro del cristianismo, y responde a este tema de otro modo que cualquier otra posición teísta de la página.\n\nEl relato clásico hace que Dios conozca todo el futuro como hecho ya fijado, lo que convierte cada horror en algo que vio venir y permitió. Los teístas abiertos sostienen en cambio que el conocimiento de Dios es perfecto, pero que lo que hay por conocer es un futuro en parte abierto: conoce las posibilidades como posibilidades. La mayor parte del problema de la teodicea deja entonces de ser un problema sobre lo que Dios permitió y pasa a ser un problema sobre lo que es un mundo con criaturas realmente libres.",
+              "quote": {
+                "text": "porque los agentes son libres, el futuro incluye posibilidades, y, dado que el conocimiento de Dios es perfecto, los teístas abiertos sostienen que Dios conoce el futuro en parte como un ámbito de posibilidades. Esta posición contrasta con el teísmo clásico, que por lo general ha sostenido que Dios conoce el futuro exclusivamente como un dominio de hechos ya fijados.",
+                "author": "John Sanders",
+                "work": "Summary of Open Theism",
+                "year": "2016",
+                "sourceUrl": "https://drjohnsanders.com/summary-of-open-theism/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "because agents are free, the future includes possibilities, and since God’s knowledge is perfect, open theists hold that God knows the future partly as a realm of possibilities. This view contrasts with classical theism that has usually held that God knows the future exclusively as a domain of settled facts.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que la ceguera no se puede encender solo cuando hace falta: que si somos demasiado pequeños para juzgar si un horror tenía una razón, somos demasiado pequeños para juzgar cualquier cosa. Esta posición no alega ninguna ceguera. No dice que haya una razón que no podemos ver; dice que, para una amplia clase de horrores, no había ningún resultado previsto sobre el que tener una razón, de modo que el argumento no tiene ninguna justificación oculta que atacar.",
+              "objection": {
+                "text": "Solo responde a los horrores que dependen de elecciones libres, y buena parte del peor sufrimiento no depende de ellas: el cáncer de huesos de un niño, un tsunami, cuatrocientos millones de años de depredación animal. En esos casos la presciencia de Dios no está en cuestión y el problema original vuelve intacto. El coste es además muy alto y es lo que la mayor parte de la tradición objeta: un Dios genuinamente sorprendido no es el Dios de los credos, y la posición ha sido rechazada formalmente por varias denominaciones que la consideran incompatible con la providencia.",
+                "from": "within",
+                "sharedPremise": "argumenta desde premisas que esta posición sostiene —que Dios es bueno, que la Escritura tiene autoridad y que la providencia es real— hasta la conclusión de que un Dios que no conoce el futuro no puede ser aquel que la tradición ha estado describiendo, y que el sufrimiento natural queda intacto en cualquier caso.",
+                "response": "El sufrimiento natural se aborda con el mismo relato aplicado a una creación dotada de verdaderos poderes causales propios, y la objeción desde los credos es una tesis sobre cuál tradición tiene razón, no un argumento de que esta se equivoque."
+              }
+            }
+          ]
+        },
+        {
+          "id": "soul-making",
+          "claim": "Un mundo lo bastante seguro para ser indoloro sería demasiado pequeño para que nadie llegara a ser nada en él",
+          "explanation": "Imagínese un mundo en el que ninguna acción pudiera herir a nadie: los cuchillos se ablandan, el suelo te sostiene, la crueldad simplemente no funciona. En él el valor sería imposible, y también la generosidad, la paciencia y el perdón, porque nada estaría en juego. Sería un lugar muy cómodo sin nadie dentro que valiera la pena ser.\n\nLa teodicea de la [[formación del alma]] de John Hick sostiene que este mundo no está diseñado como un paraíso ni pretendió nunca parecerlo; está diseñado como un lugar donde las personas pueden ser formadas. Hick no afirma que las cuentas cuadren en esta vida, y esta es la parte que suele omitirse: el argumento depende de una consumación más allá de ella.",
+          "quote": {
+            "text": "El bien que supera todo mal no es un paraíso perdido hace mucho, sino un reino que todavía ha de venir en su plena gloria y permanencia.",
+            "author": "John Hick",
+            "work": "Evil and the God of Love",
+            "year": "1966",
+            "sourceUrl": "https://link.springer.com/book/10.1057/9780230283961",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The good that outshines all ill is not a paradise long since lost but a kingdom which is yet to come in its full glory and permanence.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La distribución no cuadra. La formación del alma necesita a alguien cuya alma se esté formando, y mucho sufrimiento destruye a las personas en lugar de formarlas, o recae sobre lactantes y animales que nunca reflexionarán sobre él. Y las cantidades son absurdas: lo que sea que exija el valor, no exige la peste negra.",
+            "response": "La objeción acierta contra la forma fuerte de la teodicea y Hick la concede en buena medida, y por eso el argumento se apoya en lo que él llama la consumación: la tesis de que quienes fueron destruidos aquí no están acabados. Es un coste serio, porque hace que la respuesta dependa de algo que nadie puede inspeccionar."
+          }
+        },
+        {
+          "id": "refusing-theodicy",
+          "claim": "El cristianismo no está comprometido, para empezar, con que el sufrimiento tenga una finalidad",
+          "explanation": "La réplica más fuerte quizá sea rechazar la pregunta. Según esta posición, el error que comparten Iván y sus adversarios es suponer que si Dios permite un horror, Dios tuvo que quererlo para algo. El Nuevo Testamento no trata la muerte y el sufrimiento como instrumentos de la voluntad de Dios. Los trata como un enemigo, y la promesa no es que las lágrimas resulten haber valido la pena, sino que serán enjugadas.\n\nDavid Bentley Hart escribió esto en las semanas siguientes al tsunami de 2004, contra los cristianos que ofrecían razones para él. La posición renuncia a mucho: no tiene ninguna explicación que ofrecer, y afirma que la exigencia de una estaba mal concebida.",
+          "quote": {
+            "text": "en lugar de mostrarnos cómo las lágrimas de una niña pequeña que sufría en la oscuridad eran necesarias para la construcción del Reino, la levantará y enjugará todas las lágrimas de sus ojos.",
+            "author": "David Bentley Hart",
+            "work": "The Doors of the Sea: Where Was God in the Tsunami?",
+            "year": "2005",
+            "sourceUrl": "https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "rather than showing us how the tears of a small girl suffering in the dark were necessary for the building of the Kingdom, he will instead raise her up and wipe away all tears from her eyes.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Esto es un cambio de tema disfrazado de respuesta. La pregunta era por qué un Dios todopoderoso y bueno permite horrores que podría detener. Decir que no los respalda y que algún día los deshará concede todo el punto: los permitió de todos modos, y no se ha dado ninguna razón.",
+            "response": "Concede que no hay explicación, lo cual no es lo mismo que conceder el argumento. La tesis es que un Dios que derrota el mal en lugar de necesitarlo no es el Dios al que apunta el argumento evidencial, y que una fe obligada a justificar cada horror ya ha perdido más de lo que puede recuperar."
+          }
+        }
+      ]
+    }
+  ],
+  "whereItStands": "La forma lógica del argumento —que Dios y cualquier sufrimiento son lisa y llanamente contradictorios— ya no es donde está la disputa. La defensa de Plantinga se concede en general, también entre filósofos ateos, y defender hoy la versión lógica es discutir contra una posición que el otro lado abandonó hace cincuenta años.\n\nLa forma evidencial está muy viva, y es el argumento más fuerte contra el teísmo que nadie tiene. Nada de este artículo debería sugerir lo contrario. Lo que se discute de verdad es algo más estrecho: si el que no veamos sentido en un horror concreto es buena evidencia de que no lo tiene. Eso depende de cuán bien situados nos consideremos, y no hay manera neutral de resolverlo.\n\nEl resumen honesto es que esto es un coste y no una derrota. El sufrimiento cuenta contra la creencia en Dios, y la mayoría de los teístas cuidadosos lo admiten; la discusión es sobre cuánto, y sobre si algo lo compensa. Dónde aterriza, a la vista de la evidencia, depende sobre todo de lo que uno ya tenía por probable, lo cual es incómodo para ambos lados y es la razón de que el tema esté etiquetado como abierto y no como resuelto.",
+  "commonMistake": "Los ateos defienden casi siempre la versión lógica —que el sufrimiento vuelve imposible a Dios—, que es a la vez la forma más débil y la que la filosofía ha dejado atrás. Además invita a una réplica que gana, lo cual desperdicia el argumento más fuerte que tienen.\n\nLos cristianos echan mano de una teodicea demasiado rápido y ofrecen una explicación donde no se pedía ninguna. Los amigos de Job son el retrato bíblico de esto, y el libro no está de su parte. Hay también la costumbre de tratar cualquier admisión de que el sufrimiento es evidencia contra Dios como una concesión que no puede hacerse, cuando buena parte de la tradición, Hart incluido, la hace sin reservas.\n\nY ambos lados cometen el mismo error cuando tratan esto como un acertijo. Para la mayoría de quienes se hacen esta pregunta no lo es. Decida lo que decida el argumento, una respuesta verdadera dicha a alguien en medio de una pérdida sigue siendo lo peor que decir.",
+  "sources": [
+    {
+      "title": "Dialogues Concerning Natural Religion (Diálogos sobre la religión natural)",
+      "author": "David Hume",
+      "year": "1779",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "note": "La parte X contiene el pasaje. Publicado de forma póstuma; escrito a lo largo de los veinticinco años anteriores."
+    },
+    {
+      "title": "The Problem of Evil and Some Varieties of Atheism",
+      "author": "William L. Rowe",
+      "year": "1979",
+      "url": "https://philpapers.org/rec/ROWTPO-3",
+      "note": "American Philosophical Quarterly 16(4), 335-341. El artículo que desplazó el argumento de lo lógico a lo evidencial."
+    },
+    {
+      "title": "The Brothers Karamazov (Los hermanos Karamázov), trad. Constance Garnett",
+      "author": "Fiódor Dostoyevski",
+      "year": "1880",
+      "url": "https://www.gutenberg.org/ebooks/28054",
+      "note": "Libro V, capítulos 3-5. Iván es un personaje, no el autor; Dostoyevski era cristiano y pensaba que la objeción había que exponerla con toda su fuerza."
+    },
+    {
+      "title": "God, Freedom, and Evil",
+      "author": "Alvin Plantinga",
+      "year": "1974",
+      "url": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/"
+    },
+    {
+      "title": "Evil and the God of Love",
+      "author": "John Hick",
+      "year": "1966",
+      "url": "https://link.springer.com/book/10.1057/9780230283961"
+    },
+    {
+      "title": "The Doors of the Sea: Where Was God in the Tsunami?",
+      "author": "David Bentley Hart",
+      "year": "2005",
+      "url": "https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/"
+    },
+    {
+      "title": "The Evidential Problem of Evil",
+      "author": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/evil-evi/",
+      "note": "Un panorama del estado actual del argumento, útil para ver cuánto de él está realmente abierto."
+    },
+    {
+      "title": "Theodicies",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/theodicies/"
+    }
+  ]
+}

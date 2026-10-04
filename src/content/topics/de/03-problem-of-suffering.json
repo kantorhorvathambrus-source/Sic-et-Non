@@ -1,0 +1,336 @@
+{
+  "id": "problem-of-suffering",
+  "number": 3,
+  "slug": "problem-des-leidens",
+  "title": "Wenn Gott gut ist, warum gibt es so viel Leiden?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "Dies ist das älteste Argument gegen Gott und noch immer das stärkste, und es lohnt sich, genau zu sagen, worin es besteht.\n\nEs ist nicht die Behauptung, ein guter Gott sei angesichts von irgendeinem Leiden logisch unmöglich. Diese Fassung wurde im 20. Jahrhundert mit Nachdruck vertreten und gilt heute weithin als gescheitert, auch bei atheistischen Philosophen. Was an ihre Stelle getreten ist, ist schmaler und härter: Die schiere Menge an Leiden und die Art, wie es jene trifft, die es nicht verdient und nichts daraus gelernt haben können, ist ein [[Indiz]] gegen einen Gott, der es beenden kann und beenden will.\n\nDie Frage lautet also nicht: „Können Sie eine Geschichte erzählen, in der dieses Leiden einen Sinn hat?“ — das kann man fast immer. Sie lautet, ob das Leiden, das wir tatsächlich beobachten, das ist, was man von einem solchen Gott erwarten würde, oder das, was man erwarten würde, wenn niemand die Leitung hätte.\n\nUnd es ist noch etwas Drittes im Raum, das überhaupt kein Argument ist: Wer eben ein Kind verloren hat, will keine [[Theodizee]]. Nichts auf dieser Seite ist an ihn gerichtet, und beide Seiten würden dasselbe sagen.",
+  "distinctions": [
+    {
+      "label": "Das logische Problem",
+      "gloss": "Dass ein guter Gott und irgendein Leiden schlicht widersprüchlich sind. Bis in die 1970er Jahre mit Nachdruck vertreten; heute gilt es allgemein, auch bei atheistischen Philosophen, als gescheitert.",
+      "activeHere": false
+    },
+    {
+      "label": "Das Indizienproblem",
+      "gloss": "Dass Menge und Verteilung des Leidens stark gegen einen solchen Gott sprechen, auch ohne ihn zu widerlegen. Das ist das lebendige Argument und das, um das es auf dieser Seite geht.",
+      "activeHere": true
+    },
+    {
+      "label": "Das existenzielle Problem",
+      "gloss": "Was man jemandem mitten in einem Verlust sagen soll. Kein Argument, und nichts hier ist daran gerichtet. Beide Seiten geben zu, dass eine richtige Antwort trotzdem das Falsche sein kann.",
+      "activeHere": false
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Warum die logische Fassung nicht mehr vertreten wird",
+      "oneLine": "Das logische Übelsproblem — Gott und Leiden könnten nicht beide bestehen — vertritt kein ernsthafter atheistischer Philosoph mehr, und es als lebendig zu zitieren ist ein Fehler.",
+      "text": "Den größten Teil des 20. Jahrhunderts lautete der Fall, Gott und Leiden seien logisch unvereinbar: Keine widerspruchsfreie Geschichte könne beides enthalten. Alvin Plantingas Freiheitsverteidigung beendete das. Er behauptete nicht zu wissen, warum Gott Leiden zulässt; er zeigte nur, dass freie Geschöpfe, die sich manchmal falsch entscheiden, mit einem guten Gott logisch vereinbar sind, und mehr braucht es nicht, um einen Widerspruchsvorwurf zu brechen.\n\nEs hat funktioniert, und darum vertritt diese Seite stattdessen die Indizienfassung. Sie steht hier und nicht als eines der drei Argumente, weil sie eine Frage erledigt, die niemand mehr stellt — ein Platz auf dieser Seite ist für ein lebendiges Argument. Sie tut außerdem nichts gegen das Rehkitz, und dafür sind die Argumente oben da.",
+      "quote": {
+        "text": "Eine Welt mit Geschöpfen, die in bedeutsamer Weise frei sind (und freiwillig mehr gute als böse Handlungen vollziehen), ist bei sonst gleichen Umständen wertvoller als eine Welt ohne jedes freie Geschöpf.",
+        "author": "Alvin Plantinga",
+        "work": "God, Freedom, and Evil",
+        "year": "1974",
+        "sourceUrl": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/",
+        "verification": "corroborated",
+        "sawWhat": "snippet",
+        "original": {
+          "text": "A world containing creatures who are significantly free (and freely perform more good than evil actions) is more valuable, all else being equal, than a world containing no free creatures at all.",
+          "language": "en"
+        }
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Indiz",
+      "definition": "Etwas, das eine Erklärung wahrscheinlicher macht als eine andere. Es ist schwächer als ein Beweis: Ein Indiz gegen eine Behauptung kann echt sein und die Behauptung dennoch wahr."
+    },
+    {
+      "term": "Theodizee",
+      "definition": "Der Versuch zu sagen, welchen Grund Gott haben könnte, Leiden zuzulassen. Vom Griechischen für „Gott rechtfertigen“. Eine Verteidigung ist schwächer und behauptet nur, der Grund könnte bestehen."
+    },
+    {
+      "term": "sinnloses Leiden",
+      "definition": "Leiden, das überhaupt nichts leistet: das kein größeres Gut gebraucht und kein schlimmeres Übel verlangt hat. Ob irgendein Leiden wirklich so ist, ist der ganze Streit."
+    },
+    {
+      "term": "natürliches Übel",
+      "definition": "Leiden, das niemand gewählt hat: Krankheit, Erdbeben, der Schmerz der Tiere. Die Freiheit erklärt, was Menschen einander antun, und berührt dies nicht."
+    },
+    {
+      "term": "skeptischer Theismus",
+      "definition": "Die Antwort, wir seien nicht gut genug gestellt, um zu erkennen, ob ein Leiden sinnlos ist. Gäbe es Gottes Gründe, würden wir sie gut und gern verfehlen, wie ein Kind dem Überlegen eines Erwachsenen nicht folgt."
+    },
+    {
+      "term": "Seelenbildung",
+      "definition": "John Hicks Ausdruck, dem Dichter Keats entlehnt, für den Gedanken, die Welt sei nicht als bequemer Ort gemeint, sondern als der Ort, an dem Menschen etwas werden können."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Das Leiden, das wir sehen, spricht gegen einen solchen Gott",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "the-old-questions",
+          "claim": "Die drei Fragen haben nie gleichzeitig eine gute Antwort gehabt",
+          "explanation": "Nehmen wir an, Gott kann das Leiden beenden, will es beenden und weiß davon. Dann sollte es nicht hier sein. Streicht man eines der drei, hat man eine Antwort, aber keinen Gott, den jemand anbetet: einen Gott, der nicht handeln kann, oder dem es gleich ist, oder der es nicht bemerkt hat.\n\nHume legte das 1779 einer Figur in den Mund, und die Form hat sich seither nicht geändert. Seine Kraft liegt nicht darin, dass es schlau wäre. Sie liegt darin, dass jede Antwort etwas aufgeben muss, was ein Glaubender lieber behielte.",
+          "quote": {
+            "text": "Will er das Übel verhindern, kann es aber nicht? Dann ist er ohnmächtig. Kann er es, will es aber nicht? Dann ist er bösartig. Kann er es und will er es? Woher kommt dann das Übel?",
+            "author": "David Hume",
+            "work": "Dialogues Concerning Natural Religion (Dialoge über natürliche Religion)",
+            "year": "1779",
+            "locator": "Part X, spoken by Philo",
+            "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Is he willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Das Trilemma trägt nur, wenn ein gutes Wesen jedes Übel, das es verhindern könnte, immer verhindern würde. Das ist nicht einmal von guten Menschen offenkundig wahr: Ein Chirurg verursacht Schmerz, Eltern lassen ein Kind scheitern. Räumt man ein, dass ein gutes Wesen einen Schaden um etwas willen zulassen könnte, hören die drei Fragen auf, ein Widerspruch zu sein, und werden zur Frage, ob dieses Etwas den Preis wert ist.",
+            "response": "Einverstanden, und genau dorthin hat sich das Argument verschoben. Die moderne Fassung behauptet keinen Widerspruch. Sie behauptet, dass die Chirurgen-Analogie weit vor den Befunden endet: Ein Chirurg, der ohne Schnitt heilen könnte und doch schnitte, wäre nicht gut."
+          }
+        },
+        {
+          "id": "the-fawn",
+          "claim": "Manches Leiden nützt niemandem, und es ist viel zu viel davon, um ein Rundungsfehler zu sein",
+          "explanation": "Die Freiheitsantwort deckt ab, was Menschen einander antun. Sie berührt das [[natürliche Übel|natürliches Übel]] nicht: das Tier, das verhungert, das Kind mit Knochenkrebs, die vierhundert Millionen Jahre Raubtierleben, bevor es jemanden gab, der daraus etwas lernen konnte.\n\nWilliam Rowe führte den Fall mit einem einzigen, absichtlich unauffälligen Beispiel, gewählt, weil es nicht selten ist. Solche Brände geschehen ständig und geschehen, solange es Wälder gibt. Sein Argument lautet nicht, wir könnten beweisen, dass dies [[sinnloses Leiden]] war. Es lautet, dass wir gesucht haben, keinen Sinn finden, und dass genau so ab einer bestimmten Menge ein Indiz aussieht.",
+          "quote": {
+            "text": "In einem fernen Wald schlägt ein Blitz in einen abgestorbenen Baum und löst einen Waldbrand aus. In dem Feuer wird ein Rehkitz eingeschlossen, schrecklich verbrannt, und liegt mehrere Tage in furchtbarer Qual, bis der Tod sein Leiden beendet.",
+            "author": "William L. Rowe",
+            "work": "The Problem of Evil and Some Varieties of Atheism, American Philosophical Quarterly 16",
+            "year": "1979",
+            "locator": "p. 337",
+            "sourceUrl": "https://philpapers.org/rec/ROWTPO-3",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "In some distant forest lightning strikes a dead tree, resulting in a forest fire. In the fire a fawn is trapped, horribly burned, and lies in terrible agony for several days before death relieves its suffering.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "„Wir sehen keinen Grund“ ist nur dann ein Indiz für „es gibt keinen Grund“, wenn wir die Art Wesen sind, das einen sähe. Ein Anfänger, der den Zug eines Großmeisters betrachtet, sieht dessen Sinn nicht und darf deshalb nicht schließen, es gäbe keinen. Hätte ein Verstand, der ein Universum machen kann, Gründe, so wäre unser Verfehlen derselben das erwartbare Ergebnis und keine Überraschung.",
+            "response": "Diese Antwort — der [[skeptische Theismus|skeptischer Theismus]] — trägt, und sie kostet mehr, als es aussieht. Sind wir so schlecht gestellt, Gottes Gründe zu beurteilen, sind wir gleich schlecht gestellt zu beurteilen, dass irgendetwas gut ist, dass ein erhörtes Gebet erhört wurde oder dass irgendein Indiz für Gott das ist, wonach es aussieht. Die Blindheit lässt sich nicht nur dann einschalten, wenn sie gebraucht wird.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "pain-and-pleasure",
+              "label": "Ein Vergleich von Wahrscheinlichkeiten, keine Blindheit",
+              "heldBy": "Paul Draper",
+              "oneLine": "Man stelle dem Theismus die Annahme eines gleichgültigen Universums gegenüber und frage, welche besser vorhersagt, wie Schmerz und Lust in Lebewesen verteilt sind.",
+              "summary": "Drapers Fassung ist die technisch sorgfältigste Gestalt des Leidensarguments, und sie ist so gebaut, dass sie die Schwäche umgeht, die die Antwort oben ausnutzt.\n\nSie behauptet an keiner Stelle, wir hätten nach einem Grund gesucht und versagt. Sie vergleicht zwei Hypothesen über einen Befundbestand: was wir über Schmerz und Lust wissen, einschließlich der Tatsache, dass beide genau so verteilt sind, wie es die biologische Nützlichkeit vorhersagen würde — Schmerz dort, wo Schaden zu meiden ist, Lust dort, wo Verhalten zu verstärken ist, und viel von beidem dort, wo es keinem erkennbaren moralischen Zweck dient. Die Behauptung lautet, dass Gleichgültigkeit dieses Muster besser vorhersagt als ein guter Gott, sodass die Befunde gegen den Theismus sprechen, ob uns ein Grund einfällt oder nicht.",
+              "quote": {
+                "text": "Beobachtungen und Berichte über Schmerz und Lust stehen in einem erheblich negativen Evidenzverhältnis zum Theismus",
+                "author": "Paul Draper",
+                "work": "Pain and Pleasure: An Evidential Problem for Theists, Noûs 23(3)",
+                "year": "1989",
+                "sourceUrl": "https://infidels.org/library/modern/nontheism-atheism-pain-and-pleasure/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "observations and testimony about pain and pleasure bear a significant negative evidential relation to theism",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, „wir sehen keinen Grund“ sei nur dann ein Indiz für „es gibt keinen Grund“, wenn wir die Art Wesen sind, das einen sähe. Diese Antwort zielt auf einen Schluss aus erfolgloser Suche. Dieses Argument zieht keinen solchen Schluss: Es vergleicht, wie gut zwei Hypothesen Befunde vorhersagen, die wir schon haben, und wer darauf antworten will, muss über die Wahrscheinlichkeiten streiten und nicht über die Grenzen menschlicher Einsicht.",
+              "objection": {
+                "text": "Der Vergleich braucht eine Ausgangswahrscheinlichkeit für jede Hypothese und eine Art festzulegen, was der Theismus über Biologie vorhersagt, und beides ist in einer Form, die beide Seiten akzeptieren, nicht zu haben. Ein Theist, der annimmt, Gott habe Gründe gehabt, eine gesetzmäßige Welt mit funktionierenden Organismen zu schaffen, wird sagen, der Theismus sage biologisch nützlichen Schmerz recht gut voraus. Die Genauigkeit des Arguments ist echt, aber die Zahlen, die es vergleicht, sind Schätzungen von Schätzungen, und die Antwort des skeptischen Theisten kehrt an anderer Stelle zurück: Unser Gefühl dafür, was ein guter Gott wahrscheinlich täte, ist genau das, was zur Frage steht.",
+                "from": "theist",
+                "response": "Die Wahrscheinlichkeiten festzulegen ist schwierig, und das Argument sagt es ausdrücklich; was es nicht verlangt, ist, dass wir Gottes Gründe überblicken, und das war der Vorwurf gegen die ältere Fassung."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-price-of-a-reason",
+          "claim": "Jeder Grund, der gut genug wäre, dies zu rechtfertigen, wäre ein Grund, den wir ablehnen sollten",
+          "explanation": "Nehmen wir an, eine Theodizee gelingt und das Leiden jedes Kindes erweist sich als für ein größeres Gut notwendig. Man beachte, was damit gekauft ist. Das Leiden ist nun keine Tragödie, sondern ein Bauteil: ein Preis, der zu zahlen wert war, in einem Plan, der ihn brauchte.\n\nDostojewski legte den Einwand Iwan Karamasow in den Mund, der sagt, er bestreite nicht, dass Gott existiert, und nicht einmal, dass die endliche Harmonie schön sein wird. Er sagt, wenn ihr Preis ein gequältes Kind ist, lehnt er es ab, Nutznießer zu sein. Das ist ein moralisches, kein logisches Argument, und es trifft genau die Antworten, die funktionieren.",
+          "quote": {
+            "text": "Nicht Gott lehne ich ab, Aljoscha, nur gebe ich ihm mit allem Respekt die Eintrittskarte zurück.",
+            "author": "Iwan Karamasow, bei Fjodor Dostojewski",
+            "work": "The Brothers Karamazov (Die Brüder Karamasow), übers. Constance Garnett",
+            "year": "1880",
+            "locator": "Book V, ch. 4, 'Rebellion'",
+            "sourceUrl": "https://www.gutenberg.org/ebooks/28054",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "It's not God that I don't accept, Alyosha, only I most respectfully return Him the ticket.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Das setzt voraus, die einzige christliche Antwort sei, Leiden sei ein notwendiges Bauteil eines Plans. Ein großer Teil der Tradition bestreitet genau das: Das Übel ist ein Feind und kein Werkzeug, etwas, das Gott besiegt und nicht einsetzt. Iwan weist eine Eintrittskarte zurück, die viele Christen ebenfalls zurückweisen würden.",
+            "response": "Dann lautet die Frage, was übrig bleibt. Dient das Leiden in Gottes Plan keinem Zweck und hätte Gott es verhindern können, bleibt das ursprüngliche Problem unberührt — es hat bloß seine beliebteste Antwort verloren."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Das Leiden ist wirklich, und es entscheidet die Frage nicht",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "beyond-our-ken",
+          "claim": "Wir sind nicht gut genug gestellt, um zu erkennen, dass ein Leiden sinnlos ist",
+          "explanation": "Dies ist die unmittelbare Antwort auf das Rehkitz, und hier sitzt der größte Teil der heutigen philosophischen Arbeit. Räumen wir ein, dass wir nicht sehen, welchem Gut der Tod des Rehkitzes dient. Das Argument hängt an einem weiteren Schritt: dass wir ein Gut, wenn es eines gäbe, wahrscheinlich sehen würden. Erst dann zählt das Nichtsehen als Indiz.\n\nDer [[skeptische Theismus|skeptischer Theismus]] bestreitet diesen Schritt. Stephen Wykstras Fassung fragt, was zu erwarten wäre, wenn der Gott des Theismus existierte, und antwortet, ein Wesen so weit jenseits von uns hätte Gründe, die wir regelmäßig nicht erfassen würden, wie ein Säugling nicht erfasst, warum ein Elternteil eine schmerzhafte Spritze zulässt. So gesehen ist die Leere, die wir bei der Suche nach einem Grund finden, genau das, was der Theismus vorhersagt, und kann daher nicht auch ein Indiz gegen ihn sein.",
+          "quote": {
+            "text": "wenn wir sorgfältig über die Art von Wesen nachdenken, die der Theismus unserem Glauben vorlegt, ist es ganz und gar zu erwarten — angesichts dessen, was wir über unsere kognitiven Grenzen wissen —, dass die Güter, um derentwillen dieses Wesen bekanntes Leiden zulässt, sehr oft jenseits unseres Blickfelds liegen",
+            "author": "Stephen J. Wykstra",
+            "work": "The Humean Obstacle to Evidential Arguments from Suffering, International Journal for Philosophy of Religion 16",
+            "year": "1984",
+            "locator": "p. 91",
+            "sourceUrl": "https://link.springer.com/article/10.1007/BF00136567",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "if we think carefully about the sort of being theism proposes for our belief, it is entirely expectable — given what we know of our cognitive limits — that the goods by virtue of which this Being allows known suffering should very often be beyond our ken",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die Blindheit lässt sich nicht nur dann einschalten, wenn sie gebraucht wird. Sind wir zu klein, um zu beurteilen, ob ein Grauen aus einem Grund zugelassen wurde, sind wir zu klein, um zu beurteilen, dass irgendetwas gut ist, dass ein Gebet erhört wurde oder dass eine religiöse Erfahrung war, wonach sie aussah. Es schneidet auch in die gewöhnliche Ethik: Können unbekannte Güter entsetzliches Leiden rechtfertigen, kann ich nie sicher sein, dass es richtig ist, einen Schaden zu verhindern, denn der Schaden könnte einem solchen Gut dienen. Der Preis der Verteidigung wird in den Themen 10 und 17 so sehr bezahlt wie hier.",
+            "response": "Die Antwort lautet, die Grenze sei bestimmt und nicht allgemein: Wir sind schlecht gestellt, den ganzen Raum möglicher Güter über die gesamte Geschichte zu überblicken, und ganz ausgezeichnet gestellt zu wissen, dass das Kind vor uns Schmerzen hat und dass wir helfen sollen. Ob diese Linie dort gehalten werden kann, wo sie gebraucht wird, und nirgends sonst, ist die offene Frage, und es ist eine echte.",
+            "landsOn": [],
+            "objectionFrom": "both"
+          },
+          "variants": [
+            {
+              "id": "open-theism",
+              "label": "Gott wusste nicht, wie es ausgehen würde",
+              "heldBy": "John Sanders, Gregory Boyd, Clark Pinnock, Richard Rice",
+              "oneLine": "Sind Geschöpfe wirklich frei, ist die Zukunft teilweise offen, und Gott ist nicht schuldig, weil er nicht verhindert hat, was nicht vorherzusehen war.",
+              "summary": "Der offene Theismus ist eine Minderheitsposition und innerhalb des Christentums umstritten, und er antwortet auf dieses Thema anders als jede andere theistische Position dieser Seite.\n\nDie klassische Darstellung lässt Gott die ganze Zukunft als feststehende Tatsache kennen, womit jedes Grauen etwas ist, das er kommen sah und zuließ. Offene Theisten halten dagegen, Gottes Wissen sei vollkommen, aber was es zu wissen gibt, sei eine teilweise offene Zukunft: Er kennt Möglichkeiten als Möglichkeiten. Der größte Teil des Theodizeeproblems ist dann kein Problem darüber, was Gott zuließ, sondern darüber, was eine Welt mit wirklich freien Geschöpfen ist.",
+              "quote": {
+                "text": "weil Handelnde frei sind, enthält die Zukunft Möglichkeiten, und da Gottes Wissen vollkommen ist, halten offene Theisten dafür, dass Gott die Zukunft teilweise als einen Bereich von Möglichkeiten kennt. Diese Auffassung steht im Gegensatz zum klassischen Theismus, der gewöhnlich gelehrt hat, dass Gott die Zukunft ausschließlich als einen Bereich feststehender Tatsachen kennt.",
+                "author": "John Sanders",
+                "work": "Summary of Open Theism",
+                "year": "2016",
+                "sourceUrl": "https://drjohnsanders.com/summary-of-open-theism/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "because agents are free, the future includes possibilities, and since God’s knowledge is perfect, open theists hold that God knows the future partly as a realm of possibilities. This view contrasts with classical theism that has usually held that God knows the future exclusively as a domain of settled facts.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, die Blindheit lasse sich nicht nur dann einschalten, wenn sie gebraucht wird — wären wir zu klein, um zu beurteilen, ob ein Grauen einen Grund hatte, wären wir zu klein, um überhaupt etwas zu beurteilen. Diese Position behauptet keine Blindheit. Sie sagt nicht, es gebe einen Grund, den wir nicht sehen; sie sagt, für eine große Klasse von Gräueln habe es keinen vorhergesehenen Ausgang gegeben, über den ein Grund zu haben wäre, sodass das Argument keine verborgene Rechtfertigung hat, die es angreifen könnte.",
+              "objection": {
+                "text": "Sie antwortet nur auf die Gräuel, die an freien Entscheidungen hängen, und das meiste schlimmste Leiden hängt nicht daran: der Knochenkrebs eines Kindes, ein Tsunami, vierhundert Millionen Jahre tierischer Raubzüge. Dort steht Gottes Vorauswissen nicht zur Frage, und das ursprüngliche Problem kommt unberührt zurück. Der Preis ist außerdem sehr hoch, und das ist, was der größte Teil der Tradition einwendet: Ein Gott, der wirklich überrascht wird, ist nicht der Gott der Bekenntnisse, und die Position ist von mehreren Kirchen förmlich verworfen worden, die sie für unvereinbar mit der Vorsehung halten.",
+                "from": "within",
+                "sharedPremise": "er argumentiert aus Prämissen, die diese Position hält — dass Gott gut ist, dass die Schrift Autorität hat und dass Vorsehung wirklich ist —, zu dem Schluss, dass ein Gott, der die Zukunft nicht kennt, nicht der sein kann, den die Tradition beschreibt, und dass das natürliche Leiden ohnehin unberührt bleibt.",
+                "response": "Das natürliche Leiden wird von derselben Darstellung erfasst, angewandt auf eine Schöpfung mit wirklichen eigenen Wirkkräften, und der Bekenntniseinwand ist eine Behauptung darüber, welche Tradition recht hat, kein Argument dafür, dass diese unrecht hat."
+              }
+            }
+          ]
+        },
+        {
+          "id": "soul-making",
+          "claim": "Eine Welt, die sicher genug wäre, um schmerzlos zu sein, wäre zu klein, um darin etwas zu werden",
+          "explanation": "Stellen Sie sich eine Welt vor, in der keine Handlung jemanden verletzen kann: Messer werden weich, Böden fangen einen auf, Grausamkeit versagt einfach. Mut wäre in ihr unmöglich, und ebenso Großzügigkeit, Geduld und Verzeihen, weil nichts auf dem Spiel stünde. Es wäre ein sehr bequemer Ort, in dem niemand wäre, der es wert ist, zu sein.\n\nJohn Hicks Theodizee der [[Seelenbildung]] hält dafür, dass diese Welt nicht als Paradies entworfen ist und nie so aussehen sollte; sie ist als Ort entworfen, an dem Menschen geformt werden können. Er behauptet nicht, dass die Rechnung in diesem Leben aufgeht, und das ist der Teil, der meist weggelassen wird: Der Fall hängt an einer Vollendung jenseits davon.",
+          "quote": {
+            "text": "Das Gute, das alles Übel überstrahlt, ist nicht ein längst verlorenes Paradies, sondern ein Reich, das in seiner vollen Herrlichkeit und Dauer noch kommen soll.",
+            "author": "John Hick",
+            "work": "Evil and the God of Love",
+            "year": "1966",
+            "sourceUrl": "https://link.springer.com/book/10.1057/9780230283961",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The good that outshines all ill is not a paradise long since lost but a kingdom which is yet to come in its full glory and permanence.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die Verteilung stimmt nicht. Seelenbildung braucht jemanden, dessen Seele gebildet wird, und viel Leiden zerstört Menschen, statt sie zu formen, oder trifft Säuglinge und Tiere, die nie darüber nachdenken werden. Und die Mengen sind absurd: Was Mut auch verlangt, den Schwarzen Tod verlangt er nicht.",
+            "response": "Der Einwand trifft die starke Form der Theodizee, und Hick gibt ihn weitgehend zu; darum stützt sich das Argument auf das, was er die Vollendung nennt — die Behauptung, dass die hier Zerstörten nicht am Ende sind. Das ist ein ernster Preis: Er macht die Antwort von etwas abhängig, das niemand prüfen kann."
+          }
+        },
+        {
+          "id": "refusing-theodicy",
+          "claim": "Das Christentum ist überhaupt nicht darauf verpflichtet, dass Leiden einen Zweck hat",
+          "explanation": "Die stärkste Antwort könnte sein, die Frage abzulehnen. Nach dieser Auffassung ist der Fehler, den Iwan mit seinen Gegnern teilt, die Annahme, dass Gott, wenn er ein Grauen zulässt, es zu etwas gewollt haben muss. Das Neue Testament behandelt Tod und Leiden nicht als Werkzeuge des Willens Gottes. Es behandelt sie als Feind, und die Verheißung lautet nicht, dass die Tränen sich als lohnend erweisen werden, sondern dass sie abgewischt werden.\n\nDavid Bentley Hart schrieb dies in den Wochen nach dem Tsunami von 2004, gegen Christen, die Gründe für ihn anboten. Die Position gibt viel auf: Sie hat keine Erklärung zu bieten und sagt, die Forderung nach einer sei verfehlt gewesen.",
+          "quote": {
+            "text": "statt uns zu zeigen, wie die Tränen eines kleinen Mädchens, das im Dunkeln litt, für den Bau des Reiches notwendig waren, wird er sie aufrichten und alle Tränen von ihren Augen abwischen.",
+            "author": "David Bentley Hart",
+            "work": "The Doors of the Sea: Where Was God in the Tsunami?",
+            "year": "2005",
+            "sourceUrl": "https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "rather than showing us how the tears of a small girl suffering in the dark were necessary for the building of the Kingdom, he will instead raise her up and wipe away all tears from her eyes.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Das ist ein Themenwechsel im Gewand einer Antwort. Die Frage war, warum ein allmächtiger und guter Gott Gräuel zulässt, die er beenden könnte. Zu sagen, er billige sie nicht und werde sie eines Tages rückgängig machen, gibt die ganze Sache zu: Er hat sie dennoch zugelassen, und ein Grund ist nicht genannt worden.",
+            "response": "Sie gibt zu, dass es keine Erklärung gibt, und das ist nicht dasselbe wie das Argument zuzugeben. Die Behauptung lautet, ein Gott, der das Übel besiegt, statt es zu brauchen, sei nicht der Gott, auf den das Indizienargument zielt — und ein Glaube, der jedes Grauen rechtfertigen muss, habe schon mehr verloren, als er zurückgewinnen kann."
+          }
+        }
+      ]
+    }
+  ],
+  "whereItStands": "Die logische Form des Arguments — Gott und irgendein Leiden seien schlicht widersprüchlich — ist nicht mehr der Ort des Streits. Plantingas Verteidigung wird allgemein zugestanden, auch von atheistischen Philosophen, und die logische Fassung heute zu vertreten heißt, gegen eine Position zu argumentieren, die die andere Seite vor fünfzig Jahren aufgegeben hat.\n\nDie Indizienform ist sehr lebendig, und sie ist das stärkste Argument gegen den Theismus, das irgendwer hat. Nichts in diesem Artikel soll etwas anderes suggerieren. Wirklich umstritten ist etwas Schmaleres: ob unser Unvermögen, in einem bestimmten Grauen einen Sinn zu sehen, ein gutes Indiz dafür ist, dass es keinen gibt. Das hängt daran, für wie gut gestellt wir uns halten, und es gibt keinen neutralen Weg, das zu entscheiden.\n\nDie ehrliche Zusammenfassung lautet, dass dies ein Preis ist und keine Niederlage. Leiden spricht gegen den Glauben an Gott, und die meisten sorgfältigen Theisten geben das zu; gestritten wird darüber, wie stark, und ob etwas anderes es aufwiegt. Wo es landet, hängt bei gegebenen Befunden vor allem davon ab, was man vorher für wahrscheinlich hielt — was für beide Seiten unbequem ist und der Grund dafür, dass das Thema als offen und nicht als entschieden gekennzeichnet ist.",
+  "commonMistake": "Atheisten vertreten meist die logische Fassung — Leiden mache Gott unmöglich —, die zugleich die schwächste Form ist und die, über die die Philosophie hinaus ist. Sie lädt außerdem eine Antwort ein, die gewinnt, und verschenkt damit das stärkste Argument, das sie haben.\n\nChristen greifen meist zu schnell nach einer Theodizee und bieten eine Erklärung an, wo keine verlangt war. Hiobs Freunde sind das Bild, das die Bibel selbst davon gibt, und das Buch steht nicht auf ihrer Seite. Es gibt auch die Gewohnheit, jedes Zugeständnis, dass Leiden gegen Gott spricht, als unmögliches Zugeständnis zu behandeln — obwohl ein großer Teil der Tradition, Hart oben eingeschlossen, es freimütig macht.\n\nUnd beide Seiten machen denselben Fehler, wenn sie dies als Rätsel behandeln. Für die meisten, die diese Frage stellen, ist es keines. Was das Argument auch entscheidet: Eine wahre Antwort, jemandem mitten in einem Verlust gesagt, bleibt das Falsche.",
+  "sources": [
+    {
+      "title": "Dialogues Concerning Natural Religion (Dialoge über natürliche Religion)",
+      "author": "David Hume",
+      "year": "1779",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "note": "Der zehnte Teil enthält die Stelle. Posthum veröffentlicht; über die vorangehenden fünfundzwanzig Jahre geschrieben."
+    },
+    {
+      "title": "The Problem of Evil and Some Varieties of Atheism",
+      "author": "William L. Rowe",
+      "year": "1979",
+      "url": "https://philpapers.org/rec/ROWTPO-3",
+      "note": "American Philosophical Quarterly 16(4), 335-341. Der Aufsatz, der das Argument vom Logischen zum Indizienhaften verschob."
+    },
+    {
+      "title": "The Brothers Karamazov (Die Brüder Karamasow), übers. Constance Garnett",
+      "author": "Fjodor Dostojewski",
+      "year": "1880",
+      "url": "https://www.gutenberg.org/ebooks/28054",
+      "note": "Buch V, Kapitel 3-5. Iwan ist eine Figur, nicht der Autor; Dostojewski war Christ und hielt dafür, dass der Einwand in voller Stärke gestellt werden müsse."
+    },
+    {
+      "title": "God, Freedom, and Evil",
+      "author": "Alvin Plantinga",
+      "year": "1974",
+      "url": "https://www.eerdmans.com/9780802817310/god-freedom-and-evil/"
+    },
+    {
+      "title": "Evil and the God of Love",
+      "author": "John Hick",
+      "year": "1966",
+      "url": "https://link.springer.com/book/10.1057/9780230283961"
+    },
+    {
+      "title": "The Doors of the Sea: Where Was God in the Tsunami?",
+      "author": "David Bentley Hart",
+      "year": "2005",
+      "url": "https://www.eerdmans.com/9781467418447/the-doors-of-the-sea/"
+    },
+    {
+      "title": "The Evidential Problem of Evil",
+      "author": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/evil-evi/",
+      "note": "Ein Überblick über den heutigen Stand des Arguments, nützlich, um zu sehen, wie viel daran wirklich offen ist."
+    },
+    {
+      "title": "Theodicies",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/theodicies/"
+    }
+  ]
+}

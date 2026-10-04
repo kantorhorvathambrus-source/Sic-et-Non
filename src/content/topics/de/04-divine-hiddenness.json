@@ -1,0 +1,251 @@
+{
+  "id": "divine-hiddenness",
+  "number": 4,
+  "slug": "goettliche-verborgenheit",
+  "title": "Wenn Gott erkannt werden will, warum ist er verborgen?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "Das Christentum behauptet, Gott wolle eine Beziehung zu jedem Menschen. Es ist schwer, eine Beziehung zu jemandem zu haben, dessen Existenz man nicht sicher ist.\n\nAlso steckt in der Gestalt der Welt ein Rätsel. Wenn ein liebender Gott existiert und erkannt werden will, sollten die Hinweise auf seine Existenz mindestens klar genug sein, dass jeder, der ehrlich sucht, ihn findet. Stattdessen suchen aufrichtige Menschen und gehen leer aus, und ganze Kulturen haben ihre gesamte Geschichte durchlebt, ohne etwas von ihm zu hören.\n\nDie heutige Fassung dieses Arguments ist genau darin, von wem sie spricht. Sie spricht nicht von Menschen, die nicht wollen, dass Gott existiert, und nicht von denen, die nie gefragt haben. Sie spricht von Menschen, die offen sind, die gesucht haben und die trotzdem nicht glauben. Dass es solche Menschen gibt, wird nicht ernsthaft bestritten. Was diese Tatsache zeigt, schon.",
+  "distinctions": [
+    {
+      "label": "Warum beweist Gott sich nicht den Skeptikern?",
+      "gloss": "Gewöhnlich gefragt im Blick auf Menschen, die sich sperren, und beide Seiten geben zu, dass ein Gott, der Widerstand überwältigte, etwas anderes täte als eine Beziehung zu suchen. Nicht das Argument hier.",
+      "activeHere": false
+    },
+    {
+      "label": "Warum sucht jemand ehrlich und findet nicht?",
+      "gloss": "Die Fassung mit Kraft: nicht die Unwilligen, sondern Menschen, die Gott offenstehen, suchen und leer ausgehen. Das ist das Argument dieser Seite.",
+      "activeHere": true
+    },
+    {
+      "label": "Warum gibt es Leiden?",
+      "gloss": "Ein anderes Argument von ähnlicher Gestalt, und die beiden werden oft vermischt. Thema 3.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "nichtwiderständiger Unglaube",
+      "definition": "Nicht an Gott zu glauben, ohne ihn abgewiesen zu haben: offen zu sein oder tatsächlich zu suchen und doch nichts zu finden. Das Argument hängt daran, dass dies vorkommt, und es kommt offenkundig vor."
+    },
+    {
+      "term": "epistemische Distanz",
+      "definition": "John Hicks Ausdruck für eine absichtlich offen gelassene Lücke in den Hinweisen, damit niemand zum Glauben gezwungen wird und jeder frei kommen kann oder gar nicht."
+    },
+    {
+      "term": "die Verborgenheit Gottes",
+      "definition": "Ein Thema innerhalb der Bibel, lange bevor es ein Einwand gegen sie war. Die Psalmen fragen, wohin Gott gegangen ist; Jesaja nennt ihn einen Gott, der sich verbirgt."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Ein Gott, der erkannt werden wollte, wäre leichter zu finden",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "gods-honesty",
+          "claim": "Ein so mächtiges Wesen könnte seine Absichten klarmachen, und hat es nicht getan",
+          "explanation": "Lassen wir den Beweis einen Augenblick beiseite und fragen wir nach gewöhnlicher Verständigung. Wer wirklich verstanden werden will und die Mittel dazu hat, sorgt dafür. Eltern, die eine Anweisung hinterlassen, die das Kind nicht lesen kann, haben keine Anweisung hinterlassen.\n\nNietzsches Fassung handelt von Redlichkeit und nicht von Hinweisen, und sie ist die schärfere Form. Der Vorwurf lautet nicht, Gott habe keinen Syllogismus geliefert. Er lautet, dass ein Wesen von unbegrenzter Macht und unbegrenztem Wissen, das wollte, dass seine Geschöpfe seine Absicht kennen, die Sache nicht umstrittenen Texten, konkurrierenden Traditionen und dem Schließen überlassen hätte.",
+          "quote": {
+            "text": "Ein Gott, der allwissend und allmächtig ist und der nicht einmal dafür sorgt, dass seine Geschöpfe seine Absicht verstehen — könnte das ein Gott der Güte sein?",
+            "author": "Friedrich Nietzsche",
+            "work": "Morgenröthe. Gedanken über die moralischen Vorurtheile",
+            "year": "1881",
+            "locator": "§91, 'God's honesty'",
+            "sourceUrl": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "A god who is all-knowing and all-powerful and who does not even make sure that his creatures understand his intention — could that be a god of goodness?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Es setzt voraus, verstanden zu werden sei das Einzige, was Gott wollen könnte, und Klarheit kostete nichts. Wenn gewollt ist, dass eine Beziehung frei eingegangen wird, dann ist es keine bessere Fassung derselben Sache, jemanden mit Hinweisen zu überschütten; es ändert, was angeboten wird. Ein Beweis erzeugte Zustimmung, und Zustimmung ist kein Vertrauen.",
+            "response": "Das wäre eine gute Antwort, wenn die Wahl zwischen einem Beweis und Schweigen stünde. Sie tut es nicht. Zwischen einer zwingenden Demonstration und der Lage, die wir tatsächlich haben, liegt ein enormer Bereich, und nichts in der Antwort von der freien Beziehung erklärt, warum die Hinweise an diesem Ende davon sitzen."
+          }
+        },
+        {
+          "id": "nonresistant-nonbelief",
+          "claim": "Menschen, die offen sind und suchen, finden trotzdem nichts",
+          "explanation": "Dies ist die Fassung, die die Verborgenheit in die ernsthafte Philosophie zurückgebracht hat. Sie hängt an keiner Behauptung über die Stärke der Hinweise. Sie hängt an einer Tatsache über Menschen: Manche sperren sich überhaupt nicht gegen Gott — sie würden ihn willkommen heißen, manche haben jahrelang darum gebetet, dass ihnen etwas gezeigt wird — und sie glauben nicht.\n\nJ. L. Schellenbergs Argument lautet, dass es [[nichtwiderständiger Unglaube]] nicht geben dürfte, wenn es einen vollkommen liebenden Gott gibt. Lieben heißt mindestens, für den erreichbar zu sein, der die Hand nach einem ausstreckt. Welche Gründe Gott auch haben mag, sich einem Feindseligen zu verbergen, für jemanden mit offenen Händen gelten sie nicht erkennbar.",
+          "quote": {
+            "text": "Schellenbergs Argument lautet, ein vollkommen liebender Gott wäre stets offen für eine persönliche Beziehung zu jeder endlichen Person, die einer solchen fähig ist; dass eine solche Offenheit damit unvereinbar ist, dass diese Person ohne eigenes Verschulden nicht glauben kann, dass Gott existiert; dass es solche Menschen offenkundig gibt; und dass es daher keinen vollkommen liebenden Gott gibt.",
+            "author": "J. L. Schellenberg",
+            "work": "Divine Hiddenness and Human Reason",
+            "year": "1993",
+            "locator": "our summary of the hiddenness argument as Schellenberg sets it out; not his wording",
+            "sourceUrl": "https://philpapers.org/rec/SCHDHA",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Schellenberg's argument runs that a perfectly loving God would always be open to a personal relationship with any finite person who is capable of one; that being so open is incompatible with that person's being unable to believe God exists through no fault of their own; that such people plainly do exist; and that therefore no perfectly loving God does.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Das Argument braucht, dass „offen für eine Beziehung“ heißt „lässt den Glauben jetzt eintreten“, und das ist nicht dasselbe. Eine Beziehung kann wirklich angeboten sein, ohne dass der Zeitplan unserer ist: Wer mit dreißig nicht bereit ist, kann es mit fünfzig sein, und ein Gott außerhalb der Zeit muss nicht nach unserem Kalender arbeiten. Der Glaube ist auch nicht die einzige Form, die Offenheit annehmen kann.",
+            "response": "Manche dieser Menschen sterben mit dreißig. Und ein Angebot, das der danach Greifende nicht wahrnehmen kann, leistet nichts von dem, was das Wort „Angebot“ gewöhnlich leistet. Die Antwort mag wahr sein, aber sie behauptet, dass Gottes Liebe von innerhalb eines Menschenlebens nicht wie Liebe aussieht, und das ist viel zugegeben.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "demographics",
+              "label": "Die Geographie des Glaubens",
+              "heldBy": "Stephen Maitzen",
+              "oneLine": "Theistischer Glaube ist in einigen Ländern fast allgemein und in anderen sehr selten, und diese Verteilung erwartet man von Kultur, nicht von einem Gott, der alle sucht.",
+              "summary": "Diese Fassung hängt nicht daran, ob sich irgendwer sperrt. Sie hängt an einem Muster.\n\nGinge der Glaube an Gott aus einem auf Gott ansprechenden Vermögen hervor, oder aus einem Gott, der sich jedem Offenen zugänglich macht, so sollte seine Verteilung nicht so genau Staatsgrenzen folgen, wie sie es tut. Was die demographischen Daten stattdessen zeigen, ist, dass der beste Hinweis darauf, ob jemand glaubt, sein Geburtsort ist. Naturalistische Erklärungen dieses Musters liegen auf der Hand; theistische müssen erklären, warum ein Gott, der eine Beziehung zu allen sucht, ein Ergebnis in Form einer Landkarte hervorbrächte.",
+              "quote": {
+                "text": "Theistischer Glaube ist über die Welt äußerst ungleich verteilt, in einigen Ländern nahezu allgemein und in anderen sehr selten, und dieses Muster wird durch kulturelle Weitergabe weit besser erklärt als durch jede Darstellung, nach der Gott eine Beziehung zu jedem Menschen sucht.",
+                "author": "Stephen Maitzen",
+                "work": "Divine Hiddenness and the Demographics of Theism, Religious Studies 42",
+                "year": "2006",
+                "locator": "our summary of the argument as Maitzen sets it out; not his wording",
+                "sourceUrl": "https://philosophy.acadiau.ca/tl_files/sites/philosophy/resources/documents/Maitzen_Hiddenness.pdf",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Theistic belief is distributed extremely unevenly across the world, being near-universal in some countries and very rare in others, and this pattern is far better explained by cultural transmission than by any account on which God seeks a relationship with every person.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, „offen für eine Beziehung“ müsse nicht „lässt den Glauben jetzt eintreten“ heißen, und eine Beziehung könne wirklich angeboten sein, während jemand noch nicht bereit ist. Diese Antwort handelt von Einzelnen und ihrer Bereitschaft. Sie sagt nichts dazu, warum Bereitschaft so stark mit einem Reisepass zusammenhängen sollte, und genau auf dieser Tatsache ist diese Fassung gebaut.",
+              "objection": {
+                "text": "Kulturelle Weitergabe erklärt die Verteilung fast jedes Glaubens, auch wahrer: Der Geburtsort sagt ebenso voraus, ob man die Evolution oder die Keimtheorie annimmt, und niemand schließt daraus, Keime seien kulturell. Das Argument setzt außerdem einen Gott voraus, der jetzt gleichmäßigen Glauben will, und nicht eine Geschichte, die durch bestimmte Völker und Zeiten hindurch arbeitet, und das ist das Gegenteil dessen, was die Tradition darüber behauptet, wie er tatsächlich gehandelt hat.",
+                "from": "theist",
+                "response": "Die Parallele versagt an der entscheidenden Stelle: Wo die Hinweise öffentlich sind, schrumpft die kulturelle Streuung, während sie sich verbreiten, und die theistische Behauptung lautet gerade, dass die einschlägigen Hinweise allen schon zugänglich sind."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ein Gott, der Glauben erzwänge, würde etwas anderes anbieten",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "enough-light",
+          "claim": "Die Hinweise sind auf das abgestimmt, was ein Mensch zu sehen bereit ist",
+          "explanation": "Pascals Antwort lautet, die Lage sei kein Versehen, sondern ein Plan, und sie passe zu der Art Sache, um die es geht. Überwältigende Hinweise würden die Frage nach Gottes Existenz erledigen und die Frage unberührt lassen, die die christliche Tradition für die eigentliche hält: was ein Mensch wahr haben will und was er daraufhin täte.\n\nSo ist die Welt eingerichtet: genug zum Weitergehen für den, der hinsehen will, und genug Dunkel für den, der lieber nicht. Das behauptet nicht, Suchende fänden immer schnell. Es behauptet, dass die Mehrdeutigkeit etwas tut, statt ein Fehler im Plan zu sein.",
+          "quote": {
+            "text": "Es gibt genug Licht für die, die nur sehen wollen, und genug Dunkel für die, die eine entgegengesetzte Neigung haben.",
+            "author": "Blaise Pascal",
+            "work": "Pensées (Gedanken), übers. W. F. Trotter",
+            "year": "1670",
+            "sourceUrl": "https://www.ccel.org/ccel/pascal/pensees.viii.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There is enough light for those who only desire to see, and enough obscurity for those who have a contrary disposition.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Das stellt eine unprüfbare Behauptung über den inneren Zustand aller auf, die Gott nicht finden, und stellt sie in eine sehr bequeme Richtung. Sie sagt, wer noch sucht, wolle wohl nicht wirklich sehen — was nicht nachzuprüfen und nicht zu widerlegen ist und still und leise sehr viele redliche Menschen beleidigt.",
+            "response": "So gelesen verdient sie den Einwand, und so wird sie oft gelesen. Die stärkere Lesart handelt überhaupt nicht von Einzelnen: Sie sagt, Hinweise wirken auf einen Menschen nie unabhängig davon, was er mit ihnen zu tun bereit ist, und das ist eine Behauptung darüber, wie Glauben allgemein zustande kommt, kein Vorwurf gegen einen bestimmten Ungläubigen.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "properly-basic",
+              "label": "Die Forderung nach Hinweisen beschreibt den Glauben falsch",
+              "heldBy": "Alvin Plantinga, Nicholas Wolterstorff, William Alston; die reformierte Erkenntnistheorie im Ganzen",
+              "oneLine": "Der Glaube an Gott ist kein Schluss, den Menschen aus Hinweisen ziehen, sodass der Vorwurf unzureichender Hinweise auf etwas zielt, das niemand getan hat.",
+              "summary": "Diese Position sagt nicht, die Hinweise seien ausreichend. Sie sagt, die Frage sei von Anfang an falsch gestellt.\n\nNach Plantingas Darstellung haben wir ein Vermögen — Calvins sensus divinitatis —, das unter bestimmten Umständen unmittelbar den Glauben an Gott hervorbringt: Dankbarkeit, Schuld, der Anblick eines Berges. So gebildete Überzeugungen sind basal, wie der Glaube an andere Geister oder an die Wirklichkeit der Vergangenheit, und keine davon wird auf die Kraft eines Arguments hin gehalten. Besteht das Vermögen und arbeitet es, ist der Glaube ohne Hinweise berechtigt; hat die Sünde es beschädigt, so ist das eine Erklärung dafür, warum manche nicht glauben, und sie verlangt nicht, dass sie sich schuldhaft gegen etwas sperren.",
+              "quote": {
+                "text": "Gott hat uns Menschen mit einem überzeugungsbildenden Vorgang oder einer Glaubensquelle geschaffen, dem sensus divinitatis; diese Quelle arbeitet unter verschiedenen Bedingungen und bringt Überzeugungen über Gott hervor, darunter Überzeugungen, die seine Existenz unmittelbar implizieren. Ein auf diesem Wege hervorgebrachter Glaube kann die Bedingungen der Berechtigung ohne Weiteres erfüllen.",
+                "author": "Alvin Plantinga",
+                "work": "Warranted Christian Belief",
+                "year": "2000",
+                "sourceUrl": "https://www.ccel.org/ccel/plantinga/warrant3.vi.ii.i.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "God has created us human beings with a belief-producing process or source of belief, the sensus divinitatis; this source works under various conditions to produce beliefs about God, including beliefs that immediately entail his existence. Belief produced in this way can easily meet the conditions for warrant.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, die Position stelle eine unprüfbare Behauptung über den inneren Zustand aller auf, die Gott nicht finden, und tue es in eine bequeme Richtung. Diese Fassung behauptet überhaupt nichts über Widerstand. Ein Vermögen kann versagen, ohne dass sein Träger schuld ist, so wie Farbenblindheit kein moralisches Versagen ist, und damit hat der Vorwurf, dem Ungläubigen die Schuld zu geben, nichts, woran er sich halten könnte.",
+              "objection": {
+                "text": "Ein Vermögen, das in manchen Bevölkerungen den Glauben an Gott hervorbringt und in anderen nicht, und dessen Ergebnisse darüber uneins sind, welcher Gott, ist nicht erkennbar ein Vermögen und nicht vielmehr ein kulturelles Erbe. Die Darstellung schneidet auch in beide Richtungen: Können basale Überzeugungen ohne Argument berechtigt sein, steht dieselbe Erlaubnis jeder Religion offen und auch Positionen, die ihre Vertreter verwerfen, und Plantingas Antwort — nur die wahre sei tatsächlich berechtigt — hilft niemandem, der herauszufinden versucht, welche die wahre ist.",
+                "from": "atheist",
+                "response": "Der Paritätseinwand wird behandelt und nicht übergangen: Berechtigung ist eine Frage davon, ob das Vermögen in einer passenden Umgebung richtig arbeitet, und das ist eine äußere Tatsache und nichts, was der Glaubende zuerst nachweisen müsste."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-distance-is-the-point",
+          "claim": "Die Lücke ist es, die eine freie Antwort möglich macht",
+          "explanation": "Nach dieser Auffassung ist Gottes Nichtoffensichtlichkeit kein Versagen der Mitteilung, sondern eine Bedingung der Beziehung. Ein Wesen von unbegrenzter Macht, das sich unverkennbar machte, wäre nicht eine Möglichkeit unter anderen: Jede in seiner Gegenwart getroffene Wahl wäre unter etwas getroffen, das dem Zwang nahekommt. Die [[epistemische Distanz]] ist das, was Raum lässt für eine Antwort, die wirklich die des Menschen ist.\n\nC. S. Lewis legte den Gedanken einem Dämon in den Mund, und darum trifft er. Was Screwtape fürchtet, ist nicht der Glaubende mit guten Hinweisen. Es ist der, der jede Spur Gottes verloren hat und dennoch weitergeht — denn das ist, nach christlicher Darstellung, wie Liebe aussieht, wenn sie nicht bezahlt wird.",
+          "quote": {
+            "text": "Unsere Sache ist niemals mehr in Gefahr, als wenn ein Mensch, der den Willen unseres Feindes nicht mehr nur begehrt, sondern beabsichtigt, sich in einem Universum umsieht, aus dem jede Spur von Ihm verschwunden zu sein scheint, und fragt, warum er verlassen worden ist, und dennoch gehorcht.",
+            "author": "C. S. Lewis",
+            "work": "The Screwtape Letters (Dienstanweisung für einen Unterteufel)",
+            "year": "1942",
+            "locator": "Letter VIII",
+            "sourceUrl": "https://en.wikipedia.org/wiki/The_Screwtape_Letters",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Our cause is never more in danger, than when a human, no longer desiring, but intending, to do our Enemy's will, looks round upon a universe from which every trace of Him seems to have vanished, and asks why he has been forsaken, and still obeys.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Das erklärt, warum Gott den Glauben nicht erzwingen würde. Es erklärt nicht die tatsächliche Verteilung. Millionen haben gelebt und sind gestorben, ohne der Behauptung je zu begegnen, und das ist keine Freiheit, sondern das Fehlen der Möglichkeit. Und innerhalb des Christentums wird Gott beschrieben, wie er sich einzelnen Menschen unverkennbar macht: Paulus auf dem Weg nach Damaskus blieb keine epistemische Distanz. Welchen Wert die Lücke auch hat, sie wird ungleich angewandt.",
+            "response": "Die ungleiche Verteilung ist die stärkste Form des Einwands, und es gibt keine saubere Antwort darauf. Was die Tradition sagt, ist, dass die Abrechnung mit dem Tod nicht geschlossen ist und niemand nach Hinweisen gerichtet wird, die er nie hatte. Das ist eine wirkliche Antwort, und es ist eine, die sich von hier nicht nachprüfen lässt."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Die Bibel war zuerst da",
+      "oneLine": "Die göttliche Verborgenheit ist kein von Kritikern erfundener Einwand: Die Klage steht in den Psalmen und bei den Propheten, in schärferer Sprache als bei den meisten heutigen Fassungen.",
+      "text": "Es ist auf beiden Seiten gut zu wissen, dass [[die Verborgenheit Gottes]] kein von Kritikern erfundener Einwand ist. Sie ist ein Thema innerhalb der Texte.\n\nDie Psalmen fragen, wie lange Gott sein Angesicht verbergen wird. Jesaja redet ihn unmittelbar als einen Gott an, der sich verbirgt. Hiobs Klage lautet nicht, Gott sei im Allgemeinen ungerecht, sondern dass er nicht erscheint und nicht antwortet. Und der Satz, den die Evangelien Jesus bei der Kreuzigung in den Mund legen, ist ein Zitat aus Psalm 22: Mein Gott, warum hast du mich verlassen?\n\nDas entscheidet nichts. Es bedeutet, dass ein Christ, der Gott abwesend findet, in einer Lage ist, für die die Tradition Worte hat, und dass ein Atheist, der die Verborgenheit als eine Tatsache vorträgt, die das Christentum übersehen habe, sie Leuten vorträgt, die seit dreitausend Jahren darüber schreiben."
+    }
+  ],
+  "whereItStands": "Dies ist das Argument, das sich in den letzten dreißig Jahren am stärksten bewegt hat. Vor Schellenberg war es eine Stimmung; jetzt ist es ein formales Argument in der Literatur, und es gilt allgemein als der stärkste Fall gegen den Theismus nach dem Problem des Leidens.\n\nDie beiden Seiten haben sich auf eine wirkliche Meinungsverschiedenheit verengt und nicht auf ein Missverständnis. Niemand behauptet mehr, Gott solle sich denen beweisen, die ihn abweisen. Gestritten wird darüber, ob ein liebender Gott Gründe haben könnte, jemandem verborgen zu bleiben, der ihn nicht abweist — und darüber, ob die angebotenen Gründe, die meist von Freiheit und vom Zeitpunkt einer Beziehung handeln, genügen, um die Fälle zu decken, die tatsächlich vorkommen.\n\nWo es landet, hängt an etwas, das hier selbst nicht entscheidbar ist: wie zuversichtlich man ist, sagen zu können, was ein liebender Gott täte. Das atheistische Argument braucht diese Zuversicht, und die wichtigste theistische Antwort lautet, wir hätten sie nicht — das ist derselbe Schritt wie gegen das Problem des Leidens und kostet dasselbe. Können wir nicht beurteilen, wie Liebe aussähe, verlieren wir den Griff auf fast alles, worüber wir gestritten haben.",
+  "commonMistake": "Atheisten vertreten meist die Beweisfassung — warum schreibt Gott es nicht an den Himmel —, die die Antwort von der freien Entscheidung einlädt und das Argument verliert, das wirklich trägt. Die starke Form handelt überhaupt nicht von Beweisen; sie handelt von Menschen, die schon die Hand ausstrecken.\n\nChristen antworten meist mit der Freiheitsantwort und hören dort auf, ohne zu bemerken, dass sie den Zwang und nicht die Verteilung betrifft. Sie sagt nichts über den, der zehn Jahre darum gebetet hat, dass ihm etwas gezeigt wird, und gar nichts über die Millionen, die die Behauptung nie gehört haben.\n\nUnd beide Seiten streiten gern über einen allgemeinen Suchenden, während die eigentliche Kraft des Themas in den einzelnen Fällen liegt. Was hier gesagt wird, sollte jemandem sagbar sein, der jahrelang gebetet und nichts bekommen hat, denn von dem Menschen handelt das Argument.",
+  "sources": [
+    {
+      "title": "Morgenröthe. Gedanken über die moralischen Vorurtheile",
+      "author": "Friedrich Nietzsche",
+      "year": "1881",
+      "url": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
+      "note": "Der § 91 trägt den Titel „Gottes Redlichkeit“."
+    },
+    {
+      "title": "Divine Hiddenness and Human Reason",
+      "author": "J. L. Schellenberg",
+      "year": "1993",
+      "url": "https://philpapers.org/rec/SCHDHA",
+      "note": "Das Argument dieser Seite wird zusammengefasst und nicht zitiert; die Zusammenfassung ist als Paraphrase gekennzeichnet."
+    },
+    {
+      "title": "Pensées (Gedanken), übers. W. F. Trotter",
+      "author": "Blaise Pascal",
+      "year": "1670",
+      "url": "https://www.ccel.org/ccel/pascal/pensees.viii.html"
+    },
+    {
+      "title": "The Screwtape Letters (Dienstanweisung für einen Unterteufel)",
+      "author": "C. S. Lewis",
+      "year": "1942",
+      "url": "https://en.wikipedia.org/wiki/The_Screwtape_Letters"
+    },
+    {
+      "title": "The Hiddenness of God",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/divine-hiddenness/"
+    },
+    {
+      "title": "Divine Hiddenness Argument against God's Existence",
+      "author": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "divine-hiddenness",
+  "number": 4,
+  "slug": "ocultamiento-divino",
+  "title": "Si Dios quiere ser conocido, ¿por qué está oculto?",
+  "category": "existence-of-god",
+  "status": "open",
+  "realQuestion": "El cristianismo sostiene que Dios quiere una relación con cada persona. Es difícil tener una relación con alguien de cuya existencia uno no está seguro.\n\nHay, pues, un enigma en la forma del mundo. Si existe un Dios amoroso y quiere ser conocido, la evidencia de su existencia debería ser al menos lo bastante clara para que cualquiera que lo busque con honestidad lo encuentre. En cambio, hay personas sinceras que buscan y se quedan con las manos vacías, y culturas enteras que han recorrido toda su historia sin oír nada de él.\n\nLa versión moderna de este argumento es cuidadosa con aquello de lo que habla. No habla de quienes no quieren que Dios exista, ni de quienes nunca han preguntado. Habla de personas abiertas, que han buscado y que siguen sin creer. Que esas personas existen no se discute en serio. Lo que ese hecho muestra, sí.",
+  "distinctions": [
+    {
+      "label": "¿Por qué no se demuestra Dios a los escépticos?",
+      "gloss": "Se pregunta normalmente por quienes se resisten, y ambos lados admiten que un Dios que arrollara la resistencia estaría haciendo otra cosa que buscar una relación. No es el argumento de aquí.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Por qué hay quien busca con honestidad y no encuentra?",
+      "gloss": "La versión que tiene fuerza: no los reticentes, sino personas abiertas a Dios que buscan y se quedan sin nada. Es el argumento de esta página.",
+      "activeHere": true
+    },
+    {
+      "label": "¿Por qué hay sufrimiento?",
+      "gloss": "Un argumento distinto con una forma parecida, y los dos se confunden a menudo. Tema 3.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "incredulidad no resistente",
+      "definition": "No creer en Dios sin haberlo rechazado: estar abierto, o buscar activamente, y no encontrar nada. El argumento depende de que esto ocurra, y claramente ocurre."
+    },
+    {
+      "term": "distancia epistémica",
+      "definition": "El término de John Hick para un hueco en la evidencia deliberadamente dejado abierto, de modo que nadie quede forzado a creer y pueda acercarse libremente o no acercarse en absoluto."
+    },
+    {
+      "term": "el ocultamiento de Dios",
+      "definition": "Un tema interno a la Biblia mucho antes de ser un argumento contra ella. Los salmos preguntan dónde se ha ido Dios; Isaías lo llama un Dios que se esconde."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Un Dios que quisiera ser conocido sería más fácil de encontrar",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "gods-honesty",
+          "claim": "Un ser con ese poder podría dejar claras sus intenciones, y no lo ha hecho",
+          "explanation": "Dejemos la prueba a un lado un momento y preguntemos por la comunicación corriente. Quien de verdad quiere ser entendido, y tiene los medios, se asegura de serlo. Un padre que deja instrucciones que su hijo no sabe leer no ha dejado instrucciones.\n\nLa versión de Nietzsche va sobre la honestidad y no sobre la evidencia, y es la forma más afilada. La queja no es que Dios no haya aportado un silogismo. Es que un ser de poder ilimitado y conocimiento ilimitado, que quisiera que sus criaturas supieran qué pretendía, no habría dejado el asunto en manos de textos discutidos, tradiciones rivales e inferencias.",
+          "quote": {
+            "text": "Un dios que todo lo sabe y todo lo puede, y que ni siquiera se asegura de que sus criaturas entiendan su intención, ¿podría ser un dios de bondad?",
+            "author": "Friedrich Nietzsche",
+            "work": "Daybreak: Thoughts on the Prejudices of Morality (Aurora)",
+            "year": "1881",
+            "locator": "§91, 'God's honesty'",
+            "sourceUrl": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "A god who is all-knowing and all-powerful and who does not even make sure that his creatures understand his intention — could that be a god of goodness?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Supone que ser entendido es lo único que Dios podría querer y que la claridad no cuesta nada. Si lo que se busca es una relación entrada libremente, abrumar a alguien con evidencia no es una versión mejor de lo mismo: cambia lo que se ofrece. Una prueba produciría asentimiento, y el asentimiento no es confianza.",
+            "response": "Sería una buena respuesta si la elección fuera entre una prueba y el silencio. No lo es. Entre una demostración concluyente y la situación que de hecho tenemos hay un margen enorme, y nada en la réplica de la relación libre explica por qué la evidencia está en este extremo de él."
+          }
+        },
+        {
+          "id": "nonresistant-nonbelief",
+          "claim": "Hay personas abiertas que buscan y siguen sin encontrar nada",
+          "explanation": "Esta es la versión que devolvió el ocultamiento a la filosofía seria. No depende de ninguna tesis sobre la fuerza de la evidencia. Depende de un solo hecho acerca de las personas: algunas no se resisten a Dios en absoluto —lo recibirían con gusto, y algunas han rezado durante años para que se les mostrara algo— y no creen.\n\nEl argumento de J. L. Schellenberg es que la [[incredulidad no resistente]] no debería existir si existe un Dios perfectamente amoroso. Amar significa, como mínimo, estar disponible para quien tiende la mano hacia ti. Cualesquiera razones que Dios pudiera tener para permanecer oculto ante alguien hostil, no se aplican de forma evidente a alguien con las manos abiertas.",
+          "quote": {
+            "text": "El argumento de Schellenberg sostiene que un Dios perfectamente amoroso estaría siempre abierto a una relación personal con cualquier persona finita capaz de ella; que semejante apertura es incompatible con que esa persona no pueda creer que Dios existe sin culpa alguna por su parte; que tales personas existen manifiestamente; y que, por tanto, no existe ningún Dios perfectamente amoroso.",
+            "author": "J. L. Schellenberg",
+            "work": "Divine Hiddenness and Human Reason",
+            "year": "1993",
+            "locator": "our summary of the hiddenness argument as Schellenberg sets it out; not his wording",
+            "sourceUrl": "https://philpapers.org/rec/SCHDHA",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Schellenberg's argument runs that a perfectly loving God would always be open to a personal relationship with any finite person who is capable of one; that being so open is incompatible with that person's being unable to believe God exists through no fault of their own; that such people plainly do exist; and that therefore no perfectly loving God does.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "El argumento necesita que «abierto a una relación» signifique «hace que la creencia ocurra ahora», y son cosas distintas. Una relación puede estar realmente ofrecida sin que los tiempos sean los nuestros: quien no está preparado a los treinta puede estarlo a los cincuenta, y un Dios fuera del tiempo no está obligado a trabajar según nuestro calendario. Tampoco es la creencia la única forma que puede tomar la apertura.",
+            "response": "Algunas de esas personas mueren a los treinta. Y una oferta que quien tiende la mano no puede detectar no hace nada de lo que la palabra «oferta» hace normalmente. La réplica puede ser verdadera, pero es la tesis de que el amor de Dios no se parece al amor visto desde dentro de una vida humana, y eso es mucho que conceder.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "demographics",
+              "label": "La geografía de la creencia",
+              "heldBy": "Stephen Maitzen",
+              "oneLine": "La creencia teísta es casi universal en algunos países y rarísima en otros, y esa distribución es la que cabría esperar de la cultura, no de un Dios que busca a todos.",
+              "summary": "Esta versión no depende de que alguien en particular se resista. Depende de una pauta.\n\nSi la creencia en Dios surgiera de una facultad que responde a Dios, o de un Dios que se pone a disposición de quien esté abierto, su distribución no debería seguir las fronteras nacionales tan de cerca como las sigue. Lo que los datos demográficos muestran, en cambio, es que el mejor predictor de que alguien crea es dónde nació. Las explicaciones naturalistas de esa pauta son inmediatas; las teístas tienen que explicar por qué un Dios que busca una relación con todos produciría un resultado con forma de mapa.",
+              "quote": {
+                "text": "La creencia teísta está distribuida de forma extremadamente desigual por el mundo, siendo casi universal en algunos países y rarísima en otros, y esa pauta se explica mucho mejor por la transmisión cultural que por cualquier relato según el cual Dios busca una relación con cada persona.",
+                "author": "Stephen Maitzen",
+                "work": "Divine Hiddenness and the Demographics of Theism, Religious Studies 42",
+                "year": "2006",
+                "locator": "our summary of the argument as Maitzen sets it out; not his wording",
+                "sourceUrl": "https://philosophy.acadiau.ca/tl_files/sites/philosophy/resources/documents/Maitzen_Hiddenness.pdf",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Theistic belief is distributed extremely unevenly across the world, being near-universal in some countries and very rare in others, and this pattern is far better explained by cultural transmission than by any account on which God seeks a relationship with every person.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que «abierto a una relación» no tiene que significar «hace que la creencia ocurra ahora», y que una relación puede estar realmente ofrecida mientras alguien no está todavía preparado. Esa respuesta habla de individuos y de su madurez. No tiene nada que decir sobre por qué esa madurez debería correlacionar tan fuertemente con un pasaporte, que es el hecho sobre el que se construye esta versión.",
+              "objection": {
+                "text": "La transmisión cultural explica la distribución de casi cualquier creencia, incluidas las verdaderas: dónde naciste predice también si aceptas la evolución o la teoría microbiana, y nadie concluye de ahí que los microbios sean culturales. El argumento supone además un Dios que quiere una creencia uniforme ahora, y no una historia que trabaja a través de pueblos y tiempos particulares, que es lo contrario de lo que la tradición afirma sobre cómo ha actuado de hecho.",
+                "from": "theist",
+                "response": "El paralelo falla justo donde importa: allí donde la evidencia es pública, la variación cultural se reduce a medida que la evidencia se difunde, y la tesis teísta es precisamente que la evidencia pertinente ya está a disposición de todos."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Un Dios que forzara la creencia estaría ofreciendo otra cosa",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "enough-light",
+          "claim": "La evidencia está calibrada a lo que una persona está dispuesta a ver",
+          "explanation": "La respuesta de Pascal es que la situación no es un descuido sino un diseño, y que encaja con la clase de cosa que se busca. Una evidencia arrolladora resolvería la cuestión de la existencia de Dios dejando intacta la cuestión que la tradición cristiana considera realmente en juego: qué quiere una persona que sea verdad, y qué haría al respecto.\n\nAsí, el mundo está dispuesto con bastante para seguir adelante quien quiere mirar y bastante oscuridad para quien preferiría no mirar. Esto no afirma que los buscadores encuentren siempre pronto. Afirma que la ambigüedad está haciendo algo, en lugar de ser un defecto del diseño.",
+          "quote": {
+            "text": "Hay bastante luz para quienes solo desean ver, y bastante oscuridad para quienes tienen la disposición contraria.",
+            "author": "Blaise Pascal",
+            "work": "Pensées (Pensamientos), trad. W. F. Trotter",
+            "year": "1670",
+            "sourceUrl": "https://www.ccel.org/ccel/pascal/pensees.viii.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There is enough light for those who only desire to see, and enough obscurity for those who have a contrary disposition.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Esto formula una tesis incontrastable sobre el estado interior de todo el que no logra encontrar a Dios, y la formula en una dirección muy conveniente. Dice que quien sigue buscando no debe de querer ver de verdad, lo cual no se puede comprobar, no se puede refutar e insulta discretamente a muchísima gente honesta.",
+            "response": "Leída así merece la objeción, y así se lee a menudo. La lectura más fuerte no habla de individuos en absoluto: dice que la evidencia nunca opera sobre una persona independientemente de lo que esté dispuesta a hacer con ella, lo cual es una tesis sobre cómo funciona la creencia en general y no una acusación contra ningún incrédulo concreto.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "properly-basic",
+              "label": "La exigencia de evidencia describe mal la creencia",
+              "heldBy": "Alvin Plantinga, Nicholas Wolterstorff, William Alston; la epistemología reformada en general",
+              "oneLine": "La creencia en Dios no es una conclusión a la que se llega desde la evidencia, de modo que la queja de que la evidencia es insuficiente apunta a algo que nadie estaba haciendo.",
+              "summary": "Esta posición no dice que la evidencia sea adecuada. Dice que la pregunta está mal planteada desde el principio.\n\nSegún Plantinga tenemos una facultad —el sensus divinitatis de Calvino— que produce la creencia en Dios directamente en ciertas circunstancias: la gratitud, la culpa, la vista de una montaña. Las creencias formadas así son básicas, como la creencia en otras mentes o en la realidad del pasado, y ninguna de esas se sostiene tampoco por la fuerza de un argumento. Si la facultad existe y funciona, la creencia está justificada sin evidencia; si el pecado la ha dañado, eso es un relato de por qué algunos no creen que no exige que se estén resistiendo culpablemente a nada.",
+              "quote": {
+                "text": "Dios nos ha creado, a los seres humanos, con un proceso productor de creencias o fuente de creencia, el sensus divinitatis; esta fuente opera en condiciones diversas para producir creencias sobre Dios, incluidas creencias que implican de inmediato su existencia. La creencia producida de este modo puede satisfacer sin dificultad las condiciones de la justificación.",
+                "author": "Alvin Plantinga",
+                "work": "Warranted Christian Belief",
+                "year": "2000",
+                "sourceUrl": "https://www.ccel.org/ccel/plantinga/warrant3.vi.ii.i.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "God has created us human beings with a belief-producing process or source of belief, the sensus divinitatis; this source works under various conditions to produce beliefs about God, including beliefs that immediately entail his existence. Belief produced in this way can easily meet the conditions for warrant.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que la posición formula una tesis incontrastable sobre el estado interior de todo el que no logra encontrar a Dios, y la formula en una dirección conveniente. Esta versión no dice nada sobre resistencia. Una facultad puede fallar sin que su dueño tenga culpa, igual que el daltonismo no es un defecto moral, de modo que el cargo de culpar al incrédulo no tiene donde agarrarse.",
+              "objection": {
+                "text": "Una facultad que produce la creencia en Dios en unas poblaciones y no en otras, y cuyos resultados discrepan sobre qué Dios, no es evidentemente una facultad en lugar de una herencia cultural. El relato corta además por los dos lados: si las creencias básicas pueden estar justificadas sin argumento, la misma licencia está disponible para cualquier religión y para posiciones que quienes sostienen el relato rechazan, y la respuesta de Plantinga —que solo la verdadera está de hecho justificada— no está al alcance de nadie que intente averiguar cuál es la verdadera.",
+                "from": "atheist",
+                "response": "La objeción por paridad se responde en lugar de ignorarse: la justificación es cuestión de que la facultad funcione correctamente en un entorno adecuado, lo cual es un hecho externo y no algo que el creyente tenga que establecer primero."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-distance-is-the-point",
+          "claim": "El hueco es lo que hace posible una respuesta libre",
+          "explanation": "Según esta posición, que Dios no sea obvio no es un fallo de comunicación sino una condición de la relación. Un ser de poder ilimitado que se hiciera inconfundible no sería una opción entre otras: toda elección hecha en su presencia se haría bajo algo parecido a la coacción. La [[distancia epistémica]] es lo que deja espacio para una respuesta que sea realmente de la persona.\n\nC. S. Lewis puso la idea en boca de un demonio, y por eso acierta. Lo que teme Escrutopo no es al creyente con buena evidencia. Es a quien ha perdido todo rastro de Dios y sigue adelante de todos modos, porque eso, según el relato cristiano, es el aspecto que tiene el amor cuando no se le está pagando.",
+          "quote": {
+            "text": "Nuestra causa nunca corre mayor peligro que cuando un humano que ya no desea, sino que se propone, hacer la voluntad de nuestro Enemigo mira a su alrededor un universo del que todo rastro de Él parece haberse desvanecido, y pregunta por qué ha sido abandonado, y sigue obedeciendo.",
+            "author": "C. S. Lewis",
+            "work": "The Screwtape Letters (Cartas del diablo a su sobrino)",
+            "year": "1942",
+            "locator": "Letter VIII",
+            "sourceUrl": "https://en.wikipedia.org/wiki/The_Screwtape_Letters",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Our cause is never more in danger, than when a human, no longer desiring, but intending, to do our Enemy's will, looks round upon a universe from which every trace of Him seems to have vanished, and asks why he has been forsaken, and still obeys.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Esto explica por qué Dios podría no forzar la creencia. No explica la distribución real. Millones han vivido y muerto sin encontrarse nunca con la afirmación, y eso no es libertad sino ausencia de la opción. Y dentro del cristianismo se describe a Dios haciéndose inconfundible para personas concretas: a Pablo, camino de Damasco, no se le dejó ninguna distancia epistémica. Cualquiera que sea el valor del hueco, se aplica de forma desigual.",
+            "response": "La distribución desigual es la forma más fuerte de la objeción y no tiene una respuesta limpia. Lo que dice la tradición es que las cuentas no se cierran con la muerte y que nadie es juzgado por una evidencia que nunca tuvo. Es una respuesta real, y es una que no se puede comprobar desde aquí."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "La Biblia llegó antes",
+      "oneLine": "El ocultamiento divino no es una objeción inventada por los críticos: la queja está dentro de los Salmos y los profetas, en un lenguaje más duro que el de la mayoría de las versiones modernas.",
+      "text": "Conviene saber, en ambos lados, que [[el ocultamiento de Dios]] no es una objeción inventada por los críticos. Es un tema interno a los textos.\n\nLos salmos preguntan cuánto tiempo esconderá Dios su rostro. Isaías se dirige a él directamente como a un Dios que se esconde. La queja de Job no es que Dios sea injusto en abstracto, sino que no comparece ni responde. Y la frase que los evangelios ponen en boca de Jesús en la crucifixión es una cita del salmo 22: Dios mío, ¿por qué me has abandonado?\n\nEsto no resuelve nada. Sí significa que un cristiano que encuentra a Dios ausente está en una situación para la que la tradición tiene palabras, y que un ateo que presenta el ocultamiento como un hecho que el cristianismo no ha advertido se lo está presentando a gente que lleva tres mil años escribiendo sobre él."
+    }
+  ],
+  "whereItStands": "Este es el argumento que más se ha movido en los últimos treinta años. Antes de Schellenberg era un estado de ánimo; ahora es un argumento formal en la literatura, y se considera en general el caso más fuerte contra el teísmo después del problema del sufrimiento.\n\nLos dos lados se han estrechado hasta un desacuerdo real, y no hasta un malentendido. Ya nadie sostiene que Dios deba demostrarse a quien lo rechaza. La disputa es si un Dios amoroso podría tener razones para permanecer oculto ante alguien que no lo rechaza, y si las razones ofrecidas —que hablan casi siempre de libertad y de los tiempos de una relación— bastan para cubrir los casos que de hecho se dan.\n\nDónde aterriza depende de algo que no se decide aquí: cuánta confianza tiene uno en poder decir qué haría un Dios amoroso. El argumento ateo necesita esa confianza, y la réplica teísta principal es que no la tenemos, que es el mismo movimiento que se hace contra el problema del sufrimiento y tiene el mismo coste. Si no podemos juzgar qué aspecto tendría el amor, perdemos casi todo el agarre sobre aquello de lo que estábamos discutiendo.",
+  "commonMistake": "Los ateos defienden casi siempre la versión de la prueba —por qué no lo escribe Dios en el cielo—, que invita a la réplica de la respuesta libre y pierde el argumento que de verdad funciona. La forma fuerte no habla de pruebas en absoluto: habla de personas que ya están tendiendo la mano.\n\nLos cristianos responden casi siempre con la réplica del libre albedrío y se detienen ahí, sin notar que aborda la coacción y no la distribución. No dice nada sobre quien pasó una década rezando para que se le mostrara algo, y nada en absoluto sobre los millones que nunca oyeron la afirmación.\n\nY ambos lados tienden a discutir sobre un buscador genérico, cuando la fuerza real del tema está en los casos concretos. Lo que se diga aquí debería poder decirse a alguien que rezó durante años y no obtuvo nada, porque esa persona es de quien trata el argumento.",
+  "sources": [
+    {
+      "title": "Daybreak: Thoughts on the Prejudices of Morality (Aurora)",
+      "author": "Friedrich Nietzsche",
+      "year": "1881",
+      "url": "https://archive.org/stream/daybreakbook/Daybreak-%20Thoughts%20on%20the%20Prejudices%20of%20Morality%20by%20Friedrich%20Nietzsche%20(1881)_djvu.txt",
+      "note": "El §91 se titula «La honestidad de Dios»."
+    },
+    {
+      "title": "Divine Hiddenness and Human Reason",
+      "author": "J. L. Schellenberg",
+      "year": "1993",
+      "url": "https://philpapers.org/rec/SCHDHA",
+      "note": "El argumento de esta página se resume en lugar de citarse; el resumen está marcado como paráfrasis."
+    },
+    {
+      "title": "Pensées (Pensamientos), trad. W. F. Trotter",
+      "author": "Blaise Pascal",
+      "year": "1670",
+      "url": "https://www.ccel.org/ccel/pascal/pensees.viii.html"
+    },
+    {
+      "title": "The Screwtape Letters (Cartas del diablo a su sobrino)",
+      "author": "C. S. Lewis",
+      "year": "1942",
+      "url": "https://en.wikipedia.org/wiki/The_Screwtape_Letters"
+    },
+    {
+      "title": "The Hiddenness of God",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/divine-hiddenness/"
+    },
+    {
+      "title": "Divine Hiddenness Argument against God's Existence",
+      "author": "Internet Encyclopedia of Philosophy",
+      "url": "https://iep.utm.edu/divine-hiddenness-argument-against-gods-existence/"
+    }
+  ]
+}
