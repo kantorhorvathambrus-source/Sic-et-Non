@@ -102,7 +102,7 @@
                 "author": "Don N. Page",
                 "work": "Does God So Love the Multiverse?",
                 "year": "2008",
-                "locator": "our summary of the position Page argues for; not his wording",
+                "locator": "nuestro resumen de la posición que Page defiende; no sus palabras",
                 "sourceUrl": "https://philpapers.org/rec/PAGDGS",
                 "verification": "paraphrase",
                 "sawWhat": "snippet",
@@ -135,7 +135,7 @@
             "author": "David Hume",
             "work": "Dialogues Concerning Natural Religion (Diálogos sobre la religión natural)",
             "year": "1779",
-            "locator": "Part V, spoken by Philo",
+            "locator": "parte V, en boca de Filón",
             "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
             "verification": "corroborated",
             "sawWhat": "snippet",
@@ -156,7 +156,7 @@
           "quote": {
             "text": "Es más o menos como si imaginara que un charco se despierta una mañana y piensa: «Qué mundo interesante este en el que me encuentro; qué agujero interesante este en el que me encuentro; me queda bastante bien, ¿no?»",
             "author": "Douglas Adams",
-            "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge",
+            "work": "Is There an Artificial God?, discurso en Digital Biota 2, Cambridge",
             "year": "1998",
             "sourceUrl": "https://www.biotacast.org/douglasAdams.html",
             "verification": "corroborated",
@@ -171,7 +171,7 @@
             "response": "El pelotón funciona como analogía solo si sabemos que los tiradores rara vez fallan, que es justo la probabilidad que no tenemos. Sin conocer el rango que las constantes podrían haber tomado, no hay ningún hecho sobre cuán sorprendente es el resultado, y la analogía importa el número mismo que el argumento tiene que establecer.",
             "landsOn": []
           },
-          "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge",
+          "work": "Is There an Artificial God?, discurso en Digital Biota 2, Cambridge",
           "variants": [
             {
               "id": "the-landscape",
@@ -182,7 +182,7 @@
               "quote": {
                 "text": "la mejor explicación de las pautas que vemos en cosmología y en física de partículas es un paisaje de posibilidades muy diverso y un universo extremadamente grande: un multiverso",
                 "author": "Leonard Susskind",
-                "work": "in discussion with Lee Smolin, Edge",
+                "work": "en conversación con Lee Smolin, Edge",
                 "year": "2004",
                 "sourceUrl": "https://www.edge.org/conversation/lee_smolin-leonard_susskind-smolin-vs-susskind-the-anthropic-principle",
                 "verification": "corroborated",
