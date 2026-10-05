@@ -1,0 +1,258 @@
+{
+  "id": "fine-tuning",
+  "number": 5,
+  "slug": "ajustement-fin",
+  "title": "L'univers est-il finement ajusté pour la vie ?",
+  "category": "natural-science",
+  "status": "open",
+  "realQuestion": "Une poignée de nombres en physique — l'intensité de la gravitation, la masse de l'électron, l'énergie du vide — semblent se tenir dans des fourchettes très étroites. Déplacez-en certains un peu et vous obtenez un univers sans étoiles, ou sans chimie, ou qui se recontracte avant que rien ne puisse y arriver.\n\nC'est ce qu'on entend par [[ajustement fin]], et cela relève de la physique ordinaire et non d'une thèse religieuse. Le désaccord commence aussitôt après, sur le genre de fait dont il s'agit. Un camp dit qu'un jeu de nombres aussi précis est la signature de quelque chose qui les a choisis. L'autre dit que nous n'avons aucune idée de la probabilité de ces nombres, qu'un univers inhospitalier aux observateurs n'aurait personne en lui pour le remarquer, et que la surprise n'est pas un indice.\n\nCe sont là deux positions respectables, et le débat entre elles est d'une propreté inhabituelle : il porte sur la probabilité, et sur ce dont nous avons le droit d'être surpris.",
+  "distinctions": [
+    {
+      "label": "Les constantes sont-elles dans des fourchettes vitales étroites ?",
+      "gloss": "Une question de physique, et largement accordée. Les fourchettes sont réelles ; la largeur de certaines se discute sur les bords, mais pas le point de fond.",
+      "activeHere": false
+    },
+    {
+      "label": "Cela appelle-t-il une explication au-delà de la physique ?",
+      "gloss": "L'étroitesse est-elle un indice de dessein, d'un multivers, ou de rien du tout. C'est l'argument de cette page.",
+      "activeHere": true
+    },
+    {
+      "label": "La biologie montre-t-elle un dessein ?",
+      "gloss": "Un argument distinct, sur les vivants et non sur les constantes physiques, et qui a connu un sort très différent. Sujet 6.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ajustement fin",
+      "definition": "Que de petits changements dans certaines constantes physiques donneraient un univers où la vie, sous quelque forme que ce soit, est impossible. L'expression est malheureuse : elle sonne comme si elle contenait déjà sa propre réponse."
+    },
+    {
+      "term": "principe anthropique",
+      "definition": "L'observation que nous ne pourrions jamais nous trouver que dans un univers permettant des observateurs. Trivialement vraie, et le débat porte sur ce qu'elle explique."
+    },
+    {
+      "term": "multivers",
+      "definition": "La proposition selon laquelle notre univers est l'un d'un nombre énorme d'univers aux constantes différentes. Elle vient indépendamment de la cosmologie inflationnaire et de la théorie des cordes ; elle n'a pas été inventée pour répondre à cet argument."
+    },
+    {
+      "term": "effet de sélection",
+      "definition": "Quand la manière de recueillir les données garantit un résultat. Un sondage à la sortie d'un cinéma trouvera que presque tout le monde aime le film."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Des nombres aussi précis sont la marque d'un choix",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "the-knife-edge",
+          "claim": "Les fourchettes sont trop étroites pour être négligées",
+          "explanation": "Les exemples sont concrets. Si l'interaction nucléaire forte différait de quelques pour cent, la résonance du carbone qui permet aux étoiles d'en fabriquer disparaîtrait. Changez la constante cosmologique dans les décimales lointaines et l'univers ou bien se disperse, ou bien s'effondre avant la formation des galaxies.\n\nFred Hoyle a prédit cette résonance du carbone avant qu'on ne la trouve, et il a été si frappé par ce qu'il avait découvert qu'il a dit tout haut la chose évidente. Il n'était pas théiste et ne l'est jamais devenu — et c'est précisément pour cela que la phrase vaut d'être citée. L'impression d'artifice n'est pas fabriquée par les apologètes : c'est l'air qu'avait la physique pour le physicien qui a fait le travail.",
+          "quote": {
+            "text": "Une interprétation de bon sens des faits suggère qu'un super-intellect a bricolé la physique, ainsi que la chimie et la biologie.",
+            "author": "Fred Hoyle",
+            "work": "The Universe: Past and Present Reflections, Engineering and Science",
+            "year": "1981",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Fred_Hoyle",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "A common sense interpretation of the facts suggests that a superintellect has monkeyed with physics, as well as with chemistry and biology.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Étroites par rapport à quoi ? Pour dire qu'une valeur est improbable, il faut connaître l'intervalle qu'elle pouvait prendre et la probabilité de chaque portion de cet intervalle, et personne n'a ni l'un ni l'autre. Nous avons exactement un univers, aucune théorie de l'origine des constantes et aucun échantillon. L'impression de fil du rasoir pourrait être un artefact du choix des unités et du fait de ne faire varier qu'un nombre à la fois.",
+            "response": "L'objection est réelle, et c'est pourquoi l'argument se formule comme une inférence vers la meilleure explication et non comme un calcul. Mais « nous ne pouvons pas assigner de probabilité » n'équivaut pas à « il n'y a rien à expliquer ». Les physiciens traitent ces coïncidences comme réclamant un compte rendu lorsque ce compte rendu est un multivers, et il est incohérent de dire que la question s'évapore seulement quand la réponse pourrait être Dieu."
+          }
+        },
+        {
+          "id": "the-multiverse-moves-the-problem",
+          "claim": "Expliquer l'ajustement par un multivers ne fait que déplacer l'ajustement",
+          "explanation": "Accordons un [[multivers]] produisant des univers aux constantes différentes. Quelque chose doit les produire, et ce quelque chose est un mécanisme avec ses propres lois et ses propres réglages — qui doivent être les bons pour qu'il fonctionne du tout. Les modèles inflationnaires qui engendrent des régions aux constantes variables ont besoin de champs particuliers et de potentiels particuliers pour le faire.\n\nLa question monte donc d'un étage au lieu de disparaître. La version qu'en donne William Lane Craig est délibérément domestique, et elle survit à l'être : ce qui engendre une gamme de résultats est soi-même un agencement précis, et demander pourquoi cet agencement est tel qu'il est vous ramène au point de départ.",
+          "quote": {
+            "text": "ce recours à l'Ensemble des Mondes sera vain s'il se trouve que le mécanisme qui engendre l'Ensemble des Mondes doit lui-même être finement ajusté, car on n'a alors fait que renvoyer le problème à l'étage. Après tout, même ma machine à pain doit être fabriquée exactement comme il faut pour fonctionner correctement, et elle ne produit que des miches de pain, pas des univers.",
+            "author": "William Lane Craig",
+            "work": "Reasonable Faith",
+            "year": "2008",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/scholarly-writings/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "this recourse to the World Ensemble will be in vain if it turns out that the mechanism that generates the World Ensemble must itself be fine-tuned, for then one has only kicked the problem upstairs. After all, even my bread machine has to be made just right in order to work properly, and it only produces loaves of bread, not universes.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La même régression s'applique avec plus de force à l'autre réponse. Un esprit capable de sélectionner les constantes de la physique n'est pas une chose simple qui ne réclame aucun compte ; il est au moins aussi précis que l'univers qu'on l'invoque pour expliquer, et plutôt plus difficile à décrire. Si « qu'est-ce qui a ajusté le générateur de multivers » est une bonne question, « qu'est-ce qui rend compte d'un esprit concepteur d'univers » en est une meilleure.",
+            "response": "C'est la réponse la plus forte, et la réponse classique est que Dieu n'est précisément pas tenu pour un agencement complexe de parties, de sorte que la régression ne démarre pas. Savoir si cette réponse est une véritable thèse métaphysique ou une manière de déclarer une explication exemptée, c'est le débat du sujet 2, et il n'est pas réglé ici.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "theistic-multiverse",
+              "label": "Dieu a fait le multivers",
+              "heldBy": "Don Page, Robin Collins ; un courant de la physique et de la philosophie de la religion chrétiennes",
+              "oneLine": "Un multivers n'est pas un rival du dessein mais une chose qui a pu être voulue, et un Dieu qui voulait un univers comme celui-ci en a peut-être fait beaucoup.",
+              "summary": "Cette position accepte la physique que l'argument ci-dessus attaque et nie que l'accepter coûte quoi que ce soit.\n\nSi le paysage est réel, la question se déplace simplement : un multivers doté de la bonne machinerie génératrice de lois est lui-même une chose très particulière, et les raisons de penser qu'un unique univers finement ajusté réclame une explication valent pour un ensemble qui produit à coup sûr des membres ajustés. Page a soutenu longuement qu'on pourrait attendre d'un créateur qui tient à une création riche qu'il fasse beaucoup d'univers plutôt qu'un seul, de sorte que la découverte confirmerait le théisme au lieu de l'embarrasser.",
+              "quote": {
+                "text": "Un multivers n'est pas une solution de rechange à un créateur mais une forme possible de la création : un Dieu qui tient à une création riche et variée pourrait fort bien produire beaucoup d'univers plutôt qu'un seul, de sorte que l'existence d'un multivers serait un indice sur ce qui a été fait, non sur le fait que cela a été fait.",
+                "author": "Don N. Page",
+                "work": "Does God So Love the Multiverse?",
+                "year": "2008",
+                "locator": "our summary of the position Page argues for; not his wording",
+                "sourceUrl": "https://philpapers.org/rec/PAGDGS",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "A multiverse is not an alternative to a creator but a possible form of creation: a God who values a rich and varied creation might well produce many universes rather than one, so the existence of a multiverse would be evidence about what was made, not about whether it was made.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection ci-dessus est que la même régression s'applique avec plus de force à un esprit concepteur — qu'un esprit capable de sélectionner les constantes n'est pas une chose simple n'exigeant aucune explication. Cette objection vise un argument qui traite le multivers en concurrent. Ici il n'est pas un concurrent, de sorte qu'un reproche d'être la moins économique de deux explications rivales n'a qu'une explication devant lui.",
+              "objection": {
+                "text": "Si le multivers est compatible avec Dieu, l'argument de l'ajustement fin a perdu sa force probatoire au seul endroit où il en avait. Un argument selon lequel les constantes sont improbables par hasard et probables par dessein ne survit pas à la concession qu'elles sont aussi sans relief dans une physique qui produit toutes les combinaisons. La position est cohérente, et elle l'est au prix de l'argument dont traite cette page.",
+                "from": "both",
+                "response": "C'est un prix que la position accepte : la thèse est que le théisme n'est pas menacé par le multivers, non que le multivers laisse l'argument du dessein intact. Savoir si quelque chose est perdu dépend du poids que l'argument portait."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "La surprise n'est pas un indice",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "botched-and-bungled",
+          "claim": "Beaucoup d'essais et une réussite est une réponse ancienne et suffisante",
+          "explanation": "Bien avant la cosmologie inflationnaire, Hume a remarqué qu'un univers ajusté à son contenu n'exige pas d'ajusteur si les tentatives ont été assez nombreuses. L'essai et l'erreur, sur assez d'essais, produisent des résultats qui ont l'air voulus, et les échecs ne laissent personne derrière eux pour en écrire.\n\nLe [[multivers]] moderne est cette idée avec de la physique en plus. Il importe qu'il n'ait pas été inventé à cette fin : l'inflation éternelle engendre des quantités énormes de régions aux constantes de basse énergie différentes, comme sous-produit de modèles bâtis pour d'autres raisons. Que ces modèles soient justes reste ouvert. Qu'ils soient motivés indépendamment ne l'est pas.",
+          "quote": {
+            "text": "bien des mondes ont pu être gâchés et bâclés, tout au long d'une éternité, avant que ce système ne soit trouvé ; beaucoup de travail perdu ; beaucoup d'essais stériles ; et un progrès lent, mais continu, poursuivi durant des âges infinis dans l'art de faire des mondes.",
+            "author": "David Hume",
+            "work": "Dialogues Concerning Natural Religion (Dialogues sur la religion naturelle)",
+            "year": "1779",
+            "locator": "Part V, spoken by Philo",
+            "sourceUrl": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "many worlds might have been botched and bungled, throughout an eternity, ere this system was struck out; much labour lost; many fruitless trials made; and a slow, but continued improvement carried on during infinite ages in the art of world-making.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Il n'y a aucun indice en faveur des autres univers, et par construction il ne peut pas y en avoir. Une hypothèse qui multiplie sans limite des entités inobservables pour faire disparaître une improbabilité n'est pas manifestement plus scientifique que celle qu'elle remplace : c'est un appel à un très grand nombre de choses qu'on ne voit pas.",
+            "response": "Les autres régions ne sont pas posées pour résoudre ce problème. Elles tombent de modèles bâtis sur la physique observée, et si ces modèles sont justes, les régions existent, que l'argument de l'ajustement fin intéresse quelqu'un ou non. C'est une situation épistémique différente de celle qui consiste à inventer des entités sur commande."
+          }
+        },
+        {
+          "id": "the-observer-is-the-sample",
+          "claim": "Nous ne pouvions pas nous trouver dans un univers où nous ne pourrions pas exister",
+          "explanation": "Tout observateur, dans tout univers permettant des observateurs, trouve des constantes compatibles avec des observateurs. Ce n'est pas une coïncidence réclamant une explication ; c'est un [[effet de sélection]] intégré à l'acte même de regarder.\n\nLe plus simple est de le sentir par la flaque de Douglas Adams, qui se réveille dans un trou, remarque à quel point le trou lui va étonnamment bien, et conclut que le trou a été fait pour elle. La flaque a la causalité à l'envers : c'est elle qui a pris la forme du trou. Savoir si nous sommes la flaque est précisément ce dont les deux camps débattent — mais la possibilité suffit à montrer que s'ajuster à son environnement n'est pas en soi un indice que l'environnement a été arrangé.",
+          "quote": {
+            "text": "C'est un peu comme si vous imaginiez une flaque se réveillant un matin et pensant : « Voilà un monde intéressant où je me trouve — un trou intéressant où je me trouve — il m'épouse plutôt bien, n'est-ce pas ? »",
+            "author": "Douglas Adams",
+            "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge",
+            "year": "1998",
+            "sourceUrl": "https://www.biotacast.org/douglasAdams.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "This is rather as if you imagine a puddle waking up one morning and thinking, 'This is an interesting world I find myself in — an interesting hole I find myself in — fits me rather neatly, doesn't it?'",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Le [[principe anthropique]] explique pourquoi nous observons un univers permettant la vie, étant donné que nous observons quelque chose. Il n'explique pas pourquoi il y a un univers permettant la vie à observer. Face à un peloton d'exécution, si vous survivez, vous pouvez conclure que bien sûr vous êtes vivant pour vous le demander — et avoir encore le droit de demander pourquoi les douze tireurs ont tous manqué.",
+            "response": "Le peloton ne vaut comme analogie que si nous savons que les tireurs manquent rarement, et c'est justement la probabilité qui nous fait défaut. Sans connaître l'intervalle que les constantes pouvaient prendre, il n'y a aucun fait sur le caractère surprenant du résultat, et l'analogie importe le nombre même que l'argument doit établir.",
+            "landsOn": []
+          },
+          "work": "Is There an Artificial God?, speech at Digital Biota 2, Cambridge",
+          "variants": [
+            {
+              "id": "the-landscape",
+              "label": "Le paysage",
+              "heldBy": "Leonard Susskind, Martin Rees, Max Tegmark, Andrei Linde",
+              "oneLine": "La théorie des cordes et l'inflation éternelle prédisent ensemble un nombre énorme d'univers aux constantes différentes, de sorte qu'un univers comme le nôtre n'est pas surprenant mais attendu.",
+              "summary": "Le multivers est la réponse qu'on attribue le plus souvent à ce camp et, jusqu'ici, la seule position de cette page que personne n'énonçait en ses propres mots : elle apparaissait comme une cible de l'argument théiste ci-dessus. Elle a sa place ici, de sa propre voix.\n\nLa thèse n'est pas un simple appel au possible. La théorie des cordes semble permettre un nombre astronomique de vides stables aux constantes physiques différentes, et l'inflation éternelle semble les réaliser. Si les deux tiennent, les constantes ne sont pas des molettes que quelqu'un a réglées : elles sont ce qui varie d'une région à l'autre, et les observateurs se trouvent nécessairement dans une région où des observateurs peuvent exister.",
+              "quote": {
+                "text": "la meilleure explication des motifs que nous observons en cosmologie et en physique des particules est un paysage de possibilités très divers et un univers extrêmement vaste : un multivers",
+                "author": "Leonard Susskind",
+                "work": "in discussion with Lee Smolin, Edge",
+                "year": "2004",
+                "sourceUrl": "https://www.edge.org/conversation/lee_smolin-leonard_susskind-smolin-vs-susskind-the-anthropic-principle",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "the best explanation for the patterns we see in cosmology and particle physics is a very diverse landscape of possibilities and an extremely large universe – a multiverse",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection ci-dessus est que le principe anthropique explique pourquoi nous observons un univers permettant la vie, étant donné que nous observons quelque chose, mais non pourquoi il y a un tel univers. Cette réponse est décisive contre une observation anthropique nue. Elle n'est pas disponible contre cette version, qui fournit ce qui manque à la version nue : un mécanisme qui produit effectivement l'ensemble sur lequel l'effet de sélection opère ensuite.",
+              "objection": {
+                "text": "L'objection la plus coupante vient de la physique, non de la religion. Lee Smolin — athée, et débattant directement avec Susskind — tient qu'une théorie qui prédit tous les univers possibles ne prédit rien, et que le raisonnement anthropique sous cette forme supprime la discipline qui a fait marcher la physique : aucune observation ne pourrait lui être contraire. Le paysage de la théorie des cordes n'est pas non plus un résultat établi mais une conjecture sur un cadre qui, en quarante ans, n'a fait aucune prédiction confirmée.",
+                "from": "within",
+                "sharedPremise": "elle accepte le naturalisme et la physique tout entière, et soutient à partir de ces seules prémisses qu'un cadre compatible avec tout résultat ne fait aucune prédiction, et qu'une théorie qu'on ne peut pas infirmer a quitté la pratique qui donnait à la physique son autorité.",
+                "response": "Le paysage fait bien des prédictions — sur la constante cosmologique, sur la courbure spatiale — et un raisonnement anthropique de ce genre a servi à prédire la valeur observée de la constante cosmologique avant qu'elle ne soit mesurée."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Ce qui est accordé, et ce qui ne l'est pas",
+      "oneLine": "La physique est bien moins contestée que l'argument bâti sur elle : l'étroitesse des fourchettes est accordée, et ce qu'elle signifie ne l'est pas.",
+      "text": "La physique est moins contestée que l'argument qui l'entoure, et il vaut donc la peine de l'isoler.\n\nAccordé : pour plusieurs constantes, des valeurs hors d'une bande étroite donneraient un univers sans étoiles, sans chimie, ou sans durée suffisante pour que quoi que ce soit se développe. La résonance du carbone, la constante cosmologique et le rapport des intensités électromagnétique et gravitationnelle en sont les exemples habituels, et ce sont de vrais résultats, non des inventions apologétiques.\n\nNon accordé : la largeur réelle de certaines de ces bandes dès qu'on laisse plusieurs constantes varier ensemble plutôt qu'une à la fois ; la possibilité même que les constantes aient pu prendre d'autres valeurs, qui dépend d'une théorie plus profonde dont personne ne dispose ; et le fait de savoir si le mot « ajustement » accomplit un travail argumentatif que la physique n'a pas mérité. Qui vous dit que l'ajustement fin est une improbabilité prouvée, ou qu'il est une illusion bien connue, est allé au-delà de ce qu'on sait."
+    }
+  ],
+  "whereItStands": "C'est l'argument du dessein qui a survécu. Le sujet 6 montre ce qu'il est advenu de la version biologique ; celle-ci est en meilleur état, et elle est prise au sérieux par des philosophes sans aucun enjeu religieux.\n\nLe désaccord s'est resserré sur une vraie question technique : cela signifie-t-il quelque chose d'assigner une probabilité aux constantes de la nature quand nous avons un univers, aucune théorie de leur origine et aucun moyen d'échantillonner. Si de telles probabilités ont un sens, l'ajustement fin est une donnée réelle réclamant une explication, et le dessein et le multivers sont les deux candidats sur la table. S'ils n'en ont pas, l'argument n'échoue pas tant qu'il ne démarre pas.\n\nPersonne n'a tranché cela, et ce n'est peut-être pas tranchable sans la physique plus profonde. En attendant, les deux réponses vivantes — un esprit concepteur, ou un ensemble énorme d'univers — demandent d'accepter quelque chose d'inobservable. Laquelle est la plus petite bouchée n'est pas une question à laquelle la physique réponde.",
+  "commonMistake": "Les athées traitent le plus souvent le multivers comme s'il supprimait la question, alors qu'il la déplace : le générateur a ses propres réglages. Certains écartent aussi le sujet entier comme du créationnisme en blouse blanche, ce qui est une erreur d'un autre ordre — l'ajustement fin est un vrai résultat et Hoyle n'était pas un apologète.\n\nLes chrétiens présentent le plus souvent les petits nombres comme un calcul de probabilité établi. Ils ne le sont pas : il n'y a aucune distribution de probabilité sur les constantes, et citer un chiffre comme un sur dix puissance cent vingt comme s'il était mesuré exagère ce qu'on sait. La version honnête de l'argument n'en a pas besoin.\n\nEt les deux camps glissent volontiers de « l'univers permet la vie » à « l'univers est pour la vie ». Le premier est la donnée. Le second est la conclusion, et c'est ce que l'argument devait établir.",
+  "sources": [
+    {
+      "title": "The Universe: Past and Present Reflections",
+      "author": "Fred Hoyle",
+      "year": "1981",
+      "url": "https://en.wikipedia.org/wiki/Fred_Hoyle",
+      "note": "Engineering and Science, novembre 1981. Hoyle n'était pas théiste ; il décrivait sa position comme un penchant pour une lecture déiste de la physique plutôt que pour une religion."
+    },
+    {
+      "title": "Reasonable Faith",
+      "author": "William Lane Craig",
+      "year": "2008",
+      "url": "https://www.reasonablefaith.org/writings/scholarly-writings/"
+    },
+    {
+      "title": "Dialogues Concerning Natural Religion (Dialogues sur la religion naturelle)",
+      "author": "David Hume",
+      "year": "1779",
+      "url": "https://www.gutenberg.org/files/4583/4583-h/4583-h.htm",
+      "note": "La cinquième partie anticipe de près de deux siècles la réponse par l'essai et l'erreur."
+    },
+    {
+      "title": "Is There an Artificial God?",
+      "author": "Douglas Adams",
+      "year": "1998",
+      "url": "https://www.biotacast.org/douglasAdams.html",
+      "note": "Texte intégral de l'allocution improvisée à Digital Biota 2, Magdalene College, Cambridge, septembre 1998."
+    },
+    {
+      "title": "Just Six Numbers: The Deep Forces That Shape the Universe",
+      "author": "Martin Rees",
+      "year": "1999",
+      "url": "https://www.goodreads.com/book/show/81884.Just_Six_Numbers",
+      "note": "Le récit d'un cosmologiste sur les constantes et sur la réponse du multivers, écrit pour les non-spécialistes."
+    },
+    {
+      "title": "Fine-Tuning",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/fine-tuning/"
+    }
+  ]
+}
