@@ -1,0 +1,262 @@
+{
+  "id": "meaning-without-god",
+  "number": 20,
+  "slug": "sinn-ohne-gott",
+  "title": "Kann das Leben ohne Gott Sinn haben?",
+  "category": "faith-and-society",
+  "status": "interpretive",
+  "realQuestion": "Das Wort verrichtet drei Arbeiten zugleich, und der Streit besteht größtenteils darin, dass Leute verschiedene davon beantworten.\n\nEs kann heißen, dass ein Leben sich von innen bedeutsam anfühlt. Es kann heißen, dass ein Leben einen Zweck hat, für den es gemacht ist und an dem es gelingen oder scheitern kann. Und es kann heißen, dass ein Leben auf eine Weise zählt, die nicht aufhört, wenn es aufhört. Das Erste bestreitet niemand. Das Dritte ist das, worum der Streit gewöhnlich wirklich geht, und es wird unter dem Zweiten eingeschmuggelt.\n\nDie Frage hier lautet also nicht, ob Atheisten ihr Leben für lebenswert halten — das tun sie etwa in gleichem Maß wie alle anderen —, und nicht, ob sie ein Recht haben, so zu empfinden, was ein seltsamer Gedanke ist, als brauchte dafür irgendwer eine Erlaubnis. Sie lautet, ob das, wonach Menschen mit dieser Frage greifen — etwas, das hält, ob sie es nun dafür halten oder nicht —, ohne Gott zu haben ist.\n\nDas Etikett ist deutend, weil die Uneinigkeit jede Tatsache überlebt. Beide Seiten hier wissen dasselbe über den Tod, über den Wert und über das, was Menschen berichten. Sie sind uneinig darüber, ob das Übrige genügt, und „genügen“ ist keine Messung.",
+  "distinctions": [
+    {
+      "label": "Erleben Nichtglaubende ihr Leben als sinnvoll?",
+      "gloss": "Nicht im Streit. Sie tun es, sie sagen es, und kein Argument auf dieser Seite bestreitet es. Ein Christ, der das Gegenteil behauptet, argumentiert gegen etwas Beobachtbares.",
+      "activeHere": false
+    },
+    {
+      "label": "Gibt es überhaupt objektiven Wert?",
+      "gloss": "Auf der eigenen Seite verhandelt und nicht hier, und diese Seite lehnt sich stark daran: die stärkste atheistische Antwort unten braucht objektiven Wert, sodass ein Leser, der ihn ablehnt, beide zusammen lesen muss.",
+      "activeHere": false
+    },
+    {
+      "label": "Ist das, wonach gefragt wird, ohne Gott zu haben?",
+      "gloss": "Die lebendige Frage, und das Schwierige ist, dass die beiden Seiten sich nicht ganz darüber einig sind, was verlangt wird. Beide Positionen unten enthalten eine Darstellung davon, und das ist das Nützlichste, was jede zu bieten hat.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "das Absurde",
+      "definition": "Camus’ Name für die Kluft zwischen der menschlichen Forderung, die Welt solle Sinn ergeben, und dem Schweigen der Welt. Keine Behauptung, das Leben sei schlecht, sondern eine Behauptung über die Gestalt des Missverhältnisses."
+    },
+    {
+      "term": "Teleologie",
+      "definition": "Die Erklärung durch das, wozu etwas da ist. Bei Aristoteles und im mittelalterlichen Denken Standard, in den Naturwissenschaften aufgegeben und für Lebewesen und für menschliche Leben noch umstritten."
+    },
+    {
+      "term": "Nihilismus",
+      "definition": "Die Auffassung, dass nichts von Wert ist. Fast niemand auf einer der beiden Seiten dieses Streits vertritt sie, und das ist zu sagen, weil beide Seiten die andere regelmäßig damit bezichtigen."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Was bleibt, ist nicht Sinn, sondern die Verwaltung seines Fehlens",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "death-erases-it",
+          "claim": "Die Frage ist, ob etwas die Vernichtung des Fragenden überlebt, und selbstgemachter Sinn überlebt sie nicht.",
+          "explanation": "Die Krise, die diese Frage benennt, ist kein gedankliches Rätsel, und die, die sie am besten beschrieben haben, waren damals keine Apologeten. Sie kommt als die Einsicht, dass alles, was ein Mensch baut, liebt und wird, zur Löschung vorgesehen ist, samt dem Menschen, der es schätzte, und am Ende samt allen, die sich daran erinnern könnten.\n\nEin selbst übernommener Zweck liegt innerhalb dieser Grenze. Er hält so lange wie der, der ihn übernahm, und nicht länger, was bedeutet, dass die Antwort auf „überlebt dies meinen Tod?“ der Konstruktion nach nein lautet. Die Erwiderung, man solle aufhören, nach der Zukunft zu fragen, ist keine Antwort auf die Frage; sie ist ein Rat darüber, welche Fragen man zulassen soll.\n\nDas Argument lautet nicht, Nichtglaubende seien unglücklich. Es lautet, dass genau das, was die Frage entscheiden würde — etwas, das hält, unabhängig davon, ob irgendwer es weiterhin hält —, das ist, was ein endlicher, selbst verliehener Zweck nicht sein kann.",
+          "quote": {
+            "text": "Gibt es in meinem Leben einen Sinn, den der unausweichliche Tod, der mich erwartet, nicht zerstört?",
+            "author": "Leo Tolstoi",
+            "work": "A Confession (Meine Beichte)",
+            "year": "1882",
+            "locator": "chapter 5, where he states the question that nearly killed him",
+            "sourceUrl": "https://www.marxists.org/archive/tolstoy/1882/a-confession/part-5.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Is there any meaning in my life that the inevitable death awaiting me does not destroy?",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "meaning-is-telos",
+              "label": "Sinn ist das Ziel einer Natur, nicht was jemand beschließt",
+              "heldBy": "Alasdair MacIntyre und die aristotelische Tradition, die er wiedergewinnt",
+              "oneLine": "Ein menschliches Leben hat ein kennzeichnendes Ziel, wie eine Eichel es hat, und Sinn ist der Abstand zwischen dem, was ein Mensch ist, und dem, was er wäre, wenn er es verwirklichte.",
+              "summary": "Diese Position sagt nichts über die Dauer, und das trennt sie vom Argument oben.\n\nNach dem älteren Schema wird das Gute einer Sache dadurch festgelegt, welche Art Sache sie ist. Ein Messer ist ein gutes Messer, indem es gut schneidet; ein Mensch gedeiht, indem er die dem Menschen eigenen Vermögen ausübt, in den Praktiken und Beziehungen, in denen diese Vermögen ihren Sinn haben. Die Ethik ist nach dieser Auffassung kein Regelwerk, sondern die Darstellung eines Übergangs: von dem Menschen, wie er gerade ist, zu dem Menschen, der er sein könnte, wenn er würde, wozu er da ist.\n\nEine [[Teleologie]] dieser Art verlangt nicht, dass irgendwer eine Anweisung erteilt hat, und darum findet der Einwand, ein befohlener Zweck sei nur die Vorliebe eines anderen, keinen Halt. Sie verlangt, dass Naturen Ziele haben, und das ist es, was das moderne Bild bestritt und was diese Position wiederherstellen will.",
+              "quote": {
+                "text": "es gibt einen grundlegenden Gegensatz zwischen dem Menschen, wie er gerade ist, und dem Menschen, wie er sein könnte, wenn er seine wesentliche Natur verwirklichte. Die Ethik ist die Wissenschaft, die den Menschen verständlich machen soll, wie sie den Übergang vom ersten Zustand zum zweiten vollziehen.",
+                "author": "Alasdair MacIntyre",
+                "work": "After Virtue",
+                "year": "1981",
+                "locator": "the account of the classical teleological scheme, chapter 5",
+                "sourceUrl": "https://www.bu.edu/cpt/?p=74",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "there is a fundamental contrast between man-as-he-happens-to-be and man-as-he-could-be-if-he-realized-his-essential-nature. Ethics is the science which is to enable men to understand how they make the transition from the former state to the latter.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, die Forderung nach Dauer sei verfehlt, weil die Dauer nicht das ist, was etwas wertvoll macht. Diese Position fordert nirgends Dauer. Sie verortet den Sinn darin, dass eine Natur ein Ziel hat, und das kann ein Leben von achtzig Jahren vollständig verwirklichen; ein Argument darüber, wie lange Dinge halten, geht also an ihr vorbei.",
+              "objection": {
+                "text": "Nach den wesentlichen Naturen wurde gesucht, und sie sind nicht da. Die Biologie fand Abstammungslinien, Variation und Funktionen, die geschichtliche Zufälle und keine Ziele sind: ein Herz ist zum Pumpen von Blut da in dem Sinn, dass das Pumpen von Blut der Grund ist, aus dem Herzen ausgelesen wurden, und das ist eine Tatsache über die Vergangenheit und erteilt keine Anweisung darüber, wie zu leben ist. Und die Teile der Darstellung, die tragen — über Praktiken mit inneren Gütern und Leben mit erzählerischer Gestalt —, stehen einem Naturalisten ohne jede Metaphysik zur Verfügung, wie Naturalisten sie seither auch aufgenommen haben.",
+                "from": "atheist",
+                "response": "Ausgelesene Funktionen sind nicht die Art Ziel, um die es geht, und der Einwand beantwortet eine biologische Frage mit einer biologischen Antwort. Dass Naturalisten die Darstellung der Praktiken entlehnt haben, ist wahr und ist das Interessante: die Entlehnungen tragen, und worauf sie tragen, ist eine Behauptung darüber, wozu Menschen da sind, über die der Naturalismus sagt, es gebe dazu keine Tatsache."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Die Forderung lautet auf Dauer, und die Dauer war nie das, was etwas wertvoll macht. Ein Musikstück wird nicht besser, indem es länger ist, eine Freundschaft ist nicht wertlos, weil einer der Freunde sterben wird, und eine Rettung wird nicht sinnlos, wenn der Gerettete irgendwann an etwas anderem stirbt. Verliehe die Dauer Wert, dann wäre die kürzere Hälfte jeder wertvollen Sache die schlechtere Hälfte, und das glaubt niemand. Das Argument nimmt eine Tatsache darüber, wie Enden sich anfühlen, und behandelt sie als Entdeckung über den Wert.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Alle Vergleiche betreffen endliche Dinge in einer Welt, die weitergeht, beurteilt von Menschen, die bleiben. Die Behauptung betrifft den Fall, in dem nichts weitergeht und niemand bleibt — in dem es am Ende keinen Standpunkt gibt, von dem aus die Rettung je lohnend war. Das ist keine längere Fassung des Endes einer Sinfonie; es ist der Unterschied zwischen einer Aufführung und keiner Aufführung."
+          }
+        },
+        {
+          "id": "conferred-is-not-found",
+          "claim": "Ein Zweck, den man sich selbst zuweist, hat genau die Autorität, die man ihm gab, und das ist keine.",
+          "explanation": "Man nehme die Standardantwort ernst: Sinn werde nicht gefunden, sondern geschaffen, und jeder mache sich seinen eigenen. Dann berichtet „mein Leben hat Sinn“, dass jemand eine Haltung dazu eingenommen hat. Sie kann eingenommen, geändert oder fallen gelassen werden, und nichts außerhalb des Einnehmens macht eine ihrer Fassungen richtig.\n\nDanach hatte die Frage nicht gefragt. Wer sich fragt, ob sein Leben etwas bedeutet, fragt nicht, ob er beschlossen hat, dass es das tut; er weiß gewöhnlich, dass er es beschlossen hat, und fragt, ob der Beschluss vor irgendetwas Rede und Antwort steht. Eine Antwort, die auf „du hast gewählt, und das Wählen ist, was Sinn ist“ hinausläuft, hat das Thema gewechselt, höflich.\n\nDie Schwierigkeit schärft sich an den Rändern. Ist der Sinn verliehen, dann hat der, der ihn der Grausamkeit verleiht, sein Leben nach dem einzigen verfügbaren Maßstab sinnvoll gemacht — und jeder Versuch, diesen Fall auszuschließen, greift nach einem Kriterium, von dem die Theorie sagte, es gebe es nicht.",
+          "quote": {
+            "text": "Wenn es keinen Gott gibt, dann sind der Mensch und das Universum verloren.",
+            "author": "William Lane Craig",
+            "work": "The Absurdity of Life without God, in Reasonable Faith",
+            "year": "1994",
+            "locator": "the essay's statement of the consequence, developed at length in the surrounding pages",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If there is no God, then man and the universe are doomed.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Dieselbe Frage lässt sich eine Ebene höher stellen und bekommt keine bessere Antwort. Hat ein Zweck Sinn, weil Gott ihn zugewiesen hat, dann ist „Gott hat beschlossen, dass dies zählt“ ebenfalls der Bericht eines Beschlusses, und dass er von jemandem sehr Großem gefasst wird, macht aus einem Beschluss keine Entdeckung. Entweder gibt es einen von dem Beschließenden unabhängigen Maßstab, und dann könnte ein Geschöpf ihn im Prinzip ohne jedes Dekret erfüllen, oder es gibt keinen, und dann ist auch der Sinn des Theisten verliehen — und von einem anderen verliehen, was schlimmer ist, denn es macht ein menschliches Leben zum Werkzeug eines Zwecks, den es nicht gewählt hat.",
+            "objectionFrom": "within",
+            "sharedPremise": "er akzeptiert die Voraussetzung des Arguments vollständig — dass ein Zweck nicht dadurch verbindlich wird, dass jemand ihn beschließt, wie wichtig der Beschließende auch sei — und richtet diese Voraussetzung gegen die theistische Antwort, und das ist die Gestalt, die die Euthyphron-Frage innerhalb der Theologie seit dem mittelalterlichen Streit über den göttlichen Willen angenommen hat",
+            "response": "Das Dilemma setzt voraus, dass Gott Beschlüsse fasst, wie ein Mensch es tut. Die klassische Behauptung lautet, dass Gott keinen Zweck zuweist, sondern das Gut ist, auf das eine menschliche Natur hingeordnet ist, sodass der Maßstab weder ein willkürliches Dekret noch von Gott unabhängig ist: er ist, was Gott ist. Dann fällt auch der Vorwurf der Werkzeuglichkeit: für eine Beziehung gemacht zu sein heißt nicht, zum Werkzeug gemacht zu sein."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Es kann, und was die andere Seite verlangt, würde nicht helfen, wenn es käme",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "subjective-meets-objective",
+          "claim": "Sinn ist, was geschieht, wenn jemand von etwas ergriffen wird, das wirklich lohnt.",
+          "explanation": "Die beste Darstellung des Sinns in der philosophischen Literatur lautet nicht „was du beschließt“ und nicht „was Gott sagt“. Sie ist eine doppelte Bedingung, und sie scheitert in beide Richtungen.\n\nEin Leben, das mit großer Leidenschaft etwas Wertloses treibt, ist nicht sinnvoll; darum ist der, der vierzig Jahre dem Auswendiglernen von Fernsehprogrammen widmet, ein trauriger und kein erhebender Fall. Ein Leben, das etwas Wertvolles ohne jede Anteilnahme treibt, ist ebenso wenig sinnvoll; das ist der ausgebrannte Funktionär, der Handgriffe vollzieht, die zufällig gute sind. Sinn erscheint, wo die beiden sich treffen: wo ein Mensch wirklich von etwas ergriffen ist, dessen Wert nicht davon abhängt, dass er ergriffen ist.\n\nDas antwortet unmittelbar auf die Frage. Der Wert, ein Kind gut aufzuziehen, einer Arbeit, die hilft, der Dinge, um die Menschen ihr Leben tatsächlich herum bauen, hängt an keinem Dekret, und er wird nicht von dem verliehen, der sie aufnimmt. Er wird von ihm gefunden, und genau das nennt die andere Seite unerreichbar.",
+          "quote": {
+            "text": "Sinn entsteht, wo subjektive Angezogenheit auf objektive Anziehungskraft trifft",
+            "author": "Susan Wolf",
+            "work": "Meaning in Life and Why It Matters",
+            "year": "2010",
+            "locator": "her own summary of the Fitting Fulfillment view",
+            "sourceUrl": "https://press.princeton.edu/books/paperback/9780691154503/meaning-in-life-and-why-it-matters",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "meaning arises when subjective attraction meets objective attractiveness",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "absurd-and-liveable",
+              "label": "Es gibt keinen objektiven Wert, und ein Leben bleibt voll lebbar",
+              "heldBy": "Albert Camus",
+              "oneLine": "Man gestehe der anderen Seite alles zu — das Schweigen, die Auslöschung, das Fehlen jeder Antwort — und der Schluss ist nicht Verzweiflung, sondern ein Leben ohne Berufung.",
+              "summary": "Diese Position gesteht mehr zu als jede andere auf der Seite und ist eben darum am schwersten zu widerlegen.\n\n[[Das Absurde|das Absurde]] ist nicht die Behauptung, das Leben sei schlecht. Es ist das Missverhältnis zwischen einem Geschöpf, das Gründe verlangt, und einem Universum, das keine liefert. Camus’ Argument lautet, dass die beiden üblichen Auswege Ausweichmanöver sind: der Selbstmord, der das eine Glied beseitigt, und der Sprung in den Glauben, der das andere beseitigt, indem er eine Antwort erfindet. Es bleibt, beide zu halten — die Forderung zu bewahren und den Trost abzulehnen — und mit der Hellsichtigkeit zu leben, die daraus folgt.\n\nWas sie zu einer anderen Position und nicht zu einer trüberen Fassung der vorigen macht, ist, dass sie gar keinen objektiven Wert beansprucht. Sie sagt, ein Mensch könne ganz hingegeben, ganz wach und ganz ohne Illusionen zugleich sein, und dass dies kein Trostpreis ist.",
+              "quote": {
+                "text": "Der Kampf selbst gegen die Gipfel genügt, ein Menschenherz auszufüllen. Man muss sich Sisyphos als glücklichen Menschen vorstellen.",
+                "author": "Albert Camus",
+                "work": "The Myth of Sisyphus (Der Mythos des Sisyphos)",
+                "year": "1942",
+                "locator": "the closing lines of the essay",
+                "sourceUrl": "https://history.hanover.edu/courses/excerpts/111camus.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, objektiver Wert sei genau das, was der Naturalismus nicht liefern kann, sodass die Darstellung die Voraussetzung der anderen Seite entlehnt. Diese Position behauptet keinen objektiven Wert und braucht keinen. Ein Einwand darüber, woher objektiver Wert kommt, lässt sich nicht gegen eine Auffassung richten, deren erster Zug lautet, dass es keinen gibt.",
+              "objection": {
+                "text": "Dann ist die Frage der Seite mit Nein beantwortet und der Antwort ein tapferer Name gegeben. Wenn nichts lohnt und man es dennoch tut, dann ist das Aushalten, was bewundernswert ist und kein Sinn. Die Position ist zudem praktisch unstet: „man muss sich Sisyphos als glücklichen Menschen vorstellen“ ist eine Empfehlung, und Empfehlungen brauchen Gründe; gibt es keine, dann hat der Rat, hellsichtig zu leben, keinen höheren Rang als der Rat zu verzweifeln.",
+                "from": "theist",
+                "response": "Die Empfehlung ist in dem begründet, was ein Mensch ist, und nicht in einem in die Welt geschriebenen Wert: angesichts der Forderung nach Gründen, die Menschen tatsächlich haben, ist die Hellsichtigkeit das, was kein Selbstbetrug verlangt. Das ist ein schwächerer Grund als ein kosmischer, und es ist der Grund, den die Position beansprucht."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Die Darstellung trägt, und sie trägt auf geliehenem Kapital. „Objektive Anziehungskraft“ leistet die ganze Traglast — sie ist es, was das Aufziehen eines Kindes vom Sammeln von Kronkorken scheidet —, und im Naturalismus gibt es keine Darstellung davon, woher diese Objektivität kommt. Entweder sind diese Werte wirkliche Züge der Welt, und das ist eine große metaphysische Behauptung, die der Naturalismus nicht bezahlt hat, oder sie sind weit geteilte Vorlieben, und dann ist die Theorie in die subjektive Hälfte zurückgefallen und der Kronkorkensammler ist wieder da.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Ob objektiver Wert den Naturalismus überlebt, ist Gegenstand einer anderen Seite dieser Website und wird hier nicht zugestanden. Aber der Einwand beweist weniger, als er braucht, selbst wenn er gewinnt: verlangt objektiver Wert den Theismus, dann folgt daraus, dass ein Naturalist in der Metaphysik irrt, und nicht, dass das Leben eines Naturalisten ohne Sinn ist — nach dieser Darstellung war der Wert da und wurde beantwortet, welche letzte Begründung er auch haben mag."
+          }
+        },
+        {
+          "id": "permanence-is-a-red-herring",
+          "claim": "Dass später nichts zählen wird, lässt jetzt nichts weniger zählen.",
+          "explanation": "Das Argument aus dem Wärmetod lautet: in einer hinreichend fernen Zukunft wird nichts, was irgendwer tut, einen Unterschied gemacht haben, also zählt nichts, was irgendwer tut. Als Schluss ist es ungültig, und die Ungültigkeit ist leicht zu sehen, sobald er ausgesprochen ist.\n\nWas zählt, ist auf eine Zeit und eine Menge von Wesen bezogen. Dass die Arbeit eines Menschen in einer Million Jahren vergessen sein wird, ist eine Tatsache über eine Million Jahre von jetzt; sie greift nicht zurück und ändert nicht, ob die Arbeit heute lohnt, so wenig wie die Tatsache, dass eine Mahlzeit verdaut werden wird, sie des Essens unwert macht. Das Argument umgekehrt laufen zu lassen legt es bloß: zählt jetzt nichts, weil es dann nicht zählen wird, dann zählt es ebenso dann nicht, dass nichts von dem, was wir jetzt tun, zählen wird.\n\nDer tiefere Punkt ist, dass die Forderung nicht einmal im Prinzip erfüllbar ist. Eine Ewigkeit hinzuzufügen verwandelt eine sinnlose Sache nicht in eine sinnvolle; ein endloses Leben müsste seinen Sinn aus dem beziehen, was es füllte, und das ist dieselbe Frage noch einmal, nur in größerer Menge.",
+          "quote": {
+            "text": "Es zählt jetzt nicht, dass in einer Million Jahren nichts von dem zählen wird, was wir jetzt tun.",
+            "author": "Thomas Nagel",
+            "work": "The Absurd, in The Journal of Philosophy 68",
+            "year": "1971",
+            "locator": "p. 716",
+            "sourceUrl": "https://www.jstor.org/stable/2024942",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "It does not matter now that in a million years nothing we do now will matter.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die Erwiderung antwortet auf eine schlechte Fassung des Arguments. Niemand, der es ernst meint, behauptet, die Dauer verleihe Wert; die Behauptung betrifft den Standpunkt. Ein Urteil, dass etwas zählt, wird von irgendwo aus gefällt, und die Sorge ist, dass es, wenn alle Standpunkte fort sind, keine Perspektive mehr gibt, von der aus es je wahr war, dass es zählte — nicht, dass das Zählen sich abgenutzt hätte, sondern dass es nie gedeckt war. Nagel selbst hielt die Absurdität nicht für aufgelöst, und darum schrieb er darüber, wie mit ihr zu leben ist, und nicht darüber, wie sie wegzuargumentieren wäre.",
+            "objectionFrom": "theist",
+            "response": "„Von keiner Perspektive aus wahr“ ist keine kohärente Sorge, es sei denn, Wahrheit verlangte einen Beobachter, und das glaubt auf keiner der beiden Seiten irgendwer von irgendetwas sonst: dass der letzte Zeuge stirbt, macht ein vergangenes Ereignis nicht ungeschehen. Und Nagels Position ist richtig beschrieben: er hält das Absurde für wirklich, für keine Katastrophe, und die angebotene Kur für schlimmer als das Leiden."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Drei verschiedene Fragen unter einem Wort",
+      "oneLine": "Der größte Teil dieses Streits ist die eine Seite, die „fühlt sich dein Leben bedeutsam an?“ beantwortet, während die andere fragt „hält etwas, wenn du fort bist?“, und keine merkt es.",
+      "text": "Der erste Sinn ist psychologisch: ein Leben, das von innen als lebenswert erfahren wird. Er ist messbar, er ist bei Glaubenden und Nichtglaubenden gleichermaßen hoch, und kein Argument auf dieser Seite hängt an ihm.\n\nDer zweite ist funktional: ein Zweck, den eine Sache hat und den sie erfüllen oder verfehlen kann. Hier treffen die beiden Seiten wirklich aufeinander, denn es ist umstritten, ob ein menschliches Leben überhaupt einen solchen hat und, wenn ja, was ihn festlegt.\n\nDer dritte betrifft den Rang: ob ein Leben auf eine Weise zählt, die nicht davon abhängt, dass jemand da ist, der es denkt. Danach greifen die meisten Menschen, wenn die Frage um drei Uhr morgens kommt, und dieser ist der, der sich durch kein Herausfinden entscheiden lässt.\n\nEin Gespräch, in dem der eine den ersten und der andere den dritten Sinn meint, kann Stunden laufen, ohne dass einer etwas Falsches sagt."
+    },
+    {
+      "heading": "Diese Seite lehnt sich an eine andere",
+      "oneLine": "Die stärkste atheistische Antwort hier verlangt, dass manche Dinge wirklich lohnen, unabhängig von den Vorlieben irgendwessen — und genau das wird auf der Seite zur objektiven Moral verhandelt.",
+      "text": "Wolfs Darstellung, und jede hybride Darstellung dieser Art, hat zwei Hälften. Die subjektive Hälfte ist unstrittig. Die objektive Hälfte behauptet, dass manche Vorhaben einen Wert haben, der sich nicht daraus ergibt, gewählt zu werden, und diese Behauptung ist im Naturalismus nicht umsonst zu haben.\n\nDie Folge ist, dass ein Leser diese Seite nicht für sich allein entscheiden kann. Wer meint, objektiver Wert überlebe ohne Gott, wird den atheistischen Fall hier stark finden und die christlichen Argumente als Antwort auf eine schon behandelte Frage. Wer meint, er überlebe nicht, wird den christlichen Einwand für entscheidend und den atheistischen Fall für zirkulär halten.\n\nCamus’ Position ist die Ausnahme, und sie steht aus diesem Grund auf der Seite: sie ist die einzige Antwort hier, die dem anderen Streit nichts schuldet. Sie ist auch die am wenigsten tröstliche, was vielleicht dieselbe Tatsache ist."
+    }
+  ],
+  "whereItStands": "Hier ist nichts entschieden worden, und der Streit hat sich dennoch verbessert, auf eine ungewöhnliche Weise, die es wert ist, benannt zu werden.\n\nGeändert hat sich, dass die Philosophie des Sinns ein eigenes Fach wurde, statt ein Ort, an den man ging, um anderswo erreichte Schlüsse zu wiederholen. Vor etwa 1980 wurde die Frage meist von Theologen behandelt, die behaupteten, Sinn verlange Gott, und von Existenzialisten, die behaupteten, er verlange ihn nicht. Seither ist die Arbeit analytisch und vergleichend: was behauptet wird, was es erfüllen würde, welche Darstellungen in sich stimmig sind. Wolfs hybride Auffassung ging daraus hervor, und ebenso eine viel klarere Angabe dessen, was die theistische Behauptung tatsächlich braucht.\n\nDas Ergebnis ist, dass beide Seiten heute kleinere und bessere Behauptungen aufstellen. Fast niemand behauptet, Atheisten könnten keinen Sinn erfahren, was in lebendiger Erinnerung ein Grundbestand der Apologetik war. Fast niemand behauptet, die Frage sei eine Scheinfrage, was ebenso lange ein Grundbestand der anderen Seite war.\n\nWas bleibt, ist eine Uneinigkeit über die Hinlänglichkeit, und sie bewegt sich nicht. Beide Seiten stimmen in den Tatsachen des Todes überein, in dem, was Menschen berichten, und weitgehend darin, welche Darstellungen zur Wahl stehen. Sie sind uneinig darüber, ob ein Sinn, der endet, das ist, wonach gefragt wurde, und es ist kein weiteres Argument gefunden worden, das darauf zielt.",
+  "commonMistake": "Christen argumentieren am häufigsten, ein Leben ohne Gott wäre unerträglich, und das ist zugleich die schwächere und die falsifizierbare Behauptung. Menschen tragen es, sichtbar und in großer Zahl, und jede Fassung des Arguments, die darauf beruht, dass sie es nicht tragen, wird von der Person widerlegt, an die sie sich richtet. Das ernste Argument betrifft, was das Wort bedeutet, und nicht, wie irgendwer empfindet.\n\nAtheisten behandeln die Frage am häufigsten als eine Verwirrung, die aufzulösen ist. Sie ist es nicht: das Verlangte ist verständlich, die meisten Menschen wollen es, und die ehrliche Antwort lautet, dass es im Naturalismus nicht zu haben ist, und nicht, dass niemand es hätte wollen sollen. Jemandem in Tolstois Lage „du stellst die falsche Frage“ zu antworten ist eine Verweigerung und keine Erwiderung.\n\nBeide Seiten bezichtigen die andere des [[Nihilismus]], und fast niemand auf einer der beiden Seiten vertritt ihn. Der Christ, der sagt, der Atheist sei auf den Nihilismus verpflichtet, argumentiert gegen eine Folgerung, die der Atheist bestreitet; der Atheist, der sagt, der Sinn des Christen sei geliehen, macht denselben Zug umgekehrt. Mit beidem kommt auf dieser Seite sehr wenig voran.",
+  "sources": [
+    {
+      "title": "A Confession (Meine Beichte)",
+      "author": "Leo Tolstoi",
+      "year": "1882",
+      "url": "https://www.marxists.org/archive/tolstoy/1882/a-confession/part-5.html",
+      "note": "Frei und kurz. Teil 5 ist die Stelle, an der die Frage gestellt wird; das Ganze ist eine Stunde wert."
+    },
+    {
+      "title": "The Meaning of Life",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "year": "2021",
+      "url": "https://plato.stanford.edu/entries/life-meaning/",
+      "note": "Kartiert die supernaturalistische, die objektiv naturalistische und die subjektiv naturalistische Position, und das ist die Einteilung, die diese Seite benutzt."
+    },
+    {
+      "title": "Meaning in Life and Why It Matters",
+      "author": "Susan Wolf",
+      "year": "2010",
+      "url": "https://press.princeton.edu/books/paperback/9780691154503/meaning-in-life-and-why-it-matters",
+      "note": "Kurz und mit vier kritischen Entgegnungen gedruckt. Die Auffassung der passenden Erfüllung wird in der ersten Vorlesung dargelegt."
+    },
+    {
+      "title": "The Absurdity of Life without God",
+      "author": "William Lane Craig",
+      "year": "1994",
+      "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god",
+      "note": "Der vollständige Essay, frei auf seiner eigenen Seite. Die stärkste populäre Fassung des Arguments von dieser Seite."
+    },
+    {
+      "title": "The Absurd",
+      "author": "Thomas Nagel",
+      "year": "1971",
+      "url": "https://www.jstor.org/stable/2024942",
+      "note": "Zwölf Seiten, und die Quelle fast alles dessen, was seither auf beiden Seiten gesagt wurde."
+    }
+  ]
+}
