@@ -23,7 +23,7 @@
       "activeHere": false
     }
   ],
-  "settledCore": "Los biólogos y los geólogos no están divididos sobre esto. Las especies vivas descienden, con modificaciones, de antepasados compartidos; la [[selección natural]] actuando sobre la variación heredada es una causa principal de su adaptación; y la Tierra tiene unos 4500 millones de años. Lo respaldan el registro fósil, la anatomía comparada, la distribución geográfica de las especies y la evolución observada directamente en bacterias, y sobre todo la secuenciación de genomas, que podría haber refutado el antepasado común y que en cambio lo confirmó con enorme detalle.\n\nEso es una afirmación sobre lo que han encontrado esas disciplinas, no sobre quién tiene derecho a opinar. Muchos cristianos sinceros lo rechazan. En 2024 Gallup situó en el 40 por ciento la proporción de adultos estadounidenses que sostienen la visión de la Tierra joven sobre el origen del ser humano, frente a un máximo anterior del 47 por ciento, y esa cifra corresponde solo a Estados Unidos. La Iglesia católica, las iglesias ortodoxas, la Comunión anglicana y las denominaciones protestantes históricas —juntas, bastante más de la mitad de los cristianos del mundo— no enseñan una Tierra joven.\n\nSi creciste con una Tierra joven, nada de esto pretende decirte que estás fuera de esta conversación. El desacuerdo vive en realidad en las cuatro posturas cristianas de más abajo, y cada una la enuncia alguien que la sostiene.",
+  "settledCore": "Los biólogos y los geólogos no están divididos sobre esto. Las especies vivas descienden, con modificaciones, de antepasados compartidos; la [[selección natural]] actuando sobre la variación heredada es una causa principal de su adaptación; y la Tierra tiene unos 4500 millones de años. Lo respaldan el registro fósil, la anatomía comparada, la distribución geográfica de las especies y la evolución observada directamente en bacterias, y sobre todo la secuenciación de genomas, que podría haber refutado la ascendencia común y que en cambio la confirmó con enorme detalle.\n\nEso es una afirmación sobre lo que han encontrado esas disciplinas, no sobre quién tiene derecho a opinar. Muchos cristianos sinceros lo rechazan. En 2024 Gallup situó en el 40 por ciento la proporción de adultos estadounidenses que sostienen la visión de la Tierra joven sobre el origen del ser humano, frente a un máximo anterior del 47 por ciento, y esa cifra corresponde solo a Estados Unidos. La Iglesia católica, las iglesias ortodoxas, la Comunión anglicana y las denominaciones protestantes históricas —juntas, bastante más de la mitad de los cristianos del mundo— no enseñan una Tierra joven.\n\nA quien creció con una Tierra joven, nada de esto pretende decirle que está fuera de esta conversación. El desacuerdo vive en realidad en las cuatro posturas cristianas de más abajo, y cada una la enuncia alguien que la sostiene.",
   "glossary": [
     {
       "term": "antepasados comunes",
@@ -42,7 +42,7 @@
       "definition": "Término de Michael Behe para un sistema cuyas piezas tienen que estar todas presentes a la vez para que funcione siquiera, y que según él no podría haberse montado mediante pequeños pasos útiles."
     },
     {
-      "term": "Dios de los huecos",
+      "term": "Dios tapagujeros",
       "definition": "Recurrir a Dios precisamente para explicar lo que la ciencia todavía no ha explicado. El problema no es que sea impío, sino que encoge: cada nueva explicación le quita terreno."
     },
     {
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "label": "La evolución es la manera en que se hizo la creación",
+      "label": "La evolución es cómo se hizo la creación",
       "position": "theist",
       "arguments": [
         {
@@ -184,7 +184,7 @@
               "label": "Creacionismo de la Tierra joven",
               "heldBy": "Una minoría de cristianos protestantes, concentrada en Estados Unidos; institucionalmente Answers in Genesis y el Institute for Creation Research.",
               "oneLine": "Génesis 1 describe seis días corrientes hace unos pocos miles de años, y la roca con fósiles la depositó el diluvio de Noé.",
-              "summary": "Génesis 1 describe seis días corrientes hace unos pocos miles de años. El argumento positivo es geológico: se ofrece un diluvio global como explicación de las capas de roca sedimentaria y de los fósiles que contienen, que en esta lectura quedaron enterrados deprisa en vez de acumularse durante eones. La tesis es que los estratos son lo que dejaría tras de sí una catástrofe de un año.\n\nTambién distingue entre la ciencia observacional, hecha sobre cosas que puedes medir ahora, y la ciencia histórica, que reconstruye un pasado que nadie presenció, y sostiene que el tiempo profundo pertenece a la segunda clase.",
+              "summary": "Génesis 1 describe seis días corrientes hace unos pocos miles de años. El argumento positivo es geológico: se ofrece un diluvio global como explicación de las capas de roca sedimentaria y de los fósiles que contienen, que en esta lectura quedaron enterrados deprisa en vez de acumularse durante eones. La tesis es que los estratos son lo que dejaría tras de sí una catástrofe de un año.\n\nTambién distingue entre la ciencia observacional, hecha sobre cosas que pueden medirse ahora, y la ciencia histórica, que reconstruye un pasado que nadie presenció, y sostiene que el tiempo profundo pertenece a la segunda clase.",
               "quote": {
                 "text": "Miles de millones de cosas muertas, enterradas en capas de roca, depositadas por el agua, por toda la tierra.",
                 "author": "Ken Ham",
@@ -211,9 +211,9 @@
             {
               "id": "old-earth-creationism",
               "label": "Creacionismo de la Tierra antigua",
-              "heldBy": "Protestantes conservadores que aceptan la geología convencional pero no el antepasado común; históricamente Charles Hodge, hoy grupos como Reasons to Believe.",
-              "oneLine": "La Tierra sí tiene miles de millones de años, pero Dios creó por separado los grandes tipos en vez de por antepasado común.",
-              "summary": "La Tierra tiene realmente miles de millones de años y la columna geológica es real; los días del Génesis son edades, o un marco literario. Lo que se niega no es el tiempo profundo, sino el antepasado común sin dirección.\n\nCharles Hodge, el teólogo conservador estadounidense más formidable del siglo XIX, siguió exactamente esta línea. No tenía nada contra una Tierra antigua. Su problema era la exclusión del propósito de la naturaleza.",
+              "heldBy": "Protestantes conservadores que aceptan la geología convencional pero no la descendencia común; históricamente Charles Hodge, hoy grupos como Reasons to Believe.",
+              "oneLine": "La Tierra sí tiene miles de millones de años, pero Dios creó por separado los grandes tipos en vez de por descendencia común.",
+              "summary": "La Tierra tiene realmente miles de millones de años y la columna geológica es real; los días del Génesis son edades, o un marco literario. Lo que se niega no es el tiempo profundo, sino la descendencia común sin dirección.\n\nCharles Hodge, el teólogo conservador estadounidense más formidable del siglo XIX, siguió exactamente esta línea. No tenía nada contra una Tierra antigua. Su problema era la exclusión del propósito de la naturaleza.",
               "quote": {
                 "text": "¿Qué es el darwinismo? Es ateísmo. Esto no significa, como ya se ha dicho, que el señor Darwin mismo y todos los que adoptan sus opiniones sean ateos; significa que su teoría es atea, que la exclusión del designio de la naturaleza equivale, como dice el doctor Gray, al ateísmo.",
                 "author": "Charles Hodge",
@@ -239,7 +239,7 @@
               "label": "Diseño inteligente",
               "heldBy": "Asociado al Discovery Institute; Michael Behe, William Dembski, Stephen Meyer.",
               "oneLine": "Algunos sistemas biológicos necesitan todas sus piezas a la vez para funcionar, así que el diseño sería mejor inferencia que la selección paso a paso.",
-              "summary": "El diseño inteligente acepta una Tierra antigua y, en el caso de Behe, también el antepasado común. Su afirmación es más estrecha: que algunas estructuras biológicas son de [[complejidad irreducible]], y hace falta cada pieza para que el sistema funcione, de modo que la selección no puede construirlas mediante pasos intermedios útiles. El diseño se ofrece como inferencia a partir de la evidencia, no de la Escritura.\n\nSus defensores añaden que la ciencia convencional descarta el diseño de antemano, al adoptar el [[naturalismo metodológico]] como regla de partida y no como una conclusión.",
+              "summary": "El diseño inteligente acepta una Tierra antigua y, en el caso de Behe, también la descendencia común. Su afirmación es más estrecha: que algunas estructuras biológicas son de [[complejidad irreducible]], y hace falta cada pieza para que el sistema funcione, de modo que la selección no puede construirlas mediante pasos intermedios útiles. El diseño se ofrece como inferencia a partir de la evidencia, no de la Escritura.\n\nSus defensores añaden que la ciencia convencional descarta el diseño de antemano, al adoptar el [[naturalismo metodológico]] como regla de partida y no como una conclusión.",
               "quote": {
                 "text": "Por irreduciblemente complejo entiendo un sistema único compuesto de varias piezas bien ajustadas que interactúan y contribuyen a la función básica, de modo que la eliminación de cualquiera de ellas hace que el sistema deje efectivamente de funcionar.",
                 "author": "Michael J. Behe",
@@ -256,14 +256,14 @@
               },
               "changesTheObjection": "El mismo desplazamiento, por otra vía. Todo el programa existe para afirmar que el diseño es empíricamente detectable en los sistemas biológicos, de modo que una objeción según la cual la acción de Dios no dejaría ninguna huella medible es una objeción a la posición contra la que esta se formó.",
               "objection": {
-                "text": "La complejidad irreducible no ha sobrevivido a sus casos de prueba: el flagelo bacteriano, la cascada de coagulación y el sistema inmunitario se ofrecieron como ejemplos y de cada uno se han publicado explicaciones graduales plausibles. La objeción más profunda es metodológica y la presionan los cristianos tan a menudo como los ateos: inferir diseño de lo que aún no se ha explicado es una apuesta del [[Dios de los huecos]] contra la biología futura, y ha perdido todas las rondas anteriores.",
+                "text": "La complejidad irreducible no ha sobrevivido a sus casos de prueba: el flagelo bacteriano, la cascada de coagulación y el sistema inmunitario se ofrecieron como ejemplos y de cada uno se han publicado explicaciones graduales plausibles. La objeción más profunda es metodológica y la presionan los cristianos tan a menudo como los ateos: inferir diseño de lo que aún no se ha explicado es una apuesta del [[Dios tapagujeros]] contra la biología futura, y ha perdido todas las rondas anteriores.",
                 "from": "both",
                 "response": "Expuesto con detalle en la literatura propia de la posición; esta página formula la objeción, no la dirime."
               }
             }
           ],
           "counter": {
-            "objection": "Si las causas naturales hacen todo el trabajo, Dios no hace nada que pueda detectarse, comprobarse o notarse. Una causa sin efectos que puedas medir jamás es indistinguible de que no haya causa, y añadirla no explica nada.",
+            "objection": "Si las causas naturales hacen todo el trabajo, Dios no hace nada que pueda detectarse, comprobarse o notarse. Una causa sin efectos que nadie pueda medir jamás es indistinguible de que no haya causa, y añadirla no explica nada.",
             "response": "Indistinguible dentro de la física, sí, que es lo que la doctrina ha dicho siempre. Nunca se afirmó que Dios fuera una fuerza más entre las fuerzas. Ser explicativamente ocioso dentro de una ciencia concreta no es lo mismo que estar ausente; si lo fuera, la misma objeción descartaría las matemáticas, los hechos morales y las otras mentes.",
             "landsOn": []
           }
@@ -317,8 +317,8 @@
       ]
     }
   ],
-  "whereItStands": "La mitad científica de esta pregunta está cerrada, y lo está desde hace mucho. La mitad abierta es filosófica, y está genuinamente abierta: ¿deja intacta una explicación natural completa del desarrollo de la vida la afirmación de que el mundo tiene un autor, o la vacía poco a poco de todo contenido?\n\nAmbas respuestas las sostienen personas cuidadosas que coinciden por entero en la biología. Dobzhansky y Dawkins no discreparían en un solo dato de un artículo de genética. Discrepan sobre lo que significan los datos, y eso no lo va a resolver más genética.\n\nUna cosa ha cambiado en el último siglo y merece decirse sin adornos. Las cuatro posturas cristianas no están igual de respaldadas. El creacionismo de la Tierra joven hace afirmaciones empíricas falsas. El diseño inteligente no ha establecido su afirmación central y perdió con claridad al ponerse a prueba ante un tribunal. El creacionismo de la Tierra antigua acierta sobre la Tierra y se equivoca sobre la descendencia. La creación evolutiva es la única de las cuatro que no choca con nada establecido, y es además la postura cristiana mayoritaria en el mundo.",
-  "commonMistake": "Los ateos suelen tratar el creacionismo de la Tierra joven como si fuera la postura del cristianismo. Es una visión minoritaria, en gran medida norteamericana, de unos sesenta años en su forma actual, y rechazada por la Iglesia católica, la mayoría de las denominaciones protestantes y las iglesias ortodoxas. Derrotarla es fácil y no prueba casi nada sobre la discusión real, que es con gente que acepta todos los datos que estás a punto de citar.\n\nLos cristianos suelen pensar que aceptar la evolución les cuesta algo, y por eso defienden una postura científica que no tienen ningún motivo para sostener. La regla de su propia tradición, la de Agustín y Tomás de Aquino, era evitar apostar la Escritura a una afirmación sobre la naturaleza que pudiera venirse abajo.\n\nY ambos lados cometen juntos un error: tratar «creación» y «evolución» como respuestas a la misma pregunta, de modo que más de una tenga que significar menos de la otra. Casi nadie que lo haya pensado con cuidado, en ninguno de los dos lados, cree eso.",
+  "whereItStands": "La mitad científica de esta pregunta está cerrada, y lo está desde hace mucho. La mitad abierta es filosófica, y está genuinamente abierta: ¿una explicación natural completa del desarrollo de la vida deja intacta la afirmación de que el mundo tiene un autor, o la vacía poco a poco de toda tarea?\n\nAmbas respuestas las sostienen personas cuidadosas que coinciden por entero en la biología. Dobzhansky y Dawkins no discreparían en un solo dato de un artículo de genética. Discrepan sobre lo que significan los datos, y eso no lo va a resolver más genética.\n\nUna cosa ha cambiado en el último siglo y merece decirse sin adornos. Las cuatro posturas cristianas no están igual de respaldadas. El creacionismo de la Tierra joven hace afirmaciones empíricas falsas. El diseño inteligente no ha establecido su afirmación central y perdió con claridad al ponerse a prueba ante un tribunal. El creacionismo de la Tierra antigua acierta sobre la Tierra y se equivoca sobre la descendencia. La creación evolutiva es la única de las cuatro que no choca con nada establecido, y es además la postura cristiana mayoritaria en el mundo.",
+  "commonMistake": "Los ateos suelen tratar el creacionismo de la Tierra joven como si fuera la postura del cristianismo. Es una visión minoritaria, en gran medida norteamericana, de unos sesenta años en su forma actual, y rechazada por la Iglesia católica, la mayoría de las denominaciones protestantes y las iglesias ortodoxas. Derrotarla es fácil y no prueba casi nada sobre la discusión real, que es con gente que acepta todos los datos que se van a citar.\n\nLos cristianos suelen pensar que aceptar la evolución les cuesta algo, y por eso defienden una postura científica que no tienen ningún motivo para sostener. La regla de su propia tradición, la de Agustín y Tomás de Aquino, era evitar apostar la Escritura a una afirmación sobre la naturaleza que pudiera venirse abajo.\n\nY ambos lados cometen juntos un error: tratar «creación» y «evolución» como respuestas a la misma pregunta, de modo que más de una tenga que significar menos de la otra. Casi nadie que lo haya pensado con cuidado, en ninguno de los dos lados, cree eso.",
   "sources": [
     {
       "title": "On the Origin of Species, primera edición",
@@ -419,7 +419,7 @@
       "author": "John C. Whitcomb and Henry M. Morris",
       "year": "1961",
       "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
-      "note": "El libro que convirtió el creacionismo de la Tierra joven en corriente principal entre los fundamentalistas estadounidenses."
+      "note": "El libro que llevó el creacionismo de la Tierra joven al centro del fundamentalismo estadounidense."
     },
     {
       "title": "Majority Still Credits God for Humankind, but Not Creationism",

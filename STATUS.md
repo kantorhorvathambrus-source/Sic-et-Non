@@ -433,11 +433,20 @@ field is byte-identical to English, every `[[glossary link]]` resolves in both
 directions, quotation marks follow one convention per locale, and no string
 drifts far enough from the English to break the 95-character layout limit. None
 of that is evidence about register, idiom or whether a philosophical term landed
-on the word the literature actually uses. Three choices are worth a second
-opinion in particular: German `Prinzip der Gutgläubigkeit` for Swinburne's
-principle of credulity, German `Sperrklinkeneffekt` for the ratchet argument on
-topic 19, and German `Kontrafaktum` for the counterfactual on topic 18 — each is
-defensible and none is the only option.
+on the word the literature actually uses. Three German renderings are **pending
+native-speaker review**: `Prinzip der Gutgläubigkeit` for Swinburne's principle
+of credulity, `Sperrklinkeneffekt` for the ratchet argument on topic 19, and
+`Kontrafaktum` for the counterfactual on topic 18. Each is reasoned and
+defensible and none is the only option, so they ship as they are; what is
+missing is independent confirmation, not a decision. No German-speaking
+reviewer is lined up yet, and this item is not blocking on one.
+
+Topic 6 is no longer the exception it used to be. It was translated earlier and
+by a different hand, and has now had the same pass as the other nineteen in all
+three languages: one rendering per English term, Spanish's generic "you" made
+impersonal to match its other files, two glossary headwords moved from a calque
+to the idiom each language actually uses, and every string inside the layout
+checker's length band.
 
 Two things I considered and left off: the name-form inconsistencies (real, but
 no reader is misled, and the fix is mechanical whenever someone touches those

@@ -38,8 +38,8 @@
       "definition": "Ein sehr alter theologischer Begriff für die gewöhnlichen Ursachen innerhalb der Natur, etwa Wetter oder Vererbung. In dieser Sicht ist Gott die Erstursache, die das ganze System trägt, und die natürlichen Ursachen leisten die eigentliche Arbeit, so wie ein Autor eine Geschichte schreibt, ohne darin eine Figur zu sein."
     },
     {
-      "term": "nicht reduzierbare Komplexität",
-      "definition": "Michael Behes Ausdruck für ein System, dessen Teile alle zugleich vorhanden sein müssen, damit es überhaupt funktioniert, und das seiner Ansicht nach nicht durch kleine nützliche Schritte zusammengesetzt werden konnte."
+      "term": "irreduzible Komplexität",
+      "definition": "Michael Behes Ausdruck für ein System, dessen Teile alle zugleich vorhanden sein müssen, damit es überhaupt funktioniert, und das sich seiner Ansicht nach nicht in kleinen nützlichen Schritten zusammensetzen ließ."
     },
     {
       "term": "Lückenbüßergott",
@@ -239,7 +239,7 @@
               "label": "Intelligentes Design",
               "heldBy": "Mit dem Discovery Institute verbunden; Michael Behe, William Dembski, Stephen Meyer.",
               "oneLine": "Manche biologischen Systeme brauchen alle Teile zugleich, um überhaupt zu funktionieren; Planung sei daher der bessere Schluss als schrittweise Selektion.",
-              "summary": "Das intelligente Design nimmt eine alte Erde an und, bei Behe, auch die gemeinsame Abstammung. Seine These ist enger: Manche biologischen Strukturen seien [[nicht reduzierbar komplex|nicht reduzierbare Komplexität]], jeder Teil werde für die Funktion des Systems gebraucht, und deshalb könne die Selektion sie nicht über nützliche Zwischenstufen bauen. Planung wird als Schluss aus dem Befund angeboten, nicht aus der Schrift.\n\nSeine Vertreter fügen hinzu, die gängige Wissenschaft schließe Planung von vornherein aus, indem sie den [[methodologischen Naturalismus|methodologischer Naturalismus]] als Grundregel setze, statt zu ihm als Ergebnis zu gelangen.",
+              "summary": "Das intelligente Design nimmt eine alte Erde an und, bei Behe, auch die gemeinsame Abstammung. Seine These ist enger: Manche biologischen Strukturen seien [[irreduzibel komplex|irreduzible Komplexität]], jeder Teil werde für die Funktion des Systems gebraucht, und deshalb könne die Selektion sie nicht über nützliche Zwischenstufen bauen. Planung wird als Schluss aus dem Befund angeboten, nicht aus der Schrift.\n\nSeine Vertreter fügen hinzu, die gängige Wissenschaft schließe Planung von vornherein aus, indem sie den [[methodologischen Naturalismus|methodologischer Naturalismus]] als Grundregel setze, statt zu ihm als Ergebnis zu gelangen.",
               "quote": {
                 "text": "Mit nicht reduzierbar komplex meine ich ein einzelnes System, das aus mehreren gut aufeinander abgestimmten, zusammenwirkenden Teilen besteht, die zur Grundfunktion beitragen, wobei die Entfernung eines beliebigen Teils dazu führt, dass das System praktisch aufhört zu funktionieren.",
                 "author": "Michael J. Behe",
@@ -296,7 +296,7 @@
           "claim": "Wissenschaft funktioniert, weil die Welt verstehbar ist, und genau das hat der Theismus von ihr behauptet",
           "explanation": "Überhaupt Wissenschaft zu treiben setzt voraus, Dinge zu glauben, die die Wissenschaft nicht begründen kann: dass das Universum nach Regelmäßigkeiten läuft, dass diese auch dort gelten, wo niemand hinsieht, und dass menschliche Köpfe die Art Ding sind, die sie herausfinden kann. Das sind keine Ergebnisse der Physik. Es sind die Bedingungen des Anfangens.\n\nAlvin Plantinga argumentiert, dass eine von einem vernünftigen Geist gemachte Welt und Geschöpfe, die gemacht sind, sie zu verstehen, für diese Voraussetzungen ein natürliches Zuhause bieten, während eine rein naturalistische Erzählung die Verlässlichkeit menschlichen Denkens als glücklichen Nebenertrag eines Vorgangs behandeln muss, der auf Überleben und nicht auf Wahrheit ausgelesen hat.",
           "quote": {
-            "text": "es gibt einen oberflächlichen Konflikt, aber eine tiefe Übereinstimmung zwischen Wissenschaft und theistischer Religion, und eine oberflächliche Übereinstimmung, aber einen tiefen Konflikt zwischen Wissenschaft und Naturalismus",
+            "text": "es gibt oberflächlichen Konflikt, aber tiefe Übereinstimmung zwischen Wissenschaft und theistischer Religion, und oberflächliche Übereinstimmung, aber tiefen Konflikt zwischen Wissenschaft und Naturalismus",
             "author": "Alvin Plantinga",
             "work": "Where the Conflict Really Lies: Science, Religion, and Naturalism",
             "year": "2011",
@@ -419,7 +419,7 @@
       "author": "John C. Whitcomb and Henry M. Morris",
       "year": "1961",
       "url": "https://www.goodreads.com/book/show/1022763.The_Genesis_Flood",
-      "note": "Das Buch, das den Junge-Erde-Kreationismus unter amerikanischen Fundamentalisten zur verbreiteten Auffassung machte."
+      "note": "Das Buch, das den Junge-Erde-Kreationismus im amerikanischen Fundamentalismus verbreitete."
     },
     {
       "title": "Majority Still Credits God for Humankind, but Not Creationism",
