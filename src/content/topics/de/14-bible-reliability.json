@@ -1,0 +1,288 @@
+{
+  "id": "bible-reliability",
+  "number": 14,
+  "slug": "zuverlaessigkeit-der-bibel",
+  "title": "Ist die Bibel zuverlässig?",
+  "category": "history-and-text",
+  "status": "open",
+  "realQuestion": "Das Wort leistet drei Arbeiten, und die meisten Streitgespräche hier sind zwei Leute, die verschiedene benutzen.\n\nEs kann heißen, der Text sei im Großen so auf uns gekommen, wie er geschrieben wurde. Es kann heißen, der Text sei genau in dem, was er berichtet. Es kann heißen, der Text habe Autorität über das, was Sie glauben. Das Erste ist weitgehend geklärt und zwischen den Seiten nicht streitig. Das Dritte ist theologisch. Diese Seite betrifft das Zweite.\n\nSelbst so verengt ist die christliche Seite nicht eine Position. Was „zuverlässig“ verlangt — kein Irrtum irgendwelcher Art, kein Irrtum in Glaubenssachen oder etwas noch Lockereres — ist innerhalb des Christentums so scharf umstritten wie irgendetwas auf dieser Seite, und ein Einwand, der eine davon trifft, trifft die anderen nicht.",
+  "distinctions": [
+    {
+      "label": "Wurde der Text genau überliefert?",
+      "gloss": "Weitgehend geklärt, und nicht das, worüber die beiden Seiten hier uneins sind. Das Neue Testament ist weit besser bezeugt als jedes vergleichbare antike Werk, die Varianten sind überwiegend geringfügig, und beide Seiten sagen das. Dargelegt in der Note unten.",
+      "activeHere": false
+    },
+    {
+      "label": "Sind die Texte genau in dem, was sie berichten?",
+      "gloss": "Das ist das Argument dieser Seite: ob die Ereignisse, Reden und Zahlen in den Texten das sind, was geschah, und was für den Rang der Texte folgt, wenn sie es nicht sind.",
+      "activeHere": true
+    },
+    {
+      "label": "Hat die Bibel Autorität?",
+      "gloss": "Eine theologische und keine historische Frage, und sie folgt nicht aus der Antwort auf die zweite: Ein Text kann genau sein, ohne jemanden zu binden, und mehrere Positionen unten halten dafür, dass er bindet, ohne durchweg genau zu sein. Hier nicht verhandelt.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Textvariante",
+      "definition": "Jede Stelle, an der erhaltene Handschriften voneinander abweichen. Die große Mehrheit betrifft Rechtschreibung, Wortstellung oder offensichtliche Versehen; eine kleine Zahl ändert den Sinn."
+    },
+    {
+      "term": "Irrtumslosigkeit",
+      "definition": "Die Lehre, dass die Schrift keinen Irrtum irgendwelcher Art enthält, auch nicht in Geschichte und Naturkunde. Eine bestimmte moderne Position und nicht die geschichtliche Voreinstellung."
+    },
+    {
+      "term": "biblischer Minimalismus",
+      "definition": "Die mit Kopenhagener Forschern verbundene Position, die hebräische Bibel sei eine späte literarische Komposition und könne nicht zur Rekonstruktion der Geschichte des alten Israel dienen."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Die Texte sind in dem, was sie berichten, vertrauenswürdig",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "what-reliable-requires",
+          "claim": "Die Schrift ist Gottes eigenes Wort, und ein Text, dessen Urheber Gott ist, irrt nicht",
+          "explanation": "Die stärkste und bekannteste christliche Position ist auch die ausgesetzteste, und es lohnt sich, sie in voller Stärke zu formulieren und nicht über ihre milderen Verwandten. Die [[Irrtumslosigkeit]], wie die Chicago-Erklärung sie bestimmt, hält dafür, dass die Schrift in allem, was sie berührt, unfehlbare göttliche Autorität hat — nicht nur in Glauben und Sitten, sondern in der Geschichte und in allem, was sie über die Welt sagt.\n\nDas Argument dafür ist theologisch, bevor es empirisch ist: Ein Gott, der nicht lügen kann, hat den Text eingegeben, also irrt der Text nicht. Wo ein scheinbarer Irrtum gefunden wird, hält die Lehre dafür, dass entweder die Handschrift verderbt, die Stelle falsch gelesen oder die Schwierigkeit noch nicht gelöst ist.\n\nUnten stehen zwei schwächere Positionen. Beide werden von Menschen gehalten, die die Bibel als Autorität nehmen, und beide bestehen, weil sie diese für nicht haltbar halten.",
+          "quote": {
+            "text": "Die Heilige Schrift, die Gottes eigenes Wort ist, geschrieben von Menschen, die sein Geist zubereitet und geleitet hat, besitzt unfehlbare göttliche Autorität in allen Dingen, die sie berührt.",
+            "author": "The Chicago Statement on Biblical Inerrancy",
+            "work": "the Short Statement, article 2",
+            "year": "1978",
+            "locator": "drafted by more than two hundred evangelical leaders at the International Council on Biblical Inerrancy",
+            "sourceUrl": "http://www.bible-researcher.com/chicago1.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Holy Scripture, being God's own Word, written by men prepared and superintended by His Spirit, is of infallible divine authority in all matters upon which it touches.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "infallible-not-inerrant",
+              "label": "Unfehlbar in Glauben und Praxis",
+              "heldBy": "die katholische Kirche seit Dei Verbum; die meisten anglikanischen und landeskirchlich-protestantischen Bekenntnisse; viele britische Evangelikale",
+              "oneLine": "Die Schrift versagt nicht in dem, was sie zum Heil lehrt, und erhob nie Behauptungen über Chronologie, Kosmologie oder die Stärke von Heeren.",
+              "summary": "Dies ist die weltweit mehrheitliche christliche Position und die, die am häufigsten für einen Rückzug von der Irrtumslosigkeit genommen wird, obwohl sie tatsächlich älter ist als diese. Die Formel des Zweiten Vatikanischen Konzils lautet, die Schriften lehrten „ohne Irrtum jene Wahrheit, die Gott um unseres Heiles willen in heiligen Schriften aufgezeichnet haben wollte“ — eine absichtliche Verengung der Reichweite der Behauptung und keine Schwächung.\n\nNach dieser Auffassung sind die Zahlen der Chronik, die Reihenfolge der Ereignisse in den Evangelien und die Kosmologie der Genesis das Mobiliar der Botschaft und nicht ihr Teil, und eine Abweichung in einem davon ist kein Mangel der Schrift, sondern ein Missverständnis darüber, wozu die Schrift da war.",
+              "quote": {
+                "text": "die Bücher der Schrift müssen als solche anerkannt werden, die fest, treu und ohne Irrtum jene Wahrheit lehren, die Gott um unseres Heiles willen in heiligen Schriften aufgezeichnet haben wollte",
+                "author": "Zweites Vatikanisches Konzil",
+                "work": "Dei Verbum, 11",
+                "year": "1965",
+                "sourceUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "the books of Scripture must be acknowledged as teaching solidly, faithfully and without error that truth which God wanted put into the sacred writings for the sake of salvation",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben ist eine Liste von Abweichungen — zwei Geschlechtsregister Jesu, zwei Berichte vom Tod des Judas, Zahlen, die zwischen Königen und Chronik nicht übereinstimmen. Gegen diese Position ist die Liste überhaupt kein Einwand, denn keiner dieser Punkte wird behauptet. Ein aus historischem und zahlenmäßigem Irrtum gebautes Argument zielt auf eine Behauptung über historische und zahlenmäßige Genauigkeit, und diese erhebt sie nicht.",
+              "objection": {
+                "text": "Die Linie zwischen dem, was zum Heil gelehrt wird, und dem, was Mobiliar ist, muss irgendwo gezogen werden, und in der Praxis wird sie nachträglich gezogen, dort, wo die Schwierigkeit gerade liegt. Konservative Kritiker drängen am stärksten darauf: Eine Lehre, die jede unbequeme Behauptung ins Mobiliar verschieben kann, geht keine prüfbare Bindung ein. Es gibt zudem einen harten Fall, mit dem die Formel kämpft: Die Auferstehung ist zugleich eine historische Behauptung und eine zum Heil gelehrte Wahrheit, sodass die beiden Kategorien gerade dort nicht getrennt zu halten sind, wo es am meisten zählt.",
+                "from": "within",
+                "sharedPremise": "er argumentiert aus Prämissen, die diese Position hält — dass die Schrift eingegeben ist, dass sie Wahrheit zum Heil lehrt und dass die Auferstehung für diese Lehre zentral ist —, zu dem Schluss, dass die Linie zwischen Heilswahrheit und beiläufigem Detail nicht dort gezogen werden kann, wo die Position sie braucht.",
+                "response": "Die Linie zieht, was der Text tut, und das ist eine Gattungsfrage und Fall für Fall beantwortbar statt willkürlich. Die Auferstehung ist gerade deshalb ein harter Fall, weil sie als Geschichte und als Evangelium zugleich gelehrt wird, und die Position bejaht beides."
+              }
+            },
+            {
+              "id": "human-authorship",
+              "label": "Eingegeben durch wirklich menschliche Verfasser",
+              "heldBy": "Peter Enns, Kenton Sparks, N. T. Wright in anderer Tonart; ein großer Teil der kirchlich-liberalen und progressiven Forschung",
+              "oneLine": "Gott wirkte durch Verfasser, die ganz ihrer Zeit angehörten, sodass die Texte deren Annahmen, Grenzen und manchmal Irrtümer tragen — und so sieht Eingebung aus.",
+              "summary": "Die schwächste der drei Behauptungen über Genauigkeit und, nach ihren Vertretern, die stärkste über die Inkarnation. Das Modell ist Christus und nicht das Diktat: Wie Gott eine ganz menschliche Natur annahm, ohne aufzuhören, Gott zu sein, ist die Schrift ganz ein menschliches Erzeugnis, ohne aufzuhören, Gottes Wort zu sein.\n\nDaraus folgt, dass die Kosmologie der Verfasser antike Kosmologie ist, ihre Geschichtsschreibung antike Geschichtsschreibung und ihr moralischer Horizont manchmal der ihrer Nachbarn. Nichts davon ist nach dieser Auffassung eine wegzuerklärende Verlegenheit, denn nichts davon war je die Behauptung.",
+              "quote": {
+                "text": "Gott hat den Israeliten niemals gesagt, sie sollten die Kanaanäer töten. Die Israeliten glaubten, Gott habe ihnen gesagt, sie sollten die Kanaanäer töten.",
+                "author": "Peter Enns",
+                "work": "The Bible Tells Me So",
+                "year": "2014",
+                "locator": "Enns applying the model to the hardest case for it; see topic 11",
+                "sourceUrl": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "God never told the Israelites to kill the Canaanites. The Israelites believed that God told them to kill the Canaanites.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Die Abweichungsliste ist hier nicht nur erträglich, sondern erwartet. Diese Position sagt voraus, dass antike Verfasser antike Schriften erzeugen, sodass ein Katalog von Irrtümern sie bestätigt, statt gegen sie zu sprechen. Was der Einwand stattdessen zeigen müsste, ist, dass die Texte in etwas irren, was diese Position tatsächlich behauptet, und das ist ein viel engeres Ziel.",
+              "objection": {
+                "text": "Können die Texte darüber irren, was Gott geboten hat, so muss das Kriterium dafür, welche Teile zuverlässig sind, von außen kommen — und dann leistet das äußere Kriterium die Arbeit, die die Schrift leisten sollte. Konservative Kritiker nennen das, den Leser zur Autorität zu machen; Kritiker von der anderen Seite bemerken, nichts in der Position hindere daran, sie anzuwenden, bis nichts mehr bleibt. Beide Einwände sind dieselbe Frage: Was könnte die Schrift nach dieser Darstellung sagen, das Sie annehmen müssten?",
+                "from": "both",
+                "response": "Das Kriterium wird genannt und nicht eingeschmuggelt: Christus ist das Maß, und das Alte Testament durch ihn zu lesen ist die Methode, die das Neue Testament darauf schon anwendet."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Die Texte widersprechen einander in Dingen, die sie offenkundig berichten wollen. Matthäus und Lukas geben Jesus zwei verschiedene Geschlechtsregister. Judas erhängt sich in einem Bericht und platzt in einem anderen auf einem Feld. Die Zahlen in Königen und Chronik stimmen nicht überein, manchmal um eine Größenordnung. Zu jedem dieser Fälle gibt es eine vorgeschlagene Harmonisierung, und die Harmonisierungen sind das Problem: Eine Lehre, die jede Schwierigkeit übersteht, indem sie eine Lösung dafür vorschlägt, wird von den Befunden nicht geprüft, und ein Text, der so viel Rettung braucht, verhält sich nicht wie ein Text ohne Irrtum.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Scheinbare Abweichungen in antiken Dokumenten sind der Normalzustand antiker Dokumente, und Harmonisieren ist, was Historiker mit jeder anderen Quelle tun, bevor sie schließen, eine von ihnen irre."
+          }
+        },
+        {
+          "id": "manuscript-wealth",
+          "claim": "Das Neue Testament ist besser bezeugt als jedes andere Werk der antiken Welt, und mit weitem Abstand",
+          "explanation": "Dieses Argument betrifft die Überlieferung und nicht die Wahrheit, und es lohnt sich, beides zu trennen, weil sie dauernd zusammengeworfen werden.\n\nDie Frage ist, ob das, was wir lesen, das ist, was geschrieben wurde. Für die meisten antiken Autoren ruht die Antwort auf einer Handvoll Kopien, die tausend Jahre später entstanden. Für das Neue Testament gibt es über fünftausend griechische Handschriften, einige aus dem Jahrhundert nach der Entstehung, dazu frühe Übersetzungen und genug Zitate bei frühchristlichen Autoren, um den größten Teil des Textes ohne jede Handschrift wiederherzustellen. Wo die Kopien abweichen, ist es die schiere Zahl, die es möglich macht, zu bestimmen, welche Lesart die frühere ist.",
+          "quote": {
+            "text": "Wir haben für das Neue Testament mehr als das Tausendfache an Handschriftendaten als für den durchschnittlichen griechisch-römischen Autor.",
+            "author": "Daniel B. Wallace",
+            "work": "interview, The Gospel Coalition",
+            "year": "2012",
+            "sourceUrl": "https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "We have more than 1,000 times the manuscript data for the NT than we do for the average Greco-Roman author.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Niemand bestreitet die Zahlen, und die Zahlen beantworten eine Frage, die nicht gestellt war. Dass wir den Text des zweiten Jahrhunderts gut wiederherstellen können, verträgt sich damit, dass dieser Text schon einigen Abstand zu den Ereignissen hatte, und damit, dass die frühesten Kopien, die wir haben, nach Jahrzehnten unkontrollierten Abschreibens durch Nichtfachleute entstanden sind. Die Fülle erzeugt außerdem die Varianten: mehr Kopien heißt mehr Abweichung, und das Argument behandelt still dieselbe Tatsache beim Zählen der Handschriften als Stärke und beim Zählen der Unterschiede als geringfügig.",
+            "objectionFrom": "atheist",
+            "response": "Die Varianten werden gezählt und eingeordnet, nicht beiseitegewischt, und die Einordnung nehmen dieselben Fachleute vor, die beide Seiten anführen. Was die Fülle einbringt, ist die Fähigkeit zu sehen, wo die Abweichungen liegen, und genau das verweigert eine schmale Handschriftenüberlieferung."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Die Texte sind, was antike Texte sind, und das ist nicht, was für sie behauptet wird",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "changed-in-the-copying",
+          "claim": "Der Text wurde in der Überlieferung verändert, manchmal an den Stellen, die am meisten zählen",
+          "explanation": "Die stärkste Form dieses Arguments lautet nicht, die Bibel sei bis zur Unkenntlichkeit verderbt; das hält niemand Ernsthafter. Sie ist schmaler und schwerer zu beantworten.\n\nDie Schreiber, die das Neue Testament in seinen ersten zwei Jahrhunderten kopierten, waren keine Fachleute, und sie änderten, was sie kopierten — meist aus Versehen, manchmal absichtlich und manchmal genau an den Punkten, an denen eine Lehre umstritten war. Die Ehebrecherin steht nicht in den frühesten Handschriften. Auch nicht der Markusschluss. Der klarste trinitarische Satz des Neuen Testaments ist eine späte lateinische Hinzufügung. Behauptet wird, ein Text mit dieser Geschichte sei nicht die Art Sache, auf der eine Lehre von wörtlicher Irrtumslosigkeit gebaut werden kann, wie stabil er insgesamt auch ist.",
+          "quote": {
+            "text": "Es gibt mehr Abweichungen in unseren Handschriften als Wörter im Neuen Testament.",
+            "author": "Bart D. Ehrman",
+            "work": "Misquoting Jesus: The Story Behind Who Changed the Bible and Why",
+            "year": "2005",
+            "sourceUrl": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There are more variations among our manuscripts than there are words in the New Testament.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "minimalism",
+              "label": "Minimalismus, zur hebräischen Bibel",
+              "heldBy": "Niels Peter Lemche, Thomas L. Thompson, Philip Davies, Keith Whitelam",
+              "oneLine": "Das Problem ist nicht das Kopieren, sondern die Komposition: Die hebräische Bibel ist ein spätes literarisches Werk und kann überhaupt nicht zur Rekonstruktion der Geschichte des alten Israel dienen.",
+              "summary": "Der [[biblische Minimalismus|biblischer Minimalismus]] ist eine Minderheitsposition und umstritten, und er erhebt eine weit stärkere Behauptung als das Argument oben.\n\nDer Fall lautet, die erzählenden Bücher hätten ihre heutige Gestalt Jahrhunderte nach den Ereignissen gefunden, die sie beschreiben — in der stärksten Fassung in hellenistischer Zeit —, und sie seien Literatur, für die Zwecke der Gemeinschaft geschrieben, die sie erzeugte, und keine Aufzeichnungen der Vergangenheit. Wo Archäologie und Text verglichen werden können, verliere der Text; wo sie es nicht können, habe der Text keinen eigenen Rang. Danach heißt die Frage, ob Eroberung, vereinigte Monarchie oder Exodus wie beschrieben geschahen, die falsche Art Frage an die falsche Art Dokument zu stellen.",
+              "quote": {
+                "text": "Die Erzählungen vom alten Israel sind eine zusammengesetzte literarische Schöpfung und keine Aufzeichnung der Vergangenheit; die Bibel liest sich am besten als Literatur, und eine Geschichte des alten Israel muss aus Archäologie und Inschriften geschrieben werden und nicht aus ihr.",
+                "author": "Thomas L. Thompson",
+                "work": "The Mythic Past: Biblical Archaeology and the Myth of Israel",
+                "year": "1999",
+                "locator": "our summary of the book's thesis as its publisher and its reviewers describe it; not Thompson's wording",
+                "sourceUrl": "https://www.hachettebookgroup.com/titles/thomas-l-thompson/the-mythic-past-biblical-archaeology-and-the-myth-of-israel/9780786725175/",
+                "verification": "paraphrase",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The narratives of ancient Israel are a composite literary creation, not a record of the past; the Bible is best read as literature, and a history of ancient Israel has to be written from archaeology and inscriptions rather than from it.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Die Antwort oben betrifft die Handschriftenüberlieferung — dass die Varianten gezählt, eingeordnet und meist geringfügig sind. Diese Antwort betrifft das Kopieren, und diese Position betrifft nicht das Kopieren. Sie gibt zu, dass die hebräische Bibel im Wesentlichen so auf uns gekommen ist, wie sie geschrieben wurde, und sagt, die Frage sei, was geschrieben wurde, und wann, und warum.",
+              "objection": {
+                "text": "Die Position hat seit den 1990er Jahren Boden verloren, und weitgehend an Befunde. Die Stele von Tel Dan nennt das Haus David; die Mescha-Stele und die assyrischen Annalen nennen israelitische Könige, die die Bibel nennt; Hiskias Tunnel und Sanheribs Belagerung passen zusammen. Nichts davon belegt Eroberung oder Exodus, aber es belegt, dass die Texte wirkliche institutionelle Erinnerung bewahren, und das bestritt die starke Fassung. Die vorherrschende Forschung liegt heute zwischen den Polen und nicht an einem von beiden.",
+                "from": "within",
+                "sharedPremise": "er akzeptiert den ganzen kritischen Apparat — die späte Datierung der Endtexte, die zusammengesetzte Verfasserschaft, das Fehlen von Befunden für Exodus und Eroberung — und argumentiert aus derselben Befundlage, dass von der Bibel unabhängige Inschriften genug von ihrem institutionellen Detail bestätigen, um die starke Behauptung auszuschließen.",
+                "response": "Den Namen eines Königs zu bestätigen heißt nicht, die Erzählung um ihn zu bestätigen, und die Position betraf immer, was die Texte tragen können, und nicht, ob irgendein Stück ihres Mobiliars wirklich war."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Jedes dieser Beispiele steht im kritischen Apparat jeder modernen Bibel, als Fußnote für jeden Leser gedruckt, und wurde von derselben Textforschung ermittelt, auf die das Argument sich stützt. Das ist kein verborgenes Problem, es ist ein gelöstes: Man weiß, dass die Stellen spät sind, weil die Methode funktioniert. Das Argument beweist zudem weniger, als seine Rahmung nahelegt — die Zahl der Varianten ist eine Funktion der Zahl der Handschriften, und die überwiegende Mehrheit betrifft Rechtschreibung und Wortstellung.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Dass die Methode funktioniert, ist unstreitig und ist der Punkt: Was sie zeigt, ist ein Text, der sich verändert hat, und das muss eine Lehre von wörtlicher Irrtumslosigkeit unterbringen."
+          }
+        },
+        {
+          "id": "not-independent-witnesses",
+          "claim": "Die Evangelien sind nicht vier Zeugen, sondern eine Quelle und drei Überarbeitungen davon",
+          "explanation": "Die apologetische Berufung auf Mehrfachbezeugung setzt vier unabhängig eintreffende Berichte voraus. Das Textverhältnis zwischen ihnen ist der stärkste Befund dagegen.\n\nMatthäus und Lukas geben Markus wieder, oft wörtlich, auf Griechisch, samt seinen redaktionellen Einschüben — und so würden unabhängige Erinnerungen an einen aramäisch sprechenden Lehrer nicht zusammenfallen. Wo sie Material hinzufügen, ist ein großer Teil zwischen ihnen gemeinsam und bei Markus nicht vorhanden. Die Unterschiede gehen häufig in die Richtung einer sich entwickelnden Theologie: Dieselbe Episode wird mit gesteigertem Wunder, verbesserten Jüngern oder erhöhter Christologie erzählt.\n\nÜbrig bleibt eine erzählende Quelle mit redaktionellen Nachkommen, dazu Johannes, dessen Verhältnis zu den anderen drei umstritten ist. Vier Bücher, weniger Zeugen.",
+          "quote": {
+            "text": "Es gibt mehr Abweichungen in unseren Handschriften als Wörter im Neuen Testament.",
+            "author": "Bart D. Ehrman",
+            "work": "Misquoting Jesus",
+            "year": "2005",
+            "locator": "cited here for the transmission point only; the literary-dependence argument on this page is the standard two-source position in New Testament studies and is not a quotation from anyone",
+            "sourceUrl": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There are more variations among our manuscripts than there are words in the New Testament.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die literarische Abhängigkeit wird von nahezu allen zugegeben, konservative Forscher eingeschlossen, und sie hat nicht die behauptete Folge. Gemeinsame Quellen sind die Art, wie antike Historiker arbeiteten, und einen guten früheren Bericht zu benutzen ist ein Zeichen von Sorgfalt und nicht von Erfindung. Das Argument muss außerdem das Material erklären, das Matthäus und Lukas nicht teilen, und Johannes, und Paulus — der früher ist als sie alle und von ihnen allen unabhängig und der die Auferstehungserscheinungen innerhalb weniger Jahrzehnte nach den Ereignissen berichtet.",
+            "objectionFrom": "theist",
+            "response": "Paulus ist hier die stärkste Karte und wirklich unabhängig, und darum stützt sich der Fall für die Auferstehung in Thema 13 auf ihn und nicht auf die Evangelien. Was er nicht liefert, ist das erzählende Detail, dessen Mehrfachbezeugung gewöhnlich behauptet wird."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Was die Handschriften klären und was nicht",
+      "oneLine": "Beide Seiten geben zu, dass der Text des Neuen Testaments stabil und gut bezeugt ist; uneins sind sie darüber, ob ein stabiler Text ein genauer ist.",
+      "text": "Dies ist der Teil des Streits, der praktisch beendet ist, und es lohnt sich, das zu sagen, denn beide Seiten sind versucht, hier ihre Kraft zu verbrauchen.\n\nDie handschriftliche Bezeugung des Neuen Testaments ist für ein antikes Werk nach jedem Maß außergewöhnlich. Die [[Varianten|Textvariante]] zählen nach Hunderttausenden, weil die Handschriften nach Tausenden zählen, und die überwiegende Mehrheit betrifft Rechtschreibung, Wortstellung und offensichtliche Versehen. Eine kleine Zahl ist erheblich, sie ist bekannt, und sie steht in den Fußnoten jeder modernen Ausgabe.\n\nNichts davon berührt die Frage, ob die berichteten Ereignisse geschahen. Ein vollkommen überlieferter Text einer Legende ist eine vollkommen überlieferte Legende. Über Handschriften zu streiten heißt, über die erste Unterscheidung dieser Seite zu streiten, und die bestreitet hier niemand."
+    },
+    {
+      "heading": "Wo die Archäologie gelandet ist",
+      "oneLine": "Die Archäologie hat viel vom institutionellen Mobiliar der Bibel bestätigt — Könige, Städte, Feldzüge — und ihre Grunderzählungen nicht bestätigt.",
+      "text": "Das Muster ist beständig genug, um es klar zu sagen, denn beide Seiten zitieren die Hälfte, die ihnen passt.\n\nBestätigt, durch von der Bibel unabhängige Inschriften und Grabungen: das Haus David als Dynastiename, eine Reihe israelitischer und judäischer Könige, Sanheribs Feldzug, Hiskias Wassertunnel, die babylonische Zerstörung Jerusalems und viel von der Geographie und der politischen Struktur der späteren Monarchie.\n\nNicht bestätigt und in mehreren Fällen widerlegt: der Exodus wie beschrieben, die Eroberung Kanaans wie beschrieben und die vereinigte Monarchie in dem Maßstab, den der Text ihr gibt. Je später die Zeit, desto besser kommen die Texte davon — und das wäre von Dokumenten zu erwarten, die über Jahrhunderte niedergeschrieben wurden, und darum haben sich die minimalistische Position und ihre Gegner seit den 1990er Jahren einander etwas angenähert."
+    }
+  ],
+  "whereItStands": "Die Überlieferungsfrage ist geschlossen, und die beiden Seiten stimmen darin überein. Die historische Frage ist offen und in Bewegung, und sie hat sich in beide Richtungen bewegt: weg von der zuversichtlichen Harmonisierung der Mitte des zwanzigsten Jahrhunderts und weg vom starken Minimalismus der 1990er Jahre.\n\nWirklich verschoben hat sich etwas innerhalb des Christentums und nicht zwischen den Seiten. Die strenge Irrtumslosigkeit ist unter christlichen Gelehrten eine kleinere Position als vor fünfzig Jahren, und die Argumente, die Leute bewegten, waren keine atheistischen Argumente, sondern die Schwierigkeiten selbst, aufgeworfen von denen, die die Lehre halten wollten. Die zwei schwächeren Positionen dieser Seite bestehen deswegen, und auf sie haben die atheistischen Argumente hier am wenigsten Griff.\n\nDas ist an der Gestalt des Streits bemerkenswert. Die Einwände dieser Seite zielen meist auf die stärkste Behauptung, und die stärkste Behauptung ist die, von der das Christentum sich still entfernt.",
+  "commonMistake": "Christen antworten meist auf ein Argument über Genauigkeit mit Befunden über Überlieferung. Die Handschriftenzahlen sind eindrucksvoll, sie sind richtig, und sie betreffen eine Frage, die die andere Seite zugestanden hat, bevor es anfing. Mit ihnen zu beginnen liest sich für jeden, der es bemerkt, wie ein Themenwechsel.\n\nAtheisten behandeln meist jeden Irrtum als tödlich für jede Fassung der christlichen Behauptung, und das trifft nur auf die stärkste Fassung zu. Wem die Schrift in Glauben und Praxis unfehlbar ist, dem zu sagen, die Chronik verzähle sich bei einem Heer, heißt ihm etwas sagen, das er schon glaubt und das ihn nicht stört.\n\nBeide Seiten neigen außerdem dazu zu argumentieren, als wäre die Bibel eine Art Dokument. Sie ist eine über etwa ein Jahrtausend zusammengestellte Bibliothek mit Recht, Chronik, Dichtung, Spruch, Brief und Apokalyptik, und „ist sie zuverlässig“ hat über diese Breite hin nicht eine Antwort, so wenig wie „ist die Bibliothek zuverlässig“.",
+  "sources": [
+    {
+      "title": "The Chicago Statement on Biblical Inerrancy",
+      "year": "1978",
+      "url": "http://www.bible-researcher.com/chicago1.html",
+      "note": "Der vollständige Text mit Erläuterung."
+    },
+    {
+      "title": "Dei Verbum",
+      "author": "Zweites Vatikanisches Konzil",
+      "year": "1965",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+      "note": "Artikel 11 enthält die zitierte Formel."
+    },
+    {
+      "title": "An Interview with Daniel B. Wallace on the New Testament Manuscripts",
+      "year": "2012",
+      "url": "https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/"
+    },
+    {
+      "title": "Misquoting Jesus: The Story Behind Who Changed the Bible and Why",
+      "author": "Bart D. Ehrman",
+      "year": "2005",
+      "url": "https://archive.org/stream/Prof.BartEhrman-MisquotingJesus/BartD.Ehrman-MisquotingJesus_djvu.txt",
+      "note": "Vollständiger Text im Internet Archive, dieser lässt sich also Wort für Wort prüfen."
+    },
+    {
+      "title": "Canaanites, Reality Checks, and Letting the Bible Out of the Box",
+      "author": "Peter Enns",
+      "year": "2014",
+      "url": "https://rachelheldevans.com/blog/peter-enns-bible-tells-me-so"
+    },
+    {
+      "title": "Biblical minimalism",
+      "url": "https://en.wikipedia.org/wiki/Biblical_minimalism",
+      "note": "Die Kopenhagener Position und die Befunde, die das Feld seither bewegt haben. Die Darstellung der Seite ist eine Paraphrase und als solche gekennzeichnet."
+    }
+  ]
+}
