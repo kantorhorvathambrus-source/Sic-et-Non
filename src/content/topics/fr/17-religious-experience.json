@@ -1,0 +1,261 @@
+{
+  "id": "religious-experience",
+  "number": 17,
+  "slug": "experience-religieuse",
+  "title": "L'expérience religieuse est-elle une preuve ?",
+  "category": "faith-and-society",
+  "status": "open",
+  "realQuestion": "Personne, dans aucun des deux camps, ne conteste que les expériences aient lieu, et personne ne conteste qu'elles importent à ceux qui les vivent. Le désaccord n'est pas là.\n\nLe désaccord porte sur un seul pas. Quelque chose se produit — un sentiment de présence, une certitude bouleversante d'être aimé, la dissolution de la frontière entre soi et tout le reste — puis cela est décrit comme une rencontre avec Dieu. L'événement et la description sont deux choses, et toute la question est de savoir si la seconde est autorisée par le premier.\n\nLa forme utile de la question n'est donc pas « les gens font-ils des expériences religieuses ? » mais « en faire une donne-t-il à quiconque une raison de croire quelque chose au sujet du monde ? ». Et elle se dédouble encore : une raison pour celui qui l'a vécue, ou une raison pour nous autres. Les deux s'écartent bien davantage que chacun des camps ne l'admet d'ordinaire, et l'auteur le plus rigoureux sur le sujet tenait la première et niait la seconde.",
+  "distinctions": [
+    {
+      "label": "Les expériences ont-elles lieu ?",
+      "gloss": "Hors de litige, dans un sens comme dans l'autre. Les deux camps acceptent que les témoignages soient sincères, répandus et souvent transformateurs. Un argument qui commence par en douter discute avec personne.",
+      "activeHere": false
+    },
+    {
+      "label": "L'expérience est-elle une preuve pour celui qui l'a vécue ?",
+      "gloss": "Vive, et de loin la plus facile des deux. Les deux camps comptent des défenseurs du oui, dont certains répondent non à la question suivante.",
+      "activeHere": true
+    },
+    {
+      "label": "Est-elle une preuve pour quelqu'un d'autre ?",
+      "gloss": "Vive, et la plus difficile. C'est là que se livre réellement la discussion sur le contre-examen, les contenus en conflit et les causes reproductibles.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "principe de crédulité",
+      "definition": "Règle de Swinburne selon laquelle, à défaut de raison particulière d'en douter, les choses sont probablement telles qu'elles paraissent. Règle générale sur la perception, et non inventée pour la religion."
+    },
+    {
+      "term": "pratique doxastique",
+      "definition": "Terme d'Alston pour une manière socialement établie de former des croyances — la perception sensorielle, la mémoire, l'intuition rationnelle —, chacune avec ses entrées, ses sorties et ses contrôles internes propres."
+    },
+    {
+      "term": "noétique",
+      "definition": "Le mot de William James pour la qualité qu'ont les états mystiques de paraître livrer une connaissance et non un simple sentiment : le sujet en ressort convaincu d'avoir appris quelque chose, et non seulement d'avoir ressenti quelque chose."
+    }
+  ],
+  "sides": [
+    {
+      "label": "C'est une preuve, et l'en excepter demanderait une règle spéciale",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "seemings-count",
+          "claim": "Tout ce que l'on croit repose sur le fait de prendre les apparences au pied de la lettre ; la religion n'a pas droit à son exception propre.",
+          "explanation": "Croire qu'il y a une chaise dans la pièce repose sur le fait qu'il semble y en avoir une. Il en va de même de la croyance aux autres esprits, au passé et aux résultats d'une expérimentation. La règle qui autorise tout cela, c'est que, à défaut d'une raison précise d'en douter, ce qui semble être est probablement.\n\nLe [[principe de crédulité]] n'est pas une règle conçue pour protéger les affirmations religieuses. C'est la règle que toute épistémologie doit adopter pour démarrer, et elle ne comporte aucune clause restreignant le genre de chose qui peut être perçu. L'appliquer au récit d'une rencontre avec Dieu donne une justification prima facie : révocable, faible et réelle.\n\nL'argument porte donc sur la cohérence plutôt que sur Dieu. Qui accepte le principe partout et le suspend exactement ici doit avoir pour cette suspension une raison qui n'équivaille pas à savoir déjà qu'il n'y a rien.",
+          "quote": {
+            "text": "c'est un principe de rationalité que (en l'absence de considérations particulières) s'il semble (épistémiquement) à un sujet que x est présent, alors x est probablement présent ; ce que l'on semble percevoir est probablement ainsi",
+            "author": "Richard Swinburne",
+            "work": "The Existence of God",
+            "year": "1979, revised 2004",
+            "locator": "the statement of the principle of credulity; the wording is the one quoted in the secondary literature, which cites the revised edition",
+            "sourceUrl": "https://global.oup.com/academic/product/the-existence-of-god-9780199271672",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "it is a principle of rationality that (in the absence of special considerations) if it seems (epistemically) to a subject that x is present, then probably x is present; what one seems to perceive is probably so",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "authoritative-for-the-subject",
+              "label": "Faisant autorité pour celui qui la vit, et pour personne d'autre",
+              "heldBy": "William James",
+              "oneLine": "L'expérience peut contraindre rationnellement celui à qui elle arrive sans créer la moindre obligation pour qui n'en a qu'entendu parler.",
+              "summary": "James est enrôlé tour à tour par le camp qui le cite, et il a dit les deux moitiés dans le même paragraphe.\n\nLa première moitié : un état mystique bien développé est [[noétique]], et celui qui en a vécu un ne peut en être délogé par le raisonnement de quelqu'un qui n'en a pas vécu — et il ne devrait pas l'être, pas plus qu'un voyant ne devrait s'en remettre à un aveugle sur la couleur. Pour cette personne, l'expérience est proprement basique et rationnellement contraignante.\n\nLa seconde moitié : aucune autorité ne s'étend vers l'extérieur. Nous autres avons le droit de traiter le récit comme un récit, de le peser contre tout ce que nous savons par ailleurs, et de refuser. Dans cette version, l'argument de l'expérience religieuse n'est pas du tout un argument au sens public ; c'est la description de ce qui arrive à la structure de croyances de quelqu'un.",
+              "quote": {
+                "text": "Les états mystiques, lorsqu'ils sont bien développés, font d'ordinaire autorité, et ont le droit de faire absolument autorité, sur les individus à qui ils viennent. Il n'en émane aucune autorité qui ferait un devoir, à ceux qui restent en dehors d'eux, d'accepter sans critique leurs révélations.",
+                "author": "William James",
+                "work": "The Varieties of Religious Experience (L'Expérience religieuse)",
+                "year": "1902",
+                "locator": "Lectures XVI-XVII, 'Mysticism', in the summary of his conclusions",
+                "sourceUrl": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Mystical states, when well developed, usually are, and have the right to be, absolutely authoritative over the individuals to whom they come. No authority emanates from them which should make it a duty for those who stand outside of them to accept their revelations uncritically.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection ci-dessus est que les apparences entrent en conflit d'une tradition à l'autre, de sorte qu'un principe qui les autorise toutes autorise des contradictions. Cette position accorde qu'elles entrent en conflit et renonce entièrement à la conclusion publique : elle ne réclame d'autorité qu'à l'intérieur d'une seule vie. Un conflit entre les expériences de deux personnes n'est pas un problème pour une thèse selon laquelle aucune des deux n'est tenue de convaincre l'autre.",
+              "objection": {
+                "text": "Alors la réponse à la question de cette page est non. « Preuve » désigne ce qui donne à d'autres une raison de changer d'avis ; un état qui ne fait autorité que pour son sujet et n'impose d'obligation à personne d'autre est un fait psychologique sur ce sujet, aussi important soit-il. La position est admirablement honnête, et elle concède l'argument sous lequel elle est classée.",
+                "from": "atheist",
+                "response": "Une preuve est ce qui élève la probabilité d'une affirmation pour celui qui la détient, et la détention n'est pas répartie également : un témoin détient une preuve à laquelle le jury n'accède que par son témoignage. Que la position soit modeste sur la distance qu'elle franchit est un trait de l'exactitude du compte rendu, non une concession."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Les apparences se contredisent, et la contradiction est exactement la considération particulière que le principe réserve. Les carmélites rencontrent le Christ ; les hindous, Krishna ; les bouddhistes ne rencontrent aucune divinité personnelle et tiennent cela pour la découverte la plus profonde. Dans la perception ordinaire, les témoignages en conflit se règlent en allant regarder de nouveau, par des instruments, en interrogeant un tiers. Ici il n'y a pas de procédure, de sorte que le principe autorise d'un coup l'ensemble incompatible tout entier et ne retire rien.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Des témoignages en conflit sur un objet compris en partie seulement sont la condition normale de toute enquête difficile, et ils ne nous font pas d'ordinaire conclure que l'objet est absent. Le recouvrement est en outre plus large que l'objection ne l'admet : les témoignages s'accordent remarquablement sur le caractère de la rencontre et divergent sur son identification, ce qui est le schéma attendu d'un accès limité à quelque chose de réel, et non de rien du tout."
+          }
+        },
+        {
+          "id": "no-practice-validates-itself",
+          "claim": "Aucune manière de former des croyances ne peut être validée sans y recourir, et celle-ci n'est pas plus mal placée que les autres.",
+          "explanation": "Demandons ce qui justifie de se fier à la perception sensorielle : toute réponse disponible recourt à la perception sensorielle. Demandons ce qui justifie de se fier à la mémoire : la preuve est remémorée. Demandons ce qui justifie la logique : l'argument est logique. Ce n'est pas du scepticisme ; c'est la situation ordinaire de toute [[pratique doxastique]] fondamentale qui existe.\n\nNous les poursuivons tout de même, et raisonnablement. Le critère pour continuer est pratique : la pratique est socialement établie, elle n'est pas intérieurement chaotique, et ses sorties ne heurtent pas celles de pratiques mieux établies. Ce critère est satisfait par la pratique chrétienne qui consiste à former des croyances sur la base de rencontres apparentes avec Dieu — une pratique dotée d'une longue histoire, de règles internes de discernement et d'un corps de gens formés à les appliquer.\n\nExiger que cette pratique-là se justifie depuis l'extérieur, quand aucune des autres ne peut le faire, n'est pas un critère plus élevé. C'est un autre critère, appliqué une seule fois.",
+          "quote": {
+            "text": "L'argument d'Alston est qu'on ne peut montrer d'aucune manière non circulaire que la perception mystique est fiable, que la perception sensorielle et la mémoire sont exactement dans la même situation, et que, puisque nous continuons rationnellement de nous fier à celles-ci, la pratique consistant à former des croyances sur Dieu à partir d'une expérience apparente de Dieu est rationnelle aux mêmes conditions.",
+            "author": "William P. Alston",
+            "work": "Perceiving God: The Epistemology of Religious Experience",
+            "year": "1991",
+            "locator": "our summary of the book's central argument as its critics and commentators state it; not Alston's wording",
+            "sourceUrl": "https://www.jstor.org/stable/10.7591/j.ctt5hh24c",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Alston's argument is that mystical perception cannot be shown to be reliable in any non-circular way, that sense perception and memory are in exactly the same position, and that since we rationally continue to rely on those, the practice of forming beliefs about God on the basis of apparent experience of God is rational on the same terms.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La parité échoue à l'endroit qui compte. La perception sensorielle n'est pas seulement circulaire mais établie : elle est dense en contrôles internes — on regarde encore, on fait le tour de l'objet, on demande à quelqu'un, on construit un instrument, on prédit ce qu'on va voir et on vérifie. Ces contrôles sont ce qui en fait une pratique et non une habitude, et ils sont précisément ce qui manque à la perception mystique. Deux pratiques ne sont pas dans le même bateau parce que toutes deux sont circulaires au fondement, pas plus que deux affirmations ne s'égalent parce que toutes deux sont indémontrables.",
+            "objectionFrom": "atheist",
+            "response": "Des contrôles, il y en a : une tradition dotée de règles de discernement, une littérature sur l'illusion de soi plus ancienne que la psychologie, des communautés qui rejettent couramment des expériences rapportées, et l'épreuve de ce que l'expérience fait à une vie sur des décennies. Ils sont plus faibles et plus lents que le fait de regarder encore, ce qui est accordé. Des contrôles plus faibles ne sont pas l'absence de contrôles."
+          }
+        }
+      ]
+    },
+    {
+      "label": "C'est une preuve sur le sujet de l'expérience, non sur son objet",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "not-public",
+          "claim": "Ce qui fait d'une perception une preuve, c'est le contrôle, et ici il est impossible.",
+          "explanation": "La perception gagne son statut à la dure. Si quelqu'un signale un héron sur la rivière, il existe des procédures : aller voir, envoyer quelqu'un d'autre, le photographier, noter qu'on trouve des hérons là en mars, prédire qu'il s'envolera si l'on approche. Les procédures peuvent échouer, et c'est leur disponibilité qui fait d'un témoignage perceptif une preuve plutôt qu'une anecdote.\n\nAucune n'est disponible ici. L'expérience n'est pas répétable sur demande, ni observable par un second témoin, ni corrélée à aucune condition de sa cause alléguée qui soit détectable indépendamment, ni prédictive de quoi que ce soit de vérifiable. Son contenu ne peut être triangulé avec un autre effet de la même source, car aucun autre effet n'est identifié.\n\nLa conclusion n'est pas que la personne mente ou que rien ne se soit produit. C'est qu'un témoignage sans contre-examen possible n'est pas le genre de chose qui puisse transférer une justification à autrui, ce qui est le sens de « preuve » dans la question que pose cette page.",
+          "quote": {
+            "text": "les expériences mystiques ne sont pas publiques",
+            "author": "Evan Fales",
+            "work": "his reply to Alston, in Contemporary Debates in Philosophy of Religion",
+            "year": "2004",
+            "locator": "the cross-checking argument against mystical perception",
+            "sourceUrl": "https://andrewmbailey.com/wpa/AlstonFales.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "mystical experiences are not public",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "reproducible-on-demand",
+              "label": "Sauf qu'elle est répétable, chimiquement",
+              "heldBy": "Roland R. Griffiths et le groupe psilocybine de Johns Hopkins",
+              "oneLine": "Des expériences que les sujets eux-mêmes rangent parmi les plus significatives spirituellement de leur vie peuvent être produites de façon fiable, en double aveugle, avec une dose mesurée.",
+              "summary": "Dans une étude en double aveugle publiée en 2006, des volontaires sans antécédent psychédélique ont reçu de la psilocybine ou un produit actif de comparaison, dans un ordre contrebalancé. Les séances sous psilocybine ont produit des expériences de type mystique complètes selon les mesures standard, et au suivi à deux mois les volontaires leur ont attribué une signification personnelle et spirituelle considérable, avec des changements de comportement corroborés par leurs proches.\n\nLe résultat n'est pas que les expériences soient fausses. Les chercheurs ont pris soin de ne jamais le dire, et le responsable de l'étude n'en a tiré aucune conclusion antireligieuse. Le résultat est plus étroit et plus dur : la phénoménologie ne s'authentifie pas elle-même, puisqu'elle peut être induite sur rendez-vous chez des gens qui ne la cherchaient pas.\n\nCe que cela fait à l'argument, c'est de lui retirer la dernière chose qui y faisait un travail probatoire : la qualité même de l'expérience, son caractère reconnaissable à coup sûr de l'intérieur.",
+              "quote": {
+                "text": "Administrée dans des conditions de soutien, la psilocybine a occasionné des expériences semblables aux expériences mystiques survenant spontanément.",
+                "author": "R. R. Griffiths, W. A. Richards, U. McCann et R. Jesse",
+                "work": "Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance, Psychopharmacology 187",
+                "year": "2006",
+                "locator": "the conclusions of the abstract",
+                "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16826400/",
+                "verification": "corroborated",
+                "sawWhat": "abstract",
+                "original": {
+                  "text": "When administered under supportive conditions, psilocybin occasioned experiences similar to spontaneously occurring mystical experiences.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La réplique ci-dessus est que la tradition fournit des contrôles qui lui sont propres : le discernement, la communauté, la forme que prend une vie ensuite. Ce sont tous des contrôles sur ce qu'une expérience signifie et sur la manière dont elle est vécue. Ce résultat porte sur la provenance de l'expérience, et aucun discernement en aval ne dit à personne si la cause en amont était Dieu ou un récepteur de la sérotonine ; la réplique ne l'atteint donc pas.",
+              "objection": {
+                "text": "Produire quelque chose qui a la même description n'est pas produire la même chose, et l'inférence de « nous pouvons induire cela » à « rien d'autre ne l'induit » est invalide de prime abord. Une drogue qui produirait de façon fiable l'expérience de voir sa propre main ne montrerait pas que les mains sont illusoires. Si Dieu existe et que c'est ainsi que la rencontre avec Dieu se réalise dans un cerveau, une substance chimique qui ouvre le même canal est exactement ce qu'on s'attendrait à trouver.",
+                "from": "theist",
+                "response": "Le cas de la main dispose d'un contrôle indépendant — on peut regarder la main — et tout l'argument ici est que celui-ci n'en dispose pas. Là où le seul accès à l'objet est l'expérience, et où l'expérience peut être produite sans l'objet, l'expérience cesse de pouvoir dire laquelle des deux situations a lieu."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "L'exigence de contrôles publics introduit en contrebande un critère que rien ne satisfait hors des sciences de la nature, et que les sciences elles-mêmes ne satisfont pas partout. Personne ne soumet au contre-examen une conviction morale, un jugement esthétique ou la reconnaissance du chagrin d'autrui, et nous n'en concluons pas que ceux-là ne rapportent rien. Un critère qui disqualifie l'expérience religieuse en même temps que la plus grande part de ce que les êtres humains savent est trop fort pour être le bon critère.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Les jugements moraux et esthétiques ne sont pas d'ordinaire offerts comme preuves de l'existence d'un objet, ce qui est la tâche remplie ici. Là où ils le sont — l'affirmation qu'un acte particulier a eu lieu — nous exigeons bien des contrôles, et nous les obtenons."
+          }
+        },
+        {
+          "id": "no-unmediated-experience",
+          "claim": "Le contenu arrive déjà façonné par la tradition, il ne peut donc pas la confirmer de façon indépendante.",
+          "explanation": "Les témoignages ne sont pas d'abord bruts puis interprétés. La position la plus forte dans l'étude savante de la mystique est qu'il n'y a aucune couche brute : les concepts, les attentes et la formation qu'une personne apporte ne décorent pas l'expérience après coup, ils la constituent pendant qu'elle a lieu. Une carmélite formée vingt ans à une pratique donnée fait l'expérience que cette pratique produit.\n\nLa conséquence probatoire est lourde. Si le contenu de l'expérience est bâti avec ce que le sujet croyait déjà, l'expérience ne peut ensuite être citée comme confirmation de ce que le sujet croyait déjà. C'est la même affirmation qui revient, avec plus de force émotive attachée, et c'est pourquoi les expériences ne corrigent presque jamais la tradition et la confirment presque toujours.\n\nLe propos n'est pas que les expériences soient sans valeur. C'est que leur contenu est une donnée sur les traditions qui les façonnent — ce qu'étudiaient précisément les savants qui l'ont établi — et non sur un objet commun qui se tiendrait derrière elles toutes.",
+          "quote": {
+            "text": "Il n'y a AUCUNE expérience pure (c'est-à-dire non médiatisée)",
+            "author": "Steven T. Katz",
+            "work": "Language, Epistemology and Mysticism, in Mysticism and Philosophical Analysis",
+            "year": "1978",
+            "locator": "the essay's central thesis; Katz is a scholar of Jewish mysticism arguing about experience, and does not draw the conclusion this side draws from it",
+            "sourceUrl": "https://philosophyofreligion.org/?page_id=5769",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "There are NO pure (i.e. unmediated) experiences",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La médiation est universelle et ne prouve rien à elle seule. La perception qu'un physicien a d'une chambre à brouillard est saturée de théorie, et un ornithologue voit une espèce là où un œil non formé voit une forme ; dans les deux cas, la formation est ce qui rend la perception exacte, non ce qui la rend fictive. Les concepts sont la manière dont quoi que ce soit est perçu, de sorte que « l'expérience était façonnée conceptuellement » ne peut à soi seul être une raison de penser qu'il n'y avait rien.",
+            "objectionFrom": "theist",
+            "response": "La formation du physicien est contrôlable sur ses résultats, et l'on peut montrer l'oiseau à l'ornithologue. Ce qui distingue ces cas du cas présent n'est pas que la perception ait été chargée de théorie, mais que la théorie était testable indépendamment. Ici la formation produit l'expérience, et l'expérience est la seule preuve touchant l'objet même de la formation."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Le casque de Dieu n'a pas été répliqué",
+      "oneLine": "La démonstration neurologique la plus connue qu'on peut allumer l'expérience religieuse en laboratoire n'a pas survécu à la réplication indépendante, et le camp qui continue de la citer devrait l'abandonner.",
+      "text": "Dans les années 1990, Michael Persinger a rapporté qu'une stimulation magnétique faible des lobes temporaux produisait un sentiment de présence chez une grande majorité des sujets. Le résultat a voyagé bien au-delà de la littérature spécialisée et il est encore avancé dans la discussion populaire comme démonstration que le cerveau fabrique Dieu.\n\nUne équipe indépendante menée par Pehr Granqvist a tenté la réplication avec un appareillage emprunté au laboratoire de Persinger lui-même et n'a pas reproduit l'effet. Ce qui prédisait si un sujet rapportait une expérience inhabituelle, c'était sa suggestibilité mesurée, et non le fait que le champ ait été allumé — ce qui a soulevé la question supplémentaire du soin avec lequel le travail initial avait été mené en aveugle.\n\nIl vaut la peine de tenir cela séparé des résultats sur la psilocybine de Johns Hopkins, dans l'argument ci-dessus, qui sont tout autre chose : un résultat préenregistré, en double aveugle, répliqué, dans une revue de pharmacologie à comité de lecture. L'un de ces résultats a survécu à l'examen et l'autre non, et les citer ensemble ne rend aucun service à celui qui a survécu."
+    },
+    {
+      "heading": "La discussion porte sur un seul pas, non sur les expériences",
+      "oneLine": "Les deux camps acceptent que les expériences aient lieu et qu'elles puissent refaçonner une vie ; tout le litige porte sur le passage de « cela m'est arrivé » à « et sa cause était Dieu ».",
+      "text": "Cela vaut d'être dit parce que la forme publique de la discussion n'en a presque jamais l'air. Les croyants défendent la réalité et l'importance des expériences comme si elles étaient attaquées, et elles ne le sont pas. Les critiques rassemblent des données montrant que les expériences ont des corrélats neuronaux, comme si un corrélat neuronal réglait l'attribution, et il ne la règle pas : toute expérience que quiconque a jamais faite a un corrélat neuronal, y compris les perceptions exactes d'objets réels.\n\nCe qui sépare les deux camps est une seule inférence, d'un événement à une cause. Tout le reste de cette page — le contre-examen, les contenus en conflit, la reproduction chimique, la circularité de toute pratique fondamentale — porte sur la question de savoir si cette unique inférence est autorisée.\n\nGarder cela au net éclaire aussi ce qui compterait comme progrès. Ni des témoignages plus vifs ni davantage d'imagerie cérébrale ne le feront bouger. Ce qui le ferait bouger, c'est un contrôle : quelque chose que l'attribution prédit et que l'alternative ne prédit pas."
+    }
+  ],
+  "whereItStands": "La position philosophique est devenue plus prudente des deux côtés en quarante ans, et elle a convergé vers un désaccord étroit.\n\nPresque plus personne ne défend la version grossière — qu'une expérience intense règle l'affaire — et presque plus personne ne défend la dénégation grossière, selon laquelle les expériences sont pathologie ou invention. Ce que les défenseurs sérieux revendiquent, c'est une justification prima facie, révocable et peut-être révoquée ; ce que les critiques sérieux soutiennent, c'est que les révocateurs sont effectivement là : les contenus en conflit, l'absence de contre-examen, la reproductibilité de la phénoménologie.\n\nCe qui a réellement bougé est empirique plutôt que philosophique, et cela a bougé dans les deux sens. L'histoire neurologique qui paraissait la plus solide dans les années 1990 n'a pas tenu. Le travail psychédélique qui paraissait marginal à la même époque, lui, a tenu, et c'est le fait nouveau le plus important dans cette discussion depuis une génération : non parce qu'il explique l'expérience religieuse par autre chose, ce qu'il ne fait pas, mais parce qu'il a retiré le seul trait des expériences qui faisait un travail probatoire à lui seul, leur caractère absolument reconnaissable de l'intérieur.\n\nLa question tournée vers le sujet est bien plus proche d'être réglée que la question publique. Très peu de philosophes, dans l'un ou l'autre camp, disent aujourd'hui qu'une personne qui a vécu une telle expérience est irrationnelle d'en être ébranlée.",
+  "commonMistake": "Les chrétiens plaident le plus souvent pour la réalité de l'expérience alors que la réalité de l'expérience n'est pas en cause, et traitent l'argument d'en face comme s'il était une accusation de malhonnêteté. Il ne l'est pas. Tous les critiques sérieux de cette page accordent que les expériences sont authentiques et qu'elles comptent.\n\nLes athées traitent le plus souvent un mécanisme découvert comme une réfutation. Trouver le corrélat neuronal d'une expérience ne dit rien sur l'existence de son objet, puisque les perceptions exactes ont aussi des corrélats neuronaux ; l'argument doit être que le mécanisme opère en l'absence de l'objet, ce qui est une affirmation supplémentaire exigeant des données supplémentaires.\n\nLes deux camps citent William James à leur appui, et tous deux s'arrêtent au milieu de sa conclusion. Il a dit que les états mystiques font à bon droit autorité pour celui qui les vit et n'ont aucune autorité pour quiconque d'autre. Citer une moitié seule le trahit, et les deux moitiés ensemble résument mieux l'état de cette discussion que tout ce que l'un ou l'autre camp a dit depuis.",
+  "sources": [
+    {
+      "title": "The Varieties of Religious Experience (L'Expérience religieuse)",
+      "author": "William James",
+      "year": "1902",
+      "url": "https://www.gutenberg.org/files/621/621-h/621-h.html",
+      "note": "Gratuit et complet. Les leçons XVI-XVII sont les chapitres sur la mystique, et la conclusion se trouve à la fin de la XVII."
+    },
+    {
+      "title": "Mysticism",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "year": "2022",
+      "url": "https://plato.stanford.edu/entries/mysticism/",
+      "note": "Traite en un seul endroit du débat sur le constructivisme et des arguments épistémologiques."
+    },
+    {
+      "title": "Does Religious Experience Justify Religious Belief?",
+      "author": "William P. Alston et Evan Fales",
+      "year": "2004",
+      "url": "https://andrewmbailey.com/wpa/AlstonFales.pdf",
+      "note": "Les deux positions discutant l'une contre l'autre dans un même chapitre, par ceux qui les tiennent."
+    },
+    {
+      "title": "Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance",
+      "author": "R. R. Griffiths et al.",
+      "year": "2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16826400/",
+      "note": "L'étude de Johns Hopkins. Le travail de suivi sur la relation dose-effet a paru en 2011."
+    },
+    {
+      "title": "God helmet",
+      "author": "Wikipedia",
+      "year": "2025",
+      "url": "https://en.wikipedia.org/wiki/God_helmet",
+      "note": "Lié pour l'histoire de la réplication, qui y est documentée avec les citations primaires."
+    }
+  ]
+}
