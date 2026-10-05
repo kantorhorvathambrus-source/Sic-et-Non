@@ -1,0 +1,276 @@
+{
+  "id": "miracles-and-evidence",
+  "number": 15,
+  "slug": "milagros-y-evidencia",
+  "title": "¿Puede evidenciarse alguna vez un milagro?",
+  "category": "history-and-text",
+  "status": "open",
+  "realQuestion": "Casi todo argumento archivado bajo este epígrafe es en realidad uno de tres argumentos, y tienen respuestas distintas.\n\nEl primero es si ocurren milagros. El segundo es si algún informe concreto —la resurrección, una curación en Lourdes— sobrevive al escrutinio. El tercero es si una evidencia de la clase que los seres humanos pueden tener de hecho podría volver razonable creer que ocurrió un milagro.\n\nEsta página trata del tercero. Es el único en el que el desacuerdo es realmente sobre el método y no sobre qué casos uno ha leído, y es el que hay que resolver primero: si la respuesta es no, ningún detalle de caso importa, y si es sí, la discusión pasa a los casos y deja de ser una discusión filosófica.\n\nLos dos lados de aquí no son «los milagros ocurren» y «los milagros no ocurren». Son «el testimonio puede en principio soportar este peso» y «no puede, y la razón es estructural».",
+  "distinctions": [
+    {
+      "label": "¿Ocurren de hecho milagros?",
+      "gloss": "No es esta página. Es la conclusión que la gente quiere, y no puede alcanzarse hasta que se responda a la pregunta de qué podría mostrar una evidencia. La resurrección en concreto se discute en su propia página.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Es un milagro metafísicamente posible?",
+      "gloss": "Tampoco es esta página, y no se discute realmente en sus propios términos. Si hay un Dios de la clase que el cristianismo describe, los milagros son posibles; si no lo hay, no lo son. Ese argumento es el resto de este sitio.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Podría una evidencia al alcance humano establecer alguno?",
+      "gloss": "La pregunta viva, y la que ambos lados discuten de verdad aquí. Es una pregunta sobre el testimonio, la probabilidad y qué puede entregar el método histórico, no sobre Dios.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "probabilidad previa",
+      "definition": "Cuán probable consideraba usted una afirmación antes de ver la evidencia que ahora tiene delante. En el razonamiento bayesiano, la previa y la evidencia se combinan para dar una probabilidad revisada."
+    },
+    {
+      "term": "testimonio independiente",
+      "definition": "Informes cuya coincidencia no se explica porque compartan una fuente, una comunidad o un interés. La independencia es lo que hace que varios testigos valgan más que uno, y es mucho más difícil de establecer que de suponer."
+    },
+    {
+      "term": "inferencia a la mejor explicación",
+      "definition": "Aceptar la hipótesis que, de ser verdadera, daría mejor cuenta de la evidencia, siempre que supere a las rivales y siempre que las rivales se hayan revisado de verdad."
+    }
+  ],
+  "sides": [
+    {
+      "label": "El testimonio puede soportarlo, y el listón no es infinito",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "enough-independent-witnesses",
+          "claim": "La máxima de Hume es aritmética, y la aritmética no sale a su favor.",
+          "explanation": "La regla de Hume dice creer un informe de milagro solo cuando la falsedad del testimonio resultara más sorprendente que el milagro. Enunciada así no es un veto: es una comparación, y las comparaciones pueden salir de cualquiera de los dos modos.\n\nLa objeción se le hizo en menos de un siglo, en un libro sobre máquinas. Por pequeña que se haga la [[probabilidad previa]] del suceso, es un número finito, y la probabilidad de que cierto número de testigos genuinamente [[independientes|testimonio independiente]] yerren todos en la misma dirección se encoge más rápido que cualquier previa fija. Así que siempre hay algún número de testigos que pasa el listón. El argumento de Hume, leído como una prohibición general, exige que la previa sea cero; y una previa de cero no es un juicio sobre el mundo, es la negativa a dejarse mover por evidencia alguna.\n\nEso no muestra que ningún informe real de milagro pase el listón. Muestra que el listón es un listón y no un techo, que es lo que la lectura general de Hume negaba.",
+          "quote": {
+            "text": "es posible asignar un número de testigos independientes tal que la improbabilidad de la falsedad de su testimonio concordante sea mayor que la improbabilidad del milagro mismo",
+            "author": "Charles Babbage",
+            "work": "The Ninth Bridgewater Treatise, Appendix Note E, 'On Hume's Argument against Miracles'",
+            "year": "1838",
+            "locator": "second edition, appendix note E",
+            "sourceUrl": "https://victorianweb.org/science/science_texts/bridgewater/appendixe.html",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "it is possible to assign a number of independent witnesses, the improbability of the falsehood of whose concurring testimony shall be greater than that of the improbability of the miracle itself",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "non-repeatable-counter-instance",
+              "label": "La previa es menor de lo que parece",
+              "heldBy": "Richard Swinburne",
+              "oneLine": "Un milagro es una excepción única, no una ley derrotada, de modo que la enorme evidencia a favor de la ley no es evidencia contra el suceso.",
+              "summary": "Este es un movimiento distinto de contar testigos, y ataca el otro término de la comparación de Hume.\n\nSegún esta posición, el enorme cuerpo de evidencia que respalda una ley de la naturaleza es evidencia de que la ley vale en general. Una afirmación de milagro no contradice eso. Afirma una excepción única que no se repetirá y que ninguna ley revisada predeciría, de modo que no compite con la ley por la misma evidencia, y el respaldo de la ley no se transfiere a un respaldo en contra del suceso. La previa que el testimonio tiene que superar es, por tanto, mucho menor de lo que supone el planteamiento de Hume.\n\nPermite además al defensor conceder todo lo que el otro lado quiere que se conceda sobre la regularidad de la naturaleza, cosa que el argumento de contar testigos no hace.",
+              "quote": {
+                "text": "la ocurrencia de un contraejemplo no repetible a una ley de la naturaleza",
+                "author": "Richard Swinburne",
+                "work": "The Concept of Miracle",
+                "year": "1970",
+                "locator": "Swinburne's definition of a violation of a law of nature, as quoted in the Stanford Encyclopedia of Philosophy entry on miracles",
+                "sourceUrl": "https://plato.stanford.edu/entries/miracles/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "an occurrence of a non-repeatable counter-instance to a law of nature",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior trata de si los testigos son alguna vez lo bastante independientes para que la multiplicación funcione. Esta posición no multiplica testigos. Concede que el testimonio es débil y sostiene que aquello a lo que tiene que superar en peso es mucho más ligero de lo que Hume suponía, de modo que una objeción sobre la independencia de los testigos pasa de largo junto a ella.",
+              "objection": {
+                "text": "La categoría está protegida desde dentro. Un «contraejemplo no repetible» se define de modo que ninguna observación futura pueda incidir en él: si el suceso se repite, nunca fue un milagro, sino una laguna de la ley, y si no se repite, no queda nada que examinar. Eso no es una tesis modesta sobre una excepción única, es una tesis infalsable, y vuelve pequeña la previa por decreto y no por evidencia.",
+                "from": "atheist",
+                "response": "Toda afirmación sobre un suceso pasado singular tiene esta forma —una batalla concreta, un delito concreto— y no concluimos que la historia sea infalsable. Los rastros, el testimonio y la cronología siguen abiertos al examen; lo que no es repetible es el suceso, no la evidencia a su favor."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Los testigos nunca son independientes en el sentido que la aritmética exige. Los informes de un milagro vienen de personas que estaban juntas, que pertenecían a la misma comunidad, que se contaron unas a otras lo que habían visto antes de que nadie lo escribiera y que compartían un interés fuerte en la conclusión. Los errores correlacionados no se encogen como los independientes; y Earman, que considera que el argumento de Hume fracasa, hace exactamente este punto sobre lo exigente que es la independencia real.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Esta es una buena objeción a casos concretos y no al principio, que era lo que estaba en cuestión. Corta además en los dos sentidos: dice que el testimonio de un milagro puede ser evidencia y que evaluarlo es trabajo empírico sobre quién habló con quién, que es precisamente la posición que la lectura general de Hume pretendía volver innecesaria."
+          }
+        },
+        {
+          "id": "contemporary-and-investigated",
+          "claim": "Las afirmaciones no se limitan a textos antiguos, y algunas se han examinado en condiciones médicas.",
+          "explanation": "El debate se conduce normalmente como si los informes de milagros fueran todos del siglo I y todos literarios. No lo son. El trabajo de encuesta en diez países sitúa en cientos de millones el número de personas vivas que dicen haber presenciado una curación divina, y los informes son interculturales y no están confinados a una tradición o a un nivel educativo.\n\nEl volumen por sí solo no prueba nada, y nadie serio afirma que lo haga. El argumento es más estrecho: la imagen estándar según la cual las afirmaciones de milagros son un residuo del mundo premoderno que se evapora allí donde llega la medicina es falsa de hecho, y un argumento que se apoye en ella se apoya en algo que no es así.\n\nUn pequeño número de casos se ha examinado además de forma prospectiva, con historiales médicos antes y después, y la oficina de Lourdes es el ejemplo más longevo. Ese proceso acaba casi siempre en «no establecido», que es justamente el punto: es un proceso que puede devolver un no.",
+          "quote": {
+            "text": "cientos de millones de personas afirman hoy haber experimentado milagros",
+            "author": "Craig S. Keener",
+            "work": "Miracles: The Credibility of the New Testament Accounts",
+            "year": "2011",
+            "locator": "the survey chapters; the figure is built from a 2006 ten-country Pew survey of Pentecostal and charismatic experience",
+            "sourceUrl": "https://books.google.com/books/about/Miracles_2_volumes.html?id=oCrSpYJvGakC",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "hundreds of millions of people today claim to have experienced miracles",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Un gran número de afirmaciones es un gran número de afirmaciones. Todas las tradiciones las producen, incluidas tradiciones cuyas doctrinas contradicen al cristianismo, de modo que o los informes establecen conclusiones incompatibles, o establecen que los seres humanos informan de esta clase de experiencia con facilidad en ciertas condiciones. La segunda explicación cubre el conjunto entero de datos y no necesita nada sobrenatural. Donde los casos se han examinado, el hallazgo honesto es «no hay explicación médica disponible», y eso es un enunciado sobre el estado de la medicina.",
+            "objectionFrom": "atheist",
+            "response": "Que los informes se den en todas las tradiciones es un argumento contra que una sola tradición sea dueña del fenómeno, lo cual vale la pena decir y no es el argumento de aquí. Lo que está sobre la mesa es que la base de evidencia es contemporánea y examinable, y «sin explicación disponible tras el examen» es una posición epistémica distinta de «anécdota sin examinar», que es como se suelen archivar estos casos."
+          }
+        }
+      ]
+    },
+    {
+      "label": "La estructura del caso lo derrota antes de que llegue la evidencia",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "testimony-is-the-weaker-side",
+          "claim": "Lo que vuelve poco fiable un testimonio es corriente; lo que un informe de milagro le pide aceptar no lo es.",
+          "explanation": "La máxima de Hume se cita normalmente como una prohibición. Se lee mejor como una instrucción de pesaje con una tesis empírica adjunta: que a un lado está una clase de sucesos sin instancias establecidas, y al otro está el testimonio humano, cuyos modos de fallo —error, exageración, deferencia, piedad, memoria defectuosa, recontado— están abundantemente instanciados y bien entendidos.\n\nLa comparación no está ajustada, y no lo está por una razón que nada tiene que ver con la hostilidad hacia la religión. Un testimonio falso no exige nada nuevo en el mundo. Un milagro exige algo nuevo en el mundo. Ante una elección entre explicaciones, aquella que no necesita entidades nuevas es donde está el peso antes de examinar un solo detalle del caso.\n\nEsa es una posición revisable, y Hume lo dice. Lo que niega es que el detalle de algún caso real haya sido nunca lo bastante fuerte para moverla.",
+          "quote": {
+            "text": "Que ningún testimonio es suficiente para establecer un milagro, a menos que el testimonio sea de tal clase que su falsedad resultara más milagrosa que el hecho que se propone establecer",
+            "author": "David Hume",
+            "work": "An Enquiry concerning Human Understanding, Section X, 'Of Miracles'",
+            "year": "1748",
+            "locator": "Part I; Hume calls it a general maxim worthy of attention",
+            "sourceUrl": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "the-historian-s-version",
+              "label": "La versión metodológica",
+              "heldBy": "Bart D. Ehrman",
+              "oneLine": "La historia es una disciplina que establece qué ocurrió probablemente, y un milagro es por construcción lo menos probable de cualquier lista.",
+              "summary": "Esta versión no afirma nada sobre qué ocurrió o no ocurrió, y eso es lo que la distingue.\n\nEl método histórico produce juicios comparativos: dadas las fuentes, ¿qué reconstrucción es la más probable? Un milagro se define como el suceso que se aparta de todo lo que el método usa como línea de base. Así que nunca puede ser la reconstrucción más probable, no porque los historiadores lo hayan excluido de antemano, sino porque la herramienta mide probabilidad y este es el elemento que está al fondo de la escala.\n\nLa conclusión es correspondientemente modesta: no que no ocurriera ningún milagro, sino que, si ocurrió, la historia es el instrumento equivocado para averiguarlo. Un creyente puede sostener esta posición sin incoherencia, y algunos lo hacen.",
+              "quote": {
+                "text": "Los historiadores solo pueden establecer qué ocurrió probablemente en el pasado, y por definición un milagro es el suceso menos probable",
+                "author": "Bart D. Ehrman",
+                "work": "his standard statement of the historian's problem with miracle, made in print and in debate",
+                "year": "2006",
+                "locator": "the formulation recurs across his debates and his blog; no single canonical page",
+                "sourceUrl": "https://ehrmanblog.org/historians-and-the-problem-of-miracle/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Historians can only establish what probably happened in the past, and by definition a miracle is the least probable occurrence",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que el pesaje de Hume es en realidad una previa de cero disfrazada. Ese cargo no puede hacerse aquí, porque esta versión no asigna previa alguna. Concede que un milagro puede haber ocurrido y dice solo que un método probabilístico no puede ser lo que lo muestre, de modo que una objeción sobre previas coladas no tiene donde agarrarse.",
+              "objection": {
+                "text": "Entonces es verdadera por estipulación y no nos dice nada. Si «histórico» se define como «reconstruible por un método que ordena por probabilidad», la conclusión de que la historia no puede alcanzar un milagro es un hecho sobre la definición y no un hallazgo sobre el pasado. Peor: pone en cuarentena la afirmación más trascendental del campo respecto de la disciplina que la estudia, de modo que un historiador que considerara abrumadora la evidencia de un suceso concreto no tendría manera de decirlo con su voz profesional.",
+                "from": "within",
+                "sharedPremise": "acepta todo el aparato crítico y el carácter probabilístico del juicio histórico, y argumenta desde dentro de ese aparato que un método que en principio no puede devolver un resultado positivo sobre cierta clase de preguntas se ha definido demasiado estrechamente para hacer el trabajo de un método",
+                "response": "Una disciplina tiene derecho a sus instrumentos, y todo instrumento tiene un alcance. Que un historiador no pueda, en cuanto historiador, certificar un milagro no es más extraño que el que un químico no pueda, en cuanto químico, certificar que un cuadro es hermoso."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "La máxima solo veta los milagros si la previa se fija en cero, y Hume no da ningún argumento para eso. Fíjese en cualquier valor finito y un testimonio independiente suficiente lo supera; el punto se hace desde Babbage, y el tratamiento de Earman, de la extensión de un libro, concluye que el argumento de Hume fracasa como probabilidad. Lo que sobrevive no es un principio, sino un juicio caso por caso, que es mucho menos de lo que Hume pretendía.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "La previa no es cero, y no necesita serlo. Necesita ser menor que la probabilidad de que un grupo correlacionado de personas, en una comunidad que esperaba exactamente esto, informara mal de ello en su totalidad; y ese segundo número no es pequeño. Cada instancia que podemos comprobar ha salido del lado del fallo del testimonio."
+          }
+        },
+        {
+          "id": "the-double-burden",
+          "claim": "Hay que mostrar dos cosas, y la evidencia que establece la primera socava la segunda.",
+          "explanation": "Para tener un milagro hay que establecer tanto que el suceso ocurrió como que fue una violación de una ley genuina de la naturaleza, y no solo de lo que hoy tomamos por las leyes. No son dos tareas que apunten en la misma dirección: tiran una contra otra.\n\nLo que hace que un suceso esté bien atestiguado es que encaje en la maquinaria corriente de la evidencia: registros, testigos, rastros, coherencia con el modo en que el mundo funciona. Lo que lo hace milagro es que no encaje. Cuanto mejor se satisface el primer requisito, más se está uno apoyando exactamente en las regularidades que el segundo requisito pide declarar quebradas.\n\nY el segundo requisito es más difícil de lo que suena. Establecer una violación de una ley genuina exige saber cuáles son las leyes, no aproximadamente, sino lo bastante bien para descartar que este suceso caiga bajo una que no hayamos escrito. La física nunca ha estado en esa posición y no pretende estarlo. Así que la descripción honesta de un suceso inexplicado es «inexplicado», y el paso a «acto de Dios» es una [[inferencia a la mejor explicación]] aparte que la evidencia del suceso no suministra.",
+          "quote": {
+            "text": "Donde hay algún testimonio plausible sobre la ocurrencia de lo que parecería un milagro, quienes lo aceptan como milagro tienen la doble carga de mostrar tanto que el suceso tuvo lugar como que violó las leyes de la naturaleza. Pero será muy difícil sostener esa doble carga.",
+            "author": "J. L. Mackie",
+            "work": "The Miracle of Theism",
+            "year": "1982",
+            "locator": "the chapter on miracles and testimony",
+            "sourceUrl": "https://global.oup.com/academic/product/the-miracle-of-theism-9780198246824",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Where there is some plausible testimony about the occurrence of what would appear to be a miracle, those who accept this as a miracle have the double burden of showing both that the event took place and that it violated the laws of nature. But it will be very hard to sustain this double burden.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La segunda carga es un artefacto de definir el milagro como una violación, cosa que la mayoría de los teólogos no hace. Según el relato más antiguo, un milagro es un acto de Dios que obra a través de la naturaleza y no contra ella, de modo que no hay que mostrar que nada se haya quebrado; lo que lo distingue es su momento, su contexto y lo que significa. Según eso, las dos cargas se funden en una —¿ocurrió esto, y es el contexto religioso la mejor explicación de por qué ocurrió entonces?— y la inferencia es de la clase corriente que se usa en todas partes.",
+            "objectionFrom": "theist",
+            "response": "Entonces la palabra no hace ningún trabajo. Si un milagro es compatible con todo lo que la naturaleza hace de todos modos, lo único que lo distingue de una coincidencia afortunada es la interpretación que aporta el observador, y la interpretación es lo que está en disputa. El relato de la violación al menos decía algo que podía ser falso."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Qué certifica realmente Lourdes",
+      "oneLine": "La oficina médica certifica que una curación no tiene explicación médica disponible; el juicio de que fue un milagro se hace después, por la Iglesia, y es un acto aparte.",
+      "text": "El Bureau des Constatations Médicales se creó en 1883 y ha registrado más de siete mil expedientes. Setenta y dos curaciones han sido reconocidas como milagrosas, la más reciente en 2025: aproximadamente un uno por ciento de los expedientes, a lo largo de más de un siglo.\n\nEsa proporción es la cifra interesante, y ambos lados tienden a usarla mal. No es una tasa de aciertos de la intervención divina, porque el denominador son personas autoseleccionadas que viajaron a Lourdes e informaron de sentirse mejor. Tampoco es evidencia de que el proceso sea un trámite: un procedimiento que rechaza noventa y nueve casos de cada cien está haciendo algo, y críticos de dentro de la oficina han sostenido que sigue siendo demasiado permisivo y no demasiado estricto.\n\nConviene mantener separados los dos pasos, porque los argumentos de ambos lados los funden. El hallazgo médico es «no hay explicación disponible para nosotros». El hallazgo eclesiástico es «esto fue un milagro». Nada del primero implica el segundo, y la oficina no pretende que lo haga."
+    },
+    {
+      "heading": "Hume escribió dos argumentos, no uno",
+      "oneLine": "La parte I sostiene que el testimonio no puede en principio establecer un milagro; la parte II sostiene que ningún informe real se ha acercado nunca, y casi todo lo que se cita como «el argumento de Hume» es de la parte II.",
+      "text": "La sección X de la Investigación se divide por la mitad. La parte I es la máxima y el pesaje: un argumento sobre qué podría hacer en principio una evidencia. La parte II son cuatro tesis empíricas: que ningún milagro ha sido atestiguado por suficientes testigos instruidos y de integridad incuestionable, que los seres humanos se sienten atraídos por lo maravilloso, que tales informes se agrupan entre lo que Hume llama naciones ignorantes y bárbaras, y que los milagros de religiones rivales se cancelan unos a otros.\n\nLas dos partes fracasan y triunfan de forma independiente, y por eso el debate discurre tan a menudo en paralelo. La crítica de Earman va dirigida casi enteramente a la parte I y concluye que el principio no funciona. La de Keener va dirigida casi enteramente a la parte II y sostiene que las tesis empíricas son falsas, en particular la tercera. Alguien puede estar de acuerdo con las dos y seguir sosteniendo que ningún informe concreto de milagro ha quedado establecido.\n\nLa cuarta tesis —que los informes de religiones rivales se cancelan— es la que mejor ha envejecido, y no es realmente una tesis sobre el testimonio. Es el argumento que aparece en este sitio bajo la pregunta de por qué el cristianismo y no cualquier otra religión."
+    }
+  ],
+  "whereItStands": "La cuestión de principio se ha movido, y se ha movido contra Hume. La literatura técnica desde los años noventa coincide en buena medida en que el argumento de la parte I no funciona tal como está enunciado: una previa finita puede superarse con suficiente evidencia independiente, y Hume no tenía ningún argumento para que la previa fuera cero. Ese no es un resultado teológico —Earman, cuyo libro es su formulación estándar, no está defendiendo los milagros— y lo aceptan filósofos de ambos lados.\n\nLo que no se ha movido es la cuestión aplicada, y la razón es el requisito de independencia. La aritmética que derrota a la parte I exige testigos cuyos errores no estén correlacionados, y los casos que importan religiosamente son exactamente aquellos en los que los testigos compartían comunidad, un conjunto de expectativas y muchísima conversación antes de que se escribiera nada. Nadie ha producido un caso que pase el listón y que ambos lados reconozcan como pasado.\n\nAsí que la situación tras dos siglos es inusual: se considera ampliamente que el argumento famoso fracasa, y la conclusión que debía respaldar está más o menos donde estaba. Ambos lados pueden citar con exactitud el estado de la literatura y llegar a sitios opuestos, porque están citando mitades distintas de ella.",
+  "commonMistake": "Los cristianos tratan casi siempre el derrumbe de la parte I de Hume como si fuera evidencia de un milagro. No lo es. Retira una barrera y deja el caso exactamente donde lo pone la evidencia propia del caso, que es la posición que el argumento debía mejorar.\n\nLos ateos citan casi siempre la máxima como una regla que zanja el asunto, sin notar que es una comparación con dos lados y que su autor pretendía que los argumentos empíricos de la parte II hicieran la mayor parte del trabajo. Citar la parte I como una prohibición atribuye a Hume una tesis más fuerte de la que hizo y una que hoy se considera en general fallida.\n\nAmbos lados usan «las afirmaciones extraordinarias exigen evidencia extraordinaria» como si fuera un argumento. Es la máxima de Hume reformulada, con la misma pregunta abierta: cuánto es extraordinario, y qué podría suministrarlo.",
+  "sources": [
+    {
+      "title": "An Enquiry concerning Human Understanding (Investigación sobre el entendimiento humano), sección X: de los milagros",
+      "author": "David Hume",
+      "year": "1748",
+      "url": "https://www.gutenberg.org/files/9662/9662-h/9662-h.htm",
+      "note": "El texto primario, completo y gratuito. Las partes I y II están claramente marcadas."
+    },
+    {
+      "title": "Miracles",
+      "author": "Stanford Encyclopedia of Philosophy",
+      "year": "2019",
+      "url": "https://plato.stanford.edu/entries/miracles/",
+      "note": "El mejor panorama de la disputa definicional y de la literatura bayesiana sobre el testimonio."
+    },
+    {
+      "title": "Hume's Abject Failure: The Argument Against Miracles",
+      "author": "John Earman",
+      "year": "2000",
+      "url": "https://academic.oup.com/book/26135",
+      "note": "La formulación estándar de la tesis de que la parte I fracasa como probabilidad. Earman no defiende los milagros."
+    },
+    {
+      "title": "The Ninth Bridgewater Treatise, Appendix Note E",
+      "author": "Charles Babbage",
+      "year": "1838",
+      "url": "https://victorianweb.org/science/science_texts/bridgewater/appendixe.html",
+      "note": "La réplica del testigo independiente a Hume, siglo y medio antes de que la literatura bayesiana la reformulara."
+    },
+    {
+      "title": "Miracles: The Credibility of the New Testament Accounts",
+      "author": "Craig S. Keener",
+      "year": "2011",
+      "url": "https://books.google.com/books/about/Miracles_2_volumes.html?id=oCrSpYJvGakC",
+      "note": "Dos volúmenes, en su mayor parte un panorama de informes contemporáneos. El argumento va contra la parte II de Hume, no contra la parte I."
+    },
+    {
+      "title": "The Miracle of Theism",
+      "author": "J. L. Mackie",
+      "year": "1982",
+      "url": "https://global.oup.com/academic/product/the-miracle-of-theism-9780198246824",
+      "note": "El capítulo 1, sobre milagros y testimonio, enuncia el argumento de la doble carga."
+    },
+    {
+      "title": "Las curaciones reconocidas",
+      "author": "Sanctuaire Notre-Dame de Lourdes",
+      "year": "2025",
+      "url": "https://www.lourdes-france.com/en/day-pilgrims/the-miracles/",
+      "note": "La lista del propio santuario, con el recuento y el procedimiento."
+    }
+  ]
+}
