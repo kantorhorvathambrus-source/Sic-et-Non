@@ -1,0 +1,388 @@
+{
+  "id": "objective-morality",
+  "number": 10,
+  "slug": "moral-objetiva",
+  "title": "¿Puede haber una moral objetiva sin Dios?",
+  "category": "morality",
+  "status": "open",
+  "realQuestion": "Torturar a un niño para divertirse está mal. No es que se desapruebe, ni que sea contraproducente: está mal, y lo habría estado aunque todos los vivos lo hubieran aprobado.\n\nLa pregunta es qué hace que eso sea verdad, y la razón de que esta discusión salga mal tan a menudo es que ninguno de los dos lados tiene una sola respuesta. Los cristianos discrepan entre sí sobre si la moral se funda en los mandatos de Dios (la [[teoría del mandato divino]]), en las naturalezas que él hizo (la [[ley natural]]) o en ninguna de las dos cosas; los ateos discrepan entre sí sobre si el [[realismo moral]] es verdadero en absoluto. Así que una objeción dirigida a una versión pasa de largo rutinariamente junto a la persona a la que va dirigida, que sostiene otra.\n\nAquí se exponen ambos lados con sus divisiones internas a la vista, porque esas divisiones son lo que decide si una objeción cualquiera ha dado en algo.",
+  "distinctions": [
+    {
+      "label": "¿Puede alguien ser bueno sin creer en Dios?",
+      "gloss": "Sí, y ningún participante serio lo niega. Es una cuestión de psicología y no de fundamentación, y confundir las dos es el fallo más común de esta discusión. Se deja aparte.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Exige la moral objetiva a Dios?",
+      "gloss": "Es el argumento de esta página: si hace falta el teísmo para dar cuenta de los hechos morales, y qué le ocurre al argumento si resulta que no hay ninguno.",
+      "activeHere": true
+    },
+    {
+      "label": "¿Qué teoría metaética es verdadera en realidad?",
+      "gloss": "Una cuestión mucho mayor, y no esta. Varias de las posiciones de abajo podrían ser correctas sin resolver si Dios es necesario: la página pregunta solo por esa dependencia y toma a cada posición por su palabra en lo demás. Se deja aparte.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "realismo moral",
+      "definition": "La tesis de que algunas afirmaciones morales son verdaderas con independencia de lo que alguien piense o sienta. La sostienen la mayoría de las posiciones de esta página, aunque no todas."
+    },
+    {
+      "term": "teoría del mandato divino",
+      "definition": "El relato según el cual las obligaciones morales están constituidas por los mandatos de Dios. La versión moderna añade que la naturaleza misma de Dios limita lo que puede mandar."
+    },
+    {
+      "term": "ley natural",
+      "definition": "La alternativa cristiana más antigua, de Tomás de Aquino: lo que es bueno para una criatura se sigue de la clase de criatura que es, de modo que la moral se funda en naturalezas y es cognoscible por la razón."
+    },
+    {
+      "term": "teoría del error",
+      "definition": "La tesis de Mackie según la cual las afirmaciones morales corrientes afirman valores objetivos, no hay ninguno, y por tanto nuestro lenguaje moral es sistemáticamente falso y no meramente subjetivo."
+    },
+    {
+      "term": "desacreditación evolutiva",
+      "definition": "El argumento de que si nuestras actitudes valorativas fueron moldeadas por selección para la aptitud y no para la verdad, no tenemos ningún relato de por qué habrían de seguir la pista de los hechos morales, sean esos hechos cuales sean."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Una obligación se le debe a alguien, y a las partículas no se les debe nada",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "duties-need-a-commander",
+          "claim": "Un deber es algo que se debe, y deber es una relación entre personas",
+          "explanation": "El relato cristiano más conocido distingue dos cosas que suelen ir juntas. Los valores tratan de lo que es bueno; los deberes, de lo que hay que hacer. La versión de Robert Adams, que es la forma seria, funda lo primero en la naturaleza de Dios —Dios es el patrón al que se parecen los bienes finitos— y lo segundo en sus mandatos.\n\nLa fuerza está en la segunda mitad. A uno le pueden decir que la crueldad es mala y preguntar con razón por qué eso le obliga. Un requerimiento moral tiene la estructura de una exigencia, y una exigencia la hace alguien. Esa es la versión del argumento que casi todo el mundo encuentra, y no es la única que los cristianos sostienen: abajo se exponen dos alternativas, y fundan la obligación en algo distinto de un mandato.",
+          "quote": {
+            "text": "Si Dios no existe, los valores morales objetivos no existen.",
+            "author": "William Lane Craig",
+            "work": "the first premise of the moral argument, as Craig states it",
+            "year": "2008",
+            "locator": "Craig defines 'objective' as 'valid and binding independently of whether anybody believes in it or not'",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If God does not exist, objective moral values do not exist.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "divine-command",
+              "label": "Mandato divino",
+              "heldBy": "Robert Adams, Philip Quinn, C. Stephen Evans, William Lane Craig",
+              "oneLine": "Las obligaciones están constituidas por los mandatos de Dios; su naturaleza limita lo que puede mandar, de modo que no son arbitrarias.",
+              "summary": "El argumento principal de arriba en su forma moderna desarrollada. La versión de Ockham —lo correcto es correcto porque está mandado, y Dios podría haber mandado la crueldad— tiene pocos defensores actuales. La teoría modificada de Adams reparte el trabajo: el bien se funda en la naturaleza de Dios, que él no elige, y la obligación se funda en los mandatos de un Dios que es amoroso por naturaleza. Eso es lo que se supone que responde al dilema del Eutifrón sin conceder un patrón por encima de Dios.",
+              "quote": {
+                "text": "puesto que nuestros deberes morales están constituidos por los mandatos de Dios, lo que Él manda es justo y recto",
+                "author": "William Lane Craig",
+                "work": "Slaughter of the Canaanites (Question of the Week)",
+                "year": "2007",
+                "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "since our moral duties are constituted by God's commands, what He commands is just and right",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "No la cambia. Esta es la versión contra la que se construye la objeción de arriba, y a la que alcanza: si la obligación está constituida por un mandato, la pregunta de por qué está uno obligado a obedecer tiene que responderse sin apelar a otro mandato. Todo lo que sigue abajo es una manera de no estar en esa situación."
+            },
+            {
+              "id": "natural-law",
+              "label": "Ley natural",
+              "heldBy": "Tomás de Aquino; John Finnis, Edward Feser; la enseñanza moral católica",
+              "oneLine": "El bien de una criatura se sigue de la clase de criatura que es, de modo que la moral se funda en naturalezas y es alcanzable por la razón sin revelación.",
+              "summary": "El relato más antiguo y, a lo largo de la historia cristiana, el más extendido. La obligación no la impone un decreto, sino que se sigue de para qué es una cosa: la razón aprehende que ciertos fines son buenos para un ser de esta clase, y el primer precepto de la razón práctica se sigue de esa aprehensión y no de una instrucción.\n\nUna consecuencia importa para esta página. Según la ley natural, un ateo puede conocer perfectamente el contenido de la moral, porque se lee en las naturalezas y no en la revelación; por eso la tradición nunca ha tenido dificultad en decir que los no creyentes distinguen el bien del mal.",
+              "quote": {
+                "text": "el bien ha de hacerse y buscarse, y el mal ha de evitarse. Todos los demás preceptos de la ley natural se fundan en esto",
+                "author": "Tomás de Aquino",
+                "work": "Summa Theologiae, I-II q.94 a.2",
+                "year": "c. 1270",
+                "locator": "the first precept of the natural law",
+                "sourceUrl": "https://www.newadvent.org/summa/2094.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "good is to be done and pursued, and evil is to be avoided. All other precepts of the natural law are based upon this",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La regresión no puede arrancar. No hay ningún mandato cuya autoridad necesite una obligación previa de obedecer, porque la obligación se sigue de lo que una criatura es y no de lo que se le ha dicho. El dilema del Eutifrón pierde también el agarre aquí: Dios no consulta un patrón externo ni elige uno, porque es el autor de las naturalezas en las que se lee el patrón.",
+              "objection": {
+                "text": "Si el bien de una criatura se sigue de la clase de criatura que es, el relato funciona sin Dios; y su forma moderna más desarrollada es atea. Philippa Foot construyó exactamente esta estructura en Natural Goodness, tomando el relato tomista de las virtudes como aplicable a los no creyentes, y Rosalind Hursthouse lo ha desarrollado más; en ambas, el defecto moral es defecto natural, y el teísmo no entra en ningún punto. Eso no refuta la ley natural. Socava el uso que aquí se hace de ella, porque una página que sostiene que la moral exige a Dios no puede apoyarse en el único relato teísta cuya maquinaria es demostrablemente separable del teísmo.",
+                "from": "within",
+                "sharedPremise": "acepta por completo la premisa de la ley natural —que lo bueno para una criatura se sigue de la clase de criatura que es, y que la razón puede leerlo en ella— y argumenta solo desde esa premisa que la ética resultante está completa sin añadirle a Dios.",
+                "response": "Las naturalezas no se explican por sí solas. El relato dice qué es bueno para un humano sin decir por qué hay criaturas con esa naturaleza, ni por qué su florecimiento es algo de lo que el universo responde, y esas son las preguntas que el teísta responde."
+              }
+            },
+            {
+              "id": "concurrentism",
+              "label": "Concurrentismo moral",
+              "heldBy": "Mark C. Murphy",
+              "oneLine": "Ni mandatos ni naturalezas por sí solos: los hechos sobre Dios y los hechos sobre las criaturas cooperan, y la necesidad moral es la atracción de la bondad divina especificada por lo que uno es.",
+              "summary": "El más reciente de los tres, y existe porque su autor cree que los otros dos fracasan como explicaciones. Murphy sostiene que la teoría del mandato divino no puede dar cuenta de por qué obligan los mandatos de Dios, y que la ley natural no mantiene a Dios dentro de la explicación en absoluto: una teoría en la que la ley moral sería exactamente la misma existiera Dios o no no es una explicación teísta de la moral, por mucho que sus partidarios lo pretendan.\n\nSu alternativa pone a las dos cosas haciendo trabajos distintos a la vez: la bondad de Dios aporta la atracción, y la naturaleza de la criatura determina qué le exige esa atracción.",
+              "quote": {
+                "text": "toda necesidad moral es la atracción de la bondad divina especificada por la naturaleza de las criaturas implicadas",
+                "author": "Mark C. Murphy",
+                "work": "God and Moral Law: On the Theistic Explanation of Morality",
+                "year": "2011",
+                "locator": "the thesis of moral concurrentism, quoted in the Notre Dame Philosophical Reviews notice",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "all moral necessity is the pull of divine goodness specified by the nature of the creatures involved",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción tiene que encontrar un mandato sobre el que regresar, y no hay ninguno: lo que necesita es una atracción, no una instrucción, de modo que preguntar por qué hay que obedecerla es como preguntar por qué hay que encontrar bueno el bien. Lo que la objeción puede hacer en cambio es presionar en el otro sentido: si una «atracción» que no requiere reconocimiento hace algún trabajo que las naturalezas no hicieran ya.",
+              "objection": {
+                "text": "El propio criterio de Murphy es que un relato teísta de la moral tiene que hacer que el papel de Dios sea explicativo y no decorativo, y la objeción es que el suyo no lo pasa. Si las naturalezas hacen toda la especificación —si lo que hay que hacer lo fija enteramente lo que uno es—, entonces la «atracción de la bondad divina» no aporta contenido, y un universo sin ella contendría las mismas obligaciones. Una explicación que no cambia nada de lo explicado es una añadidura, no un relato.",
+                "from": "atheist",
+                "response": "La atracción aporta la necesidad y no el contenido: las naturalezas determinan qué se exige, y la bondad es por qué se exige algo en absoluto. Son trabajos distintos, y la objeción los confunde."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Si una obligación está constituida por un mandato, que a uno le manden algo lo vuelve obligatorio solo si uno ya está obligado a hacer lo que se le manda. Esa obligación previa no puede estar ella misma constituida por un mandato sin arrancar otra vez la regresión, de modo que tiene que venir de otro sitio; y, una vez que otra cosa puede generar una obligación, el relato ha concedido lo que estaba sosteniendo. Esta no es la objeción del ateo: es la objeción permanente que se hace dentro del teísmo por quienes fundan la moral en otra parte.",
+            "objectionFrom": "within",
+            "sharedPremise": "acepta que Dios existe, que es bueno y que los hechos morales son reales, y argumenta solo desde esas premisas que las obligaciones no pueden estar constituidas por mandatos, porque obedecer un mandato es obligatorio solo dada una obligación previa de obedecer, premisa que el teórico del mandato divino concede.",
+            "landsOn": [
+              "divine-command"
+            ],
+            "response": "La obligación previa no es otro mandato, sino un rasgo de la relación: una criatura está respecto de su creador como un hijo respecto de un padre, y la obligación de atender es parte de lo que esa relación es, no una regla dentro de ella."
+          }
+        },
+        {
+          "id": "why-would-we-track-them",
+          "claim": "En el naturalismo, el sentido moral se construyó para sobrevivir, no para acertar sobre la verdad moral",
+          "explanation": "Esta es la mitad epistemológica, y apunta a la posición más fuerte del otro lado y no a una débil. Concédase que hay hechos morales objetivos que se sostienen por sí mismos. Pregúntese ahora cómo llegaron criaturas como nosotros a conocer alguno.\n\nNuestras respuestas morales fueron moldeadas por la selección, y la selección premia lo que funciona, no lo que es verdadero. Una tendencia a proteger a sus hijos resulta favorecida haya o no un hecho independiente de la mente según el cual usted deba hacerlo. Este es el argumento de la [[desacreditación evolutiva]] puesto al servicio del teísta: el realista naturalista tiene creencias cuya fiabilidad no puede explicar, mientras que un teísta sí puede, porque de unas facultades hechas por un ser moral cabría esperar que siguieran la pista de la realidad moral.",
+          "quote": {
+            "text": "El naturalista tiene que sostener que las facultades morales humanas fueron moldeadas por la selección en favor de la aptitud reproductiva y no para seguir la pista de una verdad moral independiente de la mente, y por tanto no tiene relato alguno de su fiabilidad; el teísta, que toma esas facultades como creadas por un Dios bueno, sí lo tiene.",
+            "author": "Mark D. Linville",
+            "work": "The Moral Argument, in The Blackwell Companion to Natural Theology",
+            "year": "2009",
+            "locator": "our summary of the evolutionary argument against naturalistic moral realism, pp. 391-448; not Linville's wording. At the top of VERIFICATION.md for a primary check",
+            "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The naturalist must hold that human moral faculties were shaped by selection for reproductive fitness rather than for tracking mind-independent moral truth, and so has no account of their reliability; the theist, taking those faculties to be created by a good God, does.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "El argumento corta contra quien lo usa. Si la selección moldeó nuestras facultades morales, las moldeó exista Dios o no: Dios habría tenido que trabajar mediante el mismo proceso, de modo que el teísta hereda el relato idéntico de cómo llegaron las creencias y solo ha añadido una esperanza sobre a dónde iba. Y el desafío de la fiabilidad tiene una respuesta disponible: si algunas verdades morales son necesarias, entonces cualquier proceso que produzca creencias sobre la cooperación, el daño y la equidad producirá creencias verdaderas, no por suerte, sino porque esas verdades no podrían haber sido de otro modo.",
+            "objectionFrom": "atheist",
+            "response": "Esa réplica necesita que las verdades necesarias coincidan con lo que resultaba adaptativo, que es la coincidencia a la que el argumento apuntaba y no una explicación de ella."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Poner una persona debajo no añade nada",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "no-maker-needed",
+          "claim": "Las verdades morales, si hay alguna, no necesitan más hacedor que las matemáticas",
+          "explanation": "La respuesta atea más conocida no es que la moral sea un invento ni una cuestión de sentimiento. Es que hay verdades normativas objetivas, que no son reducibles a hechos naturales y que se sostienen sin que nada las haya hecho así: el mismo estatuto que el teísta siempre ha estado dispuesto a conceder a Dios.\n\nEl argumento es de paridad. El teísta se detiene en un ser cuya bondad no la explica nada ulterior; el realista se detiene un paso antes, en las verdades mismas. Ninguno puede decir por qué su punto de detención está ahí, y solo a uno se lo acusa de dejar algo fuera. La versión de Derek Parfit añade un giro que afila la paridad: las verdades son reales y objetivas sin cargar con ningún peso ontológico, de modo que no hay nada extra en el universo de lo que el teísta pueda exigir cuentas.\n\nLos ateos se dividen aquí, y las divisiones importan más que el acuerdo: una de las versiones de abajo es una [[teoría del error]] que niega que haya hechos morales, y concede la primera premisa del teísta.",
+          "quote": {
+            "text": "hay algunas afirmaciones que son irreduciblemente normativas en el sentido que implica razones, y que son verdaderas en un sentido fuerte. Estas verdades no tienen implicaciones ontológicas.",
+            "author": "Derek Parfit",
+            "work": "On What Matters, volume II",
+            "year": "2011",
+            "locator": "the position Parfit calls Non-Metaphysical Non-Naturalist Normative Cognitivism",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "there are some claims that are irreducibly normative in the reason-involving sense, and are in a strong sense true. These truths have no ontological implications.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "robust-realism",
+              "label": "Realismo no natural robusto",
+              "heldBy": "David Enoch, Erik Wielenberg, Russ Shafer-Landau",
+              "oneLine": "Hay hechos irreduciblemente normativos, independientes de la voluntad de cualquiera, y son tan reales como el Dios del teísta.",
+              "summary": "La versión de plena potencia del argumento principal, y la que asume más compromiso metafísico en lugar de menos. Donde Parfit intenta conservar la objetividad sin ontología, Enoch y Wielenberg aceptan la ontología y la defienden: hay realmente propiedades morales no naturales ahí fuera, y la incomodidad de eso es el precio de tomarse en serio la moral.\n\nWielenberg presiona el punto de la paridad con más fuerza, al sostener que un teísta que acepta hechos necesarios brutos sobre la naturaleza de Dios no está en posición de objetar a hechos necesarios brutos sobre la bondad.",
+              "quote": {
+                "text": "hay verdades y hechos irreduciblemente normativos … [y] son independientes de nosotros, de nuestros deseos y de nuestra voluntad (o de la de cualquier otro)",
+                "author": "David Enoch",
+                "work": "Taking Morality Seriously: A Defense of Robust Realism",
+                "year": "2011",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/taking-morality-seriously-a-defense-of-robust-realism/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "there are irreducibly normative truths and facts … [they] are independent of us, our desires and our (or anyone else's) will",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "No la cambia. Esta es la versión contra la que se construye la objeción de la desacreditación y a la que alcanza más directamente: unos hechos causalmente inertes e independientes de nosotros son exactamente aquellos cuyo seguimiento resulta más difícil de explicar. Las dos posiciones de abajo son maneras de no cargar con hechos de esa clase."
+            },
+            {
+              "id": "naturalist-realism",
+              "label": "Realismo naturalista",
+              "heldBy": "Sam Harris; los realistas de Cornell: Richard Boyd, Peter Railton, Nicholas Sturgeon",
+              "oneLine": "Los hechos morales son hechos naturales —sobre el bienestar, el florecimiento, lo que sufren las criaturas conscientes—, de modo que son objetivos y descubribles del modo corriente.",
+              "summary": "Esta versión rechaza la ontología no natural y el misterio que la acompaña. Si las afirmaciones morales son en último término afirmaciones sobre el bienestar de las criaturas conscientes, entonces son verdaderas o falsas como lo son las afirmaciones sobre la salud, y no hace falta ninguna facultad especial de percepción moral para alcanzarlas.\n\nEs la posición más popular fuera de la filosofía y de las más discutidas dentro de ella: la objeción estándar, desde Moore, es que cualquier identificación de la bondad con una propiedad natural deja abierto preguntar si esa propiedad es buena, que no es una pregunta que pueda hacerse de una identidad genuina.",
+              "quote": {
+                "text": "Las preguntas sobre los valores … son en realidad preguntas sobre el bienestar de las criaturas conscientes.",
+                "author": "Sam Harris",
+                "work": "The Moral Landscape: How Science Can Determine Human Values",
+                "year": "2010",
+                "sourceUrl": "https://www.samharris.org/books/the-moral-landscape",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Questions about values … are really questions about the well-being of conscious creatures.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "El argumento de la desacreditación tiene que reformularse y pierde buena parte de su fuerza. Si los hechos morales son hechos naturales sobre qué daña y qué ayuda a criaturas como nosotros, entonces una facultad seleccionada para detectar el daño y la ayuda a criaturas como nosotros les sigue la pista por construcción, y no hay coincidencia que explicar. Lo que la objeción puede seguir presionando es si la identificación es correcta, pero eso es la pregunta abierta de Moore y no un argumento de desacreditación."
+            },
+            {
+              "id": "error-theory",
+              "label": "Teoría del error",
+              "heldBy": "J. L. Mackie; Richard Joyce",
+              "oneLine": "Las afirmaciones morales corrientes sí afirman valores objetivos, no hay ninguno, y por tanto el lenguaje moral es sistemáticamente falso: no subjetivo, falso.",
+              "summary": "La posición que más a menudo se omite en esta discusión, y la que más la cambia. Mackie coincide con el teísta sobre qué significa el lenguaje moral y sobre qué haría falta para que fuera verdadero: tendría que haber realmente valores objetivos, y serían entidades muy extrañas, distintas de todo lo que conocemos. Y luego niega que haya ninguno.\n\nConviene decir con claridad qué le hace eso al argumento moral. La forma habitual dice: si Dios no existe, los valores morales objetivos no existen; los valores morales objetivos existen; por tanto Dios existe. Mackie acepta la primera premisa y niega la segunda. Es el ateo que concede el condicional del teísta, y por eso una objeción construida para defender la segunda premisa pasa de largo junto a él.",
+              "quote": {
+                "text": "No hay valores objetivos.",
+                "author": "J.L. Mackie",
+                "work": "Ethics: Inventing Right and Wrong",
+                "year": "1977",
+                "locator": "the opening sentence of chapter 1, 'The Subjectivity of Values'",
+                "sourceUrl": "https://spot.colorado.edu/~heathwoo/readings/mackie.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "There are no objective values.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "No le queda nada que hacer. Un argumento de desacreditación muestra que nuestras creencias morales no las explican hechos morales; el teórico del error está de acuerdo, y lo dice desde 1977. Dirigida aquí, la objeción no es una refutación, sino un reenunciado de la posición; y el teísta que la usa tiene que cambiar a otro argumento por completo, uno a favor de la existencia de los hechos morales que Mackie niega.",
+              "objection": {
+                "text": "El argumento de la rareza prueba más de lo que su autor quería. Si no debemos creer en valores objetivos porque serían metafísicamente extraños y exigirían una facultad rara para detectarlos, lo mismo vale de las razones epistémicas: los hechos sobre qué debe usted creer dada su evidencia. El argumento de los compañeros de culpa de Terence Cuneo presiona exactamente ahí: una teoría del error sobre la moral le compromete a una teoría del error sobre las razones, y entonces la teoría del error misma no es algo para lo que tenga usted razón alguna. Hay además la cuestión práctica de qué hace un teórico del error cuando sigue emitiendo juicios morales, que Richard Joyce responde con un ficcionalismo que la mayoría de sus críticos consideran una concesión.",
+                "from": "both",
+                "response": "El paralelo puede aceptarse. Joyce y otros teóricos del error han asumido el caso epistémico y han argumentado la posición hasta el final, que es más de lo que la mayoría de los argumentos de compañeros de culpa esperan de su objetivo."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Si nuestras actitudes valorativas fueron moldeadas por la selección, y la selección es indiferente a la verdad normativa, entonces el realista se enfrenta a un dilema: o esas actitudes no guardan relación con las verdades independientes, en cuyo caso no hay razón para pensar que las nuestras sean las acertadas, o el realista debe un relato del seguimiento que la independencia de las verdades vuelve muy difícil de dar. Esta no es una objeción teísta: se hace desde el naturalismo, contra otros naturalistas, y es el desafío más citado al realismo ateo de los últimos veinte años.",
+            "objectionFrom": "within",
+            "sharedPremise": "acepta el naturalismo y el relato evolutivo de la procedencia de nuestras actitudes valorativas, y argumenta solo desde esas premisas que un realista que tome las verdades morales como independientes de nosotros sigue debiendo un relato de por qué nuestras actitudes habrían de seguirles la pista.",
+            "landsOn": [
+              "robust-realism",
+              "naturalist-realism"
+            ],
+            "response": "El relato del seguimiento está disponible si algunas verdades morales son necesarias: un proceso que produce creencias sobre el daño, la equidad y la cooperación produce creencias verdaderas porque esas verdades no podrían haber sido de otro modo, no porque apuntara a ellas."
+          }
+        },
+        {
+          "id": "euthyphro",
+          "claim": "O los mandatos de Dios siguen la pista de algo ya bueno, o la bondad es lo que él mande",
+          "explanation": "Sócrates hizo la pregunta hace dos mil quinientos años y nunca se ha retirado. Tómese cualquier cosa que Dios mande. O la manda porque es buena, en cuyo caso su bondad es independiente de él; o es buena porque él la manda, en cuyo caso cualquier cosa podría haber sido buena.\n\nLa respuesta habitual es que la naturaleza misma de Dios es el patrón, de modo que la elección es falsa. La réplica es que eso traslada el dilema: o la naturaleza de Dios es buena según un patrón, o «bueno» significa simplemente «como Dios», lo cual hace que «Dios es bueno» no diga nada.",
+          "quote": {
+            "text": "¿Es lo pío amado por los dioses porque es pío, o es pío porque es amado por los dioses?",
+            "author": "Platón",
+            "work": "Euthyphro",
+            "year": "c. 399 BC",
+            "locator": "10a; Socrates to Euthyphro",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La tercera opción no es una escapatoria y es más antigua que la objeción que se le hace. La bondad se identifica con la naturaleza de Dios, que no es una elección arbitraria ni un patrón externo que él consulte, porque una naturaleza no es algo que nadie seleccione. Que «Dios es bueno» pase entonces a ser algo así como un enunciado de identidad no es un defecto: «el agua es H₂O» es poco informativo del mismo modo y no por ello está vacío. Y el dilema no tiene agarre alguno en la versión de la ley natural de arriba, donde la cuestión nunca fue qué manda Dios.",
+            "objectionFrom": "theist",
+            "response": "La identidad funciona solo si podemos reconocer la bondad de forma independiente, que es lo que nos permite decir que la identidad se cumple en lugar de estipularla; y ese reconocimiento es el patrón independiente que el teísta decía que no había."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "El hueco de Hume, que ambos lados reclaman",
+      "oneLine": "El hueco de Hume entre lo que es y lo que debe ser es un problema para toda posición de esta página, y por eso casi todas acaban postulando algo fundamental en lugar de derivarlo.",
+      "text": "Hume observó que los argumentos se deslizan sin avisar de enunciados sobre lo que es a enunciados sobre lo que debe ser, y que el paso nunca se justifica. Ambos lados lo citan contra el otro, y a ambos les corresponde.\n\nContra el naturalista: ningún conjunto de hechos sobre el bienestar o el florecimiento suma una obligación sin una premisa que ya contenga una. Contra el teísta: ningún conjunto de hechos sobre qué es Dios o qué manda suma tampoco una obligación sin una premisa de que uno debe hacer lo que Dios manda; y esa premisa no puede venir de otro mandato sin dar vueltas, que es la objeción impresa más arriba. El hueco es un problema para quien derive la moral de cualquier cosa, y por eso casi toda posición de esta página acaba postulando algo fundamental en lugar de derivarlo. La excepción es el teórico del error, que no tiene nada que postular."
+    },
+    {
+      "heading": "Tres cosas que puede significar «objetivo»",
+      "oneLine": "Casi todo el diálogo cruzado de aquí es la palabra «objetivo» haciendo tres trabajos distintos, y conviene preguntar a cuál se refiere cada uno.",
+      "text": "Casi todo el diálogo cruzado de esta discusión es una palabra haciendo tres trabajos. Puede significar *no es cuestión de opinión*: los nazis se equivocaban aunque pensaran otra cosa. Puede significar *independiente de la mente*: verdadero exista o no alguna mente. Puede significar *fundado en algo fuera del mundo natural*.\n\nLo primero lo concede aquí todo el mundo salvo el teórico del error, que lo niega y lo dice. Lo segundo es donde está casi todo el desacuerdo. Lo tercero es una tesis teísta, y suponerlo discretamente es lo que hace que el argumento parezca circular visto desde fuera: si «objetivo» significa «fundado fuera de la naturaleza», entonces «la moral objetiva exige algo fuera de la naturaleza» es verdadero por definición y no prueba nada. Cuando un intercambio no va a ninguna parte, suele valer la pena preguntar cuál de los tres está usando cada uno."
+    }
+  ],
+  "whereItStands": "Ambas posiciones las sostiene gente seria y ninguna está cerca de derrumbarse. Entre los filósofos en su conjunto, el realismo moral es la tesis mayoritaria y el teísmo no, lo cual significa que la mayoría de los realistas morales son ateos, un hecho que juega contra la tesis de que la combinación sea inestable, aunque es un recuento de cabezas y no un argumento.\n\nDonde el argumento se ha movido de verdad es en la mitad epistemológica. La disputa metafísica ha estado estática mucho tiempo, con casi toda posición postulando algo fundamental y ninguna capaz de justificar detenerse donde se detiene. Pero la pregunta de cómo llegaron unas criaturas evolucionadas a conocer verdades morales ha generado trabajo real en los últimos veinte años, y la versión más dañina de ese desafío la hace un ateo contra otros ateos. Los libros de Wielenberg son en buena medida una respuesta a él.\n\nLo que no está en disputa, y se informa mal constantemente, es si los ateos pueden ser morales. Nadie en esta discusión piensa lo contrario, incluidos quienes hacen la versión más fuerte del caso teísta; y la tradición de la ley natural tiene un relato positivo de por qué pueden.",
+  "commonMistake": "Los cristianos dejan casi siempre que el argumento se deslice de «el ateísmo no puede fundar la moral» a «los ateos no tienen moral», que es otra tesis, es falsa y la refuta cualquier no creyente decente al que el oyente conozca. El segundo error más común es tratar la teoría del mandato divino como la posición cristiana, cuando la respuesta más antigua y más extendida de la tradición es la ley natural, que funda la moral en naturalezas y espera que los no creyentes distingan perfectamente el bien del mal.\n\nLos ateos responden casi siempre con un relato de la procedencia de nuestros sentimientos morales —la evolución, la cultura, la empatía— como si eso abordara la pregunta. No lo hace: una explicación de por qué creemos que la crueldad es mala es compatible con que lo sea y con que no. Y la versión de la posición atea que más se defiende en público es una que Mackie dedicó un libro a negar, lo cual conviene saber antes de defenderla.\n\nAmbos lados tratan además su propio punto de detención como razonable y el del otro como arbitrario. Dios, incausado y bueno por naturaleza, y los hechos morales, incausados y verdaderos por necesidad, son el mismo movimiento hecho en dos sitios.",
+  "sources": [
+    {
+      "title": "The Moral Argument for God",
+      "author": "William Lane Craig",
+      "url": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
+      "note": "La exposición del argumento por Craig mismo y de qué entiende por «objetivo»."
+    },
+    {
+      "title": "Summa Theologiae I-II, cuestión 94: la ley natural",
+      "author": "Tomás de Aquino",
+      "year": "c. 1270",
+      "url": "https://www.newadvent.org/summa/2094.htm",
+      "note": "El primer precepto y el relato de la tradición sobre por qué los no creyentes conocen la moral."
+    },
+    {
+      "title": "God and Moral Law: On the Theistic Explanation of Morality",
+      "author": "Mark C. Murphy",
+      "year": "2011",
+      "url": "https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/",
+      "note": "La tesis de Murphy de que la teoría del mandato divino y la ley natural fracasan ambas como explicaciones teístas, y su tercer relato."
+    },
+    {
+      "title": "The Moral Argument",
+      "author": "Mark D. Linville",
+      "year": "2009",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
+      "note": "La forma académica del caso epistemológico teísta. Se parafrasea en esta página y está en cola al principio de VERIFICATION.md para una comprobación primaria."
+    },
+    {
+      "title": "Does Anything Really Matter? Essays on Parfit on Objectivity",
+      "url": "https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/",
+      "note": "Expone la posición de Parfit en sus propios términos, incluido el pasaje citado."
+    },
+    {
+      "title": "Taking Morality Seriously: A Defense of Robust Realism",
+      "author": "David Enoch",
+      "year": "2011",
+      "url": "https://ndpr.nd.edu/reviews/taking-morality-seriously-a-defense-of-robust-realism/"
+    },
+    {
+      "title": "The Moral Landscape: How Science Can Determine Human Values",
+      "author": "Sam Harris",
+      "year": "2010",
+      "url": "https://www.samharris.org/books/the-moral-landscape"
+    },
+    {
+      "title": "Ethics: Inventing Right and Wrong, capítulo 1",
+      "author": "J.L. Mackie",
+      "year": "1977",
+      "url": "https://spot.colorado.edu/~heathwoo/readings/mackie.pdf",
+      "note": "«La subjetividad de los valores», incluido el argumento de la rareza, de libre lectura."
+    },
+    {
+      "title": "Euthyphro dilemma",
+      "url": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+      "note": "El pasaje de 10a, con las réplicas teístas estándar y las respuestas a ellas."
+    }
+  ]
+}

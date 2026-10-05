@@ -1,0 +1,388 @@
+{
+  "id": "objective-morality",
+  "number": 10,
+  "slug": "objektive-moral",
+  "title": "Kann es eine objektive Moral ohne Gott geben?",
+  "category": "morality",
+  "status": "open",
+  "realQuestion": "Ein Kind zur Unterhaltung zu quälen ist falsch. Nicht missbilligt, nicht kontraproduktiv — falsch, und es wäre auch falsch gewesen, hätten alle Lebenden es gebilligt.\n\nDie Frage ist, was das wahr macht, und der Grund, warum dieser Streit so oft schlecht verläuft, ist, dass keine der beiden Seiten eine einzige Antwort hat. Christen sind untereinander uneins, ob die Moral in Gottes Geboten gegründet ist (die [[Theorie des göttlichen Gebots]]), in den Naturen, die er gemacht hat (das [[Naturrecht]]), oder in keinem von beidem; Atheisten sind untereinander uneins, ob der [[moralische Realismus|moralischer Realismus]] überhaupt wahr ist. Darum geht ein Einwand gegen die eine Fassung regelmäßig an der Person vorbei, der er gilt und die eine andere hält.\n\nBeide Seiten stehen hier mit sichtbaren inneren Spaltungen, denn diese Spaltungen entscheiden, ob ein gegebener Einwand überhaupt etwas getroffen hat.",
+  "distinctions": [
+    {
+      "label": "Kann jemand gut sein, ohne an Gott zu glauben?",
+      "gloss": "Ja, und kein ernsthafter Beteiligter bestreitet es. Eine Frage der Psychologie und nicht der Begründung, und die beiden zu verwechseln ist der häufigste Fehler in diesem Streit. Beiseitegelegt.",
+      "activeHere": false
+    },
+    {
+      "label": "Verlangt objektive Moral Gott?",
+      "gloss": "Das ist das Argument dieser Seite: ob es den Theismus braucht, um moralische Tatsachen zu erklären, und was aus dem Argument wird, wenn es gar keine gibt.",
+      "activeHere": true
+    },
+    {
+      "label": "Welche metaethische Theorie ist tatsächlich wahr?",
+      "gloss": "Eine viel größere Frage, und nicht diese. Mehrere der Positionen unten könnten richtig sein, ohne zu entscheiden, ob Gott nötig ist — die Seite fragt nur nach dieser Abhängigkeit und nimmt jede Position im Übrigen beim Wort. Beiseitegelegt.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "moralischer Realismus",
+      "definition": "Die Auffassung, dass manche moralischen Aussagen wahr sind, unabhängig davon, was irgendwer denkt oder fühlt. Von den meisten, aber nicht allen Positionen dieser Seite gehalten."
+    },
+    {
+      "term": "Theorie des göttlichen Gebots",
+      "definition": "Die Darstellung, nach der moralische Pflichten durch Gottes Gebote konstituiert werden. Die moderne Fassung fügt hinzu, dass Gottes eigene Natur einschränkt, was er gebieten kann."
+    },
+    {
+      "term": "Naturrecht",
+      "definition": "Die ältere christliche Alternative, von Thomas von Aquin: Was für ein Geschöpf gut ist, folgt aus der Art Geschöpf, die es ist, sodass die Moral in Naturen gegründet und durch Vernunft erkennbar ist."
+    },
+    {
+      "term": "Irrtumstheorie",
+      "definition": "Mackies Auffassung, dass gewöhnliche moralische Aussagen objektive Werte behaupten, dass es keine gibt, und dass unsere moralische Rede daher durchgängig falsch und nicht bloß subjektiv ist."
+    },
+    {
+      "term": "evolutionäre Entlarvung",
+      "definition": "Das Argument, dass wir, wenn unsere wertenden Einstellungen durch Selektion auf Fitness und nicht auf Wahrheit geformt wurden, keine Erklärung dafür haben, warum sie moralischen Tatsachen folgen sollten, welche diese Tatsachen auch sind."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Eine Pflicht schuldet man jemandem, und Teilchen schuldet man nichts",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "duties-need-a-commander",
+          "claim": "Eine Pflicht ist etwas, das man schuldet, und Schulden ist eine Beziehung zwischen Personen",
+          "explanation": "Die bekannteste christliche Darstellung unterscheidet zwei Dinge, die man gewöhnlich zusammenwirft. Werte betreffen, was gut ist; Pflichten, was man tun muss. Robert Adams’ Fassung, die die ernsthafte Form ist, gründet das Erste in Gottes Natur — Gott ist der Maßstab, dem endliche Güter gleichen — und das Zweite in seinen Geboten.\n\nDie Kraft liegt in der zweiten Hälfte. Man kann Ihnen sagen, Grausamkeit sei schlecht, und Sie können mit Recht fragen, warum das Sie bindet. Eine moralische Forderung hat die Gestalt eines Anspruchs, und einen Anspruch erhebt jemand. Das ist die Fassung des Arguments, der fast jeder begegnet, und sie ist nicht die einzige, die Christen halten: Unten stehen zwei Alternativen, und sie gründen die Verpflichtung in etwas anderem als einem Gebot.",
+          "quote": {
+            "text": "Wenn Gott nicht existiert, existieren objektive moralische Werte nicht.",
+            "author": "William Lane Craig",
+            "work": "the first premise of the moral argument, as Craig states it",
+            "year": "2008",
+            "locator": "Craig defines 'objective' as 'valid and binding independently of whether anybody believes in it or not'",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If God does not exist, objective moral values do not exist.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "divine-command",
+              "label": "Göttliches Gebot",
+              "heldBy": "Robert Adams, Philip Quinn, C. Stephen Evans, William Lane Craig",
+              "oneLine": "Pflichten werden durch Gottes Gebote konstituiert; seine Natur schränkt ein, was er gebieten kann, sie sind also nicht willkürlich.",
+              "summary": "Das Hauptargument oben in seiner ausgebauten heutigen Form. Ockhams Fassung — richtig ist richtig, weil geboten, und Gott hätte Grausamkeit gebieten können — hat wenige heutige Verteidiger. Adams’ abgewandelte Theorie teilt die Arbeit: Das Gute ist in Gottes Natur gegründet, die er nicht wählt, und die Verpflichtung ist in den Geboten eines von Natur liebenden Gottes gegründet. Das soll das Euthyphron-Dilemma beantworten, ohne einen Maßstab über Gott zuzugeben.",
+              "quote": {
+                "text": "da unsere moralischen Pflichten durch Gottes Gebote konstituiert werden, ist das, was Er gebietet, gerecht und recht",
+                "author": "William Lane Craig",
+                "work": "Slaughter of the Canaanites (Question of the Week)",
+                "year": "2007",
+                "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "since our moral duties are constituted by God's commands, what He commands is just and right",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Sie ändert ihn nicht. Dies ist die Fassung, gegen die der Einwand oben gebaut ist und die er erreicht: Wird die Verpflichtung durch ein Gebot konstituiert, so muss die Frage, warum man gehalten ist zu gehorchen, ohne Berufung auf ein weiteres Gebot beantwortet werden. Alles Folgende ist eine Art, nicht in dieser Lage zu sein."
+            },
+            {
+              "id": "natural-law",
+              "label": "Naturrecht",
+              "heldBy": "Thomas von Aquin; John Finnis, Edward Feser; die katholische Morallehre",
+              "oneLine": "Das Gute für ein Geschöpf folgt aus der Art Geschöpf, die es ist, sodass die Moral in Naturen gegründet und ohne Offenbarung von der Vernunft erreichbar ist.",
+              "summary": "Die ältere und über die christliche Geschichte hin weiter verbreitete Darstellung. Die Verpflichtung wird nicht durch einen Erlass auferlegt, sondern folgt daraus, wozu eine Sache da ist: Die Vernunft erfasst, dass bestimmte Zwecke für ein Wesen dieser Art gut sind, und das erste Gebot der praktischen Vernunft folgt aus diesem Erfassen und nicht aus einer Anweisung.\n\nEine Folge zählt für diese Seite. Nach dem Naturrecht kann ein Atheist den Inhalt der Moral vollkommen kennen, denn er wird an Naturen und nicht an der Offenbarung abgelesen — und darum hatte die Tradition nie Mühe zu sagen, dass Ungläubige Recht von Unrecht unterscheiden.",
+              "quote": {
+                "text": "das Gute ist zu tun und zu erstreben, und das Böse ist zu meiden. Alle anderen Gebote des Naturrechts beruhen darauf",
+                "author": "Thomas von Aquin",
+                "work": "Summa Theologiae, I-II q.94 a.2",
+                "year": "c. 1270",
+                "locator": "the first precept of the natural law",
+                "sourceUrl": "https://www.newadvent.org/summa/2094.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "good is to be done and pursued, and evil is to be avoided. All other precepts of the natural law are based upon this",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Regress kann nicht einsetzen. Es gibt kein Gebot, dessen Autorität eine vorhergehende Pflicht zum Gehorsam bräuchte, denn die Verpflichtung folgt daraus, was ein Geschöpf ist, und nicht daraus, was ihm gesagt wurde. Auch das Euthyphron-Dilemma verliert hier seinen Griff: Gott zieht keinen äußeren Maßstab zu Rate und wählt auch keinen, denn er ist der Urheber der Naturen, an denen der Maßstab abgelesen wird.",
+              "objection": {
+                "text": "Folgt das Gute für ein Geschöpf aus der Art Geschöpf, die es ist, dann läuft die Darstellung ohne Gott — und ihre ausgebauteste heutige Form ist atheistisch. Philippa Foot hat in Natural Goodness genau diese Struktur gebaut und die thomistische Darstellung der Tugenden als auf Ungläubige anwendbar genommen, und Rosalind Hursthouse hat sie weitergeführt; bei beiden ist moralischer Mangel natürlicher Mangel, und an keiner Stelle kommt Theismus hinein. Das widerlegt das Naturrecht nicht. Es untergräbt den Gebrauch, der hier davon gemacht wird, denn eine Seite, die behauptet, die Moral verlange Gott, kann sich nicht auf die eine theistische Darstellung stützen, deren Maschinerie nachweislich vom Theismus lösbar ist.",
+                "from": "within",
+                "sharedPremise": "er akzeptiert die naturrechtliche Prämisse vollständig — dass das Gute für ein Geschöpf aus der Art Geschöpf folgt, die es ist, und dass die Vernunft es daran ablesen kann — und argumentiert allein aus dieser Prämisse, dass die daraus folgende Ethik ohne den Zusatz Gottes vollständig ist.",
+                "response": "Naturen erklären sich nicht selbst. Die Darstellung sagt, was für einen Menschen gut ist, ohne zu sagen, warum es Geschöpfe mit dieser Natur gibt oder warum ihr Gedeihen etwas ist, worauf das Universum antwortet, und das sind die Fragen, die der Theist beantwortet."
+              }
+            },
+            {
+              "id": "concurrentism",
+              "label": "Moralischer Konkurrentismus",
+              "heldBy": "Mark C. Murphy",
+              "oneLine": "Weder Gebote noch Naturen allein: Tatsachen über Gott und Tatsachen über Geschöpfe wirken zusammen, und moralische Notwendigkeit ist der Zug der göttlichen Güte, bestimmt durch das, was man ist.",
+              "summary": "Die jüngste der drei, und sie gibt es, weil ihr Autor meint, die anderen zwei scheiterten beide als Erklärungen. Murphy hält dafür, die Theorie des göttlichen Gebots könne nicht erklären, warum Gottes Gebote binden, und das Naturrecht halte Gott überhaupt nicht in der Erklärung — eine Theorie, in der das Moralgesetz genau dasselbe wäre, ob Gott existiert oder nicht, ist keine theistische Erklärung der Moral, was ihre Anhänger auch beabsichtigen.\n\nSeine Alternative lässt die beiden zugleich verschiedene Arbeiten tun: Gottes Güte liefert den Zug, und die Natur des Geschöpfes bestimmt, was dieser Zug von ihm verlangt.",
+              "quote": {
+                "text": "alle moralische Notwendigkeit ist der Zug der göttlichen Güte, bestimmt durch die Natur der beteiligten Geschöpfe",
+                "author": "Mark C. Murphy",
+                "work": "God and Moral Law: On the Theistic Explanation of Morality",
+                "year": "2011",
+                "locator": "the thesis of moral concurrentism, quoted in the Notre Dame Philosophical Reviews notice",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "all moral necessity is the pull of divine goodness specified by the nature of the creatures involved",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand muss ein Gebot finden, auf das er regressieren kann, und es gibt keines: Was notwendig macht, ist ein Zug und keine Anweisung, sodass die Frage, warum man ihm folgen muss, der Frage gleicht, warum man das Gute gut finden muss. Was der Einwand stattdessen tun kann, ist in die andere Richtung zu drängen — ob ein „Zug“, der keine Anerkennung verlangt, irgendeine Arbeit leistet, die die Naturen nicht schon leisteten.",
+              "objection": {
+                "text": "Murphys eigener Prüfstein ist, dass eine theistische Darstellung der Moral Gottes Rolle erklärend und nicht schmückend machen muss, und der Einwand lautet, seine bestehe ihn nicht. Leisten die Naturen die ganze Bestimmung — ist das, was man tun muss, vollständig dadurch festgelegt, was man ist —, dann trägt der „Zug der göttlichen Güte“ keinen Inhalt bei, und ein Universum ohne ihn enthielte dieselben Pflichten. Eine Erklärung, die am Erklärten nichts ändert, ist ein Zusatz und keine Darstellung.",
+                "from": "atheist",
+                "response": "Der Zug liefert die Notwendigkeit und nicht den Inhalt: Die Naturen bestimmen, was verlangt ist, und die Güte ist, warum überhaupt etwas verlangt ist. Das sind verschiedene Arbeiten, und der Einwand wirft sie zusammen."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Wird eine Pflicht durch ein Gebot konstituiert, dann macht es etwas nur dann verpflichtend, dass es Ihnen geboten wird, wenn Sie schon verpflichtet sind, das Gebotene zu tun. Diese vorhergehende Pflicht kann nicht selbst durch ein Gebot konstituiert sein, ohne den Regress neu zu starten, sie muss also von woanders kommen — und sobald etwas anderes eine Pflicht erzeugen kann, hat die Darstellung den Punkt aufgegeben, den sie machte. Dies ist nicht der Einwand des Atheisten; es ist der stehende Einwand, der innerhalb des Theismus von denen erhoben wird, die die Moral anderswo gründen.",
+            "objectionFrom": "within",
+            "sharedPremise": "er akzeptiert, dass Gott existiert, dass er gut ist und dass moralische Tatsachen wirklich sind, und argumentiert allein aus diesen Prämissen, dass Pflichten nicht durch Gebote konstituiert werden können, denn einem Gebot zu gehorchen ist nur bei einer vorhergehenden Gehorsamspflicht verpflichtend — eine Prämisse, die der Gebotstheoretiker zugibt.",
+            "landsOn": [
+              "divine-command"
+            ],
+            "response": "Die vorhergehende Pflicht ist kein weiteres Gebot, sondern ein Zug der Beziehung: Ein Geschöpf steht zu seinem Schöpfer wie ein Kind zu einem Elternteil, und die Pflicht zu hören gehört dazu, was diese Beziehung ist, und ist nicht eine Regel in ihr."
+          }
+        },
+        {
+          "id": "why-would-we-track-them",
+          "claim": "Im Naturalismus wurde der moralische Sinn zum Überleben gebaut, nicht zum Treffen moralischer Wahrheit",
+          "explanation": "Dies ist die erkenntnistheoretische Hälfte, und sie zielt auf die stärkste Position der anderen Seite und nicht auf eine schwache. Räumen wir ein, es gebe objektive moralische Tatsachen, die für sich stehen. Fragen wir nun, wie Geschöpfe wie wir dazu kamen, irgendeine davon zu kennen.\n\nUnsere moralischen Reaktionen wurden von der Selektion geformt, und die Selektion belohnt, was funktioniert, nicht, was wahr ist. Eine Neigung, die eigenen Kinder zu schützen, wird begünstigt, ob es eine geistunabhängige Tatsache gibt, dass man es soll, oder nicht. Dies ist das Argument der [[evolutionären Entlarvung|evolutionäre Entlarvung]], für theistische Zwecke gewendet: Der naturalistische Realist hat Überzeugungen, deren Zuverlässigkeit er nicht erklären kann, der Theist hingegen kann es, denn von Vermögen, die ein moralisches Wesen gemacht hat, wäre zu erwarten, dass sie der moralischen Wirklichkeit folgen.",
+          "quote": {
+            "text": "Der Naturalist muss annehmen, dass menschliche moralische Vermögen durch Selektion auf Fortpflanzungserfolg und nicht auf das Verfolgen geistunabhängiger moralischer Wahrheit geformt wurden, und hat daher keine Erklärung ihrer Zuverlässigkeit; der Theist, der diese Vermögen für von einem guten Gott geschaffen hält, hat eine.",
+            "author": "Mark D. Linville",
+            "work": "The Moral Argument, in The Blackwell Companion to Natural Theology",
+            "year": "2009",
+            "locator": "our summary of the evolutionary argument against naturalistic moral realism, pp. 391-448; not Linville's wording. At the top of VERIFICATION.md for a primary check",
+            "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The naturalist must hold that human moral faculties were shaped by selection for reproductive fitness rather than for tracking mind-independent moral truth, and so has no account of their reliability; the theist, taking those faculties to be created by a good God, does.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Das Argument schneidet gegen den, der es benutzt. Hat die Selektion unsere moralischen Vermögen geformt, so hat sie es getan, ob Gott existiert oder nicht — Gott hätte durch denselben Vorgang wirken müssen, sodass der Theist dieselbe Geschichte darüber erbt, wie die Überzeugungen zustande kamen, und nur eine Hoffnung darüber hinzugefügt hat, wohin es ging. Und die Zuverlässigkeitsfrage hat eine Antwort zur Hand: Sind manche moralischen Wahrheiten notwendig, dann wird jeder Vorgang, der Überzeugungen über Zusammenarbeit, Schaden und Fairness erzeugt, wahre erzeugen, nicht aus Glück, sondern weil diese Wahrheiten nicht anders sein könnten.",
+            "objectionFrom": "atheist",
+            "response": "Diese Antwort braucht, dass die notwendigen Wahrheiten mit dem zusammenfallen, was anpassungsfähig war, und genau auf dieses Zusammenfallen zeigte das Argument, statt es zu erklären."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Eine Person darunterzulegen fügt nichts hinzu",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "no-maker-needed",
+          "claim": "Moralische Wahrheiten brauchen, wenn es sie gibt, nicht mehr einen Macher als mathematische",
+          "explanation": "Die bekannteste atheistische Antwort lautet nicht, die Moral sei erfunden oder eine Sache des Gefühls. Sie lautet, es gebe objektive normative Wahrheiten, sie seien nicht auf natürliche Tatsachen reduzierbar, und sie stünden, ohne dass etwas sie so gemacht hätte — derselbe Status, den der Theist Gott immer zuzugestehen bereit war.\n\nDas Argument ist eines der Gleichbehandlung. Der Theist hört bei einem Wesen auf, dessen Güte nichts Weiteres erklärt; der Realist hört einen Schritt früher auf, bei den Wahrheiten selbst. Keiner kann sagen, warum sein Haltepunkt dort liegt, und nur einem von beiden wird vorgeworfen, etwas auszulassen. Derek Parfits Fassung fügt eine Wendung hinzu, die die Gleichbehandlung schärft: Die Wahrheiten sind wirklich und objektiv und tragen dabei kein ontologisches Gewicht, sodass es im Universum nichts Zusätzliches gibt, über das der Theist Auskunft verlangen könnte.\n\nAtheisten teilen sich hier, und die Spaltungen zählen mehr als die Einigkeit: Eine der Fassungen unten ist eine [[Irrtumstheorie]], die bestreitet, dass es moralische Tatsachen gibt, und die erste Prämisse des Theisten zugibt.",
+          "quote": {
+            "text": "es gibt Aussagen, die im Gründe einschließenden Sinn irreduzibel normativ und in einem starken Sinn wahr sind. Diese Wahrheiten haben keine ontologischen Folgen.",
+            "author": "Derek Parfit",
+            "work": "On What Matters, volume II",
+            "year": "2011",
+            "locator": "the position Parfit calls Non-Metaphysical Non-Naturalist Normative Cognitivism",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "there are some claims that are irreducibly normative in the reason-involving sense, and are in a strong sense true. These truths have no ontological implications.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "robust-realism",
+              "label": "Robuster nichtnatürlicher Realismus",
+              "heldBy": "David Enoch, Erik Wielenberg, Russ Shafer-Landau",
+              "oneLine": "Es gibt irreduzibel normative Tatsachen, unabhängig von jedem Willen, und sie sind so wirklich wie der Gott des Theisten.",
+              "summary": "Die Fassung des Hauptarguments in voller Stärke, und die, die die meiste metaphysische Verpflichtung übernimmt und nicht die geringste. Wo Parfit die Objektivität ohne Ontologie zu halten versucht, nehmen Enoch und Wielenberg die Ontologie an und verteidigen sie: Es gibt wirklich nichtnatürliche moralische Eigenschaften, und die Unbequemlichkeit davon ist der Preis dafür, die Moral ernst zu nehmen.\n\nWielenberg treibt den Gleichbehandlungspunkt am weitesten und hält dafür, ein Theist, der brute notwendige Tatsachen über Gottes Natur annimmt, habe keinen Stand, gegen brute notwendige Tatsachen über die Güte einzuwenden.",
+              "quote": {
+                "text": "es gibt irreduzibel normative Wahrheiten und Tatsachen … [sie] sind unabhängig von uns, von unseren Wünschen und von unserem (oder irgendwessen) Willen",
+                "author": "David Enoch",
+                "work": "Taking Morality Seriously: A Defense of Robust Realism",
+                "year": "2011",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/taking-morality-seriously-a-defense-of-robust-realism/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "there are irreducibly normative truths and facts … [they] are independent of us, our desires and our (or anyone else's) will",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Sie ändert ihn nicht. Dies ist die Fassung, gegen die der Entlarvungseinwand gebaut ist und die er am unmittelbarsten erreicht: Kausal untätige und von uns unabhängige Tatsachen sind genau die, bei denen unser Verfolgen am schwersten zu erklären ist. Die zwei Positionen unten sind Weisen, keine Tatsachen dieser Art zu besitzen."
+            },
+            {
+              "id": "naturalist-realism",
+              "label": "Naturalistischer Realismus",
+              "heldBy": "Sam Harris; die Cornell-Realisten: Richard Boyd, Peter Railton, Nicholas Sturgeon",
+              "oneLine": "Moralische Tatsachen sind natürliche Tatsachen — über Wohlbefinden, Gedeihen, das Leiden bewusster Geschöpfe — und daher objektiv und auf gewöhnliche Weise entdeckbar.",
+              "summary": "Diese Fassung verweigert die nichtnatürliche Ontologie und das Rätsel, das mit ihr kommt. Sind moralische Aussagen letztlich Aussagen über das Wohlbefinden bewusster Geschöpfe, dann sind sie wahr oder falsch, wie Aussagen über Gesundheit es sind, und es braucht kein eigenes Vermögen moralischer Wahrnehmung, um zu ihnen zu kommen.\n\nSie ist die beliebteste Position außerhalb der Philosophie und eine der bestrittensten in ihr: Der übliche Einwand lautet seit Moore, jede Gleichsetzung der Güte mit einer natürlichen Eigenschaft lasse offen zu fragen, ob diese Eigenschaft gut ist — und das ist keine Frage, die man bei einer echten Identität stellen kann.",
+              "quote": {
+                "text": "Fragen nach Werten … sind in Wahrheit Fragen nach dem Wohlbefinden bewusster Geschöpfe.",
+                "author": "Sam Harris",
+                "work": "The Moral Landscape: How Science Can Determine Human Values",
+                "year": "2010",
+                "sourceUrl": "https://www.samharris.org/books/the-moral-landscape",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Questions about values … are really questions about the well-being of conscious creatures.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Das Entlarvungsargument muss neu formuliert werden und verliert viel von seiner Kraft. Sind moralische Tatsachen natürliche Tatsachen darüber, was Geschöpfen wie uns schadet und hilft, dann folgt ein Vermögen, das auf das Erkennen von Schaden und Hilfe für Geschöpfe wie uns ausgewählt wurde, ihnen schon dem Bau nach, und es ist kein Zusammenfallen zu erklären. Was der Einwand noch drängen kann, ist, ob die Gleichsetzung stimmt — aber das ist Moores offene Frage und kein Entlarvungsargument."
+            },
+            {
+              "id": "error-theory",
+              "label": "Irrtumstheorie",
+              "heldBy": "J. L. Mackie; Richard Joyce",
+              "oneLine": "Gewöhnliche moralische Aussagen behaupten sehr wohl objektive Werte, es gibt keine, und daher ist die moralische Rede durchgängig falsch — nicht subjektiv, falsch.",
+              "summary": "Die Position, die in diesem Streit am häufigsten weggelassen wird, und die, die ihn am stärksten verändert. Mackie stimmt mit dem Theisten darin überein, was moralische Sprache bedeutet und was es brauchte, um sie wahr zu machen: Es müsste wirklich objektive Werte geben, und sie wären sehr seltsame Gegenstände, anders als alles, was wir kennen. Dann bestreitet er, dass es sie gibt.\n\nWas das mit dem moralischen Argument macht, sollte klar gesagt werden. Die übliche Form lautet: Wenn Gott nicht existiert, existieren objektive moralische Werte nicht; objektive moralische Werte existieren; also existiert Gott. Mackie nimmt die erste Prämisse an und bestreitet die zweite. Er ist der Atheist, der dem Konditional des Theisten zustimmt, und darum geht ein Einwand, der zur Verteidigung der zweiten Prämisse gebaut ist, ganz an ihm vorbei.",
+              "quote": {
+                "text": "Es gibt keine objektiven Werte.",
+                "author": "J.L. Mackie",
+                "work": "Ethics: Inventing Right and Wrong",
+                "year": "1977",
+                "locator": "the opening sentence of chapter 1, 'The Subjectivity of Values'",
+                "sourceUrl": "https://spot.colorado.edu/~heathwoo/readings/mackie.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "There are no objective values.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Es bleibt ihm nichts zu tun. Ein Entlarvungsargument zeigt, dass unsere moralischen Überzeugungen nicht durch moralische Tatsachen erklärt werden; der Irrtumstheoretiker stimmt zu und sagt es seit 1977. Hierhin gerichtet ist der Einwand keine Widerlegung, sondern eine Wiederholung der Position — und der Theist, der ihn führt, muss zu einem ganz anderen Argument wechseln, einem für die Existenz der moralischen Tatsachen, die Mackie bestreitet.",
+              "objection": {
+                "text": "Das Argument von der Seltsamkeit beweist mehr, als sein Urheber wollte. Sollen wir nicht an objektive Werte glauben, weil sie metaphysisch seltsam wären und ein eigenartiges Vermögen zu ihrer Erfassung verlangten, so gilt dasselbe für epistemische Gründe — Tatsachen darüber, was Sie angesichts Ihrer Befunde glauben sollten. Terence Cuneos Argument der Mitschuldigen drängt genau darauf: Eine Irrtumstheorie über die Moral verpflichtet Sie auf eine Irrtumstheorie über Gründe, und dann ist die Irrtumstheorie selbst nichts, was Sie irgendeinen Grund zu glauben hätten. Es gibt auch die praktische Frage, was ein Irrtumstheoretiker tut, wenn er weiterhin moralische Urteile fällt, die Richard Joyce mit einem Fiktionalismus beantwortet, den die meisten seiner Kritiker für ein Zugeständnis halten.",
+                "from": "both",
+                "response": "Die Parallele kann angenommen werden. Joyce und andere Irrtumstheoretiker haben den epistemischen Fall übernommen und die Position durchargumentiert, und das ist mehr, als die meisten Mitschuldigen-Argumente von ihrem Ziel erwarten."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Wurden unsere wertenden Einstellungen von der Selektion geformt, und ist die Selektion gegen normative Wahrheit gleichgültig, dann steht der Realist vor einem Dilemma: Entweder haben diese Einstellungen mit den unabhängigen Wahrheiten nichts zu tun, und dann gibt es keinen Grund, die unsrigen für die treffenden zu halten, oder der Realist schuldet eine Verfolgungsgeschichte, die die Unabhängigkeit der Wahrheiten sehr schwer zu geben macht. Dies ist kein theistischer Einwand — er wird aus dem Naturalismus heraus gegen andere Naturalisten erhoben und ist die meistzitierte Herausforderung des atheistischen Realismus der letzten zwanzig Jahre.",
+            "objectionFrom": "within",
+            "sharedPremise": "er akzeptiert den Naturalismus und die evolutionäre Darstellung der Herkunft unserer wertenden Einstellungen und argumentiert allein aus diesen Prämissen, dass ein Realist, der moralische Wahrheiten für von uns unabhängig hält, noch schuldet zu erklären, warum unsere Einstellungen ihnen folgen sollten.",
+            "landsOn": [
+              "robust-realism",
+              "naturalist-realism"
+            ],
+            "response": "Die Verfolgungsgeschichte ist zu haben, wenn manche moralischen Wahrheiten notwendig sind: Ein Vorgang, der Überzeugungen über Schaden, Fairness und Zusammenarbeit erzeugt, erzeugt wahre, weil diese Wahrheiten nicht anders sein könnten, und nicht, weil er auf sie zielte."
+          }
+        },
+        {
+          "id": "euthyphro",
+          "claim": "Entweder folgen Gottes Gebote etwas schon Gutem, oder das Gute ist, was er gerade gebietet",
+          "explanation": "Sokrates stellte die Frage vor zweitausendfünfhundert Jahren, und sie ist nie außer Dienst gestellt worden. Nehmen Sie irgendetwas, das Gott gebietet. Entweder gebietet er es, weil es gut ist, und dann ist seine Güte von ihm unabhängig; oder es ist gut, weil er es gebietet, und dann hätte irgendetwas gut sein können.\n\nDie übliche Antwort lautet, Gottes eigene Natur sei der Maßstab, die Wahl sei also eine falsche. Die Erwiderung lautet, das verlege das Dilemma: Entweder ist Gottes Natur nach einem Maßstab gut, oder „gut“ heißt bloß „wie Gott“, und dann sagt „Gott ist gut“ nichts.",
+          "quote": {
+            "text": "Wird das Fromme von den Göttern geliebt, weil es fromm ist, oder ist es fromm, weil es von den Göttern geliebt wird?",
+            "author": "Platon",
+            "work": "Euthyphro",
+            "year": "c. 399 BC",
+            "locator": "10a; Socrates to Euthyphro",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die dritte Möglichkeit ist kein Ausweichen und älter als der Einwand gegen sie. Die Güte wird mit Gottes Natur gleichgesetzt, die weder eine willkürliche Wahl noch ein äußerer Maßstab ist, den er zu Rate zieht, denn eine Natur wählt niemand aus. Dass „Gott ist gut“ dann etwas wie eine Identitätsaussage wird, ist kein Mangel: „Wasser ist H₂O“ ist auf dieselbe Weise uninformativ und darum nicht leer. Und das Dilemma hat überhaupt keinen Griff an der naturrechtlichen Fassung oben, wo es nie um das ging, was Gott gebietet.",
+            "objectionFrom": "theist",
+            "response": "Die Identität trägt nur, wenn wir die Güte unabhängig erkennen können, und das ist es, was uns erlaubt zu sagen, dass die Identität gilt, statt sie festzusetzen — und diese Erkenntnis ist der unabhängige Maßstab, von dem der Theist sagte, es gebe ihn nicht."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Humes Kluft, die beide Seiten beanspruchen",
+      "oneLine": "Humes Kluft zwischen dem, was ist, und dem, was sein soll, ist ein Problem für jede Position dieser Seite, und darum endet fast jede damit, etwas Grundlegendes zu setzen, statt es abzuleiten.",
+      "text": "Hume beobachtete, dass Argumente ohne Vorwarnung von Aussagen darüber, was ist, zu Aussagen darüber gleiten, was sein soll, und dass der Schritt nie gerechtfertigt wird. Beide Seiten zitieren das gegen die andere, und beide dürfen es.\n\nGegen den Naturalisten: Keine Menge Tatsachen über Wohlbefinden oder Gedeihen ergibt eine Pflicht ohne eine Prämisse, die schon eine enthält. Gegen den Theisten: Auch keine Menge Tatsachen darüber, was Gott ist oder gebietet, ergibt eine Pflicht, ohne eine Prämisse, dass man tun soll, was Gott gebietet — und diese Prämisse kann nicht aus einem weiteren Gebot kommen, ohne sich im Kreis zu drehen, und das ist der oben abgedruckte Einwand. Die Kluft ist ein Problem für jeden, der die Moral aus irgendetwas ableitet, und darum endet fast jede Position dieser Seite damit, etwas Grundlegendes zu setzen, statt es abzuleiten. Die Ausnahme ist der Irrtumstheoretiker, der nichts zu setzen hat."
+    },
+    {
+      "heading": "Drei Dinge, die „objektiv“ heißen kann",
+      "oneLine": "Das meiste Aneinandervorbeireden stammt hier daraus, dass das Wort „objektiv“ drei verschiedene Arbeiten tut, und es lohnt sich zu fragen, welche jeder meint.",
+      "text": "Das meiste Aneinandervorbeireden in diesem Streit ist ein Wort, das drei Arbeiten tut. Es kann heißen *keine Frage der Meinung* — die Nazis hatten unrecht, obwohl sie es anders sahen. Es kann heißen *geistunabhängig* — wahr, ob es Geister gibt oder nicht. Es kann heißen *in etwas außerhalb der natürlichen Welt gegründet*.\n\nDas Erste gibt hier jeder zu außer dem Irrtumstheoretiker, der es bestreitet und das sagt. Das Zweite ist der Ort fast der ganzen Uneinigkeit. Das Dritte ist eine theistische These, und sie still zu unterstellen lässt das Argument von außen zirkulär aussehen: Heißt „objektiv“ „außerhalb der Natur gegründet“, dann ist „objektive Moral verlangt etwas außerhalb der Natur“ per definitionem wahr und beweist nichts. Wenn ein Wortwechsel nirgends hinführt, lohnt es meist zu fragen, welches der drei jeder benutzt."
+    }
+  ],
+  "whereItStands": "Beide Positionen werden von ernsthaften Leuten gehalten, und keine steht kurz vor dem Einsturz. Unter Philosophen insgesamt ist der moralische Realismus die Mehrheitsauffassung und der Theismus nicht, was bedeutet, dass die meisten moralischen Realisten Atheisten sind — eine Tatsache, die gegen die Behauptung spricht, die Verbindung sei unhaltbar, auch wenn sie eine Zählung und kein Argument ist.\n\nWo das Argument sich wirklich bewegt hat, ist die erkenntnistheoretische Hälfte. Der metaphysische Streit ist seit langem statisch, fast jede Position setzt etwas Grundlegendes, und keine kann rechtfertigen, dort aufzuhören, wo sie aufhört. Aber die Frage, wie evolvierte Geschöpfe dazu kamen, moralische Wahrheiten zu kennen, hat in den letzten zwanzig Jahren wirkliche Arbeit erzeugt, und die schädlichste Fassung dieser Herausforderung erhebt ein Atheist gegen andere Atheisten. Wielenbergs Bücher sind in erheblichem Maß eine Antwort darauf.\n\nNicht im Streit, und ständig falsch wiedergegeben, ist die Frage, ob Atheisten moralisch sein können. Niemand in diesem Streit meint etwas anderes, auch nicht die, die die stärkste Fassung des theistischen Falls führen — und die naturrechtliche Tradition hat eine positive Erklärung dafür, warum sie es können.",
+  "commonMistake": "Christen lassen das Argument meist von „der Atheismus kann die Moral nicht begründen“ zu „Atheisten haben keine Moral“ gleiten, und das ist eine andere Behauptung, sie ist falsch, und jeder anständige Ungläubige, den der Hörer kennt, widerlegt sie. Der zweithäufigste Fehler ist, die Theorie des göttlichen Gebots für die christliche Position zu nehmen, obwohl die ältere und weiter verbreitete Antwort der Tradition das Naturrecht ist, das die Moral in Naturen gründet und von Ungläubigen erwartet, Recht von Unrecht sehr wohl zu unterscheiden.\n\nAtheisten antworten meist mit einer Darstellung, woher unsere moralischen Gefühle kamen — Evolution, Kultur, Mitgefühl —, als beantwortete das die Frage. Es tut es nicht: Eine Erklärung dafür, warum wir Grausamkeit für falsch halten, verträgt sich damit, dass sie falsch ist, und damit, dass sie es nicht ist. Und die öffentlich am häufigsten verteidigte Fassung der atheistischen Position ist eine, die Mackie ein Buch lang bestritten hat, und das sollte man wissen, bevor man sie verteidigt.\n\nBeide Seiten behandeln außerdem den eigenen Haltepunkt als vernünftig und den anderen als willkürlich. Gott, unverursacht und von Natur gut, und moralische Tatsachen, unverursacht und notwendig wahr, sind derselbe Schritt an zwei Stellen.",
+  "sources": [
+    {
+      "title": "The Moral Argument for God",
+      "author": "William Lane Craig",
+      "url": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
+      "note": "Craigs eigene Darstellung des Arguments und dessen, was er unter „objektiv“ versteht."
+    },
+    {
+      "title": "Summa Theologiae I-II, Quaestio 94: das Naturrecht",
+      "author": "Thomas von Aquin",
+      "year": "c. 1270",
+      "url": "https://www.newadvent.org/summa/2094.htm",
+      "note": "Das erste Gebot und die Erklärung der Tradition, warum Ungläubige die Moral kennen."
+    },
+    {
+      "title": "God and Moral Law: On the Theistic Explanation of Morality",
+      "author": "Mark C. Murphy",
+      "year": "2011",
+      "url": "https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/",
+      "note": "Murphys Fall, dass Gebotstheorie und Naturrecht beide als theistische Erklärungen scheitern, und seine dritte Darstellung."
+    },
+    {
+      "title": "The Moral Argument",
+      "author": "Mark D. Linville",
+      "year": "2009",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
+      "note": "Die wissenschaftliche Form des theistischen erkenntnistheoretischen Falls. Auf dieser Seite paraphrasiert und oben in VERIFICATION.md für eine Primärprüfung eingereiht."
+    },
+    {
+      "title": "Does Anything Really Matter? Essays on Parfit on Objectivity",
+      "url": "https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/",
+      "note": "Stellt Parfits Position in seinen eigenen Worten dar, samt der zitierten Stelle."
+    },
+    {
+      "title": "Taking Morality Seriously: A Defense of Robust Realism",
+      "author": "David Enoch",
+      "year": "2011",
+      "url": "https://ndpr.nd.edu/reviews/taking-morality-seriously-a-defense-of-robust-realism/"
+    },
+    {
+      "title": "The Moral Landscape: How Science Can Determine Human Values",
+      "author": "Sam Harris",
+      "year": "2010",
+      "url": "https://www.samharris.org/books/the-moral-landscape"
+    },
+    {
+      "title": "Ethics: Inventing Right and Wrong, Kapitel 1",
+      "author": "J.L. Mackie",
+      "year": "1977",
+      "url": "https://spot.colorado.edu/~heathwoo/readings/mackie.pdf",
+      "note": "„Die Subjektivität der Werte“, samt dem Argument von der Seltsamkeit, frei lesbar."
+    },
+    {
+      "title": "Euthyphro dilemma",
+      "url": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+      "note": "Die Stelle 10a, mit den üblichen theistischen Erwiderungen und den Antworten darauf."
+    }
+  ]
+}

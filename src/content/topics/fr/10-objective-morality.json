@@ -1,0 +1,388 @@
+{
+  "id": "objective-morality",
+  "number": 10,
+  "slug": "morale-objective",
+  "title": "Peut-il y avoir une morale objective sans Dieu ?",
+  "category": "morality",
+  "status": "open",
+  "realQuestion": "Torturer un enfant pour se divertir est mal. Non pas désapprouvé, non pas contre-productif — mal, et cela l'aurait été même si tous les vivants l'avaient approuvé.\n\nLa question est de savoir ce qui rend cela vrai, et la raison pour laquelle ce débat tourne si souvent mal est qu'aucun des deux camps n'a une seule réponse. Les chrétiens sont en désaccord entre eux sur la question de savoir si la morale est fondée dans les commandements de Dieu (la [[théorie du commandement divin]]), dans les natures qu'il a faites (la [[loi naturelle]]) ou dans aucune des deux ; les athées sont en désaccord entre eux sur la question de savoir si le [[réalisme moral]] est vrai du tout. Si bien qu'une objection visant une version passe couramment à côté de la personne visée, qui en tient une autre.\n\nLes deux camps sont exposés ici avec leurs divisions internes visibles, car ce sont ces divisions qui décident si une objection donnée a touché quelque chose.",
+  "distinctions": [
+    {
+      "label": "Peut-on être bon sans croire en Dieu ?",
+      "gloss": "Oui, et aucun participant sérieux ne le nie. Une question de psychologie et non de fondement, et confondre les deux est l'échec le plus fréquent de ce débat. Mise de côté.",
+      "activeHere": false
+    },
+    {
+      "label": "La morale objective exige-t-elle Dieu ?",
+      "gloss": "C'est l'argument de cette page : savoir si le théisme est nécessaire pour rendre compte des faits moraux, et ce qu'il advient de l'argument s'il se trouve qu'il n'y en a aucun.",
+      "activeHere": true
+    },
+    {
+      "label": "Quelle théorie métaéthique est réellement vraie ?",
+      "gloss": "Une question bien plus vaste, et pas celle-ci. Plusieurs des positions ci-dessous pourraient être justes sans que soit tranchée la question de savoir si Dieu est requis — la page ne porte que sur cette dépendance et prend chaque position au mot pour le reste. Mise de côté.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "réalisme moral",
+      "definition": "La thèse selon laquelle certains énoncés moraux sont vrais indépendamment de ce que quiconque pense ou ressent. Tenue par la plupart des positions de cette page, mais non par toutes."
+    },
+    {
+      "term": "théorie du commandement divin",
+      "definition": "L'exposé selon lequel les obligations morales sont constituées par les commandements de Dieu. La version moderne ajoute que la nature de Dieu lui-même limite ce qu'il peut commander."
+    },
+    {
+      "term": "loi naturelle",
+      "definition": "L'alternative chrétienne plus ancienne, venue de Thomas d'Aquin : ce qui est bon pour une créature découle du genre de créature qu'elle est, de sorte que la morale est fondée dans les natures et connaissable par la raison."
+    },
+    {
+      "term": "théorie de l'erreur",
+      "definition": "La thèse de Mackie selon laquelle les énoncés moraux ordinaires affirment des valeurs objectives, qu'il n'y en a aucune, et que notre discours moral est donc systématiquement faux et non simplement subjectif."
+    },
+    {
+      "term": "démystification évolutionnaire",
+      "definition": "L'argument selon lequel, si nos attitudes évaluatives ont été façonnées par une sélection visant l'aptitude et non la vérité, nous n'avons aucun compte à rendre de la façon dont elles suivraient les faits moraux, quels que soient ces faits."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Une obligation est due à quelqu'un, et aux particules on ne doit rien",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "duties-need-a-commander",
+          "claim": "Un devoir est quelque chose qu'on doit, et devoir est une relation entre personnes",
+          "explanation": "L'exposé chrétien le plus connu distingue deux choses qu'on confond d'ordinaire. Les valeurs portent sur ce qui est bon ; les devoirs, sur ce qu'il faut faire. La version de Robert Adams, qui en est la forme sérieuse, fonde la première dans la nature de Dieu — Dieu est l'étalon auquel ressemblent les biens finis — et la seconde dans ses commandements.\n\nLa force est dans la seconde moitié. On peut vous dire que la cruauté est mauvaise et vous pouvez raisonnablement demander pourquoi cela vous lie. Une exigence morale a la structure d'une requête, et une requête est faite par quelqu'un. Telle est la version de l'argument que presque tout le monde rencontre, et ce n'est pas la seule que des chrétiens tiennent : deux alternatives sont exposées ci-dessous, et elles fondent l'obligation sur autre chose qu'un commandement.",
+          "quote": {
+            "text": "Si Dieu n'existe pas, les valeurs morales objectives n'existent pas.",
+            "author": "William Lane Craig",
+            "work": "the first premise of the moral argument, as Craig states it",
+            "year": "2008",
+            "locator": "Craig defines 'objective' as 'valid and binding independently of whether anybody believes in it or not'",
+            "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If God does not exist, objective moral values do not exist.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "divine-command",
+              "label": "Commandement divin",
+              "heldBy": "Robert Adams, Philip Quinn, C. Stephen Evans, William Lane Craig",
+              "oneLine": "Les obligations sont constituées par les commandements de Dieu ; sa nature limite ce qu'il peut commander, elles ne sont donc pas arbitraires.",
+              "summary": "L'argument principal ci-dessus dans sa forme moderne développée. La version d'Occam — le juste est juste parce qu'il est commandé, et Dieu aurait pu commander la cruauté — a peu de défenseurs actuels. La théorie modifiée d'Adams partage le travail : le bien est fondé dans la nature de Dieu, qu'il ne choisit pas, et l'obligation est fondée dans les commandements d'un Dieu aimant par nature. C'est cela qui est censé répondre au dilemme de l'Euthyphron sans concéder un étalon au-dessus de Dieu.",
+              "quote": {
+                "text": "puisque nos devoirs moraux sont constitués par les commandements de Dieu, ce qu'Il commande est juste et droit",
+                "author": "William Lane Craig",
+                "work": "Slaughter of the Canaanites (Question of the Week)",
+                "year": "2007",
+                "sourceUrl": "https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "since our moral duties are constituted by God's commands, what He commands is just and right",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Elle ne la change pas. C'est la version contre laquelle l'objection ci-dessus est bâtie, et celle qu'elle atteint : si l'obligation est constituée par un commandement, la question de savoir pourquoi vous êtes obligé d'obéir doit recevoir une réponse qui n'invoque pas un autre commandement. Tout ce qui suit est une manière de ne pas être dans cette situation."
+            },
+            {
+              "id": "natural-law",
+              "label": "Loi naturelle",
+              "heldBy": "Thomas d'Aquin ; John Finnis, Edward Feser ; l'enseignement moral catholique",
+              "oneLine": "Le bien d'une créature découle du genre de créature qu'elle est, de sorte que la morale est fondée dans les natures et atteignable par la raison sans révélation.",
+              "summary": "L'exposé le plus ancien et, dans toute l'histoire chrétienne, le plus largement tenu. L'obligation n'est pas imposée par un décret mais découle de ce à quoi une chose est faite : la raison saisit que certaines fins sont bonnes pour un être de ce genre, et le premier précepte de la raison pratique découle de cette saisie et non d'une instruction.\n\nUne conséquence compte pour cette page. Selon la loi naturelle, un athée peut parfaitement connaître le contenu de la morale, car elle se lit sur les natures et non sur la révélation — raison pour laquelle la tradition n'a jamais eu de peine à dire que les incroyants distinguent le bien du mal.",
+              "quote": {
+                "text": "il faut faire et poursuivre le bien, et éviter le mal. Tous les autres préceptes de la loi naturelle se fondent sur celui-là",
+                "author": "Thomas d'Aquin",
+                "work": "Summa Theologiae, I-II q.94 a.2",
+                "year": "c. 1270",
+                "locator": "the first precept of the natural law",
+                "sourceUrl": "https://www.newadvent.org/summa/2094.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "good is to be done and pursued, and evil is to be avoided. All other precepts of the natural law are based upon this",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La régression ne peut pas démarrer. Il n'y a aucun commandement dont l'autorité demanderait une obligation antérieure d'obéir, car l'obligation découle de ce qu'une créature est et non de ce qu'on lui a dit. Le dilemme de l'Euthyphron perd aussi sa prise ici : Dieu ne consulte pas un étalon externe et n'en choisit pas un non plus, puisqu'il est l'auteur des natures sur lesquelles l'étalon se lit.",
+              "objection": {
+                "text": "Si le bien d'une créature découle du genre de créature qu'elle est, alors l'exposé fonctionne sans Dieu — et sa forme moderne la plus développée est athée. Philippa Foot a bâti exactement cette structure dans Natural Goodness, prenant l'exposé thomiste des vertus comme applicable aux incroyants, et Rosalind Hursthouse l'a développé plus loin ; chez l'une comme chez l'autre, le défaut moral est un défaut naturel, et aucun théisme n'entre à aucun moment. Cela ne réfute pas la loi naturelle. Cela sape l'usage qui en est fait ici, car une page soutenant que la morale exige Dieu ne peut pas s'appuyer sur le seul exposé théiste dont la machinerie est démontrablement détachable du théisme.",
+                "from": "within",
+                "sharedPremise": "elle accepte entièrement la prémisse de la loi naturelle — que ce qui est bon pour une créature découle du genre de créature qu'elle est, et que la raison peut le lire — et soutient à partir de cette seule prémisse que l'éthique qui en résulte est complète sans y ajouter Dieu.",
+                "response": "Les natures ne s'expliquent pas d'elles-mêmes. L'exposé dit ce qui est bon pour un humain sans dire pourquoi il existe des créatures de cette nature, ni pourquoi leur épanouissement est quelque chose dont l'univers répond, et ce sont là les questions auxquelles le théiste répond."
+              }
+            },
+            {
+              "id": "concurrentism",
+              "label": "Concurrentisme moral",
+              "heldBy": "Mark C. Murphy",
+              "oneLine": "Ni commandements ni natures seuls : les faits touchant Dieu et les faits touchant les créatures coopèrent, et la nécessité morale est l'attrait de la bonté divine spécifié par ce que vous êtes.",
+              "summary": "Le plus récent des trois, et il existe parce que son auteur juge que les deux autres échouent comme explications. Murphy soutient que la théorie du commandement divin ne peut rendre compte de ce qui fait que les commandements de Dieu lient, et que la loi naturelle ne garde pas du tout Dieu dans l'explication — une théorie où la loi morale serait exactement la même que Dieu existe ou non n'est pas une explication théiste de la morale, quelle que soit l'intention de ses partisans.\n\nSon alternative fait faire aux deux des travaux différents en même temps : la bonté de Dieu fournit l'attrait, et la nature de la créature détermine ce que cet attrait exige d'elle.",
+              "quote": {
+                "text": "toute nécessité morale est l'attrait de la bonté divine spécifié par la nature des créatures en jeu",
+                "author": "Mark C. Murphy",
+                "work": "God and Moral Law: On the Theistic Explanation of Morality",
+                "year": "2011",
+                "locator": "the thesis of moral concurrentism, quoted in the Notre Dame Philosophical Reviews notice",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "all moral necessity is the pull of divine goodness specified by the nature of the creatures involved",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection doit trouver un commandement sur lequel régresser, et il n'y en a pas : ce qui nécessite est un attrait et non une instruction, de sorte que demander pourquoi il faut lui obéir, c'est demander pourquoi il faut trouver le bien bon. Ce que l'objection peut faire à la place, c'est presser dans l'autre sens — savoir si un « attrait » qui n'exige aucune reconnaissance fait un travail que les natures ne faisaient pas déjà.",
+              "objection": {
+                "text": "Le propre critère de Murphy est qu'un exposé théiste de la morale doit rendre le rôle de Dieu explicatif et non décoratif, et l'objection est que le sien ne le passe pas. Si les natures font toute la spécification — si ce qu'il faut faire est entièrement fixé par ce que vous êtes — alors l'« attrait de la bonté divine » n'apporte aucun contenu, et un univers sans lui contiendrait les mêmes obligations. Une explication qui ne change rien à ce qu'elle explique est une addition et non un exposé.",
+                "from": "atheist",
+                "response": "L'attrait fournit la nécessité et non le contenu : les natures déterminent ce qui est exigé, et la bonté est la raison pour laquelle quelque chose est exigé du tout. Ce sont des travaux distincts, et l'objection les confond."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Si une obligation est constituée par un commandement, alors le fait qu'on vous commande quelque chose ne le rend obligatoire que si vous êtes déjà obligé de faire ce qu'on vous commande. Cette obligation antérieure ne peut pas être elle-même constituée par un commandement sans relancer la régression, elle doit donc venir d'ailleurs — et dès qu'autre chose peut engendrer une obligation, l'exposé a concédé le point qu'il faisait valoir. Ce n'est pas l'objection de l'athée ; c'est l'objection permanente faite à l'intérieur du théisme par ceux qui fondent la morale ailleurs.",
+            "objectionFrom": "within",
+            "sharedPremise": "elle accepte que Dieu existe, qu'il est bon et que les faits moraux sont réels, et soutient à partir de ces seules prémisses que les obligations ne peuvent être constituées par des commandements, puisque obéir à un commandement n'est obligatoire qu'étant donné une obligation antérieure d'obéir — prémisse que le théoricien du commandement divin accorde.",
+            "landsOn": [
+              "divine-command"
+            ],
+            "response": "L'obligation antérieure n'est pas un commandement supplémentaire mais un trait de la relation : une créature est à son créateur ce qu'un enfant est à un parent, et l'obligation d'écouter fait partie de ce qu'est cette relation plutôt que d'être une règle à l'intérieur d'elle."
+          }
+        },
+        {
+          "id": "why-would-we-track-them",
+          "claim": "Dans le naturalisme, le sens moral a été construit pour survivre, non pour atteindre la vérité morale",
+          "explanation": "Voici la moitié épistémologique, et elle vise la position la plus forte de l'autre camp et non une faible. Accordons qu'il existe des faits moraux objectifs tenant d'eux-mêmes. Demandons maintenant comment des créatures comme nous en sont venues à en connaître aucun.\n\nNos réactions morales ont été façonnées par la sélection, et la sélection récompense ce qui marche, non ce qui est vrai. Une tendance à protéger ses enfants est favorisée qu'il y ait ou non un fait indépendant des esprits voulant que vous le deviez. C'est l'argument de la [[démystification évolutionnaire]] retourné à l'usage du théiste : le réaliste naturaliste a des croyances dont il ne peut rendre compte de la fiabilité, tandis qu'un théiste peut le faire, puisque de facultés faites par un être moral on pourrait attendre qu'elles suivent la réalité morale.",
+          "quote": {
+            "text": "Le naturaliste doit tenir que les facultés morales humaines ont été façonnées par une sélection visant l'aptitude reproductive et non le suivi d'une vérité morale indépendante des esprits, et il n'a donc aucun compte à rendre de leur fiabilité ; le théiste, qui tient ces facultés pour créées par un Dieu bon, en a un.",
+            "author": "Mark D. Linville",
+            "work": "The Moral Argument, in The Blackwell Companion to Natural Theology",
+            "year": "2009",
+            "locator": "our summary of the evolutionary argument against naturalistic moral realism, pp. 391-448; not Linville's wording. At the top of VERIFICATION.md for a primary check",
+            "sourceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The naturalist must hold that human moral faculties were shaped by selection for reproductive fitness rather than for tracking mind-independent moral truth, and so has no account of their reliability; the theist, taking those faculties to be created by a good God, does.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "L'argument coupe contre celui qui l'emploie. Si la sélection a façonné nos facultés morales, elle les a façonnées que Dieu existe ou non — Dieu aurait dû passer par le même processus, de sorte que le théiste hérite du récit identique sur la façon dont les croyances sont arrivées et n'a ajouté qu'un espoir sur leur direction. Et le défi de la fiabilité a une réponse disponible : si certaines vérités morales sont nécessaires, alors tout processus produisant des croyances sur la coopération, le tort et l'équité produira des croyances vraies, non par chance, mais parce que ces vérités ne pouvaient pas être autrement.",
+            "objectionFrom": "atheist",
+            "response": "Cette réponse a besoin que les vérités nécessaires coïncident avec ce qui était adaptatif, et c'est précisément la coïncidence que l'argument désignait, non une explication d'elle."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mettre une personne dessous n'ajoute rien",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "no-maker-needed",
+          "claim": "Les vérités morales, s'il en est, n'ont pas plus besoin d'un auteur que les vérités mathématiques",
+          "explanation": "La réponse athée la plus connue n'est pas que la morale est inventée ni affaire de sentiment. C'est qu'il existe des vérités normatives objectives, qu'elles ne se réduisent pas à des faits naturels et qu'elles tiennent sans que rien les ait rendues telles — le statut même que le théiste a toujours été prêt à accorder à Dieu.\n\nL'argument est de parité. Le théiste s'arrête à un être dont la bonté n'est expliquée par rien d'autre ; le réaliste s'arrête un pas plus tôt, aux vérités elles-mêmes. Ni l'un ni l'autre ne peut dire pourquoi son point d'arrêt est là, et l'on n'accuse que l'un des deux de laisser quelque chose de côté. La version de Derek Parfit ajoute un tour qui aiguise la parité : les vérités sont réelles et objectives tout en ne portant aucun poids ontologique, de sorte qu'il n'y a rien de plus dans l'univers dont le théiste puisse exiger un compte.\n\nLes athées se divisent ici, et les divisions comptent plus que l'accord : l'une des versions ci-dessous est une [[théorie de l'erreur]] qui nie qu'il y ait des faits moraux, et accorde la première prémisse du théiste.",
+          "quote": {
+            "text": "il y a des énoncés irréductiblement normatifs au sens impliquant des raisons, et qui sont en un sens fort vrais. Ces vérités n'ont aucune implication ontologique.",
+            "author": "Derek Parfit",
+            "work": "On What Matters, volume II",
+            "year": "2011",
+            "locator": "the position Parfit calls Non-Metaphysical Non-Naturalist Normative Cognitivism",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "there are some claims that are irreducibly normative in the reason-involving sense, and are in a strong sense true. These truths have no ontological implications.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "robust-realism",
+              "label": "Réalisme non naturel robuste",
+              "heldBy": "David Enoch, Erik Wielenberg, Russ Shafer-Landau",
+              "oneLine": "Il y a des faits irréductiblement normatifs, indépendants de la volonté de quiconque, et ils sont aussi réels que le Dieu du théiste.",
+              "summary": "La version pleine puissance de l'argument principal, et celle qui assume le plus d'engagement métaphysique et non le moins. Là où Parfit tente de garder l'objectivité sans ontologie, Enoch et Wielenberg acceptent l'ontologie et la défendent : il y a réellement des propriétés morales non naturelles, et la gêne que cela provoque est le prix à payer pour prendre la morale au sérieux.\n\nWielenberg pousse le point de la parité le plus loin, en soutenant qu'un théiste qui accepte des faits nécessaires bruts touchant la nature de Dieu n'a pas qualité pour objecter à des faits nécessaires bruts touchant la bonté.",
+              "quote": {
+                "text": "il y a des vérités et des faits irréductiblement normatifs … [et ils] sont indépendants de nous, de nos désirs et de notre volonté (ou de celle de quiconque)",
+                "author": "David Enoch",
+                "work": "Taking Morality Seriously: A Defense of Robust Realism",
+                "year": "2011",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/taking-morality-seriously-a-defense-of-robust-realism/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "there are irreducibly normative truths and facts … [they] are independent of us, our desires and our (or anyone else's) will",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Elle ne la change pas. C'est la version contre laquelle l'objection de démystification est bâtie et celle qu'elle atteint le plus directement : des faits causalement inertes et indépendants de nous sont exactement ceux dont notre suivi est le plus difficile à expliquer. Les deux positions ci-dessous sont des manières de ne pas posséder de faits de ce genre."
+            },
+            {
+              "id": "naturalist-realism",
+              "label": "Réalisme naturaliste",
+              "heldBy": "Sam Harris ; les réalistes de Cornell : Richard Boyd, Peter Railton, Nicholas Sturgeon",
+              "oneLine": "Les faits moraux sont des faits naturels — sur le bien-être, l'épanouissement, ce que souffrent les créatures conscientes — ils sont donc objectifs et découvrables de façon ordinaire.",
+              "summary": "Cette version refuse l'ontologie non naturelle et le mystère qui l'accompagne. Si les énoncés moraux sont en dernière analyse des énoncés sur le bien-être des créatures conscientes, alors ils sont vrais ou faux comme le sont les énoncés sur la santé, et aucune faculté spéciale de perception morale n'est requise pour y parvenir.\n\nC'est la position la plus populaire hors de la philosophie et l'une des plus contestées en son sein : l'objection classique, depuis Moore, est que toute identification de la bonté à une propriété naturelle laisse ouverte la question de savoir si cette propriété est bonne — ce qui n'est pas une question qu'on puisse poser d'une véritable identité.",
+              "quote": {
+                "text": "Les questions sur les valeurs … sont en réalité des questions sur le bien-être des créatures conscientes.",
+                "author": "Sam Harris",
+                "work": "The Moral Landscape: How Science Can Determine Human Values",
+                "year": "2010",
+                "sourceUrl": "https://www.samharris.org/books/the-moral-landscape",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Questions about values … are really questions about the well-being of conscious creatures.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'argument de démystification doit être reformulé et perd beaucoup de sa force. Si les faits moraux sont des faits naturels sur ce qui nuit et ce qui aide des créatures comme nous, alors une faculté sélectionnée pour détecter le tort et l'aide à des créatures comme nous les suit par construction, et aucune coïncidence n'est à expliquer. Ce que l'objection peut encore presser, c'est la justesse de l'identification — mais c'est la question ouverte de Moore, non un argument de démystification."
+            },
+            {
+              "id": "error-theory",
+              "label": "Théorie de l'erreur",
+              "heldBy": "J. L. Mackie ; Richard Joyce",
+              "oneLine": "Les énoncés moraux ordinaires affirment bien des valeurs objectives, il n'y en a aucune, et le discours moral est donc systématiquement faux — non subjectif, faux.",
+              "summary": "La position le plus souvent laissée de côté dans ce débat, et celle qui le change le plus. Mackie s'accorde avec le théiste sur ce que signifie le langage moral et sur ce qu'il faudrait pour le rendre vrai : il faudrait vraiment des valeurs objectives, et ce seraient des entités très étranges, différentes de tout ce que nous connaissons. Puis il nie qu'il en existe.\n\nCe que cela fait à l'argument moral vaut d'être dit nettement. La forme habituelle est : si Dieu n'existe pas, les valeurs morales objectives n'existent pas ; les valeurs morales objectives existent ; donc Dieu existe. Mackie accepte la première prémisse et nie la seconde. C'est l'athée qui accorde le conditionnel du théiste, et c'est pourquoi une objection bâtie pour défendre la seconde prémisse passe entièrement à côté de lui.",
+              "quote": {
+                "text": "Il n'y a pas de valeurs objectives.",
+                "author": "J.L. Mackie",
+                "work": "Ethics: Inventing Right and Wrong",
+                "year": "1977",
+                "locator": "the opening sentence of chapter 1, 'The Subjectivity of Values'",
+                "sourceUrl": "https://spot.colorado.edu/~heathwoo/readings/mackie.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "There are no objective values.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Il ne lui reste rien à faire. Un argument de démystification montre que nos croyances morales ne sont pas expliquées par des faits moraux ; le théoricien de l'erreur en convient, et le dit depuis 1977. Visant ici, l'objection n'est pas une réfutation mais une reformulation de la position — et le théiste qui l'emploie doit passer à un tout autre argument, en faveur de l'existence des faits moraux que Mackie nie.",
+              "objection": {
+                "text": "L'argument de l'étrangeté prouve plus que son auteur ne voulait. S'il ne faut pas croire aux valeurs objectives parce qu'elles seraient métaphysiquement étranges et demanderaient une faculté bizarre pour les détecter, la même chose vaut des raisons épistémiques — les faits sur ce que vous devez croire étant donné vos données. L'argument des compagnons de culpabilité de Terence Cuneo presse exactement cela : une théorie de l'erreur sur la morale vous engage à une théorie de l'erreur sur les raisons, et alors la théorie de l'erreur elle-même n'est pas quelque chose que vous avez une raison de croire. Il y a aussi la question pratique de ce que fait un théoricien de l'erreur quand il continue de porter des jugements moraux, à quoi Richard Joyce répond par un fictionnalisme que la plupart de ses critiques regardent comme une concession.",
+                "from": "both",
+                "response": "Le parallèle peut être accepté. Joyce et d'autres théoriciens de l'erreur ont pris en charge le cas épistémique et mené la position jusqu'au bout, ce qui est plus que la plupart des arguments de compagnons de culpabilité n'attendent de leur cible."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Si nos attitudes évaluatives ont été façonnées par la sélection, et que la sélection est indifférente à la vérité normative, alors le réaliste fait face à un dilemme : ou bien ces attitudes sont sans rapport avec les vérités indépendantes, auquel cas rien ne permet de penser que les nôtres soient les bonnes, ou bien le réaliste doit un compte du suivi que l'indépendance des vérités rend très difficile à donner. Ce n'est pas une objection théiste — elle est faite depuis le naturalisme, contre d'autres naturalistes, et c'est le défi le plus cité au réalisme athée des vingt dernières années.",
+            "objectionFrom": "within",
+            "sharedPremise": "elle accepte le naturalisme et le récit évolutif de la provenance de nos attitudes évaluatives, et soutient à partir de ces seules prémisses qu'un réaliste qui tient les vérités morales pour indépendantes de nous doit encore rendre compte de ce qui ferait que nos attitudes les suivent.",
+            "landsOn": [
+              "robust-realism",
+              "naturalist-realism"
+            ],
+            "response": "Le compte du suivi est disponible si certaines vérités morales sont nécessaires : un processus qui produit des croyances sur le tort, l'équité et la coopération en produit de vraies parce que ces vérités ne pouvaient pas être autrement, et non parce qu'il les visait."
+          }
+        },
+        {
+          "id": "euthyphro",
+          "claim": "Ou les commandements de Dieu suivent quelque chose de déjà bon, ou la bonté est ce qu'il commande",
+          "explanation": "Socrate a posé la question il y a deux mille cinq cents ans et elle n'a jamais été retirée. Prenez n'importe quoi que Dieu commande. Ou il le commande parce que c'est bon, auquel cas cette bonté est indépendante de lui ; ou c'est bon parce qu'il le commande, auquel cas n'importe quoi aurait pu être bon.\n\nLa réponse habituelle est que la nature même de Dieu est l'étalon, de sorte que le choix est faux. La réplique est que cela déplace le dilemme : ou la nature de Dieu est bonne selon un étalon, ou « bon » signifie simplement « comme Dieu », ce qui fait que « Dieu est bon » ne dit rien.",
+          "quote": {
+            "text": "Le pieux est-il aimé des dieux parce qu'il est pieux, ou est-il pieux parce qu'il est aimé des dieux ?",
+            "author": "Platon",
+            "work": "Euthyphro",
+            "year": "c. 399 BC",
+            "locator": "10a; Socrates to Euthyphro",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La troisième option n'est pas une échappatoire et elle est plus ancienne que l'objection qu'on lui fait. La bonté est identifiée à la nature de Dieu, qui n'est ni un choix arbitraire ni un étalon externe qu'il consulte, car une nature n'est pas quelque chose que l'on sélectionne. Que « Dieu est bon » devienne alors quelque chose comme un énoncé d'identité n'est pas un défaut : « l'eau est H₂O » est peu informatif de la même façon et n'en est pas vide pour autant. Et le dilemme n'a aucune prise sur la version par la loi naturelle ci-dessus, où la question n'a jamais porté sur ce que Dieu commande.",
+            "objectionFrom": "theist",
+            "response": "L'identité ne marche que si nous pouvons reconnaître la bonté indépendamment, et c'est ce qui nous permet de dire que l'identité tient au lieu d'être stipulée — et cette reconnaissance est l'étalon indépendant dont le théiste disait qu'il n'y en avait pas."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "L'écart de Hume, que les deux camps réclament",
+      "oneLine": "L'écart de Hume entre ce qui est et ce qui doit être est un problème pour toute position de cette page, et c'est pourquoi presque toutes finissent par poser quelque chose de fondamental au lieu de le dériver.",
+      "text": "Hume a observé que les arguments glissent sans avertir d'énoncés sur ce qui est à des énoncés sur ce qui doit être, et que le pas n'est jamais justifié. Les deux camps le citent contre l'autre, et tous deux y ont droit.\n\nContre le naturaliste : aucun ensemble de faits sur le bien-être ou l'épanouissement ne compose une obligation sans une prémisse qui en contient déjà une. Contre le théiste : aucun ensemble de faits sur ce que Dieu est ou commande ne compose non plus une obligation, sans une prémisse voulant que vous devez faire ce que Dieu commande — et cette prémisse ne peut pas venir d'un autre commandement sans tourner en rond, ce qui est l'objection imprimée plus haut. L'écart est un problème pour quiconque dérive la morale de quoi que ce soit, et c'est pourquoi presque toute position de cette page finit par poser quelque chose de fondamental au lieu de le dériver. L'exception est le théoricien de l'erreur, qui n'a rien à poser."
+    },
+    {
+      "heading": "Trois choses que « objectif » peut signifier",
+      "oneLine": "L'essentiel du dialogue de sourds vient ici du mot « objectif » faisant trois travaux différents, et il vaut la peine de demander lequel chacun a en vue.",
+      "text": "L'essentiel du dialogue de sourds dans ce débat est un mot qui fait trois travaux. Il peut signifier *pas affaire d'opinion* — les nazis avaient tort même s'ils pensaient autrement. Il peut signifier *indépendant des esprits* — vrai qu'il existe ou non des esprits. Il peut signifier *fondé sur quelque chose hors du monde naturel*.\n\nLe premier sens est accordé par tout le monde ici sauf par le théoricien de l'erreur, qui le nie et le dit. Le deuxième est le lieu de presque tout le désaccord. Le troisième est une thèse théiste, et le supposer en silence est ce qui fait paraître l'argument circulaire vu du dehors : si « objectif » signifie « fondé hors de la nature », alors « une morale objective exige quelque chose hors de la nature » est vrai par définition et ne prouve rien. Quand un échange ne va nulle part, il vaut d'ordinaire la peine de demander lequel des trois chacun emploie."
+    }
+  ],
+  "whereItStands": "Les deux positions sont tenues par des gens sérieux et aucune n'est près de s'effondrer. Chez les philosophes en général, le réalisme moral est la vue majoritaire et le théisme non, ce qui veut dire que la plupart des réalistes moraux sont athées — un fait qui joue contre la thèse que la combinaison serait instable, bien que ce soit un décompte et non un argument.\n\nLà où l'argument a réellement bougé, c'est dans la moitié épistémologique. Le litige métaphysique est statique depuis longtemps, presque chaque position posant quelque chose de fondamental et aucune ne pouvant justifier de s'arrêter là où elle s'arrête. Mais la question de savoir comment des créatures évoluées en sont venues à connaître des vérités morales a produit un travail réel depuis vingt ans, et la version la plus dommageable de ce défi est faite par un athée contre d'autres athées. Les livres de Wielenberg y répondent pour une bonne part.\n\nCe qui n'est pas en litige, et qui est constamment mal rapporté, c'est de savoir si les athées peuvent être moraux. Personne dans ce débat ne pense le contraire, y compris ceux qui donnent la version la plus forte du dossier théiste — et la tradition de la loi naturelle a un exposé positif de la raison pour laquelle ils peuvent l'être.",
+  "commonMistake": "Les chrétiens laissent le plus souvent l'argument glisser de « l'athéisme ne peut pas fonder la morale » à « les athées n'ont pas de morale », ce qui est une autre thèse, qui est fausse, et que réfute chaque incroyant honnête que l'auditeur connaît. La deuxième erreur la plus fréquente est de traiter la théorie du commandement divin comme la position chrétienne, alors que la réponse plus ancienne et plus largement tenue de la tradition est la loi naturelle, qui fonde la morale dans les natures et attend des incroyants qu'ils distinguent parfaitement le bien du mal.\n\nLes athées répondent le plus souvent par un récit de la provenance de nos sentiments moraux — évolution, culture, empathie — comme si cela répondait à la question. Cela n'y répond pas : une explication de pourquoi nous croyons la cruauté mauvaise est compatible avec le fait qu'elle le soit et avec le fait qu'elle ne le soit pas. Et la version de la position athée la plus souvent défendue en public est une version que Mackie a passé un livre à nier, ce qu'il vaut mieux savoir avant de la défendre.\n\nLes deux camps traitent aussi leur propre point d'arrêt comme raisonnable et celui de l'autre comme arbitraire. Dieu, incausé et bon par nature, et les faits moraux, incausés et vrais par nécessité, c'est le même geste fait à deux endroits.",
+  "sources": [
+    {
+      "title": "The Moral Argument for God",
+      "author": "William Lane Craig",
+      "url": "https://www.reasonablefaith.org/writings/question-answer/the-moral-argument-for-god",
+      "note": "L'exposé de l'argument par Craig lui-même et de ce qu'il entend par « objectif »."
+    },
+    {
+      "title": "Summa Theologiae I-II, question 94 : la loi naturelle",
+      "author": "Thomas d'Aquin",
+      "year": "c. 1270",
+      "url": "https://www.newadvent.org/summa/2094.htm",
+      "note": "Le premier précepte, et pourquoi, selon la tradition, les incroyants connaissent la morale."
+    },
+    {
+      "title": "God and Moral Law: On the Theistic Explanation of Morality",
+      "author": "Mark C. Murphy",
+      "year": "2011",
+      "url": "https://ndpr.nd.edu/reviews/god-and-moral-law-on-the-theistic-explanation-of-morality/",
+      "note": "Murphy montre que commandement divin et loi naturelle échouent tous deux comme explications théistes, et propose un troisième exposé."
+    },
+    {
+      "title": "The Moral Argument",
+      "author": "Mark D. Linville",
+      "year": "2009",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781444308334.ch7",
+      "note": "La forme savante du dossier épistémologique théiste. Paraphrasé sur cette page et mis en tête de VERIFICATION.md pour une vérification primaire."
+    },
+    {
+      "title": "Does Anything Really Matter? Essays on Parfit on Objectivity",
+      "url": "https://ndpr.nd.edu/reviews/does-anything-really-matter-essays-on-parfit-on-objectivity/",
+      "note": "Expose la position de Parfit en ses propres termes, y compris le passage cité."
+    },
+    {
+      "title": "Taking Morality Seriously: A Defense of Robust Realism",
+      "author": "David Enoch",
+      "year": "2011",
+      "url": "https://ndpr.nd.edu/reviews/taking-morality-seriously-a-defense-of-robust-realism/"
+    },
+    {
+      "title": "The Moral Landscape: How Science Can Determine Human Values",
+      "author": "Sam Harris",
+      "year": "2010",
+      "url": "https://www.samharris.org/books/the-moral-landscape"
+    },
+    {
+      "title": "Ethics: Inventing Right and Wrong, chapitre 1",
+      "author": "J.L. Mackie",
+      "year": "1977",
+      "url": "https://spot.colorado.edu/~heathwoo/readings/mackie.pdf",
+      "note": "« La subjectivité des valeurs », dont l'argument de l'étrangeté, librement lisible."
+    },
+    {
+      "title": "Euthyphro dilemma",
+      "url": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+      "note": "Le passage en 10a, avec les réponses théistes classiques et les répliques qui leur sont faites."
+    }
+  ]
+}
