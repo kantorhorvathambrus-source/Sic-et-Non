@@ -1,135 +1,84 @@
 #!/usr/bin/env node
-// Builds a non-English topic file from the English one plus a translation
-// payload. Structure, ids, quote attribution and source URLs come from English,
-// so the five files cannot drift apart; the payload supplies only prose.
+// Builds a non-English topic file from the English one plus a prose payload.
 //
-//   node scripts/i18n-tools/build-locale.mjs <locale> <payload.json>
+//   node scripts/i18n-tools/build-locale.mjs <locale> <NN> [payload.json]
 //
-// Every quotation keeps the source wording in `original`, which the page shows
-// underneath the translation in smaller type. Paraphrases get no `original`,
-// because the sentence is ours, not the author's.
+// The payload defaults to scripts/i18n-tools/maps/<locale>-<NN>.json.
+//
+// Structure, ids, quote attribution and source URLs come from English, so the
+// five files cannot drift apart; the payload supplies only prose. It is refused
+// unless it covers every prose path and nothing else, so a missed string is a
+// loud failure rather than an English sentence left in place.
+//
+// Names, work titles and locators are not in the payload at all. They come from
+// the tables in lib/tables.mjs, keyed on the English string, so the same source
+// cannot end up labelled two ways in two files.
 
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { walk, flat, quotes, setv, getv, loadTopic, topicPath, ROOT } from './lib/paths.mjs';
+import { AUTHORS, WORKS, DESCWORKS, LOCATORS } from './lib/tables.mjs';
 
-const ROOT = new URL('../..', import.meta.url).pathname;
-const [locale, payloadPath] = process.argv.slice(2);
+const [lang, num, payloadArg] = process.argv.slice(2);
+if (!lang || !num) {
+  console.error('usage: build-locale.mjs <locale> <NN> [payload.json]');
+  process.exit(1);
+}
+const payloadPath = payloadArg ?? join(ROOT, `scripts/i18n-tools/maps/${lang}-${num}.json`);
 
-if (!locale || !payloadPath) {
-  console.error('usage: build-locale.mjs <locale> <payload.json>');
+const en = await loadTopic('en', num);
+const payload = JSON.parse(await readFile(payloadPath, 'utf8'));
+const prose = payload.prose ?? {};
+const workOverride = payload.work ?? {};
+if (!payload.slug) {
+  console.error(`${payloadPath}: no slug`);
   process.exit(1);
 }
 
-const source = JSON.parse(
-  await readFile(join(ROOT, 'src/content/topics/en/06-creation-or-evolution.json'), 'utf8'),
-);
-const t = JSON.parse(await readFile(payloadPath, 'utf8'));
-
-function need(value, what) {
-  if (value === undefined) throw new Error(`translation payload is missing ${what}`);
-  return value;
+const out = JSON.parse(JSON.stringify(en));
+const wanted = walk(en).map(([p]) => p);
+const missing = wanted.filter((p) => !(p in prose));
+const extra = Object.keys(prose).filter((p) => !wanted.includes(p)).sort();
+if (missing.length || extra.length) {
+  const say = [];
+  if (missing.length) say.push(`MISSING from the payload (${missing.length}):\n  ${missing.join('\n  ')}`);
+  if (extra.length) say.push(`NOT a prose path (${extra.length}):\n  ${extra.join('\n  ')}`);
+  console.error(`refusing to write ${lang}/${num}\n${say.join('\n')}`);
+  process.exit(1);
 }
 
-function translateQuote(quote, text, workLabel) {
-  if (!quote) return undefined;
-  const out = { ...quote, text: need(text, 'a quote translation') };
-  if (workLabel) out.work = workLabel;
-  if (quote.verification !== 'paraphrase') {
-    out.original = { text: quote.text, language: 'en' };
+for (const p of wanted) setv(out, p, prose[p]);
+for (const [p, v] of Object.entries(workOverride)) {
+  if (!p.endsWith('.work')) throw new Error(`work override is not a .work path: ${p}`);
+  getv(en, p);                                  // must exist in English
+  setv(out, p, v);
+}
+out.slug = payload.slug;
+
+// One table per kind of label, keyed on the English string.
+let renamed = 0, works = 0, locs = 0;
+const sourceTitle = /^\.sources\[\d+\]\.title$/;
+for (const [p, v] of Object.entries(flat(en))) {
+  if (typeof v !== 'string') continue;
+  if (p.endsWith('.author') && AUTHORS[v]?.[lang]) { setv(out, p, AUTHORS[v][lang]); renamed++; }
+  // A work title is glossed identically wherever it appears, so a source entry
+  // and the quotation that cites it never disagree.
+  if ((p.endsWith('.work') || sourceTitle.test(p)) && WORKS[v]?.[lang] && !(p in workOverride)) {
+    setv(out, p, WORKS[v][lang]); works++;
   }
-  return out;
+  if (p.endsWith('.work') && DESCWORKS[v]?.[lang] && !(p in workOverride)) {
+    setv(out, p, DESCWORKS[v][lang]); works++;
+  }
+  if (p.endsWith('.locator') && LOCATORS[v]?.[lang]) { setv(out, p, LOCATORS[v][lang]); locs++; }
 }
 
-const out = {
-  ...source,
-  slug: need(t.slug, 'slug'),
-  title: need(t.title, 'title'),
-  realQuestion: need(t.realQuestion, 'realQuestion'),
-  distinctions: source.distinctions?.map((item, i) => ({
-    ...item,
-    label: need(t.distinctions?.[i]?.label, `distinctions[${i}].label`),
-    gloss: need(t.distinctions?.[i]?.gloss, `distinctions[${i}].gloss`),
-  })),
-  notes: source.notes?.map((item, i) => ({
-    ...item,
-    heading: need(t.notes?.[i]?.heading, `notes[${i}].heading`),
-    text: need(t.notes?.[i]?.text, `notes[${i}].text`),
-    quote: translateQuote(item.quote, t.notes?.[i]?.quote, t.notes?.[i]?.work),
-  })),
-  settledCore: need(t.settledCore, 'settledCore'),
-  glossary: source.glossary.map((_entry, i) => ({
-    term: need(t.glossary[i]?.term, `glossary[${i}].term`),
-    definition: need(t.glossary[i]?.definition, `glossary[${i}].definition`),
-  })),
-  sides: source.sides.map((side, s) => ({
-    ...side,
-    label: need(t.sides[s]?.label, `sides[${s}].label`),
-    arguments: side.arguments.map((argument, a) => {
-      const tr = need(t.sides[s]?.arguments?.[a], `sides[${s}].arguments[${a}]`);
-      if (tr.id !== argument.id) {
-        throw new Error(`argument ${s}.${a}: payload id "${tr.id}" != source id "${argument.id}"`);
-      }
-      return {
-        ...argument,
-        claim: need(tr.claim, 'claim'),
-        explanation: need(tr.explanation, 'explanation'),
-        quote: translateQuote(argument.quote, tr.quote, tr.work),
-        counter: argument.counter && {
-          ...argument.counter,
-          objection: need(tr.objection, 'counter.objection'),
-          response: argument.counter.response ? need(tr.response, 'counter.response') : undefined,
-        },
-      };
-    }),
-  })),
-  context: source.context && {
-    ...source.context,
-    heading: need(t.context?.heading, 'context.heading'),
-    intro: source.context.intro ? need(t.context?.intro, 'context.intro') : undefined,
-    note: source.context.note && {
-      ...source.context.note,
-      heading: need(t.context?.note?.heading, 'context.note.heading'),
-      text: need(t.context?.note?.text, 'context.note.text'),
-      quote: translateQuote(
-        source.context.note.quote,
-        t.context?.note?.quote,
-        t.context?.note?.work,
-      ),
-    },
-    entries: source.context.entries.map((entry, e) => {
-      const tr = need(t.context?.entries?.[e], `context.entries[${e}]`);
-      if (tr.id !== entry.id) {
-        throw new Error(`context entry ${e}: payload id "${tr.id}" != source id "${entry.id}"`);
-      }
-      return {
-        ...entry,
-        name: need(tr.name, 'name'),
-        heldBy: need(tr.heldBy, 'heldBy'),
-        oneLine: need(tr.oneLine, 'oneLine'),
-        summary: need(tr.summary, 'summary'),
-        standing: need(tr.standing, 'standing'),
-        quote: translateQuote(entry.quote, tr.quote, tr.work),
-        onConflict: entry.onConflict && {
-          ...entry.onConflict,
-          text: need(tr.onConflict?.text, `context.entries[${e}].onConflict.text`),
-          quote: translateQuote(
-            entry.onConflict.quote,
-            tr.onConflict?.quote,
-            tr.onConflict?.work,
-          ),
-        },
-        standingQuote: translateQuote(entry.standingQuote, tr.standingQuote, tr.standingWork),
-      };
-    }),
-  },
-  whereItStands: need(t.whereItStands, 'whereItStands'),
-  commonMistake: need(t.commonMistake, 'commonMistake'),
-  sources: source.sources.map((entry, i) => ({
-    ...entry,
-    ...(t.sources?.[i] ?? {}),
-  })),
-};
+// Every translated quotation carries the English wording it was checked against.
+const eq = quotes(en), tq = quotes(out);
+eq.forEach(([, a], i) => { tq[i][1].original = { text: a.text, language: 'en' }; });
 
-const target = join(ROOT, `src/content/topics/${locale}/06-creation-or-evolution.json`);
-await writeFile(target, JSON.stringify(out, null, 2) + '\n');
-console.log(`wrote ${locale}: ${out.slug}`);
+const dest = topicPath(lang, num);
+await writeFile(dest, JSON.stringify(out, null, 2) + '\n');
+console.log(
+  `wrote ${dest}: ${wanted.length} prose strings, ${renamed} name(s) localised, ` +
+  `${works + Object.keys(workOverride).length} work gloss(es), ${locs} locator(s), slug='${out.slug}'`,
+);

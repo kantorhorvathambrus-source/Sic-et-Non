@@ -34,24 +34,34 @@ row on any home page is marked "not written yet".
 All five languages are structurally identical — each non-English locale is a
 full translation of the English files, not an abridgement. That identity was verified file by file
 during translation and is visible in the per-topic counts below, but it is not
-fully enforced by a tool: `scripts/verify-quotes.mjs` checks cross-locale
-agreement on bibliography URLs, bibliography authors, the presence of
-`quote.original` under every translated quotation, and who raises each
-objection — it does not compare argument and variant inventories across
-locales. The Zod schema in `src/content.config.ts` enforces the per-file shape
-rules (variant symmetry, `landsOn`, the paraphrase disclaimer, no
-`title-only`) in every language.
+enforced by two tools working from opposite ends. `scripts/verify-quotes.mjs`
+checks cross-locale agreement on bibliography URLs, bibliography authors, the
+presence of `quote.original` under every translated quotation, and who raises
+each objection. `scripts/i18n-tools/check-locale.mjs` compares `es`, `fr` and
+`de` against English path by path, so argument and variant inventories cannot
+diverge without failing: a path that exists in one and not the other is an
+error, and so is any non-prose value that is neither byte-identical to English
+nor the registered localisation for that locale. The Zod schema in
+`src/content.config.ts` enforces the per-file shape rules (variant symmetry,
+`landsOn`, the paraphrase disclaimer, no `title-only`) in every language.
 
-| | `en` | `hu` | `es` / `fr` / `de` (topic 6 only) |
-|---|---|---|---|
-| Argument slots | 84 | 84 | 6 each |
-| Variants | 53 (30 Christian / 23 atheist) | 53 | 4 each |
-| `within`-side objections | 29 | 29 | 1 each |
-| Quotation slots | 140 | 140 | 10 each |
-| Of those, paraphrases | 14 | 14 | 0 each |
-| Notes | 32 | 32 | 0 each |
-| Distinctions | 61 | 61 | 3 each |
-| Glossary entries | 78 (76 distinct terms) | 78 | 6 each |
+`hu` is outside that path-by-path check for now, because its names, work titles
+and locators predate the registry the check reads; `scripts/i18n-tools/README.md`
+says what registering them would take.
+
+Every locale now mirrors English exactly, which is what the path-by-path check
+proves rather than asserts:
+
+| | `en` | `hu` / `es` / `fr` / `de` |
+|---|---|---|
+| Argument slots | 84 | 84 |
+| Variants | 53 (30 Christian / 23 atheist) | 53 |
+| `within`-side objections | 29 | 29 |
+| Quotation slots | 140 | 140 |
+| Of those, paraphrases | 14 | 14 |
+| Notes | 32 | 32 |
+| Distinctions | 61 | 61 |
+| Glossary entries | 78 (76 distinct terms) | 78 |
 
 Arguments per side is 2 on eighteen topics and 3 on topics 3 and 6 — that is
 the 84. Variants per topic run from 1 (topic 13, where the atheist side declares
