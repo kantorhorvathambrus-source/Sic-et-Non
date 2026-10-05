@@ -1,0 +1,312 @@
+{
+  "id": "origin-of-life",
+  "number": 7,
+  "slug": "origine-de-la-vie",
+  "title": "D'où vient la première cellule vivante ?",
+  "category": "natural-science",
+  "status": "open",
+  "realQuestion": "Tout ce qui vit descend de quelque chose de vivant. Remontez assez loin et vous atteignez une première chose qui n'en descendait pas, et personne ne sait comment elle a commencé.\n\nJusque-là, on s'accorde. Ce qui se discute, c'est le sens de la lacune. Un camp dit que la difficulté n'est pas ordinaire : une cellule fonctionne avec une séquence codée, et nous n'avons jamais vu un code écrit par autre chose qu'un esprit. L'autre dit que la lacune a la forme ordinaire d'un problème non résolu dans un champ jeune, qu'elle se resserre sans interruption depuis soixante-dix ans, et que « nous ne savons pas encore le faire » n'a jamais été une raison de conclure « cela ne peut pas se faire ».\n\nCe n'est pas le débat sur l'évolution. L'évolution démarre dès que quelque chose peut se copier imparfaitement ; la façon dont le premier copieur est apparu est une autre question (l'[[abiogenèse]]), et la théorie de Darwin n'y répond pas et n'a jamais prétendu le faire.",
+  "distinctions": [
+    {
+      "label": "L'évolution dépend-elle de la solution de ce problème ?",
+      "gloss": "Non, et les deux camps en conviennent ici. La sélection naturelle a besoin d'une population qui se réplique déjà. La descendance commune repose sur des données qui tiennent quelle que soit la réponse de cette page. Mise de côté, et discutée au sujet 6.",
+      "activeHere": false
+    },
+    {
+      "label": "Existe-t-il une voie démontrée de la chimie à une cellule vivante ?",
+      "gloss": "Pas encore, et tout le monde le dit. Le désaccord porte sur ce qui s'ensuit : est-ce une lacune du genre qui se referme, ou d'un genre qui ne se referme pas. C'est l'argument de cette page.",
+      "activeHere": true
+    },
+    {
+      "label": "Ce concepteur devrait-il être Dieu ?",
+      "gloss": "Un pas de plus que l'inférence du dessein ne franchit pas seule. Passer d'« un esprit » à quelque chose qui mérite d'être adoré demande les arguments des sujets 2 et 5. Non tenté ici.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "abiogenèse",
+      "definition": "L'origine de la vie à partir d'une chimie non vivante. Une question distincte de l'évolution, qui explique ce qui arrive une fois que quelque chose peut déjà se reproduire."
+    },
+    {
+      "term": "monde à ARN",
+      "definition": "La proposition selon laquelle l'ARN a précédé l'ADN et les protéines, parce qu'il peut à la fois porter de l'information et servir de catalyseur. Largement admise, non établie, et pas la seule candidate."
+    },
+    {
+      "term": "information spécifiée",
+      "definition": "Dans cet argument, une séquence qui est à la fois improbable et fait un travail déterminé — comme une phrase le fait et comme une suite aléatoire de même longueur ne le fait pas. Savoir si l'expression nomme une chose ou deux fait partie du litige."
+    },
+    {
+      "term": "gradient de protons",
+      "definition": "Une différence d'acidité de part et d'autre d'une membrane. Toute cellule vivante en utilise un pour produire de l'énergie, et c'est pourquoi en trouver un naturel au bon endroit compte pour cet argument."
+    },
+    {
+      "term": "protocellule",
+      "definition": "Une gouttelette délimitée par une membrane, qui croît et se divise sans être vivante. On en fabrique en laboratoire ; l'écart entre l'une d'elles et une cellule est l'écart dont parle cette page."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Un code est le genre de chose qui réclame un auteur",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "information-from-minds",
+          "claim": "Tout code dont nous connaissons l'histoire a été écrit par quelqu'un, et la cellule fonctionne avec un code",
+          "explanation": "L'argument n'est pas que l'origine de la vie est difficile. Il est que la chose à expliquer est d'un genre particulier. L'ADN n'a pas seulement une structure, comme un cristal ; il porte une séquence qui en spécifie une autre, selon une correspondance arbitraire de la façon dont un alphabet est arbitraire — rien dans la chimie du triplet CAG ne fait qu'il signifie la glutamine.\n\nLe dossier de Stephen Meyer est une inférence tirée de l'expérience et non de l'ignorance : partout où nous pouvons remonter une séquence d'[[information spécifiée]] jusqu'à sa source, la source se révèle être un esprit. Appliquer cela au seul cas que nous ne pouvons pas observer est, soutient-il, la façon ordinaire dont raisonnent les sciences historiques, et non un écart par rapport à elle.",
+          "quote": {
+            "text": "Notre expérience uniforme confirme que l'information spécifiée ou fonctionnelle — qu'elle soit gravée en hiéroglyphes, écrite dans un livre, codée dans un signal radio ou produite dans une expérience d'« ingénierie de ribozymes » du monde à ARN — provient toujours d'une source intelligente, d'un esprit, et non d'un processus strictement matériel.",
+            "author": "Stephen C. Meyer",
+            "work": "Return of the God Hypothesis",
+            "year": "2021",
+            "locator": "the design inference as Meyer states it; the same argument runs through Signature in the Cell (2009)",
+            "sourceUrl": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Our uniform experience affirms that specified or functional information—whether inscribed in hieroglyphics, written in a book, encoded in a radio signal, or produced in an RNA-world 'ribozyme-engineering' experiment—always arises from an intelligent source, from a mind, not a strictly material process.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La prémisse fait tout le travail et c'est elle qui est contestée. L'« expérience uniforme » de l'information codée est une expérience uniforme d'artefacts humains, et de rien d'autre : l'échantillon est une espèce sur quelques milliers d'années. L'étendre à un cas vieux de quatre milliards d'années, dans des conditions que personne n'a observées, n'est pas de l'induction mais une supposition. Et l'arbitraire du code génétique est lui-même à l'étude : plusieurs de ses attributions suivent la chimie des acides aminés qu'elles désignent, ce qui est ce qu'on attendrait si la correspondance avait poussé plutôt que d'avoir été assignée.",
+            "objectionFrom": "atheist",
+            "response": "Qu'un échantillon soit limité est une raison de prudence, non une raison de préférer l'autre hypothèse, qui n'a aucun cas positif. Personne n'a vu non plus une chimie non guidée écrire un code.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "evolutionary-creation",
+              "label": "Création évolutive",
+              "heldBy": "Francis Collins et BioLogos ; Denis Alexander ; la position dominante en théologie catholique et anglicane",
+              "oneLine": "Dieu est l'auteur du processus entier, y compris de la chimie qui a produit la première cellule — de sorte que l'origine de la vie est un problème scientifique, non un indice en sa faveur.",
+              "summary": "Cette position tient tout ce que l'inférence du dessein tient de Dieu et presque rien de ce qu'elle tient de la méthode. La création n'est pas une série d'interventions mais l'existence et la régularité du système entier, de sorte qu'une voie naturelle de la chimie à la vie ne serait pas une défaite pour le théisme ; elle serait la description de la manière dont Dieu a fait.\n\nCollins dit nettement que la stratégie inverse est dangereuse, et il applique l'avertissement au dessein intelligent nommément. Une foi accrochée à un problème aujourd'hui non résolu hérite du sort de ce problème.",
+              "quote": {
+                "text": "Une foi qui place Dieu dans les lacunes de la compréhension actuelle du monde naturel peut courir à la crise si les progrès de la science viennent ensuite combler ces lacunes.",
+                "author": "Francis S. Collins",
+                "work": "The Language of God: A Scientist Presents Evidence for Belief",
+                "year": "2006",
+                "sourceUrl": "https://en.wikipedia.org/wiki/Francis_Collins",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Faith that places God in the gaps of current understanding about the natural world may be headed for crisis if advances in science subsequently fill those gaps.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection ci-dessus ne peut pas démarrer, car cette position ne tire aucune inférence de l'information à un concepteur. Lui dire que notre expérience uniforme des codes est une expérience uniforme d'artefacts humains, c'est lui dire une chose qu'elle accorde déjà et dont elle n'a aucun usage : elle n'argumente pas du tout à partir du code.",
+              "objection": {
+                "text": "Si Dieu agit entièrement par des causes naturelles à l'origine de la vie, alors rien de l'origine de la vie n'est un indice de lui, et la position est empiriquement indiscernable du naturalisme auquel on l'oppose. Les partisans du dessein intelligent y voient une abdication ; les athées, une concession. Les uns et les autres posent la même question : quel travail Dieu fait-il ici qui pourrait jamais se remarquer ?",
+                "from": "both",
+                "response": "Indiscernable à l'intérieur de la chimie, qui est le seul terrain où la comparaison est menée. On n'a jamais prétendu que Dieu fût une cause parmi les causes chimiques, et une doctrine de la création qui l'exigerait serait la plus faible."
+              }
+            },
+            {
+              "id": "young-earth-creation",
+              "label": "Création directe, et récente",
+              "heldBy": "Answers in Genesis ; Ken Ham ; l’Institute for Creation Research",
+              "oneLine": "La vie n'est pas née de la chimie du tout : les espèces vivantes ont été faites directement, au cours des dix mille dernières années, et la loi de la biogenèse le dit.",
+              "summary": "La forme la plus forte du camp théiste, et celle qui concède le moins. Elle ne soutient pas qu'un concepteur soit la meilleure explication d'une difficulté chimique ; elle nie qu'il y ait eu un épisode chimique à expliquer. L'argument scientifique avancé est la loi de la biogenèse — on n'a jamais observé la vie naître du non-vivant —, traitée non comme un résumé de l'expérience actuelle mais comme une loi en vigueur dotée d'un auteur nommé.\n\nElle est exposée ici dans sa propre force et non par l'intermédiaire d'un critique, et son public est large : c'est ce qu'on enseigne à une minorité considérable de chrétiens américains.",
+              "quote": {
+                "text": "La vie ne vient que de la vie. Telle est la loi établie par l'Auteur de la Vie, qui est le Chemin, la Vérité et la Vie : Jésus-Christ.",
+                "author": "Answers in Genesis",
+                "work": "Life from Life… or Not?",
+                "year": "2018",
+                "sourceUrl": "https://answersingenesis.org/origin-of-life/life-from-life-or-not/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Life only comes from life. This was the law established by the Author of Life, Who is the Way, the Truth, and the Life—Jesus Christ.",
+                  "language": "en"
+                }
+              },
+              "againstSettledCore": "Cela entre en conflit avec le noyau établi du sujet 6, qui ne fait pas débat chez les biologistes et les géologues : les espèces vivantes descendent avec modification d'ancêtres communs, et la Terre a environ 4,5 milliards d'années. La datation est établie indépendamment par les méthodes radiométriques, les carottes de glace, les varves, les bandes de croissance des coraux et le temps de trajet de la lumière des étoiles, et aucun résultat dans aucun de ces domaines n'appuie une création récente. La position est imprimée ici dans toute sa force parce qu'elle est réellement tenue et parce que la paraphraser par ses critiques serait l'erreur que ce site a été bâti pour éviter — et signalée parce que l'imprimer sans la signaler serait l'autre.",
+              "changesTheObjection": "L'objection ci-dessus visait une inférence que cette position ne fait pas. Elle ne raisonne pas de l'improbabilité d'une séquence à un esprit ; elle nie qu'aucune séquence prébiotique ait eu lieu, sur l'autorité d'un texte. Un argument sur les limites de l'induction à partir d'artefacts humains n'a rien à mordre.",
+              "objection": {
+                "text": "La loi de la biogenèse est une généralisation tirée de l'observation, non une loi douée de force modale, et on lui demande un travail qu'aucune généralisation empirique ne peut faire : exclure un événement auquel personne n'a assisté. Les créationnistes de la Terre ancienne et les créationnistes évolutionnistes objectent sur le même terrain que les géologues — la position exige que les méthodes de datation indépendantes se trompent d'une manière coordonnée que personne n'a expliquée — et ajoutent une objection théologique : suspendre la foi à une affirmation que les données contredisent prépare un jeune croyant à perdre les deux d'un coup.",
+                "from": "both",
+                "response": "Les méthodes de datation reposent sur des hypothèses touchant les conditions initiales et la constance des rythmes, hypothèses qui ne peuvent elles-mêmes être observées, et l'Écriture est un témoin des origines mieux attesté qu'une extrapolation."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-size-of-the-search",
+          "claim": "L'espace des séquences possibles est bien trop vaste pour qu'une recherche sans direction en ait trouvé une qui marche",
+          "explanation": "C'est la thèse empirique sur laquelle repose l'inférence, et c'est un nombre et non une intuition. Douglas Axe, travaillant sur un fragment d'une enzyme β-lactamase, a estimé quelle part de l'espace des séquences produit une chaîne qui se replie en un site actif fonctionnel.\n\nSi les séquences fonctionnelles sont aussi rares, la question n'est pas de savoir si une recherche aveugle est lente mais si elle est possible : il n'y a pas eu assez de secondes, assez de molécules ni assez de planètes. L'argument conclut que la recherche a dû être dirigée, car rien d'autre n'aurait pu trouver la cible.",
+          "quote": {
+            "text": "parmi les gènes possibles codant des chaînes protéiques de 153 acides aminés, on s'attend à ce qu'un seul sur cent billions de billions de billions de billions de billions de billions code une chaîne qui se replie assez bien pour remplir une fonction biologique.",
+            "author": "Douglas Axe",
+            "work": "Undeniable: How Biology Confirms Our Intuition That Life Is Designed",
+            "year": "2016",
+            "locator": "the popular statement of the estimate published in the Journal of Molecular Biology, 2004",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/15321723/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "of the possible genes encoding protein chains 153 amino acids in length, only about one in a hundred trillion trillion trillion trillion trillion trillion is expected to encode a chain that folds well enough to perform a biological function!",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "L'estimation mesure un repliement dans une protéine, puis traite les séquences fonctionnelles comme des îles isolées dans un espace qu'il faudrait parcourir à l'aveugle. Les deux hypothèses sont contestées par les chercheurs en évolution des protéines : les régions fonctionnelles peuvent être connectées plutôt qu'isolées, la recherche n'est pas aveugle parce que la sélection conserve les succès partiels, et un décompte des séquences qui produisent un repliement précis n'est pas un décompte des séquences qui auraient fait un travail quelconque. Une autre objection, poussée par des chrétiens de BioLogos et d'ailleurs, est stratégique et non technique : fonder une cause pour Dieu sur un problème aujourd'hui non résolu le place là où est l'ignorance, de sorte que chaque avancée de la chimie prébiotique devient une petite défaite pour la foi.",
+            "objectionFrom": "atheist",
+            "response": "L'inférence ne part pas de l'ignorance mais d'une thèse positive sur ce que font les esprits et sur ce que la chimie ne fait pas. Et un argument qu'une découverte affaiblirait est, sous ce rapport, un argument scientifique ordinaire, non un argument douteux."
+          }
+        }
+      ]
+    },
+    {
+      "label": "La chimie se résout peu à peu, étape par étape",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "vents-supply-the-energy",
+          "claim": "Les sources alcalines fournissent gratis ce qui fait marcher toute cellule vivante",
+          "explanation": "La version la plus forte de ce camp n'est pas une promesse. Toute cellule vivante s'alimente au moyen d'un [[gradient de protons]] à travers une membrane — un fait si universel qu'il précède presque certainement la séparation des bactéries et des archées, et si étrange qu'il demande une explication.\n\nLes sources hydrothermales alcalines produisent exactement ce gradient sans aucune biologie, dans un labyrinthe de minces parois minérales aux surfaces catalytiques de fer et de soufre. Vu ainsi, l'énigme s'inverse : la vie n'a pas eu à inventer son système énergétique, elle a poussé à l'intérieur d'un système déjà en marche.",
+          "quote": {
+            "text": "la différence de pH à travers de minces barrières produisait des gradients de protons naturels de magnitude et de polarité équivalentes à la force proton-motrice requise pour la fixation du carbone chez les bactéries et les archées actuelles",
+            "author": "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí et Nick Lane",
+            "work": "The Origin of Life in Alkaline Hydrothermal Vents, Astrobiology 16(2)",
+            "year": "2016",
+            "sourceUrl": "https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf",
+            "verification": "corroborated",
+            "sawWhat": "abstract",
+            "original": {
+              "text": "the difference in pH across thin barriers produced natural proton gradients with equivalent magnitude and polarity to the proton-motive force required for carbon fixation in extant bacteria and archaea",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Un gradient est de l'énergie, et l'énergie n'est pas le problème. De la glace sur une pente a un gradient. Ce qu'il faut expliquer, c'est un système qui en exploite un pour se construire et se copier, et la distance entre un pore minéral qui fait de la chimie et une cellule qui tient un métabolisme est exactement la distance en question. Nommer un lieu plausible n'est pas démontrer une voie.",
+            "objectionFrom": "theist",
+            "response": "Ce n'est pas seulement un lieu. La thèse est que le mécanisme précis qu'emploient les cellules modernes est présent dans l'environnement avant qu'aucune cellule n'existe, ce qui est une prédiction testable et non un espoir ; et des réacteurs construits pour l'éprouver ont produit des molécules organiques à partir de dioxyde de carbone et d'hydrogène.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "replication-first",
+              "label": "La réplication d'abord",
+              "heldBy": "John Sutherland, Matthew Powner ; Jack Szostak ; Gerald Joyce",
+              "oneLine": "Ce qui a dû venir d'abord est une molécule qui se copie, et la chimie permettant de fabriquer ses pièces se construit pas à pas en laboratoire.",
+              "summary": "L'autre moitié du champ, et elle est en désaccord avec l'hypothèse des sources sur ce qui est venu d'abord. Selon elle, la vie commence quand quelque chose se met à se copier avec des erreurs, car c'est le point où la sélection peut démarrer ; le métabolisme suit.\n\nLe programme est synthétique plutôt que géologique : au lieu de chercher un lieu où la chimie aurait pu se produire, il élabore des voies par lesquelles les molécules auraient pu être faites, et il a dissous des objections qui ont tenu des décennies. Le reproche classique au [[monde à ARN]] était qu'on ne pouvait pas fabriquer ses briques : le ribose se forme difficilement de façon sélective, et joindre une base à un sucre ne marche pas pour les pyrimidines que l'ARN emploie. L'équipe de Sutherland y a répondu en trouvant une voie qui ne produit à aucun moment de ribose libre ni de base libre.",
+              "quote": {
+                "text": "les ribonucléotides pyrimidiques activés peuvent se former par une courte séquence qui contourne le ribose libre et les bases nucléiques et passe plutôt par des intermédiaires amino-oxazoline d'arabinose et anhydronucléoside",
+                "author": "Matthew Powner, Béatrice Gerland et John Sutherland",
+                "work": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions, Nature 459",
+                "year": "2009",
+                "sourceUrl": "https://www.nature.com/articles/nature08013",
+                "verification": "corroborated",
+                "sawWhat": "abstract",
+                "original": {
+                  "text": "activated pyrimidine ribonucleotides can be formed in a short sequence that bypasses free ribose and the nucleobases, and instead proceeds through arabinose amino-oxazoline and anhydronucleoside intermediates",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection ci-dessus est qu'un gradient n'est que de l'énergie, et que nommer un lieu plausible n'est pas démontrer une voie. Ce programme ne nomme pas de lieu. Il construit des voies, en réactifs et en étapes, et on peut le discuter sur la chimie plutôt que sur la géologie — ce qui est une autre conversation, avec d'autres données dedans.",
+              "objection": {
+                "text": "Un chimiste qui choisit ses réactifs dans un ordre choisi fait ce qu'une planète livrée à elle-même ne fait pas. Chaque synthèse est réelle, et chacune est aussi la démonstration que l'étape est possible dans des conditions que quelqu'un a sélectionnées ; c'est pourquoi le nom que le champ donne lui-même à la difficulté est le problème de l'eau et le problème de la concentration, et non le problème de l'impossibilité.",
+                "from": "theist",
+                "response": "Les conditions de ces synthèses sont choisies pour être celles qu'une Terre primitive pouvait plausiblement fournir — cycles d'humidité et de sécheresse, lumière ultraviolette, chimie du cyanure venue d'impacts — et discuter de leur disponibilité, c'est discuter de géologie, ce qui est un progrès."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-field-names-its-own-paradoxes",
+          "claim": "Le champ énonce ses problèmes les plus durs dans sa propre littérature, en ses propres mots, et y travaille",
+          "explanation": "Un champ dans le déni ne publie pas ses difficultés sous le titre « paradoxes ». L'article de Steven Benner fait exactement cela, et le plus coupant d'entre eux n'a pas été soulevé par un extérieur.\n\nLaissez tourner la chimie organique avec de l'énergie et elle ne tend pas vers la vie. Elle tend vers le goudron : des mélanges hétérogènes et intraitables qui ne mènent nulle part. C'est un résultat général sur une quantité énorme de travail expérimental, et c'est un problème pour toute voie, y compris celles défendues ci-dessus. L'argument de Benner est méthodologique — la façon d'avancer sur les origines est de nommer les paradoxes assez précisément pour concevoir des expériences contre eux — et l'état du champ est que cela se fait par écrit plutôt que de se gérer en public.",
+          "quote": {
+            "text": "Une énorme quantité de données empiriques a établi, en règle générale, que les systèmes organiques, pourvus d'énergie et laissés à eux-mêmes, dégénèrent en mélanges inutilement complexes, des « asphaltes »",
+            "author": "Steven A. Benner",
+            "work": "Paradoxes in the Origin of Life, Origins of Life and Evolution of Biospheres 44",
+            "year": "2014",
+            "locator": "the asphalt paradox, one of several the paper sets out",
+            "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25608919/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "An enormous amount of empirical data have established, as a rule, that organic systems, given energy and left to themselves, devolve to give uselessly complex mixtures, 'asphalts'",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Nommer un problème n'est pas le résoudre, et l'honnêteté est offerte comme si elle était un progrès. Le paradoxe de l'asphalte est précisément ce que prédit l'argument du dessein : une chimie sans direction où l'on met de l'énergie produit du désordre, et les exceptions sont les cas où un chimiste a fourni la direction. Qu'un champ ait été franc là-dessus pendant une décennie sans le résoudre indique que la difficulté est structurelle plutôt que temporaire.",
+            "objectionFrom": "theist",
+            "response": "Les difficultés structurelles se résolvent aussi, et le paradoxe de l'asphalte a déjà des réponses candidates — surfaces minérales, cycles d'humidité et de sécheresse, une chimie des systèmes qui sélectionne au lieu d'accumuler. Savoir si elles marchent est une question expérimentale, et c'est la situation d'un problème sur lequel on travaille au lieu de le déclarer clos."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Ce que Miller et Urey ont réellement montré, et ce qu'ils n'ont pas montré",
+      "oneLine": "Miller et Urey ont montré que les briques de la vie se forment facilement à partir d'une chimie simple — non que la vie allait se former, ni que le problème est presque résolu.",
+      "text": "L'expérience de décharge électrique de 1953 est le résultat le plus cité et le plus mal lu du champ. Elle a produit des acides aminés à partir d'un simple mélange de gaz, ce qui fut vraiment surprenant et reste un résultat réel : les briques sont faciles, et on en trouve aussi dans les météorites.\n\nElle n'a pas produit de vie, on ne l'a pas prétendu, et elle utilisait une atmosphère plus riche en hydrogène que celle qu'on attribue aujourd'hui à la Terre primitive. Les deux camps en font trop ici. Ce n'est pas un indice que le problème est presque résolu, et ce n'est pas une expérience ratée : elle a établi que les monomères sont bon marché et a déplacé la difficulté vers leur enchaînement, où la difficulté est restée."
+    },
+    {
+      "heading": "Le peu de temps disponible",
+      "oneLine": "La fenêtre entre une Terre refroidie et les premières traces de vie est de quelques centaines de millions d'années, ce qui contraint tous les récits d'ici et gêne la chimie.",
+      "text": "Cela contraint les deux camps, et aucun n'aime cela. La Terre fut inhabitable par sa chaleur jusqu'à environ 4,4 milliards d'années, et il y a des indices raisonnables de vie vers 3,7. Cela laisse une fenêtre de quelques centaines de millions d'années, ce qui est court pour une recherche sans direction et constitue une difficulté réelle pour la chimie.\n\nCe n'est pas une difficulté pour la descendance commune, qui est datée par des données tout autres, et ce n'est pas en soi un argument pour le dessein : « moins de temps que prévu » touche à la manière dont la chose s'est produite, non à la question de savoir si un esprit était nécessaire."
+    }
+  ],
+  "whereItStands": "Personne n'a fabriqué de cellule, et aucune voie de la chimie à une cellule n'a été démontrée de bout en bout. Qui vous dit le contraire, dans un sens ou dans l'autre, va plus vite que les données.\n\nLe champ a bougé, cependant, et d'une façon particulière : les problèmes qui paraissaient les plus impossibles vus de l'extérieur — faire les monomères, faire des nucléotides, faire des membranes qui croissent et se divisent en [[protocellule]]s — se sont révélés les traitables. Le problème qui n'a pas bougé est la séquence. Obtenir un arrangement précis qui fait quelque chose, plutôt qu'un mélange de tout, est là où la difficulté siège depuis les années 1960 et où elle siège maintenant.\n\nCe qui est réellement non résolu, c'est le sens de ce motif. Il est compatible avec un problème difficile qu'on traverse de la façon habituelle, et il est compatible avec une difficulté d'un genre différent de celles déjà résolues. Aucun résultat actuel ne distingue ces deux lectures, et c'est pourquoi ceci est un argument et non un constat.",
+  "commonMistake": "Les chrétiens traitent le plus souvent la lacune actuelle comme si elle était le fondement de l'argument, ce qui met la cause à la merci du prochain article. Si l'inférence du dessein est solide, elle devrait pouvoir s'énoncer comme une thèse sur ce que sont les codes, non comme une thèse sur ce que les chimistes n'ont pas encore fait ; énoncée de la seconde façon, elle rétrécit chaque année, qu'elle soit vraie ou non.\n\nLes athées répondent le plus souvent à une question qui n'a pas été posée. « L'évolution n'a pas besoin de l'abiogenèse » est juste et répond à un autre argument. De même pour l'énumération de ce qui a été synthétisé, quand l'objection portait sur la séquence et non sur les pièces. Les deux manœuvres laissent passer intacte la thèse réelle.\n\nEt les deux camps usent discrètement de la même mauvaise inférence en sens contraire : que la difficulté d'un problème renseigne sur sa solution. Elle ne renseigne pas. Un problème peut être difficile parce que la réponse est inhabituelle, ou difficile parce qu'il est ancien et que les traces ont disparu.",
+  "sources": [
+    {
+      "title": "Return of the God Hypothesis",
+      "author": "Stephen C. Meyer",
+      "year": "2021",
+      "url": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+      "note": "L'inférence du dessein à partir de l'information biologique. Le lien pointe vers une discussion critique qui la cite, car BioLogos y énonce l'objection chrétienne sur la même page."
+    },
+    {
+      "title": "Estimating the prevalence of protein sequences adopting functional enzyme folds",
+      "author": "Douglas D. Axe",
+      "year": "2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15321723/",
+      "note": "La source évaluée par les pairs de l'estimation de rareté qu'Axe reformule pour le grand public dans Undeniable (2016)."
+    },
+    {
+      "title": "The Language of God: A Scientist Presents Evidence for Belief",
+      "author": "Francis S. Collins",
+      "year": "2006",
+      "url": "https://en.wikipedia.org/wiki/Francis_Collins",
+      "note": "La position de la création évolutive, y compris l'avertissement contre l'argument par les lacunes."
+    },
+    {
+      "title": "Life from Life… or Not?",
+      "author": "Answers in Genesis",
+      "year": "2018",
+      "url": "https://answersingenesis.org/origin-of-life/life-from-life-or-not/",
+      "note": "La position de la Terre jeune sur l'origine de la vie, en ses propres mots."
+    },
+    {
+      "title": "The Origin of Life in Alkaline Hydrothermal Vents",
+      "author": "Victor Sojo, Barry Herschy, Alexandra Whicher, Eloi Camprubí et Nick Lane",
+      "year": "2016",
+      "url": "https://nick-lane.net/wp-content/uploads/2017/01/Sojo-et-al-Astrobiology-review-The-origin-of-life-in-alkaline-hydrothermal-vents.pdf",
+      "note": "Le dossier du métabolisme d'abord, énoncé par l'équipe qui le défend."
+    },
+    {
+      "title": "Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions",
+      "author": "Matthew W. Powner, Béatrice Gerland et John D. Sutherland",
+      "year": "2009",
+      "url": "https://www.nature.com/articles/nature08013",
+      "note": "L'article qui a dissous l'objection classique au monde à ARN en contournant la voie qu'on lui supposait."
+    },
+    {
+      "title": "Paradoxes in the Origin of Life",
+      "author": "Steven A. Benner",
+      "year": "2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25608919/",
+      "note": "Le champ énonçant ses propres problèmes les plus durs, dont le paradoxe de l'asphalte."
+    },
+    {
+      "title": "Evolution and the Origin of Biological Information",
+      "url": "https://biologos.org/articles/evolution-and-the-origin-of-biological-information",
+      "note": "L'objection, venue du christianisme, à l'idée d'argumenter pour Dieu à partir d'un problème non résolu."
+    }
+  ]
+}
