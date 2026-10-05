@@ -1,0 +1,265 @@
+{
+  "id": "religion-harm-or-good",
+  "number": 18,
+  "slug": "religion-schaden-oder-nutzen",
+  "title": "Hat die Religion mehr Schaden als Nutzen gebracht?",
+  "category": "faith-and-society",
+  "status": "interpretive",
+  "realQuestion": "Dies ist das Thema, bei dem beide Seiten am sichersten sind und die Frage am schlechtesten gestellt ist.\n\nDrei Dinge müssen festgelegt werden, bevor sie etwas bedeutet. Was gewogen wird: Überzeugungen, Institutionen, Gemeinschaften oder die ganze Menschheitsgeschichte unter einem einzigen Wort abgelegt. Wogegen es gewogen wird: eine Welt ohne Religion ist keine Welt, die es je gegeben hat, der Vergleich geht also gegen eine erfundene Alternative, und jede Seite erfindet sich eine schmeichelhafte. Und was der Maßstab ist: die Güter und die Schäden sind verschiedener Art, und kein Verfahren verwandelt ein Jahrhundert Krankenhäuser in eine Einheit, die man einem Pogrom gegenüberstellen könnte.\n\nNichts davon macht die Frage leer. Die Leute fragen etwas Wirkliches, und die ehrliche Form davon ist enger: Ist, gemessen an dem, was wir messen und belegen können, der Fall stärker, dass die Religion unterm Strich zerstörerisch war, oder der Fall, dass sie aufbauend war? Beide Seiten hier behaupten, ihr Fall sei stärker, und beide akzeptieren die meisten Tatsachen der anderen.",
+  "distinctions": [
+    {
+      "label": "Sind diese bestimmten Dinge geschehen, und in welchem Umfang?",
+      "gloss": "Weitgehend geklärt, und geklärt haben es Archivhistoriker und nicht eine der beiden Seiten dieses Streits. Wo populäre Behauptungen falsch sind, sind sie es meist in Richtung Übertreibung, und zwar in beide Richtungen. In der ersten Anmerkung dargelegt.",
+      "activeHere": false
+    },
+    {
+      "label": "Sind religiöse Menschen heute bessere oder schlechtere Nachbarn?",
+      "gloss": "Eine messbare Frage mit einer einigermaßen klaren Antwort, und sie erscheint auf dieser Seite als Beleg. Sie entscheidet das Thema nicht, denn das Thema ist eine über Jahrtausende laufende Bilanz, und dies ist ein Befund über ein Land in einem Jahrhundert.",
+      "activeHere": false
+    },
+    {
+      "label": "Fällt die Bilanz positiv oder negativ aus?",
+      "gloss": "Die lebendige Frage, und die, die sich mit mehr Tatsachen nicht entscheiden lässt, weil sie eine Gewichtung unvergleichbarer Dinge und einen Vergleich mit einer Welt verlangt, die es nie gegeben hat.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Kontrafaktum",
+      "definition": "Eine Behauptung darüber, was geschehen wäre, wenn es anders gelaufen wäre. Jedes Urteil „mehr Schaden als Nutzen“ enthält eines, und fast nie wird es ausgesprochen."
+    },
+    {
+      "term": "Säkularisierungsthese",
+      "definition": "Die in den Sozialwissenschaften der Mitte des zwanzigsten Jahrhunderts übliche Erwartung, dass die Modernisierung die Religion überall zurückgehen lassen werde. In Westeuropa traf sie zu, fast überall sonst nicht, und darum sind Argumente, die auf ihr beruhen, schlecht gealtert."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Die Abrechnung ist manipuliert, und der Maßstab dafür wurde hier gebaut",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "the-standard-is-borrowed",
+          "claim": "Das moralische Vokabular, in dem die Anklage geschrieben ist, ist ein Erzeugnis des Angeklagten.",
+          "explanation": "Die Anklagepunkte lauten, die Religion habe die Schwachen unterdrückt, die Frauen erniedrigt, die Sklaverei verteidigt, Abweichende gefoltert und Menschen als entbehrlich behandelt. Jeder davon ist ein Anklagepunkt, und er ist es nur aufgrund einer vorhergehenden Überzeugung: dass die Schwachen zählen, dass Personen gleich viel wert sind und dass Grausamkeit keine erlaubte Unterhaltung ist.\n\nDiese Überzeugung ist kein menschliches Universal und sie ist nicht selbstverständlich. Die antike Welt, die sie ersetzte, hatte sie nicht: ihr war das Aussetzen von Neugeborenen nichts Besonderes, die Sklaverei natürlich und das öffentliche Töten eine bürgerliche Unterhaltung. Die Historiker, die das am nachdrücklichsten vertreten haben, sind keine Apologeten: die bekannteste neuere Fassung stammt von einem Autor, der sich selbst als Nichtglaubenden beschreibt und zu dem Ergebnis gegen seine eigenen Erwartungen kam.\n\nDas Argument lautet nicht, nur Christen könnten gut sein. Es lautet, dass der Maßstab, mit dem die Bilanz gewogen wird, von einer der Parteien hergestellt wurde, und dass eine Prüfung in den Einheiten des Angeklagten nicht das neutrale Verfahren ist, als das sie sich gibt.",
+          "quote": {
+            "text": "In meiner Moral und meiner Ethik habe ich gelernt zu akzeptieren, dass ich gar kein Grieche und kein Römer bin, sondern durch und durch und mit Stolz ein Christ.",
+            "author": "Tom Holland",
+            "work": "Dominion: How the Christian Revolution Remade the World",
+            "year": "2019",
+            "locator": "the introduction, where he describes changing his mind; Holland writes as a non-believer",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/68279026-dominion-how-the-christian-revolution-remade-the-world",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "In my morals and ethics, I have learned to accept that I am not Greek or Roman at all, but thoroughly and proudly Christian.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "measured-not-inferred",
+              "label": "Jetzt gemessen, statt aus der Geschichte erschlossen",
+              "heldBy": "Robert D. Putnam und David E. Campbell",
+              "oneLine": "Die Genealogie beiseite: nach den gewöhnlichen Maßen guter Nachbarschaft sagt religiöse Teilnahme immer noch mehr davon voraus, und der Abstand ist groß.",
+              "summary": "Dieser Fall ruht auf Umfragedaten und nicht auf einer Behauptung darüber, woher die moderne Moral kam.\n\nDer Befund, aus der gewichtigsten neueren Untersuchung zur amerikanischen Religion, lautet: religiöse Amerikaner spenden mehr — auch an weltliche Zwecke —, leisten mehr Freiwilligenarbeit, engagieren sich stärker in bürgerlichen Vereinigungen und werden auf einer Reihe von Maßen als bessere Nachbarn bewertet, wobei die Unterschiede die Kontrolle für Bildung und Einkommen überstehen.\n\nBrauchbar ist das hier, weil es prüfbar und gegenwärtig ist. Es hängt nicht daran, die Kreuzzüge zu beurteilen, nicht an einer historischen Genealogie und nicht an der Wahrheit dessen, was irgendwer glaubt. Es ist eine lebendige Messung dessen, was religiöse Teilnahme derzeit mit dem Verhalten in einer großen Gesellschaft macht, und sie zeigt in eine Richtung.",
+              "quote": {
+                "text": "religiöse Amerikaner sind tatsächlich großzügigere Nachbarn und gewissenhaftere Bürger als ihre weltlichen Gegenstücke",
+                "author": "Robert D. Putnam und David E. Campbell",
+                "work": "American Grace: How Religion Divides and Unites Us",
+                "year": "2010",
+                "locator": "the book's central finding on religion and civic behaviour",
+                "sourceUrl": "http://robertdputnam.com/american-grace/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "religious Americans are, in fact, more generous neighbors and more conscientious citizens than their secular counterparts",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben ist ein historischer: andere Traditionen seien ohne das Christentum zu ähnlichen moralischen Ergebnissen gekommen, die Genealogie beweise also weniger, als sie behauptet. Jenes Argument handelt von Ursprüngen. Diese Position behauptet über Ursprünge überhaupt nichts, und darum lässt ein Argument darüber, woher die Werte kamen, die Messung genau dort, wo sie war.",
+              "objection": {
+                "text": "Die Autoren der Studie benennen selbst, was den Effekt erzeugt, und es ist nicht der Glaube. Der Prädiktor ist die Teilnahme an einer Gemeinde — dort Freunde haben, gefragt werden, erscheinen —, und er wirkt ungefähr gleich gut, was die Gemeinde auch glaubt. Von einer weltlichen Vereinigung mit derselben Dichte an Bindungen wäre dasselbe Ergebnis zu erwarten, und wo solche Vereinigungen bestehen, zeigt sich das weitgehend. Der Befund handelt von Gemeinschaft, und er ist als Befund über Religion vereinnahmt worden.",
+                "from": "within",
+                "sharedPremise": "sie akzeptiert die Umfragedaten vollständig, akzeptiert, dass der gemessene Abstand wirklich und groß ist, und argumentiert aus derselben Studie heraus, dass der von ihren Autoren benannte Mechanismus den Effekt in den Gemeindebindungen und nicht in irgendetwas Geglaubtem verortet",
+                "response": "Dass die Religion über Gemeinschaften wirkt, ist keine Entdeckung, dass sie über etwas anderes wirkt. Gemeinden dieser Dichte, die Schichten und Generationen überspannen und sich ein Leben lang wöchentlich treffen, sind keine Form der Vereinigung, die die weltliche Gesellschaft in der Breite zustande gebracht hat, und ein Mechanismus, den niemand sonst reproduzieren kann, ist kein Abzug vom Verdienst."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Genealogie ist keine Rechtfertigung, und die Geschichte ist voller, als das Argument zulässt. Die Stoiker haben für die gemeinsame Menschheit der Sklaven argumentiert, die Edikte Aśokas liegen Jahrhunderte vor dem Christentum, und die Abolitionsbewegung wie die Bürgerrechtsbewegung schöpften ebenso aus aufklärerischen Argumenten wie aus der Schrift — oft gegen Kirchen, die die andere Seite verteidigten. Selbst wenn man die Kausalgeschichte ganz zugesteht, zeigt sie, woher eine Idee kam, und nicht, ob die, die sie heute vertreten, der Institution etwas schulden, die sie getragen hat.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Vereinzelte Vorwegnahmen sind nicht dasselbe wie eine moralische Umwälzung, die veränderte, was eine ganze Zivilisation für nichts Besonderes hielt, und der Einwand gibt die Streitfrage schon damit zu, dass er sie suchen muss. Was er über Kirchen auf beiden Seiten sagt, ist wahr und ist Gegenstand des zweiten Arguments der Gegenseite."
+          }
+        },
+        {
+          "id": "the-category-is-doing-the-work",
+          "claim": "Die Frage setzt eine einzige Sache namens Religion mit eigenen Neigungen voraus, und diese Sache ist eine junge Erfindung.",
+          "explanation": "„Hat die Religion mehr Schaden als Nutzen gebracht?“ setzt voraus, dass Überzeugungen über Götter eine natürliche Art bilden, die sich von Politik, Wirtschaft und Identität ablösen lässt und ein eigenes charakteristisches Verhalten hat. Diese Voraussetzung ist jünger als der Buchdruck. Vor dem siebzehnten Jahrhundert hat niemand die Welt so zerlegt, und viele Kulturen tun es noch heute nicht.\n\nDie Folge ist nicht bloß sprachlich. Die herkömmlich Religionskriege genannten Kriege wurden von katholischen Staaten im Bündnis mit protestantischen gegen Glaubensgenossen geführt, um Gebiet, Erbfolge und Steuern, wobei die Konfession eine Größe unter mehreren war. Die ganze Epoche die Religionskriege zu nennen und sie dann als Beleg dafür anzuführen, was Religion tut, ist ein Argument, das seinen Schluss in der Benennung voraussetzt.\n\nDie weitergehende Behauptung betrifft, wozu die Kategorie dient. Menschliche Motive in eine gefährliche, unvernünftige und eine vernünftige, weltliche Sorte zu sortieren ist keine neutrale Beschreibung; es ist ein Zug, der eine Art Gewalt erlaubt, während er die andere verurteilt, und er kam genau dann, als der moderne Staat ihn brauchte.",
+          "quote": {
+            "text": "die Vorstellung, die Religion sei ein transhistorisches und transkulturelles Merkmal des menschlichen Lebens, wesentlich unterschieden von „weltlichen“ Merkmalen wie Politik und Wirtschaft, mit einer eigentümlich gefährlichen Neigung, Gewalt zu befördern",
+            "author": "William T. Cavanaugh",
+            "work": "The Myth of Religious Violence: Secular Ideology and the Roots of Modern Conflict",
+            "year": "2009",
+            "locator": "his definition of the myth the book is about",
+            "sourceUrl": "https://global.oup.com/academic/product/the-myth-of-religious-violence-9780195385045",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "the idea that religion is a transhistorical and transcultural feature of human life, essentially distinct from 'secular' features such as politics and economics, which has a peculiarly dangerous inclination to promote violence",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die Auflösung beweist zu viel und würde die Frage in jede Richtung zurückziehen. Ist „Religion“ zu unzusammenhängend, um gewogen zu werden, dann ist sie auch zu unzusammenhängend, um gutgeschrieben zu werden — die Krankenhäuser, die Universitäten und die Abolitionisten gehen in denselben Reißwolf wie die Inquisitionen, und die erste Hälfte des Arguments selbst geht mit. Und die Beobachtung, dass Religionskriege politische Ursachen hatten, gilt für jeden Krieg, der je geführt wurde; festzustellen, dass Motive gemischt sind, zeigt nicht, dass eines der Motive untätig war.",
+            "objectionFrom": "atheist",
+            "response": "Dass beide Hälften gehen, ist das richtige Ergebnis, und genau das sagt das Etikett dieser Seite. Das Argument lautet nicht, die Religion sei unschuldig; es lautet, dass die Bilanz in der Form, die die Frage verlangt, nicht aufzurechnen ist, und dass diese Forderung eine Geschichte hat, nur von einer Seite gestellt zu werden."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Sie liefert einen Grund, mit dem man nicht streiten kann, und von jeder Position, in der sie falsch lag, musste sie gedrängt werden",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "beyond-correction",
+          "claim": "Der charakteristische Schaden ist nicht Bosheit, sondern eine von Belegen abgeschirmte Überzeugung.",
+          "explanation": "Menschen tun ständig schreckliche Dinge aus gewöhnlichen Gründen, und für Gier, Angst oder Stammesdenken braucht es keine Theorie der Religion. Der spezifische Beitrag ist anders und enger: eine Befugnis, die dem Argument nicht Rede und Antwort steht.\n\nEin gewöhnlicher schlechter Grund lässt sich entkräften, indem man zeigt, dass er nicht funktioniert, dass seine Kosten den Nutzen übersteigen, dass die Tatsachen anders liegen. Ein als Offenbarung gehaltener Grund wird so nicht entkräftet, denn nichts im gewöhnlichen Register berührt ihn. Das ist keine Behauptung, Gläubige seien unvernünftige Menschen — die meisten sind vernünftiger als der Durchschnitt. Es ist eine Behauptung darüber, was mit einem Entscheidungsverfahren geschieht, wenn eine seiner Eingaben von der Revision ausgenommen ist.\n\nDer Effekt zeigt sich an dem Punkt, an dem ein offensichtlich anständiger Mensch etwas tut, das auf jeder anderen Grundlage undenkbar wäre, und es mit reinem Gewissen tut, weil die Befugnis von einer Stelle kam, die keine Fragen annimmt.",
+          "quote": {
+            "text": "Mit oder ohne Religion können gute Menschen gut handeln und schlechte Menschen Böses tun; aber dass gute Menschen Böses tun — dazu braucht es die Religion.",
+            "author": "Steven Weinberg",
+            "work": "address to the Conference on Cosmic Design, American Association for the Advancement of Science",
+            "year": "1999",
+            "locator": "the closing of the talk, after a passage on religious defences of slavery",
+            "sourceUrl": "https://en.wikiquote.org/wiki/Steven_Weinberg",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "With or without religion, good people can behave well and bad people can do evil; but for good people to do evil — that takes religion.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "moderation-is-not-a-firebreak",
+              "label": "Die Moderaten sind Teil des Mechanismus",
+              "heldBy": "Sam Harris",
+              "oneLine": "Moderate Religion ist keine Bremse des Extremismus, sondern das, was ihn möglich macht, denn sie hält unfalsifizierbare Überzeugung gesellschaftlich achtbar.",
+              "summary": "Die übliche Erwiderung auf das Argument oben lautet, die Schaden Anrichtenden seien ein Rand und die Mitte verwerfe sie. Diese Position bestreitet, dass die Unterscheidung hilft.\n\nNach ihr tut der Extremist nicht etwas, das der Moderate grundsätzlich ablehnt; er tut folgerichtig, was der Moderate auswählend tut. Was der Moderate liefert, ist die umgebende Kultur, in der der Glaube ein achtbarer Grund für Überzeugungen ist und in der das Hinterfragen der Offenbarung eines anderen eine gesellschaftliche Verfehlung ist. Nimmt man das weg, hat der Extremist keine Deckung mehr; behält man es, steht gegen den, der den Text ernster nimmt als man selbst, kein innerer Einwand zur Verfügung.\n\nEs ist die schärfste Form des Falls, weil sie überhaupt nicht von Gräueln handelt. Sie handelt davon, welche Behauptungen eine Gesellschaft übereinkommt nicht zu prüfen.",
+              "quote": {
+                "text": "Mag die Mäßigung in der Religion auch als vernünftige Position erscheinen, die man einnehmen kann, so bietet sie angesichts all dessen, was wir über das Universum gelernt (und nicht gelernt) haben, keinen Schutzwall gegen religiösen Extremismus und religiöse Gewalt.",
+                "author": "Sam Harris",
+                "work": "The End of Faith: Religion, Terror, and the Future of Reason",
+                "year": "2004",
+                "locator": "the chapter on the problem with religious moderation",
+                "sourceUrl": "https://www.goodreads.com/work/quotes/2399497-the-end-of-faith-religion-terror-and-the-future-of-reason",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "While moderation in religion may seem a reasonable position to stake out, in light of all that we have (and have not) learned about the universe, it offers no bulwark against religious extremism and religious violence.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, weltliche Überzeugungen hätten dasselbe Verhalten in größerem Umfang erzeugt, und das ist ein Argument darüber, was Ideologien im Allgemeinen tun. Diese Position handelt nicht von Ideologie im Allgemeinen. Sie behauptet einen bestimmten gesellschaftlichen Mechanismus — den geschützten Status der unprüfbaren Überzeugung —, und darum erreicht der Hinweis auf eine weltliche Gräueltat sie nicht, solange nicht derselbe Mechanismus am Werk gezeigt werden kann.",
+              "objection": {
+                "text": "Sie macht eine Vorhersage, und die Vorhersage trifft nicht zu. Lieferte die Mäßigung die Deckung, dann müsste mehr religiöse Mäßigung mehr Extremismus bedeuten und weniger weniger. Der Vergleich läuft umgekehrt: die religiös gemäßigtsten Gesellschaften Europas haben die geringste religiöse Gewalt, und auf den Zusammenbruch der gemäßigten Großkirchen folgte das Wachstum härterer Bewegungen und nicht ihr Rückgang. Der Mechanismus wird behauptet, und die Korrelation, die er verlangt, fehlt.",
+                "from": "theist",
+                "response": "Die Vorhersage betrifft, welches Argument innerhalb einer Tradition verfügbar ist, nicht nationale Tötungsraten, und die angeführten Gesellschaften sind solche, in denen religiöse Behauptungen aufhörten, gesellschaftlich unprüfbar zu sein — und genau diese Änderung verlangt das Argument, sie ist kein Gegenbeispiel dazu."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Unfalsifizierbare Überzeugung ist eine Eigenschaft von Ideologien, nicht von Religionen, und das zwanzigste Jahrhundert hat das in einem Umfang gezeigt, dem nichts davor nahekam. Der Marxismus-Leninismus und der Rassenstaat lieferten beide gegen Belege immune Befugnisse, beide brachten offensichtlich anständige Menschen dazu, Undenkbares mit reinem Gewissen zu tun, und keiner brauchte einen Gott. Ist der Mechanismus die Abschirmung einer Überzeugung gegen Revision, dann richtet sich die Anklage gegen eine Denkgewohnheit, auf die die Religion kein Monopol und keinen besonderen Anspruch hat, sie erfunden zu haben.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Dass der Mechanismus mit anderem Brennstoff laufen kann, wird zugestanden und spricht diesen Brennstoff nicht frei. Die einschlägige Frage ist, welche Überzeugungsquellen die Abschirmung am verlässlichsten erzeugen, und eine Behauptung, die ausdrücklich als der menschlichen Korrektur entzogen gilt, ist dafür besser gebaut als eine, die bloß dort endet."
+          }
+        },
+        {
+          "id": "it-had-to-be-forced",
+          "claim": "In den moralischen Fragen, die tatsächlich entschieden sind, stand sie meist auf der Verliererseite und musste von außen bewegt werden.",
+          "explanation": "Man nehme die moralischen Fortschritte, die fast alle heute für Fortschritte halten: die Abschaffung der Sklaverei, das Ende der gerichtlichen Folter, die religiöse Toleranz, die rechtliche Gleichstellung der Frauen, die Entkriminalisierung der Homosexualität, das Ende der Kastenbeschränkungen. In jedem Fall standen die großen religiösen Institutionen der Zeit weitgehend auf der anderen Seite, bewegten sich spät und bewegten sich unter Druck.\n\nDie übliche Erwiderung lautet, die Reformer seien selbst Gläubige gewesen, und viele waren es. Das ist wahr, und deshalb lautet das Argument nicht, die Religion enthalte keine Mittel zur Reform. Das Argument betrifft institutionelles Verhalten: die Mittel standen auf beiden Seiten jedes dieser Streitfälle zur Verfügung, die Institutionen haben gewählt, und das Muster der Wahlen ist nicht zufällig.\n\nDer klarste moderne Fall ist keine Lehre, sondern eine Praxis. Institutionen, die seit Jahrhunderten über den Schutz von Kindern lehrten, antworteten auf Belege für deren Missbrauch damit, sich selbst zu schützen, über Länder und Konfessionen hinweg, jahrzehntelang, und hörten damit auf, als weltliche Behörden sie dazu zwangen.",
+          "quote": {
+            "text": "Gewalttätig, unvernünftig, mit Rassismus, Stammesdenken und Bigotterie verbündet, in die Unwissenheit investiert und der freien Forschung feindlich, verächtlich gegenüber Frauen und Zwang ausübend gegenüber Kindern: die organisierte Religion müsste sehr viel auf dem Gewissen haben.",
+            "author": "Christopher Hitchens",
+            "work": "God Is Not Great",
+            "year": "2007",
+            "locator": "the opening chapter's statement of the charge",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/3442838-god-is-not-great",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Violent, irrational, intolerant, allied to racism and tribalism and bigotry, invested in ignorance and hostile to free inquiry, contemptuous of women and coercive toward children: organized religion ought to have a great deal on its conscience.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die Liste ist eine Auswahl, und die Auswahl ist das Argument. Dieselben Institutionen betrieben die Krankenhäuser, erfanden die Universität, bewahrten die Literatur, brachten die Abolitionsbewegung in Großbritannien und die Bürgerrechtsbewegung in Amerika hervor und stellten den Widerstand gegen zwei Totalitarismen. Ein Körper, der die Verteidiger und die Zerstörer jeder Position gleichzeitig liefert, verhält sich wie ein im großen Maßstab organisierter Querschnitt der Menschheit, und das ist er; und „sie änderte sich spät und unter Druck“ beschreibt jede Institution, die sich je geändert hat, Universitäten, Parlamente und Presse eingeschlossen.",
+            "objectionFrom": "theist",
+            "response": "Ein Querschnitt zu sein ist eine Verteidigung, die jeder Institution offensteht, und sie ist unvereinbar mit dem Anspruch auf moralische Autorität, den diese erheben. Das Argument lautet nicht, religiöse Menschen seien schlechter gewesen als andere; es lautet, dass eine Institution, die privilegierten Zugang zur moralischen Wahrheit beansprucht, in den Fragen, die wir heute benoten können, nicht besser als der Durchschnitt und häufig schlechter abgeschnitten hat."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Die Zahlen, soweit es Zahlen gibt",
+      "oneLine": "Die in der populären Debatte genannten Opferzahlen sind meist um eine Größenordnung zu hoch, und die Korrekturen kamen von weltlichen Archivhistorikern und nicht von Apologeten.",
+      "text": "Die spanische Inquisition ist der klarste Fall, weil das Tribunal mit einer Besessenheit Akten führte und diese Akten durchgearbeitet worden sind. Henry Kamens heute maßgebliche Revision setzt das Maximum bei etwa dreitausend Hinrichtungen über dreieinhalb Jahrhunderte an. Zahlen in Millionenhöhe, in der populären Debatte noch verbreitet, stammen aus der Polemik des neunzehnten Jahrhunderts und haben keine Aktengrundlage.\n\nDie Korrektur läuft in beide Richtungen, und die andere Richtung zählt genauso. Der Umfang der religiösen Rechtfertigung des atlantischen Sklavenhandels, der Internats- und Industrieschulsysteme und des sexuellen Missbrauchs durch Geistliche wurde jahrzehntelang von den Institutionen, die die Akten hielten, systematisch untertrieben, und die wahren Zahlen kamen erst heraus, als außenstehende Stellen sie erlangten.\n\nWas das Muster nahelegt, ist nicht, dass eine Seite übertreibt und die andere nicht. Es ist, dass die Zahlen zu diesem Thema fast immer von der Partei kamen, die ein Interesse an ihnen hatte, und dass sie sich dort, wo unabhängige Archivarbeit geleistet wurde, erheblich verschoben haben — manchmal um drei Größenordnungen nach unten, manchmal nach oben."
+    },
+    {
+      "heading": "Der Vergleich, den niemand hat",
+      "oneLine": "Jedes Urteil „mehr Schaden als Nutzen“ ist ein Vergleich mit einer Welt, die es nie gegeben hat, und jede Seite liefert stillschweigend eine Fassung dieser Welt, die auf Gewinnen angelegt ist.",
+      "text": "Das atheistische [[Kontrafaktum]] ist gewöhnlich eine Gesellschaft, die sich entwickelte wie unsere — die Wissenschaft, die Krankenhäuser, die Rechte — ohne die Kriege und die Unterdrückung. Das christliche Kontrafaktum ist gewöhnlich das der atheistischen Staaten des zwanzigsten Jahrhunderts, genommen als das, was den Platz füllt, wenn die Religion entfernt wird.\n\nBeide sind Konstruktionen, und keines ist berechtigt. Eine Institution zu entfernen, die zwei Jahrtausende lang Bildung, Fürsorge, Recht, Kunst und Identität organisiert hat, lässt nicht alles andere an seinem Platz; es lässt etwas übrig, das niemand beschreiben kann. Der sowjetische und der chinesische Fall sind wirkliche Belege dafür, was Staaten tun, wenn sie Religion unterdrücken, und das ist nicht dasselbe wie ein Beleg über eine Gesellschaft, die sie nie hatte.\n\nDas ist der Grund für das Etikett dieser Seite. Nicht die Tatsachen fehlen — sehr viele von ihnen sind gut belegt, und beide Seiten hier akzeptieren die meisten der anderen. Sie in ein Urteil zu verwandeln verlangt eine Gewichtung und einen Vergleich, die kein Beleg liefert, und wer die Verwandlung vornimmt, kommt verlässlich bei der Antwort heraus, mit der er angefangen hat."
+    }
+  ],
+  "whereItStands": "An dieser Frage ist fast nichts entschieden, und die nützlichste Entwicklung war die Erosion der Sicherheit auf beiden Seiten darüber, ob sie in der gestellten Form überhaupt beantwortbar ist.\n\nBei den empirischen Teilfragen hat es wirkliche Bewegung gegeben, und meist in eine Richtung: die historischen Behauptungen, die gegen Archive geprüft wurden, kamen kleiner zurück als die polemischen Fassungen, und die gegenwärtigen sozialwissenschaftlichen Befunde zur religiösen Teilnahme kamen positiv für die Teilnahme und mehrdeutig für den Glauben zurück. Keines der beiden Ergebnisse entscheidet die Frage dieser Seite, und beide werden heute von sorgfältigen Leuten auf beiden Seiten akzeptiert.\n\nAuch die rahmenden Argumente haben sich bewegt. Die [[Säkularisierungsthese]], die diese Frage im zwanzigsten Jahrhundert drängend erscheinen ließ — die Religion sei ein Rückstand auf dem Weg hinaus, sodass nur noch aufzurechnen bliebe, was sie gekostet hat —, hat die Berührung mit dem Rest der Welt nicht überlebt. Und die historische Arbeit an der Kategorie Religion selbst hat es schwerer gemacht, die selbstsichere Fassung der Frage gedruckt zu stellen, was auch immer sie im Streitgespräch tut.\n\nWas sich nicht bewegt hat, ist das Urteil. Beide Seiten haben dieselben Tatsachen, haben sie seit einiger Zeit, und kommen zu entgegengesetzten Schlüssen, und genau das sagt ein deutendes Etikett voraus.",
+  "commonMistake": "Christen verteidigen am häufigsten die Institutionen, wenn die Anklage gegen die Institutionen geht. Die Erwiderung, das Christentum habe Krankenhäuser und Abolitionisten hervorgebracht, ist wahr und antwortet nicht auf ein Argument darüber, was die Kirche in den 1980er Jahren mit Belegen für Kindesmissbrauch tat; ein historisches Verdienst als Antwort auf ein belegtes Versagen zu behandeln liest sich als Ausweichen, und das ist es.\n\nAtheisten führen am häufigsten ein Argument, das jede große menschliche Institution verurteilen würde, und stellen die Verurteilung dann als eigens für diese dar. Universitäten, Staaten, Armeen, Unternehmen und politische Bewegungen haben sich alle spät geändert, unter Druck, und haben zuerst sich selbst geschützt. Lautet die Anklage, die Religion sei ungewöhnlich schlecht, dann muss der Vergleich geführt und nicht vorausgesetzt werden.\n\nBeide Seiten spielen das zwanzigste Jahrhundert als Trumpf, und keine hat ein Recht darauf. Dass Stalin Atheist war, belegt, dass der Atheismus den Massenmord nicht verhindert, was niemand bestreitet; dass die Kirche Armeen segnete, belegt, dass die Religion ihn ebenfalls nicht verhindert, was niemand bestreitet. Keine der beiden Beobachtungen ist ein Argument, und eine Seite voll davon ist eine Seite voll nichts.",
+  "sources": [
+    {
+      "title": "Dominion: How the Christian Revolution Remade the World",
+      "author": "Tom Holland",
+      "year": "2019",
+      "url": "https://www.goodreads.com/work/quotes/68279026-dominion-how-the-christian-revolution-remade-the-world",
+      "note": "Verlinkt ist eine Zitatseite und kein Text: das Argument hier ist aus Passagen zusammengefasst, die aus zweiter Hand zitiert werden."
+    },
+    {
+      "title": "American Grace: How Religion Divides and Unites Us",
+      "author": "Robert D. Putnam und David E. Campbell",
+      "year": "2010",
+      "url": "http://robertdputnam.com/american-grace/",
+      "note": "Die Seite der Autoren selbst. Der Befund über Gemeindebindungen statt über den Glauben ist ihrer, nicht der eines Kritikers."
+    },
+    {
+      "title": "The Myth of Religious Violence: Secular Ideology and the Roots of Modern Conflict",
+      "author": "William T. Cavanaugh",
+      "year": "2009",
+      "url": "https://global.oup.com/academic/product/the-myth-of-religious-violence-9780195385045",
+      "note": "Das Argument, dass die Kategorie eine moderne Konstruktion ist, ausführlich und mit der Forschungsgeschichte."
+    },
+    {
+      "title": "The End of Faith: Religion, Terror, and the Future of Reason",
+      "author": "Sam Harris",
+      "year": "2004",
+      "url": "https://www.goodreads.com/work/quotes/2399497-the-end-of-faith-religion-terror-and-the-future-of-reason",
+      "note": "Verlinkt ist eine Zitatseite. Das Kapitel über die Mäßigung ist der Ort, an dem das Argument der Variante gemacht wird."
+    },
+    {
+      "title": "The Spanish Inquisition: A Historical Revision",
+      "author": "Henry Kamen",
+      "year": "1997",
+      "url": "https://books.google.com/books/about/The_Spanish_Inquisition.html?id=G-F1y0P5DvkC",
+      "note": "Die Aktenrevision der Opferzahlen, von einem Historiker ohne Interesse an der Theologie."
+    },
+    {
+      "title": "Steven Weinberg",
+      "author": "Wikiquote",
+      "year": "1999",
+      "url": "https://en.wikiquote.org/wiki/Steven_Weinberg",
+      "note": "Verlinkt wegen der Herkunft der AAAS-Bemerkung von 1999, die viel zitiert und oft falsch datiert wird."
+    }
+  ]
+}
