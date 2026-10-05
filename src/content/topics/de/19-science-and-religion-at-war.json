@@ -1,0 +1,263 @@
+{
+  "id": "science-and-religion-at-war",
+  "number": 19,
+  "slug": "wissenschaft-und-religion-im-krieg",
+  "title": "Stehen Wissenschaft und Religion im Krieg?",
+  "category": "faith-and-society",
+  "status": "settled-core",
+  "settledCore": "Die historische Behauptung ist geklärt, und sie ist gegen den Krieg geklärt.\n\nDie Vorstellung, Wissenschaft und Religion stünden in dauerndem Konflikt, ist keine alte Beobachtung, sondern eine viktorianische These, vorgetragen von John William Draper 1874 und Andrew Dickson White 1896 und von den Wissenschaftshistorikern seit einem halben Jahrhundert verworfen. Die Paradeepisoden, auf denen sie ruht, überleben die Akten nicht: das mittelalterliche Europa hielt die Erde nicht für flach, die Kirche verbot die Leichenöffnung nicht, Galilei wurde nicht gefoltert und nicht in ein Verlies geworfen, und Bruno wurde nicht wegen des Kopernikanismus hingerichtet.\n\nWas daraus folgt, ist enger, als beide Seiten gewöhnlich möchten. Es stellt fest, dass die populäre Geschichte falsch ist. Es stellt nicht fest, dass die beiden Unternehmungen heute vereinbar sind, und genau darüber streiten die beiden Seiten unten.",
+  "realQuestion": "Fast alles, was öffentlich über dieses Thema gesagt wird, betrifft die Geschichte, und die Geschichte ist abgeschlossen. Die brauchbare Frage ist also die, die danach stehen bleibt.\n\nZugestanden, dass es keinen Krieg gab — dass die Episoden Mythen oder Verzerrungen sind, dass ein großer Teil der frühen Wissenschaft von Geistlichen getrieben wurde, dass die Institutionen Sternwarten und Universitäten finanzierten —: gibt es dennoch heute eine Unvereinbarkeit, auf der Ebene der Methode? Nicht „haben die Beteiligten gestritten?“, sondern „lassen sich die beiden Weisen, eine Frage zu entscheiden, von jemandem zusammenhalten, der beide versteht?“.\n\nDiese Frage ist lebendig, sie ist philosophisch und nicht historisch, und wer über sie streitet, sind nicht die, die über Galilei streiten. Die eine Seite sagt, die beiden antworteten mit verschiedenen Werkzeugen auf verschiedene Fragen, und der Anschein von Konflikt stamme aus einem Kategorienfehler. Die andere sagt, sie antworteten mit unvereinbaren Werkzeugen auf dieselben Fragen, und die Arbeitsteilung sei ein Waffenstillstand, gezogen nachdem die eine Seite das umstrittene Gelände schon verloren hatte.",
+  "distinctions": [
+    {
+      "label": "Gab es einen historischen Krieg?",
+      "gloss": "Nein, und das ist zwischen den Seiten hier nicht im Streit. Oben festgestellt statt unten verhandelt, denn es zu verhandeln würde zwei Plätze an eine Frage verschwenden, die die Historiker geschlossen haben.",
+      "activeHere": false
+    },
+    {
+      "label": "Geraten einzelne Behauptungen in Konflikt?",
+      "gloss": "Manchmal, und wo es geschieht, wird es auf der Seite jener Behauptung verhandelt und nicht hier: Evolution, Geist, Wunder. Sie zu einem allgemeinen Urteil zusammenzufassen ist der Zug, um den es auf dieser Seite geht.",
+      "activeHere": false
+    },
+    {
+      "label": "Sind die Methoden vereinbar?",
+      "gloss": "Die lebendige Frage. Es geht darum, was als Grund zählt, was eine Überzeugung revidierbar macht und ob „verschiedene Fragen“ eine wirkliche Trennung ist oder eine nachträglich gezogene Grenze.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Konfliktthese",
+      "definition": "Die Behauptung von Draper und White, Wissenschaft und Religion steckten in einem dauerhaften, strukturellen Krieg. Von den Wissenschaftshistorikern verworfen und von jeder Behauptung über die heutige Vereinbarkeit zu unterscheiden."
+    },
+    {
+      "term": "methodologischer Naturalismus",
+      "definition": "Die Arbeitsregel, dass wissenschaftliche Erklärungen nur auf natürliche Ursachen zurückgreifen. Eine Regel über das Verfahren, nicht die Behauptung, es gebe nichts anderes — ob sie das bleiben kann, gehört allerdings zum Streit hier."
+    },
+    {
+      "term": "Magisterium",
+      "definition": "Ein Bereich der Lehrautorität. Gould entlehnte das Wort dem katholischen Gebrauch, um zu behaupten, Wissenschaft und Religion hätten je eines davon und diese überschnitten sich nicht."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Verschiedene Fragen, verschiedene Werkzeuge und kein Zusammenstoß",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "different-questions",
+          "claim": "Kein Experiment berührt, wozu etwas da ist, und keine Schriftstelle legt eine Zerfallsrate fest.",
+          "explanation": "Die Wissenschaften beantworten eine bestimmte Art von Frage: was es gibt, woraus es besteht, wie es sich verhält, was es als Nächstes tun wird. Die Methoden sind genau dafür gebaut und darin unübertroffen.\n\nDie Fragen, um die es der Religion geht, sind anderer Art: ob überhaupt etwas von Belang ist, was ein Mensch schuldet, wozu ein Leben da ist, wie man dem Sterben begegnet. Keine Messung berührt sie, und darum hat kein wissenschaftliches Ergebnis je eine davon entschieden, und darum wird es keine weitere Forschung tun. Umgekehrt hat kein religiöser Text je den Wert einer physikalischen Konstante festgelegt, und wo Texte so gelesen wurden, als täten sie es, war die Lesung ein Irrtum über den Text.\n\nDas einen Krieg zu nennen verlangt, dass die beiden um dasselbe Gelände wetteifern. Nach dieser Auffassung sind sie überhaupt keine benachbarten Behauptungen, sondern Antworten auf verschiedene Fragen, und der Anschein von Konflikt entsteht, wenn man eine Aussage in dem einen [[Magisterium]] als Rivalin einer Aussage im anderen nimmt.",
+          "quote": {
+            "text": "Das Netz der Wissenschaft deckt den empirischen Bereich ab: woraus das Universum besteht (Tatsache) und warum es auf diese Weise arbeitet (Theorie). Das Netz der Religion erstreckt sich über Fragen des moralischen Sinns und Werts.",
+            "author": "Stephen Jay Gould",
+            "work": "Rocks of Ages: Science and the Fullness of Life",
+            "year": "1999",
+            "locator": "the statement of non-overlapping magisteria, first published as an essay in 1997; Gould was an agnostic",
+            "sourceUrl": "https://www.naturalhistorymag.com/picks-from-the-past/13430/nonoverlapping-magisteria",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The net of science covers the empirical realm: what is the universe made of (fact) and why does it work this way (theory). The net of religion extends over questions of moral meaning and value.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "theology-made-it-thinkable",
+              "label": "Nicht bloß vereinbar — das eine hat das andere erzeugt",
+              "heldBy": "Alfred North Whitehead und die Wissenschaftshistoriker, die die These seither weiterentwickelt haben",
+              "oneLine": "Die Überzeugung, die Natur sei geordnet, kontingent und für uns verständlich, war eine theologische Erwartung, bevor sie eine wissenschaftliche war, und ohne sie ist experimentelle Wissenschaft unwahrscheinlich.",
+              "summary": "Das ist eine viel stärkere Behauptung als friedliche Koexistenz, und sie ist historisch und nicht philosophisch.\n\nDas Argument lautet, dass die Arbeitsannahmen der frühneuzeitlichen Wissenschaft weder selbstverständlich noch allgemein verbreitet waren. Dass die Natur überall gesetzmäßig und nicht willkürlich ist; dass ihre Gesetze kontingent sind, sodass man sie durch Hinsehen finden und nicht aus ersten Prinzipien ableiten muss; und dass ein endlicher Verstand sie erfassen kann — das waren die Erwartungen von Menschen, die die Welt für das Werk eines vernünftigen Schöpfers hielten, der sie nicht so hätte machen müssen. Zu experimentieren statt aus Wesenheiten zu schließen folgt aus der zweiten Annahme von selbst, und es ist der Schritt, den die antike Welt nie getan hat.\n\nDie Behauptung lautet nicht, niemand sonst hätte dorthin kommen können. Sie lautet, dass die, die dorthin kamen, von dieser Erwartung aus arbeiteten und das auch sagten.",
+              "quote": {
+                "text": "Meine Erklärung ist, dass der Glaube an die Möglichkeit der Wissenschaft, erzeugt vor der Entwicklung der modernen wissenschaftlichen Theorie, eine unbewusste Ableitung aus der mittelalterlichen Theologie ist.",
+                "author": "Alfred North Whitehead",
+                "work": "Science and the Modern World",
+                "year": "1925",
+                "locator": "the chapter on the origins of modern science",
+                "sourceUrl": "https://www.gutenberg.org/files/68611/68611-h/68611-h.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "My explanation is that the faith in the possibility of science, generated antecedently to the development of modern scientific theory, is an unconscious derivative from medieval theology.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Der Einwand oben lautet, die Grenze zwischen den beiden Bereichen sei nicht entdeckt, sondern gezogen worden, und immer im Rückzug. Diese Position zieht keine Grenze und behauptet nichts über Bereiche; sie ist eine Kausalbehauptung darüber, woher ein Satz von Arbeitsannahmen kam. Ein Argument darüber, wer welches Gelände abgetreten hat, findet an einer Behauptung über das geistige Erbe des siebzehnten Jahrhunderts keinen Halt.",
+              "objection": {
+                "text": "Die These ist innerhalb der Wissenschaftsgeschichte weit umstrittener, als ihre Beliebtheit außerhalb vermuten lässt. Anspruchsvolle mathematische Astronomie, Optik und Medizin entwickelten sich in Umgebungen mit ganz anderen Theologien und in manchen ohne eine, die auf die Beschreibung passt, und der bestimmte Kausalweg — von einer Lehre der kontingenten Schöpfung zur Praxis des Experiments — wird viel häufiger behauptet als gezeigt. Was die Quellen klar zeigen, ist, dass der christliche Glaube der umgebende Zusammenhang war, und das ist nicht dasselbe wie seine Ursache zu sein.",
+                "from": "within",
+                "sharedPremise": "sie akzeptiert die gesamte revisionistische Historiographie, die die Konfliktthese erledigt hat, einschließlich der tiefen Verflechtung religiöser Institutionen mit der frühen Wissenschaft, und argumentiert aus derselben Literatur, dass die weitergehende Kausalbehauptung ein anderer und schlechter gestützter Satz ist als der negative, auf den sich heute alle einigen",
+                "response": "Ein umgebender Zusammenhang, der die bestimmten Voraussetzungen liefert, die eine Praxis braucht, und der von den Praktikern als Lieferant genannt wird, ist der gewöhnliche Maßstab für eine Kausalbehauptung in der Geistesgeschichte. Der Einwand hat recht, dass sie schwächer ist als der negative Befund, und darum steht sie hier als Variante und nicht als der geklärte Kern oben."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Die Grenze ist keine Entdeckung über zwei Gegenstandsbereiche; sie ist eine Linie, gezogen dort, wo die Kämpfe aufhörten. Religionen haben Behauptungen über das Alter der Erde, den Ursprung der Arten, die Ursachen von Krankheiten und die Wirksamkeit des Gebets aufgestellt, und jede einzelne wurde der empirischen Seite überlassen, nachdem sie verloren war, nicht vorher. Eine Arbeitsteilung, die durch aufeinanderfolgende Rückzüge erreicht wird und in der eine Partei ihre eigene Grenze immer neu zieht, beschreibt eine Niederlage und kein Prinzip.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Die zentrale christliche Lehre hat sich nicht bewegt, und überlassen wurden meist Lesungen, die die Gelehrten der Tradition selbst lange vor jedem wissenschaftlichen Ergebnis bestritten hatten: Augustinus warnte im fünften Jahrhundert davor, die Schrift an eine Kosmologie zu binden. Eine Lehre von einer populären Lesung zu unterscheiden ist kein Rückzug; es ist die normale Arbeit jeder auslegenden Tradition, und jede Disziplin tut es. Die Wissenschaft hat ihre eigene Fassung derselben Unterscheidung: der [[methodologische Naturalismus|methodologischer Naturalismus]] ist eine Regel darüber, was als wissenschaftliche Erklärung zählt, kein Befund darüber, was existiert, und ihn als das Zweite zu lesen ist derselbe Kategorienfehler in der anderen Richtung."
+          }
+        },
+        {
+          "id": "practitioners",
+          "claim": "Eine Unvereinbarkeit der Methode würde sich bei denen zeigen, die die Methoden ausführen, und sie zeigt sich nicht.",
+          "explanation": "Die Behauptung der anderen Seite betrifft nicht Überzeugungen, sondern Verfahren: dass die beiden von niemandem zusammengehalten werden können, der beide versteht. Das ist eine Behauptung mit einer beobachtbaren Folge.\n\nDie umfassendste systematische Befragung dazu, was Wissenschaftler an führenden amerikanischen Universitäten tatsächlich denken, ergab, dass sich fast die Hälfte einer religiösen Tradition zurechnet, dass sich ein weiteres Fünftel als spirituell beschreibt und — der aussagekräftigere Befund — dass es keine Anzeichen dafür gibt, dass religiöse Wissenschaftler schlechtere Wissenschaft machen, bestimmte Felder meiden oder die Spannung erleben, die das Konfliktbild ihnen zwingend voraussagt. Die Gruppe, die der angeblichen Widersprüchlichkeit am stärksten ausgesetzt ist, berichtet am wenigsten davon.\n\nDer Schluss ist bescheiden. Er zeigt nicht, dass die beiden philosophisch vereinbar sind; Menschen halten ständig Unvereinbares zusammen. Er zeigt, dass die Unvereinbarkeit, wenn sie wirklich ist, genau an der Stelle unsichtbar bleibt, an der sie Schaden anrichten würde, und das ist eine Tatsache, die jede Darstellung von ihr erklären muss.",
+          "quote": {
+            "text": "Ecklunds Befund, aus einer Befragung von fast 1.700 Wissenschaftlern an führenden amerikanischen Universitäten mit 275 Nachinterviews, lautet, dass sich knapp die Hälfte einer religiösen Tradition zurechnet und ein weiteres Fünftel sich als spirituell beschreibt, und dass das populäre Bild von Wissenschaftlern im Konflikt mit der Religion das, was sie berichten, falsch beschreibt.",
+            "author": "Elaine Howard Ecklund",
+            "work": "Science vs. Religion: What Scientists Really Think",
+            "year": "2010",
+            "locator": "our summary of the study's headline findings as the publisher's page and its reviewers state them; not Ecklund's wording",
+            "sourceUrl": "https://global.oup.com/academic/product/science-vs-religion-9780195392982",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Ecklund's finding, from a survey of nearly 1,700 scientists at elite American universities with 275 follow-up interviews, is that just under half identify with a religious tradition and a further fifth describe themselves as spiritual, and that the popular picture of scientists in conflict with religion misdescribes what they report.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Abschottung in getrennte Fächer ist eine gut belegte menschliche Fähigkeit und kein Beleg für Kohärenz. Menschen halten in jedem Bereich mühelos widersprüchliche Überzeugungen, und die Befragung zeigt, dass Wissenschaftler es auch tun — was das Argument voraussagt und nicht bestreitet. Der Befund betrifft überdies eine Gruppe, die nach beruflichem Erfolg in Institutionen mit starken Normen darüber ausgewählt ist, was man am Arbeitsplatz bespricht, und die berichtete Religiosität neigt stark zu liberalen Traditionen, die die strittigen Behauptungen längst aufgegeben haben.",
+            "objectionFrom": "atheist",
+            "response": "Abschottung ist ein wirkliches Phänomen und sie ist auch die Erwiderung, die die Behauptung unprüfbar macht: jeder religiöse Wissenschaftler schottet ab, also könnte keine Beobachtung dagegen zählen. Tritt die Unvereinbarkeit in der Praxis derer, die beides tun, nie zutage, dann ist sie eine Behauptung über logische Beziehungen zwischen Sätzen, und das ist eine kleinere Behauptung als „im Krieg“."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Dieselben Fragen, unvereinbare Werkzeuge und eine Grenze, die sich nur in eine Richtung bewegt hat",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "different-methods",
+          "claim": "Die beiden entscheiden Fragen durch Verfahren, die entgegengesetzte Antworten darauf geben, was zu tun ist, wenn man sich geirrt hat.",
+          "explanation": "Die Unvereinbarkeit betrifft nicht den Gegenstand, und sie so darzustellen ist es, was den Waffenstillstand plausibel aussehen lässt. Sie betrifft, was als Grund zählt.\n\nDie Wissenschaft hat ein Verfahren dafür, im Unrecht zu sein. Behauptungen werden vorläufig gehalten, an der Beobachtung geprüft und aufgegeben, wenn die Beobachtung anders ausfällt; der ganze Apparat aus Kontrollen, Replikation und Begutachtung besteht, um das Aufgeben gegen den Willen dessen möglich zu machen, der die Behauptung aufgestellt hat. Die Offenbarung hat die umgekehrte Gestalt: die zentralen Behauptungen stehen im Vorhinein fest, die Auslegung passt sich an, und es gibt keine Beobachtung, deren Eintreten als Widerlegung angenommen würde.\n\nZwei Unternehmungen können sich einen Raum teilen und in diesem Sinn dennoch unvereinbar sein, denn die Unvereinbarkeit liegt in den Normen und nicht in den Themen. Und die Normen geben tatsächlich verschiedene Antworten, über den Ursprung der Arten, den Anfang des Universums und die Geschichte eines Volkes, und daran erkennen wir, dass sie nicht auf getrennte Fragen beschränkt sind.",
+          "quote": {
+            "text": "Meine Behauptung ist diese: Wissenschaft und Religion sind unvereinbar, weil sie verschiedene Methoden haben, um Wissen über die Wirklichkeit zu gewinnen, verschiedene Weisen, die Zuverlässigkeit dieses Wissens zu beurteilen, und weil sie am Ende zu widersprüchlichen Schlüssen über das Universum kommen.",
+            "author": "Jerry A. Coyne",
+            "work": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+            "year": "2015",
+            "locator": "pp. 83-84",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "My claim is this: science and religion are incompatible because they have different methods for getting knowledge about reality, have different ways of assessing the reliability of that knowledge, and, in the end, arrive at conflicting conclusions about the universe.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "god-is-a-hypothesis",
+              "label": "Die zentrale Behauptung ist selbst eine empirische",
+              "heldBy": "Richard Dawkins",
+              "oneLine": "Ob eine schöpferische Intelligenz existiert, ist eine Frage danach, was im Universum ist, und damit Sache der Wissenschaft, was auch immer jemand vereinbart hat.",
+              "summary": "Diese Position behauptet nicht, dass zwei Methoden zusammenstoßen. Sie bestreitet, dass es zwei Fragen gibt.\n\nEin von einer Intelligenz gemachtes und beaufsichtigtes Universum ist ein anderes Universum als eines, das es nicht ist, und Unterschiede dieser Art haben Folgen, die irgendwo auftauchen: im Gewebe des Lebendigen, in den Antworten auf Gebete, in der Geschichtlichkeit der Wundergeschichten, auf denen Traditionen ruhen. Nach dieser Auffassung überlebt der Waffenstillstand nur, weil die religiöse Behauptung zuvor still ihres Inhalts entleert wurde — und diese Entleerung ist nicht, was Gläubige zu tun meinen, wenn sie beten.\n\nDas Argument hat das Verdienst, die Behauptungen der Religion wörtlich zu nehmen, und Gläubige stellen es regelmäßig selbst auf, wenn die Belege günstig aussehen.",
+              "quote": {
+                "text": "Die Anwesenheit oder Abwesenheit einer schöpferischen Superintelligenz ist unzweideutig eine wissenschaftliche Frage, auch wenn sie praktisch keine — oder noch keine — entschiedene Frage ist. Dasselbe gilt für die Wahrheit oder Falschheit jeder einzelnen der Wundergeschichten, auf die sich Religionen stützen, um Scharen von Gläubigen zu beeindrucken.",
+                "author": "Richard Dawkins",
+                "work": "The God Delusion (Der Gotteswahn)",
+                "year": "2006",
+                "locator": "the chapter arguing against non-overlapping magisteria",
+                "sourceUrl": "https://www.goodreads.com/work/quotes/3044365-the-god-delusion",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The presence or absence of a creative super-intelligence is unequivocally a scientific question, even if it is not in practice — or not yet — a decided one. So also is the truth or falsehood of every one of the miracle stories that religions rely upon to impress multitudes of the faithful.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Die Erwiderung oben lautet, die beiden Unternehmungen beantworteten verschiedene Fragen, sodass jeder andere Normen angemessen seien. Diese Position bestreitet den Vordersatz und nicht den Schluss: es gibt eine Frage, nämlich die, was existiert. Ein Einwand, der auf einer Trennung der Fragen beruht, lässt sich nicht gegen eine Position richten, die die Trennung ablehnt.",
+              "objection": {
+                "text": "Eine Hypothese verdient den Namen, indem sie unterscheidende Voraussagen macht, und diese macht keine, die ihr Vertreter vorgelegt hätte. Welches Experiment unterscheidet ein Universum, gemacht von einem Gott, der durch Zweitursachen wirken wollte, von einem Universum ohne jeden Gott? Ohne Antwort ist die Behauptung, es sei eine wissenschaftliche Frage, eine Parole, und die Position endet damit, der Wissenschaft Zuständigkeit für eine Sache zuzusprechen, für die sie kein Verfahren hat.",
+                "from": "theist",
+                "response": "Voraussagen wurden angeboten und sind gescheitert, und das ist das gewöhnliche Schicksal einer Hypothese: die Studien zum Fürbittgebet, die bestimmten Design-Behauptungen über das bakterielle Flagellum und das Auge, die Geschichtlichkeit einer weltweiten Flut. Dass die übrig gebliebene Fassung der Hypothese keine Voraussagen macht, ist eine Beobachtung darüber, wie viel von ihr schon zurückgezogen wurde."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Der Gegensatz wird zwischen der Wissenschaft in ihrer besten und der Religion in ihrer schlechtesten Gestalt gezogen, und umgekehrt gezogen hält er nicht. Wissenschaftliche Felder halten Kernverpflichtungen über Jahrzehnte fest und passen die Peripherie an; so arbeiten Forschungsprogramme, und die Wissenschaftstheorie beschreibt das seit sechzig Jahren. Auch die Theologie revidiert, und sie hat Positionen unter dem Druck von Belegen und Argumenten verworfen — den Geozentrismus, den Monogenismus, die junge Erde —, was nach dem genannten Kriterium unmöglich sein müsste.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Ein Forschungsprogramm, das keinen Fortschritt mehr macht, wird aufgegeben, und seine Vertreter einigen sich im Vorhinein darauf, wie Fortschritt aussähe. Nichts in der Theologie spielt diese Rolle: die genannten Revisionen wurden alle von außen erzwungen, über Generationen, und keine war das Ergebnis einer Prüfung, die die Tradition selbst vorgeschlagen hatte."
+          }
+        },
+        {
+          "id": "one-way-ratchet",
+          "claim": "Das Gelände wird seit vier Jahrhunderten in eine Richtung neu zugeteilt, und immer nach dem Verlust.",
+          "explanation": "Behauptungen, die einst als schlichte Aussagen über die Welt gehalten wurden, sind eine nach der anderen zu Aussagen anderer Art geworden. Die sechs Tage, die Flut, das erste Paar, die Unveränderlichkeit der Arten, die Krankheit als Heimsuchung, die Bewegung der Sonne: jede wurde wörtlich gelehrt, wörtlich verteidigt und dann als bildlich neu gedeutet — jedes Mal nachdem die empirische Frage anders entschieden war, und niemals vorher.\n\nEin Vorgang dieser Gestalt ist keine Arbeitsteilung. Wäre die Grenze zwischen den Bereichen wirklich, hätte man sie im Vorhinein sehen können, und Neudeutungen gingen in beide Richtungen: irgendeine heute als Metapher gelesene Behauptung würde gelegentlich durch neue Belege wieder zur wörtlichen Tatsache befördert. Das ist nicht ein einziges Mal geschehen.\n\nWas das Muster voraussagt, ist, dass die übrigen religiösen Behauptungen genau jene sind, für die keine Prüfung besteht — und das ist auch der Grund, warum die Vereinbarkeit von ihrem heutigen Standort aus so bequem aussieht.",
+          "quote": {
+            "text": "ein wiederkehrendes Muster in der Theologie ist dieses: in dem Maß, in dem Zweige der Wissenschaft — Evolutionsbiologie, Geologie, Geschichte und Archäologie — biblische Behauptungen eine nach der anderen widerlegt haben, haben sich diese Behauptungen von wörtlichen Wahrheiten in Allegorien verwandelt",
+            "author": "Jerry A. Coyne",
+            "work": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+            "year": "2015",
+            "locator": "on the reinterpretation of scriptural claims",
+            "sourceUrl": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "a recurrent pattern in theology is this: as branches of science — evolutionary biology, geology, history, and archaeology — have disproved scriptural claims one by one, those claims have morphed from literal truths into allegories",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Die Liste besteht aus populären Lesungen und nicht aus Lehren, und bildliche Lesungen der Genesis sind älter als alle Wissenschaften, die sie angeblich erzwungen haben. Origenes im dritten und Augustinus im fünften Jahrhundert argumentierten aus dem Text heraus gegen eine wörtliche Sechstageschöpfung, ohne dass einem von beiden Geologie zur Verfügung stand. Der Sperrklinkeneffekt ist für den Volksglauben wirklich und für den Literalismus des neunzehnten Jahrhunderts, der selbst eine Reaktion auf die Moderne war; er ist nicht die Geschichte der eigenen Theologie der Tradition, die nie so wörtlich war, wie das Argument es braucht.",
+            "objectionFrom": "theist",
+            "response": "Die frühen bildlichen Lesungen sind wirklich, und sie waren Minderheitspositionen, die sich nicht durchsetzten; die Tradition lehrte und erzwang die wörtlichen Lesungen den größten Teil ihrer Geschichte und maßregelte, wer davon abwich. Dass ein Mittel zur Neudeutung vorhanden war, ändert nicht, wann es gebraucht wurde, und gebraucht wurde es hinterher."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Woher die Mythen kamen",
+      "oneLine": "Die bekanntesten Konfliktgeschichten wurden im neunzehnten Jahrhundert von zwei amerikanischen Autoren hergestellt, die einen institutionellen Streit zu gewinnen hatten, und die von der flachen Erde erfand ein Romancier.",
+      "text": "Drapers History of the Conflict between Religion and Science (1874) und Whites A History of the Warfare of Science with Theology in Christendom (1896) entstanden mitten in einem Kampf darüber, wer die neuen amerikanischen Forschungsuniversitäten kontrollieren würde. Beide waren enorm erfolgreich, beide werden noch zitiert, und beide wurden aus sekundärer Polemik und nicht aus Dokumenten zusammengesetzt.\n\nDie Geschichte von der flachen Erde hat einen noch seltsameren Ursprung. Das Bild von Kolumbus, der Kirchenmännern entgegentritt, die glaubten, er werde über den Rand hinaussegeln, stammt aus Washington Irvings Biographie von 1828, die offen zum Teil Fiktion war. Kein gebildeter Europäer der Zeit hielt die Erde für flach; der wirkliche Streit mit Kolumbus ging um den Erdumfang, und seine Gegner hatten recht und er hatte unrecht.\n\nMitzunehmen ist daraus nicht, dass die Religion unfair behandelt worden wäre. Es ist, dass eine Geschichte, die ein Jahrhundert lang in Schulbüchern wiederholt wurde, falsch sein kann, und dass die Korrektur aus gewöhnlicher Archivarbeit von Historikern ohne Interesse am Ergebnis kam.\n\nDas ist kein umstrittener und kein apologetischer Befund. Das maßgebliche Nachschlagewerk, das sie korrigiert, hat ein Historiker herausgegeben, der im Adventismus des Siebten Tages aufwuchs und den Glauben verließ, und unter seinen Beiträgern sind Gläubige und Nichtgläubige, die aus denselben Dokumenten zum selben Ergebnis argumentieren."
+    },
+    {
+      "heading": "Galilei, kurz",
+      "oneLine": "Er wurde nicht gefoltert, nicht in ein Verlies gesperrt und nicht getötet, und der Fall war ein echter Zusammenstoß — nur nicht der, den der Mythos beschreibt.",
+      "text": "Galilei verbrachte seine Verurteilung unter Hausarrest in einer Villa und schrieb weiter; sein wichtigstes Buch wurde dort fertig. Die Drohung der Folter wurde ihm nach dem Verfahren der Zeit formell gezeigt und nicht ausgeführt. Er war ein Freund des Papstes gewesen, der ihn verurteilte.\n\nDer Zusammenstoß war wirklich und war mehreres auf einmal: ein Streit darüber, ob das kopernikanische Modell erwiesen oder bloß ein Rechenmittel war, ein Streit darüber, wer die Vollmacht hatte, die Schrift auszulegen, in einer Zeit, in der diese Frage der Angelpunkt der Reformation war, und ein persönliches Zerwürfnis, zu dem Galilei viel beitrug. Die 1633 verfügbaren wissenschaftlichen Belege entschieden die Sache tatsächlich nicht, und die Sternparallaxe, die sie entschieden hätte, wurde erst 1838 beobachtet.\n\nAls Veranschaulichung der Wissenschaft im Streit mit dem Glauben taugt der Fall also nicht, und als Veranschaulichung einer vernünftigen Kirche taugt er auch nicht. Es war eine Institution mit der Macht, Schweigen zu erzwingen, die sie gebrauchte, in einem Fall, in dem die Wissenschaft nicht entschieden und die beanspruchte Vollmacht nicht die ihre war."
+    }
+  ],
+  "whereItStands": "Die historische Frage schloss sich vor Jahrzehnten, und das populäre Gespräch hat es nicht bemerkt; darum wird der öffentliche Streit über dieses Thema meist auf einer Ebene geführt, die die Fachleute keiner der beiden Seiten einnehmen.\n\nAuch die lebendige Frage hat sich bewegt, und auf ungewöhnliche Weise: sie ist klarer geworden, ohne einer Lösung näher zu kommen. Beide Seiten sind sich inzwischen einig darüber, worüber sie uneinig sind, nämlich über den Status des Glaubens als Weise, Überzeugungen zu bilden, und beide haben die Argumente aufgegeben, die eigentlich von etwas anderem handelten. Die Vereinbarkeitsvertreter argumentieren nicht mehr aus der Frömmigkeit Newtons; die Unvereinbarkeitsvertreter argumentieren nicht mehr aus der Inquisition.\n\nWas keine Seite vorgelegt hat, ist ein entscheidender Fall. Die Behauptung, die Bereiche seien getrennt, hat nie eine grundsätzliche Angabe darüber bekommen, wo die Linie fällt, die dem Einwand des Sperrklinkeneffekts nicht ausgesetzt wäre, und Goulds eigene Fassung wurde genau darum von beiden Seiten kritisiert. Die Behauptung, die Methoden seien unvereinbar, hat nie eine Darstellung davon bekommen, was eine religiöse Behauptung tun müsste, um als revidierbar zu zählen, die Theologen als fair anerkennen würden.\n\nDie Lage ist also eine stabile Uneinigkeit mit einer geklärten Geschichte darunter, und das ist eine ungewöhnliche Gestalt, die es wert ist, als das benannt zu werden, was sie ist.",
+  "commonMistake": "Christen behandeln den Zusammenbruch der [[Konfliktthese]] am häufigsten so, als hätte er die heutige Frage entschieden. Hat er nicht. Dass die viktorianische Geschichtsschreibung Propaganda war, gibt auf dieser Seite jeder zu, und es lässt den Streit über die Methode genau dort, wo er war.\n\nAtheisten zitieren am häufigsten Galilei, Bruno oder die flache Erde, und jedes dieser Zitate kostet mehr, als es einbringt: im Einzelnen stehen die Tatsachen gegen sie, die Korrektur ist leicht zu finden, und ein Argument, das mit einer widerlegten Geschichte beginnt, lädt das Publikum ein, den Rest abzuwerten.\n\nBeide Seiten missbrauchen Gould. Die Vereinbarkeitsvertreter zitieren die nicht überschneidenden Magisterien, als wären sie ein Befund und nicht ein Vorschlag — und einer, den viele religiöse Denker verwerfen, weil er die Behauptung aufgibt, dass Gott etwas getan hat. Die Unvereinbarkeitsvertreter zitieren sie als die Position, die sie widerlegen, obwohl sie eine Minderheitsauffassung ist, die die meisten ihrer Gegner ebenfalls nicht vertreten.",
+  "sources": [
+    {
+      "title": "Galileo Goes to Jail and Other Myths about Science and Religion",
+      "author": "Ronald L. Numbers (Hrsg.)",
+      "year": "2009",
+      "url": "https://books.google.com/books/about/Galileo_Goes_to_Jail_and_Other_Myths_abo.html?id=_Wj-ruvGFvgC",
+      "note": "Fünfundzwanzig Mythen, jeder von einem Fachmann auseinandergenommen. Das maßgebliche Werk zum geklärten Kern oben."
+    },
+    {
+      "title": "Nonoverlapping Magisteria",
+      "author": "Stephen Jay Gould",
+      "year": "1997",
+      "url": "https://www.naturalhistorymag.com/picks-from-the-past/13430/nonoverlapping-magisteria",
+      "note": "Der ursprüngliche Essay, frei und kurz. Die Buchfassung folgte 1999."
+    },
+    {
+      "title": "Science and the Modern World",
+      "author": "Alfred North Whitehead",
+      "year": "1925",
+      "url": "https://www.gutenberg.org/files/68611/68611-h/68611-h.htm",
+      "note": "Frei und vollständig. Das Argument über die mittelalterliche Theologie steht im Kapitel über die Ursprünge der modernen Wissenschaft."
+    },
+    {
+      "title": "Faith Versus Fact: Why Science and Religion Are Incompatible",
+      "author": "Jerry A. Coyne",
+      "year": "2015",
+      "url": "https://www.goodreads.com/work/quotes/42819635-faith-versus-fact-why-science-and-religion-are-incompatible",
+      "note": "Verlinkt ist eine Zitatseite und nicht der Text: beide Zitate auf dieser Seite sind aus zweiter Hand genommen."
+    },
+    {
+      "title": "Science vs. Religion: What Scientists Really Think",
+      "author": "Elaine Howard Ecklund",
+      "year": "2010",
+      "url": "https://global.oup.com/academic/product/science-vs-religion-9780195392982",
+      "note": "Die Befragung hinter dem zweiten Argument. Ecklunds eigener Schluss ist, dass das populäre Konfliktbild beide Seiten falsch beschreibt."
+    }
+  ]
+}
