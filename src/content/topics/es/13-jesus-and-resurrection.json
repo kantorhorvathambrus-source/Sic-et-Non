@@ -1,0 +1,251 @@
+{
+  "id": "jesus-and-resurrection",
+  "number": 13,
+  "slug": "jesus-y-la-resurreccion",
+  "title": "¿Existió Jesús, y resucitó?",
+  "category": "history-and-text",
+  "status": "settled-core",
+  "settledCore": "Un maestro judío llamado Jesús de Nazaret vivió en la Galilea del siglo I, reunió seguidores y fue ejecutado por crucifixión bajo Poncio Pilato. Esto no se discute entre los historiadores del periodo, y no es una tesis cristiana que los no cristianos rechacen: la afirman estudiosos judíos, agnósticos y ateos del campo, sobre la evidencia corriente que los historiadores usan para cualquiera de aquella época y posición social. La tesis de que no existió tal persona —el [[mitismo]]— no tiene ningún peso en la disciplina y no se representa en esta página como un lado.\n\nLo que no está establecido es qué ocurrió después y, en concreto, qué explica mejor el hecho de que sus seguidores llegaran a decir que estaba vivo. De eso trata el argumento de abajo.",
+  "realQuestion": "Aquí se confunden dos preguntas, y solo una está abierta.\n\nSi Jesús existió, no. Lo atestiguan Pablo, que dice haber conocido a su hermano; cuatro evangelios dentro de la memoria viva; y Tácito y Josefo desde fuera del movimiento. La evidencia es corriente para una figura provincial de aquel periodo, y los historiadores la consideran suficiente para zanjar el asunto.\n\nLo que sus seguidores informaron después también se acepta en buena medida: en muy poco tiempo decían, a un coste, que lo habían visto vivo. Lo que se discute es qué produjo eso. Un lado sostiene que ninguna explicación natural disponible da cuenta de la forma de lo que pasó, y que la resurrección sí. El otro sostiene que el duelo, la culpa y la visión son fenómenos humanos bien documentados, y que un historiador que pase por encima de ellos para alcanzar un milagro ha abandonado la disciplina.",
+  "distinctions": [
+    {
+      "label": "¿Existió Jesús de Nazaret?",
+      "gloss": "Establecido, y enunciado arriba en lugar de discutirse. Se deja aparte no porque sea poco importante, sino porque presentarlo como discutido sería fabricar una controversia donde los especialistas no la tienen.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Creyeron sinceramente sus seguidores que lo habían visto vivo?",
+      "gloss": "En buena medida aceptado, y es la premisa compartida y no un punto de disputa: ambos lados de esta página lo aceptan, y la discusión es sobre qué lo causó. Se deja aparte.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Qué explica mejor esa creencia?",
+      "gloss": "Es el argumento de esta página. Es una disputa sobre la explicación histórica y sobre si el método histórico puede alcanzar en absoluto una conclusión de esta clase.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mitismo",
+      "definition": "La tesis de que Jesús nunca existió como persona histórica. Una posición con una larga vida popular y prácticamente ninguna presencia en el campo académico pertinente."
+    },
+    {
+      "term": "hechos mínimos",
+      "definition": "El método de Gary Habermas: construir solo sobre datos concedidos por la gran mayoría de los estudiosos del campo, incluidos los escépticos, y preguntar qué los explica mejor."
+    },
+    {
+      "term": "judaísmo del segundo templo",
+      "definition": "La creencia y la práctica judías en el periodo que termina en el año 70. Sus expectativas sobre la resurrección son centrales para el primer argumento de esta página."
+    },
+    {
+      "term": "la tumba vacía",
+      "definition": "Si la tumba se encontró vacía se discute genuinamente entre historiadores, a diferencia de la crucifixión y las apariciones. Varios argumentos de aquí están construidos para funcionar sin ella."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Nada más da cuenta de la forma de lo que pasó",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "nobody-expected-this",
+          "claim": "El judaísmo del siglo I no tenía categoría para que un hombre resucitara en medio de la historia, de modo que la creencia no se lee en sus expectativas",
+          "explanation": "El relato naturalista habitual tiene a unos seguidores en duelo echando mano de una esperanza que su tradición ya les daba. El argumento de N. T. Wright es que la tradición no les daba esta.\n\nEl [[judaísmo del segundo templo]] sí tenía una esperanza de resurrección: una resurrección general de todos los fieles, al final, juntos. No tenía ninguna expectativa de que algún individuo resucitara antes de ella, ni ninguna en absoluto de que el Mesías lo hiciera, porque un mesías ejecutado quedaba por ese hecho mostrado como no siendo el Mesías, y la respuesta registrada a tales fracasos era irse a casa o buscar otro candidato. Lo que dijeron los primeros cristianos no era una intensificación de una esperanza existente, sino una mutación de ella, y las mutaciones de esa especificidad necesitan una causa.",
+          "quote": {
+            "text": "a nadie se le habría ocurrido decir: «creo que tal y cual era realmente el Mesías; por tanto, tiene que haber resucitado de entre los muertos»",
+            "author": "N.T. Wright",
+            "work": "The Resurrection of the Son of God",
+            "year": "2003",
+            "locator": "on the absence of any second-temple expectation of an individual messianic resurrection",
+            "sourceUrl": "https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "nobody would have thought to say 'I believe that so-and-so really was the Messiah; therefore he must have been raised from the dead'",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La novedad es un hecho sobre la creencia, no evidencia de su verdad, y las tesis religiosas nuevas no son raras. Los movimientos cuyo líder muere inesperadamente a veces reinterpretan en lugar de disolverse: el movimiento sabatianista sobrevivió a la conversión de su mesías al islam, y varios grupos de Lubavitch sobrevivieron a la muerte de su rebbe con tesis sobre él. El argumento supone además que la expectativa judía del siglo I era lo bastante uniforme como para excluir la innovación, y las fuentes son más escasas y más variadas que eso.",
+            "objectionFrom": "atheist",
+            "response": "Los paralelos citados son posteriores y están moldeados por categorías que el propio cristianismo suministró, que es la dificultad de usarlos. Y no se afirma que la novedad pruebe la verdad, sino que una creencia concreta sin precedentes necesita una causa concreta, que «estaban tristes» no suministra.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "spiritual-body",
+              "label": "Una resurrección real, pero no del cadáver",
+              "heldBy": "Marcus Borg, John Dominic Crossan; una línea considerable del cristianismo mayoritario y progresista",
+              "oneLine": "La Pascua es verdadera y la tumba es irrelevante: lo que Pablo describe en 1 Corintios 15 es un cuerpo espiritual, y la tesis cristiana nunca necesitó el cadáver.",
+              "summary": "Esta es una posición cristiana, sostenida por cristianos, y está en este lado de la página porque su conclusión es que la resurrección ocurrió, no por nada relativo a las creencias de quienes la sostienen.\n\nEl caso exegético es que Pablo, nuestro testigo más antiguo, no describe un cuerpo reanimado. Describe un *sōma pneumatikon*, un cuerpo espiritual, y dice explícitamente que la carne y la sangre no pueden heredar el reino. Según esta lectura, los relatos evangélicos de comer pescado y tocar heridas son posteriores, y las narraciones de la tumba vacía son composiciones teológicas y no informes. Lo que la Pascua nombra es que los discípulos se encontraron con Jesús como realidad viva, y que eso no fue un error.",
+              "quote": {
+                "text": "Pablo afirma explícitamente que el «cuerpo» de la resurrección no es un cuerpo «físico», sino un cuerpo «espiritual», un cuerpo «glorificado». Como dice Pablo, no es un cuerpo de carne y sangre.",
+                "author": "Marcus J. Borg",
+                "work": "The Resurrection of Jesus: Physical/Bodily or Spiritual/Mystical?",
+                "year": "2013",
+                "sourceUrl": "https://marcusjborg.org/posts-by-marcus/the-resurrection-of-jesus/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Paul explicitly states that the resurrection \"body\" is not a \"physical\" body but a \"spiritual\" body, a \"glorified\" body. As Paul says, it is not a flesh and blood body.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que la novedad es un hecho sobre una creencia y no evidencia a su favor, y que los movimientos sí reinterpretan cuando muere un líder. Esa objeción va dirigida a una tesis sobre una resurrección *corporal* sin precedentes. Esta lectura no hace esa tesis, de modo que los paralelos que la objeción ofrece —movimientos que reinterpretaron en lugar de disolverse— no son contraejemplos de ella, sino aproximadamente lo que dice que ocurrió.",
+              "objection": {
+                "text": "El propio argumento de Wright corre contra esto con más fuerza, y es filológico. En el griego del periodo, *anastasis* y sus derivados significaban resurrección corporal en concreto, y se usaban precisamente para distinguirla de la supervivencia de un alma o de una visión de un difunto, y por eso los paganos encontraban absurda la tesis y no familiar. Un judío del siglo I que dijera «ha sido resucitado» queriendo decir «nos encontramos con él espiritualmente» estaría usando la única palabra que lo excluía. La lectura tiene además que explicar por qué un movimiento que podría haberse contentado con un espíritu vindicado produjo una tradición de la tumba vacía que no necesitaba.",
+                "from": "within",
+                "sharedPremise": "argumenta desde premisas que esta lectura acepta —que Pablo es el testigo más antiguo, que el vocabulario es judío del siglo I y que lo que los primeros cristianos querían decir se recupera de cómo escribían— hasta la conclusión de que las palabras que eligieron excluyen una lectura no corporal.",
+                "response": "Pablo es el testigo más antiguo y el que niega más explícitamente la carne y la sangre, de modo que el argumento del vocabulario tiene que explicarlo a él primero; y la tumba vacía es justamente la tradición cuya historicidad es menos segura."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-facts-both-sides-grant",
+          "claim": "Tómese solo lo que los estudiosos escépticos ya aceptan, y ninguna explicación natural lo cubre todo",
+          "explanation": "El método de los [[hechos mínimos]] está diseñado para evitar argumentar desde la fiabilidad de los evangelios, lo cual daría por supuesta la cuestión contra el otro lado. Gary Habermas lo construyó a partir de una bibliografía del trabajo académico sobre la resurrección reunido desde los años setenta, conservando solo los datos concedidos por una gran mayoría de los estudiosos del campo.\n\nLa lista habitual: Jesús murió crucificado; sus seguidores tuvieron experiencias que tomaron por apariciones suyas en vida; Pablo, perseguidor activo, se convirtió por lo que tomó por una experiencia así; y Santiago, un hermano escéptico, igualmente. No se afirma que alguno de estos puntos sea inexplicable, sino que las hipótesis naturales manejan cada una algunos y ninguna los maneja todos: la alucinación colectiva no es un fenómeno reconocido, y el duelo no convierte enemigos.",
+          "quote": {
+            "text": "tan fuertemente atestiguados históricamente que los concede casi todo estudioso que se dedica al tema, incluso los bastante escépticos",
+            "author": "Gary Habermas",
+            "work": "The Minimal Facts Approach to the Resurrection of Jesus",
+            "year": "2012",
+            "locator": "Habermas on the criterion for admitting a datum to the list",
+            "sourceUrl": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "so strongly attested historically that they are granted by nearly every scholar who studies the subject, even the rather skeptical ones",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "El crítico más afilado de este argumento es cristiano. Dale Allison acepta los hechos y niega que la inferencia funcione: lo que los estudiosos conceden es que los seguidores tuvieron experiencias, que es una tesis sobre su psicología, y el paso de ahí a una resurrección corporal no es algo que el consenso respalde; es exactamente donde el consenso se detiene. Allison señala además que la literatura comparativa sobre visiones de duelo es mucho más amplia y extraña de lo que admite su uso apologético, incluidos casos colectivos. Contar estudiosos que aceptan una premisa no es lo mismo que contar estudiosos que aceptan la conclusión.",
+            "objectionFrom": "within",
+            "sharedPremise": "acepta todos y cada uno de los hechos mínimos y el método con el que se establecieron, y discute solo si un consenso que concede esas premisas respalda también la inferencia que se extrae de ellas.",
+            "response": "El argumento no afirma que el consenso respalde la conclusión; afirma que la conclusión es la mejor explicación de lo que el consenso respalda, y es una inferencia que el método hace abiertamente en lugar de tomarla prestada."
+          }
+        }
+      ]
+    },
+    {
+      "label": "El duelo, la culpa y la visión están documentados; la resurrección no",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "visions-after-a-death",
+          "claim": "Las visiones de duelo son comunes, y las experiencias fundacionales del movimiento se parecen a ellas",
+          "explanation": "Esta es una reconstrucción positiva y no una negativa. Gerd Lüdemann, estudioso del Nuevo Testamento que trabajó en la cuestión durante décadas y perdió su fe en el camino, sostuvo que la secuencia es recuperable.\n\nPedro había negado a Jesús y luego lo vio morir; la combinación de culpa y duelo es exactamente la condición en la que la gente ve a los muertos, lo cual está bien documentado y ocurre en dolientes mentalmente sanos. La experiencia de Pedro, referida con la autoridad que él tenía, se propagó entonces por un grupo ya preparado para esperar una vindicación. La experiencia de Pablo es de la misma clase y es la única descrita por quien la tuvo, y él describe algo visionario, luz y voz, y no un cuerpo.",
+          "quote": {
+            "text": "Pedro, abrumado por el duelo y por la culpa de haber negado a Jesús, tuvo una visión que tomó por el Jesús resucitado; esa experiencia, con su autoridad, se propagó por el grupo, y la experiencia posterior de Pablo fue de la misma clase visionaria.",
+            "author": "Gerd Lüdemann",
+            "work": "The Resurrection of Jesus: History, Experience, Theology",
+            "year": "1994",
+            "locator": "our summary of the vision hypothesis as Lüdemann develops it; not his wording",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Peter, overwhelmed by grief and by guilt at having denied Jesus, experienced a vision he took to be the risen Jesus; that experience, carrying his authority, propagated through the group, and Paul's later experience was of the same visionary kind.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Las visiones de duelo son reales y no son lo que describen las fuentes. Los dolientes que ven a los muertos no concluyen que la persona haya resucitado corporalmente ni que haya comenzado el siglo venidero; concluyen, correctamente, que han visto algo y que la persona está muerta. La hipótesis tiene además que cargar con Santiago, que no estaba en duelo por un líder al que hubiera seguido, y con Pablo, que no estaba en duelo en absoluto, sino persiguiendo al movimiento. Un mecanismo que explica a los discípulos explica peor los dos casos más difíciles.",
+            "objectionFrom": "theist",
+            "response": "El escepticismo de Santiago está atestiguado débilmente y tarde, y la conversión de Pablo tiene una forma bien conocida —el perseguidor cuya intensidad se vuelve— que no exige que le ocurriera nada inusual."
+          }
+        },
+        {
+          "id": "what-history-can-reach",
+          "claim": "El método histórico entrega probabilidades, y un milagro es lo menos probable disponible",
+          "explanation": "La objeción de Bart Ehrman es sobre la disciplina y no sobre la evidencia, y se aplica por buena que sea la evidencia. Los historiadores no establecen qué ocurrió; establecen qué ocurrió con mayor probabilidad, dadas fuentes de fiabilidad conocida y sin acceso a los hechos.\n\nUn milagro es, por construcción, la clase menos probable de suceso: eso es lo que lo hace milagro. Así que para cualquier cuerpo de evidencia histórica habrá una explicación natural más probable que la milagrosa, no porque la explicación natural sea buena, sino porque el listón que tiene que pasar es muchísimo más bajo. Ehrman dice explícitamente que esto no muestra que la resurrección no ocurriera. Muestra que la historia no es la herramienta que podría decírselo.",
+          "quote": {
+            "text": "Los historiadores solo pueden establecer qué ocurrió probablemente en el pasado, pero los milagros, por su propia naturaleza, son siempre la explicación menos probable de lo que ocurrió.",
+            "author": "Bart D. Ehrman",
+            "work": "in debate with William Lane Craig, College of the Holy Cross",
+            "year": "2006",
+            "sourceUrl": "https://en.wikiquote.org/wiki/Bart_D._Ehrman",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Historians can establish only what probably happened in the past, but miracles, by their very nature, are always the least probable explanation for what happened.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "El principio excluye la conclusión antes de examinar ninguna evidencia, lo cual no es un método sino una estipulación. La improbabilidad previa puede superarse con evidencia: eso es lo que describe el teorema de Bayes, y así concluimos todo el tiempo que ocurrieron cosas improbables. Un premio de lotería es astronómicamente improbable y creemos en uno por el testimonio de un periódico. Si la regla es que ninguna evidencia podría establecer nunca un milagro, entonces el argumento no es un hallazgo histórico, sino el supuesto de que los milagros no ocurren, enunciado como una regla sobre los historiadores.",
+            "objectionFrom": "theist",
+            "response": "La comparación con la lotería falla porque alguien gana cada semana, de modo que la improbabilidad de un ganador concreto no es la improbabilidad de que haya ganador. No hay una tasa base comparable para las resurrecciones."
+          }
+        }
+      ],
+      "singleVoice": "Este lado no se divide en esta cuestión, y decirlo es más honesto que fabricar una división. Las explicaciones naturales que se ofrecen —visión de duelo, culpa, disonancia cognitiva, el crecimiento de una narración en torno a una experiencia— no son posiciones incompatibles, sino partes de una sola hipótesis, y sus partidarios se citan entre sí en lugar de discutir. La única alternativa genuinamente incompatible es que Jesús nunca existiera, y eso queda excluido por la evidencia y no por preferencia: se expone en la nota de abajo y no como variante aquí."
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Por qué el mitismo no está en esta página",
+      "oneLine": "Que Jesús existió lo afirman los estudiosos agnósticos y ateos del periodo con la misma firmeza que los cristianos; el mitismo no tiene prácticamente presencia en el campo.",
+      "text": "La tesis de que Jesús nunca existió circula mucho en internet y no tiene prácticamente presencia en el campo. No es el caso de una disciplina religiosamente comprometida que defiende su objeto: entre los estudiosos que lo dicen con más crudeza hay agnósticos y ateos que han dedicado su carrera a sostener que los evangelios no son fiables y que las tesis centrales del cristianismo son falsas.\n\nLa evidencia no es extraordinaria y no necesita serlo. Pablo, escribiendo unos veinticinco años después de la crucifixión, dice que conoció en Jerusalén a Santiago, hermano de Jesús, y a Pedro: una frase difícil de escribir sobre una persona que no existió, y dirigida a un público que podía preguntar. Tácito y Josefo se refieren a él desde fuera del movimiento. Para un maestro provincial ejecutado en una provincia menor, esto es más de lo que suele sobrevivir.",
+      "quote": {
+        "text": "Existió con certeza, como coincide prácticamente todo estudioso competente de la antigüedad, cristiano o no cristiano",
+        "author": "Bart D. Ehrman",
+        "work": "Forged: Writing in the Name of God",
+        "year": "2011",
+        "locator": "Ehrman is an agnostic and a critic of the gospels' reliability",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Did_Jesus_Exist%3F_(Ehrman_book)",
+        "verification": "corroborated",
+        "sawWhat": "snippet",
+        "original": {
+          "text": "He certainly existed, as virtually every competent scholar of antiquity, Christian or non-Christian, agrees",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "heading": "La tumba vacía, que sí se discute de verdad",
+      "oneLine": "Si la tumba se encontró vacía se discute de verdad entre historiadores, a diferencia de la crucifixión y las apariciones, y los argumentos más fuertes de aquí están construidos sin ella.",
+      "text": "Conviene separar esto del núcleo establecido, porque se presenta a menudo como si le perteneciera y no es así.\n\nQue Jesús fue crucificado se acepta. Que sus seguidores informaron de apariciones se acepta. Si [[la tumba vacía]] se encontró se discute entre historiadores: una mayoría de los estudiosos que escriben sobre la cuestión lo aceptan, pero esa mayoría es menor y menos transversal que el acuerdo sobre los otros dos puntos, y hay especialistas serios que lo niegan, algunos sosteniendo que es poco probable que a un criminal crucificado se le diera una tumba privada en absoluto.\n\nPor eso la forma más fuerte del argumento teísta de esta página está construida sin ella, y por eso un argumento que se apoye en ella es más débil que uno que no lo haga."
+    }
+  ],
+  "whereItStands": "La cuestión de la existencia está cerrada y no se reabrirá. Quien siga discutiéndola discute con un campo que la zanjó, y la energía popular que hay detrás del mitismo no tiene contrapartida en la literatura.\n\nLa cuestión de la resurrección está genuinamente abierta y tiene una estructura inusual: los dos lados coinciden en los datos en una medida rara en esta colección. Ambos aceptan la crucifixión, ambos aceptan que los seguidores tuvieron experiencias que tomaron por apariciones, ambos aceptan que el movimiento empezó muy pronto y a un coste real. El desacuerdo está enteramente en el nivel de la explicación, y su parte más profunda no es ni siquiera sobre qué explicación es mejor, sino sobre si el método histórico es la clase de cosa que podría entregar esta conclusión. Ese segundo desacuerdo es lo que impide que el primero se mueva.\n\nDonde ha habido movimiento es en la honestidad del planteamiento. El método de Habermas es un avance metodológico real respecto de argumentar desde la fiabilidad de los evangelios, y la crítica que Allison le hace, desde dentro del cristianismo, es lo mejor que se ha escrito sobre el tema en veinte años. Ambos lados argumentan mejor que antes.",
+  "commonMistake": "Los cristianos tratan casi siempre el acuerdo de los estudiosos escépticos como si cubriera más de lo que cubre. Que la mayoría de los especialistas conceda que los discípulos tuvieron experiencias es verdad y es una tesis sobre lo que les pasó a los discípulos; no es una concesión parcial de la resurrección, y presentarla así ante un público que luego lo comprobará es un mal trato. Dale Allison, cristiano, hace esta crítica con más fuerza que cualquier ateo.\n\nLos ateos echan mano casi siempre del mitismo, que es el único movimiento de este tema que está simplemente equivocado a la vista de la evidencia, y que les cuesta por asociación toda la discusión. Quien abre con «Jesús nunca existió» ha entregado al otro lado una victoria fácil y merecida, y se ha saltado la pregunta donde está la dificultad real para el cristianismo.\n\nAmbos lados tienden a argumentar como si la tumba vacía estuviera establecida, en un sentido o en otro. Es el elemento menos seguro del caso, y los dos harían mejor en argumentar sin él.",
+  "sources": [
+    {
+      "title": "The Resurrection of the Son of God",
+      "author": "N.T. Wright",
+      "year": "2003",
+      "url": "https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/",
+      "note": "Reseñado en Themelios, que expone el argumento del segundo templo que la página cita."
+    },
+    {
+      "title": "The Minimal Facts Approach to the Resurrection of Jesus",
+      "author": "Gary Habermas",
+      "year": "2012",
+      "url": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs",
+      "note": "La exposición del método y de su criterio por Habermas mismo."
+    },
+    {
+      "title": "Vision theory of Jesus' appearances",
+      "url": "https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
+      "note": "La reconstrucción de Lüdemann y sus críticos. La exposición de la página es una paráfrasis y está marcada como tal."
+    },
+    {
+      "title": "Bart D. Ehrman",
+      "url": "https://en.wikiquote.org/wiki/Bart_D._Ehrman",
+      "note": "Citas con fuente, incluido el argumento sobre el método histórico y los milagros del debate con Craig de 2006."
+    },
+    {
+      "title": "Is There Historical Evidence for the Resurrection of Jesus? The Craig-Ehrman Debate",
+      "year": "2006",
+      "url": "https://www.reasonablefaith.org/media/debates/is-there-historical-evidence-for-the-resurrection-of-jesus-the-craig-ehrman",
+      "note": "El intercambio completo, alojado en el sitio de Craig."
+    },
+    {
+      "title": "Did Jesus Exist? (Ehrman)",
+      "url": "https://en.wikipedia.org/wiki/Did_Jesus_Exist%3F_(Ehrman_book)",
+      "note": "El tratamiento del mitismo por Ehrman, de la extensión de un libro, escrito como agnóstico."
+    }
+  ]
+}
