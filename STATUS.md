@@ -299,15 +299,35 @@ violations; `AUDIT.md` regenerated at 20 topics / 140 quotations / 14
 paraphrases / 8 on aggregators; `VERIFICATION.md` regenerated at 140 quotations,
 0 verified.
 
-**Is it deployed? No. There is no live URL.**
+**Is it deployed? Yes, and this session could not open it.**
 
-`npx wrangler deploy --dry-run` is clean: wrangler 4.135.0 reads 378 files from
-`./dist`, reports "No bindings found" and exits 0 without contacting Cloudflare.
-So the configuration is right up to the authentication step. The real deploy
-cannot run from here: there is no `CLOUDFLARE_API_TOKEN` in the environment, and
-the shell is non-interactive, so `wrangler login` is impossible. Nothing about
-the site's behaviour on Cloudflare has been observed — only what Cloudflare's
-documentation says it will do.
+A Worker named `sic-et-non` exists on the account, created 2026-09-19 and last
+modified 2026-10-05 at 16:00:19Z, which is immediately after a push to this
+branch. That timing is the evidence that the dashboard's Git integration is
+wired up and building: `astro.config.mjs` throws when `WORKERS_CI` is set and
+`SITE_URL` is not, so a Workers Builds run without that variable fails at config
+load and deploys nothing. A deploy that advanced `modified_on` is therefore a
+build that had `SITE_URL`.
+
+What has still not been observed is the site itself. The live hostname is
+`<name>.<account subdomain>.workers.dev` or a custom domain, and neither this
+repository nor this container can know which — the account subdomain is not in
+the tree by design, there is no `CLOUDFLARE_API_TOKEN` here, the shell is
+non-interactive so `wrangler login` is impossible, and the Workers MCP tools
+expose a Worker's name and id but not its routes. The two hostnames written in
+this repository (`sic-et-non.pages.dev` and the bare `sic-et-non.workers.dev`)
+both fail to connect, which is expected: the first is the old Pages literal and
+the second is missing the subdomain.
+
+So the deployment is confirmed to exist and to rebuild on push; whether it
+serves correctly is unverified from here. `DEPLOY.md` has the one-line check
+for whoever can open it: `/robots.txt` on the live site prints the origin the
+build used, and if that does not match the hostname it is being read on, then
+`SITE_URL` is wrong.
+
+`npx wrangler deploy --dry-run` remains clean: wrangler 4.135.0 reads the asset
+directory, reports "No bindings found" and exits 0 without contacting
+Cloudflare, so the configuration is right up to the authentication step.
 
 One consequence is visible in the tree right now: with no `SITE_URL` set, the
 origin falls back to the literal in `astro.config.mjs`, so **every canonical
@@ -406,13 +426,14 @@ only evidence if you confirm it actually changed something first.
 
 ## 5. If I had to pick three things to do next
 
-**1. Deploy it, then rebuild with the real origin.** Everything else in this
-document is about a site nobody can visit. The configuration is verified clean
-up to authentication; what is missing is a credential and one build variable.
-Until `SITE_URL` is set to the origin that actually serves the site, the sitemap,
-every canonical and every `hreflang` point at `sic-et-non.pages.dev`, and the
-Lighthouse performance numbers above are measurements of a localhost server.
-This is the only item that changes whether the project exists for anyone.
+**1. Open the live site and check `/robots.txt`.** The Worker exists and
+rebuilds on push, so the deploy step is done; what has never happened is anybody
+looking at the result. The one thing that could still be wrong and would be
+invisible in the output is the origin: if `SITE_URL` in the dashboard does not
+match the hostname the site is served from, then the sitemap, every canonical
+and every `hreflang` are consistent and uniformly wrong. `/robots.txt` prints
+that origin in one line. The Lighthouse numbers above remain measurements of a
+localhost server and say nothing about the live edge.
 
 **2. Fix the two sourcing sentences, then clear the fourteen paraphrases.** The
 home pages and their `<meta>` descriptions claim the arguments come
