@@ -376,8 +376,17 @@ const topics = defineCollection({
         // "nem az ő szövege", "nem Boyd megfogalmazása", "saját összefoglalásunk",
         // "az érv összefoglalása tőlünk", "általunk készített összefoglalása".
         hu: /\bnem\b[^.]*\b(szövege|szavai|szava|megfogalmazása|szóhasználata)\b|\b(saját|általunk|tőlünk)\b[^.]*\b(összefoglal\p{L}*|megfogalmaz\p{L}*)\b|\bösszefoglal\p{L}*\b[^.]*\b(tőlünk|saját|általunk)\b/iu,
-        // es, fr and de carry no paraphrase yet. Adding one there fails the
-        // build until a pattern is registered here, which is the point.
+        // "nuestro resumen del argumento", "no sus palabras", "no las
+        // palabras de Linville".
+        es: /\bnuestro[^.]*resumen|\bno[^.]*(las palabras de|sus palabras)/iu,
+        // "notre résumé de l'argument", "non ses mots", "non les mots
+        // d'Alston". No \b next to an accent: in JS \b is ASCII-only, so
+        // /\brésumé\b/ never matches — the trailing boundary cannot exist
+        // after "é". The same trap applies to any pattern added below.
+        fr: /\bnotre[^.]*résumé|\bnon[^.]*(les mots d|ses mots)/iu,
+        // "unsere Zusammenfassung des Arguments", "nicht sein Wortlaut",
+        // "nicht Alstons Wortlaut".
+        de: /\bunsere[^.]*Zusammenfassung|\bnicht[^.]*Wortlaut/iu,
       } as const;
       const DISCLAIMER_PATTERNS = Object.values(DISCLAIMER_BY_LANGUAGE);
       const hasDisclaimer = (locator: string) =>

@@ -22,18 +22,17 @@ Status tags: `open` 13, `interpretive` 4, `settled-core` 3 (topics 6, 13, 19).
 |---|---|---|
 | `en` | 20 / 20 | — |
 | `hu` | 20 / 20 | — |
-| `es` | 1 / 20 | all but topic 6 |
-| `fr` | 1 / 20 | all but topic 6 |
-| `de` | 1 / 20 | all but topic 6 |
+| `es` | 20 / 20 | — |
+| `fr` | 20 / 20 | — |
+| `de` | 20 / 20 | — |
 
-The home page prints that fraction itself: `/` and `/hu/` both render **20 / 20**,
-`/es/`, `/fr/` and `/de/` render **1 / 20** with nineteen rows marked "not
-written yet".
+The home page prints that fraction itself, and all five render **20 / 20**. No
+row on any home page is marked "not written yet".
 
 ### How developed each language is
 
-`en` and `hu` are structurally identical — `hu` is a full translation of the
-English files, not an abridgement. That identity was verified file by file
+All five languages are structurally identical — each non-English locale is a
+full translation of the English files, not an abridgement. That identity was verified file by file
 during translation and is visible in the per-topic counts below, but it is not
 fully enforced by a tool: `scripts/verify-quotes.mjs` checks cross-locale
 agreement on bibliography URLs, bibliography authors, the presence of
@@ -64,11 +63,12 @@ Per-topic quotation counts in `en`, which `hu` mirrors exactly: 6 on topics 1,
 
 ### Verification breakdown
 
-Across all 43 content files (20 `en` + 20 `hu` + 1 each in `es`, `fr`, `de`):
-**310 quotation slots — 0 primary, 282 corroborated, 28 paraphrase.**
+Across all 100 content files (20 in each of the five languages):
+**700 quotation slots — 0 primary, 630 corroborated, 70 paraphrase.**
 
 Within `en` (140 slots): 126 `corroborated`, 14 `paraphrase`, 0 `primary`.
-`hu` is the same 126 / 14 / 0. `es`, `fr` and `de` are 10 / 0 / 0 each.
+Every other language is the same 126 / 14 / 0, because each one translates the
+same quotations and carries the same `verification` values.
 
 `sawWhat` records how much of the source was literally in front of us. Across
 the English 140: **`snippet` 137, `abstract` 3, `full-text` 0.** The schema
@@ -158,7 +158,7 @@ They are the `mechanism-not-author` argument (evolutionary creation, carrying
 the Dobzhansky quotation) plus its three variants — young-earth creationism,
 old-earth creationism, intelligent design. The older `context` block that used
 to hold them is **dead code**: `ContextEntry.astro` is still imported and
-rendered at `TopicPage.astro:153`, and **zero of the 43 content files carry a
+rendered at `TopicPage.astro:153`, and **zero of the 100 content files carry a
 `context` key**. Nothing renders it; nothing fails because of it.
 
 **Language switcher.** All five languages are always linked, because a missing
@@ -424,14 +424,20 @@ an hour. Retiring the paraphrases behind them is longer but bounded, and
 `VERIFICATION.md` already orders the work: Schellenberg first, because topic 4
 is his argument and the page carrying it cannot quote its own author.
 
-**3. Decide about `es`, `fr` and `de`.** Two languages are complete and three
-are 5% complete, and the switcher is honest about it on every page — nineteen
-"not written yet" rows on three home pages. That is a defensible state to ship
-and an indefensible state to leave indefinitely, because it reads as abandonment
-rather than as a plan. Either commit to translating them, or cut them to a
-single well-made page that says the site is in English and Hungarian and links
-to both. The current middle is the only option that costs something and buys
-nothing.
+**3. Read `es`, `fr` and `de` as a native speaker would.** All five languages
+now carry all twenty topics, so the gap that used to sit here is closed. What
+replaces it is narrower and cannot be checked by a script: whether the prose
+reads as though it had been written in the target language rather than
+translated into it. The tooling proves the structure — every non-translatable
+field is byte-identical to English, every `[[glossary link]]` resolves in both
+directions, quotation marks follow one convention per locale, and no string
+drifts far enough from the English to break the 95-character layout limit. None
+of that is evidence about register, idiom or whether a philosophical term landed
+on the word the literature actually uses. Three choices are worth a second
+opinion in particular: German `Prinzip der Gutgläubigkeit` for Swinburne's
+principle of credulity, German `Sperrklinkeneffekt` for the ratchet argument on
+topic 19, and German `Kontrafaktum` for the counterfactual on topic 18 — each is
+defensible and none is the only option.
 
 Two things I considered and left off: the name-form inconsistencies (real, but
 no reader is misled, and the fix is mechanical whenever someone touches those
