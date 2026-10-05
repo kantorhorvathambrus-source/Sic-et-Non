@@ -1,0 +1,289 @@
+{
+  "id": "free-will",
+  "number": 9,
+  "slug": "libre-albedrio",
+  "title": "¿Tenemos libre albedrío?",
+  "category": "mind-and-will",
+  "status": "open",
+  "realQuestion": "Usted eligió leer esto. Algo de su historia —los genes, la crianza, la glucemia, lo último que leyó— hizo que esa elección fuera la que hizo. Las dos cosas parecen verdaderas, y la discusión es sobre si pueden serlo a la vez.\n\nLa disputa no va realmente de física. Va de una palabra. Un lado sostiene que ser libre significa poder, en las circunstancias exactas en las que usted estaba, haber hecho otra cosa; si el pasado y las leyes fijan lo que usted hace, no fue libre, y el elogio y el reproche están fuera de lugar. El otro sostiene que eso pone el listón donde nada podría pasarlo, y que ser libre significa actuar por razones propias sin coacción ni compulsión, que es exactamente lo que usted hizo y es todo lo que nadie ha querido nunca.\n\nLo que lo vuelve difícil es que ninguna de las dos es evidentemente una redefinición. Cada lado cree que el otro ha cambiado de tema.",
+  "distinctions": [
+    {
+      "label": "¿Es verdadero el determinismo?",
+      "gloss": "Una cuestión de física, y sin resolver: la mecánica cuántica tiene interpretaciones deterministas e interpretaciones que no lo son. Importa menos aquí de lo que parece: una elección hecha por un suceso cuántico aleatorio no es más suya que una hecha por una cadena de causas. Se deja aparte.",
+      "activeHere": false
+    },
+    {
+      "label": "¿Exige la responsabilidad que usted hubiera podido actuar de otro modo?",
+      "gloss": "Es el argumento de esta página. Es una pregunta sobre para qué sirve la libertad: qué tiene que ser verdad de usted para que el elogio, el reproche y el merecimiento tengan sentido.",
+      "activeHere": true
+    },
+    {
+      "label": "¿Suprime la presciencia de Dios su libertad?",
+      "gloss": "Un problema distinto y mucho más antiguo, interno al teísmo, con su propia literatura sobre la eternidad, el conocimiento medio y el teísmo abierto. No depende de los argumentos de aquí. No se intenta en esta página.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "compatibilismo",
+      "definition": "La tesis de que el libre albedrío y el determinismo pueden ser verdaderos a la vez, porque la libertad consiste en actuar por razones propias y no en ser una excepción a la causalidad."
+    },
+    {
+      "term": "libre albedrío libertario",
+      "definition": "Una libertad que exige alternativas realmente abiertas: en esas circunstancias exactas, usted habría podido actuar de otro modo. Nada que ver con el término político."
+    },
+    {
+      "term": "causalidad del agente",
+      "definition": "La propuesta de que una persona puede ser causa sin que algo la haya causado a causar: un originador y no un eslabón de una cadena. Es el principal relato positivo de la libertad libertaria."
+    },
+    {
+      "term": "merecimiento",
+      "definition": "Merecer algo —elogio, reproche, castigo— por justicia y no por utilidad. Buena parte de lo que está en juego prácticamente en esta discusión está aquí."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Usted es un originador, no solo un eslabón de una cadena",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "agents-originate",
+          "claim": "Una persona puede ser la causa de una acción sin que otra cosa la haya causado a causarla",
+          "explanation": "Esta es la propuesta positiva, y va primero porque la defensa del [[libre albedrío libertario]] se confunde a menudo con una puramente negativa. La tesis es que entre las causas del mundo hay una clase que no es un suceso: una sustancia, una persona, que ejerce un poder.\n\nSegún el relato de Timothy O’Connor, sus razones son genuinamente causales —configuran cuán probable es que usted forme una intención y no otra—, pero no lo deciden. Lo decide usted. Eso es lo que sería que una acción se originara en usted en lugar de pasar por usted, y es una tesis sobre la metafísica de la causalidad, no una petición de exención respecto de la ciencia.",
+          "quote": {
+            "text": "Una acción libre es aquella en la que la propia agente causa su intención de actuar. Las razones configuran cuán probable es que la agente forme una intención y no otra, pero ningún conjunto de condiciones previas la causa a formarla: la agente ejerce un poder causal que es suyo.",
+            "author": "Timothy O'Connor",
+            "work": "Persons and Causes: The Metaphysics of Free Will",
+            "year": "2000",
+            "locator": "our summary of the agent-causal account the book defends; not O'Connor's wording",
+            "sourceUrl": "https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "A free action is one in which the agent herself causes her intention to act. Reasons shape how likely the agent is to form one intention rather than another, but no set of prior conditions causes her to form it: the agent exercises a causal power that is hers.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Esto nombra el misterio en lugar de resolverlo. Si el causar del agente no está causado a su vez por nada del agente —su carácter, sus razones, su humor—, no queda claro en qué sentido lo expresa a él en lugar de simplemente ocurrir. Hágase depender de esas cosas y queda determinado al fin y al cabo; hágase independiente de ellas y parece un suceso aleatorio con el nombre de una persona encima. Ese dilema es antiguo y, a juicio de sus críticos, ninguna teoría de la causalidad del agente ha escapado de él.",
+            "objectionFrom": "atheist",
+            "response": "El dilema supone que toda causa tiene que ser un suceso, que es justo lo que niega la [[causalidad del agente]]. Que la posición sea difícil de enunciar en el vocabulario de la causalidad entre sucesos es lo esperable, porque propone otra categoría y no un suceso extraño.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "theological-compatibilism",
+              "label": "Compatibilismo reformado",
+              "heldBy": "Jonathan Edwards; Paul Helm, John Feinberg; la tradición reformada en general",
+              "oneLine": "La voluntad está siempre determinada por lo que parece más agradable, y eso no amenaza la responsabilidad: usted responde por actuar según sus propios deseos, no por haberlos producido.",
+              "summary": "Una posición teísta que coincide con el lado ateo de esta página en la metafísica y llega a ella desde la teología y no desde la física. Edwards sostuvo en 1754 que la voluntad no es una facultad que se mueve a sí misma eligiendo entre opciones abiertas, sino la inclinación de la mente hacia lo que le parece mejor, y que eso es exactamente lo que la libertad es, porque una voluntad capaz de actuar contra todo motivo sería arbitraria y no libre.\n\nEl motivo teológico es la soberanía divina: un Dios que ordena todas las cosas no puede estar esperando a ver qué hacen las criaturas. La consecuencia, que Edwards aceptó abiertamente, es que la libertad libertaria no solo es innecesaria, sino incoherente.",
+              "quote": {
+                "text": "la voluntad es siempre según el mayor bien aparente, o según lo que parece más agradable",
+                "author": "Jonathan Edwards",
+                "work": "Freedom of the Will",
+                "year": "1754",
+                "sourceUrl": "http://onthewing.org/user/Edwards%20-%20Freedom%20of%20the%20Will%20-%20Modern.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "the will always is as the greatest apparent good, or as what appears most agreeable",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior es el dilema de la suerte: si el causar del agente no lo deciden su carácter y sus razones, parece aleatorio, y si lo deciden, queda determinado. Esta posición toma deliberadamente el segundo cuerno y niega que sea un cuerno. Un argumento de que la causalidad del agente no puede escapar a la determinación no es una objeción contra una tesis cuyo punto entero es que no debería intentarlo.",
+              "objection": {
+                "text": "Hace a Dios autor del pecado, y la tradición nunca ha encontrado una respuesta cómoda. Si toda inclinación está ordenada y la voluntad sigue sin más a la más fuerte, entonces la inclinación más fuerte de un asesino también estaba ordenada, y la réplica habitual —que Dios ordena sin ser la causa próxima— es la misma distinción entre permitir y hacer que el tema 3 de esta página encuentra difícil de sostener. Los cristianos arminianos y wesleyanos presionan por ahí como razón para rechazar el relato entero.",
+                "from": "within",
+                "sharedPremise": "argumenta desde premisas que la posición sostiene —que Dios es bueno, que ordena lo que sucede y que los seres humanos son genuinamente culpables— hasta la conclusión de que las tres cosas no pueden ser verdaderas a la vez si la voluntad está determinada por inclinaciones que Dios ordenó.",
+                "response": "La distinción entre ordenar y ser autor hace trabajo real, no evade: el autor de una novela no es culpable de los asesinatos que contiene, y la objeción supone una noción unívoca de causalidad que la doctrina niega."
+              }
+            }
+          ]
+        },
+        {
+          "id": "the-consequence-argument",
+          "claim": "Si el pasado y las leyes fijan lo que usted hace, entonces lo que usted hace no está en sus manos",
+          "explanation": "El argumento de Peter van Inwagen es corto, y ha fijado los términos de la disputa durante cuarenta años. No apela a la introspección ni a la sensación de elegir, que el otro lado puede explicar. Apela solo a un principio de transferencia: si usted no tiene elección sobre A, ni elección sobre que A lleve a B, entonces no tiene elección sobre B.\n\nUsted no tuvo elección sobre el estado del mundo antes de nacer, ni ninguna sobre las leyes de la naturaleza. Si esas dos cosas juntas implican cada movimiento que usted hace, entonces, por ese principio, no tiene elección sobre ninguno de ellos.",
+          "quote": {
+            "text": "Si el determinismo es verdadero, nuestros actos son las consecuencias de las leyes de la naturaleza y de sucesos del pasado remoto. Pero no está en nuestras manos lo que ocurrió antes de que naciéramos, ni está en nuestras manos cuáles son las leyes de la naturaleza. Por tanto, las consecuencias de esas cosas (incluidos nuestros actos presentes) no están en nuestras manos.",
+            "author": "Peter van Inwagen",
+            "work": "An Essay on Free Will",
+            "year": "1983",
+            "locator": "p. 16",
+            "sourceUrl": "https://andrewmbailey.com/pvi/Consequence_Argument.doc",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "If determinism is true, then our acts are the consequences of the laws of nature and events in the remote past. But it is not up to us what went on before we were born; and neither is it up to us what the laws of nature are. Therefore the consequences of these things (including our present acts) are not up to us.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "«Estar en nuestras manos» es exactamente la expresión en disputa, de modo que un principio construido con ella hereda el desacuerdo en lugar de resolverlo. En la lectura compatibilista, si algo está en sus manos es una pregunta por si pasó por su deliberación y habría salido de otro modo si sus razones hubieran sido otras; y en esa lectura las premisas son falsas, porque estaba en sus manos en el único sentido en que alguien actúa. El argumento es válido; si es sólido depende de la pregunta misma que debía resolver.",
+            "objectionFrom": "atheist",
+            "response": "Esa réplica concede el argumento y cambia de tema hacia una noción más débil de libertad. La cuestión es si esa noción más débil puede soportar el peso del [[merecimiento]], y decir que es el único sentido en que alguien actúa no responde a si debería."
+          }
+        }
+      ]
+    },
+    {
+      "label": "La libertad que vale la pena nunca fue la imposible",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "freedom-worth-wanting",
+          "claim": "La libertad que de verdad importa es compatible con todo lo que la ciencia ha encontrado",
+          "explanation": "La tesis de Daniel Dennett es que el libertario ha estado describiendo una clase de libertad que nadie podría tener y nadie querría. Una elección no causada por su carácter, su historia y sus razones no sería más suya; sería menos.\n\nLo que de hecho nos importa cuando responsabilizamos a alguien es si era la clase de agente capaz de recoger razones y responder a ellas, si estaba coaccionado, engañado o compelido, y si hablar con él podría cambiar algo la próxima vez. Todo eso es real, todo varía entre personas y situaciones, y nada de ello exige una excepción a la causalidad. El [[compatibilismo]] no es un premio de consolación; según este relato, es la cosa misma.",
+          "quote": {
+            "text": "salvar todo lo que importaba del concepto corriente de libre albedrío, desechando los estorbos",
+            "author": "Daniel C. Dennett",
+            "work": "Elbow Room: The Varieties of Free Will Worth Wanting",
+            "year": "1984",
+            "locator": "Dennett describing the book's aim, in the preface to the revised edition",
+            "sourceUrl": "https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "saving everything that mattered about the everyday concept of free will, while jettisoning the impediments",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Todo lo de esa lista es real y nada de ello es lo que se preguntaba, y la objeción la presionan con más fuerza los naturalistas y no la religión. Galen Strawson y Derk Pereboom aceptan todas las premisas de Dennett sobre la física y sobre los seres humanos, y sostienen que la receptividad a razones no es ser la fuente: una máquina sofisticada también recoge razones y responde a ellas, y nadie cree que merezca nada. La pregunta nunca fue si los seres humanos se distinguen de las piedras en su receptividad, sino si alguien es alguna vez la fuente última de lo que hace.",
+            "objectionFrom": "within",
+            "response": "No hay ninguna noción coherente de «fuente última» que rechazar. Ser la fuente última de su acción exigiría haber creado su propio carácter, lo cual exigiría un yo anterior que hiciera la creación, y así sin término.",
+            "sharedPremise": "acepta el naturalismo, el determinismo o el indeterminismo según los deje la física, y todo el relato funcional de lo que es la deliberación, y argumenta solo desde esas premisas que la receptividad a razones no es lo mismo que ser la fuente de lo que uno hace.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "hard-incompatibilism",
+              "label": "Incompatibilismo duro",
+              "heldBy": "Derk Pereboom; Neil Levy; Bruce Waller",
+              "oneLine": "Nos falta la libertad que exige la responsabilidad moral, y es así sea verdadero o no el determinismo; pero casi todo lo que vale la pena conservar sobrevive a eso.",
+              "summary": "La posición de Pereboom no es desesperación ni compatibilismo. Sostiene que una acción indeterminada no está más bajo su control que una determinada, de modo que el indeterminismo no ayuda, y concluye que nadie merece reproche ni crédito en el sentido básico.\n\nLo interesante es qué hace después con eso. El castigo retributivo se cae; la cuarentena, la disuasión y la rehabilitación se quedan. La gratitud y el amor sobreviven en su mayor parte, porque no exigen pensar que la otra persona habría podido actuar de otro modo. La tesis es que las prácticas que nos importan nunca se apoyaron en el merecimiento.",
+              "quote": {
+                "text": "carecemos de la clase de libre albedrío que exige la responsabilidad moral, y … esto es así sea verdadero o no el determinismo",
+                "author": "Derk Pereboom",
+                "work": "Living Without Free Will",
+                "year": "2001",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/living-without-free-will/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "we lack the kind of free will required for moral responsibility, and … this is so whether or not determinism is true",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que el compatibilismo conserva el vocabulario y abandona la cosa que la gente quería decir. Esta posición está de acuerdo, y abandona también el vocabulario. Un argumento de que una redefinición ha cambiado de tema no puede presionarse contra quien se ha negado a redefinir nada.",
+              "objection": {
+                "text": "La tesis práctica hace muchísimo trabajo y se afirma en lugar de mostrarse. Si la gratitud, el amor, el remordimiento y el derecho penal sobreviven a la supresión del merecimiento es una pregunta empírica sobre los seres humanos y no filosófica, y la respuesta bien puede ser que no. Hay además un problema de autoaplicación: si nadie merece crédito por nada, eso incluye el razonamiento que le ha traído hasta aquí.",
+                "from": "both",
+                "response": "La autoaplicación no es una paradoja: un argumento puede ser sólido merezca o no su autor crédito por haberlo producido. Si las prácticas sobreviven es empírico, y Pereboom lo argumenta largamente en lugar de suponerlo."
+              }
+            },
+            {
+              "id": "the-basic-argument",
+              "label": "El argumento básico",
+              "heldBy": "Galen Strawson",
+              "oneLine": "Para responder de lo que hace tendría que responder de cómo es, lo cual exigiría haberse creado a sí mismo, y nada se crea a sí mismo.",
+              "summary": "El argumento más comprimido de esta página, y va dirigido a todos. Para actuar como actúa a causa de cómo es, y para responder de actuar así, tendría que responder de cómo es. Pero para responder de cómo es, habría tenido que elegir ser así, por razones que venían de cómo ya era. La regresión no termina.\n\nStrawson toma esto como prueba de que la responsabilidad moral última es imposible en principio, y no solo ausente de hecho, y de que eso se sostiene diga lo que diga la física.",
+              "quote": {
+                "text": "nada puede ser causa de sí mismo, y para ser verdadera o últimamente responsable moralmente de sus actos uno tendría que ser causa sui, al menos en ciertos aspectos mentales cruciales",
+                "author": "Galen Strawson",
+                "work": "The Impossibility of Moral Responsibility, Philosophical Studies 75",
+                "year": "1994",
+                "sourceUrl": "https://plato.stanford.edu/entries/skepticism-moral-responsibility/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "nothing can be the cause of itself, and in order to be truly or ultimately morally responsible for one's actions one would have to be causa sui, at least in certain crucial mental respects",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La objeción anterior dice que la libertad que se ofrece no es la libertad que la gente quería decir. Este argumento no ofrece ninguna libertad, de modo que no hay nada a lo que acusar de quedarse corto. También suprime la réplica habitual del teísta —que el indeterminismo deja sitio—, porque la regresión corre igual estén o no determinados los pasos.",
+              "objection": {
+                "text": "El argumento prueba que una noción concreta de autocreación última es incoherente, que es lo que casi nadie afirmaba. Los compatibilistas dicen que la responsabilidad nunca exigió ser causa sui; los libertarios dicen que la originación no es autocreación, sino el ejercicio de un poder que una persona tiene y que no hace falta haber elegido. En ambas lecturas el argumento refuta una condición que ninguno de los dos lados aceptaba, y la palabra «última» carga con todo.",
+                "from": "both",
+                "response": "La palabra carga con todo deliberadamente. La tesis es que cualquier cosa por debajo de la responsabilidad última no sostendrá el merecimiento, y que el merecimiento es lo que siempre se ha tomado por requisito del elogio, el reproche y el castigo."
+              }
+            }
+          ]
+        },
+        {
+          "id": "no-author-of-your-thoughts",
+          "claim": "Sus intenciones llegan ya formadas, desde causas que no eligió y no puede ver",
+          "explanation": "Sam Harris mantiene una línea más dura, y es una tesis sobre la experiencia antes que sobre la metafísica. Observe con atención su próximo pensamiento. No lo selecciona de un menú: aparece. La intención de mover la mano se presenta en la conciencia ya hecha, producida por procesos a los que usted no tenía acceso y de los que no es autor.\n\nSegún este relato, el compatibilismo conserva la palabra abandonando discretamente la cosa que la gente quería decir con ella. Nadie, al oír que es libre, lo entiende como «sus deseos causan sus acciones». Lo entiende como «habría podido actuar de otro modo», y eso es lo que Harris dice que es falso.",
+          "quote": {
+            "text": "El libre albedrío es una ilusión. Nuestras voluntades simplemente no son obra nuestra.",
+            "author": "Sam Harris",
+            "work": "Free Will",
+            "year": "2012",
+            "locator": "the book's thesis, stated in its opening pages",
+            "sourceUrl": "https://en.wikipedia.org/wiki/Free_Will_(book)",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Free will is an illusion. Our wills are simply not of our own making.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La objeción más afilada viene aquí del mismo bando, no de la religión: Dennett ha argumentado largamente contra Harris que esto confunde una teoría popular con el fenómeno. Que los pensamientos lleguen sin ser convocados es verdadero e irrelevante, porque deliberar no es seleccionar un primer pensamiento, sino lo que le ocurre después: la reflexión, la ponderación, el veto. Decirle a la gente que la responsabilidad es una ilusión es además, sostiene Dennett, una tesis empírica sobre consecuencias que Harris no defiende y que bien puede ser falsa.",
+            "objectionFrom": "within",
+            "sharedPremise": "acepta que no hay alma ni excepción a la causalidad física, y argumenta desde esas premisas que la deliberación es lo que le ocurre a un pensamiento después de llegar y no la llegada misma.",
+            "response": "La reflexión y el veto llegan por la misma vía que el primer pensamiento y no son más obra suya que él. Empujar el relato un paso más adelante en el proceso no encuentra un autor, encuentra más maquinaria."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Los cristianos están en ambos lados, y siempre lo han estado",
+      "oneLine": "El libre albedrío libertario no es la posición cristiana: buena parte de la tradición, Edwards y la línea reformada en especial, lo niega por motivos teológicos.",
+      "text": "La página pone la libertad libertaria en el lado teísta porque ahí es donde se defiende hoy, pero no es la posición cristiana, y presentarla así tergiversaría buena parte de la tradición.\n\nLa tradición reformada es compatibilista en términos amplios. Jonathan Edwards sostuvo en 1754 que la voluntad está siempre determinada por el motivo más fuerte y que eso no amenaza la responsabilidad, una posición más cercana a la de Dennett que a la de van Inwagen, alcanzada dos siglos antes y por razones teológicas. A Agustín y a Tomás de Aquino se los lee en más de una dirección. Quien se lleve de esta página que los cristianos creen en el libre albedrío libertario y los ateos no se ha llevado lo que no era: lo que la página muestra es qué argumentos están vivos hoy, no quién tiene derecho a hacerlos."
+    },
+    {
+      "heading": "Los experimentos de Libet y por qué no ocupan un hueco de argumento",
+      "oneLine": "Los experimentos de Libet se siguen citando como prueba de que el libre albedrío es una ilusión, y el propio campo ha retirado buena parte de esa interpretación.",
+      "text": "En los años ochenta, Benjamin Libet encontró actividad cerebral que precedía en unos cientos de milisegundos al momento declarado de decidir mover un dedo, y durante treinta años esto se citó por todas partes como evidencia experimental contra el libre albedrío.\n\nNo ocupa un hueco de arriba porque la interpretación ha sido retirada en buena parte, y por gente de ambos lados. El «potencial de preparación» parece hoy, en parte, un artefacto de promediar ensayos alineados con el movimiento, y puede aparecer cuando no se toma ninguna decisión; la tarea —mover un dedo en un momento arbitrario y sin motivo— es de lo menos deliberativo que una persona puede hacer; y Libet mismo pensaba que sus resultados dejaban sitio a un veto consciente. El hallazgo es real y la conclusión que se extrajo de él no se defiende hoy en esa forma, y por eso está aquí."
+    }
+  ],
+  "whereItStands": "El compatibilismo es la posición mayoritaria entre los filósofos que trabajan en esto, y lo es desde hace décadas; el libertarismo es una minoría considerable, y el incompatibilismo duro, una más pequeña. Eso es un hecho sobre el campo y no un argumento, y la minoría incluye a algunas de las personas más conocidas de él.\n\nEl argumento de la consecuencia sigue siendo el eje. Nadie lo ha refutado a satisfacción general y nadie lo ha vuelto decisivo, porque ambos resultados exigen fijar qué significa «estar en nuestras manos», y eso es el desacuerdo y no un paso dentro de él. Donde ha habido movimiento es en otro sitio: los casos de estilo Frankfurt llevaron a muchos a aceptar que la responsabilidad podría no exigir alternativas al fin y al cabo, lo cual desplazó el terreno bajo los dos lados, y la neurociencia de la que se esperaba que lo resolviera todo no ha resuelto nada.\n\nEl resumen honesto es que esta es una de las pocas disputas en que ambos lados pueden enunciar con precisión la posición del otro, coincidir en todos los hechos y seguir discrepando; y, aun así, no es interpretativa, porque argumentos concretos siguen cambiando opiniones concretas.",
+  "commonMistake": "Los cristianos argumentan casi siempre como si su fe exigiera la libertad libertaria y por eso fuera seguro suponerla, lo cual es mala filosofía y mala historia: buena parte de su propia tradición la niega. Suponerla hace además que la defensa del libre albedrío del tema 3 parezca circular, porque ese argumento necesita la libertad libertaria como premisa y no puede ser a la vez evidencia a su favor.\n\nLos ateos echan mano casi siempre de Libet, o de un relato sobre neuronas que se disparan antes de que usted sienta la decisión, como si el experimento hubiera resuelto una cuestión filosófica. No lo ha hecho, y la versión que suele citarse ha sido retractada en lo esencial por el campo. Echar mano de ella concede además el planteamiento: si la cuestión fuera empírica, un experimento mejor la resolvería, y todos los que están en la disputa real saben que no lo haría.\n\nEl error de fondo en ambos casos es tratar el desacuerdo como si un lado no estuviera advirtiendo algo. Van Inwagen sabe cómo funcionan los cerebros. Dennett sabe qué se siente al elegir. Lo que discuten es qué tendría que ser la libertad para merecer el nombre.",
+  "sources": [
+    {
+      "title": "Persons and Causes: The Metaphysics of Free Will",
+      "author": "Timothy O'Connor",
+      "year": "2000",
+      "url": "https://toconnor.org/wp-content/uploads/2018/05/PersonsCauses-TOC_Intro.pdf",
+      "note": "La introducción, en el sitio del propio autor. La exposición de su posición en esta página es una paráfrasis y está marcada como tal."
+    },
+    {
+      "title": "The Consequence Argument",
+      "author": "Peter van Inwagen",
+      "year": "1983",
+      "url": "https://andrewmbailey.com/pvi/Consequence_Argument.doc",
+      "note": "El texto del argumento por van Inwagen mismo, tal como se publicó por primera vez en An Essay on Free Will."
+    },
+    {
+      "title": "Elbow Room: The Varieties of Free Will Worth Wanting",
+      "author": "Daniel C. Dennett",
+      "year": "1984",
+      "url": "https://direct.mit.edu/books/book/4462/Elbow-RoomThe-Varieties-of-Free-Will-Worth-Wanting",
+      "note": "La edición de MIT Press, que lleva el prefacio de Dennett describiendo el propósito del libro."
+    },
+    {
+      "title": "Free Will",
+      "author": "Sam Harris",
+      "year": "2012",
+      "url": "https://en.wikipedia.org/wiki/Free_Will_(book)"
+    },
+    {
+      "title": "Consequence argument",
+      "url": "https://en.wikipedia.org/wiki/Consequence_argument",
+      "note": "Incluye las réplicas estándar y la literatura sobre los casos de Frankfurt a la que se refiere esta página."
+    }
+  ]
+}
