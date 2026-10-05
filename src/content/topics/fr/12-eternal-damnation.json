@@ -1,0 +1,334 @@
+{
+  "id": "eternal-damnation",
+  "number": 12,
+  "slug": "damnation-eternelle",
+  "title": "La damnation éternelle peut-elle être juste ?",
+  "category": "morality",
+  "status": "interpretive",
+  "realQuestion": "Une personne vit soixante-dix ans et meurt sans s'être réconciliée avec Dieu. La doctrine traditionnelle dit que la conséquence n'a pas de fin. L'objection est arithmétique avant d'être autre chose : une vie finie, une peine sans borne.\n\nDeux arguments sont empilés ici et ils ne se comportent pas de la même façon. L'un porte sur ce que les textes chrétiens enseignent réellement — tourment conscient éternel, anéantissement, ou réconciliation finale de tous. Ce litige est décidable en principe et les positions y bougent de façon démontrable ; il est exposé ci-dessous plutôt que débattu, car ce n'est pas l'argument auquel cette page est consacrée.\n\nL'autre est la question morale, et c'est celle de cette page. Accordez comme enseignement vrai la lecture qu'il vous plaira. Le critique continue de dire qu'un Dieu bon ne le ferait pas ; le défenseur continue de dire qu'un amour qu'on ne peut refuser n'est pas de l'amour, et qu'un refus arrêté n'est pas un crime doté d'une durée. Accordez à tous deux chaque fait exégétique, et aucun ne bouge. C'est pourquoi cette page est marquée interprétative.",
+  "distinctions": [
+    {
+      "label": "Qu'enseignent réellement les textes chrétiens ?",
+      "gloss": "Vraiment contesté au sein du christianisme, et vraiment vivant : Robin Parry a publié une défense de l'universalisme sous pseudonyme parce qu'il avait changé d'avis, John Stott est passé à l'annihilationnisme tard dans sa vie, et l'immortalité conditionnelle est allée de la marge à une option évangélique courante sur des thèses précises touchant le mot aiōnios. Les quatre positions sont exposées comme variantes du premier argument ci-dessous, chacune dans les mots de ses propres avocats, plutôt que débattues ici.",
+      "activeHere": false
+    },
+    {
+      "label": "Un châtiment éternel pourrait-il être juste ?",
+      "gloss": "C'est l'argument de cette page. C'est une question morale qui survit à toute réponse exégétique : quelle que soit celle des quatre positions ci-dessous qui est juste, on peut encore demander si le Dieu qu'elle décrit est bon.",
+      "activeHere": true
+    },
+    {
+      "label": "Et ceux qui n'ont jamais entendu ?",
+      "gloss": "Une question distincte, portant sur l'étendue du jugement et non sur sa nature, et qui dépend de l'unicité du Christ et non de la justice. Sujet 16. La variante inclusiviste ci-dessous est le point où les deux questions se touchent.",
+      "activeHere": false
+    }
+  ],
+  "glossary": [
+    {
+      "term": "aiōnios",
+      "definition": "L'adjectif grec rendu par « éternel » ou « perpétuel » dans les passages concernés du Nouveau Testament. Savoir s'il signifie une durée sans fin ou « appartenant au siècle à venir » est le pivot du litige textuel."
+    },
+    {
+      "term": "annihilationnisme",
+      "definition": "Aussi immortalité conditionnelle : la thèse selon laquelle les non-sauvés cessent d'exister au lieu de souffrir sans fin. Elle tient l'immortalité pour un don et non pour une propriété de toute âme."
+    },
+    {
+      "term": "apocatastase",
+      "definition": "La restauration de toutes choses, terme technique de l'universalisme chrétien. Tenue par certains Pères grecs anciens, condamnée dans certains conciles postérieurs, et défendue de nouveau aujourd'hui."
+    },
+    {
+      "term": "grâce optimale",
+      "definition": "Le terme de Jerry Walls pour la thèse selon laquelle Dieu donne à chacun la meilleure occasion possible de l'accepter, de sorte que quiconque est finalement perdu a refusé dans les conditions les plus favorables disponibles."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Personne n'est envoyé ; certains refusent, et le refus n'est pas annulé",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "locked-on-the-inside",
+          "claim": "L'enfer n'est pas une sentence imposée du dehors mais un état dans lequel quelqu'un se maintient",
+          "explanation": "L'image que l'objection attaque — un juge fixant une durée de torture — n'est pas celle que tiennent aujourd'hui la plupart des défenseurs de la doctrine, et ce n'est pas celle de C. S. Lewis. Selon lui, les damnés ne sont pas victimes d'un verdict mais des gens qui ont obtenu ce qu'ils exigeaient : un soi entièrement tourné vers le dedans, Dieu dehors parce que Dieu a été refusé.\n\nLa conséquence n'a pas de fin parce que le refus n'a pas de fin, non parce qu'une sentence a été fixée à une certaine longueur. Dans cette lecture, la question « pourquoi si longtemps pour si peu ? » décrit mal le cas. Rien n'est en train d'être purgé.",
+          "quote": {
+            "text": "Je crois volontiers que les damnés sont, en un sens, des rebelles victorieux jusqu'au bout ; que les portes de l'enfer sont verrouillées de l'intérieur.",
+            "author": "C.S. Lewis",
+            "work": "The Problem of Pain (Le Problème de la souffrance)",
+            "year": "1940",
+            "sourceUrl": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "I willingly believe that the damned are, in one sense, successful, rebels to the end; that the doors of hell are locked on the inside.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La version la plus dure de cette objection est chrétienne. Les universalistes, de Grégoire de Nysse à David Bentley Hart, soutiennent qu'un refus libre éternellement maintenu n'est pas cohérent : le choix marche avec des raisons, et aucune créature rationnelle, voyant Dieu clairement, ne pourrait continuer de préférer le malheur à jamais. Ou bien celui qui refuse est trompé — et alors le choix n'est pas informé ni libre — ou bien il ne l'est pas, et alors ce qu'il choisit est inintelligible. Une porte verrouillée de l'intérieur reste une porte que quelqu'un a bâtie, dans une maison à une seule sortie.",
+            "objectionFrom": "within",
+            "sharedPremise": "elle part de prémisses que la doctrine elle-même tient — que Dieu veut le salut de tous, et qu'un choix se fait pour des raisons — pour conclure qu'un refus éternellement maintenu d'un bien clairement vu n'est pas un choix libre cohérent.",
+            "response": "On ne soutient pas que quiconque choisit le malheur sous cette description, mais qu'une personne peut en venir à vouloir quelque chose d'incompatible avec Dieu si profondément qu'elle n'est plus capable de vouloir autrement. Cela n'a rien d'exotique ; c'est la forme ordinaire d'une addiction, à la limite.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "annihilationism",
+              "label": "Annihilationnisme, ou immortalité conditionnelle",
+              "heldBy": "John Stott, Edward Fudge, John Wenham ; une minorité importante d'évangéliques",
+              "oneLine": "Les perdus cessent d'exister. La destruction que les textes décrivent est une destruction, non une survie sans fin dans la ruine.",
+              "summary": "L'argument de l'[[annihilationnisme]] est que l'immortalité est un don fait aux sauvés et non une propriété de toute âme, et que le vocabulaire biblique — périr, détruire, consumer, la seconde mort — veut dire ce qu'il dit. Dans cette lecture, la doctrine traditionnelle importe un présupposé grec sur l'âme indestructible que les textes eux-mêmes ne font pas.\n\nLe châtiment est éternel au sens où son résultat est définitif, comme un jugement éternel est un jugement qui ne sera pas révisé. Ce qui n'est pas éternel, c'est la souffrance.",
+              "quote": {
+                "text": "réexaminer à neuf le matériau biblique",
+                "author": "John Stott",
+                "work": "Essentials: A Liberal-Evangelical Dialogue, with David L. Edwards",
+                "year": "1988",
+                "locator": "Stott's call to evangelicals to reconsider whether conditional immortality better fits the biblical evidence",
+                "sourceUrl": "https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "survey the biblical material afresh",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection ci-dessus est qu'un refus éternellement maintenu n'est pas un choix libre cohérent. Dans cette vue, rien n'est éternellement maintenu : le refus s'achève quand s'achève celui qui refuse. Un argument sur l'incohérence du choix du malheur à jamais n'a pas de sujet ici, et l'objection de proportionnalité de l'autre côté perd du même coup presque toute sa force.",
+              "objection": {
+                "text": "Le dossier lexical doit lire Matthieu 25,46 de façon asymétrique, prenant un aiōnios de la phrase pour sans fin et l'autre pour terminable, et c'est exactement le geste qu'il reproche ailleurs à la lecture traditionnelle. Il y a aussi la question de savoir si une fin définitive est un châtiment ou plutôt une délivrance ; si elle ne l'est pas, le langage de jugement des textes a été adouci au lieu d'être traduit.",
+                "from": "within",
+                "sharedPremise": "elle accepte l'autorité des mêmes textes et la même méthode lexicale, et soutient à partir d'eux qu'un même mot dans une même phrase ne peut porter deux sens différents choisis à la convenance du lecteur.",
+                "response": "L'asymétrie est dans les noms et non dans l'adjectif : la vie éternelle est une vie qui continue, la destruction éternelle une destruction qui n'est pas défaite. L'adjectif fait le même travail dans les deux cas."
+              }
+            },
+            {
+              "id": "universalism",
+              "label": "Réconciliation universelle",
+              "heldBy": "David Bentley Hart, Robin Parry, Thomas Talbott ; Grégoire de Nysse et, discutablement, Origène",
+              "oneLine": "Tout le monde est finalement sauvé. Le jugement est réel et purificateur, et il prend fin.",
+              "summary": "On ne soutient pas que le jugement est une fiction, mais qu'il a un terme, car sa fin est la restauration et non la rétribution. L'[[apocatastase]] a été tenue par des Pères de l'Église nommés, et ses défenseurs modernes soutiennent qu'elle est ce que disent clairement les énoncés universels du Nouveau Testament — que Dieu sera tout en tous, que tous seront rendus vivants.\n\nLa version de Hart est la plus intransigeante : il tient non que l'universalisme est une option permise, mais que le christianisme pris comme un tout cohérent l'implique, et que l'autre branche fait de Dieu l'auteur d'une création dont il savait qu'elle finirait en malheur sans fin pour certains, ce à quoi aucun exposé de la bonté ne survit.",
+              "quote": {
+                "text": "si le christianisme est vrai en quelque manière, les chrétiens ne doivent pas oser douter du salut de tous … toute compréhension de ce que Dieu a accompli dans le Christ qui n'inclut pas l'assurance d'une apocatastase finale où tout le créé est racheté et uni à Dieu est, en dernière analyse, entièrement incohérente et indigne d'une foi rationnelle.",
+                "author": "David Bentley Hart",
+                "work": "That All Shall Be Saved: Heaven, Hell, and the Universal Salvation",
+                "year": "2019",
+                "sourceUrl": "https://yalebooks.yale.edu/book/9780300258486/that-all-shall-be-saved/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "if Christianity is any way true, Christians dare not doubt the salvation of all … any understanding of what God accomplished in Christ that does not include the assurance of a final apokatastasis in which all things created are redeemed and joined to God is ultimately entirely incoherent and unworthy of rational faith.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "C'est d'ici que vient l'objection ci-dessus, non quelque chose qu'elle atteint. L'universaliste est celui qui soutient qu'un refus éternellement maintenu est incohérent, de sorte qu'imprimer cette objection au-dessus de cette variante serait l'imprimer au-dessus de son propre auteur.",
+              "objection": {
+                "text": "Le langage de jugement du Nouveau Testament est étendu et précis, et une lecture qui le rend tout entier purificateur doit porter chacun de ces passages. La position a de plus été condamnée sous Justinien et, bien que ses défenseurs discutent ce qui a exactement été condamné et par quelle autorité, le poids de la tradition est contre elle. L'objection la plus coupante porte sur la liberté : si la réconciliation est garantie, le refus de personne n'a jamais été une option réelle, et la vie morale devient une répétition à fin fixée.",
+                "from": "theist",
+                "response": "Un refus peut être réel et échouer finalement, comme échoue le refus d'un enfant à l'égard d'un parent. Ce qui est nié n'est pas que le refus soit possible, mais qu'il soit durablement tenable en présence du bien qu'il refuse."
+              }
+            },
+            {
+              "id": "inclusivism",
+              "label": "Inclusivisme",
+              "heldBy": "le Concile Vatican II ; Karl Rahner, Clark Pinnock",
+              "oneLine": "L'enfer peut être tel que la tradition le décrit, mais il y a bien moins de monde dedans : la grâce atteint ceux qui n'ont jamais entendu.",
+              "summary": "C'est la position qui change l'étendue et non la nature du résultat, et c'est pourquoi l'objection morale porte différemment selon les églises. Vatican II enseigne que ceux qui n'ont jamais rencontré l'Évangile, mais cherchent Dieu sincèrement et suivent leur conscience, peuvent être sauvés par le Christ sans le savoir.\n\nElle est compatible avec la première position et elle retire la version de l'objection que la plupart des gens ressentent vraiment — que la majorité de l'humanité est condamnée pour un accident de naissance. Elle ne touche pas la question que cette page débat, qui est de savoir si le résultat pourrait être juste pour quiconque.",
+              "quote": {
+                "text": "Ceux qui, sans faute de leur part, ne connaissent pas l'Évangile du Christ ni son Église, mais qui cherchent Dieu d'un cœur sincère et s'efforcent, sous l'influence de la grâce, d'accomplir dans leurs actes sa volonté telle que la leur dicte leur conscience, ceux-là aussi peuvent parvenir au salut éternel.",
+                "author": "Concile Vatican II",
+                "work": "Lumen Gentium, 16",
+                "year": "1964",
+                "sourceUrl": "https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "Those who, through no fault of their own, do not know the Gospel of Christ or his Church, but who nevertheless seek God with a sincere heart, and, moved by grace, try in their actions to do his will as they know it through the dictates of their conscience—those too may attain eternal salvation.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "Elle ne le change pas, et c'est l'intérêt de l'inclure : elle est compatible avec la forme principale et change de qui l'argument parle, non ce qu'il dit. Ce qu'elle change, c'est la version de l'objection que la plupart des gens ressentent vraiment — que la majorité de l'humanité est condamnée pour un accident de naissance — qui n'est pas l'argument de cette page et qui reçoit ici une réponse.",
+              "objection": {
+                "text": "Elle rend la foi explicite facultative dans une religion qui l'a toujours prêchée, et les exclusivistes objectent qu'elle laisse l'évangélisation sans motif : si la recherche sincère suffit, le missionnaire est au mieux superflu et au pire relève la mise pour des gens qui étaient plus en sûreté avant de l'entendre. Il y a aussi une question de cohérence sur ce que signifie être sauvé par le Christ pour quelqu'un qui le rejetterait si on le lui demandait.",
+                "from": "within",
+                "sharedPremise": "elle accepte que le salut est par le Christ seul et que l'Église est chargée de prêcher, et soutient à partir de ces engagements qu'une grâce qui atteint les gens sans la prédication laisse la charge sans raison d'être.",
+                "response": "La charge est de faire des disciples, non d'améliorer des probabilités statistiques, et une grâce qui porte plus loin que la prédication est une raison d'avoir confiance en elle et non un argument contre l'envoi de quiconque."
+              }
+            }
+          ]
+        },
+        {
+          "id": "freedom-that-can-be-refused",
+          "claim": "Un Dieu qui annulerait un refus arrêté traiterait toute la vie morale comme une répétition",
+          "explanation": "Cet argument affronte l'universaliste et non l'athée, et c'est celui qui a fait le plus de travail dans la philosophie de la religion récente. Jerry Walls accorde ce dont l'objection a besoin : que Dieu veut le salut de tous, et que quiconque est perdu a eu la meilleure occasion qu'il pouvait avoir. Il appelle cela la [[grâce optimale]].\n\nCe qu'il nie, c'est que Dieu puisse garantir le résultat sans vider le choix. Si tout rejet décisif est finalement renversé par une intervention divine, alors aucun choix que quiconque a jamais fait au sujet de Dieu n'était le choix qu'il paraissait être, et le sérieux que la vie morale semble avoir était un effet de scène.",
+          "quote": {
+            "text": "ôterait du sérieux à la liberté morale. Une telle liberté, dans sa forme la plus significative, exige que nous vivions avec les conséquences de nos choix, au moins de nos choix décisifs.",
+            "author": "Jerry L. Walls",
+            "work": "Hell: The Logic of Damnation",
+            "year": "1992",
+            "locator": "on God's overriding a decisive rejection",
+            "sourceUrl": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "would detract from the seriousness of moral freedom. Such freedom, in its most significant form, requires that we live with the consequences of our choices, at least our decisive choices.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Vivre avec les conséquences d'un choix est un principe de proportion, et il sert ici à autoriser le seul cas où la proportion est abandonnée. Nous laissons un enfant vivre avec les conséquences d'une mauvaise décision ; nous ne le laissons pas vivre avec des conséquences sans fin, et un parent qui pourrait intervenir et ne le ferait pas, en invoquant le sérieux de la liberté de l'enfant, ne serait pas admiré. L'argument a de plus besoin que le choix ait été fait dans des conditions assez bonnes pour porter un poids infini, et aucun choix humain ne se fait dans ces conditions.",
+            "objectionFrom": "atheist",
+            "response": "L'analogie parentale suppose que l'enfant peut être ramené, et c'est exactement le cas où personne n'objecte à l'intervention. L'argument porte sur celui qui a été ramené autant qu'il peut l'être et refuse encore."
+          }
+        }
+      ]
+    },
+    {
+      "label": "Aucune vie finie ne peut mériter un résultat sans borne",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "proportion",
+          "claim": "Un châtiment sans fin pour une vie bornée n'est pas de la sévérité, c'est une erreur de catégorie sur la justice",
+          "explanation": "Tout système de justice réellement en usage proportionne la peine à la faute. L'objection n'est pas que l'enfer est dur, mais qu'il n'est pas une peine du tout en un sens reconnaissable, parce qu'il a été détaché de ce à quoi il était censé répondre.\n\nBertrand Russell a posé le point comme une thèse sur le caractère et non sur l'arithmétique, et c'est la version la plus coupante. Ce n'est pas seulement que la doctrine est injuste ; c'est que la tenir, et continuer d'adorer celui qui l'impose, demande un durcissement dont une personne décente n'est pas capable. L'argument vise le sens moral du croyant lui-même, et c'est pourquoi il a ébranlé plus de chrétiens que d'athées.",
+          "quote": {
+            "text": "Je ne sens pas moi-même qu'une personne vraiment profondément humaine puisse croire à un châtiment perpétuel.",
+            "author": "Bertrand Russell",
+            "work": "Why I Am Not a Christian (Pourquoi je ne suis pas chrétien)",
+            "year": "1927",
+            "locator": "a lecture delivered at Battersea Town Hall, 6 March 1927",
+            "sourceUrl": "https://russell-j.com/0399WINC.HTM",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "I do not myself feel that any person who is really profoundly humane can believe in everlasting punishment.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "L'argument de proportion suppose que la peine répond à une quantité de mal passé, et c'est l'image que le premier argument ci-dessus rejette. Si l'état est un refus continué et non une sentence purgée, son absence de fin est un fait sur le refus. La version de Russell prouve de plus moins qu'elle ne prétend : deux des quatre positions ci-dessous sont tenues par des gens qui acceptent entièrement son jugement moral et restent chrétiens, de sorte que l'incompatibilité qu'il affirme entre humanité et foi n'est pas celle qu'il croyait.",
+            "objectionFrom": "theist",
+            "response": "Cette réponse ne vaut que pour les versions qui abandonnent la rétribution, et la tradition à laquelle Russell s'adressait ne l'abandonnait pas. Elle concède en outre la force de l'argument, puisqu'elle survit en lâchant ce qui était objecté.",
+            "landsOn": []
+          },
+          "variants": [
+            {
+              "id": "no-basic-desert",
+              "label": "Personne ne mérite rien, la question ne se pose donc pas",
+              "heldBy": "Derk Pereboom ; Galen Strawson ; Sam Harris",
+              "oneLine": "Si personne n'a le genre de contrôle qui rend le mérite possible, l'objection n'est pas que le châtiment est trop grand, mais qu'un châtiment fondé sur le mérite est injuste à n'importe quelle taille.",
+              "summary": "Cette version ne marchande pas sur la proportion. Elle nie la prémisse que partagent les deux côtés de l'argument de proportionnalité : qu'il existe un fait de mériter un résultat du seul fait de ce que l'on a fait.\n\nL'incompatibilisme dur de Pereboom tient qu'il nous manque le contrôle que la responsabilité morale exige, que le déterminisme soit vrai ou non, puisqu'une action indéterminée n'est pas plus sous votre contrôle qu'une action déterminée. Appliqué ici, cela retire la question au lieu d'y répondre : un résultat éternel ne peut pas être mérité parce que rien ne peut l'être, et ce qui reste à faire à un Dieu juste est ce qu'exigent la protection et la réparation — ce qui n'est pas un châtiment.",
+              "quote": {
+                "text": "un agent est moralement responsable d'une action si et seulement s'il mériterait blâme ou crédit pour elle du seul fait de l'avoir accomplie",
+                "author": "Derk Pereboom",
+                "work": "Living Without Free Will",
+                "year": "2001",
+                "locator": "the notion of basic desert Pereboom argues nobody satisfies",
+                "sourceUrl": "https://ndpr.nd.edu/reviews/living-without-free-will/",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "an agent is morally responsible for an action if and only if she would deserve blame or credit for it just by virtue of having performed it",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "La réponse imprimée plus haut est que l'état est un refus continué et non une sentence purgée, de sorte que son absence de fin est un fait sur le refus. Cette réponse a besoin que le refus soit celui de celui qui refuse au sens qui le rend comptable, et cette version nie exactement cela. Déplacer le résultat d'une sentence vers un choix n'aide pas si aucun choix n'a d'auteur.",
+              "objection": {
+                "text": "La position prouve bien trop pour servir ici. Si personne n'est responsable de rien, alors aucun châtiment nulle part n'est juste, et l'argument cesse de porter sur l'enfer pour devenir un argument sur le droit pénal avec un exemple inhabituel en annexe. Elle cède en outre le terrain de la liberté au théiste : une page soutenant qu'un Dieu bon ne châtierait pas un refus librement choisi ne peut pas soutenir aussi qu'il n'y a pas de choix libre.",
+                "from": "both",
+                "response": "Prouver trop n'est un défaut que si la conclusion est fausse, et Pereboom accepte la conséquence et la développe pour le droit pénal au lieu de l'éviter. Que les deux arguments athées d'ici reposent sur des vues incompatibles de la liberté est un fait sur le camp, et c'est à cela que sert cette section."
+              }
+            }
+          ]
+        },
+        {
+          "id": "where-is-the-line",
+          "claim": "La bonté vient par degrés, le résultat non, et aucune procédure juste ne fonctionne ainsi",
+          "explanation": "L'argument de Ted Sider ne dépend pas du caractère infini de la peine, et il survit intact à la première réponse. Prenez deux personnes dont les états moral et spirituel diffèrent d'aussi peu qu'on veut — un cheveu de contrition, un instant d'hésitation de plus. L'une est sauvée, l'autre non, et les résultats diffèrent sans borne.\n\nToute sélection juste a des cas limites et traite les cas presque identiques de façon presque identique. Un résultat binaire sur une entrée continue ne peut pas le faire, et la difficulté n'est pas que nous ne sachions pas où est la ligne ; c'est qu'une ligne, où qu'elle soit, a cette conséquence. Et comme c'est Dieu qui conduit la procédure, l'arbitraire est le sien.",
+          "quote": {
+            "text": "Dieu est responsable de la procédure de sélection, elle doit donc être juste ; toute procédure juste a des cas limites et traite les cas presque identiques de façon presque identique ; mais l'au-delà traditionnel est binaire et n'admet aucun cas limite, de sorte que deux personnes différant d'un cheveu reçoivent des résultats qui diffèrent sans borne.",
+            "author": "Theodore Sider",
+            "work": "Hell and Vagueness, Faith and Philosophy 19",
+            "year": "2002",
+            "locator": "pp. 58-68; our summary of the argument, not Sider's wording",
+            "sourceUrl": "https://tedsider.org/papers/hell.pdf",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "God is in charge of the selection procedure, so it must be just; any just procedure has borderline cases and treats near-identical cases near-identically; but the traditional afterlife is binary and admits no borderline cases, so two people differing by a hair receive outcomes differing without limit.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "L'argument suppose que le critère est une quantité de bonté, et aucune version de la doctrine ne dit cela. Dans le modèle du choix, le critère est une orientation arrêtée, qui n'est pas affaire de degré au sens pertinent : deux personnes peuvent être indiscernables dans leur conduite et différer absolument sur le point de savoir si elles ont finalement accepté ou refusé. Comparez une demande en mariage, où les réponses diffèrent absolument et où ceux qui demandent peuvent être identiques sous tout rapport mesurable.",
+            "objectionFrom": "theist",
+            "response": "L'acceptation et le refus sont eux-mêmes l'issue de processus qui, eux, viennent par degrés — ce que quelqu'un a compris, ce qu'on lui a demandé, à quel point il était fatigué. Repousser le binaire d'un cran ne trouve pas de ligne nette, il trouve le même dégradé sous un autre nom."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Le mot sur lequel l'argument pivote",
+      "oneLine": "L'essentiel du litige exégétique passe par un adjectif, aiōnios, et par la question de savoir s'il signifie une durée sans fin ou l'appartenance au siècle à venir.",
+      "text": "L'essentiel du litige exégétique passe par un adjectif. [[aiōnios]] est employé du châtiment en Matthieu 25,46 et de la vie offerte dans la même phrase, raison pour laquelle les traducteurs rendent les deux par « éternel » et pour laquelle la lecture traditionnelle tient le parallèle pour décisif.\n\nLe contre-argument est que le mot vient d'aiōn, un siècle, et que dans le grec juif il peut signifier « appartenant au siècle à venir » plutôt que « sans fin » — une thèse qualitative et non temporelle. Si c'est juste, le parallèle survit sans la durée : la vie et le châtiment appartiennent tous deux au siècle à venir, et la durée de l'un comme de l'autre est une question distincte à laquelle le mot ne répond pas. C'est un litige réel entre lexicographes et non un expédient, et c'est pourquoi la question exégétique est ouverte et non interprétative."
+    },
+    {
+      "heading": "Pourquoi le litige exégétique est ouvert et cette page non",
+      "oneLine": "Les deux questions de ce sujet reçoivent des marqueurs différents — ce que les textes enseignent est ouvert, savoir si cela pourrait être juste est interprétatif — et la page débat la seconde.",
+      "text": "Les deux questions de ce sujet reçoivent des marqueurs différents, et il vaut la peine de dire pourquoi, car l'étiquetage de la page en dépend.\n\nCe que les textes enseignent est ouvert : on peut nommer les arguments qui ont fait bouger le champ et les gens qu'ils ont fait bouger. L'immortalité conditionnelle est allée de la marge à une option évangélique courante en quarante ans, sur des thèses lexicales précises touchant aiōnios et sur le vocabulaire de la destruction. Robin Parry a changé d'avis et publié sous pseudonyme. John Stott a changé le sien, tard et à un coût. Voilà un litige où l'argument resserre le désaccord.\n\nSavoir si un châtiment éternel pourrait être juste n'est pas ainsi. Accordez la lecture traditionnelle et le critique dit encore qu'un Dieu bon ne le ferait pas ; accordez la lecture universaliste et le traditionaliste dit encore qu'un amour qu'on ne peut refuser n'est pas de l'amour. Les deux camps ont tous les faits de l'autre. Argumenter davantage aiguise le désaccord sans le resserrer, et c'est le troisième test."
+    }
+  ],
+  "whereItStands": "L'argument moral est là où il était, et il n'y a pas de raison d'attendre qu'il bouge. Les deux camps ont énoncé leurs positions assez clairement pour que le désaccord soit désormais visible dans toute sa forme : savoir si un refus arrêté est le genre de chose qui peut porter une conséquence sans borne, et si la liberté qui rend le refus possible vaut ce qu'elle coûte. Personne n'a produit une considération qui manque à l'autre camp.\n\nCe qui a bougé, et bouge encore, est la question du dessous. La lecture traditionnelle est moins dominante chez les savants chrétiens qu'il y a cinquante ans ; l'annihilationnisme est devenu respectable ; l'universalisme est passé de l'indicible au largement défendu, le livre de Hart de 2019 marquant le moment où il a cessé d'être un intérêt marginal. Ce déplacement est venu d'arguments exégétiques et philosophiques et non de données nouvelles, et c'est à quoi ressemble un litige ouvert quand il avance.\n\nLa lecture honnête des deux ensemble : l'objection morale n'a pas gagné, mais elle a été la pression sous laquelle la question textuelle a été rouverte.",
+  "commonMistake": "Les chrétiens présentent le plus souvent la doctrine traditionnelle comme si elle était la seule option chrétienne, et c'est ainsi qu'on peut être élevé dans une église et atteindre quarante ans sans savoir que Stott en a douté ou que Grégoire de Nysse l'a niée. Ce n'est pas du tact, c'est une image fausse de leur propre tradition, et cela fait de toute rencontre ultérieure avec les alternatives la découverte d'une dissimulation.\n\nLes athées argumentent le plus souvent contre la version du dix-huitième siècle — une chambre de torture avec un juge — et découvrent ensuite que leur interlocuteur ne l'a jamais tenue. Attaquer la forme la plus forte veut dire aborder le modèle du choix, et le modèle du choix ne se réfute pas par des descriptions plus vives de flammes.\n\nLes deux camps ont aussi tendance à fondre en une les deux questions de cette page. « La Bible n'enseigne pas vraiment cela » répond au litige exégétique et non au litige moral ; « aucun Dieu bon ne le ferait » répond au litige moral et non à l'exégétique. La plupart des échanges ici sont deux personnes répondant à la question que l'autre n'a pas posée.",
+  "sources": [
+    {
+      "title": "The Problem of Pain (Le Problème de la souffrance)",
+      "author": "C.S. Lewis",
+      "year": "1940",
+      "url": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/",
+      "note": "L'exposé par auto-exclusion, dans le passage qui lui a donné sa formulation habituelle."
+    },
+    {
+      "title": "Hell: The Logic of Damnation",
+      "author": "Jerry L. Walls",
+      "year": "1992",
+      "url": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2696&context=faithandphilosophy",
+      "note": "La défense par la liberté et la doctrine de la grâce optimale, citées dans une recension de Faith and Philosophy."
+    },
+    {
+      "title": "Why I Am Not a Christian (Pourquoi je ne suis pas chrétien)",
+      "author": "Bertrand Russell",
+      "year": "1927",
+      "url": "https://russell-j.com/0399WINC.HTM"
+    },
+    {
+      "title": "Hell and Vagueness",
+      "author": "Theodore Sider",
+      "year": "2002",
+      "url": "https://tedsider.org/papers/hell.pdf",
+      "note": "L'exemplaire de l'auteur lui-même. L'exposé de l'argument sur cette page est une paraphrase et est signalé comme telle."
+    },
+    {
+      "title": "Catéchisme de l'Église catholique, 1033-1037",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html"
+    },
+    {
+      "title": "Essentials: A Liberal-Evangelical Dialogue",
+      "author": "David L. Edwards et John Stott",
+      "year": "1988",
+      "url": "https://betweentwocities.com/wp-content/uploads/2012/05/john-stott-discusses-hell.pdf",
+      "note": "Le passage où Stott expose son passage à l'immortalité conditionnelle."
+    },
+    {
+      "title": "That All Shall Be Saved: Heaven, Hell, and the Universal Salvation",
+      "author": "David Bentley Hart",
+      "year": "2019",
+      "url": "https://yalebooks.yale.edu/book/9780300258486/that-all-shall-be-saved/"
+    },
+    {
+      "title": "Lumen Gentium",
+      "author": "Concile Vatican II",
+      "year": "1964",
+      "url": "https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/documents/catholic/Lumen_Gentium.htm"
+    }
+  ]
+}
