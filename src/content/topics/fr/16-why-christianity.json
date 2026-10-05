@@ -1,0 +1,286 @@
+{
+  "id": "why-christianity",
+  "number": 16,
+  "slug": "pourquoi-le-christianisme",
+  "title": "Pourquoi le christianisme plutôt qu'une autre religion ?",
+  "category": "faith-and-society",
+  "status": "open",
+  "realQuestion": "C'est la question qui survit à toutes les autres pages de ce site, et on la pose d'ordinaire au mauvais moment.\n\nSupposons que tous les arguments en faveur d'un créateur fonctionnent. Rien en eux ne sélectionne une tradition. Une cause première, une constante finement ajustée et une loi morale objective sont aussi disponibles à un musulman ou à un déiste qu'à un chrétien, et un lecteur qui accorderait tous les arguments des quinze pages précédentes se trouverait encore devant plusieurs milliers d'années de prétentions révélées incompatibles, sans aucune indication sur la porte à emprunter.\n\nLa question ici est donc plus étroite que « le christianisme est-il vrai ». Elle est de savoir s'il existe une raison, du genre à pouvoir mouvoir quelqu'un qui n'est pas déjà dedans, de préférer les thèses propres du christianisme à celles d'un rival. Le camp chrétien dit oui et dit laquelle. Le camp athée dit que la question a une réponse, et que la réponse est le lieu de naissance.",
+  "distinctions": [
+    {
+      "label": "Y a-t-il un Dieu, tout simplement ?",
+      "gloss": "Pas cette page. On en débat dans les dix premières, et c'est logiquement antérieur — mais y répondre oui ne conduit personne à une religion particulière, et c'est là toute la difficulté d'ici.",
+      "activeHere": false
+    },
+    {
+      "label": "Les non-chrétiens sont-ils sauvés ?",
+      "gloss": "Une question interne au christianisme, non entre les deux camps, et la réponse que donnent aujourd'hui la plupart des corps chrétiens n'est pas celle qu'on suppose communément. Cela importe ici seulement parce que l'argument par le lieu de naissance vise d'ordinaire une version du christianisme que la plupart des chrétiens ne tiennent plus. Exposé dans la première note.",
+      "activeHere": false
+    },
+    {
+      "label": "Y a-t-il une raison de préférer ces thèses à celles d'un rival ?",
+      "gloss": "La question vivante. Il faut que ce soit une raison qui ne suppose pas déjà la conclusion, car celui qui demande est par définition dehors.",
+      "activeHere": true
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exclusivisme",
+      "definition": "La thèse selon laquelle le salut ne vient que par la foi explicite au Christ. Historiquement la position chrétienne majoritaire ; aujourd'hui minoritaire parmi les corps chrétiens, mais non parmi les chrétiens."
+    },
+    {
+      "term": "inclusivisme",
+      "definition": "La thèse selon laquelle le Christ est la seule source du salut, mais que des gens qui n'ont jamais eu connaissance de lui peuvent le recevoir tout de même. C'est la position de l'Église catholique depuis le concile Vatican II."
+    },
+    {
+      "term": "pluralisme",
+      "definition": "La thèse selon laquelle les grandes traditions sont toutes des réponses humaines valides à une seule réalité transcendante, aucune n'étant la seule vraie. Associée avant tout à John Hick."
+    },
+    {
+      "term": "test de l'étranger",
+      "definition": "La proposition de John Loftus qu'un croyant examine sa propre tradition avec le degré de scepticisme qu'il applique déjà, avec compétence et assurance, à toute tradition qu'il rejette."
+    }
+  ],
+  "sides": [
+    {
+      "label": "Le christianisme avance une thèse vérifiable, les autres largement pas",
+      "position": "theist",
+      "arguments": [
+        {
+          "id": "staked-on-an-event",
+          "claim": "Le christianisme est la seule grande tradition qui nomme le fait qui la réfuterait.",
+          "explanation": "La plupart des traditions religieuses ne sont pas falsifiables par un résultat historique, et elles ne se présentent pas comme si elles l'étaient. L'enseignement du Bouddha tient ou tombe selon qu'il marche, non selon que l'homme a existé. L'autorité du Coran repose sur le texte lui-même et non sur un événement public datable, avec témoins.\n\nLe document fondateur du christianisme fait autre chose, et le fait dans le texte le plus ancien que nous ayons. Paul, écrivant à Corinthe environ vingt-cinq ans après la crucifixion, nomme la condition sous laquelle l'ensemble ne vaut rien — non pas décevant, non pas à réinterpréter, mais vide. C'est une chose inhabituelle à dire de soi pour une religion, et c'est la raison pour laquelle cette question a une réponse et non un haussement d'épaules.\n\nOn ne soutient pas que la résurrection a été prouvée. On soutient que le christianisme a dit ce qui trancherait et qu'il s'est donc placé dans une position épistémique différente de celle d'une tradition qui ne l'a pas fait.",
+          "quote": {
+            "text": "et si le Christ n'est pas ressuscité, notre prédication est vaine et vaine aussi votre foi",
+            "author": "Paul de Tarse",
+            "work": "1 Corinthians 15:14",
+            "year": "c. 54",
+            "locator": "New Revised Standard Version",
+            "sourceUrl": "https://bible.oremus.org/?passage=1+Corinthians+15%3A1%E2%80%9317&version=nrsv",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "and if Christ has not been raised, then our proclamation has been in vain and your faith has been in vain",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "inclusivism",
+              "label": "La thèse porte sur le Christ, non sur l'appartenance",
+              "heldBy": "L'Église catholique depuis le concile Vatican II, et Karl Rahner avant lui",
+              "oneLine": "Le christianisme peut être uniquement vrai sans que les gens du dehors soient uniquement perdus — et selon cet exposé, la plupart ne le sont pas.",
+              "summary": "L'[[inclusivisme]] sépare deux thèses que l'argument par le lieu de naissance traite comme une seule : que le salut vient par le Christ, et qu'il ne vient qu'à ceux qui ont entendu parler de lui.\n\nSelon cet exposé, la grâce n'est pas réservée à ceux qui peuvent nommer sa source. Quelqu'un qui a répondu à la vérité qui lui est parvenue répond à la même réalité, et la tradition dans laquelle il l'a fait n'est pas une rivale mais une porteuse partielle et véritable de celle-ci. C'est l'enseignement officiel du plus grand corps chrétien du monde, et ce n'est pas un adoucissement récent pour un public pluraliste : c'est une déclaration conciliaire formelle de 1965.\n\nCe qu'il ne dit pas, c'est que les traditions sont équivalentes. Il dit que les autres contiennent de la vérité, non qu'elles la contiennent toute.",
+              "quote": {
+                "text": "L'Église catholique ne rejette rien de ce qui est vrai et saint dans ces religions. Elle considère avec un respect sincère ces manières d'agir et de vivre, ces règles et ces doctrines qui, bien qu'elles diffèrent sous bien des rapports de ce qu'elle-même tient et propose, reflètent néanmoins souvent un rayon de la Vérité qui illumine tous les hommes.",
+                "author": "Concile Vatican II",
+                "work": "Nostra Aetate",
+                "year": "1965",
+                "locator": "article 2",
+                "sourceUrl": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "The Catholic Church rejects nothing of what is true and holy in these religions. She regards with sincere reverence those ways of conduct and of life, those precepts and teachings which, though differing in many aspects from the ones she holds and sets forth, nonetheless often reflect a ray of that Truth which enlightens all men and women.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection ci-dessus dit que la thèse historique est invérifiable en pratique, ce qui est une objection touchant les données. Cette position n'est pas du tout une thèse probatoire — elle porte sur ce qui s'ensuit pour tous les autres si la thèse est vraie — de sorte qu'une objection sur la force du dossier historique la laisse exactement où elle était.",
+              "objection": {
+                "text": "Elle concède la question et garde le nom. Si quelqu'un peut être atteint par la grâce dans une autre tradition sans jamais rencontrer la thèse chrétienne, alors le contenu propre de cette thèse n'est pas ce qui fait le travail, et l'argument pour préférer le christianisme est devenu discrètement un argument pour préférer une description. Les autres traditions n'ont pas demandé qu'on leur dise que leurs fidèles sont sauvés par le fondateur d'un autre.",
+                "from": "both",
+                "response": "Une thèse sur ce qui rend le salut possible et une thèse sur qui le reçoit sont deux thèses, et tenir la première sans la seconde n'est pas un recul mais une distinction que la tradition trace depuis ses premiers siècles. L'objection que d'autres traditions n'acceptent pas la description est vraie et ne touche pas à son exactitude."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "Nommer un falsificateur n'est pas être falsifiable. La condition que Paul nomme ne peut être vérifiée par personne de vivant, et en deux mille ans la tradition ne l'a jamais traitée comme un risque réel. Une thèse réfutable en principe mais immunisée en pratique fait le travail rhétorique de la falsifiabilité sans en payer le prix, et que le christianisme dise quelque chose d'audacieux sur lui-même est un fait sur la littérature chrétienne, non une donnée sur le monde.",
+            "objectionFrom": "atheist",
+            "landsOn": [],
+            "response": "Elle a été traitée comme un risque réel, à plusieurs reprises, par des gens du dedans dont la carrière s'est arrêtée là — et toute la discipline de la critique néotestamentaire, qui est largement une invention chrétienne, existe parce que la thèse a été tenue pour le genre de chose sur quoi on peut se tromper. C'est plus que la plupart des traditions n'ont exposé."
+          }
+        },
+        {
+          "id": "not-the-same-mountain",
+          "claim": "La question est réelle, et la réponse populaire qu'on y donne est fausse.",
+          "explanation": "La réponse la plus courante à « pourquoi celle-là » est que le choix n'importe pas, car les traditions disent la même chose en des idiomes différents. C'est une thèse sur le contenu des religions du monde, et ceux qui les étudient pour métier ne l'acceptent pas.\n\nLes traditions ne s'accordent pas sur ce qu'est le problème. Le christianisme dit que le problème est le péché et la solution le salut ; le bouddhisme dit que le problème est la souffrance et la solution l'éveil ; le confucianisme dit que le problème est le désordre social et la solution la relation juste. Ce ne sont pas des voies différentes vers un même sommet. Ce sont des diagnostics différents, et un diagnostic juste sur une chose n'est pas pour autant juste sur une autre.\n\nL'intérêt ici est structurel. Si les traditions étaient réellement interchangeables, demander laquelle préférer serait une confusion. Elles ne le sont pas, c'est donc une question — et une question à réponses incompatibles en a au plus une de juste.",
+          "quote": {
+            "text": "Alors pourquoi faisons-nous comme si les traditions religieuses du monde étaient des chemins différents vers le même Dieu ?",
+            "author": "Stephen Prothero",
+            "work": "God Is Not One: The Eight Rival Religions That Run the World",
+            "year": "2010",
+            "locator": "the introduction, where he names the assumption 'Godthink'",
+            "sourceUrl": "https://www.stephenprothero.com/book/god-is-not-one/",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "So why do we pretend that the world's religious traditions are different paths to the same God?",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "Accordé, et cela sert l'autre camp. Que les traditions avancent des thèses incompatibles est précisément la prémisse de l'argument par la diversité : des thèses incompatibles ne peuvent pas être toutes vraies, elles ont été atteintes par les mêmes sortes de processus chez les mêmes sortes de gens, et l'immense majorité d'entre elles est donc fausse. Établir qu'il y a là un litige réel établit que la plupart de ses participants se trompent, et c'est un résultat étrange à offrir en soutien de l'un d'eux.",
+            "objectionFrom": "atheist",
+            "response": "Il ne soutient rien à lui seul et n'a pas été offert en soutien. Il retire un geste — celui qui dit qu'il n'est pas besoin d'affronter la question — et c'est justement le geste le plus utilisé pour esquiver entièrement la question de cette page."
+          }
+        }
+      ]
+    },
+    {
+      "label": "La réponse à « pourquoi celle-là » est déjà connue, et elle n'est pas probatoire",
+      "position": "atheist",
+      "arguments": [
+        {
+          "id": "outsider-test",
+          "claim": "Personne n'applique à sa propre tradition le critère qu'il applique à toutes les autres.",
+          "explanation": "Un chrétien qui évalue l'islam, l'hindouisme ou le mormonisme emploie une procédure reconnaissable et raisonnable : demander quelles sont les données, remarquer que les événements fondateurs ne sont attestés que par la communauté formée autour d'eux, remarquer les pressions psychologiques et culturelles sur les témoins, et conclure que le dossier n'est pas fait. La procédure est appliquée avec compétence et à des milliers de traditions.\n\nLa proposition du [[test de l'étranger]] est simplement qu'elle soit appliquée une fois de plus, à la seule tradition qui en a été dispensée. Non qu'elle échouera — cela reste ouvert — mais que la dispense n'est pas méritée, et que la raison en est presque jamais une raison que quiconque accepterait venant d'un croyant d'autre chose.\n\nCe qui donne sa force à la proposition est ce qui prédit l'appartenance religieuse. Ce n'est pas l'argument, ni l'exposition aux données, ni l'étude comparée. C'est le lieu de naissance et les parents.",
+          "quote": {
+            "text": "La seule manière d'éprouver rationnellement la foi religieuse qu'on a adoptée par culture est du point de vue d'un étranger, d'un non-croyant, avec le même degré de scepticisme raisonnable que les croyants emploient déjà pour examiner les autres fois religieuses qu'ils rejettent.",
+            "author": "John W. Loftus",
+            "work": "The Outsider Test for Faith: How to Know Which Religion Is True",
+            "year": "2013",
+            "locator": "his standard formulation of the test, repeated in the book and in his paper of the same name",
+            "sourceUrl": "https://people.willamette.edu/~ttalbott/Loftus%20OTF2.pdf",
+            "verification": "corroborated",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "The only way to rationally test one's culturally adopted religious faith is from the perspective of an outsider, a nonbeliever, with the same level of reasonable skepticism believers already use when examining the other religious faiths they reject.",
+              "language": "en"
+            }
+          },
+          "variants": [
+            {
+              "id": "revelations-cancel",
+              "label": "Les révélations s'annulent les unes les autres",
+              "heldBy": "David Hume, et l'argument par les révélations incompatibles après lui",
+              "oneLine": "Les données fondatrices de chaque tradition sont des données contre toutes les autres, de sorte que les rapports ne s'additionnent pas — ils se soustraient.",
+              "summary": "Cet argument ne dit rien sur la façon dont quiconque est venu à sa croyance, et c'est ce qui le sépare du test ci-dessus.\n\nIl porte sur la structure des données. Un rapport de miracle soutient le système qu'il a été raconté pour établir, et les systèmes sont incompatibles, de sorte que chaque rapport compte aussi contre chaque rival. Toute tradition peut produire des témoins, des guérisons, des martyrs et des vies transformées, et en quantité. Pris ensemble, les rapports ne bâtissent pas un dossier pour le surnaturel en général ; ils bâtissent un ensemble de dossiers qui se défont mutuellement, et la défaite est symétrique.\n\nAppliqué ici, il dit que les données chrétiennes ne sont pas faibles mais contestées par des données exactement de même forme, et qu'aucune tradition n'a jamais produit le genre de rapport qui briserait l'égalité.",
+              "quote": {
+                "text": "En détruisant un système rival, il détruit également le crédit des miracles sur lesquels ce système s'est établi ; de sorte que tous les prodiges des différentes religions doivent être regardés comme des faits contraires, et les preuves de ces prodiges, faibles ou fortes, comme opposées les unes aux autres.",
+                "author": "David Hume",
+                "work": "An Enquiry concerning Human Understanding, Section X, 'Of Miracles'",
+                "year": "1748",
+                "locator": "Part II",
+                "sourceUrl": "https://davidhume.org/texts/e/10",
+                "verification": "corroborated",
+                "sawWhat": "snippet",
+                "original": {
+                  "text": "In destroying a rival system, it likewise destroys the credit of those miracles, on which that system was established; so that all the prodigies of different religions are to be regarded as contrary facts, and the evidences of these prodigies, whether weak or strong, as opposite to each other.",
+                  "language": "en"
+                }
+              },
+              "changesTheObjection": "L'objection ci-dessus est le reproche de sophisme génétique : la manière dont une croyance a été acquise ne dit rien sur sa vérité. Cet argument n'avance rien sur la façon dont quiconque a acquis quoi que ce soit. Il porte sur ce que les rapports se font probatoirement les uns aux autres, de sorte qu'une réponse touchant l'origine des croyances passe à côté sans le toucher.",
+              "objection": {
+                "text": "L'annulation demande une symétrie, et la symétrie doit être montrée et non supposée. Les thèses diffèrent par la date, par le nombre et l'indépendance des témoins, par l'intérêt que la communauté avait, et par la rapidité avec laquelle elles ont été écrites. Traiter chaque rapport comme une unité à soustraire d'une autre est le geste dont l'argument a besoin et celui qu'il ne fait jamais ; bien mené, la comparaison est un programme de recherche et non une impasse.",
+                "from": "theist",
+                "response": "La comparaison a été tentée, et les traditions qui la perdent sont toujours les autres, évaluées selon les critères de la tradition qui évalue. C'est le motif que l'argument prédit."
+              }
+            }
+          ],
+          "counter": {
+            "objection": "D'où vient une croyance n'est pas un argument sur sa vérité, et le test coupe tout autant contre celui qui l'applique : les convictions séculières se distribuent selon la géographie et l'éducation au moins aussi nettement que les religieuses, ce qui, par ce raisonnement, les rendrait tout aussi suspectes. Ce que le test demande en fait — examinez vos croyances selon les critères que vous employez pour celles des autres — est soit l'hygiène intellectuelle ordinaire, que personne ne contredit, soit l'exigence de partir du présupposé que la croyance est fausse, ce qui n'est pas de la neutralité.",
+            "objectionFrom": "theist",
+            "landsOn": [],
+            "response": "Le test n'est pas un argument établissant que la croyance est fausse et ne prétend pas l'être ; c'est une thèse sur l'examen qui est honnête, et la réponse la concède en l'appelant hygiène. Qu'il s'applique aussi aux convictions séculières est vrai et n'est pas une défense : c'est une approbation sous un autre nom."
+          }
+        },
+        {
+          "id": "symmetry",
+          "claim": "Chaque tradition a les mêmes raisons, et elles ne peuvent pas toutes être bonnes.",
+          "explanation": "Des milliers de religions ont existé. Leurs fidèles ont eu les mêmes sortes d'expérience, offert les mêmes sortes de témoignage, éprouvé la même certitude, produit les mêmes vies transformées et montré la même confirmation intérieure. Selon tout exposé, l'immense majorité de ces traditions est fausse.\n\nAinsi, le processus qui engendre la conviction religieuse est un processus qui produit des sorties contradictoires à partir d'entrées identiques, à une échelle énorme, avec une assurance inchangée dans chaque cas. Un processus à ce palmarès n'est pas un guide fiable vers le vrai, et le fait que sa propre conviction paraisse différente du dedans est exactement ce que ce palmarès prédit.\n\nCe n'est pas un argument établissant qu'aucune religion ne pourrait être vraie. C'est un argument établissant que les raisons ordinaires qu'on donne pour en tenir une — expérience, témoignage, transformation, certitude — ne peuvent être ce qui désigne la bonne, puisqu'elles sont présentes en pleine mesure dans toutes les mauvaises.",
+          "quote": {
+            "text": "La thèse de Kitcher est que les traditions du monde sont nées de la même manière, se maintiennent de la même manière et offrent les mêmes sortes de confirmation interne, et qu'il n'existe entre elles aucune ressource neutre pour décider laquelle a raison — de sorte qu'une symétrie complète tient, et que la tradition propre du croyant n'a aucun titre à être l'exception.",
+            "author": "Philip Kitcher",
+            "work": "Life After Faith: The Case for Secular Humanism",
+            "year": "2014",
+            "locator": "our summary of the symmetry argument as the book's reviewers set it out; not Kitcher's wording",
+            "sourceUrl": "https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/",
+            "verification": "paraphrase",
+            "sawWhat": "snippet",
+            "original": {
+              "text": "Kitcher's case is that the world's traditions arose in the same way, are sustained in the same way, and offer the same kinds of internal confirmation, and that there are no resources neutral between them for deciding which is right — so complete symmetry holds, and the believer's own tradition has no claim to be the exception.",
+              "language": "en"
+            }
+          },
+          "counter": {
+            "objection": "La symétrie est affirmée à un niveau de description assez grossier pour la garantir. Les traditions diffèrent selon qu'elles avancent des thèses historiques publiques, selon que ces thèses étaient vérifiables par des contemporains hostiles, selon que la communauté fondatrice avait quelque chose à gagner, et selon que la tradition s'est jamais révisée sous une pression probatoire. Un panorama qui n'enregistre que « des gens étaient certains et des gens divergeaient » ne peut rien voir de cela, et l'argument a besoin que le panorama soit à cette résolution pour fonctionner.",
+            "objectionFrom": "theist",
+            "response": "La résolution plus fine est disponible et a été appliquée, et elle n'a encore jamais produit de critère qui sélectionne une tradition et que quiconque du dehors accepte. Jusqu'à ce qu'elle le fasse, la thèse de la symétrie n'est pas grossière : c'est le résumé de toutes les tentatives à ce jour."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "heading": "Trois réponses chrétiennes, non une",
+      "oneLine": "« Le christianisme est vrai » et « tous ceux du dehors sont perdus » sont des thèses distinctes, et la plupart des corps chrétiens affirment aujourd'hui la première sans la seconde.",
+      "text": "L'[[exclusivisme]] tient que le salut exige la foi explicite au Christ. Ce fut la position historique majoritaire et c'est encore celle d'une grande part du protestantisme évangélique.\n\nL'[[inclusivisme]] tient que le Christ est la seule source du salut mais que celui-ci atteint des gens qui n'ont jamais entendu parler de lui. C'est l'enseignement officiel de l'Église catholique, formellement énoncé au concile Vatican II, et celui de la plupart des corps protestants classiques. En nombre, c'est aujourd'hui la position chrétienne majoritaire, et de loin.\n\nLe [[pluralisme]] tient que les grandes traditions sont des réponses humaines également valides à une réalité qu'aucune ne décrit telle qu'elle est en elle-même. Son défenseur le plus connu fut John Hick, philosophe chrétien, et c'est une position minoritaire que la plupart des corps chrétiens rejettent comme un abandon de tout.\n\nLa distinction compte sur cette page parce que l'argument par le lieu de naissance vise presque toujours la première, et c'est là qu'il porte le plus. Visant la deuxième, il a bien moins de prise, et visant la troisième il n'est pas une objection du tout mais un accord.",
+      "quote": {
+        "text": "nous sommes conduits à postuler le Réel en soi comme présupposé du caractère véridique de cette gamme de formes d'expérience religieuse",
+        "author": "John Hick",
+        "work": "An Interpretation of Religion: Human Responses to the Transcendent",
+        "year": "1989",
+        "locator": "the statement of the pluralistic hypothesis",
+        "sourceUrl": "https://iep.utm.edu/hick/",
+        "verification": "corroborated",
+        "sawWhat": "snippet",
+        "original": {
+          "text": "we are led to postulate the Real an sich as the presupposition of the veridical character of this range of forms of religious experience",
+          "language": "en"
+        }
+      }
+    },
+    {
+      "heading": "Ce que le test de l'étranger n'est pas",
+      "oneLine": "C'est une proposition sur la façon d'examiner une croyance, non un argument établissant qu'elle est fausse — et les deux camps la lisent à peu près aussi souvent dans ce sens-là.",
+      "text": "Les chrétiens lisent le test comme disant « supposez votre foi fausse et voyez si vous pouvez la reconstruire », ce qui serait en effet une procédure truquée, et ils le rejettent pour cela. Les athées le citent comme si le réussir ou l'échouer équivalait à être vrai ou faux, ce qui n'est pas le cas : une tradition pourrait survivre au test et avoir tort, ou l'échouer et avoir raison.\n\nCe que le test propose en fait est un critère de cohérence. Le degré d'examen que vous jugez approprié pour évaluer une religion que vous ne tenez pas — et chacun en a un, et l'applique avec assurance — est le degré que vous devriez appliquer à celle que vous tenez.\n\nÉnoncé ainsi, il est difficile à rejeter et d'autant plus modeste. Sa force vient entièrement du constat que presque personne ne le fait, et que l'asymétrie, quand on la signale, n'est d'ordinaire pas défendue mais simplement pas remarquée."
+    }
+  ],
+  "whereItStands": "Rien ici n'a beaucoup bougé, et la raison en est que les deux camps débattent de choses différentes et le savent tous les deux.\n\nLa thèse démographique n'est pas en litige. L'appartenance religieuse est massivement héritée, les deux camps l'accordent, et le débat porte sur ce qui s'ensuit — question d'épistémologie de la formation des croyances et non de données. La réponse chrétienne selon laquelle l'origine ne détermine pas la vérité est juste et ne répond pas à la forme la plus coupante de l'argument, qui porte sur la fiabilité du processus et non sur la vérité du résultat. La réponse athée selon laquelle le processus produit des sorties contradictoires est juste et ne sélectionne à elle seule contre aucune tradition particulière.\n\nCe qui a changé, c'est le terrain où la question se joue. Il y a un siècle, la réponse chrétienne à « pourquoi celle-là » aurait été la prophétie accomplie et la supériorité morale de l'Occident. Ni l'une ni l'autre ne sert beaucoup aujourd'hui. Le dossier s'est resserré sur la thèse historique de la résurrection, qui a le mérite d'être la thèse dont la tradition elle-même dit que tout dépend — et l'effet de ce resserrement est que cette page et celle de la résurrection sont devenues en grande part le même argument.",
+  "commonMistake": "Les chrétiens répondent le plus souvent à cette question par un argument en faveur du théisme, qui ne l'atteint pas. Tous les arguments des dix premières pages de ce site, accordés en entier, laissent un lecteur avec un créateur et sans tradition. Les produire ici se lit comme n'avoir pas compris la question.\n\nLes athées argumentent le plus souvent contre une version du christianisme que la plupart des chrétiens ne tiennent pas, en traitant la question comme si l'exclusivisme était la seule option sur la table. Cet argument est fort contre la position qu'il nomme et faible contre celle que l'Église catholique enseigne depuis 1965, et l'employer sans voir la différence gaspille sa force.\n\nLes deux camps traitent « toutes les religions ne peuvent pas avoir raison, donc elles ont toutes tort » comme un argument. Ce n'en est pas un : que la plupart des thèses d'un ensemble contradictoire soient fausses est un fait sur l'ensemble, et cela laisse la question de savoir laquelle, s'il en est une, est vraie exactement où elle était.",
+  "sources": [
+    {
+      "title": "Nostra Aetate : déclaration sur l'Église et les religions non chrétiennes",
+      "author": "Concile Vatican II",
+      "year": "1965",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+      "note": "Brève, et l'article 2 est l'énoncé formel de l'inclusivisme catholique."
+    },
+    {
+      "title": "The Outsider Test for Faith",
+      "author": "John W. Loftus",
+      "year": "2013",
+      "url": "https://people.willamette.edu/~ttalbott/Loftus%20OTF2.pdf",
+      "note": "L'article de Loftus énonçant le test, hébergé avec la réponse d'un philosophe."
+    },
+    {
+      "title": "An Enquiry concerning Human Understanding (Enquête sur l'entendement humain), section X, partie II",
+      "author": "David Hume",
+      "year": "1748",
+      "url": "https://davidhume.org/texts/e/10",
+      "note": "L'argument de l'annulation mutuelle, dans la seconde moitié de la section."
+    },
+    {
+      "title": "God Is Not One: The Eight Rival Religions That Run the World",
+      "author": "Stephen Prothero",
+      "year": "2010",
+      "url": "https://www.stephenprothero.com/book/god-is-not-one/",
+      "note": "Un dossier venu des sciences des religions contre le présupposé de la « même montagne ». Prothero discute avec les pluralistes, non en faveur du christianisme."
+    },
+    {
+      "title": "John Hick",
+      "author": "Internet Encyclopedia of Philosophy",
+      "year": "2011",
+      "url": "https://iep.utm.edu/hick/",
+      "note": "L'énoncé bref le plus clair de l'hypothèse pluraliste et des objections classiques qu'on lui fait."
+    },
+    {
+      "title": "Life After Faith: The Case for Secular Humanism",
+      "author": "Philip Kitcher",
+      "year": "2014",
+      "url": "https://ndpr.nd.edu/reviews/life-after-faith-the-case-for-secular-humanism/",
+      "note": "Le lien pointe vers une recension plutôt que vers le livre : l'argument de symétrie de cette page est résumé d'après des descriptions, non d'après le texte."
+    }
+  ]
+}
